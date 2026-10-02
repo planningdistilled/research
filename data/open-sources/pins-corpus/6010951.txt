@@ -1,0 +1,279 @@
+Appeal Decision
+Site visit made on 11 August 2026
+by F Bradley BRP (NZ) MRTPI
+an Inspector appointed by the Secretary of State
+Decision date: 1st October 2026
+
+
+Appeal Ref: 6010951
+Land north of the Bower House, Clatterbury Lane, Clavering, Saffron Walden
+CB11 4QR
+•   The appeal is made under section 78 of the Town and Country Planning Act 1990 (as amended)
+    against a refusal to grant planning permission.
+•   The appeal is made by Julia Perry against the decision of Uttlesford District Council.
+•   The application ref is UTT/26/0506/FUL.
+•   The development proposed is described as the erection of one self-build dwelling with cartlodge,
+    altered vehicle access and associated landscaping.
+
+Decision
+1. The appeal is dismissed.
+Preliminary Matters
+2. Matters relating to flooding were not included as a reason for refusal on the
+   Council’s decision notice. Nonetheless as this was capable of being a material
+   consideration in my determination of the appeal, I sought the parties’ views on the
+   application of the sequential test given that part of the site is within Flood Zones 2
+   and 3. The appellant provided a response which concludes that the sequential test
+   is not required but no response was received from the Council. As the Council and
+   appellant have been afforded the opportunity to comment on this matter, no party
+   would be prejudiced, and I have therefore determined the appeal on this basis.
+3. The proposal is indicated as being for a self-build dwelling and therefore could
+   benefit from the self-build and custom build exemption from biodiversity net gain
+   (BNG) provided for in the Biodiversity Gain Requirements (Exemptions)
+   Regulations 2024. A unilateral undertaking (UU) was submitted with the appeal to
+   secure the proposal as a self-build dwelling. I return to this matter below.
+4. During this appeal, a new National Planning Policy Framework (the Framework)
+   was published on 17 August 2026. The parties were given an opportunity to
+   comment on the implications of the revised Framework for the appeal. The
+   appellant provided a response, and I have taken their comments into account in
+   reaching my decision. No response was received from the Council.
+5. I have included the site’s postcode in the site address above to more accurately
+   identify its location.
+
+
+
+
+https://www.gov.uk/planning-inspectorate
+Appeal Decision 6010951
+
+
+Main Issues
+6. The main issues are whether the proposed development would:
+         •     be in a suitable location for new housing having regard to flood risk;
+         •     satisfy the requirements of the statutory framework for BNG; and
+         •     be in a suitable location for new housing having regard to the development
+               plan.
+Reasons
+Flood risk
+7. The eastern part of the site, which includes the access onto Clatterbury Lane, is
+   located within Flood Zones 2 and 3 in respect of fluvial flooding. The remainder of
+   the site, including where the proposed dwelling would be sited, is within Flood Zone
+   1. The site is at low risk of surface water flooding.
+8. No sequential test has been undertaken by the appellant and the Council did not
+   refer to the sequential test in its reasons for refusal or its officer report.
+   Notwithstanding this, it is my duty to consider whether the proposal complies with
+   the national and local policy requirements.
+9. Core Policy 36 of the Uttlesford Local Plan 2021-2041 (the LP) requires all
+   development proposals to follow the sequential approach and, among other things,
+   provide safe access and egress for future users of the development and an
+   appropriate emergency evacuation plan where appropriate.
+10. Policy F5 of the Framework sets out that the aim of the sequential test is to steer
+    new development to areas with the lowest risk of flooding from any source. Where
+    the test applies, development proposals should not be located in areas at risk of
+    flooding where alternative sites, appropriate for the development, are reasonably
+    available in areas with a lower risk of flooding. Part 2 of the policy sets out
+    circumstances where the sequential test is not required, and I will return to this
+    below.
+11. The application is supported by a Flood Risk Assessment (FRA) which indicates
+    the maximum flood level for a 1 in 100 flooding event, plus 35% allowance for
+    climate change, is 85.800 AOD. Given the access level of 85.118 AOD, flood
+    depths of approximately 682mm could occur across the access route.
+12. The appellant contends that the depth of floodwater would not prevent access by
+    emergency vehicles and that the adjacent byway would allow access to and from
+    the site in the worst-case flood conditions. However, no substantive evidence has
+    been submitted to support these claims. While the FRA sets out proposed
+    mitigation measures including a flood evacuation plan, it does not demonstrate how
+    the site could be safely accessed or provide definitive escape routes in a flooding
+    event. Accordingly, it has not been demonstrated that the development would be
+    safe for its anticipated lifetime. For these reasons, I find that the proportionate
+    approach referred to in the Planning Practice Guidance1 (PPG) in requiring the
+    sequential test to be undertaken should not be applied in this case.
+
+1
+    Paragraph: 027 Reference ID: 7-027-20220825
+
+
+https://www.gov.uk/planning-inspectorate          2
+Appeal Decision 6010951
+
+
+13. Part 2 of Policy F5 of the Framework states that the sequential test should be used
+    in areas known to be at risk now or in the future from any form of flooding, unless
+    one of a number of circumstances applies. Part 2(b)(i) is not met as built
+    development within the site boundary, including access or escape routes, would be
+    located in an area that would be at risk of flooding from any source, now and in the
+    future (having regard to potential changes in flood risk). Part 2(b)(ii) is not relevant
+    as it relates only to sites at risk of surface water flooding. As the site is not allocated
+    in the LP, part (a) is also not relevant. None of the circumstances identified in part
+    (c) apply in this case.
+14. The appellant has referred to two High Court cases in support of the appeal. The
+    first judgment2 found that the sequential test should not be interpreted in a highly
+    specific way and that there is a need for flexibility. As the sequential test had been
+    applied in that case, I am not persuaded this case is relevant to the appeal. In the
+    second judgment3 the Court held that the Inspector erred in law by treating the
+    absence of a sequential test as fatal to the application without carrying out any
+    proper or meaningful balance with the development plan and Framework, and the
+    other material considerations. I address the weight given to the absence of a
+    sequential test and the unacceptable flood risk on the site as part of the planning
+    balance below.
+15. To conclude, no sequential test has been undertaken, and I have not been
+    provided with sufficient evidence to demonstrate that there are no reasonably
+    available sites at a lower risk of flooding capable of accommodating the proposed
+    development. Furthermore, the submitted evidence does not satisfactorily
+    demonstrate that the proposed layout, design and any mitigation measures would
+    ensure the safety of future occupiers and users for the lifetime of the development.
+    Consequently, I am not satisfied that the site is in a suitable location for housing
+    having regard to flood risk. The proposal would therefore conflict with Core Policy
+    36 of the LP and Policies F4 to F7 of the Framework which collectively seek to
+    direct development away from areas at highest risk of flooding and ensure that
+    development is safe for its lifetime without increasing flood risk elsewhere.
+Self-build and BNG provision
+16. The Environment Act 2021 introduced BNG as a statutory requirement. Where
+    applicable, it is secured through a statutory planning condition intended to ensure a
+    minimum 10% increase in biodiversity value. Compliance with this statutory regime
+    is a material consideration for the decision maker, as failure to do so could
+    undermine both its effective implementation and the wider biodiversity objectives it
+    seeks to achieve. Core Policy 40 of the LP requires development proposals to
+    provide a minimum of 20% BNG, unless it can be clearly demonstrated that
+    provision in excess of the statutory minimum 10% would make development
+    unviable.
+17. Article 7 of the Town and Country Planning (Development Management Procedure)
+    (England) Order 2015 requires an application for planning permission to be
+    accompanied by a statement confirming whether the development would be subject
+    to the statutory BNG condition and, if not, the reasons for that belief.
+
+
+2
+ Mead Realisations Ltd v Secretary of State for Levelling Up, Housing and Communities [2024] EWHC 279
+3
+ Gladman v Secretary of State for Homes, Communities and Local Government (1) Lancaster City Council (2) [2026] EWHC 51
+(Admin)
+
+
+https://www.gov.uk/planning-inspectorate             3
+Appeal Decision 6010951
+
+
+18. The appeal is supported by a UU to secure the proposal as self-build housing and
+    so the proposal would not be required to secure BNG for which provision has not
+    been made. However, there are numerous issues with the UU as submitted
+    including: it is not accompanied by any evidence of title; it does not include the site
+    plan in Schedule 1; it makes no provision to ensure that the dwelling is occupied by
+    those who have commissioned it for a reasonable period of time; and it contains
+    numerous errors including references to dwellings and plots in the plural and to
+    reserved matters when the application is for full planning permission for a single
+    dwelling. On the basis of what is before me I am not satisfied that the development
+    can be considered to be custom or self-build and the proposal has also failed to
+    demonstrate that it would make appropriate provision for BNG.
+19. The appellant has drawn my attention to two appeal decisions 4 for self-build
+    dwellings in which, respectively, the Inspectors gave positive significant and
+    substantial positive weight to the self-build elements of the schemes. For the
+    reasons set out above, the scheme has not been secured as a self-build dwelling
+    therefore it is not a benefit of the scheme.
+20. To conclude, the proposed development fails to satisfy the requirements of the
+    statutory framework for BNG and conflicts with Core Policy 40 of the LP which
+    requires all development proposals to demonstrate a minimum of 20% BNG.
+Suitable location having regard to the development plan
+21. Core Policy 3 of the LP sets out the settlement hierarchy for the district within which
+    Clavering is classified as a larger village. The policy states that there is a
+    presumption in favour of sustainable development within the existing built area of
+    key settlements, local rural centres and larger villages. Development outside the
+    existing built areas of these settlements will only be permitted where it is allocated
+    in the LP or within a Made Neighbourhood Development Plan. Clavering does not
+    have a defined settlement boundary therefore consideration of whether the site falls
+    within the built area of the village is a matter of planning judgement.
+22. The appeal site comprises a grassed field served by an existing access.
+    Agricultural fields lie to the north and west. Residential properties are located
+    immediately to the south and on the opposite side of Clatterbury Lane to the east.
+    The village does not have a tightly defined or readily discernible settlement pattern,
+    being characterised instead by a dispersed form of development extending across
+    a relatively wide area.
+23. Having regard to its relationship with the adjoining residential properties to the
+    south and east, the site is perceived as forming part of the built area within the
+    village. It does not perform the role of a distinct gap within the settlement. The siting
+    of the proposed dwelling would align with the existing dwelling to the south, and the
+    site derives a degree of containment from that property and the established tree
+    belt along its northern boundary. Consequently, the proposal would reflect and
+    reinforce the predominantly linear pattern of development that characterises this
+    part of the village.
+24. For the above reasons, I find that the site is within the built area of Clavering where
+    the presumption in favour of development applies under Core Policy 3 of the LP.
+    This is consistent with Policy S4 of the Framework which states that development
+
+4
+    APP/R3650/W/22/3300262 and APP/C1570/W/25/3365969
+
+
+https://www.gov.uk/planning-inspectorate          4
+Appeal Decision 6010951
+
+
+     proposals within settlements should be approved unless the benefits of doing so
+     would be substantially outweighed by any adverse effects, when assessed against
+     the national decision-making policies in the Framework.
+25. A footway opposite the site provides pedestrian access to a range of services and
+    facilities located both to the north and south. The site lies within reasonable walking
+    distance, being less than one kilometre, from a primary school, public houses, the
+    village hall, the village supermarket and other local shops and services. In addition,
+    nearby bus stops provide services to surrounding villages and the larger
+    settlements of Saffron Walden and Bishop’s Stortford. Whilst the roads are unlit,
+    the presence of footways and the 30 miles per hour speed limit assists in making
+    the routes reasonably accessible for pedestrians and cyclists. The location would
+    be attractive for different users and make the most of existing and proposed
+    transport infrastructure and would, accordingly, be in a sustainable location.
+26. In conclusion, the site is in a suitable location for new housing having regard to the
+    development plan’s spatial approach. Development in this location would be
+    consistent with Core Policy 3 of the LP which provides for sustainable development
+    within the existing built area of key settlements, local rural centres and larger
+    villages. It is also consistent with Core Policies 26, 27 and 28 of the LP which,
+    taken together, seek to ensure developments should be located close to key
+    services and facilities and promote walking, cycling and access to public transport.
+27. Development Policy 1 is referred to in the Council’s second reason for refusal and
+    provides for new dwellings in the open countryside. As I have found the site to be
+    within the built area of Clavering, this policy is not therefore relevant.
+Planning Balance and Conclusion
+28. The development proposal would be located in an area at risk of flooding. As no
+    sequential test has been carried out, I have found there would be conflict with
+    policies in the development plan and the Framework which seek to locate new
+    homes in areas of low risk of flooding and substantial weight is attached to this
+    adverse effect.
+29. Despite the proposal being indicated for a self-build home, the absence of a
+    mechanism to secure the dwelling for this specific purpose means that this is a
+    factor that does not weigh in support of the proposal. The consequent failure to
+    comply with the statutory provisions for BNG attracts significant weight.
+30. The Council has confirmed it can only demonstrate a housing land supply of 4.77
+    years. Substantial weight is given to the provision of a new dwelling in accordance
+    with the Framework, with the proposal providing a modest contribution to the
+    Council’s housing supply.
+31. Some biodiversity enhancements, separate to BNG, are proposed in the submitted
+    Preliminary Ecological Appraisal including the provision of bat and bird boxes and
+    native hedgerow enhancements. A new pond and tree planting is also proposed
+    which would provide further biodiversity enhancements. Economic benefits would
+    result from the construction of the proposal, as well as from future occupiers
+    supporting local services and facilities. Taken together, these benefits of the
+    scheme attract moderate weight in favour of the proposal.
+
+
+
+
+https://www.gov.uk/planning-inspectorate   5
+Appeal Decision 6010951
+
+
+32. The site lies within a settlement where Policy S4 of the Framework establishes a
+    presumption in favour of development. However, the adverse effects and policy
+    conflicts identified in relation to flood risk and BNG are considerable and weigh
+    heavily against the proposal, such that they substantially outweigh the benefits of
+    the proposal.
+33. In conclusion, the proposal conflicts with the development plan taken as a whole.
+    Material considerations, including the Framework, do not indicate that a decision
+    should be taken other than in accordance with the development plan. Accordingly,
+    the appeal is dismissed.
+
+F Bradley
+INSPECTOR
+
+
+
+
+https://www.gov.uk/planning-inspectorate   6
+

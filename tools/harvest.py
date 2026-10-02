@@ -484,7 +484,8 @@ def main():
         refresh_cases(s)
         if built:
             s['cases']['builtAt'] = built
-    save_state(s)
+    if a.cmd != 'status':  # status is read-only: it reports refreshed figures without writing state.json
+        save_state(s)
     if a.cmd != 'status':
         log_run(a.cmd, {k: v for k, v in vars(a).items() if k != 'cmd'}, deltas, t0)
     if a.cmd in ('status', 'all'):

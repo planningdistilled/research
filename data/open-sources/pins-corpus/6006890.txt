@@ -1,0 +1,407 @@
+Appeal Decision
+Site visit made on 28 May 2026
+by N Teasdale BA (Hons) DipTP MRTPI
+an Inspector appointed by the Secretary of State
+Decision date: 1st October 2026
+
+
+Appeal Ref: 6006890
+147 Eastcote Lane, Harrow, HA2 8RR
+•      The appeal is made under section 78 of the Town and Country Planning Act 1990 (as amended)
+       against a refusal to grant outline planning permission.
+•      The appeal is made by Marlpark 71 HA4 Ltd against the decision of the Council of the London
+       Borough of Harrow.
+•      The application Ref is PL/2018/25.
+•      The development proposed is application for outline planning consent (access reserved) for the
+       demolition of garage to the rear of 147 Eastcote Lane and the erection of a new 2 storey house. All
+       matters reserved save for scale, layout, appearance and landscaping.
+
+Decision
+1.      The appeal is dismissed.
+Applications for costs
+2.      An application for costs was made by Marlpark 71 HA4 Ltd against the Council of
+        the London Borough of Harrow. This application is the subject of a separate
+        decision.
+Preliminary Matters
+3.      The planning application is submitted in outline with all matters reserved for a
+        subsequent reserved matters application save for scale, layout, appearance and
+        landscaping. The proposed development is shown on the Proposed Site Plan.
+        However, matters relating to access are not before me and I have determined the
+        appeal accordingly.
+4.      There are two other appeals on this site relating to different schemes1. I am the
+        Inspector appointed to determine all three appeals.
+5.      The Government published a revised version of the National Planning Policy
+        Framework (the Framework) on 17 August 2026. There have been significant
+        amendments made against the 2024 version, and the parties have had the
+        opportunity to comment on the changes in relation to this appeal.
+6.      Planning Law requires that applications for planning permission be determined in
+        accordance with the development plan, unless material considerations indicate
+        otherwise. The decision notice cites policies contained within the Harrow Core
+        Strategy, 2012 (CS) and the Harrow Development Management Policies Local
+        Plan, 2013. During the determination of this appeal, the London Borough of
+        Harrow Local Plan 2021-2041, 2026 (LP) has been adopted and thus has
+
+1
+    6005188 and 6004526.
+
+https://www.gov.uk/planning-inspectorate
+Appeal Decision 6006890
+
+
+         superseded the policies contained within the CS and Development Management
+         Policies Local Plan. I have been provided with the relevant policies and
+         determined this appeal accordingly.
+Main Issues
+7.       The main issues are:
+             •    The effect of the proposed development on biodiversity; and
+             •    Whether residential development would be suitably located having regard to
+                  the development plan policies governing such proposals.
+Reasons
+Biodiversity
+8.       The appeal site is located on the southern side of Eastcote Lane, adjacent to the
+         crossroads with Alexandra Avenue and comprises a two-storey detached property,
+         with a garage at the rear. To the west is 149 Eastcote Lane, which comprises a
+         detached dwelling. To the east, the site adjoins public land running along
+         Alexandra Avenue. The appeal site effectively comprises two parcels of land which
+         are now under the same ownership. The first being the existing detached dwelling,
+         garden and detached garage and the second being a former grassed strip of land
+         which, at my site visit, was covered in gravel with planting along its boundary.
+9.       In England, Biodiversity Net Gain (BNG) is required under a statutory framework
+         introduced by Schedule 7A of the Town and Country Planning Act 1990 (inserted
+         by the Environment Act 2021) (the Act). Development must deliver at least a 10%
+         increase in biodiversity value relative to the pre-development biodiversity value of
+         the onsite habitat. This increase can be achieved through onsite biodiversity gains,
+         registered offsite biodiversity gains or statutory biodiversity credits. In summary,
+         this requires development to result in more, or better-quality, natural habitat than
+         there was before development.
+10. The proposed development would be located partially on the footprint of the
+    existing garage and partially on the grassed area of the rear garden. The appellant
+    claims that the proposal falls below the 25 square metre de minimis threshold, but
+    this is disputed by the Council. Planning Practice Guidance (PPG)2 explains that
+    when providing reasons for the de minimis exemption, an applicant should provide
+    sufficient evidence to support their justification. The plans before me do not clearly
+    identify the area of onsite habitat to be affected by the proposals. Given this
+    uncertainty, I cannot be confident of the calculations.
+11. The appellant explains that the existing garage and sealed hardstanding extend
+    approximately 8 metres from the rear boundary into the site. The proposed
+    dwelling would be positioned with its rear elevation 5 metres from the rear
+    boundary. The proposed dwelling has a depth of 6.85 metres and accordingly, the
+    building extends to 11.85 metres from the rear boundary. It is claimed that the
+    extent of encroachment beyond the existing developed area (8 metres) would
+    therefore be 3.85 metres. Multiplied by the building width (7.65 metres), this would
+    produce an affected area of 29.45 square metres.
+
+
+2
+    Paragraph: 004 Reference ID: 74-004-20240214
+
+
+https://www.gov.uk/planning-inspectorate           2
+Appeal Decision 6006890
+
+
+12. Even if I were to accept the appellant’s calculations, the affected area would still
+    be above the 25 square metres de minimis threshold. The statutory BNG
+    requirements are therefore engaged. I note the appellant’s argument regarding
+    restoring the same grassland habitat type to the area presently occupied by the
+    structure to be demolished. However, the de minimis exemption applies strictly to
+    the total area of habitat impacted by the development. It does not look at the net
+    outcome or how much habitat is intended to be restored. In light of this, the
+    proposed development would require at least 10% BNG. There is a lack of detail
+    submitted to establish the pre-development biodiversity value of the site or to show
+    how a measurable net gain would be delivered.
+13. The appellant suggests a planning condition to be imposed securing BNG
+    compliance and that the Council has formulated a condition in relation to a
+    different scheme for the site under consideration. Such a condition requires
+    submission and approval of a Biodiversity Gain Plan in accordance with the
+    DEFRA template, including baseline and post-development biodiversity values,
+    and any off-site provision or biodiversity credits.
+14. The PPG3 explains that when determining a planning application, BNG will often
+    be a material consideration, and local planning authorities will want to consider,
+    where relevant, whether the biodiversity gain condition is capable of being
+    discharged successfully through the imposition of conditions and agreement of
+    section 106 planning obligations to secure significant onsite biodiversity gains and
+    registered offsite biodiversity gains. The aims specified in the suggested condition
+    would therefore be met by the biodiversity gain condition, which the development
+    would be subject to.
+15. In such circumstances, PPG4 explains that the application must be accompanied
+    by the minimum information set out in Article 7 of The Town and Country Planning
+    (Development Management Procedure) (England) Order 2015. Amongst others,
+    this includes the pre-development biodiversity value(s) and the completed metric
+    calculation tool showing the calculations of the pre-development biodiversity value
+    of the onsite habitat. Based on the evidence before me, I cannot be confident of
+    the pre-development biodiversity value of the site or how a measurable net gain
+    would be delivered. Consequently, I am not sufficiently satisfied that the
+    biodiversity gain condition is capable of being successfully discharged.
+16. I am aware that the Council has recently granted planning permission for the
+    erection of two detached single storey dwellings on the former grassed strip of
+    land5. The appellant claims that matters relating to BNG were able to be controlled
+    by condition and thus the same should apply to this appeal. I understand that the
+    information submitted for that scheme was sufficient to enable officers to assess
+    the BNG baseline to ascertain that 10% uplift could be provided and controlled via
+    planning condition. In contrast, this scheme fails to provide such information.
+17. For the above reasons, I conclude on this issue that the proposed development
+    fails to demonstrate how it would achieve the statutory minimum 10% BNG, as
+    required by the Act. In the absence of this information, I cannot be satisfied that
+    the proposed development would not result in a net loss of biodiversity or that it
+    would deliver the required net gain. The proposed development would therefore be
+
+3
+  Paragraph: 002 Reference ID: 74-002-20240214
+4
+  Paragraph: 011 Reference ID: 74-011-20240214
+5
+  PL/0427/26
+
+
+https://www.gov.uk/planning-inspectorate         3
+Appeal Decision 6006890
+
+
+       contrary to Policy G6 of the London Plan, 2021 and Policy GI3 of the LP. Together,
+       amongst other matters, such policies seek to manage impacts on biodiversity and
+       aim to secure net biodiversity gain. For the same reasons, the proposed
+       development would also be contrary with Policy N2 of the Framework relating to
+       improving the natural environment.
+Location
+18. Policy GR10 of the LP explains that proposals on Infill, backland sites, non-
+    designated open space, garden land and garage sites will be supported subject to
+    two criteria. Criteria (a) relates to the design of such proposals, but no such conflict
+    has been identified by the Council, so it is not determinative in this appeal. Criteria
+    (b) requires that the development makes a comprehensive use of land, taking into
+    account the potential for redevelopment on surrounding parcels. It clarifies that
+    housing on garden land on individual plots will not generally be considered to be
+    comprehensive.
+19. The supporting text to Policy GR10 explains that residential gardens are a strong
+    element of suburban character and are an important component of the quality of
+    life enjoyed by many Harrow residents. It explains that residential properties with
+    individual rear gardens are a predominant characteristic, where any built
+    development is of a single storey and ancillary in use to the main residential
+    dwelling on the site. Individually, new development that exceeds this height and /
+    or is independent to the principal residential use of the site, has a detrimental
+    impact on the use of the property and the character of the area. The Council
+    discourages ad hoc planning applications to individual rear gardens, which can
+    lead to the incremental erosion of suburban character.
+20. The supporting text also explains that where site assembly has been secured and
+    a number of rear gardens propose a comprehensive development, subject to
+    compliance with any subsequent Small Sites Design Code / SPD and this policy,
+    they may be supported. What constitutes a comprehensive development in terms
+    of the number of sites, will be determined on a case-by-case basis. This will be
+    assessed by the scale of development (number of units) and the overall site size,
+    as these factors determine the impact that a development is likely to have on the
+    wider area, and the planning benefits it would deliver.
+21. The policy does not define what constitutes garden land development, but the
+    Council’s Supplementary Planning Document: Garden Land Development, 2013
+    (SPD) provides further interpretation of this. It defines garden land as any land
+    within the curtilage of a building, the principal use of which is residential.
+22. The definition includes gardens of houses and any hardstandings, outbuildings
+    and other structures located on the garden land. No distinction is made between
+    front, side and rear gardens. Paragraph 3.5 of the SPD explains that garden land
+    development means any development on garden land that results in the formation
+    of one or more new dwellings (houses or flats).
+23. Paragraph 2.3 of the SPD explains that there is a presumption against garden land
+    development to ensure that the borough’s housing growth is delivered in
+    accordance with the spatial strategy, set out in the CS by preventing incremental
+    residential growth on (greenfield) garden land leading to a harmful degree of
+    dispersal. Although the CS has been superseded, I am not persuaded that the
+    SPD’s definition of garden land development should not now be applied to the
+
+https://www.gov.uk/planning-inspectorate   4
+Appeal Decision 6006890
+
+
+        relevant policies of the new LP. Moreover, it remains generally consistent with
+        Policy GR10 given that there is still a presumption against garden land
+        development unless certain criteria are met.
+24. The SPD does not form part of the Council’s statutory development plan, but it
+    remains relevant to the interpretation of garden land development and application
+    of policy. It is therefore a material consideration applicable to this case.
+25. The proposed development does not fall into any of the categories outlined at
+    paragraph 3.6 of the SPD and therefore does not benefit from the exceptions
+    outlined at paragraph 3.7 given that these specifically relate to the conversion or
+    redevelopment of the existing home.
+26. As set out, the proposed dwelling would be situated partially on the footprint of the
+    existing garage and within the existing garden of 147 Eastcote Lane (No 147). The
+    new dwelling would also marginally extend into the adjoining former grassed strip
+    of land to provide parking spaces. The proposed development would therefore fall
+    within the definition of garden land development and would only be supported by
+    Policy GR10 of the LP where it meets the relevant criteria set out above.
+27. The small-scale nature of the proposals and its site size cannot reasonably be
+    considered as making a comprehensive use of land. In my view, and based on the
+    supporting text of the policy, comprehensive use of land ensures that individual
+    parcels are not developed in isolation. Instead, it requires consideration of the
+    entire area’s potential including site size and scale of development. This will
+    determine the impact that a development is likely to have on the wider area, and
+    the planning benefits it would deliver.
+28. While the red line boundary encompasses parts of two plots, the majority of
+    development is confined to the rear garden area of No 147 and thus would fall
+    within the type of development not considered to be comprehensive. I do not
+    dispute that the word ‘generally’ implies that a level of flexibility can be applied.
+    However, based on the evidence before me, the proposals would not make a
+    comprehensive use of land as required in order to be supported by local policy.
+29. The proposed development would result in garden land development which would,
+    by its nature, result in incremental residential growth on garden land. This would
+    lead to a harmful degree of dispersal and the erosion of suburban character that
+    Policy GR10 and the SPD seek to resist. It would therefore be contrary to Policy
+    GR10 of the LP and the SPD.
+30. My findings are consistent with those of a previous Inspector who dismissed a
+    detached dwelling at the rear of the site in 20236. There remains a presumption
+    against garden land development unless certain criteria are met. While the effect
+    of the appeal proposal alone would be modest, such individual and small-scale
+    proposals could contribute to more cumulative effects, if repeated. I consider this
+    could prejudice the aims against unmanaged, incremental growth at odds with the
+    LP and SPD.
+
+
+
+
+6
+    APP/M5450/W/22/3307386
+
+
+https://www.gov.uk/planning-inspectorate   5
+Appeal Decision 6006890
+
+
+31. The appeal site has an extensive planning history, and I note the large number of
+    planning appeals7 cited by the appellant as well as the appellant’s claims that the
+    SPD was applied more flexibly elsewhere. While I have considered such matters, I
+    find that the other schemes on the land would have been subject to different
+    considerations and overall assessment particularly given their nature and location
+    within the site. They would be read differently to that of the appeal scheme, and
+    some would indeed be ancillary to the main property unlike the appeal scheme.
+    Further, and while the proposed development would preclude some of the extant
+    permissions from coming forward due to their positioning within the site, I am not
+    satisfied that this development would preclude all other permissions and I have no
+    mechanism/guarantee to suggest otherwise. I am not therefore convinced that the
+    scheme would consolidate development into a single building.
+32. The planning history would not be a precedent to allow development on garden
+    land nor justify the identified conflict with the LP in relation to a standalone building
+    for a two-storey house within the rear garden of No 147, where no such permission
+    exists. While the proposal may amount to a smaller increase in footprint than
+    alterations approved for No 147, this does not qualify as a replacement dwelling
+    and enlargement under paragraph 3.6 of the SPD, or a reasonable enlargement of
+    a dwelling under paragraph 3.7. It would therefore not benefit from these
+    exceptions.
+33. The planning appeals cited are also different to the one before me. They appear to
+    have largely been assessed as either conversion or redevelopment of the existing
+    home. Those schemes fall within paragraph 3.6 and subsequently 3.7 of the SPD,
+    which relate to what is not garden land development and thus are subject to a
+    different overall assessment. The scheme before me does not relate to the existing
+    home and those decisions do not alter my findings that paragraphs 3.6 and 3.7 are
+    not applicable in this case. Further, the cited appeals are not in the same location
+    or context, do not relate to this scheme and also pre-date Policy GR10 of the LP.
+    Their overall considerations and assessments are therefore different, so are not
+    directly comparable to the scheme before me, which I have assessed based on its
+    own merits.
+34. When considering development on the site directly opposite the appeal site at
+    143–145 Eastcote Lane and 172A Alexandra Avenue, those proposals were
+    subject to a detailed assessment against the methodology contained within the
+    SPD relating to redevelopment and enlargement. This is indeed different to the
+    scheme before me. An element of judgement is necessary when applying the SPD
+    aims and the development plan must be read as a whole. However, I find that, as
+    the proposal relates to garden land development, it would result in incremental
+    residential growth of the type Policy GR10 and the SPD seek to resist.
+35. I have considered Policy H2 of the London Plan, 2021 which relates to small sites,
+    but do not find there to be a conflict with this policy and the SPD because they
+    target different types of small sites and operate under distinct qualifying criteria.
+    Policy H2 supports small sites below 0.25 hectares to boost housing, but it does
+    not grant a universal right to build on residential back gardens. The SPD seeks to
+    clarify local plan policies in relation to garden land development. Policy HO3 of the
+    LP supports the use of small housing sites but the supporting text specifically
+7
+ APP/M5450/W/22/3303368; APP/M5450/W/22/3313970; APP/M5450/W/18/3213211; APP/M5450/W/20/3263725;
+APP/M5450/W/20/3265811; APP/M5450/W/21/3289022; APP/M5450/W/19/3224655; APP/M5450/W/19/3243513;
+APP/M5450/W/24/3346145; APP/M5450/W/24/3340807
+
+
+https://www.gov.uk/planning-inspectorate       6
+Appeal Decision 6006890
+
+
+       explains that proposals will need to demonstrate consideration of Policy GR10 of
+       the LP.
+36. As set out earlier, there have been significant amendments made to the
+    Framework against the 2024 version which I have had due regard to. Chapter 12
+    of the Framework relates to making effective use of land where the objective is to
+    promote the effective use of land in meeting the need for homes and other uses,
+    while safeguarding and improving the environment and ensuring safe and healthy
+    living conditions.
+37. Policy L2 of the Framework explains that substantial weight should be given to the
+    benefits where a development proposal would achieve amongst others, creating
+    additional homes or floorspace within settlements through additional development
+    within existing plots (including, but not limited to, additional units within residential
+    curtilages). The Framework sets out some compliance criteria for such proposals
+    and requires amongst others, that where the development would involve the use of
+    residential curtilages, it would not occupy more than twice the footprint of all the
+    existing buildings on the site, and, following development, would retain at least
+    50% of the non-developed area within the curtilage of the existing buildings. Based
+    on the evidence before me, I am satisfied that the proposed development would
+    comply with this criterion. The other criteria are either not in dispute or subject to
+    the subsequent reserved matters application and thus is not for consideration at
+    this stage. The proposed development can however be reasonably considered as
+    being broadly capable of meeting Policy L2 criteria.
+38. It is clear that the Framework supports the delivery of additional housing within
+    settlements, including through the development of existing residential plots subject
+    to meeting certain criteria. Parts of the criteria are different to those set out in
+    Policy GR10 of the LP and can be reasonably described as less restrictive. Criteria
+    (b) of Policy GR10 only supports development on garden land where development
+    makes a comprehensive use of land, taking into account the potential for
+    redevelopment on surrounding parcels. This part of the policy is therefore
+    materially inconsistent with the Framework’s national decision-making policies.
+39. Annex A of the Framework makes clear that development plan policies, or parts of
+    those policies, that are materially inconsistent with national policy should be given
+    very limited weight. Consequently, very limited weight should be attached to
+    criteria (b) of Policy GR10 and the associated SPD relating to garden land
+    development.
+40. While the proposal is technically in conflict with criteria (b) of Policy GR10 of the
+    LP and the SPD, that conflict carries very limited weight because the policies are
+    not aligned with the Framework. In contrast, substantial weight should be given to
+    the Framework’s support for the effective use of land and the delivery of new
+    homes within residential curtilages. Taking these considerations into account as
+    well as its broad compliance with Policy L2 of the Framework, the proposed
+    development would be suitably located and would accord with the objectives of the
+    Framework. The location of the proposed development would therefore attract
+    substantial support in principle.
+Planning Balance and Conclusion
+41. Policy S3 of the Framework explains that decisions on development proposals
+    should apply a presumption in favour of sustainable development. Policy S4
+
+https://www.gov.uk/planning-inspectorate   7
+Appeal Decision 6006890
+
+
+       explains that development proposals within settlements should be approved
+       unless the benefits of doing so would be substantially outweighed by any adverse
+       effects, when assessed against the national decision-making policies in the
+       Framework.
+42. The provision of residential development would be a benefit, and I acknowledge
+    local and national policies relating to housing supply, small sites and effective use
+    of land. To this end, the proposed development would create an additional unit
+    within the residential curtilage of No 147. In accordance with the Framework, I
+    attribute substantial weight to the benefits of the scheme.
+43. Whilst I have found that the proposed development would be suitably located and
+    would accord with the objectives of the Framework in this regard, I have found that
+    the proposed development fails to demonstrate how it would achieve the statutory
+    minimum 10% BNG, as required by the Act. This is a legal mandate and if the
+    minimum statutory requirements are not met, then I do not have the legal authority
+    to grant permission. This failure constitutes a severe environmental harm which is
+    of such overriding importance that it substantially outweighs the benefits of the
+    scheme when assessed against the national decision-making policies in the
+    Framework.
+44. Other matters not in dispute do not weigh in favour of the scheme and are neutral
+    factors in my overall decision.
+45. Bringing everything together, the proposed development would conflict with the
+    development plan when considered as a whole. The material considerations do
+    not, either individually or in combination, indicate that the appeal should be
+    determined otherwise than in accordance with the development plan. Accordingly,
+    I conclude that the appeal should be dismissed.
+
+N Teasdale
+INSPECTOR
+
+
+
+
+https://www.gov.uk/planning-inspectorate   8
+

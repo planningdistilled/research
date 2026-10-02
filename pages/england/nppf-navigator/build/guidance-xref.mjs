@@ -29,6 +29,13 @@ const INTERNAL = /\bbatch\b|reader proxy|r\.jina|WebFetch|direct fetch|Internet 
 // Unchecked claims that a source is silent on something are left out of public summaries.
 const SILENCE = /\b(no guidance|says nothing|contains no|gives no|does not (mention|cover|address|discuss|explain)|is silent|nothing (on|about))\b/i;
 
+/** The review's snapshot date: the latest retrieved_on in the corpus (ISO and long form). */
+export function snapshotOf(sources) {
+  const iso = sources.map((s) => s.retrieved).filter(Boolean).sort().pop();
+  if (!iso) throw new Error('guidance: no retrieved_on dates in the corpus');
+  return { iso, long: new Date(`${iso}T12:00:00Z`).toLocaleDateString('en-GB', { day: 'numeric', month: 'long', year: 'numeric', timeZone: 'UTC' }) };
+}
+
 export function loadGuidance(root) {
   const dir = root;
   const checks = JSON.parse(readFileSync(join(dir, 'quotes-check.json'), 'utf8'));
@@ -61,7 +68,7 @@ export function loadGuidance(root) {
     return {
       slug, title: fm.title || slug, url: fm.url || '', publisher: fm.publisher || '', type: (fm.publisher_type || '').split(' ')[0],
       date: /^\d{4}-\d{2}-\d{2}$/.test(fm.date) ? fm.date : '', audience: fm.audience || '', draft: fm.about_draft === 'true',
-      training: fm.is_training === 'true', verification: fm.verification || '', summary, summaryHeld: !summaryOk, stances: st, quotes,
+      training: fm.is_training === 'true', verification: fm.verification || '', retrieved: /^\d{4}-\d{2}-\d{2}$/.test(fm.retrieved_on) ? fm.retrieved_on : '', summary, summaryHeld: !summaryOk, stances: st, quotes,
     };
   });
   const unknown = sources.filter((s) => !TYPES.some(([k]) => k === s.type));
@@ -132,7 +139,7 @@ export function guidanceSummarySection(sources, sourcesUrl) {
     return `<tr><td><code>${id}</code></td><td>${esc(text)}</td><td class="n">${t.agr}</td><td class="n">${t.qual}</td><td class="n">${t.DIS}</td><td>${result}</td></tr>`;
   }).join('\n');
 
-  return `<h3>2.2 Review of published guidance (snapshot 2 October 2026)</h3>
+  return `<h3>2.2 Review of published guidance (snapshot ${snapshotOf(sources).long})</h3>
 <p>We collected the public guidance on applying the August 2026 Framework: government and Planning Inspectorate material, council committee reports and member briefings, barristers' chambers, law firms, planning consultancies, sector and campaign bodies, the trade press and independent writers. Each source was saved, read in full and coded against the nine propositions the Navigator rests on. Every claimed disagreement or qualification was then given to a second reviewer told to knock it down: check the quotation word for word against the saved text, read the context, and recode it if it did not hold.</p>
 <div class="stat">
 <div><b>${n}</b><span>sources found</span></div>
@@ -178,6 +185,7 @@ ${propRows}
 
 // The sources page: every source, grouped by publisher type, with a text and proposition filter.
 export function writeSourcesPage(sources, { outDir, css, navUrl, methodUrl, pageUrl, asOf }) {
+  const snap = snapshotOf(sources);
   const n = sources.length;
   const VER = { 'local-text': 'read; saved copy', 'webfetch-only': 'read online', 'not-retrieved': 'found, not read' };
   const card = (s) => {
@@ -230,7 +238,7 @@ blockquote{margin:6px 0;padding:6px 10px;border-left:3px solid var(--line);font:
 <header>
   <div class="eyebrow"><a href="/" style="color:inherit;text-decoration:none">Planning Distilled</a> &rsaquo; <a href="/research/" style="color:inherit;text-decoration:none">Research</a> &rsaquo; <a href="/research/england/" style="color:inherit;text-decoration:none">England</a> &rsaquo; <a href="${navUrl}" style="color:inherit;text-decoration:none">NPPF 2026 Navigator</a> &rsaquo; <a href="${methodUrl}" style="color:inherit;text-decoration:none">Method</a> &rsaquo; Sources</div>
   <h1>Published guidance on the August 2026 NPPF: all ${n} sources</h1>
-  <p class="dek">Every source reviewed for the Navigator's cross-references, snapshot 2 October 2026: who published it, what it says, and where it stands on the nine propositions the Navigator rests on.</p>
+  <p class="dek">Every source reviewed for the Navigator's cross-references, snapshot ${snap.long}: who published it, what it says, and where it stands on the nine propositions the Navigator rests on.</p>
   <p style="margin-top:12px"><a class="back" href="${methodUrl}">&larr; Back to Method &amp; cross-references</a></p>
 </header>
 <main>
@@ -239,7 +247,7 @@ blockquote{margin:6px 0;padding:6px 10px;border-left:3px solid var(--line);font:
 <div class="filter"><input id="f" type="search" placeholder="Filter by publisher, title or topic" aria-label="Filter sources"><select id="p" aria-label="Filter by proposition"><option value="">Any proposition</option>${Object.entries(PROP_NAMES).map(([k, v]) => `<option value="${k}">${k}: ${esc(v)}</option>`).join('')}</select><span class="q" id="c" aria-live="polite">${n} shown</span></div>
 ${groups}
 </main>
-<footer>Prepared by Planning Distilled. Summaries are ours; quotations are from the publishers' pages and documents as saved on or before 2 October 2026. Generated ${asOf}. Not legal advice.
+<footer>Prepared by Planning Distilled. Summaries are ours; quotations are from the publishers' pages and documents as saved on or before ${snap.long}. Generated ${asOf}. Not legal advice.
 <p class="licence">&copy; Planning Distilled. Text and data on this page are released under the <a rel="license" href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 licence</a>: share and adapt them freely, with credit to Planning Distilled. Quotations remain the copyright of their publishers. Source and data: <a href="https://github.com/planningdistilled/research">github.com/planningdistilled/research</a>.</p>
 </footer>
 </div>
@@ -265,7 +273,7 @@ ${groups}
   mkdirSync(outDir, { recursive: true });
   writeFileSync(join(outDir, 'index.html'), addAnchors(html));
   const pub = sources.map((s) => ({ title: s.title, url: s.url, publisher: s.publisher, publisher_type: s.type, date: s.date || null, audience: s.audience, about_draft: s.draft, training_or_briefing: s.training, retrieval: VER[s.verification] ?? s.verification, stances: Object.fromEntries(s.stances.map(([p, x]) => [p, STANCE[x]])), summary: s.summary || null }));
-  writeFileSync(join(outDir, 'sources.json'), JSON.stringify({ snapshot: '2026-10-02', licence: 'CC BY 4.0, Planning Distilled', propositions: PROP_NAMES, sources: pub }, null, 1));
+  writeFileSync(join(outDir, 'sources.json'), JSON.stringify({ snapshot: snap.iso, licence: 'CC BY 4.0, Planning Distilled', propositions: PROP_NAMES, sources: pub }, null, 1));
   const csvq = (v) => `"${String(v ?? '').replace(/"/g, '""')}"`;
   const head = ['title', 'url', 'publisher', 'publisher_type', 'date', 'about_draft', 'training_or_briefing', 'retrieval', ...Object.keys(PROP_NAMES)];
   writeFileSync(join(outDir, 'sources.csv'), [head.join(','), ...pub.map((s) => [s.title, s.url, s.publisher, s.publisher_type, s.date, s.about_draft, s.training_or_briefing, s.retrieval, ...Object.keys(PROP_NAMES).map((k) => s.stances[k] ?? '')].map(csvq).join(','))].join('\n') + '\n');

@@ -45,3 +45,4 @@
 {"at": "2026-09-30T18:40:07+01:00", "cmd": "queue", "args": {"all_types": false}, "deltas": {"queued": 0}, "seconds": 0.1}
 {"at": "2026-09-30T18:40:30+01:00", "cmd": "build", "args": {}, "deltas": {}, "seconds": 6.1}
 {"at": "2026-09-30T18:40:55+01:00", "cmd": "build", "args": {}, "deltas": {}, "seconds": 5.5}
+{"at": "2026-10-02T21:44:50+01:00", "cmd": "all", "args": {"threads": 3, "delay": 0.5, "areas": null, "limit": null, "retry_failed": false, "all_types": false}, "deltas": {"sweep": {"newRefs": 108, "errors": 0}, "fetch": {"fetched": 108, "failed": 0}, "index": {"indexedChanged": 108}, "queue": {"queued": 62}, "build": {}}, "seconds": 196.8}

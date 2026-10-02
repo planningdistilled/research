@@ -7,8 +7,11 @@ ref	date	type	decision	lpa	nppf2026_codes	cites_2026_fw	cites_old_fw_paras	descr
 6001939	2026-09-30	Planning listed building and conservation area	Dismissed	South Downs National Park Authority		Y		
 6002006	2026-09-09	Planning	Allowed	West Devon Borough Council	P2 P3 N4	Y		
 6002168	2026-08-26	Planning	Dismissed	Lancashire County Council	DM2 TR6(4) M1 M4(1)(b) P3 M1(2)(d) M3(1)	Y	Y	the extraction and processing of sand and gravel including the construction of new site access roads, landscaping and screening bunds, minerals washing plant and other associated infrastructure with restoration to mixed 
+6002400	2026-10-01	Planning	Dismissed	Nottingham City Council	HE6 HE7 HE4 CO1 E2 HE1 S3 S4	Y		new communications kiosk with integrated advertising display and defibrillator. Appeal B Ref: APP/Q3060/Z/25/3376390 Pavement outside Waterfront House, 35 Station Street, Nottingham NG2 3DQ 
 6002628	2026-08-28	Planning	Dismissed	Council of the London Borough of Islington		Y		described as the: conversion of Ground & First Floors to residential use as 4 self-contained units
+6002677	2026-10-01	Planning	Allowed	Fenland District Council	P2 P3 P4 F8 DM7 S4 HO7	Y		Hybrid Application: Outline application with matters committed in respect of access to erect of up to 250 x dwellings, and full application to erect 102 x dwellings (15No. 1-bed, 41No. 2-bed, 35No. 3-bed and 11No. 4-bed)
 6002703	2026-08-21	Planning	Dismissed	Cornwall Council		Y		
+6002708	2026-10-01	Planning	Dismissed	Herefordshire Council	HE6(1) HO7 HE6 S5	Y		a residential development of a max of 3 dwellings
 6002759	2026-08-18	Planning	Allowed	Warwick District Council		Y		
 6002834	2026-08-18	Planning	Allowed					
 6002880	2026-09-04	Planning	Dismissed	Cornwall Council	TR2 N4 S4	Y	Y	engineering works to sea cliff retaining structure and construction of steps
@@ -31,6 +34,7 @@ ref	date	type	decision	lpa	nppf2026_codes	cites_2026_fw	cites_old_fw_paras	descr
 6003486	2026-08-17	Planning	Dismissed	Bassetlaw District Council			Y	
 6003496	2026-08-20	Planning	Allowed	Durham County Council		Y		the change of use from grazing paddock to all weather horse arena
 6003507	2026-08-28	Planning	Dismissed	Calderdale Metropolitan Borough Council	GB1 GB7 GB7(1)(f) GB7(1)(f)(iv)	Y		described as ‘stable block’
+6003513	2026-10-02	Planning	Allowed	Council of the London Borough of Croydon	M4(2) DM10	Y		demolition of existing bungalow and garage, erection of two storey four-bedroom detached dwelling with accommodation within the roof space and provision of detached garden room, bin and cycle store
 6003535	2026-08-28	Householder	Allowed	Council of the London Borough of Havering		Y		single storey rear extension with an overall depth of 7.50m, a maximum height of 2.95m, and an eaves height of 2.75m Decision 1. The appeal is allowed and prior approval is not required under the provisions of Article 3(
 6003539	2026-09-04	Planning	Allowed		F5			demolish garage to create a vehicular access and erect a detached bungalow
 6003569	2026-09-14	Planning	Allowed	Buckinghamshire Council	W3 S5(1) W2			Installation of Ground-Mounted Solar Panels (200 kW Total Capacity) comprising 12 rows of panels, each oriented 6 degrees west of due south
@@ -71,11 +75,14 @@ ref	date	type	decision	lpa	nppf2026_codes	cites_2026_fw	cites_old_fw_paras	descr
 6004809	2026-09-22	Planning	Dismissed	Reading Borough Council	L2 TR1 TR3 S4 HO7 DP3 P3 DP3(3) DP3(1)	Y		the development of new building to provide 2 no. 2 bedroom and 6 no. 1 bedroom flats along with the creation of 6 parking spaces and associated landscaping following the demolition of the existing building
 6004850	2026-09-16	Planning	Dismissed		S3 S4 DP3(2)(a) DP3(3)	Y		the change of use from dwellinghouse (Use Class C3) to a flexible use permission as a HMO (Use Class C4) and a dwellinghouse (Use Class C3) under the provisions of Class V of Part 3 of the GPDO including single storey re
 6004873	2026-09-25	Commercial planning (CAS)	Dismissed	Southend-on-Sea City Council • The application Ref is 25/017	DP3 DM1 DM3 DM5 HE6 HE7 HE9 E2 TC2 S4	Y		
+6004899	2026-10-01	Planning	Allowed	Sevenoaks District Council	GB7 TR3 TR8 S5(5) S5(2) N4(2) DP3 N4 E4 TR6 S3 S5 HC8 GB6 GB8	Y		described as ‘Conversion and change of use of former agricultural buildings to a mix of commercial B8 (storage and distribution) and E(g) (ii) (iii) uses following demolition of buildings unsuitable for conversion’
 6004909	2026-09-10	Planning	Dismissed	Cornwall Council	HO7 HE8 HE4(2) HE6(1) HE5(2) S4(1)	Y		Permission in Principle for 1 to 2 new homes
 6004929	2026-09-11	Planning	Allowed	Council of the London Borough of Lewisham	HO8 F5 HE7 DM7 HC1 HE3 DM5 HO1 HO3 TR4 F6 F7 S3 S4 HO7	Y		for the erection of a 4-storey building containing 9 self-contained flats and a commercial unit
 6004934	2026-09-25	Planning	Allowed	Sunderland City Council		Y		front extension and part change of use to hair salon
 6004952	2026-09-30	Planning	Dismissed	West Lancashire Borough Council	F5 S4 F4(3) S3 L2(1)(b) F7 HO7 F4 F8	Y		residential development, including five dwellings and an apartment block (4 flats) with associated access, parking and landscaping following demolition of existing buildings
 6004977	2026-09-21	Planning	Dismissed		S1 DM1 P1 P2 TR4(1)(a) P3(2)(a) P3(2)(c) S5 HE9(2) HE5(1) HE6 HE6(4) HE7 HE7(2) P3	Y		a change of use of the former Middleton Conservative Club and Kohinoor Banqueting Hall into a new multi-functional events space including a part single/part two storey side extension, erection of external stairway and re
+6005011	2026-10-02	Planning	Dismissed	Colchester City Council	HE6 HE4			a two storey rear flat roof extension with perimeter parapet. Appeal Ref: 6005014 7 East Mersea Road, West Mersea, CO5 8SL 
+6005014	2026-10-02	Planning listed building and conservation area	Dismissed	Colchester City Council	HE6 HE4			a two storey rear flat roof extension with perimeter parapet. Appeal Ref: 6005014 7 East Mersea Road, West Mersea, CO5 8SL 
 6005051	2026-09-17	Planning listed building and conservation area	Dismissed	City of Westminster Council	W2	Y		described as “retrospective approval for the replacement of a previously damaged black timber panel with a new timber panel of the same material. The original panel had become unsafe, and the replacement was necessary to
 6005067	2026-09-14	Planning	Dismissed	Warrington Borough Council	HE6			
 6005081	2026-09-18	Planning	Allowed		N4	Y		
@@ -86,6 +93,8 @@ ref	date	type	decision	lpa	nppf2026_codes	cites_2026_fw	cites_old_fw_paras	descr
 6005119	2026-09-08	Planning	Dismissed	Cornwall Council	N4 S5	Y		the redesign of the dwelling permitted under extant planning permission referenced PA22/08946
 6005123	2026-09-08	Planning	Dismissed	Hart District Council		Y		the erection of a replacement dwelling following demolition of the existing bungalow and garage
 6005150	2026-09-09	Planning	Dismissed	Mole Valley District Council	GB7 S1 S5 HO11 GB6 S3 DP3	Y		Change of use and conversion of existing redundant stables to one bedroom dwelling
+6005162	2026-10-02	Planning	Allowed	Buckinghamshire Council	GB7 GB6 GB7(1)(g) S5 GB1 GB3 GB7(1)(g)(i) N6 HE5 HE6 GB7(1)(e) GB2(1) TR3(2) GB7(1)(a) GB7(1)(b)	Y	Y	Detached two storey and single storey, 5-bedroom self-build dwelling house and associated works includes vehicular access, parking, integral garage and landscaping
+6005177	2026-10-02	Planning listed building and conservation area	Dismissed	Brentwood Borough Council	HE6 HE4			
 6005194	2026-08-17	Planning	Dismissed	Bournemouth Christchurch and Poole Council		Y	Y	Outline planning permission with all matters reserved for the demolition of existing workshop / store and re-development of the site with 9 flats
 6005208	2026-08-17	Householder	Dismissed	Mole Valley District Council		Y		‘alterations to front boundary masonry wall to create a vehicle parking hardstanding’
 6005225	2026-09-21	Planning	Dismissed	Tunbridge Wells Borough Council	HE6(1) HE4(2) HE6(4)	Y		single storey rear extensions & patio. Appeal B Ref: 6005229 1 The Down Cottages, The Down, Lamberhurst, Tunbridge Wells, Kent TN3 8EX 
@@ -137,6 +146,7 @@ ref	date	type	decision	lpa	nppf2026_codes	cites_2026_fw	cites_old_fw_paras	descr
 6005976	2026-09-03	Planning	Dismissed	Newcastle Upon Tyne City Council	GB7(1)			
 6005980	2026-09-02	Planning	Dismissed	Council of the London Borough of Camden	HE6 N6 HE9 HE4	Y		demolition of existing sheds to be replaced with garden studio. Appeal B Ref: 6005981 6 Bacon's Lane, London N6 6BL 
 6005981	2026-09-02	Planning listed building and conservation area	Dismissed	Council of the London Borough of Camden	HE6 N6 HE9 HE4	Y		demolition of existing sheds to be replaced with garden studio. Appeal B Ref: 6005981 6 Bacon's Lane, London N6 6BL 
+6005995	2026-10-02	Planning	Dismissed		S3 S4	Y	Y	single storey rear extension to Sui Generis HMO
 6005999	2026-08-27	Planning	Dismissed	North Somerset Council	DM3	Y		
 6006002	2026-09-22	Planning	Allowed			Y		a part retrospective change of use of the lower ground floor garden room / store area of the apartment block and the L-shaped outbuilding to the rear of the site to create two new dwellings
 6006003	2026-09-30	Planning	Dismissed	Kirklees Metropolitan Council	GB7(1)(g) HO7 DP3(1) GB2 TR3 GB8 DP3(3) GB6 GB7 GB7(1)(g)(i) HE6(1) HE6(4) N2(1)(d) S5	Y		erection of single dwelling
@@ -215,6 +225,7 @@ ref	date	type	decision	lpa	nppf2026_codes	cites_2026_fw	cites_old_fw_paras	descr
 6006832	2026-09-01	Planning	Dismissed	Cornwall Council	S5 DP3 HO7 TR4 HE6 S3 S2 HO8 HO9 HO10 HO11 E4 TR3 N2 E2	Y		described as change of use of land from temporary use of land for the stationing of caravans to use of the land for Holiday Lodges
 6006846	2026-09-18	Planning	Dismissed	South Tyneside Council	TR6(4) S4 S4(2)(c) TR4(1)(c)(i)			‘erection of a single, detached use class C3 dwellinghouse across two storeys, with 3 bedrooms and the formation of vehicular access onto Cotswold Lane, car parking and garden/curtilage areas. Resubmission with altered c
 6006868	2026-08-17	Planning listed building and conservation area	Dismissed	Wealden District Council		Y		
+6006890	2026-10-01	Planning	Dismissed	Council of the London Borough of Harrow	L2 N2 HO3 S3 S4	Y		application for outline planning consent (access reserved) for the demolition of garage to the rear of 147 Eastcote Lane and the erection of a new 2 storey house. All matters reserved save for scale, layout, appearance a
 6006893	2026-09-15	Planning	Dismissed		N4 N2 DP3 S5(1)(j) HC4 S5	Y		erection of 115 dwellings (including 40% affordable housing) and associated parking; public house (Use Class Sui Generis), employment units (Use Class E(g)); provision of public open space; installation of sustainable ur
 6006900	2026-09-18	Planning	Dismissed	South Downs National Park Authority	S5 N4 DP3 TR3 TR4 TR6 S3	Y	Y	described as planning permission in principle (PIP) for the construction of a chalet style dwelling
 6006903	2026-09-30	Planning listed building and conservation area	Dismissed	Northumberland National Park Authority	DM6 DM7 DM10 HE6	Y		
@@ -287,6 +298,7 @@ ref	date	type	decision	lpa	nppf2026_codes	cites_2026_fw	cites_old_fw_paras	descr
 6007369	2026-08-24	Householder	Dismissed	Dorset Council	GB3 GB7(1)(b) GB7 GB7(1)(g) GB6 GB7(1)(a) GB7(1)(c) GB7(1)(d) GB7(1)(f) GB7(1)(h) GB7(1)(e) GB6(2) HE2	Y		
 6007373	2026-09-07	Planning	Allowed	Council of the London Borough of Barnet	S4 M4(2) M4(3)	Y		redevelopment of the Site to provide 20 residential dwellings (Use Class C3); together with landscaping, access, cycle parking and other associated works
 6007384	2026-09-29	Planning	Dismissed	Council of the London Borough of Camden				the installation of a BT Street Hub Unit
+6007390	2026-10-01	Planning	Dismissed	Council of the London Borough of Richmond Upon Thames		Y		construction of additional storey to include nine new flats to an existing building
 6007391	2026-09-01	Planning	Dismissed	North Yorkshire Council	HE6 HE7 HE4 HE5 HE9 S3 S4	Y	Y	rebuilding of derelict cottages to form 1 no. retail unit and 1no. apartment
 6007395	2026-09-10	Householder	Allowed	Trafford Metropolitan Borough Council	P2	Y		access to a proposed drive for single vehicle parking
 6007396	2026-09-04	Planning	Allowed in part	South Oxfordshire District Council		Y		
@@ -348,6 +360,7 @@ ref	date	type	decision	lpa	nppf2026_codes	cites_2026_fw	cites_old_fw_paras	descr
 6007680	2026-08-21	Planning	Dismissed	Sandwell Metropolitan Borough Council		Y		nursery for 10 no. children and flat on first floor
 6007691	2026-09-03	Householder	Dismissed	Leeds City Council	HE6	Y		the installation of new roof tiles over single storey element to front
 6007698	2026-09-24	Planning	Dismissed	Sevenoaks District Council	DP3(1) DP3(3) S4			
+6007704	2026-10-02	Planning	Allowed	Pendle Borough Council	HE6 HC6 HE5 S3	Y		conversion of existing public house (Sui Generis) to 1 no. dwelling (Use Class C3) and associated works. Appeal B Ref: 6007757 Cross Gaits Inn, Beverley Road, Blacko, Lancashire BB9 6RF 
 6007705	2026-09-09	Planning	Allowed	West Oxfordshire District Council	E1 S4 HE6 HC6 DM6	Y		erection of 2 No dwellings and associated works following demolition of existing buildings
 6007713	2026-09-30	Planning	Allowed	Richmond Upon Thames London Borough Council		Y		the construction of outbuilding and pergola in front garden. New bifold doors at front ground floor level
 6007714	2026-09-09	Commercial advertisement	Dismissed	Council of the London Borough of Islington	HE6 N1 HE4 HE5 HE9 CO1 HC1 S3 S4	Y	Y	removal of two existing telephone kiosks and the deployment of a replacement Street Hub 3 unit Appeal B Ref: 6007714 Pavement outside Waitrose, 21 Liverpool Road, London N1 0RW 
@@ -356,6 +369,7 @@ ref	date	type	decision	lpa	nppf2026_codes	cites_2026_fw	cites_old_fw_paras	descr
 6007730	2026-09-24	Planning	Allowed	West Lancashire Borough Council	L3 S4 DP3 S3 L2(1)(d)			Permission in Principle for up to 4 dwellings
 6007739	2026-08-27	Householder	Dismissed	Rochford District Council	DM1	Y		a two storey rear extension
 6007744	2026-09-08	Householder	Dismissed	Tendring District Council	HE6 HE4 HE9	Y		the erection of a 2.4m acoustic garden fence
+6007757	2026-10-02	Planning listed building and conservation area	Allowed	Pendle Borough Council	HE6 HC6 HE5 S3	Y		conversion of existing public house (Sui Generis) to 1 no. dwelling (Use Class C3) and associated works. Appeal B Ref: 6007757 Cross Gaits Inn, Beverley Road, Blacko, Lancashire BB9 6RF 
 6007762	2026-08-20	Planning	Dismissed	South Kesteven District Council	HE6 HE9 HE7(2) HE6(1)	Y	Y	rear extension, new window, new rooflights, solar panels, Air Source Heat Pump and internal alterations
 6007771	2026-08-17	Planning	Dismissed	South Kesteven District Council		Y	Y	the erection of a detached bungalow
 6007772	2026-09-24	Planning	Allowed	Horsham District Council	S5 HO7	Y		Construction of a detached coach house containing two residential units in the grounds of the former public house The Lamb Inn
@@ -378,6 +392,7 @@ ref	date	type	decision	lpa	nppf2026_codes	cites_2026_fw	cites_old_fw_paras	descr
 6007883	2026-09-09	Planning	Dismissed	Council of the London Borough of Barnet		Y		the change of use from single family dwellinghouse to an HMO Use Class C4
 6007907	2026-09-03	Planning	Allowed	Leeds City Council		Y		change of use from dwelling house (C3) to 3 bed HMO (C4) with new window to basement in lieu of existing door
 6007924	2026-09-30	Planning	Allowed	Wiltshire Council	S5	Y		up to two dwellings
+6007927	2026-10-02	Planning	Dismissed	Council of the London Borough of Hackney	HC1 S3 S4 DP3 HE7	Y		a change of use from two flats to single dwelling house; erection of a three-storey rear extension at lower ground, ground and first floors; a new terrace at first floor; erection of mansard roof extension and alteration
 6007932	2026-09-16	Planning	Dismissed	Bedford Borough Council		Y		
 6007939	2026-08-25	Householder	Allowed	Buckinghamshire Council	DP3	Y		a two-storey side and part front extension, garage conversion, new raised roof with rear dormer and internal alterations
 6007941	2026-09-23	Planning	Dismissed	Reading Borough Council	F6(1) TR3 S4 DP3(2)	Y		construction of a terrace of four 3-bedroom 2.5 storey dwellings, parking, and hard and soft landscaping
@@ -388,6 +403,7 @@ ref	date	type	decision	lpa	nppf2026_codes	cites_2026_fw	cites_old_fw_paras	descr
 6008012	2026-08-17	Householder	Dismissed	Gravesham Borough Council		Y		described on the application form as “Two storey rear extension, first floor extension on top of garage and reduce the garage width to give bigger side access, plus front porch and change the existing sheds to unified ga
 6008013	2026-08-27	Householder	Dismissed	Rochford District Council	DM1	Y		a loft conversion with front and rear dormers, new front porch and bay window
 6008014	2026-09-02	Planning	Dismissed	Council of the London Borough of Croydon		Y		the formation of a private way for forestry use
+6008018	2026-10-01	Planning	Dismissed	Manchester City Council	DP3 S3 S4	Y		Change of use of 1st Floor of Public House (Sui Generis) to a 6-Bed Guest House (Use Class C1)
 6008022	2026-09-03	Planning	Allowed	North Herts Council	DP3 S3	Y		demolition of the existing semi-detached dwelling and erection of a replacement two-storey detached dwellinghouse with associated amenity space, landscaping, revised vehicular access/driveway and parking, and associated 
 6008026	2026-09-25	Planning	Dismissed	Wigan Metropolitan Borough Council	P1 S4 S3 P3	Y		
 6008038	2026-09-07	Planning	Dismissed	Council of the London Borough of Lambeth	TC3	Y	Y	change of use from HMO (Use Class C4) to short-term let (Use Class C1)
@@ -401,12 +417,14 @@ ref	date	type	decision	lpa	nppf2026_codes	cites_2026_fw	cites_old_fw_paras	descr
 6008105	2026-09-28	Householder	Dismissed	Canterbury City Council	HE6 HE4 HE1 HE5	Y		
 6008107	2026-09-28	Planning listed building and conservation area	Dismissed	Canterbury City Council	HE6 HE4 HE1 HE5	Y		
 6008115	2026-09-21	Planning	Dismissed	New Forest District Council	S5(3) HO11 HO11(1) S5 S5(1) DP3(1) N2 DP3(2)	Y		change of use of agricultural barn in to dwelling house; part demolition of stables; demolition of pole barn; associated parking & landscaping
+6008122	2026-10-01	Planning	Dismissed	Rochford District Council	GB7 GB7(1)(e) S5(5) DM6 GB7(1)(b) HO7 N2(1)(a)	Y		a revised scheme to demolish the existing property and garages on the site and construct a 4(min) bedroomed Georgian style house, workshop and garage, utilising an existing crossover for access through private gates onto
 6008154	2026-09-04	Planning	Dismissed	Council of the London Borough of Islington	HE6 HE4 HE5 HE9 CO1 HC1 S3 S4	Y	Y	the installation of a Street Hub 3 unit
 6008160	2026-09-08	Planning	Dismissed	Ashfield District Council	HE7 S4 DP3 F7 F8 TR4 N2 N6(1) TR6 HE5(5) HE5 HE7(2) S3	Y		described as major outline planning application for some matters reserved for 42 dwellings
 6008167	2026-09-10	Planning	Dismissed	East Hertfordshire District Council	DP3 S4 S3 HO7	Y	Y	erection of four, two-storey houses, together with the creation of new vehicular and pedestrian access way and 10 car parking spaces
 6008170	2026-09-09	Planning	Allowed	Buckinghamshire Council	N2 DM6	Y		
 6008171	2026-09-23	Planning	Allowed	Forest of Dean District Council		Y		
 6008176	2026-09-30	Planning	Allowed	Cheshire East Council		Y		1) Demolition of existing buildings and 2) Erection of a replacement house with associated works to include a comprehensive landscape scheme
+6008177	2026-10-01	Planning	Allowed	Harborough District Council	HE9 HE7 HC1			application for Permission in Principle for the erection of a minimum of 5 and a maximum of 9 dwellings
 6008184	2026-08-24	Commercial advertisement	Allowed	Middlesbrough Council		Y		
 6008189	2026-08-19	Planning	Allowed	Barnet London Borough Council		Y		
 6008197	2026-08-28	Planning	Allowed	Cheshire West and Chester Council	DM6	Y		
@@ -422,6 +440,7 @@ ref	date	type	decision	lpa	nppf2026_codes	cites_2026_fw	cites_old_fw_paras	descr
 6008277	2026-09-04	Planning	Dismissed	Leicester City Council				conversion of existing workshop at the rear into a self contained flat; single storey side extension and alterations; (remove asbestos tiles and replace with concrete tiles)
 6008286	2026-08-17	Householder	Dismissed	Runnymede Borough Council				described as a side double, single storey rear extension incorporating with existing detached garage into habitable use and front porch added to dwelling
 6008290	2026-08-17	Planning listed building and conservation area	Allowed	Charnwood Borough Council		Y		
+6008292	2026-10-02	Planning	Dismissed	Cornwall Council	S5 E2 E4 N2			an agricultural building for the growing and storage of mushrooms
 6008295	2026-08-17	Householder	Dismissed	Guildford Borough Council		Y		the erection of a two-storey side and rear extension, single-storey rear extension with changes to the fenestration and roof alterations following demolition of existing attached garages
 6008314	2026-09-15	Planning	Allowed	Wealden District Council	DP3 S4 P1 P2 TR3 N2 N3 S5 S3 P4 P3	Y		‘hybrid planning application comprising: full application for the erection of a foodstore (Use Class E(a)) with associated access roads, parking, servicing area, and landscaping; and outline application (all matters rese
 6008318	2026-09-21	Planning	Allowed	Somerset Council	DP4 DP1	Y		erection of class E commercial units comprising light industrial, offices, drink and food outlet and recreation
@@ -439,6 +458,7 @@ ref	date	type	decision	lpa	nppf2026_codes	cites_2026_fw	cites_old_fw_paras	descr
 6008404	2026-09-17	Planning	Dismissed	Wychavon District Council	GB7 P1 N2 S5 P2	Y		demolition of existing dwelling and replacement of 1 no. new dwelling and associated external works
 6008410	2026-09-17	Planning	Dismissed	Hartlepool Borough Council	HC4 DP3 HO1(2)(f) S4 DP3(3) DP3(1) DP3(2)	Y		for the change of use from residential dwelling (C3 Use Class) to supported living residential accommodation (C2 Use Class) for up to 5 children with learning difficulties and complex care needs, including garage convers
 6008414	2026-09-23	Planning	Dismissed	Cornwall Council	HE6 HE5 S5 HO10	Y		construction of affordable led development of minimum 2, maximum 2 dwellings
+6008432	2026-10-02	Planning	Dismissed	Cornwall Council	S5 TR5 TR3 HO7			the construction of two dwellings on previously developed land
 6008434	2026-09-17	Planning	Dismissed	Wiltshire Council	S5 S3 HO7 DP3 TR3 N2	Y		permission in principle for residential development consisting of a minimum of 4 no. dwellings and a maximum of 9 no. dwellings
 6008435	2026-09-04	Commercial advertisement	Dismissed	Council of the London Borough of Islington	HE6 N4 HE4 HE5 HE9 CO1 HC1 S3 S4	Y	Y	the removal of an existing telephone kiosk and deployment of a Street Hub 3 unit. Appeal B Ref: 6008435 Pavement outside 167 Stroud Green Road, London N4 3RN 
 6008436	2026-09-04	Planning	Dismissed	Council of the London Borough of Islington	HE6 N4 HE4 HE5 HE9 CO1 HC1 S3 S4	Y	Y	the removal of an existing telephone kiosk and deployment of a Street Hub 3 unit. Appeal B Ref: 6008435 Pavement outside 167 Stroud Green Road, London N4 3RN 
@@ -448,12 +468,15 @@ ref	date	type	decision	lpa	nppf2026_codes	cites_2026_fw	cites_old_fw_paras	descr
 6008441	2026-09-01	Planning	Allowed		P3 DM6	Y		the demolition of existing 3 bedroom dwelling, garage and conservatory and construction of new 4 bedroom dwelling with parking, landscaping alterations and re-grading of the rear garden with garden outbuilding
 6008465	2026-09-15	Planning	Dismissed	City of Bradford Metropolitan District Council				permission in principle for the development of up to nine dwellings
 6008475	2026-08-25	Planning	Dismissed	Reading Borough Council	HE6 HE4 HE5	Y		
+6008483	2026-10-02	Planning	Dismissed	Council of the London Borough of Ealing	HE6 HE4	Y	Y	Installation of 1No. BT Street Hub Unit and associated advertisement panels on either side of the unit. Appeal B Ref: 6008485 Land Adjacent To 2 New Ealing Broadway, London, W5 2NU 
 6008484	2026-09-17	Householder	Dismissed	Gateshead Metropolitan Borough Council	HE6 S4	Y		changes to front boundary wall and part of the lawn in the front garden to be replaced with a hard surface
+6008485	2026-10-02	Commercial advertisement	Dismissed	Council of the London Borough of Ealing	HE6 HE4	Y	Y	Installation of 1No. BT Street Hub Unit and associated advertisement panels on either side of the unit. Appeal B Ref: 6008485 Land Adjacent To 2 New Ealing Broadway, London, W5 2NU 
 6008486	2026-09-15	Planning	Dismissed	Council of the London Borough of Tower Hamlets	E2 HC1	Y		described as the replacement of sash windows to Flat 2 (three at front of flat and one at rear). Appeal B Ref: 6008490 Flat 2, 349 Hackney Road, London E2 8PR 
 6008490	2026-09-15	Planning listed building and conservation area	Dismissed	Council of the London Borough of Tower Hamlets	E2 HC1	Y		described as the replacement of sash windows to Flat 2 (three at front of flat and one at rear). Appeal B Ref: 6008490 Flat 2, 349 Hackney Road, London E2 8PR 
 6008491	2026-09-23	Planning	Allowed	Bournemouth Christchurch and Poole Council	P3 HE4 DP3	Y		construction of a terrace at roof level
 6008494	2026-09-08	Planning	Allowed	Rutland County Council		Y		replacement of the existing bedroom and kitchen windows, patio doors to the rear of the property and side entry door facing the garage. Appeal B Ref: 6008495 28 Main Street, Lyddington LE15 9LT 
 6008495	2026-09-08	Planning listed building and conservation area	Allowed	Rutland County Council		Y		replacement of the existing bedroom and kitchen windows, patio doors to the rear of the property and side entry door facing the garage. Appeal B Ref: 6008495 28 Main Street, Lyddington LE15 9LT 
+6008497	2026-10-02	Planning	Dismissed	East Riding of Yorkshire Council				described as “erection of boundary fence (1.52 m in height) (retrospective)”
 6008500	2026-09-18	Planning	Dismissed	Fenland District Council	S5 DM6 F5 F5(2)(c) DM5 S3 S5(1) S5(4) S5(2)	Y		
 6008528	2026-09-16	Planning	Dismissed	Mole Valley District Council	GB7 S5 TR3 GB1 N6	Y		Retention of the pre-existing dwelling following the erection of the replacement dwelling permitted in July 2017 under MO/2016/2052
 6008532	2026-08-26	Planning	Allowed	Epping Forest District Council	P2 DM7 DM9 P3 P6	Y		demolition of existing buildings and replacement extensions
@@ -482,6 +505,7 @@ ref	date	type	decision	lpa	nppf2026_codes	cites_2026_fw	cites_old_fw_paras	descr
 6008667	2026-09-14	Planning	Dismissed	The Council of the London Borough of Enfield		Y		demolition of existing house and erection of two detached houses each with detached double garages, erection of five flats above parking for cars and bicycles and communal leisure facilities and a refuse/recycle bin stor
 6008668	2026-08-17	Planning	Allowed	Hertsmere Borough Council	M4	Y	Y	redevelopment of the site for the erection of a bungalow
 6008669	2026-09-04	Planning	Dismissed	North Somerset Council	DM3 DM4	Y		replacement of 24 no. windows
+6008679	2026-10-02	Planning	Dismissed	Thurrock Borough Council	DP3(1) S5 GB2 GB7 GB7(1)(g) TR3 GB6 GB8 GB7(1) HO7 S3 DP3(3)	Y		part demolition of existing dwelling and erection of 5 No. dwellings
 6008688	2026-09-23	Planning	Dismissed	Tandridge District Council	GB7 TR3 M4(3) GB6(2) GB6 TR3(2)	Y		described as "Erection of two storey new detached dwelling. A+ energy efficiency. Exceptional quality. M4(3) disabled living." Decision 1. The appeal is dismissed. Applications for costs 2. An application for a partial a
 6008689	2026-09-07	Planning	Allowed	Royal Borough of Windsor and Maidenhead				
 6008692	2026-08-28	Householder	Allowed	Luton Borough Council		Y		single storey side extension and single storey rear extension
@@ -526,6 +550,7 @@ ref	date	type	decision	lpa	nppf2026_codes	cites_2026_fw	cites_old_fw_paras	descr
 6008881	2026-09-22	Planning	Dismissed	North Norfolk District Council	S5 S3 HC7 E2 E4 P3 TR3 TR4 F9	Y		described as ‘change of use of single garage (usage class C3) to usage class E(b) - enabling the sale of food and drink on the premises’
 6008883	2026-09-30	Planning	Allowed	North Lincolnshire Council	S3 S4 L2(1)(d)			a dormer bungalow
 6008885	2026-08-26	Planning	Dismissed	Council of the London Borough of Brent		Y		for the retention of existing rear balcony and associated alterations; alterations to rooflights and rear door
+6008892	2026-10-02	Planning	Dismissed	South Hams District Council	S5 E2 E4 S3			
 6008895	2026-09-11	Planning	Dismissed	King's Lynn and West Norfolk Borough Council	S5 HO11	Y		the permanent retention of mobile home and ancillary mobile unit housing customer w.c.s, office and tack room
 6008896	2026-09-04	Householder	Allowed	Tandridge District Council				for the erection of a detached garage in front garden to serve existing house and associated landscaping works including soil infilling (approx 450mm) to rear of the building
 6008899	2026-08-17	Householder	Dismissed	Council of the London Borough of Harrow		Y		single and two-storey side extension; rear dormer; one rooflight in front roof slope; external alterations
@@ -578,11 +603,13 @@ ref	date	type	decision	lpa	nppf2026_codes	cites_2026_fw	cites_old_fw_paras	descr
 6009103	2026-09-02	Planning listed building and conservation area	Dismissed	West Oxfordshire District Council	E1	Y		the change of use of an existing single storey building from commercial use to a single dwelling and side extension. Appeal B Ref: 6009103 46 Market Square, Witney, Oxfordshire OX28 6AL 
 6009106	2026-09-30	Planning	Dismissed	East Lindsey District Council	F4 F5	Y		develop land at Tuttle Farm for nine houses
 6009118	2026-09-01	Planning	Dismissed	Brentwood Borough Council		Y		Double-Storey Rear Extension Retrospective Full Planning Application
+6009119	2026-10-02	Planning	Dismissed	Southend-on-Sea City Council	P3 DM1 DM3 S4	Y		to use the existing corner plot as a hand car wash and install a new acoustic screened area for car valeting. Retention of existing demountable cabins
 6009126	2026-08-17	Planning	Dismissed	Liverpool City Council		Y		the change of use from Class C3 (dwellinghouse) to Class C2 (children’s residential care home) to accommodate up to three children
 6009127	2026-09-21	Planning	Dismissed	City of Doncaster Council	DP3(3) L3 S3 S4 HO7 S4(1)	Y		the change of use of first floor and attic to two flats (Class C3) and installation of rooflights on the front and rear roof slopes
 6009129	2026-08-19	Planning	Allowed	Dorset Council		Y		change of use and conversion of agricultural building to 2no. dwellinghouses (Use Class C3)
 6009132	2026-09-08	Planning	Allowed	Middlesbrough Council	HO9	Y		Change of Use from Dwelling-house (Class C3) to 3 Child Children's Home (Class C2)
 6009133	2026-09-11	Planning	Allowed	Birmingham City Council	DM2			conversion of house (C3) into children’s home (C2)
+6009135	2026-10-01	Planning	Dismissed	Wolverhampton City Council	L2(1)(d)(i) L2(1)(d)(ii)	Y		Change of Use of existing retail unit to residential. An extension of an existing flat, and a two-storey side extension to create two additional flats
 6009141	2026-09-29	Planning	Dismissed	East Riding of Yorkshire Council	CO1 S4 DP3 HE5(2) HE6(1) HE6(3) HE6(4) HE6 S5(2)	Y		installation of 1 No BT Street Hub. Appeal B Ref: 6009153 Footpath outside 1 Prince Street, Bridlington YO15 2NW 
 6009144	2026-08-24	Householder	Dismissed	East Suffolk Council		Y		described on the Application form as a ‘New detached garage.’ Decision 1. The appeal is dismissed. Main Issue 2. The main issue is the effect of the proposal upon the character and appearance of the existing building and
 6009147	2026-09-18	Planning	Allowed	Crawley Borough Council		Y		change of use from Class B8 (Storage and Distribution) to Class B2 (General Industrial) and Class B8 (Storage and Distribution)
@@ -606,9 +633,12 @@ ref	date	type	decision	lpa	nppf2026_codes	cites_2026_fw	cites_old_fw_paras	descr
 6009237	2026-08-27	Planning	Dismissed	Horsham District Council	N4 S5 HO12	Y		full application for proposed two pitch settled Gypsy accommodation site along with retention of cess pit
 6009241	2026-09-10	Planning	Allowed	Liverpool City Council		Y		the installation of 1No BT Street Hub and removal of associated BT payphones. Appeal B: Ref 6009242 Pavement outside Esso, East Lancashire Road, Liverpool L11 2FT 
 6009242	2026-09-10	Commercial advertisement	Allowed	Liverpool City Council		Y		the installation of 1No BT Street Hub and removal of associated BT payphones. Appeal B: Ref 6009242 Pavement outside Esso, East Lancashire Road, Liverpool L11 2FT 
+6009245	2026-10-02	Planning	Dismissed	Harborough District Council	DP3 HE6 HE4 S4 HC1 HE9 S3			demolition of existing dwelling and erection of replacement dwelling, detached gym and swimming pool
+6009255	2026-10-02	Planning	Allowed	North West Leicestershire District Council	S2 S3 HO1 HO7 TR3 S5	Y		conversion of existing garage to single C3 self-build dwelling with associated parking and alterations to residential curtilage
 6009256	2026-08-27	Commercial advertisement	Allowed	City of York Council		Y		
 6009258	2026-09-04	Householder	Dismissed	Wiltshire Council	HE6	Y		off street parking
 6009260	2026-09-04	Householder	Dismissed	Royal Borough of Windsor and Maidenhead	GB7 GB2 GB6	Y		for a front gable feature, alterations to fenestration to include relocated front door, single storey front/side extension, single storey rear/side extension, part raised ridge, 2no. front, 2no. side and 2 no. rear dorme
+6009266	2026-10-01	Enforcement notice	Notice upheld			Y		
 6009270	2026-08-24	Planning	Dismissed	Braintree District Council		Y		proposed replacement outbuilding
 6009276	2026-09-22	Planning	Dismissed	Bolton Metropolitan Borough Council	HE6 P1 P2 S4 HE4 DP3 P3	Y		change of use from Class E commercial building to 2 C3 self-contained flats
 6009278	2026-09-09	Planning	Dismissed	Bristol City Council		Y		installation of safety rail to flat roof
@@ -617,6 +647,7 @@ ref	date	type	decision	lpa	nppf2026_codes	cites_2026_fw	cites_old_fw_paras	descr
 6009303	2026-09-10	Planning	Dismissed	South Cambridgeshire District Council	S5 HO7	Y		the erection of two self-build dwellings
 6009313	2026-09-23	Planning	Dismissed	Bolton Metropolitan Borough Council	HE7 DP3 S4 P2	Y		described on the application form as “retrospective erection of single storey extension at front and relocation of signage”
 6009317	2026-08-27	Householder	Dismissed	East Riding of Yorkshire Council	S4	Y		first floor extension
+6009318	2026-10-02	Planning	Dismissed	Southend-on-Sea City Council	DM1 DM3 DP3(1) P5 DP3(2) E2 L2(1)(b) TR3 N2 S3	Y		described as “Erection of ancillary storage building for associated commercial storage”
 6009322	2026-08-27	Householder	Dismissed	South Holland District Council	S4 DP3 P3	Y		Extension to existing garage to provide a ground floor games room and first floor ancillary accommodation incidental to the main dwelling, for use as part of the main household
 6009328	2026-09-07	Planning	Dismissed	Leicester City Council		Y		notification of proposed change of use of first floor from Commercial, Business and Service use (Class E) to 1 flat (1x 1-bed) (Class C3)
 6009331	2026-08-27	Householder	Dismissed	Hinckley and Bosworth Borough Council	DM10 S4 DP3	Y		for a two storey side extension
@@ -625,6 +656,7 @@ ref	date	type	decision	lpa	nppf2026_codes	cites_2026_fw	cites_old_fw_paras	descr
 6009354	2026-09-24	Planning	Dismissed	Council of the London Borough of Waltham Forest				the erection of a first-floor rear extension above the existing ground- floor retail shop
 6009357	2026-09-22	Planning	Allowed	Ribble Valley Borough Council	TR3 S4 HO7	Y		the change of use of annex to separate dwelling house
 6009359	2026-09-28	Householder	Dismissed	West Berkshire Council	S3 S4 F8 DP3 F7 N2	Y		single storey rear extension
+6009363	2026-10-01	Planning	Dismissed	North East Lincolnshire Council	L3 S5(2) TR3 N3 S5 DP3(3) DP3 HO7			nine dwellings and garages with access to be considered and all other matters reserved
 6009367	2026-09-03	Planning	Allowed	Lancaster City Council	DM4 L2 DM6	Y		change of use of existing studio/office to dwelling
 6009377	2026-09-29	Planning	Allowed	Bracknell Forest Borough Council	M4(2) DP3 S4 P6 DP4 M4(3) DM6 HO5 F2	Y		redevelopment of the site to provide 46 one and two Bedroom retirement Living Units for Older People with associated parking, landscaping and communal facilities (C3 Use Class), following the demolition of the existing b
 6009381	2026-09-21	Householder	Allowed	Council of the London Borough of Barnet	N3			Single storey rear extension with depth of 4.38m
@@ -665,6 +697,7 @@ ref	date	type	decision	lpa	nppf2026_codes	cites_2026_fw	cites_old_fw_paras	descr
 6009564	2026-08-26	Householder	Allowed	Teignbridge District Council	HE6 HE7	Y		described as “retention of timber shed in front garden.” Decision 1. The appeal is allowed and planning permission is granted for development described as “retention of timber shed in front garden” at 6 Linden Terrace, N
 6009569	2026-08-28	Planning	Allowed	Isle of Wight Council	DM2 TR7	Y		installation of pedestrian gateway; external alterations to west elevation. Appeal B Ref: 6009573 School House Barn, Land Adjacent Pear Tree Cottage, Circular Road, Seaview, Isle of Wight PO34 5ET 
 6009573	2026-08-28	Planning	Allowed	Isle of Wight Council	DM2 TR7	Y		installation of pedestrian gateway; external alterations to west elevation. Appeal B Ref: 6009573 School House Barn, Land Adjacent Pear Tree Cottage, Circular Road, Seaview, Isle of Wight PO34 5ET 
+6009577	2026-10-01	Planning	Dismissed	Basildon Borough Council				demolition of side porch and erection of single storey rear extension and new front porch to No
 6009578	2026-08-24	Planning	Dismissed			Y		described as: proposed first floor extension over existing ground floor extension
 6009581	2026-08-28	Householder	Allowed	Council of the London Borough of Harrow	M2 TR6	Y		described as installation of 1.8m high gate in rear boundary wall, hard standing to rear
 6009584	2026-09-07	Householder	Dismissed	North Yorkshire Council				‘two-storey side extension’
@@ -702,6 +735,7 @@ ref	date	type	decision	lpa	nppf2026_codes	cites_2026_fw	cites_old_fw_paras	descr
 6009697	2026-09-30	Planning	Dismissed	Cheshire East Council		Y		described as “agricultural determination for proposed general purposed produce and machinery store”
 6009698	2026-09-22	Householder	Dismissed	Folkestone and Hythe District Council	DP3 L2 L3 S4 DM3(1)	Y		roof alterations, enlarging dormer to the front, new first floor rear extension and dormer
 6009718	2026-09-04	Planning	Dismissed	West Berkshire District Council	DM1 HE6 F5 DM5 S5 HO11 F8 DM7 DM4 DM10 F7 HE4 S3			residential development for 3 dwellings
+6009720	2026-10-01	Planning	Allowed	North Hertfordshire District Council	GB7 S5 GB2 GB6 TR3 GB8 HO7 S3	Y		described as permission in principle for the erection of one detached dwelling
 6009737	2026-09-21	Planning	Dismissed	Leeds City Council		Y		change of use from 9-bedroom House in Multiple Occupation (sui generis) to six self-contained flats (C3 use), including roof lights to front and rear, existing arch to be in filled, new exit door and new door to form sto
 6009738	2026-09-23	Planning	Dismissed	Elmbridge Borough Council	DM2 S4 HC4 DP3	Y	Y	installation of 1No. BT Street Hub Unit and associated advertisement panels on either side of the unit. Appeal B Ref: 6009551 Footpath outside The Heart Centre, 54 Hepworth Way, Walton-on Thames KT12 1GH  The appeal is 
 6009739	2026-09-21	Planning	Allowed	Somerset Council		Y		change of use of agricultural buildings to 6 no. dwellinghouses (C3)
@@ -711,6 +745,7 @@ ref	date	type	decision	lpa	nppf2026_codes	cites_2026_fw	cites_old_fw_paras	descr
 6009760	2026-09-28	Planning	Dismissed	Milton Keynes Council	S4 DP3(2)(a) DP3	Y		
 6009762	2026-09-03	Planning	Allowed	Folkestone and Hythe District Council	HE6	Y		for retrospective consent to replace 4 no. timber windows with uPVC windows, and proposed replacement of 5 no. timber windows with uPVC windows
 6009765	2026-09-18	Householder	Allowed	West Northamptonshire Council				a proposed flat roof with lantern single storey extension
+6009769	2026-10-02	Planning	Dismissed	Medway Council	L3 HC7 DP3	Y		construction of a self-build, two-bedroom residential bungalow
 6009771	2026-08-17	Planning	Allowed	London Borough of Havering Council		Y		a single storey rear extension to facilitate change of use from dwelling (Use Class C3) to a house of multiple occupancy (Sui Generis), including installation of security gate, new fences, bin/cycle stores and internal a
 6009772	2026-08-21	Planning	Dismissed		HE5 HE4 HE6	Y		‘the Installation of a multifunctional Hub unit consisting of a free- standing structure featuring an integrated digital advertisement display screen on one side and emergency functionality including the provision of a d
 6009775	2026-08-17	Planning	Dismissed	Council of the London Borough of Camden		Y	Y	Installation of New BT Street Hub and associated display of advertisement panels to both sides of the unit. Appeal B Ref: 6009777 Footpath outside of 297 Pentonville Road, London WC1X 8PX 
@@ -730,6 +765,7 @@ ref	date	type	decision	lpa	nppf2026_codes	cites_2026_fw	cites_old_fw_paras	descr
 6009849	2026-09-28	Planning	Allowed	Brentwood Borough Council	GB7 S5 DM6 GB6 GB8 HO7	Y		Outline application for construction of a single self-build family dwelling
 6009850	2026-08-27	Planning	Dismissed	Dorset Council		Y		change of use from agricultural barn to residential dwelling
 6009852	2026-09-15	Planning	Dismissed	Calderdale Metropolitan Borough Council	S4 DP3 P3	Y		1no. new build dormer bungalow
+6009854	2026-10-02	Planning	Dismissed	West Suffolk Council				change of use from agricultural building to create four dwellings
 6009857	2026-09-23	Planning	Dismissed	Kingston-Upon-Hull City Council	DP3 HE6 HE4 HE9 P5 HO7 S3 S4	Y		described as a planning application for change of use from C3 dwellings to sui generis use, including: ground floor flat to office use; external insulated render; rear windows; and external fencing
 6009858	2026-09-29	Householder	Allowed in part	Pendle Borough Council	L2			
 6009864	2026-08-21	Planning	Allowed	Somerset Council	CO1	Y		installation of 1 no. new communications kiosk with integrated defibrillator and advertising display. Appeal B Ref: 6009865 Land outside 80 Middle Street, Yeovil BA20 1LT 
@@ -738,11 +774,13 @@ ref	date	type	decision	lpa	nppf2026_codes	cites_2026_fw	cites_old_fw_paras	descr
 6009867	2026-09-18	Commercial advertisement	Dismissed	Barnsley Metropolitan Borough Council	S4 S3 CO1 DP3	Y		installation of a communication kiosk with integrated defibrillator and advertisement display. Appeal B Ref: 6009867 Land outside Exchange Station, Midland Street, Barnsley, S70 1SE 
 6009869	2026-09-30	Planning	Allowed	Lewes District Council	DM6			the change of use from single family dwelling to two self-contained flats
 6009871	2026-09-08	Planning	Dismissed	London Borough of Redbridge	S4 TC3	Y		change of use of premises from Use Class B (storage) to Use Class E (a) retail
+6009880	2026-10-01	Planning	Dismissed	North Yorkshire Council		Y		
 6009886	2026-09-04	Planning	Dismissed	Council of the London Borough of Croydon	S4 DM10 S3 TR6	Y		the erection of a three-storey block of flats together with two detached two-storey houses; formation of accessway, provision of car and cycle parking, refuse storage and soft landscaping
 6009889	2026-08-21	Householder	Dismissed	Oadby and Wigston Borough Council		Y		a single storey rear extension
 6009894	2026-08-25	Planning	Allowed	Cheshire East Council		Y		prior approval for change of use to a 3 bedroom single storey dwelling with the addition of a single storey extension to the rear elevation
 6009905	2026-09-11	Planning	Allowed	Council of the London Borough of Redbridge	HO7	Y		erection of single storey ground floor rear extension and change of use of the property to a C4 HMO for 6 people
 6009909	2026-08-17	Householder	Dismissed	East Staffordshire Borough Council	HE9 HE7 HE6	Y		for the raising of the ridge height of the existing roof, erection of a two storey rear extension (principal elevation), single storey front infill extension and first floor front extension and the installation of solar 
+6009910	2026-10-01	Planning	Dismissed	Blaby District Council	DM1 S4	Y		erection of a 2-bedroom dwelling to the rear of 12 Victoria Road
 6009917	2026-09-17	Planning	Dismissed	Folkestone and Hythe District Council	E4 S4 HO7	Y		change of use from former hotel to dwelling house
 6009919	2026-09-29	Planning	Dismissed	Thurrock Council	GB7 GB2(1) TR3 HE6 GB6(2) HE6(3) S4 S5	Y		construction of pool and eco annexe with green roof construction
 6009929	2026-08-20	Planning	Dismissed	Council of the London Borough of Ealing	W3 S4 DP3	Y		for the conversion of existing flat into 2 x self-contained flats, roof extension with roof lights, and associated refuse, cycle storage and amenity space
@@ -754,12 +792,14 @@ ref	date	type	decision	lpa	nppf2026_codes	cites_2026_fw	cites_old_fw_paras	descr
 6009957	2026-09-28	Householder	Dismissed	Telford and Wrekin Council	DP3(1) DP3	Y		
 6009960	2026-09-22	Householder	Dismissed	Walsall Metropolitan Borough Council				“single storey rear extension 5.615m”
 6009962	2026-09-23	Planning	Dismissed		P2 GB7 GB6	Y		
+6009965	2026-10-02	Planning	Dismissed	Council of the London Borough of Barking & Dagenham	TR3 S4 S3	Y		change of use of the dwelling (Use Class C3) to a 3-bedroom HMO (Use Class C4) for up to four occupants
 6009966	2026-09-18	Planning	Dismissed	Tandridge District Council	GB7 TR3 S5 GB6 S3	Y		the erection of up to 5 dwellings
 6009969	2026-09-28	Householder	Dismissed	Telford and Wrekin Council	DP3(1) DP3	Y		erection of a single storey rear extension, erection of a first-floor extension above existing garage and creation of a front porch
 6009970	2026-09-02	Planning	Dismissed	Council of the London Borough of Enfield		Y		Change of use from Use Class C3 (dwelling house) to one 4-bedroom and one 5-bedroom House in Multiple Occupation (Sui Generis) involving changes to fenestration (part retrospective)
 6009972	2026-09-02	Planning	Dismissed	Council of the London Borough of Enfield		Y		Change of use from Use Class C3 (dwelling houses) to two 5- bedroom Houses in Multiple Occupation (Sui Generis) involving changes to fenestration (part retrospective)
 6009974	2026-09-18	Planning	Allowed	Dover District Council				1 number 30.5m x 15.225m agricultural barn for the purpose of caring for ewes in lamb and care of sheep
 6009978	2026-08-28	Planning	Allowed	Council of the London Borough of Ealing	W4	Y	Y	
+6009979	2026-10-01	Planning	Dismissed	Pendle Borough Council	HE4 HE6	Y		
 6009984	2026-08-25	Householder	Allowed	Portsmouth City Council		Y		a front dormer
 6009985	2026-09-21	Planning	Dismissed	Cherwell District Council	S5 HO11 S3	Y	Y	for Permission in Principle - Proposed conversion of existing building to form 2 no. dwellinghouses
 6009988	2026-09-29	Planning	Dismissed	Council of the Royal Borough of Kingston Upon Thames	DM10 S4 S4(1) P3	Y		described as the demolition of existing building to allow the erection of a 4 storey building to accommodate a replacement commercial unit and 7 flats
@@ -770,6 +810,7 @@ ref	date	type	decision	lpa	nppf2026_codes	cites_2026_fw	cites_old_fw_paras	descr
 6010021	2026-09-08	Planning	Allowed	Burnley Borough Council		Y		described on the application form as “Permission in Principle for the erection of one building to accommodate 6no. flats”
 6010023	2026-09-11	Planning	Dismissed	Ipswich Borough Council	S4 HO7 TC2 TR3 TR4	Y		the change of use from commercial use (Class E) to a mixed-use development comprising five dwelling flats (Class C3) and commercial use (Class E) including external alterations and removal of a pitched roof at first floo
 6010024	2026-09-15	Planning	Dismissed	Kirklees Metropolitan Council	HC5 S4	Y		described as a retrospective application for the change of use of part of an existing residential kitchen to allow small scale home cooking for take away and delivery
+6010033	2026-10-01	Planning	Dismissed	Council of the London Borough of Hackney	HC5 TR6	Y		the change of use of the ground floor from Class E (Barber Shop) to a sui generis use comprising a takeaway and delivery-only food premises (no primary cooking or extraction system required) operating between 10:00 and 2
 6010035	2026-09-22	Planning	Dismissed		HC6 S4 E2 S4(2)(a)(i)	Y		the conversion of Victoria Vaults public house into 3 townhouses
 6010036	2026-09-09	Planning	Allowed	Wiltshire Council	HE7(2)	Y		
 6010038	2026-08-20	Householder	Dismissed	Surrey Heath Borough Council		Y		the demolition of existing garage and erection of lower ground, ground floor and first floor side and rear extension, and car port
@@ -778,6 +819,7 @@ ref	date	type	decision	lpa	nppf2026_codes	cites_2026_fw	cites_old_fw_paras	descr
 6010059	2026-08-17	Planning	Dismissed	Council of the London Borough of Camden		Y	Y	Installation of New BT Street Hub and associated display of advertisement panels to both sides of the unit. Appeal B Ref: 6010061 Footpath on Euston Road Outside the Standard Hotel, 10 Argyle Street, London WC1H 8EG 
 6010061	2026-08-17	Commercial advertisement	Dismissed	Council of the London Borough of Camden		Y	Y	Installation of New BT Street Hub and associated display of advertisement panels to both sides of the unit. Appeal B Ref: 6010061 Footpath on Euston Road Outside the Standard Hotel, 10 Argyle Street, London WC1H 8EG 
 6010063	2026-08-25	Planning	Dismissed	Council of the London Borough of Ealing	S4	Y		the conversion of a dwellinghouse into two self-contained flats; single storey rear extension; demolition of single storey conservatory; first floor rear extension; alterations to side fenestration; rear roof extension; 
+6010069	2026-10-02	Planning	Dismissed	Tameside Metropolitan Borough Council	S4 TR4 P3	Y	Y	a change of use from 4 bed dwellinghouse (Use Class C3) to 6- bedroom HMO (Use Class C4)
 6010078	2026-09-01	Planning	Allowed	Calderdale Metropolitan Borough Council	GB1	Y		a single storey extension to catering kitchen
 6010085	2026-09-22	Householder	Allowed	Council of the London Borough of Bromley	HC1	Y		
 6010086	2026-09-08	Planning	Allowed	Durham County Council		Y		the erection of a livestock building
@@ -789,6 +831,7 @@ ref	date	type	decision	lpa	nppf2026_codes	cites_2026_fw	cites_old_fw_paras	descr
 6010107	2026-08-17	Planning	Dismissed	London Borough of Barking and Dagenham Council		Y		a change of use from a dwelling to a house in multiple occupation within Use Class C4
 6010110	2026-09-30	Planning	Dismissed	Council of the London Borough of Hackney				demolition of the partial existing roof & window and a proposed roof terrace with obscure glazing and accessible through a new door. Additionally, proposed stairs and a floor slab connecting to the roof terrace
 6010111	2026-09-30	Planning	Dismissed	Council of the London Borough of Hackney		Y		the demolition of rear existing roof and proposal of a rear dormer extension of the property with installation of two Velux Rooflights at front of the existing roof
+6010112	2026-09-30	Planning	Dismissed	North Yorkshire Council	HO11 S5 S5(2) S5(5) E4 S3 GB7 S5(3) DP3 E2	Y		change of use of land (including the existing caravan currently used as a welfare unit) to residential use (C3) to provide a management dwelling associated with the operation of Balne Moor Course Fisheries
 6010130	2026-08-19	Householder	Allowed	Woking Borough Council • The application Ref is PLAN/2026/00	DM9	Y		described as rear garden outbuilding with flat roof and a maximum eaves height of 2.5m and for use as an office, storage and gym space
 6010150	2026-09-11	Planning	Allowed	Council of the London Borough of Hounslow		Y		the installation of 1no. BT Street Hub and removal of associated BT payphones. Appeal B Ref: 6010152 Pavement o/s Aldi, 76-86 High Street, Feltham TW13 4DD 
 6010152	2026-09-11	Commercial advertisement	Allowed	Council of the London Borough of Hounslow		Y		the installation of 1no. BT Street Hub and removal of associated BT payphones. Appeal B Ref: 6010152 Pavement o/s Aldi, 76-86 High Street, Feltham TW13 4DD 
@@ -809,6 +852,7 @@ ref	date	type	decision	lpa	nppf2026_codes	cites_2026_fw	cites_old_fw_paras	descr
 6010196	2026-09-18	Planning	Dismissed	Malvern Hills District Council	L3 HO7	Y		4no. dwellings and associated works
 6010197	2026-09-17	Planning	Dismissed	King's Lynn and West Norfolk Borough Council	DP3 HE4 HE6 S4 F6 S3	Y		described as ‘proposed residential flat development (four duplex flats) following the demolition of the existing building’
 6010198	2026-09-24	Planning	Allowed	Three Rivers District Council	GB7 DM2 GB6 HE6 HE9 DM1 DM3 DM6	Y		demolition of existing dwelling and construction of a replacement dwelling. (Self Build)
+6010199	2026-10-02	Planning	Dismissed	Coventry City Council	CO1	Y		the proposed installation of a telecommunications base station comprising a 20m monopole supporting 9 no. antennas and 2 no. dishes with wraparound cabinet at the base, together with 6 no. ground based equipment cabinets
 6010207	2026-09-29	Planning	Dismissed	Council of the London Borough of Enfield	DP3 S4	Y		the conversion of a single family dwellinghouse (C3) to a 3-bedroom 4 persons HMO (C4) together with refuse and 4 cycle spaces
 6010211	2026-09-29	Planning	Dismissed	Leeds City Council	DM6 P3			the change of use from a dwelling to short-term let accommodation
 6010213	2026-09-30	Planning	Dismissed	Cheshire East Council	GB7(1)(g) GB7(1)(a) GB6(2) GB7 GB6	Y		the retention of a small number of agricultural structures and associated areas of hardstanding. The holding is used for keeping and managing alpacas, which require daily husbandry, feeding, and welfare monitoring. The w
@@ -831,6 +875,7 @@ ref	date	type	decision	lpa	nppf2026_codes	cites_2026_fw	cites_old_fw_paras	descr
 6010292	2026-09-09	Householder	Dismissed	Welwyn Hatfield District Council	GB6 GB7	Y		the replacement of a previously existing outbuilding
 6010295	2026-09-07	Commercial advertisement	Allowed	Manchester City Council	M2 P1 P2 DM1			removal of an existing InLink Unit, and the deployment of a replacement Street Hub 3 unit. Appeal Ref: 6010295 Fountain Street, Outside No. 20, Manchester M2 3AW 
 6010301	2026-08-17	Planning	Dismissed	Newark & Sherwood District Council	DM8 DM9	Y		residential development of a minimum of 1 dwelling and a maximum of 5 dwellings
+6010305	2026-10-02	Planning	Dismissed	North Somerset Council	S4 DP3 DM4 HE5(2) HE6 DM3 TC2 P3 HE4 HE5 HE9 S3	Y		change of use of ground floor retail unit to be combined with upper floor dwelling to form one single dwellinghouse
 6010310	2026-09-11	Planning listed building and conservation area	Allowed	Buckinghamshire Council	S4	Y		
 6010311	2026-09-21	Planning	Allowed	High Peak Borough Council		Y		replacement windows and door set to both the front and rear porches to the side elevation
 6010313	2026-09-04	Planning	Dismissed	Tandridge District Council	GB7(1)(g) GB7(1)(b) HE6 DP3 GB6 GB7 TR3	Y		conversion of agricultural building to form five dwellings with associated parking and landscaping
@@ -848,10 +893,12 @@ ref	date	type	decision	lpa	nppf2026_codes	cites_2026_fw	cites_old_fw_paras	descr
 6010354	2026-09-16	Planning	Dismissed	King's Lynn and West Norfolk Borough Council	S5(4) S5(1)(e) DP3 S5	Y		self-build single dwelling house using the fall-back position giving up the current Class Q for two dwellings at South Creek, Three Acres, Fakenham, Norfolk
 6010362	2026-08-27	Planning	Dismissed	Watford Borough Council	HO3 S4 TR6 HC6 S3 DP3 L2(1)(d)(ii)	Y		Change of use of rear part of ground floor from commercial (Class E) to a residential studio flat (Class C3) with internal reconfiguration
 6010375	2026-09-09	Planning	Dismissed	Bournemouth Christchurch and Poole Council		Y		
+6010376	2026-10-01	Planning	Dismissed	Kingston-Upon- Hull City Council	DP3 HO9 F1 HC6 P5 L2 HO7 HE4 HE9 HE7 DM3 HO3 S3 S4	Y		the change of use, extensions (first and second floor) to, and external alterations of former grammar school building to provide student accommodation (total of 37 beds); change of use of former stores to provide landlor
 6010378	2026-08-24	Planning	Dismissed	Teignbridge District Council		Y		
 6010379	2026-09-15	Planning	Dismissed	Council of the London Borough of Redbridge	TR6(4) TR3 S4	Y		described as the change of use from small HMO (use class C4) into larger HMO (sui generis) (maximum 11 persons)
 6010382	2026-08-27	Planning	Allowed	Mid Sussex District Council	CO1 CO2	Y		
 6010391	2026-09-09	Planning	Dismissed		S4 HE4 HE6 HE9 DP3(1) HE6(4) HC1 DP3(3)	Y		construction of single storey side and rear extensions to the ground floor commercial unit together with a new glazed shopfront, side access doors, boundary treatment and provision of bin storage
+6010392	2026-10-02	Planning	Allowed	Rushcliffe Borough Council	S5 P1 S4 DM6 GB7 S3	Y		the erection of a replacement dwelling, carport and garage following demolition of the existing dwelling and garage
 6010393	2026-09-21	Planning	Dismissed	Somerset Council	HO7 W4 S4 DP3(1) DP3(3)	Y		one single storey custom build dwelling, new tree and hedgerow planting, and an upgrade to the existing foul water system
 6010396	2026-09-07	Planning	Dismissed	Kirklees Metropolitan Council				proposed installation of 1no. new BT Street Hub, incorporating 2no. digital 75" LCD advert screens, and associated BT Phone Kiosk removal. Appeal Ref: 6010399 Pavement outside 42 New Street, Huddersfield HD1 2BU 
 6010397	2026-09-01	Planning	Allowed	Sefton Metropolitan Borough Council	DM2 S4 TC2 DM6 DM7	Y		two bedroomed flat above existing retailing property – hairdresser’s
@@ -872,6 +919,8 @@ ref	date	type	decision	lpa	nppf2026_codes	cites_2026_fw	cites_old_fw_paras	descr
 6010437	2026-09-29	Planning	Allowed	Charnwood Borough Council	DM6	Y		
 6010440	2026-09-24	Planning	Allowed	Northumberland County Council	DM6			described as “reconfiguration of the existing golf course, change of use of the 7 northernmost golf holes to accommodate up to 180 additional new static caravans/lodges and creation of a new leisure hub building with ass
 6010442	2026-09-14	Planning	Dismissed	Cornwall Council	S5 HO7 TR3	Y		a single Self Build property
+6010443	2026-10-01	Commercial advertisement	Dismissed	Council of the London Borough of Hammersmith and Fulham	HE6	Y		Installation of a multifunctional Hub unit consisting of a free-standing structure featuring an integrated digital advertisement display screen on one side and emergency functionality including the provision of a defibri
+6010445	2026-10-01	Planning	Dismissed	Council of the London Borough of Hammersmith and Fulham	HE6	Y		Installation of a multifunctional Hub unit consisting of a free-standing structure featuring an integrated digital advertisement display screen on one side and emergency functionality including the provision of a defibri
 6010455	2026-09-14	Householder	Dismissed	Folkestone and Hythe District Council				the erection of a single storey detached outbuilding
 6010456	2026-09-15	Householder	Dismissed	Dartford Borough Council	DP3	Y		described as ground floor rear extension to extend kitchen, build out three gables on the ground floor and create a new first floor with 5 bedrooms and then create 2 rooms in the loft for a cinema and games room. Convers
 6010457	2026-09-02	Planning	Dismissed	Middlesbrough Council	P5 TR4	Y		the installation of 1 No. BT street hub and associated display of advertisement panels to both sides of the unit. Appeal B Ref: 6010458 Footpath Outside Aldi, 106A Newport Road, Middlesbrough TS1 5JF 
@@ -895,6 +944,7 @@ ref	date	type	decision	lpa	nppf2026_codes	cites_2026_fw	cites_old_fw_paras	descr
 6010535	2026-09-04	Householder	Dismissed	Elmbridge Borough Council	DM2 DP3(1)	Y		a two storey rear extension
 6010537	2026-09-25	Planning	Allowed	South Staffordshire District Council	GB7 GB1 GB2 GB5 GB6 N6 S5	Y		permission in principle for residential development
 6010542	2026-08-20	Planning	Dismissed	Peterborough City Council	S5	Y		Change of use of Agricultural Barn to B2/B8 use
+6010548	2026-10-02	Planning	Allowed	North Lincolnshire Council				Prior Approval under Schedule 2, Part 17, Class B of the Town and Country Planning (General Permitted Development) (England) Order 2015 for the installation and operation of a mobile concrete batching plant
 6010549	2026-09-23	Planning	Allowed			Y		the removal of the existing revolving doors and erection of a single storey glazed extension over the existing entrance steps, erection of handrail and new steps to the side over the existing forecourt facing Hammersmith
 6010552	2026-09-18	Planning	Dismissed	Liverpool City Council		Y		an extension and a change of use of the upper floors from 2 apartments to a 7 bed house in multiple occupation (HMO)
 6010555	2026-08-18	Householder	Dismissed	Mole Valley District Council • The application Ref is MO/202		Y		erection of part single storey front, side and rear extension with front entrance canopy and raised roof ridge height to create accommodation at first floor level with 3 No. dormer windows at front, 4 No. dormer windows 
@@ -902,6 +952,7 @@ ref	date	type	decision	lpa	nppf2026_codes	cites_2026_fw	cites_old_fw_paras	descr
 6010567	2026-08-24	Householder	Dismissed	Brentwood Borough Council	GB7 HE4 HE6 GB6	Y		
 6010568	2026-09-16	Planning	Dismissed	Spelthorne Borough Council • The application Ref is 26/00172	P2	Y		the change of use from Class C4 House in Multiple Occupation (up to 6 residents) to Sui Generis House in Multiple Occupation for 8 residents
 6010571	2026-08-20	Householder	Allowed	Barnet London Borough Council		Y		the erection of a single-storey side extension
+6010578	2026-10-02	Planning	Allowed	Cheshire East Council	TR3 GB7 TR3(2) GB7(1)(h) F5(2)(b)(i) F5(2)(b)(ii) S5(5) S5(2)	Y		the erection of 5 dwellings
 6010582	2026-09-24	Householder	Dismissed	Council of the London Borough of Barnet	DP3(1)	Y		double storey side extension to the dwelling house, 3.m2 front porch and single storey rear extension
 6010597	2026-09-24	Householder	Allowed	Bath and North East Somerset Council		Y		the erection of a two storey side and rear extension
 6010603	2026-09-08	Householder	Allowed	St Albans City & District Council	P3 GB7	Y		double storey side extension to replace existing single storey side extension, small rear infill extension, reconfiguration of ground and first floor to provide better layout
@@ -935,6 +986,7 @@ ref	date	type	decision	lpa	nppf2026_codes	cites_2026_fw	cites_old_fw_paras	descr
 6010730	2026-09-25	Planning	Allowed	Slough Borough Council	P1	Y		the change of use from 5 bed (6 person) House in Multiple Occupation (Use Class C4) to 9 bed (9 person) House in Multiple Occupation (Sui Generis Use) Decision 1. The appeal is allowed and planning permission is granted 
 6010735	2026-08-19	Householder	Dismissed	Elmbridge Borough Council	DM2	Y		described as brickwork front boundary wall. Brickwork piers with coping stone on top of piers. Metalwork decorative railings between brickwork piers. Pair of decorative vehicular entrance gates
 6010739	2026-09-03	Planning	Allowed	County of Herefordshire District Council	HC6 S4 L2(1)(b) HO7 HO9(1)(a)(i) P3 DM6	Y		demolition of existing Church. Erection of 52 Bed care facility on three floors with ancillary areas and parking
+6010746	2026-10-02	Planning	Dismissed	Epping Forest District Council	DM4 GB7 HE6 HE5 DM7 DM9	Y		Demolition the existing house and garage and erection a new single 
 6010751	2026-08-25	Planning	Dismissed	Cheshire East Council	F5 F6	Y	Y	an agricultural barn to support agricultural use of the site
 6010755	2026-09-28	Planning	Dismissed	Leeds City Council	P3			an outdoor TV screen
 6010756	2026-09-16	Planning	Dismissed	Dorset Council		Y		
@@ -970,6 +1022,7 @@ ref	date	type	decision	lpa	nppf2026_codes	cites_2026_fw	cites_old_fw_paras	descr
 6010837	2026-09-14	Commercial advertisement	Allowed	Council of the London Borough of Lambeth	S3 S4 TR6 TR4 DM6	Y		removal of an existing InLink Unit, and the deployment of a replacement Street Hub 3 unit. Appeal B Ref: 6010837 Denmark Hill, Outside No. 124, London SE5 8RX 
 6010838	2026-09-14	Planning	Allowed	Council of the London Borough of Lambeth	S3 S4 TR6 TR4 DM6	Y		removal of an existing InLink Unit, and the deployment of a replacement Street Hub 3 unit. Appeal B Ref: 6010837 Denmark Hill, Outside No. 124, London SE5 8RX 
 6010839	2026-08-25	Planning	Allowed	Council of the London Borough of Barnet		Y		the change of use of the property from a single family dwelling (Class C3) to a 5-bed House in Multiple Occupation (Class C4) for up to 6 people
+6010842	2026-10-02	Householder	Dismissed	Council of the London Borough of Barnet	HE6(3) HE6(4) HC1	Y		a single storey rear extension with 1no. rooflight. Roof extension involving rear dormer window and 2no. front facing rooflights
 6010843	2026-09-18	Householder	Dismissed	Tendring District Council				single storey and two storey rear extensions
 6010844	2026-09-04	Planning	Dismissed	Council of the London Borough of Camden		Y	Y	installation of new BT Street Hub and associated display of advertisement panels on either side of the unit. Appeal B Ref: 6010845 Footpath outside of 366 Gray’s Inn Road, London WC1X 8BE 
 6010845	2026-09-04	Commercial advertisement	Dismissed	Council of the London Borough of Camden		Y	Y	installation of new BT Street Hub and associated display of advertisement panels on either side of the unit. Appeal B Ref: 6010845 Footpath outside of 366 Gray’s Inn Road, London WC1X 8BE 
@@ -996,9 +1049,11 @@ ref	date	type	decision	lpa	nppf2026_codes	cites_2026_fw	cites_old_fw_paras	descr
 6010912	2026-08-27	Planning	Allowed	Birmingham City Council	DP3 TR6	Y	Y	
 6010917	2026-09-14	Householder	Allowed	Royal Borough of Windsor & Maidenhead	DM6			for a part two storey, part first floor side/rear extension, first floor rear extension, part garage conversion and alterations to fenestration
 6010929	2026-09-09	Planning	Allowed	Central Bedfordshire Council	HO9	Y		the change of use from a 3 bed dwelling (C3a) to a one bed children’s care home (C2 residential institution)
+6010933	2026-10-02	Planning	Allowed	Tendring District Council	HE4 HE5 DP3(1) DP3(2) TR3 TR4 E2 L2(1)(b) DM6(2)(c)	Y		originally described as “Minor changes to appearance of timber cabin as approved. Proposed change of use to timber cabin to include workshop/studio use”
 6010934	2026-09-30	Planning	Dismissed	Rutland County Council	DP3 HO11 S5 TR6 N2 HE5 HO7	Y		a Paragraph 84 dwelling, including a solar array and hard/soft landscaping
 6010944	2026-09-23	Planning	Dismissed	Eastbourne Borough Council	TR2 TR6	Y	Y	change of use from C1 Guest House to C4 House in Multiple Occupation
 6010946	2026-09-17	Planning	Dismissed	Nottingham City Council	HO6 HO1 HO2 S4 S3 HO7 HO9 TR3	Y		
+6010951	2026-10-01	Planning	Dismissed	Uttlesford District Council	F5 S4 F4 F7	Y		described as the erection of one self-build dwelling with cartlodge, altered vehicle access and associated landscaping
 6010956	2026-09-03	Householder	Dismissed	Council of the London Borough of Ealing	S4 W4 HE6 HC1	Y		a replacement of two single-glazed timber windows on ground floor and first floor front elevation with timber like-to-like double glazed casement windows
 6010965	2026-09-09	Householder	Allowed	Council of the London Borough of Havering	HC1	Y		extension to front of existing garage, conversion of garage and link to garage
 6010971	2026-08-24	Householder	Dismissed	Colchester City Council		Y		loft conversion with rear dormer and front velux windows
@@ -1025,11 +1080,14 @@ ref	date	type	decision	lpa	nppf2026_codes	cites_2026_fw	cites_old_fw_paras	descr
 6011053	2026-09-22	Householder	Dismissed					a single storey rear extension
 6011055	2026-09-22	Planning	Dismissed	City of York Council	HC6 S4 S4(2)(a)(i)	Y		the change of use of ground floor from public house (sui generis) to cafe (Class E)
 6011059	2026-09-07	Planning	Dismissed	Sheffield City Council	TR6	Y		the use of a dwelling house (Use class C3) as a nursery/family centre (Use class E (f) and the erection of a single storey side extension and canopy to the front
+6011060	2026-10-02	Planning	Dismissed	Wokingham Borough Council	CO2	Y		Installation of replacement electronic communications apparatus comprising slimline lattice mast, 3 no. aerials, 2 no. transmission dishes, 1 no. GPS aerial, radio equipment housing and development ancillary to radio equ
+6011062	2026-10-01	Planning	Dismissed	Wokingham Borough Council	DP3 HE6 S5 P3 HE4 HE5 HE7 HE9 S5(2)	Y		Part demolition of existing building and replacement with a three- storey extension to provide extra-care units (Use Class C2), with associated soft and hard landscaping works; provision of additional vehicle parking, bi
 6011065	2026-08-24	Householder	Dismissed	North East Derbyshire District Council	GB7 GB2 GB6	Y		an extension over existing garage with balcony to rear
 6011066	2026-09-29	Householder	Allowed in part	Cheshire East Council	DP3	Y		addition of a single storey room to side of the house and extension of usable/liveable space upstairs to make use of wasted space created by the sloped roof
 6011071	2026-09-10	Planning	Dismissed	Council of the London Borough of Islington	HE6 HE7 HC1	Y		
 6011077	2026-09-04	Householder	Allowed	West Northamptonshire Council		Y		
 6011079	2026-09-10	Planning	Dismissed	Mid Sussex District Council	HO12 F7 F4 S5 TR4 HO7 S5(4)	Y		described as ‘full application for a proposed 5 pitch settled Gypsy accommodation site including vehicular access permitted under DM/20/1277; revised application dealing with residual ecology and arboricultural matters f
+6011081	2026-10-02	Planning	Dismissed	Council of the London Borough of Newham	DP3 P3 S4 S3	Y		demolition of the existing single-storey rear structure and erection of a two-storey building, comprising ancillary ground floor waiting area to the existing hand car wash (Sui Generis) and the creation of two self-conta
 6011087	2026-09-18	Householder	Dismissed	Dartford Borough Council		Y		Erection of two-storey front, rear and flanking side extensions, with a Juliette balcony to the rear, a garage conversion, external façade alterations and roof lights. Raising of roof height and re-structuring to create 
 6011088	2026-09-11	Planning	Dismissed	Birmingham City Council	S4 DP3 DM2 S3 HO7 HO1	Y		the change of use of an existing dwellinghouse (Use Class C3) to a small House in Multiple Occupation (Use Class C4)
 6011093	2026-09-23	Planning	Allowed	South Derbyshire District Council	S4	Y		erection of 10 no. dwellings
@@ -1059,6 +1117,7 @@ ref	date	type	decision	lpa	nppf2026_codes	cites_2026_fw	cites_old_fw_paras	descr
 6011209	2026-09-07	Planning	Dismissed	Stafford Borough Council	S5 S3 TR6	Y		change of use to dog walking field and associated works
 6011212	2026-08-28	Householder	Allowed	Hartlepool Borough Council		Y		part retrospective application for the erection of a raised decked area together with an associated enclosure to the rear of the property
 6011217	2026-09-23	Planning	Allowed	South Derbyshire District Council	DP1 P1 P2 S3 S5(1)(d) HO7 S5 HO1	Y		permission in principle for the erection of a self-build dwelling
+6011219	2026-10-01	Planning	Dismissed	Council of the London Borough of Richmond Upon Thames		Y		installation of a timber decking system for the proposed external permanent seating area
 6011224	2026-09-09	Planning	Allowed	South Oxfordshire District Council	L2(1)(ii) HO1 HO8	Y		construction of new self-build two bedroom, 1.5 storey detached house with two off-street parking spaces, bike and bin stores and private amenity space
 6011227	2026-09-25	Planning	Dismissed	South Kesteven District Council	S4 S5 HE6 S3 DP3	Y		residential development (outline)
 6011231	2026-09-15	Planning	Allowed	West Lancashire Borough Council	S5(3) S5(2) HO11(1) HO11 DM6(4) DM6(1) S5 TR3 HO7 L2(1)	Y		change of use of 'Barn A' to dwelling and 'Barn B' to ancillary garage
@@ -1072,10 +1131,13 @@ ref	date	type	decision	lpa	nppf2026_codes	cites_2026_fw	cites_old_fw_paras	descr
 6011290	2026-09-23	Planning	Allowed	Darlington Borough Council		Y		
 6011295	2026-08-17	Householder	Dismissed	Council of the London Borough of Bromley		Y	Y	erection of first floor rear extension and raising of height of existing first floor rear extension
 6011301	2026-09-10	Planning	Allowed	Bromsgrove District Council	TR3 GB7(1)(g) S5 GB7 GB2 TR4 S5(2)	Y		‘erection of between 3no. and 5no. bungalows and houses.’ Decision 1. The appeal is allowed and permission in principle is granted for the erection of between 3no. and 5no. bungalows and houses at Land at Doctors Hill, B
+6011302	2026-10-02	Planning	Dismissed	Nottingham City Council	S4 P4 S3 E2 P3	Y		
 6011314	2026-09-14	Planning listed building and conservation area	Dismissed	Herefordshire Council	HE6 HE4 S3(1) S5	Y		Internal and external alterations including single storey extension. Appeal B Ref: 6011314 Hill House Farm, Bosbury, Ledbury, HR8 1JU 
 6011319	2026-09-14	Householder	Dismissed	Herefordshire Council	HE6 HE4 S3(1) S5	Y		Internal and external alterations including single storey extension. Appeal B Ref: 6011314 Hill House Farm, Bosbury, Ledbury, HR8 1JU 
+6011321	2026-10-01	Planning	Dismissed	Leeds City Council	TR6 DP3 S4	Y		a retrospective application: car park layout at Ash Court and storage unit rear of Cross Hills
 6011324	2026-09-28	Planning	Dismissed	Council of the London Borough of Waltham Forest				the construction of a two storey dwellinghouse (1 bedroom) (Use class C3) including landscaping and ancillary refuse and cycle storage
 6011330	2026-09-15	Planning	Dismissed	North East Derbyshire District Council	GB6 GB7 GB2 HO7	Y		demolition of existing equestrian buildings and replacement with a new dwelling with matters of appearance, scale and layout (custom and self-build scheme) Decision 1. The appeal is dismissed. Preliminary Matters 2. A ne
+6011337	2026-10-01	Planning	Dismissed	West Lindsey District Council	S4 S1 M4(2) M4(3) S4(3) S4(2) HO1 HO5 S5 S5(4) TR3 HO7 HO9 L3(4)			three over 55's detached dwellings
 6011342	2026-09-29	Commercial advertisement	Allowed	Council of the London Borough of Barking & Dagenham				
 6011344	2026-09-22	Householder	Dismissed	North Lincolnshire Council	HO7 DP3(1) DP3(3) S4(1)	Y		a stand alone single story building in rear garden to provide annex
 6011347	2026-09-11	Planning	Allowed	East Staffordshire Borough Council		Y		the erection of security fence and gates
@@ -1083,6 +1145,7 @@ ref	date	type	decision	lpa	nppf2026_codes	cites_2026_fw	cites_old_fw_paras	descr
 6011352	2026-09-08	Householder	Dismissed	Peterborough City Council		Y		a two storey side and rear and single storey rear extension
 6011358	2026-09-30	Householder	Dismissed	Council of the London Borough of Haringey	DM1 DP3	Y		the erection of a side and rear extension including enlargement of the existing rear extension; loft conversion with rear roof extension and rooflights
 6011362	2026-09-25	Householder	Allowed	Huntingdonshire District Council	HE6 HE9	Y		the demolition of existing outbuilding, single storey rear extension to existing dwelling and single storey tractor/car 3 bay open barn. Appeal B Ref: 6010766 15 High Street, Alconbury Weston, Cambridgeshire PE28 4JP 
+6011365	2026-10-02	Planning	Dismissed	South Cambridgeshire District Council	S5 DP3 HO7 N2	Y		up to seven self/custom-build dwellings
 6011369	2026-08-17	Householder	Dismissed	City of Doncaster Council		Y		the increase in height of boundary wall with a maximum height of 2m (Retrospective)
 6011372	2026-08-28	Householder	Dismissed	Redcar and Cleveland Borough Council		Y		described as hip to gable loft conversion including rear dormer extension with Juliet balcony
 6011373	2026-09-07	Planning	Dismissed	Ashfield District Council	S4 DP3	Y	Y	construction of new dormer bungalow
@@ -1099,6 +1162,7 @@ ref	date	type	decision	lpa	nppf2026_codes	cites_2026_fw	cites_old_fw_paras	descr
 6011417	2026-09-04	Householder	Allowed	Council of the London Borough of Barnet		Y		described as part single storey, first floor rear extension with pitched roof following the reduction in depth of the existing rear extension. Roof extension with 1no. rear dormer windows and 1no. front facing rooflight.
 6011421	2026-09-21	Planning	Dismissed	High Peak Borough Council	DP3 L2(1)(d)(ii) S1 S4 L3 L2(1)(d) L2(1)(d)(i)	Y		proposed detached dwelling
 6011422	2026-09-17	Householder	Dismissed	Nottingham City Council		Y		described as “Remove hedge and existing fence and replace with a new fence around the boundary. We plan to do this for security and to stop people walking onto our property as well as improve the appearance of the local 
+6011423	2026-10-02	Householder	Dismissed	Cheshire West and Chester Council	S5 DP3 DM3 S3	Y		new single storey pitch roof garage
 6011424	2026-09-04	Householder	Dismissed	Council of the London Borough of Barnet		Y		a single storey side infill extension and single storey rear extension following demolition of existing outbuilding and greenhouse. Single storey front extension
 6011428	2026-09-07	Commercial advertisement	Allowed	Newcastle upon Tyne City Council	HE6	Y		
 6011431	2026-09-23	Planning	Dismissed	Mid Devon District Council	S3 TR3 S2 S5	Y		erection of up to 3 residential dwellings
@@ -1114,6 +1178,7 @@ ref	date	type	decision	lpa	nppf2026_codes	cites_2026_fw	cites_old_fw_paras	descr
 6011472	2026-09-10	Planning	Allowed	City of Bradford Metropolitan District Council		Y		the construction of a single-storey front extension
 6011475	2026-09-15	Householder	Allowed	Buckinghamshire Council	DP3	Y		described as the “erection of oak framed garage”
 6011486	2026-09-25	Householder	Allowed	Oxford City Council	HE9 HO2 HO3	Y		described as ‘construction of a small dormer window to existing loft room on rear roof slope’
+6011489	2026-10-02	Planning	Dismissed	Dacorum Borough Council	GB7 GB6	Y		the change of use of land from agricultural pasture to an outdoor wellbeing/therapeutic recreation use (daytime, appointment-only), including the siting of one moveable ancillary consultation/office unit (Canopy ‘Aspen O
 6011495	2026-09-15	Householder	Dismissed	London Borough of Redbridge Council	DP3	Y		
 6011498	2026-09-18	Planning	Dismissed		DM6 S5 DP3	Y		
 6011502	2026-08-28	Commercial advertisement	Dismissed	City of Bradford Metropolitan District Council		Y	Y	
@@ -1129,16 +1194,20 @@ ref	date	type	decision	lpa	nppf2026_codes	cites_2026_fw	cites_old_fw_paras	descr
 6011565	2026-09-29	Planning	Dismissed		HE2 S4 L2(1)(d)	Y		
 6011567	2026-09-25	Commercial advertisement	Dismissed	East Riding of Yorkshire Council				
 6011573	2026-08-24	Householder	Dismissed	Central Bedfordshire Council		Y		
+6011584	2026-10-02	Householder	Dismissed	South Holland District Council		Y		existing rear extension to be demolished and replaced with proposed rear extension
 6011585	2026-09-24	Planning	Dismissed	South Kesteven District Council	S5 HE6 S3 S4 DP3	Y		
 6011586	2026-09-03	Householder	Allowed	Dartford Borough Council	M2	Y		erection of a front porch and a single storey rear extension
 6011598	2026-08-25	Planning	Allowed	Ashfield District Council		Y		change of use from Class E (Restaurant, snack bar and café) to Sui Generis (Drinking establishment, public house, wine bar, drinking establishment with expanded food provision). No material change to the building. Existi
 6011601	2026-09-28	Householder	Dismissed	Warwick District Council	GB7(1)(b) GB7(1)(c) GB7 GB2 HE6(3)	Y		
+6011602	2026-10-01	Planning	Allowed	London Borough of Brent		Y		a new rear staircase leading to a new side door to first floor flat
 6011603	2026-09-14	Commercial advertisement	Dismissed	Tameside Metropolitan Borough Council		Y		
 6011611	2026-08-17	Householder	Allowed	Gravesham Borough Council		Y		described on the application form as “Proposed first floor extension over approved ground floor extension”. Preliminary matter 1. The Council on the decision notice and the Appellant on the appeal form have used the same
+6011615	2026-10-02	Householder	Dismissed	Chichester District Council	S4 P2 S3 DP3	Y		described on the application form as “Two storey side and rear elevations. Enlarged replacement porch”
 6011621	2026-09-24	Householder	Dismissed	Gravesham Borough Council	S4 S3 DP3	Y		described on the application form as “New front porch, single-storey side extension. Garage to be demolished and replaced with brick external storage building. Raised patio extended, height and materials to match existin
 6011644	2026-09-11	Commercial advertisement	Dismissed	Broxtowe Borough Council		Y		
 6011645	2026-09-01	Planning	Dismissed	Bedford Borough Council		Y		
 6011648	2026-09-11	Householder	Dismissed	North East Derbyshire District Council	S5(1)(c) DP3(3) S5 DP3(1) S5(2)	Y		a rear first floor extension
+6011652	2026-10-01	Householder	Dismissed	Borough of Luton	S3 S4	Y		for the erection of a single storey ground floor rear/side extension and first floor rear extension
 6011656	2026-09-28	Householder	Dismissed	Fareham Borough Council	HE6 HE9 S4 HE1 HE2 HE3 S3 DP3	Y		a single storey detached garage building. Preliminary matter 1. Since the appeal was submitted a revised version of the National Planning Policy Framework (The Framework) has been published. Consequently, the main partie
 6011661	2026-09-18	Planning	Dismissed	Coventry City Council		Y		described on the Application Form as ‘Change of use from C3 Dwellinghouse to C4 House in multiple occupation.’ Decision 1. The appeal is dismissed. Main issues 2. The main issues are: 
 6011667	2026-08-25	Householder	Allowed	Watford Borough Council		Y		installation of safety glass balustrade on the flat roof of single story rear extension (retrospective)
@@ -1171,6 +1240,8 @@ ref	date	type	decision	lpa	nppf2026_codes	cites_2026_fw	cites_old_fw_paras	descr
 6011827	2026-09-30	Planning	Dismissed	Leeds City Council	P3			a change of use from dwelling house (Use Class C3) to short-term accommodation (Sui Generis)
 6011833	2026-08-24	Householder	Dismissed	Buckinghamshire Council		Y		a single storey front extension and a single storey rear extension
 6011840	2026-09-08	Planning	Dismissed	Worcester City Council	S4 S3 HO7 HO9 TR3 N2	Y		using vacant rooms within an existing 6-bedroom HMO to form a 8- bedroom HMO and a new dropped kerb access
+6011852	2026-10-02	Planning	Dismissed	Council of the London Borough of Barnet	HE5 HE6 HC1	Y		
+6011855	2026-10-02	Planning	Dismissed	Council of the London Borough of Barnet	HE5 HE6 HC1	Y		
 6011863	2026-09-01	Householder	Allowed	Council of the London Borough of Richmond Upon Thames	DM6	Y		part single / part double storey extension
 6011872	2026-09-15	Planning	Dismissed	South Cambridgeshire District Council	S5 DP3 HO7	Y		the erection of 1 No. single self-build dwelling
 6011882	2026-09-25	Planning	Dismissed	Huntingdonshire District Council	S4 F4 S3 F7 DP3 DM3	Y		described as demolition of existing dwelling and construction of new detached self build dwelling with garaging including landscaping improvements Decision 1. The appeal is dismissed. Preliminary Matters 2. A new Nationa
@@ -1184,6 +1255,10 @@ ref	date	type	decision	lpa	nppf2026_codes	cites_2026_fw	cites_old_fw_paras	descr
 6011911	2026-09-04	Householder	Dismissed	London Borough of Havering Council	DP3	Y		a two storey side/rear extension, following demolition of existing conservatory
 6011913	2026-09-30	Householder	Dismissed	Council of the London Borough of Camden		Y		proposed modifications to the front elevation, comprising the erection of a first-floor bay window and alterations to the central window
 6011926	2026-09-28	Planning	Dismissed	Council of the London Borough of Waltham Forest				a change of use of the ground floor from Class E use to an Adult Gaming Centre (AGC) (Sui Generis)
+6011939	2026-10-02	Planning	Dismissed	Stafford Borough Council				conversion of the redundant agricultural building to one dwelling, Decision 1. The appeal is dismissed. Background and Main Issue 2. The appeal relates to proposals advanced under Article 3(1) and Schedule 2, Part 3, Cla
+6011958	2026-10-02	Planning	Dismissed	Council of the London Borough of Lewisham	HE1 HE2 HC1 TR1	Y		the construction of a single storey residential unit on the site of three demolished garages
+6011963	2026-10-02	Planning	Dismissed	Council of the London Borough of Bromley		Y		described on the application form as “3 new terraced houses”. Appeal B Ref: 6011964 Land behind 5 Lapworth Close, Orpington BR6 9BW 
+6011964	2026-10-02	Planning	Dismissed	Council of the London Borough of Bromley		Y		described on the application form as “3 new terraced houses”. Appeal B Ref: 6011964 Land behind 5 Lapworth Close, Orpington BR6 9BW 
 6011972	2026-09-18	Planning	Dismissed	Tandridge District Council	GB7 S5 GB6			conversion of equestrian site to residential use, erection of eight detached dwellings
 6011983	2026-09-30	Planning	Dismissed	Leeds City Council	DP3(2) E2 DP3(3)			a raised deck to form external seating area; erection of replacement canopy and new boundary treatments
 6011994	2026-09-17	Householder	Dismissed	Elmbridge Borough Council	DP3 DP3(2) DP3(1) DP3(3) HE6(3) DM2	Y		a “part two storey part single storey side and rear extension and a 1.7m high closeboarded fence following the partial demolition of the existing dwellinghouse and existing boundary fencing.” Decision 1. The appeal is di
@@ -1197,6 +1272,7 @@ ref	date	type	decision	lpa	nppf2026_codes	cites_2026_fw	cites_old_fw_paras	descr
 6012026	2026-09-10	Householder	Dismissed	Wirral Metropolitan Borough Council	GB6 GB7	Y		the construction of a first floor side extension
 6012032	2026-08-27	Householder	Allowed	Royal Borough of Windsor and Maidenhead		Y		described as first floor side and rear extensions and a loft conversion with rear dormer
 6012034	2026-09-10	Householder	Dismissed	Newark and Sherwood District Council	DM5 DM6 DP3	Y		the erection of a double garage with workshop. Procedural Matter 1. On 17 August 2026, the Government published the National Planning Policy Framework 2026 (NPPF). It does not contain any provisions that raise material i
+6012036	2026-10-02	Planning	Dismissed	Isle of Wight Council	DP3 N4 S4(2)(c) S4	Y		lattice mast with HF beam antenna
 6012043	2026-09-17	Planning	Allowed	Epping Forest District Council	DM7 DM4 GB7 HE6 DM9 HE4			the erection of a traditionally designed three-bay cart lodge
 6012045	2026-09-21	Householder	Allowed	Mid Sussex District Council	P1 P2	Y		a single storey rear extension
 6012058	2026-08-19	Householder	Allowed	Enfield London Borough Council		Y		the erection of side extension to both sides of the front entrance porch containing security accommodation and storage
@@ -1204,11 +1280,20 @@ ref	date	type	decision	lpa	nppf2026_codes	cites_2026_fw	cites_old_fw_paras	descr
 6012063	2026-09-10	Householder	Dismissed	Royal Borough of Greenwich		Y		described as “a single-storey extension at the rear no more than 4 metres in height (measured externally from the natural ground level); and extend beyond the rear wall of the original dwellinghouse (measured externally)
 6012066	2026-08-28	Householder	Dismissed	City of York Council		Y		described as proposed ground and second floor rear extensions together with hip to gable with loft conversion and rear dormer
 6012069	2026-09-04	Householder	Allowed in part	West Northamptonshire Council		Y		for a single storey rear extension and erection of rear box dormer
+6012075	2026-10-02	Planning	Dismissed	Royal Borough of Kensington and Chelsea	TR4 TR6 HE6	Y		the installation of one JOLT Unit (Electric Vehicle Charge Point, with integral double-sided LCD screen) and associated electrical connection works. Appeal B Ref: 6012078 403 King's Road, London, SW10 0LR 
+6012078	2026-10-02	Commercial advertisement	Dismissed	Royal Borough of Kensington and Chelsea	TR4 TR6 HE6	Y		the installation of one JOLT Unit (Electric Vehicle Charge Point, with integral double-sided LCD screen) and associated electrical connection works. Appeal B Ref: 6012078 403 King's Road, London, SW10 0LR 
 6012080	2026-08-21	Householder	Dismissed			Y		retrospective erection of fence to front boundary
 6012092	2026-09-23	Planning	Allowed	Wyre Borough Council	S3 S3(3)(c)	Y		the change of use of a two-storey detached dwelling located at 18 Myrtle Avenue, Thornton-Cleveleys (Use Class C3), into a children’s residential care home (Use Class C2). The facility would accommodate up to two childre
+6012098	2026-10-01	Planning	Dismissed	Royal Borough of Kensington and Chelsea	TR4 TR6 HE6	Y		the installation of one JOLT Unit (Electric Vehicle Charge Point, with integral double-sided LCD screen) and associated electrical connection works. Appeal B Ref: 6012102 125-133 Old Brompton Road, London, SW7 3RP 
 6012100	2026-08-25	Householder	Dismissed	Council of the London Borough of Bromley		Y		Erection of front dormer extension
 6012101	2026-09-15	Householder	Allowed	Royal Borough of Kingston Upon Thames	DM10			the erection of 3 bay garage with store
+6012102	2026-10-01	Commercial advertisement	Dismissed	Royal Borough of Kensington and Chelsea	TR4 TR6 HE6	Y		the installation of one JOLT Unit (Electric Vehicle Charge Point, with integral double-sided LCD screen) and associated electrical connection works. Appeal B Ref: 6012102 125-133 Old Brompton Road, London, SW7 3RP 
+6012105	2026-10-01	Planning	Dismissed	Royal Borough of Kensington and Chelsea	TR4 TR6 HE6	Y		the installation of one JOLT Unit (Electric Vehicle Charge Point, with integral double-sided LCD screen) and associated electrical connection works. Appeal B Ref: 6012107 O/S 131 Fulham Road, London, SW3 6RT 
 6012106	2026-09-18	Householder	Dismissed	Surrey Heath Borough Council • The application Ref is 26/012		Y		the erection of a two-storey side extension and single storey rear extension following partial demolition of existing rear projection
+6012107	2026-10-01	Commercial advertisement	Dismissed	Royal Borough of Kensington and Chelsea	TR4 TR6 HE6	Y		the installation of one JOLT Unit (Electric Vehicle Charge Point, with integral double-sided LCD screen) and associated electrical connection works. Appeal B Ref: 6012107 O/S 131 Fulham Road, London, SW3 6RT 
+6012112	2026-10-02	Planning	Dismissed	Royal Borough of Kensington and Chelsea	TR4 TR6	Y		the installation of one JOLT Unit (Electric Vehicle Charge Point, with integral double-sided LCD screen) and associated electrical connection works. Appeal B Ref: 6012114 369 Fulham Road, London, SW10 9TR 
+6012114	2026-10-02	Commercial advertisement	Dismissed	Royal Borough of Kensington and Chelsea	TR4 TR6	Y		the installation of one JOLT Unit (Electric Vehicle Charge Point, with integral double-sided LCD screen) and associated electrical connection works. Appeal B Ref: 6012114 369 Fulham Road, London, SW10 9TR 
+6012115	2026-10-02	Planning	Dismissed	Dorset Council	GB7 GB7(1)(f)(iii) GB7(1)(g) TR3 GB6 S5	Y		described as “static caravan to be used as rental accommodation. Proposed new access to the site from Grange Road. New gravel paths, gravel driveway and decking on site”
 6012119	2026-08-28	Householder	Dismissed	Salford City Council		Y		demolition of a single storey detached garage, front porch and front bay window, and erection of a two-storey side/front and single storey front/porch extension, together with associated external alterations including a 
 6012127	2026-09-01	Householder	Allowed	Three Rivers District Council	HE6 DM1 DM3	Y		for replacement of the front door
 6012129	2026-08-24	Householder	Dismissed	Bolton Council		Y		installation of 1.87 metre boundary fence
@@ -1222,12 +1307,16 @@ ref	date	type	decision	lpa	nppf2026_codes	cites_2026_fw	cites_old_fw_paras	descr
 6012173	2026-08-28	Householder	Dismissed	City of Bradford Metropolitan District Council		Y		the erection of a timber fence 1.2m high onto existing wall (overall height 1.73m and 1.95m) with vehicle and pedestrian gate on West Lane boundary and a 1.8m high timber fence to the boundary with Sandal School
 6012175	2026-08-25	Householder	Allowed	Tendring District Council	DP3	Y		erection of ground floor and part first floor side extension, extension of first floor terrace and formation of a new front porch, together with associated alterations
 6012179	2026-08-25	Householder	Dismissed	Tendring District Council		Y		new rear and side extension with flat roof and new enclosed entrance porch with mono pitched roof (revised application following earlier refused application 25/00937/FULHH)
+6012181	2026-10-02	Householder	Dismissed	Milton Keynes Council		Y		described as retrospective application for conversion of existing detached garage
 6012182	2026-09-30	Householder	Dismissed	Wigan Metropolitan Borough Council	P1	Y		described as a part single storey, part double storey rear and side extension
 6012188	2026-09-15	Planning	Dismissed	West Lancashire Borough Council	GB7(1)(f) GB6 GB7(1) GB7(1)(f)(iii) GB7(1)(g) TR3 GB8 N2(1)(b) HC4 GB5 DP3(1) DP3(3)	Y		yoga facility including hardstanding, creation of wildflower meadows, wildlife pond and planting of orchard. Change of use of land to accommodate beekeeping uses and provision of outdoor yoga and holistic therapies
 6012194	2026-09-21	Householder	Dismissed	Mid Sussex District Council		Y		two-storey side and rear extension. Introduction of render to partially replace hung tile cladding at the front elevation
+6012202	2026-10-01	Planning	Allowed	Fylde Borough Council	S5 S1 TR3 S3 HO7			permission in principle for the demolition of existing buildings and erection of up to 2 no. dwellings
 6012204	2026-09-25	Householder	Dismissed	Council of the London Borough of Hackney				a single storey first floor rear extension (retrospective) and replacement of the existing brick finish of the extension with zinc cladding
+6012205	2026-10-02	Householder	Dismissed	Liverpool City Council		Y		to erect two storey side extension, part two/part single storey front extension, fenestration changes to front and rear and convert the existing external garage
 6012213	2026-09-02	Householder	Allowed	Brentwood Borough Council		Y		described in the application form as follows: “Creation of first floor extension to provide habitable accommodation in addition to existing; Construction first floor part rear and two storey part front extensions; Fenest
 6012214	2026-08-19	Householder	Allowed	Brent London Borough Council		Y		the demolition of existing side garage and erection of single-storey side extension, front porch extension, single-storey outbuilding in rear garden and alterations to forecourt and boundary treatment to dwellinghouse
+6012215	2026-10-02	Householder	Dismissed	Council of the London Borough of Barnet			Y	
 6012221	2026-09-17	Householder	Allowed	Elmbridge Borough Council	DM2 DP3(2)(g) L2(1)(d) DP3(1) DP3(5) DP3 DP3(3) S4	Y		a single storey side extension with rooms in the roof space incorporating dormer window and garage below, first floor/roof rear extension with balustrading, conversion of existing garage into living space and alterations
 6012222	2026-09-29	Planning	Allowed	Cambridge City Council		Y		for the installation of 1no. BT Street Hub and removal of associated BT payphones
 6012225	2026-09-29	Commercial advertisement	Allowed	Cambridge City Council		Y		for the installation of 1no. BT Street Hub and removal of associated BT payphones
@@ -1244,6 +1333,7 @@ ref	date	type	decision	lpa	nppf2026_codes	cites_2026_fw	cites_old_fw_paras	descr
 6012281	2026-09-30	Commercial advertisement	Dismissed	Cambridge City Council	HE6 CO1 DP3 S4	Y		‘The installation of 1no. BT Street Hub and removal of associated BT payphones.’ Decisions 1. Appeal A is dismissed
 6012284	2026-09-24	Planning	Dismissed	Cambridge City Council	S4 CO1 DP3	Y		the installation of 1no. BT Street Hub and removal of associated BT payphones. Decisions 1. Appeals A and B are dismissed. Preliminary Matters 2. There are two appeals on this site. They differ only in that Appeal A rela
 6012288	2026-09-24	Commercial advertisement	Dismissed	Cambridge City Council	S4 CO1 DP3	Y		the installation of 1no. BT Street Hub and removal of associated BT payphones. Decisions 1. Appeals A and B are dismissed. Preliminary Matters 2. There are two appeals on this site. They differ only in that Appeal A rela
+6012289	2026-10-02	Planning	Dismissed	Council of the London Borough of Barnet	S4 DP3 S3			described as, erection of three storey above existing structure consisting of 9 flats associated private and communal amenity space; refuse cycle storage and a car park
 6012293	2026-09-24	Planning	Dismissed	Somerset Council	DM2 DM1 DM7 P3 HE7 DP3	Y		conversion, with erection of single storey extensions, of agricultural barn in to form a residential dwelling at Elworthy Farm, Greenham, Wellington TA21 0JP
 6012298	2026-09-17	Householder	Allowed	City of Westminster Council		Y		installation of uPVC sash windows
 6012303	2026-09-25	Planning	Allowed	Council of the London Borough of Bromley	GB2 S5 DM6			described as ‘erection of 4no. outdoor padel courts and WC/office building; with associated access, fencing/gates, landscaping and car parking.’ Decision 1. The appeal is allowed and planning permission is granted for th
@@ -1254,13 +1344,17 @@ ref	date	type	decision	lpa	nppf2026_codes	cites_2026_fw	cites_old_fw_paras	descr
 6012328	2026-09-25	Planning	Dismissed	Council of the London Borough of Hounslow	W4 S4 HE5 HE9 HE6 HC1 TR4 CO1	Y	Y	installation of 1no. new BT Street Hub, incorporating 2no. digital 75" LCD advert screens, and associated BT Phone Kiosk removal. Appeal B Ref: 6012330 Pavement outside 137 Chiswick High Road, Chiswick, London W4 2ED 
 6012329	2026-09-18	Householder	Dismissed	Council of the London Borough of Ealing	W4 S4 HE5 HE9 HE6 HC1	Y	Y	erection of a small summerhouse/ store
 6012330	2026-09-25	Commercial advertisement	Dismissed	Council of the London Borough of Hounslow	W4 S4 HE5 HE9 HE6 HC1 TR4 CO1	Y	Y	installation of 1no. new BT Street Hub, incorporating 2no. digital 75" LCD advert screens, and associated BT Phone Kiosk removal. Appeal B Ref: 6012330 Pavement outside 137 Chiswick High Road, Chiswick, London W4 2ED 
+6012344	2026-10-01	Planning	Allowed	Royal Borough of Greenwich	HC6 HC7 HC6(1)(a) HC6(1)(b) HC6(1)(c) HE5 HE6 HE8 DM6	Y		Change of use on the ground and lower ground floor from a Bar (Sui Generis Part Q) to a Convenience Store (Class E(a)). Appeal ‘B’ Ref: 6012348 189 Greenwich High Road, London SE10 8JA  The appeal is made under section 
+6012348	2026-10-01	Planning	Allowed	Royal Borough of Greenwich	HC6 HC7 HC6(1)(a) HC6(1)(b) HC6(1)(c) HE5 HE6 HE8 DM6	Y		Change of use on the ground and lower ground floor from a Bar (Sui Generis Part Q) to a Convenience Store (Class E(a)). Appeal ‘B’ Ref: 6012348 189 Greenwich High Road, London SE10 8JA  The appeal is made under section 
 6012356	2026-09-16	Householder	Dismissed	Mole Valley District Council				for a loft conversion and extension
 6012364	2026-09-22	Householder	Dismissed	East Lindsey District Council				a shed
 6012365	2026-08-26	Householder	Allowed	Brentwood Borough Council	DM6	Y		Double storey side, rear and front extension and internal alteration render to match surrounding properties. Incorporating previously approved double storey rear extension 99/00919/FUL which was half completed at constru
+6012368	2026-10-02	Planning	Allowed		HO1			change of use from C3 to C2
 6012370	2026-09-16	Planning	Allowed	Kirklees Metropolitan Council	HO1 S4 P5 DM7	Y	Y	change of use from dwelling (C3) into children’s care home (C2) for one child
 6012380	2026-08-27	Householder	Allowed	Royal Borough of Windsor and Maidenhead		Y		first floor side extensions to roof and floor plan
 6012387	2026-08-25	Householder	Dismissed	Council of the London Borough of Lambeth		Y		Erection of an additional storey to create a first floor extension with alterations to existing front and rear fenestration
 6012391	2026-09-28	Householder	Dismissed	Walsall Metropolitan Borough Council		Y		described as “Retrospective planning application for first floor side extension and loft conversion with dormer”
+6012392	2026-10-01	Planning	Dismissed	Trafford Metropolitan Borough Council		Y		the erection of a double storey extension to the rear of the property
 6012398	2026-09-21	Householder	Allowed	Maidstone Borough Council		Y		for the formation of a new vehicular access and driveway to serve Plot 1, including permeable block paving, adjustment of kerbs, post and rail fencing, hedge and tree relocation to accommodate the new access
 6012411	2026-09-17	Planning	Dismissed	Melton Borough Council				change of use from existing original farm buildings to dwelling houses
 6012422	2026-08-17	Householder	Dismissed	Wandsworth Council		Y		
@@ -1278,6 +1372,7 @@ ref	date	type	decision	lpa	nppf2026_codes	cites_2026_fw	cites_old_fw_paras	descr
 6012509	2026-09-24	Householder	Dismissed	Council of the London Borough of Hounslow		Y		“proposed single storey rear extension”
 6012511	2026-09-22	Householder	Dismissed	Crawley Borough Council				erection of single storey rear extension
 6012516	2026-09-04	Householder	Allowed	Welwyn Hatfield Council		Y		described in the application form as a “first floor side extension and alterations to rear window”
+6012522	2026-10-01	Planning	Dismissed	Worthing Council	DM5			the change of use of first floor from industrial (Use Class B2) to a small housing in multiple occupation (HMO) (Use Class C4) for on-site staff; new external fire escape; and roller shutter door to workshop
 6012527	2026-09-03	Householder	Allowed in part	Kirklees Metropolitan Council		Y		
 6012539	2026-09-29	Householder	Allowed	Mid Sussex District Council	HE6 HE9	Y		retrospective planning permission for external cladding
 6012540	2026-09-28	Householder	Dismissed	East Staffordshire Borough Council	DP3 DP3(3) DP1 L2(1)(d)(iii) S4 S4(2)(c)	Y		the erection of part two storey part single storey rear and single storey front extensions and installation of a dormer to the rear to facilitate a loft conversion
@@ -1308,11 +1403,14 @@ ref	date	type	decision	lpa	nppf2026_codes	cites_2026_fw	cites_old_fw_paras	descr
 6012788	2026-09-30	Planning	Dismissed	Ealing Council	TR3	Y		described in the application form as follows: “Installation of a new vehicular crossover and limited ECOGrid surfacing to provide access to the existing driveway of 79 Rushdene Crescent, including tree protection measure
 6012808	2026-09-15	Householder	Dismissed	Council of the London Borough of Harrow		Y		the installation of 2m high fence to side boundary
 6012816	2026-09-15	Householder	Allowed	Royal Borough of Kingston Upon Thames	DM10			a hip to gable extension with raising of ridge height with rear dormer with removal of 2No chimneys & installation of 2No Roof lights to front and 2No windows on gable end
+6012817	2026-10-01	Householder	Allowed	Salford City Council		Y		described as two-storey side extension and front porch extension
 6012819	2026-09-25	Householder	Dismissed	London Borough of Bexley Council	DP3	Y		
 6012824	2026-09-25	Householder	Dismissed	Council of the London Borough of Barking & Dagenham	HE7(2) HC1	Y		the erection of front infill extension/porch
 6012827	2026-09-16	Householder	Dismissed	Council of the London Borough of Wandsworth	HE6(1) HE6(3) HE6(4)	Y		described as alterations to existing front portico
 6012828	2026-09-02	Householder	Dismissed	Walsall Metropolitan Borough Council		Y		
+6012844	2026-10-01	Householder	Dismissed	Staffordshire Moorlands District Council	DP3 S4(2)(c) S3 S4	Y		double storey side extension
 6012848	2026-09-15	Commercial advertisement	Dismissed	City of Bradford Metropolitan District Council				
+6012871	2026-10-02	Householder	Allowed	Council of the London Borough of Barking & Dagenham				conversion of the garage into a habitable space including replacement of the existing garage door with a window and construction of a front porch, a single storey rear and side extension and a first-floor rear and side e
 6012885	2026-09-28	Planning	Dismissed	Melton Borough Council	HE6 S4 P3 S3 TR6	Y	Y	the retention of a structure, namely a marquee, that is currently in situ
 6012886	2026-09-30	Planning	Dismissed	North Yorkshire Council	S4 S3	Y		
 6012889	2026-09-17	Householder	Dismissed	North Yorkshire Council	F9			conservatory, external works and all associated works
@@ -1333,6 +1431,8 @@ ref	date	type	decision	lpa	nppf2026_codes	cites_2026_fw	cites_old_fw_paras	descr
 6013026	2026-09-22	Householder	Allowed	Basingstoke and Deane Borough Council	L2 S4 DP3	Y	Y	for a rear dormer loft extension
 6013030	2026-09-23	Householder	Allowed	Exeter City Council		Y		‘proposed single storey extension (retrospective)’
 6013032	2026-09-25	Householder	Allowed	Council of the London Borough of Redbridge				to replace existing single storey rear conservatory to same footprint as existing with central area raised by 300mm. Relocated French doors
+6013035	2026-10-01	Planning	Dismissed	Old Oak and Park Royal Development Corporation				a Change of Use from Class C3 (dwellinghouse) to Class C4 (House in Multiple Occupation). Appeal B Ref: 6013036 60 Newark Crescent, Ealing, NW10 7BA 
+6013036	2026-10-01	Planning	Dismissed	Old Oak and Park Royal Development Corporation				a Change of Use from Class C3 (dwellinghouse) to Class C4 (House in Multiple Occupation). Appeal B Ref: 6013036 60 Newark Crescent, Ealing, NW10 7BA 
 6013040	2026-09-03	Householder	Dismissed	Council of the London Borough of Richmond Upon Thames		Y		first floor front infill to house
 6013042	2026-09-23	Householder	Dismissed	Somerset Council				‘raise roof of garage to create new room for home office use.’ Decision 1. The appeal is dismissed. Main Issue 2. The main issue is the effect of the proposed development on the character and appearance of the area. Reas
 6013044	2026-09-03	Householder	Dismissed	Council of the London Borough of Richmond Upon Thames		Y		front first floor infill
@@ -1365,6 +1465,8 @@ ref	date	type	decision	lpa	nppf2026_codes	cites_2026_fw	cites_old_fw_paras	descr
 6013483	2026-09-01	Householder	Dismissed	Council of the London Borough of Richmond Upon Thames		Y		replacement of an existing single storey attached double garage with a two-storey side extension with loft conversion
 6013545	2026-09-22	Householder	Allowed	Basingstoke and Deane Borough Council	S4 HE4 HE6 HE9	Y	Y	for the installation of replacement uPVC windows
 6013583	2026-09-16	Householder	Allowed	Babergh District Council	P1 N2	Y		two-storey extension to the rear of the property
+6013586	2026-10-01	Planning	Dismissed	Northumberland County Council				erection of single-storey retail unit with associated external works
+6013634	2026-10-02	Planning	Allowed	Yorkshire Dales National Park Authority	DP3 E4 S5 E2			infrastructure to support the market garden business at Killington New Bridge: erection of 14m x 8m agricultural barn for use as a packing shed, storage, rainwater harvesting and solar power generation (8 photovoltaic pa
 6013635	2026-09-25	Householder	Dismissed	Rochdale Metropolitan Borough Council				
 6013638	2026-09-24	Householder	Dismissed	Northumberland County Council				described as “demolition of garage, two storey side extension and pitched roof to rear offshoot”
 6013651	2026-09-30	Planning	Allowed	North Northamptonshire Council	S4 TR6 DP3 DM6 S3	Y		
@@ -1372,6 +1474,7 @@ ref	date	type	decision	lpa	nppf2026_codes	cites_2026_fw	cites_old_fw_paras	descr
 6013695	2026-09-23	Planning	Dismissed	Exeter City Council	CO1	Y		erection of 1no. BT Street Hub and associated removal of existing BT payphones. Appeal Ref: 6013697 Pavement o/s Clarendon House, 3 Heavitree Road, Exeter EX1 2JW 
 6013697	2026-09-23	Commercial advertisement	Dismissed	Exeter City Council	CO1	Y		erection of 1no. BT Street Hub and associated removal of existing BT payphones. Appeal Ref: 6013697 Pavement o/s Clarendon House, 3 Heavitree Road, Exeter EX1 2JW 
 6013709	2026-09-23	Householder	Allowed	Buckinghamshire Council		Y		for a single storey rear extension (depth extending from the original rear wall of 8.00m, maximum height 2.90m, eaves height 2.50m)
+6013769	2026-10-02	Planning	Dismissed	Oxford City Council	TC2 HE5 HE9 HE6 S3 S4			change of use of basement and ground floor from use falling within Class E(a) of the Use Classes Order (as amended) to use for non-residential education (Use Class F1)
 6013777	2026-09-25	Householder	Dismissed		DP3			first floor side extension above garage. Partially demolish front boundary wall to create wide dropped kerb and new parking area
 6013792	2026-09-25	Householder	Dismissed	Council of the London Borough of Bromley		Y		loft conversion with rear dormer and side roof window
 6013802	2026-09-22	Householder	Dismissed	St	S4 DP3	Y	Y	for new electrically operated gates with brickwork piers and intermediate railings to site frontage
@@ -1380,9 +1483,11 @@ ref	date	type	decision	lpa	nppf2026_codes	cites_2026_fw	cites_old_fw_paras	descr
 6013855	2026-09-10	Householder	Dismissed	Torbay Council		Y		described as a loft conversion with rear flat roof dormer and a single velux window to front
 6013856	2026-09-17	Householder	Dismissed	North Yorkshire Council	DP3 S5(2)	Y		described as remodelling of property including formation of new hipped roof arrangement incorporating dormer windows to provide first floor accommodation; erection of balcony at rear with undercover canopy
 6013877	2026-09-30	Householder	Dismissed		DP3 TR6			proposed first floor front extension; first floor rear extension, changes to the roof, including a roof height increase to accommodate a loft conversion and rear dormer
+6013951	2026-10-01	Householder	Allowed	Somerset Council	DM1 S4 DP3	Y		erection of a two-storey & single-storey extension to the rear (west) and associated works
 6013978	2026-09-22	Householder	Allowed in part	Council of the London Borough of Croydon	DM10 HC1	Y		described on the application form as “replacement fenestration with historically appropriate fenestration comprising matching joinery design with slimline double glazing”
 6014009	2026-09-25	Householder	Allowed	Council of The Royal Borough of Greenwich	DP3			the demolition of an existing side garage and rear extension and erection of a two storey side and rear extensions
 6014022	2026-09-24	Householder	Allowed	Council of the London Borough of Lewisham	DM6	Y		construction of a front porch and single-storey front extension
+6014028	2026-10-01	Householder	Dismissed	Manchester City Council	DP3	Y		
 6014032	2026-09-25	Householder	Dismissed	Council of the London Borough of Waltham Forest				a single storey wraparound rear extension
 6014124	2026-09-29	Householder	Allowed		DP3 S4 DM6			proposed two-storey rear extension, demolition of outbuilding, and renovation of existing building
 6014199	2026-09-30	Householder	Allowed	Crawley Borough Council	DM6			for a single storey front extension
@@ -1390,12 +1495,15 @@ ref	date	type	decision	lpa	nppf2026_codes	cites_2026_fw	cites_old_fw_paras	descr
 6014226	2026-09-23	Householder	Allowed		S5			retention of a glazed balustrade to existing flat roof
 6014250	2026-09-08	Householder	Dismissed	Calderdale Metropolitan Borough Council	GB7 GB6 DP3 HE5	Y		a single storey extension to the front
 6014276	2026-09-10	Householder	Dismissed	East Devon District Council		Y		described as the erection of garage/store to front of property on north/west elevation
+6014361	2026-10-01	Householder	Dismissed	Surrey Heath Borough Council	HE1 HE4 DM9	Y		the erection of a boundary fencing
 6014560	2026-09-25	Commercial advertisement	Dismissed	Gedling Borough Council	DP3	Y		
 6014625	2026-09-25	Planning	Dismissed	Reading Borough Council	DP3(1)	Y		rear elevation dormer extension and internal alterations
 6014666	2026-09-30	Householder	Allowed	Chichester District Council	P2 DM6			the addition of a rear dormer window facing the sea within the main roof
+6014749	2026-10-01	Householder	Allowed	Swale Borough Council				the removal of the existing timber front entrance door and frame and replacement with new composite front entrance door and frame, colour to match existing
 6014912	2026-09-23	Householder	Dismissed	North Somerset Council				‘erection of a double storey rear extension following the demolition of the existing single storey rear extension.’ Decision 1. The appeal is dismissed. Preliminary matters 2. The development description used above is ta
 6014929	2026-09-30	Householder	Dismissed	Somerset Council	S5 N4 DP3 N2	Y		restoration and enhancement of the original cottage, revised two- storey side extension, external material alterations across the site
 6014952	2026-09-23	Planning	Allowed	West Devon Borough Council	S5 E2 E4 TR3	Y		
+6015003	2026-10-01	Householder	Dismissed	Council of the London Borough of Harrow		Y		a front, side and rear ground floor extension, and a first floor extension and loft conversion
 6015017	2026-09-24	Planning	Allowed	Exeter City Council	DP3	Y		described as “demolition of existing single-storey extension, erection of linked, single-storey, dependant relative's annexe”
 6015083	2026-09-25	Householder	Dismissed	Trafford Metropolitan Borough Council				demolition of existing garage and erection of detached garage. Erection of two storey side extension
 6015634	2026-09-03	Planning	Allowed					

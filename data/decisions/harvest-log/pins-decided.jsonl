@@ -12,7 +12,7 @@
 {"addr": "17 Allesley Old Road, Coventry, CV5 6QR", "area": "CV", "date": "2026-08-17", "decision": "Dismissed", "ref": "6005849", "type": "Planning"}
 {"addr": "Land Rear Of 49-51 Cheapside, Luton, LU1 2HN", "area": "LU", "date": "2026-08-17", "decision": "Dismissed", "ref": "6005881", "type": "Planning"}
 {"addr": "1 Blewitts Cottages, New Road, Rainham, RM13 8SL", "area": "RM", "date": "2026-08-17", "decision": "Dismissed", "ref": "6006409", "type": "Planning"}
-{"addr": "79 Clerkenwell Road, London, EC1R 5BU", "area": "EC", "date": "2026-08-17", "decision": "Allowed", "ref": "6006423", "type": "Advertisement"}
+{"addr": "79 Clerkenwell Road, London, EC1R 5BU", "area": "E", "date": "2026-08-17", "decision": "Allowed", "ref": "6006423", "type": "Advertisement"}
 {"addr": "Springbank, Beech Avenue, Exeter, EX4 6HE", "area": "EX", "date": "2026-08-17", "decision": "Dismissed", "ref": "6006617", "type": "Planning"}
 {"addr": "42 Prince Drive, Oadby, LE2 4SB", "area": "LE", "date": "2026-08-17", "decision": "Dismissed", "ref": "6006636", "type": "Planning"}
 {"addr": "The Grange, Church Street, Hartfield, TN7 4AG", "area": "TN", "date": "2026-08-17", "decision": "Dismissed", "ref": "6006868", "type": "Planning listed building and conservation area"}
@@ -23,7 +23,7 @@
 {"addr": "Land opposite Camel Valley Cottages, Dunmere Road, Bodmin, PL31 2RD", "area": "PL", "date": "2026-08-17", "decision": "Dismissed", "ref": "6007179", "type": "Planning"}
 {"addr": "Hilsden Farm, Radcliffe, Manchester, M26 1DW", "area": "M", "date": "2026-08-17", "decision": "Dismissed", "ref": "6007316", "type": "Planning"}
 {"addr": "27 Anson Road, London, N7 0RB", "area": "N", "date": "2026-08-17", "decision": "Dismissed", "ref": "6007475", "type": "Planning"}
-{"addr": "134 Tappesfield Road, London, SE15 3EZ", "area": "SE", "date": "2026-08-17", "decision": "Dismissed", "ref": "6007608", "type": "Householder"}
+{"addr": "134 Tappesfield Road, London, SE15 3EZ", "area": "S", "date": "2026-08-17", "decision": "Dismissed", "ref": "6007608", "type": "Householder"}
 {"addr": "Church View, Wilsthorpe Road, Braceborough, PE9 4NX", "area": "PE", "date": "2026-08-17", "decision": "Dismissed", "ref": "6007771", "type": "Planning"}
 {"addr": "267 Singlewell Road, Gravesend, DA11 7RN", "area": "DA", "date": "2026-08-17", "decision": "Dismissed", "ref": "6008012", "type": "Householder"}
 {"addr": "99 Allington Road, Newick, BN8 4NH", "area": "BN", "date": "2026-08-17", "decision": "Dismissed", "ref": "6008050", "type": "Planning"}
@@ -74,8 +74,8 @@
 {"addr": "Land at Millend, Brookside Farm, North Nibley, GL11 6ED", "area": "GL", "date": "2026-08-19", "decision": "Dismissed", "ref": "6004495", "type": "Planning"}
 {"addr": "Home Farm Cottage, Malt House Bank, Little Wenlock, Telford, TF6 5BN", "area": "TF", "date": "2026-08-19", "decision": "Allowed", "ref": "6005503", "type": "Householder"}
 {"addr": "Parcel 1643 Middle Piece Lane, Burnett, Keynsham, BS31 2ED", "area": "BS", "date": "2026-08-19", "decision": "Allowed", "ref": "6005916", "type": "Planning"}
-{"addr": "Grove House, Town Lane, Mobberley, WA16 7HR", "area": "WA", "date": "2026-08-19", "decision": "Dismissed", "ref": "6006023", "type": "Planning"}
-{"addr": "Grove House, Town Lane, Mobberley, WA16 7HR", "area": "WA", "date": "2026-08-19", "decision": "Dismissed", "ref": "6006027", "type": "Planning listed building and conservation area"}
+{"addr": "Grove House, Town Lane, Mobberley, WA16 7HR", "area": "W", "date": "2026-08-19", "decision": "Dismissed", "ref": "6006023", "type": "Planning"}
+{"addr": "Grove House, Town Lane, Mobberley, WA16 7HR", "area": "W", "date": "2026-08-19", "decision": "Dismissed", "ref": "6006027", "type": "Planning listed building and conservation area"}
 {"addr": "Free Range Egg Unit North of Betton, Market Drayton, TF9 4AD", "area": "TF", "date": "2026-08-19", "decision": "Allowed", "ref": "6006151", "type": "Planning"}
 {"addr": "Brook Close, Rodmarton, Cirencester, GL7 6PE", "area": "GL", "date": "2026-08-19", "decision": "Dismissed", "ref": "6007188", "type": "Planning"}
 {"addr": "27A Millway, London, NW7 3QR", "area": "NW", "date": "2026-08-19", "decision": "Allowed", "ref": "6008189", "type": "Planning"}
@@ -119,7 +119,7 @@
 {"addr": "23 Wragby Road, Sudbrooke, Lincoln, LN2 2QU", "area": "LN", "date": "2026-08-20", "decision": "Allowed", "ref": "6010250", "type": "Householder"}
 {"addr": "Land at Berry Cross, Langtree, EX38 8NT", "area": "EX", "date": "2026-08-20", "decision": "Dismissed", "ref": "6010409", "type": "Planning"}
 {"addr": "Northolm Farm, eye green, Peterborough, PE6 7TT", "area": "PE", "date": "2026-08-20", "decision": "Dismissed", "ref": "6010542", "type": "Planning"}
-{"addr": "31 Mulberry Close, Barnet, EN4 9PP", "area": "EN", "date": "2026-08-20", "decision": "Allowed", "ref": "6010571", "type": "Householder"}
+{"addr": "31 Mulberry Close, Barnet, EN4 9PP", "area": "E", "date": "2026-08-20", "decision": "Allowed", "ref": "6010571", "type": "Householder"}
 {"addr": "4 Ruthys Lane, Padstow, PL28 8AZ", "area": "PL", "date": "2026-08-21", "decision": "Dismissed", "ref": "6002703", "type": "Planning"}
 {"addr": "87-89 Golders Green Road, Golders Green, London, NW11 8EN", "area": "NW", "date": "2026-08-21", "decision": "Dismissed", "ref": "6004392", "type": "Planning"}
 {"addr": "87-89 Golders Green Road, Golders Green, London, NW11 8EN", "area": "NW", "date": "2026-08-21", "decision": "Dismissed", "ref": "6004393", "type": "Planning listed building and conservation area"}
@@ -177,7 +177,7 @@
 {"addr": "Land At Thompson Street, Chesterfield, S41 9AR", "area": "S", "date": "2026-08-24", "decision": "Allowed", "ref": "6011274", "type": "Planning"}
 {"addr": "2 Bright Avenue, Witham, CM8 1ZE", "area": "CM", "date": "2026-08-24", "decision": "Dismissed", "ref": "6011447", "type": "Householder"}
 {"addr": "253 Ongar Road, Writtle, CM1 3NT", "area": "CM", "date": "2026-08-24", "decision": "Dismissed", "ref": "6011558", "type": "Householder"}
-{"addr": "2 LINCOLN CRESCENT, BIGGLESWADE, SG18 8HW", "area": "SG", "date": "2026-08-24", "decision": "Dismissed", "ref": "6011573", "type": "Householder"}
+{"addr": "2 LINCOLN CRESCENT, BIGGLESWADE, SG18 8HW", "area": "S", "date": "2026-08-24", "decision": "Dismissed", "ref": "6011573", "type": "Householder"}
 {"addr": "14 Brunel Road, High Wycombe, HP13 5SR", "area": "HP", "date": "2026-08-24", "decision": "Dismissed", "ref": "6011833", "type": "Householder"}
 {"addr": "184 Armadale Road, Bolton, BL3 4TP", "area": "BL", "date": "2026-08-24", "decision": "Dismissed", "ref": "6012129", "type": "Householder"}
 {"addr": "48 Golden Riddy, Linslade, Leighton buzzard, LU7 2RJ", "area": "LU", "date": "2026-08-24", "decision": "Allowed", "ref": "6012587", "type": "Householder"}
@@ -222,7 +222,7 @@
 {"addr": "4 Highfield Gardens, London, NW11 9HB", "area": "NW", "date": "2026-08-26", "decision": "Allowed", "ref": "6006920", "type": "Planning"}
 {"addr": "PAVEMENT OUTSIDE, 30 NEW BAILEY STREET, SALFORD, M3 5FS", "area": "M", "date": "2026-08-26", "decision": "Dismissed", "ref": "6008051", "type": "Planning"}
 {"addr": "PAVEMENT OUTSIDE, 30 NEW BAILEY STREET, SALFORD, M3 5FS", "area": "M", "date": "2026-08-26", "decision": "Dismissed", "ref": "6008052", "type": "Commercial advertisement"}
-{"addr": "Nine Oaks, Stock Lane, Over Peover, Knutsford, WA16 8TU", "area": "WA", "date": "2026-08-26", "decision": "Dismissed", "ref": "6008087", "type": "Householder"}
+{"addr": "Nine Oaks, Stock Lane, Over Peover, Knutsford, WA16 8TU", "area": "W", "date": "2026-08-26", "decision": "Dismissed", "ref": "6008087", "type": "Householder"}
 {"addr": "1 Goods Yard Street, Manchester, M3 3BG", "area": "M", "date": "2026-08-26", "decision": "Dismissed", "ref": "6008236", "type": "Commercial advertisement"}
 {"addr": "11 Lonsdale Road, Southend-on-sea, SS2 4LZ", "area": "SS", "date": "2026-08-26", "decision": "Dismissed", "ref": "6008366", "type": "Householder"}
 {"addr": "The Chequers Public House, Matching Green, Harlow, CM17 0PZ", "area": "CM", "date": "2026-08-26", "decision": "Allowed", "ref": "6008532", "type": "Planning"}
@@ -281,7 +281,7 @@
 {"addr": "Bank Lane, Blackburn, BB1 2AP", "area": "BB", "date": "2026-08-28", "decision": "Allowed", "ref": "6007521", "type": "Planning"}
 {"addr": "Whitings Lane, Burn, YO8 8LG", "area": "YO", "date": "2026-08-28", "decision": "Dismissed", "ref": "6007535", "type": "Planning"}
 {"addr": "50 Arthur Road, London, N7 6DR", "area": "N", "date": "2026-08-28", "decision": "Dismissed", "ref": "6008065", "type": "Planning"}
-{"addr": "Barn at Low Farm, Post Office Lane, Norley, WA6 8JH", "area": "WA", "date": "2026-08-28", "decision": "Allowed", "ref": "6008197", "type": "Planning"}
+{"addr": "Barn at Low Farm, Post Office Lane, Norley, WA6 8JH", "area": "W", "date": "2026-08-28", "decision": "Allowed", "ref": "6008197", "type": "Planning"}
 {"addr": "9 The Spinney, Winchmore Hill, London, N21 1LL", "area": "N", "date": "2026-08-28", "decision": "Allowed", "ref": "6008361", "type": "Planning"}
 {"addr": "52 Culverhouse Road, Luton, LU3 1PY", "area": "LU", "date": "2026-08-28", "decision": "Allowed", "ref": "6008692", "type": "Householder"}
 {"addr": "9 Lyndhurst Road, Corringham, SS17 7SJ", "area": "SS", "date": "2026-08-28", "decision": "Allowed", "ref": "6008878", "type": "Planning"}
@@ -360,8 +360,8 @@
 {"addr": "Compounds A, A1, and A4, Youngs Industrial Estate, Paices Hill, Aldermaston, Reading, RG7 4PW", "area": "RG", "date": "2026-09-02", "decision": "Allowed", "ref": "6009448", "type": "Planning"}
 {"addr": "Street record Mill Rd, Whitfield, NN13 5TE", "area": "NN", "date": "2026-09-02", "decision": "Dismissed", "ref": "6009818", "type": "Planning"}
 {"addr": "219 Fullingdale Road, Northampton, NN3 2QH", "area": "NN", "date": "2026-09-02", "decision": "Dismissed", "ref": "6009933", "type": "Planning"}
-{"addr": "1 & 1A Lytton Avenue, Enfield, EN3 6EL", "area": "EN", "date": "2026-09-02", "decision": "Dismissed", "ref": "6009970", "type": "Planning"}
-{"addr": "1A Lytton Avenue, Enfield, EN3 6EL", "area": "EN", "date": "2026-09-02", "decision": "Dismissed", "ref": "6009972", "type": "Planning"}
+{"addr": "1 & 1A Lytton Avenue, Enfield, EN3 6EL", "area": "E", "date": "2026-09-02", "decision": "Dismissed", "ref": "6009970", "type": "Planning"}
+{"addr": "1A Lytton Avenue, Enfield, EN3 6EL", "area": "E", "date": "2026-09-02", "decision": "Dismissed", "ref": "6009972", "type": "Planning"}
 {"addr": "Footpath outside Aldi, 106A Newport Road, Middlesbrough, TS1 5JF", "area": "TS", "date": "2026-09-02", "decision": "Dismissed", "ref": "6010457", "type": "Planning"}
 {"addr": "Footpath outside Aldi, 106A Newport Road, Middlesbrough, TS1 5JF", "area": "TS", "date": "2026-09-02", "decision": "Dismissed", "ref": "6010458", "type": "Commercial advertisement"}
 {"addr": "195 Leaventhorpe Lane, Thornton, Bradford, BD13 3BL", "area": "BD", "date": "2026-09-02", "decision": "Dismissed", "ref": "6010819", "type": "Householder"}
@@ -388,7 +388,7 @@
 {"addr": "31A The Avenue, Poole, BH13 6LJ", "area": "BH", "date": "2026-09-03", "decision": "Dismissed", "ref": "6007779", "type": "Planning"}
 {"addr": "Wild Flowers, Wren's Hill, Oxshott, KT22 0HN", "area": "KT", "date": "2026-09-03", "decision": "Allowed", "ref": "6007869", "type": "Planning"}
 {"addr": "9 Vinery Grove, Richmond Hill, Leeds, LS9 9LT", "area": "LS", "date": "2026-09-03", "decision": "Allowed", "ref": "6007907", "type": "Planning"}
-{"addr": "11 Kingswood Avenue, Hitchin, SG4 0PA", "area": "SG", "date": "2026-09-03", "decision": "Allowed", "ref": "6008022", "type": "Planning"}
+{"addr": "11 Kingswood Avenue, Hitchin, SG4 0PA", "area": "S", "date": "2026-09-03", "decision": "Allowed", "ref": "6008022", "type": "Planning"}
 {"addr": "Land North of Helm Farm Cottages, Helm Lane, Triangle, Sowerby Bridge, HX6 3DU", "area": "HX", "date": "2026-09-03", "decision": "Dismissed", "ref": "6008062", "type": "Planning"}
 {"addr": "Landfall Annexe, Landfall, Chilworth Road, Chilworth,Romsey, SO16 7LA", "area": "SO", "date": "2026-09-03", "decision": "Dismissed", "ref": "6008234", "type": "Planning"}
 {"addr": "Orchard View, Gallows Green Road, Great Easton, CM6 3QS", "area": "CM", "date": "2026-09-03", "decision": "Dismissed", "ref": "6008739", "type": "Planning"}
@@ -400,8 +400,8 @@
 {"addr": "14-16 Lingwood Road, London, E5 9BN", "area": "E", "date": "2026-09-03", "decision": "Dismissed", "ref": "6010507", "type": "Planning"}
 {"addr": "St Barnabas Church, St Barnabas Close, Hereford, HR1 1DT", "area": "HR", "date": "2026-09-03", "decision": "Allowed", "ref": "6010739", "type": "Planning"}
 {"addr": "47 Osbaldeston Road, Hackney, N16 7DL", "area": "N", "date": "2026-09-03", "decision": "Allowed", "ref": "6010791", "type": "Householder"}
-{"addr": "Footpath outside Unit 1, Colman House, 4-5 High Street, Beckenham, SE20 7EX", "area": "SE", "date": "2026-09-03", "decision": "Allowed", "ref": "6010808", "type": "Planning"}
-{"addr": "Footpath outside Unit 1, Colman House, 4-5 High Street, Beckenham, SE20 7EX", "area": "SE", "date": "2026-09-03", "decision": "Allowed", "ref": "6010810", "type": "Commercial advertisement"}
+{"addr": "Footpath outside Unit 1, Colman House, 4-5 High Street, Beckenham, SE20 7EX", "area": "S", "date": "2026-09-03", "decision": "Allowed", "ref": "6010808", "type": "Planning"}
+{"addr": "Footpath outside Unit 1, Colman House, 4-5 High Street, Beckenham, SE20 7EX", "area": "S", "date": "2026-09-03", "decision": "Allowed", "ref": "6010810", "type": "Commercial advertisement"}
 {"addr": "124 Bexley Road, Bexley, Erith, DA8 3SP", "area": "DA", "date": "2026-09-03", "decision": "Dismissed", "ref": "6010832", "type": "Planning"}
 {"addr": "Land to front of 25 Market Place, Cannock, WS111BS", "area": "WS", "date": "2026-09-03", "decision": "Dismissed", "ref": "6010865", "type": "Planning"}
 {"addr": "Land to front of 25 Market Place, Cannock, WS111BS", "area": "WS", "date": "2026-09-03", "decision": "Dismissed", "ref": "6010866", "type": "Commercial advertisement"}
@@ -409,12 +409,11 @@
 {"addr": "99 Esmond Road, Chiswick, W4 1JE", "area": "W", "date": "2026-09-03", "decision": "Dismissed", "ref": "6010956", "type": "Householder"}
 {"addr": "3 Manford Way, Chigwell, IG7 4JH", "area": "IG", "date": "2026-09-03", "decision": "Dismissed", "ref": "6011248", "type": "Householder"}
 {"addr": "1 BROOMWOOD ROAD, ORPINGTON, BR5 2JH", "area": "BR", "date": "2026-09-03", "decision": "Allowed", "ref": "6011388", "type": "Planning"}
-{"addr": "3, High Street, Croydon, SE25 6EP", "area": "SE", "date": "2026-09-03", "decision": "Dismissed", "ref": "6011471", "type": "Planning"}
+{"addr": "3, High Street, Croydon, SE25 6EP", "area": "S", "date": "2026-09-03", "decision": "Dismissed", "ref": "6011471", "type": "Planning"}
 {"addr": "44 HOWARD ROAD, DARTFORD, DA1 1XH", "area": "DA", "date": "2026-09-03", "decision": "Allowed", "ref": "6011586", "type": "Householder"}
-{"addr": "192 Ware Road, HODDESDON, EN11 9EY", "area": "EN", "date": "2026-09-03", "decision": "Dismissed", "ref": "6011755", "type": "Householder"}
+{"addr": "192 Ware Road, HODDESDON, EN11 9EY", "area": "E", "date": "2026-09-03", "decision": "Dismissed", "ref": "6011755", "type": "Householder"}
 {"addr": "124 Ferrars Road, Sheffield, S9 1SA", "area": "S", "date": "2026-09-03", "decision": "Dismissed", "ref": "6012024", "type": "Householder"}
 {"addr": "1 Charnwood Bank, White Lee, Batley, WF17 8PY", "area": "WF", "date": "2026-09-03", "decision": "Allowed in part", "ref": "6012527", "type": "Householder"}
-{"addr": "Flat 3, 49 Madeira Park, Royal Tunbridge Wells, TN2 5SY", "area": "TN", "date": "2026-09-03", "decision": "Allowed in part", "ref": "6012775", "type": "Planning"}
 {"addr": "4 Boileau Road, London, SW13 9BL", "area": "SW", "date": "2026-09-03", "decision": "Dismissed", "ref": "6013040", "type": "Householder"}
 {"addr": "2 Boileau Road, London, SW13 9BL", "area": "SW", "date": "2026-09-03", "decision": "Dismissed", "ref": "6013044", "type": "Householder"}
 {"addr": "Lakshmi satti, Test, Test city, ig11 9px", "area": "IG", "date": "2026-09-03", "decision": "Allowed", "ref": "6015634", "type": "Planning"}
@@ -450,14 +449,14 @@
 {"addr": "51 Sidecliff Road, Roker, Sunderland, SR6 9JR", "area": "SR", "date": "2026-09-04", "decision": "Dismissed", "ref": "6009590", "type": "Householder"}
 {"addr": "Vyners Estate,, Mill Lane, Tidmarsh, Reading, RG8 8EB", "area": "RG", "date": "2026-09-04", "decision": "Dismissed", "ref": "6009718", "type": "Planning"}
 {"addr": "13 HAREWOOD ROAD, SOUTH CROYDON, CR2 7AT", "area": "CR", "date": "2026-09-04", "decision": "Dismissed", "ref": "6009886", "type": "Planning"}
-{"addr": "A1 Retail Park, London Road, Biggleswade, SG18 8PS", "area": "SG", "date": "2026-09-04", "decision": "Allowed", "ref": "6010226", "type": "Planning"}
+{"addr": "A1 Retail Park, London Road, Biggleswade, SG18 8PS", "area": "S", "date": "2026-09-04", "decision": "Allowed", "ref": "6010226", "type": "Planning"}
 {"addr": "1-5 South View Barns, Brickhouse Lane, Newchapel, RH7 6HY", "area": "RH", "date": "2026-09-04", "decision": "Dismissed", "ref": "6010313", "type": "Planning"}
 {"addr": "The Green Man, The Green, Clophill, MK45 4AD", "area": "MK", "date": "2026-09-04", "decision": "Allowed", "ref": "6010315", "type": "Planning"}
 {"addr": "Stonewood, Almshouse Hill, Leeds, LS23 6QX", "area": "LS", "date": "2026-09-04", "decision": "Dismissed", "ref": "6010416", "type": "Planning"}
-{"addr": "65A Brookhill Road, Barnet, EN4 8SF", "area": "EN", "date": "2026-09-04", "decision": "Allowed", "ref": "6010492", "type": "Planning"}
+{"addr": "65A Brookhill Road, Barnet, EN4 8SF", "area": "E", "date": "2026-09-04", "decision": "Allowed", "ref": "6010492", "type": "Planning"}
 {"addr": "64 Molesey Road, Hersham, KT12 4RG", "area": "KT", "date": "2026-09-04", "decision": "Dismissed", "ref": "6010535", "type": "Householder"}
 {"addr": "38 BYFLEET ROAD, NEW HAW, KT15 3JX", "area": "KT", "date": "2026-09-04", "decision": "Dismissed", "ref": "6010641", "type": "Householder"}
-{"addr": "land adjacent to 115 Loampit Vale, London, SE13 7TG", "area": "SE", "date": "2026-09-04", "decision": "Dismissed", "ref": "6010822", "type": "Planning"}
+{"addr": "land adjacent to 115 Loampit Vale, London, SE13 7TG", "area": "S", "date": "2026-09-04", "decision": "Dismissed", "ref": "6010822", "type": "Planning"}
 {"addr": "Footpath outside 366 Gray\u2019s Inn Road, London, WC1X 8BE", "area": "WC", "date": "2026-09-04", "decision": "Dismissed", "ref": "6010844", "type": "Planning"}
 {"addr": "Footpath outside 366 Gray\u2019s Inn Road, London, WC1X 8BE", "area": "WC", "date": "2026-09-04", "decision": "Dismissed", "ref": "6010845", "type": "Commercial advertisement"}
 {"addr": "The Rising Rest Home, Primrose Lane, Simmondley, Glossop, SK13 6LW", "area": "SK", "date": "2026-09-04", "decision": "Dismissed", "ref": "6011027", "type": "Planning"}
@@ -471,7 +470,7 @@
 {"addr": "16 Heather Glen, Romford, RM1 4SR", "area": "RM", "date": "2026-09-04", "decision": "Dismissed", "ref": "6011911", "type": "Householder"}
 {"addr": "20 Pitbank Drive, Collingtree, Northampton, NN4 0AQ", "area": "NN", "date": "2026-09-04", "decision": "Allowed in part", "ref": "6012069", "type": "Householder"}
 {"addr": "6 Meadow Green, Welwyn Garden City, AL8 6SS", "area": "AL", "date": "2026-09-04", "decision": "Allowed", "ref": "6012516", "type": "Householder"}
-{"addr": "205 kidbrooke Park Road, Kidbrooke, SE3 9PP", "area": "SE", "date": "2026-09-04", "decision": "Allowed", "ref": "6012695", "type": "Householder"}
+{"addr": "205 kidbrooke Park Road, Kidbrooke, SE3 9PP", "area": "S", "date": "2026-09-04", "decision": "Allowed", "ref": "6012695", "type": "Householder"}
 {"addr": "Land at Harlestone Road/York Way, Northants, NN5 6WQ", "area": "NN", "date": "2026-09-07", "decision": "Allowed", "ref": "6004385", "type": "Planning"}
 {"addr": "Dean Farm, Long Bottom Lane, Jordans, HP9 2UT", "area": "HP", "date": "2026-09-07", "decision": "Dismissed", "ref": "6004673", "type": "Planning listed building and conservation area"}
 {"addr": "Dean Farm, Long Bottom Lane, Jordans, HP9 2UT", "area": "HP", "date": "2026-09-07", "decision": "Dismissed", "ref": "6004675", "type": "Planning listed building and conservation area"}
@@ -479,7 +478,7 @@
 {"addr": "Medvale House, Mote Road, Maidstone, ME15 6AH", "area": "ME", "date": "2026-09-07", "decision": "Dismissed", "ref": "6005653", "type": "Planning"}
 {"addr": "10 Elsenham Street, London, SW18 5NS", "area": "SW", "date": "2026-09-07", "decision": "Dismissed", "ref": "6005855", "type": "Planning"}
 {"addr": "308 Stockport Road, Hyde, SK14 5RU", "area": "SK", "date": "2026-09-07", "decision": "Dismissed", "ref": "6006049", "type": "Planning"}
-{"addr": "Land South Of The Street, Furneux Pelham, SG9 0LD", "area": "SG", "date": "2026-09-07", "decision": "Dismissed", "ref": "6006819", "type": "Planning"}
+{"addr": "Land South Of The Street, Furneux Pelham, SG9 0LD", "area": "S", "date": "2026-09-07", "decision": "Dismissed", "ref": "6006819", "type": "Planning"}
 {"addr": "Barn Hey Farm, Flookburgh Road, Allithwaite, LA11 7RJ", "area": "LA", "date": "2026-09-07", "decision": "Allowed", "ref": "6007096", "type": "Planning"}
 {"addr": "20 Kennedy Road, Shrewsbury, SY3 7AB", "area": "SY", "date": "2026-09-07", "decision": "Dismissed", "ref": "6007355", "type": "Planning"}
 {"addr": "Car Park Between Castle Mews And 7 Castle Road, LONDON, N12 9EE", "area": "N", "date": "2026-09-07", "decision": "Allowed", "ref": "6007373", "type": "Planning"}
@@ -520,7 +519,7 @@
 {"addr": "36-40 Clayton street, Newcastle, NE1 5PF", "area": "N", "date": "2026-09-07", "decision": "Allowed", "ref": "6011428", "type": "Commercial advertisement"}
 {"addr": "The Leys, 63 Booth Rise, Northampton, NN3 6HP", "area": "NN", "date": "2026-09-07", "decision": "Dismissed", "ref": "6011524", "type": "Planning"}
 {"addr": "Reynards Rest, Willis Lane, Four Marks, Alton, GU34 5AP", "area": "GU", "date": "2026-09-07", "decision": "Dismissed", "ref": "6011719", "type": "Planning"}
-{"addr": "170, MARVELS LANE, LONDON, SE12 9PJ", "area": "SE", "date": "2026-09-07", "decision": "Dismissed", "ref": "6011788", "type": "Householder"}
+{"addr": "170, MARVELS LANE, LONDON, SE12 9PJ", "area": "S", "date": "2026-09-07", "decision": "Dismissed", "ref": "6011788", "type": "Householder"}
 {"addr": "43 Endcliffe Rise Road, Sheffield, S11 8RU", "area": "S", "date": "2026-09-07", "decision": "Dismissed", "ref": "6012025", "type": "Planning"}
 {"addr": "22 Long Causeway, Leeds, LS16 8EQ", "area": "LS", "date": "2026-09-07", "decision": "Allowed", "ref": "6012427", "type": "Householder"}
 {"addr": "Willow Cottage, The Village, Latchmore Bank, Little Hallingbury, CM22 7PX", "area": "CM", "date": "2026-09-08", "decision": "Dismissed", "ref": "6004604", "type": "Householder"}
@@ -550,7 +549,7 @@
 {"addr": "Pilmore Farm, Old Cassop, Durham, DH6 4QB", "area": "DH", "date": "2026-09-08", "decision": "Allowed", "ref": "6010086", "type": "Planning"}
 {"addr": "Land East of 52 Exeter Road, Claydon, Ipswich, IP6 0BP", "area": "IP", "date": "2026-09-08", "decision": "Dismissed", "ref": "6010228", "type": "Planning"}
 {"addr": "17 Lyndon Mead, Sandridge, St Albans, AL4 9EX", "area": "AL", "date": "2026-09-08", "decision": "Allowed", "ref": "6010603", "type": "Householder"}
-{"addr": "20 Bury Lane, Bramfield, SG14 2QL", "area": "SG", "date": "2026-09-08", "decision": "Allowed", "ref": "6010708", "type": "Planning"}
+{"addr": "20 Bury Lane, Bramfield, SG14 2QL", "area": "S", "date": "2026-09-08", "decision": "Allowed", "ref": "6010708", "type": "Planning"}
 {"addr": "Land And Lake North Of Rosemellyn Cottage, Roche, St Austell, PL26 8LB", "area": "PL", "date": "2026-09-08", "decision": "Dismissed", "ref": "6010729", "type": "Planning"}
 {"addr": "27 A St Peters Road, Huntingdon, PE29 7AA", "area": "PE", "date": "2026-09-08", "decision": "Dismissed", "ref": "6011000", "type": "Householder"}
 {"addr": "23 PENDRAGON WALK, LONDON, NW9 7RR", "area": "NW", "date": "2026-09-08", "decision": "Dismissed", "ref": "6011133", "type": "Householder"}
@@ -577,7 +576,7 @@
 {"addr": "Forge Garage, Church Road, Churchill, OX7 6NJ", "area": "OX", "date": "2026-09-09", "decision": "Allowed", "ref": "6007705", "type": "Planning"}
 {"addr": "Liverpool Road, Outside Waitrose, London, N1 0RW", "area": "N", "date": "2026-09-09", "decision": "Dismissed", "ref": "6007714", "type": "Commercial advertisement"}
 {"addr": "Liverpool Road, Outside Waitrose, London, N1 0RW", "area": "N", "date": "2026-09-09", "decision": "Dismissed", "ref": "6007715", "type": "Planning"}
-{"addr": "The Park, 56 Elder Road, West Norwood, London, SE27 9ND", "area": "SE", "date": "2026-09-09", "decision": "Dismissed", "ref": "6007861", "type": "Planning"}
+{"addr": "The Park, 56 Elder Road, West Norwood, London, SE27 9ND", "area": "S", "date": "2026-09-09", "decision": "Dismissed", "ref": "6007861", "type": "Planning"}
 {"addr": "217 Colney Hatch Lane, London, N10 1AP", "area": "N", "date": "2026-09-09", "decision": "Dismissed", "ref": "6007883", "type": "Planning"}
 {"addr": "Burnham Grammar School, Hogfair Lane, Burnham, SL1 7HG", "area": "SL", "date": "2026-09-09", "decision": "Allowed", "ref": "6008170", "type": "Planning"}
 {"addr": "25 Faber Gardens, Hendon, London, NW4 4NP", "area": "NW", "date": "2026-09-09", "decision": "Dismissed", "ref": "6008348", "type": "Householder"}
@@ -609,8 +608,8 @@
 {"addr": "9 Neale Close, Northampton, NN3 3DB", "area": "NN", "date": "2026-09-09", "decision": "Dismissed", "ref": "6012165", "type": "Householder"}
 {"addr": "41 Brent PArk Road, London, NW4 3HN", "area": "NW", "date": "2026-09-10", "decision": "Allowed", "ref": "6000405", "type": "Planning"}
 {"addr": "Land Adj To Pine Lodge, Vicarage Hill, St Day, TR16 5PJ", "area": "TR", "date": "2026-09-10", "decision": "Dismissed", "ref": "6004909", "type": "Planning"}
-{"addr": "Manor House Farm, Hillfoot Lane, Kingsley, Frodsham, WA6 6TB", "area": "WA", "date": "2026-09-10", "decision": "Dismissed", "ref": "6005495", "type": "Planning"}
-{"addr": "Manor House Farm, Hillfoot Lane, Kingsley, Frodsham, WA6 6TB", "area": "WA", "date": "2026-09-10", "decision": "Dismissed", "ref": "6005497", "type": "Planning listed building and conservation area"}
+{"addr": "Manor House Farm, Hillfoot Lane, Kingsley, Frodsham, WA6 6TB", "area": "W", "date": "2026-09-10", "decision": "Dismissed", "ref": "6005495", "type": "Planning"}
+{"addr": "Manor House Farm, Hillfoot Lane, Kingsley, Frodsham, WA6 6TB", "area": "W", "date": "2026-09-10", "decision": "Dismissed", "ref": "6005497", "type": "Planning listed building and conservation area"}
 {"addr": "50 Baring Road, Bournemouth, BH6 4DT", "area": "BH", "date": "2026-09-10", "decision": "Dismissed", "ref": "6005818", "type": "Householder"}
 {"addr": "Land south of Litcham Road, Mileham, PE32 2PU", "area": "PE", "date": "2026-09-10", "decision": "Allowed", "ref": "6005970", "type": "Planning"}
 {"addr": "Three Horseshoes, Bannister Green, Felsted, Dunmow, CM6 3ND", "area": "CM", "date": "2026-09-10", "decision": "Dismissed", "ref": "6006059", "type": "Planning listed building and conservation area"}
@@ -620,14 +619,14 @@
 {"addr": "Camden Road, outside No. 57, near Rail Bridge, London, NW1 9EU", "area": "NW", "date": "2026-09-10", "decision": "Allowed", "ref": "6007217", "type": "Planning"}
 {"addr": "Footpath outside, 45\u201346 Chalk Farm Road, Chalk Farm, London, NW1 8AJ", "area": "NW", "date": "2026-09-10", "decision": "Dismissed", "ref": "6007360", "type": "Planning"}
 {"addr": "Footpath outside, 45\u201346 Chalk Farm Road, Chalk Farm, London, NW1 8AJ", "area": "NW", "date": "2026-09-10", "decision": "Dismissed", "ref": "6007364", "type": "Commercial advertisement"}
-{"addr": "57 Lock Road, Broadheath, Altrincham, WA14 4HQ", "area": "WA", "date": "2026-09-10", "decision": "Allowed", "ref": "6007395", "type": "Householder"}
+{"addr": "57 Lock Road, Broadheath, Altrincham, WA14 4HQ", "area": "W", "date": "2026-09-10", "decision": "Allowed", "ref": "6007395", "type": "Householder"}
 {"addr": "Land east of Lower Clicker Close, Clicker, Menheniot, Liskeard, PL14 3UF", "area": "PL", "date": "2026-09-10", "decision": "Dismissed", "ref": "6007431", "type": "Planning"}
 {"addr": "35 Sheeplands Avenue, Guildford, GU1 2SG", "area": "GU", "date": "2026-09-10", "decision": "Dismissed", "ref": "6007583", "type": "Householder"}
 {"addr": "Footpath outside, 9\u201317 Highgate Road, London, NW5 1JY", "area": "NW", "date": "2026-09-10", "decision": "Dismissed", "ref": "6007598", "type": "Planning"}
 {"addr": "Footpath outside 9 - 17 Highgate Road, London, NW5 1JY", "area": "NW", "date": "2026-09-10", "decision": "Dismissed", "ref": "6007600", "type": "Commercial advertisement"}
 {"addr": "West Barn, Cobhay Farm, Milverton Road, Wiveliscombe, TA4 1NN", "area": "TA", "date": "2026-09-10", "decision": "Allowed", "ref": "6007678", "type": "Planning"}
 {"addr": "108 Boaler Street,, Kensington, L6 9DF", "area": "L", "date": "2026-09-10", "decision": "Dismissed", "ref": "6008083", "type": "Planning"}
-{"addr": "Land To The Rear Of Dovedale, Ware, sg12 0xl", "area": "SG", "date": "2026-09-10", "decision": "Dismissed", "ref": "6008167", "type": "Planning"}
+{"addr": "Land To The Rear Of Dovedale, Ware, sg12 0xl", "area": "S", "date": "2026-09-10", "decision": "Dismissed", "ref": "6008167", "type": "Planning"}
 {"addr": "14 Sunningdale Way, Little Neston, CH64 0UY", "area": "CH", "date": "2026-09-10", "decision": "Dismissed", "ref": "6008382", "type": "Householder"}
 {"addr": "40 Woodlands, London, NW11 9QU", "area": "NW", "date": "2026-09-10", "decision": "Dismissed", "ref": "6008726", "type": "Householder"}
 {"addr": "514 Downham Way, Bromley, BR1 5HP", "area": "BR", "date": "2026-09-10", "decision": "Allowed", "ref": "6008815", "type": "Householder"}
@@ -653,7 +652,7 @@
 {"addr": "14, Clayton Road, Bradford, BD7 2LT", "area": "BD", "date": "2026-09-10", "decision": "Allowed", "ref": "6011472", "type": "Planning"}
 {"addr": "297 Frankby Road, Frankby, CH48 1PE", "area": "CH", "date": "2026-09-10", "decision": "Dismissed", "ref": "6012026", "type": "Householder"}
 {"addr": "2 Villa Real Cottages, Mansfield Road, Edwinstowe, NG21 9HE", "area": "N", "date": "2026-09-10", "decision": "Dismissed", "ref": "6012034", "type": "Householder"}
-{"addr": "16 Eastbrook Road, london, se3 8bt", "area": "SE", "date": "2026-09-10", "decision": "Dismissed", "ref": "6012063", "type": "Householder"}
+{"addr": "16 Eastbrook Road, london, se3 8bt", "area": "S", "date": "2026-09-10", "decision": "Dismissed", "ref": "6012063", "type": "Householder"}
 {"addr": "Mile End Road, Outside No. 118, London, E1 4UH", "area": "E", "date": "2026-09-10", "decision": "Allowed", "ref": "6012151", "type": "Commercial advertisement"}
 {"addr": "Mile End Road, Outside No. 118, London, E1 4UH", "area": "E", "date": "2026-09-10", "decision": "Allowed", "ref": "6012153", "type": "Planning"}
 {"addr": "Broom Farm Dene Road, Dene Road, Norton Fitzwarren, TA4 3LX", "area": "TA", "date": "2026-09-10", "decision": "Allowed", "ref": "6012154", "type": "Planning"}
@@ -666,7 +665,7 @@
 {"addr": "41 Orkney Close, Torquay, TQ2 7DS", "area": "TQ", "date": "2026-09-10", "decision": "Dismissed", "ref": "6013855", "type": "Householder"}
 {"addr": "127 North Street, Axminster, EX13 5QH", "area": "EX", "date": "2026-09-10", "decision": "Dismissed", "ref": "6014276", "type": "Householder"}
 {"addr": "J Sainsbury, 73 High Street, Chislehurst, BR7 5AG", "area": "BR", "date": "2026-09-11", "decision": "Dismissed", "ref": "6003034", "type": "Planning"}
-{"addr": "1 - 3A Doggett Road, London, SE6 4PZ", "area": "SE", "date": "2026-09-11", "decision": "Allowed", "ref": "6004929", "type": "Planning"}
+{"addr": "1 - 3A Doggett Road, London, SE6 4PZ", "area": "S", "date": "2026-09-11", "decision": "Allowed", "ref": "6004929", "type": "Planning"}
 {"addr": "Land West of Little Smiths Farm, Drayton, OX14 4JP", "area": "OX", "date": "2026-09-11", "decision": "Allowed", "ref": "6005108", "type": "Planning"}
 {"addr": "Land Off Bolshaw Farm Lane, Heald Green,, Cheadle ,, SK8 3JZ", "area": "SK", "date": "2026-09-11", "decision": "Allowed", "ref": "6005877", "type": "Planning"}
 {"addr": "340 Heathway, Dagenham, London, RM10 8NJ", "area": "RM", "date": "2026-09-11", "decision": "Dismissed", "ref": "6006329", "type": "Planning"}
@@ -679,7 +678,7 @@
 {"addr": "1 Westwood Road, Birmingham, B6 7DX", "area": "B", "date": "2026-09-11", "decision": "Allowed", "ref": "6009133", "type": "Planning"}
 {"addr": "Thorn Lodge, Wembury, PL9 0EF", "area": "PL", "date": "2026-09-11", "decision": "Dismissed", "ref": "6009388", "type": "Householder"}
 {"addr": "7, Market Street, Stourbridge, DY8 1AB", "area": "DY", "date": "2026-09-11", "decision": "Allowed", "ref": "6009469", "type": "Planning"}
-{"addr": "32, Bromley Road, London, SE6 2TP", "area": "SE", "date": "2026-09-11", "decision": "Dismissed", "ref": "6009541", "type": "Planning"}
+{"addr": "32, Bromley Road, London, SE6 2TP", "area": "S", "date": "2026-09-11", "decision": "Dismissed", "ref": "6009541", "type": "Planning"}
 {"addr": "7 Wych Lane, Gosport, PO13 0SU", "area": "PO", "date": "2026-09-11", "decision": "Allowed", "ref": "6009558", "type": "Planning"}
 {"addr": "72 Arnold Crescent, Isleworth, TW7 7NU", "area": "TW", "date": "2026-09-11", "decision": "Allowed", "ref": "6009759", "type": "Householder"}
 {"addr": "271 The Drive, Cranbrook, Ilford, IG1 3PN", "area": "IG", "date": "2026-09-11", "decision": "Allowed", "ref": "6009905", "type": "Planning"}
@@ -705,10 +704,9 @@
 {"addr": "2 - 4 Chapel Bar, Nottingham, NG1 6JQ", "area": "N", "date": "2026-09-11", "decision": "Dismissed", "ref": "6012937", "type": "Commercial planning (CAS)"}
 {"addr": "Paddock Land adjoining 39a Stone Lane, Lydiard Millicent, SN5 3LD", "area": "SN", "date": "2026-09-14", "decision": "Allowed", "ref": "6001260", "type": "Planning"}
 {"addr": "Crockmore Cottage, Crockmore Lane, Fawley, RG9 6HZ", "area": "RG", "date": "2026-09-14", "decision": "Allowed", "ref": "6003569", "type": "Planning"}
-{"addr": "10 Dingle Bank Close, Lymm, WA13 0QR", "area": "WA", "date": "2026-09-14", "decision": "Dismissed", "ref": "6005067", "type": "Planning"}
+{"addr": "10 Dingle Bank Close, Lymm, WA13 0QR", "area": "W", "date": "2026-09-14", "decision": "Dismissed", "ref": "6005067", "type": "Planning"}
 {"addr": "Land to the North of Spring Hill, Kingston Bagpuize with Southmoor, OX13 5HL", "area": "OX", "date": "2026-09-14", "decision": "Allowed", "ref": "6005809", "type": "Planning"}
 {"addr": "Court Farm, Padbrook Lane, Elmstone, CT3 1HF", "area": "CT", "date": "2026-09-14", "decision": "Dismissed", "ref": "6006123", "type": "Planning"}
-{"addr": "Land to the rear of, 5 Bescar Lane, Scarisbrick, L40 9QN", "area": "L", "date": "2026-09-14", "decision": "Dismissed", "ref": "6006286", "type": "Planning"}
 {"addr": "North Burton Hall, Hunmanby Road, Burton Flemming, YO25 3PT", "area": "YO", "date": "2026-09-14", "decision": "Allowed", "ref": "6006422", "type": "Planning"}
 {"addr": "Hall Croft House, Castleford Road, Normanton, WF6 2DN", "area": "WF", "date": "2026-09-14", "decision": "Allowed", "ref": "6006811", "type": "Planning"}
 {"addr": "Prince Williams Inn, Beacon Lane, Dalton, WN8 7RU", "area": "WN", "date": "2026-09-14", "decision": "Allowed", "ref": "6007163", "type": "Planning"}
@@ -717,8 +715,8 @@
 {"addr": "Bland Hill Farm, Broad Dubb Road, Norwood Harrogate, HG3 1TE", "area": "HG", "date": "2026-09-14", "decision": "Dismissed", "ref": "6007642", "type": "Planning listed building and conservation area"}
 {"addr": "Rear of 13 Morven Drive, Felling, Gateshead, NE10 0TF", "area": "N", "date": "2026-09-14", "decision": "Dismissed", "ref": "6007856", "type": "Planning"}
 {"addr": "52 Hugh Road, Coventry, CV3 1AD", "area": "CV", "date": "2026-09-14", "decision": "Dismissed", "ref": "6008646", "type": "Planning"}
-{"addr": "18 Beech Hill, Hadley Wood, Barnet, EN4 0JP", "area": "EN", "date": "2026-09-14", "decision": "Dismissed", "ref": "6008667", "type": "Planning"}
-{"addr": "16-18 Beech Hill, Hadley Wood, Barnet, EN4 0JP", "area": "EN", "date": "2026-09-14", "decision": "Dismissed", "ref": "6008803", "type": "Planning"}
+{"addr": "18 Beech Hill, Hadley Wood, Barnet, EN4 0JP", "area": "E", "date": "2026-09-14", "decision": "Dismissed", "ref": "6008667", "type": "Planning"}
+{"addr": "16-18 Beech Hill, Hadley Wood, Barnet, EN4 0JP", "area": "E", "date": "2026-09-14", "decision": "Dismissed", "ref": "6008803", "type": "Planning"}
 {"addr": "Verge by Abingdon Road / Broadway, Didcot, OX11 9BL", "area": "OX", "date": "2026-09-14", "decision": "Allowed", "ref": "6009340", "type": "Planning"}
 {"addr": "Homestead, Liverpool Road, Tarleton, PR4 6HP", "area": "PR", "date": "2026-09-14", "decision": "Allowed", "ref": "6009486", "type": "Planning"}
 {"addr": "1391 - 1393 London Road, Norbury, London, SW16 4AN", "area": "SW", "date": "2026-09-14", "decision": "Allowed", "ref": "6010189", "type": "Planning"}
@@ -728,8 +726,8 @@
 {"addr": "Weavers, Exted Hill, Elham, Canterbury, CT4 6YG", "area": "CT", "date": "2026-09-14", "decision": "Dismissed", "ref": "6010455", "type": "Householder"}
 {"addr": "4 Offington Court, Worthing, BN14 9PF", "area": "BN", "date": "2026-09-14", "decision": "Dismissed", "ref": "6010518", "type": "Planning"}
 {"addr": "103 OXFORD STREET, LONDON, W1D 2HF", "area": "W", "date": "2026-09-14", "decision": "Allowed", "ref": "6010668", "type": "Advertisement"}
-{"addr": "Denmark Hill, Outside No. 124, London, SE5 8RX", "area": "SE", "date": "2026-09-14", "decision": "Allowed", "ref": "6010837", "type": "Commercial advertisement"}
-{"addr": "Denmark Hill, Outside No. 124, London, SE5 8RX", "area": "SE", "date": "2026-09-14", "decision": "Allowed", "ref": "6010838", "type": "Planning"}
+{"addr": "Denmark Hill, Outside No. 124, London, SE5 8RX", "area": "S", "date": "2026-09-14", "decision": "Allowed", "ref": "6010837", "type": "Commercial advertisement"}
+{"addr": "Denmark Hill, Outside No. 124, London, SE5 8RX", "area": "S", "date": "2026-09-14", "decision": "Allowed", "ref": "6010838", "type": "Planning"}
 {"addr": "Triveni, Ascot Road, Maidenhead, SL6 2HT", "area": "SL", "date": "2026-09-14", "decision": "Allowed", "ref": "6010917", "type": "Householder"}
 {"addr": "LAND ADJACENT 8 BEDFORD ROAD, COPLE, Bedford, MK44 3TP", "area": "MK", "date": "2026-09-14", "decision": "Allowed", "ref": "6011253", "type": "Planning"}
 {"addr": "BARN AT POPLAR FARM, HARPS HALL ROAD, WALTON HIGHWAY, PE14 7DL", "area": "PE", "date": "2026-09-14", "decision": "Dismissed", "ref": "6011256", "type": "Planning"}
@@ -751,8 +749,8 @@
 {"addr": "Land to East of Bere Hill, Whitchurch, RG28 7EB", "area": "RG", "date": "2026-09-15", "decision": "Dismissed", "ref": "6006893", "type": "Planning"}
 {"addr": "23-24, Brunswick Square, Hove, BN3 1EJ", "area": "BN", "date": "2026-09-15", "decision": "Dismissed", "ref": "6007266", "type": "Planning listed building and conservation area"}
 {"addr": "Hillcrest, Chalton, Luton, LU4 9UB", "area": "LU", "date": "2026-09-15", "decision": "Dismissed", "ref": "6007334", "type": "Planning"}
-{"addr": "Old Street, Opposite No. 142, London, EC1V 9BS", "area": "EC", "date": "2026-09-15", "decision": "Allowed", "ref": "6007794", "type": "Commercial advertisement"}
-{"addr": "Old Street, Opposite No. 142, London, EC1V 9BS", "area": "EC", "date": "2026-09-15", "decision": "Allowed", "ref": "6007796", "type": "Planning"}
+{"addr": "Old Street, Opposite No. 142, London, EC1V 9BS", "area": "E", "date": "2026-09-15", "decision": "Allowed", "ref": "6007794", "type": "Commercial advertisement"}
+{"addr": "Old Street, Opposite No. 142, London, EC1V 9BS", "area": "E", "date": "2026-09-15", "decision": "Allowed", "ref": "6007796", "type": "Planning"}
 {"addr": "Land off Eastbourne Road, Polegate, BN26 5DD", "area": "BN", "date": "2026-09-15", "decision": "Allowed", "ref": "6008314", "type": "Planning"}
 {"addr": "Land at Moorhouse Lane, Oxenhope, Keighley, BD22 9RY", "area": "BD", "date": "2026-09-15", "decision": "Dismissed", "ref": "6008465", "type": "Planning"}
 {"addr": "349 Hackney Road, London, E2 8PR", "area": "E", "date": "2026-09-15", "decision": "Dismissed", "ref": "6008486", "type": "Planning"}
@@ -811,8 +809,8 @@
 {"addr": "Land adjacent to 47 Langridge Circle, Watlington, PE33 0UF", "area": "PE", "date": "2026-09-16", "decision": "Allowed", "ref": "6007871", "type": "Planning"}
 {"addr": "Former E, Energy Site, Caxton Road, Bedford, MK41 0HT", "area": "MK", "date": "2026-09-16", "decision": "Dismissed", "ref": "6007932", "type": "Planning"}
 {"addr": "Henhurst Lodge, Beare Green Road, Beare Green, RH5 4PX", "area": "RH", "date": "2026-09-16", "decision": "Dismissed", "ref": "6008528", "type": "Planning"}
-{"addr": "St John Street, Outside No. 407, London, EC1V 4EX", "area": "EC", "date": "2026-09-16", "decision": "Allowed", "ref": "6008697", "type": "Commercial advertisement"}
-{"addr": "St John Street, Outside No. 407, London, EC1V 4EX", "area": "EC", "date": "2026-09-16", "decision": "Allowed", "ref": "6008701", "type": "Planning"}
+{"addr": "St John Street, Outside No. 407, London, EC1V 4EX", "area": "E", "date": "2026-09-16", "decision": "Allowed", "ref": "6008697", "type": "Commercial advertisement"}
+{"addr": "St John Street, Outside No. 407, London, EC1V 4EX", "area": "E", "date": "2026-09-16", "decision": "Allowed", "ref": "6008701", "type": "Planning"}
 {"addr": "34 Banwell Road, Odd Down, Bath, ba2 2uj", "area": "B", "date": "2026-09-16", "decision": "Allowed", "ref": "6008719", "type": "Planning"}
 {"addr": "5 Kingsfold Close, Billingshurst, RH14 9HG", "area": "RH", "date": "2026-09-16", "decision": "Dismissed", "ref": "6009032", "type": "Planning"}
 {"addr": "Land At Grid Reference 251114 109537, Petrockstowe, EX20 3HQ", "area": "EX", "date": "2026-09-16", "decision": "Dismissed", "ref": "6009618", "type": "Planning"}
@@ -828,7 +826,7 @@
 {"addr": "238 Caulfield Road, East Ham, London, E6 2DQ", "area": "E", "date": "2026-09-16", "decision": "Allowed", "ref": "6011381", "type": "Planning"}
 {"addr": "34 Aldham Road, Hadleigh, IP7 6BP", "area": "IP", "date": "2026-09-16", "decision": "Dismissed", "ref": "6011384", "type": "Householder"}
 {"addr": "290 Prince Avenue, Westcliff-on-sea Essex, SS0 0NF", "area": "SS", "date": "2026-09-16", "decision": "Allowed in part", "ref": "6012017", "type": "Planning"}
-{"addr": "123 Benhill Road, London, SE5 7LZ", "area": "SE", "date": "2026-09-16", "decision": "Dismissed", "ref": "6012237", "type": "Householder"}
+{"addr": "123 Benhill Road, London, SE5 7LZ", "area": "S", "date": "2026-09-16", "decision": "Dismissed", "ref": "6012237", "type": "Householder"}
 {"addr": "65 Deepdene Vale, Dorking, RH4 1NJ", "area": "RH", "date": "2026-09-16", "decision": "Dismissed", "ref": "6012356", "type": "Householder"}
 {"addr": "33 Stainecross Avenue, Huddersfield, HD4 5HZ", "area": "HD", "date": "2026-09-16", "decision": "Allowed", "ref": "6012370", "type": "Planning"}
 {"addr": "Crestway, 246 Dover House Road, London, SW15 5DA", "area": "SW", "date": "2026-09-16", "decision": "Dismissed", "ref": "6012827", "type": "Householder"}
@@ -855,7 +853,7 @@
 {"addr": "10A Nutshell Lane, Upper Hale, Farnham, GU9 0HG", "area": "GU", "date": "2026-09-17", "decision": "Allowed", "ref": "6010046", "type": "Householder"}
 {"addr": "5 Wellesley Street, King's Lynn, PE30 1QD", "area": "PE", "date": "2026-09-17", "decision": "Dismissed", "ref": "6010197", "type": "Planning"}
 {"addr": "Windmill Farmhouse, Carlton Road, Wilbarston, LE16 8QE", "area": "LE", "date": "2026-09-17", "decision": "Dismissed", "ref": "6010401", "type": "Planning"}
-{"addr": "30 Cranleigh Close, Cheshunt, EN7 6HH", "area": "EN", "date": "2026-09-17", "decision": "Dismissed", "ref": "6010428", "type": "Planning"}
+{"addr": "30 Cranleigh Close, Cheshunt, EN7 6HH", "area": "E", "date": "2026-09-17", "decision": "Dismissed", "ref": "6010428", "type": "Planning"}
 {"addr": "16 wellington drive, Bracknell, RG12 9NG", "area": "RG", "date": "2026-09-17", "decision": "Dismissed", "ref": "6010429", "type": "Planning"}
 {"addr": "Prestedge Barn, Whitefield Lane, Ashover, S45 0HZ", "area": "S", "date": "2026-09-17", "decision": "Allowed", "ref": "6010764", "type": "Planning"}
 {"addr": "8 High Street, Mayfield, TN20 6AA", "area": "TN", "date": "2026-09-17", "decision": "Dismissed", "ref": "6010765", "type": "Planning"}
@@ -884,7 +882,7 @@
 {"addr": "Land to rear of 223A Main Street, Thornton, Coalville, LE67 1AH", "area": "LE", "date": "2026-09-18", "decision": "Dismissed", "ref": "6004496", "type": "Planning"}
 {"addr": "Albury Dairy, Honey Lane, Selborne, GU33 6BX", "area": "GU", "date": "2026-09-18", "decision": "Allowed", "ref": "6005081", "type": "Planning"}
 {"addr": "Arndale Centre, Market Street, Manchester, M4 3AB", "area": "M", "date": "2026-09-18", "decision": "Dismissed", "ref": "6005102", "type": "Commercial advertisement"}
-{"addr": "13 Court Yard, Eltham, London, SE9 5PR", "area": "SE", "date": "2026-09-18", "decision": "Dismissed", "ref": "6005312", "type": "Planning"}
+{"addr": "13 Court Yard, Eltham, London, SE9 5PR", "area": "S", "date": "2026-09-18", "decision": "Dismissed", "ref": "6005312", "type": "Planning"}
 {"addr": "273 Abingdon Road, Oxford, OX1 4TJ", "area": "OX", "date": "2026-09-18", "decision": "Dismissed", "ref": "6005792", "type": "Planning"}
 {"addr": "School Road Business Park, School Road, Newton Abbot, TQ12 2JU", "area": "TQ", "date": "2026-09-18", "decision": "Dismissed", "ref": "6006656", "type": "Planning"}
 {"addr": "10 Pine View Close, Farnham, GU99JS", "area": "GU", "date": "2026-09-18", "decision": "Dismissed", "ref": "6006720", "type": "Planning"}
@@ -1048,7 +1046,7 @@
 {"addr": "Land Rear Of 1A St James Road, Torquay, TQ1 4AZ", "area": "TQ", "date": "2026-09-23", "decision": "Allowed", "ref": "6006957", "type": "Planning"}
 {"addr": "Spring Acres, West End Lane, Henfield, BN5 9RE", "area": "BN", "date": "2026-09-23", "decision": "Dismissed", "ref": "6006961", "type": "Planning"}
 {"addr": "Land adjacent to Red Lane, Rosudgeon, Penzance, TR20 9PU", "area": "TR", "date": "2026-09-23", "decision": "Dismissed", "ref": "6007416", "type": "Planning"}
-{"addr": "The White House, Dane End, Ware, SG12 0LP", "area": "SG", "date": "2026-09-23", "decision": "Allowed", "ref": "6007451", "type": "Planning"}
+{"addr": "The White House, Dane End, Ware, SG12 0LP", "area": "S", "date": "2026-09-23", "decision": "Allowed", "ref": "6007451", "type": "Planning"}
 {"addr": "Boltons Farm, Blackgate Lane, Tarleton, PR4 6UX", "area": "PR", "date": "2026-09-23", "decision": "Allowed", "ref": "6007484", "type": "Planning"}
 {"addr": "Zoar Cottage, 15 Passage Hill, Mylor Bridge, Falmouth, TR11 5SN", "area": "TR", "date": "2026-09-23", "decision": "Dismissed", "ref": "6007807", "type": "Planning"}
 {"addr": "LAND BETWEEN 75 AND 99 STAR ROAD, CAVERSHAM, READING, RG4 5BE", "area": "RG", "date": "2026-09-23", "decision": "Dismissed", "ref": "6007941", "type": "Planning"}
@@ -1117,7 +1115,7 @@
 {"addr": "Land to the rear of 137 Station Road, Hesketh Bank, Preston, PR4 6SR", "area": "PR", "date": "2026-09-24", "decision": "Allowed", "ref": "6007730", "type": "Planning"}
 {"addr": "The Lamb Inn, Lambs Green, Rusper, RH12 4RG", "area": "RH", "date": "2026-09-24", "decision": "Allowed", "ref": "6007772", "type": "Planning"}
 {"addr": "1 Victoria Road, Urmston, MANCHESTER, M41 5BZ", "area": "M", "date": "2026-09-24", "decision": "Dismissed", "ref": "6007996", "type": "Householder"}
-{"addr": "Land North of A507, West of A10, Buntingford, Buntingford, SG9 9ER", "area": "SG", "date": "2026-09-24", "decision": "Allowed", "ref": "6008238", "type": "Planning"}
+{"addr": "Land North of A507, West of A10, Buntingford, Buntingford, SG9 9ER", "area": "S", "date": "2026-09-24", "decision": "Allowed", "ref": "6008238", "type": "Planning"}
 {"addr": "Land East of College Road South, Aston Clinton, HP22 5FZ", "area": "HP", "date": "2026-09-24", "decision": "Allowed", "ref": "6008253", "type": "Planning"}
 {"addr": "41 Taunton Road, Bridgwater, TA6 3LP", "area": "TA", "date": "2026-09-24", "decision": "Allowed", "ref": "6008553", "type": "Planning"}
 {"addr": "Land known as The Pigs, at Leesthorpe Road, Pickwell, LE14 2RA", "area": "LE", "date": "2026-09-24", "decision": "Dismissed", "ref": "6008693", "type": "Planning"}
@@ -1157,7 +1155,7 @@
 {"addr": "1 Manor Close, Oadby, LE2 4FE", "area": "LE", "date": "2026-09-24", "decision": "Allowed", "ref": "6013153", "type": "Householder"}
 {"addr": "247-249 Beckenham Road, Bromley, Beckenham, BR3 4RP", "area": "BR", "date": "2026-09-24", "decision": "Allowed", "ref": "6013465", "type": "Planning"}
 {"addr": "32, CRAWHALL CRESCENT, MORPETH, NE61 2RH", "area": "N", "date": "2026-09-24", "decision": "Dismissed", "ref": "6013638", "type": "Householder"}
-{"addr": "30 horncastle road, lee, london, SE12 9LA", "area": "SE", "date": "2026-09-24", "decision": "Allowed", "ref": "6014022", "type": "Householder"}
+{"addr": "30 horncastle road, lee, london, SE12 9LA", "area": "S", "date": "2026-09-24", "decision": "Allowed", "ref": "6014022", "type": "Householder"}
 {"addr": "550 Topsham Road, Exeter, EX2 7DP", "area": "EX", "date": "2026-09-24", "decision": "Allowed", "ref": "6015017", "type": "Planning"}
 {"addr": "The Boathouse Inn, Elvet Bridge, Durham, DH1 3AF", "area": "DH", "date": "2026-09-25", "decision": "Allowed", "ref": "6003865", "type": "Commercial advertisement"}
 {"addr": "Land Off Alburgh Road, Hempnall, Norwich, NR15 2NS", "area": "NR", "date": "2026-09-25", "decision": "Allowed", "ref": "6004780", "type": "Planning"}
@@ -1189,12 +1187,12 @@
 {"addr": "58 And 60 Waverley Road St, St Albans, St Albans, AL3 5PE", "area": "AL", "date": "2026-09-25", "decision": "Dismissed", "ref": "6009808", "type": "Planning"}
 {"addr": "Land to the South of Park Farm, Whalley, Wiswell, BB7 9LB", "area": "BB", "date": "2026-09-25", "decision": "Dismissed", "ref": "6009990", "type": "Planning"}
 {"addr": "Priory Field Barn, Monastery Lane, Storrington, RH20 4LN", "area": "RH", "date": "2026-09-25", "decision": "Allowed", "ref": "6010268", "type": "Planning"}
-{"addr": "23 Westhill Road, Hoddesdon, EN11 9DD", "area": "EN", "date": "2026-09-25", "decision": "Allowed", "ref": "6010334", "type": "Householder"}
+{"addr": "23 Westhill Road, Hoddesdon, EN11 9DD", "area": "E", "date": "2026-09-25", "decision": "Allowed", "ref": "6010334", "type": "Householder"}
 {"addr": "The Firs Country Park, West End Road, Boston, PE21 7LL", "area": "PE", "date": "2026-09-25", "decision": "Allowed", "ref": "6010342", "type": "Planning"}
 {"addr": "Pigeon Farm Cottage, Cold Harbour Lane, Bobbing, ME9 8NN", "area": "ME", "date": "2026-09-25", "decision": "Dismissed", "ref": "6010408", "type": "Planning"}
 {"addr": "land to the rear of 6-12 Long Lane, Newtown, Wolverhampton, WS6 6AU", "area": "WS", "date": "2026-09-25", "decision": "Allowed", "ref": "6010537", "type": "Planning"}
 {"addr": "60 Market Street, Harlow, CM17 0AQ", "area": "CM", "date": "2026-09-25", "decision": "Dismissed", "ref": "6010645", "type": "Planning listed building and conservation area"}
-{"addr": "3, Nursery Hoe Lane, Nazeing, EN9 2RJ", "area": "EN", "date": "2026-09-25", "decision": "Dismissed", "ref": "6010709", "type": "Planning"}
+{"addr": "3, Nursery Hoe Lane, Nazeing, EN9 2RJ", "area": "E", "date": "2026-09-25", "decision": "Dismissed", "ref": "6010709", "type": "Planning"}
 {"addr": "9, Yew Tree Road, Slough, SL1 2AA", "area": "SL", "date": "2026-09-25", "decision": "Allowed", "ref": "6010730", "type": "Planning"}
 {"addr": "15 High Street, Alconbury Weston, Huntingdon, PE28 4JP", "area": "PE", "date": "2026-09-25", "decision": "Allowed", "ref": "6010766", "type": "Planning listed building and conservation area"}
 {"addr": "Footpath outside 100 High Street, Bromley, BR1 1EY", "area": "BR", "date": "2026-09-25", "decision": "Dismissed", "ref": "6010811", "type": "Planning"}
@@ -1202,7 +1200,7 @@
 {"addr": "Beechwood House, Willoughby Road, West Willoughby, NG32 3SN", "area": "N", "date": "2026-09-25", "decision": "Dismissed", "ref": "6010911", "type": "Planning"}
 {"addr": "Shepherd House Farm, 8 Shepherd House, Luddenden, Halifax, HX2 6DB", "area": "HX", "date": "2026-09-25", "decision": "Dismissed", "ref": "6011008", "type": "Planning"}
 {"addr": "Shepherd House Farm, 8 Shepherd House, Luddenden, Halifax, HX2 6DB", "area": "HX", "date": "2026-09-25", "decision": "Dismissed", "ref": "6011013", "type": "Planning listed building and conservation area"}
-{"addr": "Rose Villa, Little Heath, Sandy, SG19 3LL", "area": "SG", "date": "2026-09-25", "decision": "Dismissed", "ref": "6011115", "type": "Householder"}
+{"addr": "Rose Villa, Little Heath, Sandy, SG19 3LL", "area": "S", "date": "2026-09-25", "decision": "Dismissed", "ref": "6011115", "type": "Householder"}
 {"addr": "Land west of The Charters, Greatford Road, Uffington, STAMFORD, PE9 4UD", "area": "PE", "date": "2026-09-25", "decision": "Dismissed", "ref": "6011227", "type": "Planning"}
 {"addr": "4 Vine Street, York, YO23 1BB", "area": "YO", "date": "2026-09-25", "decision": "Allowed", "ref": "6011351", "type": "Planning"}
 {"addr": "15 High Street, Alconbury Weston, Huntingdon, PE28 4JP", "area": "PE", "date": "2026-09-25", "decision": "Allowed", "ref": "6011362", "type": "Householder"}
@@ -1221,21 +1219,21 @@
 {"addr": "LAND NORTH OF SCRUBS FARM, LOWER GRAVEL ROAD, BROMLEY, BR2 8LL", "area": "BR", "date": "2026-09-25", "decision": "Allowed", "ref": "6012303", "type": "Planning"}
 {"addr": "HOU-14 Pavement o/s Metro Bank, 137 Chiswick High Road, Chiswick, W4 2ED", "area": "W", "date": "2026-09-25", "decision": "Dismissed", "ref": "6012328", "type": "Planning"}
 {"addr": "HOU-14 Pavement o/s Metro Bank, 137 Chiswick High Road, Chiswick, W4 2ED", "area": "W", "date": "2026-09-25", "decision": "Dismissed", "ref": "6012330", "type": "Commercial advertisement"}
-{"addr": "93 SANDY HILL ROAD, WOOLWICH, SE18 7BB", "area": "SE", "date": "2026-09-25", "decision": "Allowed", "ref": "6012760", "type": "Planning"}
+{"addr": "93 SANDY HILL ROAD, WOOLWICH, SE18 7BB", "area": "S", "date": "2026-09-25", "decision": "Allowed", "ref": "6012760", "type": "Planning"}
 {"addr": "17 Percy Road, Bexleyheath, DA7 4DZ", "area": "DA", "date": "2026-09-25", "decision": "Dismissed", "ref": "6012819", "type": "Householder"}
 {"addr": "117 Becontree Avenue, BARKING, RM8 2UJ", "area": "RM", "date": "2026-09-25", "decision": "Dismissed", "ref": "6012824", "type": "Householder"}
 {"addr": "289 Roding Lane North, Woodford Green, IG8 8LH", "area": "IG", "date": "2026-09-25", "decision": "Allowed", "ref": "6013032", "type": "Householder"}
 {"addr": "22 Hawthorn Road, Rochdale, OL11 5JQ", "area": "OL", "date": "2026-09-25", "decision": "Dismissed", "ref": "6013635", "type": "Householder"}
 {"addr": "6 Pateley Road, Woodthorpe, NG3 5QF", "area": "N", "date": "2026-09-25", "decision": "Dismissed", "ref": "6013777", "type": "Householder"}
 {"addr": "29 The Covert, Orpington, BR6 0BT", "area": "BR", "date": "2026-09-25", "decision": "Dismissed", "ref": "6013792", "type": "Householder"}
-{"addr": "64 Howarth Road, Abbey Wood, SE2 0UP", "area": "SE", "date": "2026-09-25", "decision": "Allowed", "ref": "6014009", "type": "Householder"}
+{"addr": "64 Howarth Road, Abbey Wood, SE2 0UP", "area": "S", "date": "2026-09-25", "decision": "Allowed", "ref": "6014009", "type": "Householder"}
 {"addr": "684 Forest Road, London, E17 3ED", "area": "E", "date": "2026-09-25", "decision": "Dismissed", "ref": "6014032", "type": "Householder"}
 {"addr": "United Carpets, 31 Mansfield Road, Daybrook, Nottingham, NG5 6AJ", "area": "N", "date": "2026-09-25", "decision": "Dismissed", "ref": "6014560", "type": "Commercial advertisement"}
 {"addr": "65a Bedford Road, Reading, RG1 7EX", "area": "RG", "date": "2026-09-25", "decision": "Dismissed", "ref": "6014625", "type": "Planning"}
 {"addr": "1 Massey Road, Sale, M33 2JN", "area": "M", "date": "2026-09-25", "decision": "Dismissed", "ref": "6015083", "type": "Householder"}
 {"addr": "Land at Castle End, Lea, Hereford, HR9 7JY", "area": "HR", "date": "2026-09-28", "decision": "Dismissed", "ref": "6001896", "type": "Planning"}
 {"addr": "Land centred coordinates 496600 145414, Access to Clock House Mews from Huxley Close, Godalming, GU7 2AP", "area": "GU", "date": "2026-09-28", "decision": "Dismissed", "ref": "6006117", "type": "Planning"}
-{"addr": "Land near Fanshawes Ware Park, Ware, SG12 0DX", "area": "SG", "date": "2026-09-28", "decision": "Dismissed", "ref": "6006224", "type": "Planning"}
+{"addr": "Land near Fanshawes Ware Park, Ware, SG12 0DX", "area": "S", "date": "2026-09-28", "decision": "Dismissed", "ref": "6006224", "type": "Planning"}
 {"addr": "Former Rear Gardens to 77 Frederick Street, 2,4,6,8,10,12,14 Arthur Street, Loughborough, LE11 3AY", "area": "LE", "date": "2026-09-28", "decision": "Allowed", "ref": "6006703", "type": "Planning"}
 {"addr": "Land at (OS 8001, 4009), Drake Street, Welland, WR13 6NB", "area": "WR", "date": "2026-09-28", "decision": "Dismissed", "ref": "6006722", "type": "Planning"}
 {"addr": "land at, Netteswell The Crescent, Watford, WD18 0QW", "area": "WD", "date": "2026-09-28", "decision": "Dismissed", "ref": "6006990", "type": "Planning"}
@@ -1255,13 +1253,13 @@
 {"addr": "4 Peacock Grove, Red Lake, Telford, TF1 5EU", "area": "TF", "date": "2026-09-28", "decision": "Dismissed", "ref": "6009957", "type": "Householder"}
 {"addr": "23 Tweedale Crescent, Madeley, Telford, TF7 4EA", "area": "TF", "date": "2026-09-28", "decision": "Dismissed", "ref": "6009969", "type": "Householder"}
 {"addr": "Land adj Langley Cricket Club, Cock Hall Lane, Langley, Macclesfield, SK11 0DE", "area": "SK", "date": "2026-09-28", "decision": "Dismissed", "ref": "6010253", "type": "Planning"}
-{"addr": "25 Gloucester Circus, Greenwich, SE10 8RY", "area": "SE", "date": "2026-09-28", "decision": "Dismissed", "ref": "6010332", "type": "Householder"}
+{"addr": "25 Gloucester Circus, Greenwich, SE10 8RY", "area": "S", "date": "2026-09-28", "decision": "Dismissed", "ref": "6010332", "type": "Householder"}
 {"addr": "52 Eaton Drive, Romford, London, RM5 2ND", "area": "RM", "date": "2026-09-28", "decision": "Dismissed", "ref": "6010339", "type": "Planning"}
 {"addr": "Land to the East of Higher Bal Farm, Higher Bal, St Agnes, TR5 0ND", "area": "TR", "date": "2026-09-28", "decision": "Dismissed", "ref": "6010498", "type": "Planning"}
 {"addr": "LAND ADJACENT 10 WREN AVENUE, SPROSTON, CREWE, CW4 7LS", "area": "CW", "date": "2026-09-28", "decision": "Dismissed", "ref": "6010642", "type": "Planning"}
 {"addr": "1 Boxley Oast, Street Farm, Boxley, ME14 3DR", "area": "ME", "date": "2026-09-28", "decision": "Dismissed", "ref": "6010727", "type": "Planning"}
 {"addr": "Land at The Beck and Call, Stainbeck Road, Leeds, LS7 2NP", "area": "LS", "date": "2026-09-28", "decision": "Dismissed", "ref": "6010755", "type": "Planning"}
-{"addr": "25 Gloucester Circus, Greenwich, SE10 8RY", "area": "SE", "date": "2026-09-28", "decision": "Dismissed", "ref": "6011050", "type": "Planning listed building and conservation area"}
+{"addr": "25 Gloucester Circus, Greenwich, SE10 8RY", "area": "S", "date": "2026-09-28", "decision": "Dismissed", "ref": "6011050", "type": "Planning listed building and conservation area"}
 {"addr": "88 Trysull Road, Wolverhampton, WV3 7JF", "area": "WV", "date": "2026-09-28", "decision": "Dismissed", "ref": "6011143", "type": "Householder"}
 {"addr": "L/A to 2 Claremont Road, London, E17 5RJ", "area": "E", "date": "2026-09-28", "decision": "Dismissed", "ref": "6011324", "type": "Planning"}
 {"addr": "Quince Cottage, 4 The Bank, Stoneleigh, CV8 3DA", "area": "CV", "date": "2026-09-28", "decision": "Dismissed", "ref": "6011601", "type": "Householder"}
@@ -1278,7 +1276,7 @@
 {"addr": "72-74 HIGH STREET, BECKENHAM, BR3 1ED", "area": "BR", "date": "2026-09-28", "decision": "Dismissed", "ref": "6013151", "type": "Planning"}
 {"addr": "Lodge Farm, The Sheeling, Overton Road, Ibstock, LE67 6PD", "area": "LE", "date": "2026-09-28", "decision": "Allowed", "ref": "6013317", "type": "Householder"}
 {"addr": "1 East Priory Close, Henleaze, Bristol, BS9 4DF", "area": "BS", "date": "2026-09-28", "decision": "Dismissed", "ref": "6013359", "type": "Householder"}
-{"addr": "Flat 4, 99 Kennington Park Road, London, SE11 4JJ", "area": "SE", "date": "2026-09-29", "decision": "Dismissed", "ref": "6003226", "type": "Planning listed building and conservation area"}
+{"addr": "Flat 4, 99 Kennington Park Road, London, SE11 4JJ", "area": "S", "date": "2026-09-29", "decision": "Dismissed", "ref": "6003226", "type": "Planning listed building and conservation area"}
 {"addr": "Agricultural Barn, Upton Hill, Upton St Leonards, GL4 8DF", "area": "GL", "date": "2026-09-29", "decision": "Dismissed", "ref": "6005652", "type": "Planning"}
 {"addr": "Land to r/o 21 Roselands Avenue, St Phillips Avenue, Eastbourne, BN22 8NA", "area": "BN", "date": "2026-09-29", "decision": "Dismissed", "ref": "6006541", "type": "Planning"}
 {"addr": "Land Adjacent to 1 King Edward Crescent, Dane Road, Newquay, TR7 1HL", "area": "TR", "date": "2026-09-29", "decision": "Dismissed", "ref": "6006725", "type": "Planning"}
@@ -1335,7 +1333,7 @@
 {"addr": "59 St James Avenue, Upton, Chester, CH2 1NN", "area": "CH", "date": "2026-09-29", "decision": "Dismissed", "ref": "6013124", "type": "Householder"}
 {"addr": "65 Cherry Lane, Sale, M33 4WE", "area": "M", "date": "2026-09-29", "decision": "Allowed", "ref": "6013845", "type": "Householder"}
 {"addr": "25 Norfolk Drive, Melton Mowbray, LE13 0AJ", "area": "LE", "date": "2026-09-29", "decision": "Allowed", "ref": "6014124", "type": "Householder"}
-{"addr": "5 More London Place, London, SE1 2BY", "area": "SE", "date": "2026-09-30", "decision": "Dismissed", "ref": "6001859", "type": "Planning"}
+{"addr": "5 More London Place, London, SE1 2BY", "area": "S", "date": "2026-09-30", "decision": "Dismissed", "ref": "6001859", "type": "Planning"}
 {"addr": "Adsdean House, Adsdean Park Road, Adsdean, PO18 9DN", "area": "PO", "date": "2026-09-30", "decision": "Dismissed", "ref": "6001939", "type": "Planning listed building and conservation area"}
 {"addr": "Opposite 67 Sandgate Road, Folkestone, CT20 1RY", "area": "CT", "date": "2026-09-30", "decision": "Dismissed", "ref": "6004363", "type": "Planning"}
 {"addr": "Opposite 67 Sandgate Road, Folkestone, CT20 1RY", "area": "CT", "date": "2026-09-30", "decision": "Dismissed", "ref": "6004364", "type": "Advertisement"}
@@ -1351,11 +1349,11 @@
 {"addr": "Whitlees, Elsdon, Hexham, NE19 1BT", "area": "N", "date": "2026-09-30", "decision": "Dismissed", "ref": "6006905", "type": "Planning listed building and conservation area"}
 {"addr": "Land to the east of New Road, Melksham, SN12 7QZ", "area": "SN", "date": "2026-09-30", "decision": "Dismissed", "ref": "6007352", "type": "Planning"}
 {"addr": "CPC4 Car Park, Capital Park, Cambridge Road, Fulbourn, CB21 5XE", "area": "CB", "date": "2026-09-30", "decision": "Allowed", "ref": "6007424", "type": "Planning"}
-{"addr": "44 Ceres Road, London, SE18 1HP", "area": "SE", "date": "2026-09-30", "decision": "Dismissed", "ref": "6007470", "type": "Planning"}
+{"addr": "44 Ceres Road, London, SE18 1HP", "area": "S", "date": "2026-09-30", "decision": "Dismissed", "ref": "6007470", "type": "Planning"}
 {"addr": "Building opposite Nash Cottage, Ashford road, Brenzett, TN29 0BL", "area": "TN", "date": "2026-09-30", "decision": "Dismissed", "ref": "6007677", "type": "Planning"}
 {"addr": "90A Park Road, Teddington, TW11 0AN", "area": "TW", "date": "2026-09-30", "decision": "Allowed", "ref": "6007713", "type": "Planning"}
 {"addr": "Beehive Cottage, Portway, Salisbury, SP4 6BL", "area": "SP", "date": "2026-09-30", "decision": "Allowed", "ref": "6007924", "type": "Planning"}
-{"addr": "Sycamore Farm, Well Bank Lane, Over Peover, WA16 8UN", "area": "WA", "date": "2026-09-30", "decision": "Allowed", "ref": "6008176", "type": "Planning"}
+{"addr": "Sycamore Farm, Well Bank Lane, Over Peover, WA16 8UN", "area": "W", "date": "2026-09-30", "decision": "Allowed", "ref": "6008176", "type": "Planning"}
 {"addr": "SHOREFIELD COTTAGE 7A, SHOREFIELD ROAD, WESTCLIFF-ON-SEA, SS07RH", "area": "SS", "date": "2026-09-30", "decision": "Dismissed", "ref": "6008855", "type": "Planning"}
 {"addr": "Land adjacent to, 33A Chelford Road, Somerford, CW12 4QD", "area": "CW", "date": "2026-09-30", "decision": "Dismissed", "ref": "6008864", "type": "Planning"}
 {"addr": "15 Brethergate, Westwoodside, Haxey, Doncaster, Referred to on the planning portal as Flat, Post Office, 15 Brethergate, Westwoodside, Haxey, Doncaster, DN9 2AU", "area": "DN", "date": "2026-09-30", "decision": "Allowed", "ref": "6008883", "type": "Planning"}
@@ -1366,11 +1364,12 @@
 {"addr": "Stratton House Hotel, Gloucester Road, Stratton, GL7 2LE", "area": "GL", "date": "2026-09-30", "decision": "Dismissed", "ref": "6009631", "type": "Planning"}
 {"addr": "Stratton House Hotel, Gloucester Road, Stratton, GL7 2LE", "area": "GL", "date": "2026-09-30", "decision": "Allowed", "ref": "6009635", "type": "Planning listed building and conservation area"}
 {"addr": "Land on the East Side of Hole House Lane, Tosside, Clitheroe, BB7 4TS", "area": "BB", "date": "2026-09-30", "decision": "Dismissed", "ref": "6009649", "type": "Planning"}
-{"addr": "Land off Chelford Lane, Over Peover, Knutsford, WA16 8UG", "area": "WA", "date": "2026-09-30", "decision": "Dismissed", "ref": "6009697", "type": "Planning"}
+{"addr": "Land off Chelford Lane, Over Peover, Knutsford, WA16 8UG", "area": "W", "date": "2026-09-30", "decision": "Dismissed", "ref": "6009697", "type": "Planning"}
 {"addr": "33 Sherwood Road, Seaford, BN25 3EH", "area": "BN", "date": "2026-09-30", "decision": "Allowed", "ref": "6009869", "type": "Planning"}
 {"addr": "Pound Scots, Chinnor Road, Bledlow Ridge, HP14 4AJ", "area": "HP", "date": "2026-09-30", "decision": "Dismissed", "ref": "6010097", "type": "Planning"}
 {"addr": "Flat B, 83 Rectory Road, Hackney, N16 7PP", "area": "N", "date": "2026-09-30", "decision": "Dismissed", "ref": "6010110", "type": "Planning"}
 {"addr": "Flat B, 83 Rectory Road, Hackney, N16 7PP", "area": "N", "date": "2026-09-30", "decision": "Dismissed", "ref": "6010111", "type": "Planning"}
+{"addr": "Balne Moor Coarse Fishery, Balne Moor Road, Balne, DN14 0EU", "area": "DN", "date": "2026-09-30", "decision": "Dismissed", "ref": "6010112", "type": "Planning"}
 {"addr": "Disley Meadow, Lower Greenshall Lane, Disley, SK12 2HH", "area": "SK", "date": "2026-09-30", "decision": "Dismissed", "ref": "6010213", "type": "Planning"}
 {"addr": "76 Andover Road, Cheltenham, GL50 2TW", "area": "GL", "date": "2026-09-30", "decision": "Allowed", "ref": "6010276", "type": "Planning listed building and conservation area"}
 {"addr": "Sleepy Corner, Stibb Cross, Torrington, EX38 8LH", "area": "EX", "date": "2026-09-30", "decision": "Allowed", "ref": "6010706", "type": "Planning"}
@@ -1383,7 +1382,7 @@
 {"addr": "2 Rookwood Avenue, Osmondthorpe, Leeds, LS9 0NW", "area": "LS", "date": "2026-09-30", "decision": "Dismissed", "ref": "6011827", "type": "Planning"}
 {"addr": "2 Wadham Gardens, London, NW3 3DP", "area": "NW", "date": "2026-09-30", "decision": "Dismissed", "ref": "6011913", "type": "Householder"}
 {"addr": "Remedy Cocktail Bar, Beechwood Shopping Centre, 14 Church Street, Leeds, LS26 8RE", "area": "LS", "date": "2026-09-30", "decision": "Dismissed", "ref": "6011983", "type": "Planning"}
-{"addr": "25 Chandler Way, Lowton, Wigan, WA3 2LR", "area": "WA", "date": "2026-09-30", "decision": "Dismissed", "ref": "6012182", "type": "Householder"}
+{"addr": "25 Chandler Way, Lowton, Wigan, WA3 2LR", "area": "W", "date": "2026-09-30", "decision": "Dismissed", "ref": "6012182", "type": "Householder"}
 {"addr": "Pavement at East Road, Cambridge, CB1 1BH", "area": "CB", "date": "2026-09-30", "decision": "Dismissed", "ref": "6012279", "type": "Planning"}
 {"addr": "Pavement at East Road, Cambridge, CB1 1BH", "area": "CB", "date": "2026-09-30", "decision": "Dismissed", "ref": "6012281", "type": "Commercial advertisement"}
 {"addr": "79 Rushdene Crescent, Northolt, UB5 6NG", "area": "UB", "date": "2026-09-30", "decision": "Dismissed", "ref": "6012788", "type": "Planning"}
@@ -1398,3 +1397,112 @@
 {"addr": "66 Scott Road, Crawley, RH10 5DD", "area": "RH", "date": "2026-09-30", "decision": "Allowed", "ref": "6014199", "type": "Householder"}
 {"addr": "Lerryn, West Strand, West Wittering, Chichester, PO20 8AU", "area": "PO", "date": "2026-09-30", "decision": "Allowed", "ref": "6014666", "type": "Householder"}
 {"addr": "Pennys, Blackwater Road, Buckland St Mary, TA20 3LD", "area": "TA", "date": "2026-09-30", "decision": "Dismissed", "ref": "6014929", "type": "Householder"}
+{"addr": "Pavement o/s Waterfront House, 35 Station Street, Nottingham, NG2 3DQ", "area": "N", "date": "2026-10-01", "decision": "Dismissed", "ref": "6002400", "type": "Planning"}
+{"addr": "Land East of Halfpenny Lane, Wisbech, PE14 0DQ", "area": "PE", "date": "2026-10-01", "decision": "Allowed", "ref": "6002677", "type": "Planning"}
+{"addr": "Land at Castle End, Lea, Ross on Wye, HR9 7JY", "area": "HR", "date": "2026-10-01", "decision": "Dismissed", "ref": "6002708", "type": "Planning"}
+{"addr": "Lower Fawke Farm, Bitchet Green Road, Fawke Common, Underriver, TN15 0JX", "area": "TN", "date": "2026-10-01", "decision": "Allowed", "ref": "6004899", "type": "Planning"}
+{"addr": "Land to the rear of, 5 Bescar Lane, Scarisbrick, L40 9QN", "area": "L", "date": "2026-10-01", "decision": "Dismissed", "ref": "6006286", "type": "Planning"}
+{"addr": "147 Eastcote Lane, Harrow, HA2 8RR", "area": "HA", "date": "2026-10-01", "decision": "Dismissed", "ref": "6006890", "type": "Planning"}
+{"addr": "1-54 Garden Road, Richmond, TW9 4NR", "area": "TW", "date": "2026-10-01", "decision": "Dismissed", "ref": "6007390", "type": "Planning"}
+{"addr": "65 Grimshaw Lane, Manchester, M40 2AX", "area": "M", "date": "2026-10-01", "decision": "Dismissed", "ref": "6008018", "type": "Planning"}
+{"addr": "Milan Villa, Hyde Wood Lane , Canewdon, Rochford, SS4 3RR", "area": "SS", "date": "2026-10-01", "decision": "Dismissed", "ref": "6008122", "type": "Planning"}
+{"addr": "Land to the West of Leicester Road (B6047), Leicester Road, Market Harborough, LE16 7QT", "area": "LE", "date": "2026-10-01", "decision": "Allowed", "ref": "6008177", "type": "Planning"}
+{"addr": "6 and 6a Fairview Road,, Wednesfield, Wolverhampton, WV11 1BY", "area": "WV", "date": "2026-10-01", "decision": "Dismissed", "ref": "6009135", "type": "Planning"}
+{"addr": "Land North East of Ballinderry House, Folkestone Road, Church Hougham, CT15 7AB", "area": "CT", "date": "2026-10-01", "decision": "Notice upheld", "ref": "6009266", "type": "Enforcement notice"}
+{"addr": "6 Mushroom Lane, Brigsley, DN37 0BJ", "area": "DN", "date": "2026-10-01", "decision": "Dismissed", "ref": "6009363", "type": "Planning"}
+{"addr": "42 Robinia Close, Laindon, SS15 4HD", "area": "SS", "date": "2026-10-01", "decision": "Dismissed", "ref": "6009577", "type": "Planning"}
+{"addr": "Land Adjacent To 1 Ninesprings Cottage, Wymondley Road, Hitchin, SG4 9QL", "area": "S", "date": "2026-10-01", "decision": "Allowed", "ref": "6009720", "type": "Planning"}
+{"addr": "THE TEA POT, 3 EAST PIER SANDSIDE, SCARBOROUGH, YO11 1PG", "area": "YO", "date": "2026-10-01", "decision": "Dismissed", "ref": "6009880", "type": "Planning"}
+{"addr": "12 Victoria Road, Whetstone, LE8 6JX", "area": "LE", "date": "2026-10-01", "decision": "Dismissed", "ref": "6009910", "type": "Planning"}
+{"addr": "2a Park Road, Barnoldswick, BB18 5BG", "area": "BB", "date": "2026-10-01", "decision": "Dismissed", "ref": "6009979", "type": "Planning"}
+{"addr": "259 Wick Road, Hackney, London, E9 5DG", "area": "E", "date": "2026-10-01", "decision": "Dismissed", "ref": "6010033", "type": "Planning"}
+{"addr": "Former Hull Grammar School & Community Enterprise Centre, Cottingham Road, Kingston Upon Hull, HU5 2DH", "area": "HU", "date": "2026-10-01", "decision": "Dismissed", "ref": "6010376", "type": "Planning"}
+{"addr": "PAVEMENT OUTSIDE 498-504 FULHAM ROAD, LONDON, SW6 5NH", "area": "SW", "date": "2026-10-01", "decision": "Dismissed", "ref": "6010443", "type": "Commercial advertisement"}
+{"addr": "PAVEMENT OUTSIDE 498-504 FULHAM ROAD, LONDON, SW6 5NH", "area": "SW", "date": "2026-10-01", "decision": "Dismissed", "ref": "6010445", "type": "Planning"}
+{"addr": "Land north of the Bower House, Clatterbury Lane, Clavering, CB11 4QR", "area": "CB", "date": "2026-10-01", "decision": "Dismissed", "ref": "6010951", "type": "Planning"}
+{"addr": "Thamesfield Retirement Village, Wargrave Road, Remenham, RG9 2LX", "area": "RG", "date": "2026-10-01", "decision": "Dismissed", "ref": "6011062", "type": "Planning"}
+{"addr": "10 WATER LANE, RICHMOND, TW9 1TJ", "area": "TW", "date": "2026-10-01", "decision": "Dismissed", "ref": "6011219", "type": "Planning"}
+{"addr": "Land to the rear of, 14 to 16 Cross Hills Kippax, Kippax, LS25 7JP", "area": "LS", "date": "2026-10-01", "decision": "Dismissed", "ref": "6011321", "type": "Planning"}
+{"addr": "Land West of Sunnyside, Glentham, LN8 2FA", "area": "LN", "date": "2026-10-01", "decision": "Dismissed", "ref": "6011337", "type": "Planning"}
+{"addr": "28A Ridley Road, London, NW10 5UA", "area": "NW", "date": "2026-10-01", "decision": "Allowed", "ref": "6011602", "type": "Planning"}
+{"addr": "21 marlin road, Luton, LU4 0SH", "area": "LU", "date": "2026-10-01", "decision": "Dismissed", "ref": "6011652", "type": "Householder"}
+{"addr": "125-133 Old Brompton Road, London, SW7 3RP", "area": "SW", "date": "2026-10-01", "decision": "Dismissed", "ref": "6012098", "type": "Planning"}
+{"addr": "125-133 Old Brompton Road, London, SW7 3RP", "area": "SW", "date": "2026-10-01", "decision": "Dismissed", "ref": "6012102", "type": "Commercial advertisement"}
+{"addr": "O/S 131 Fulham Rd, London, SW3 6RT", "area": "SW", "date": "2026-10-01", "decision": "Dismissed", "ref": "6012105", "type": "Planning"}
+{"addr": "O/S 131 Fulham Rd, London, SW3 6RT", "area": "SW", "date": "2026-10-01", "decision": "Dismissed", "ref": "6012107", "type": "Commercial advertisement"}
+{"addr": "Happy Hounds Hotel, Weatheroak, Farm Back Lane, Weeton, Preston, PR4 3HS", "area": "PR", "date": "2026-10-01", "decision": "Allowed", "ref": "6012202", "type": "Planning"}
+{"addr": "189 Greenwich High Road, London, SE10 8JA", "area": "S", "date": "2026-10-01", "decision": "Allowed", "ref": "6012344", "type": "Planning"}
+{"addr": "189 Greenwich High Road, London, SE10 8JA", "area": "S", "date": "2026-10-01", "decision": "Allowed", "ref": "6012348", "type": "Planning"}
+{"addr": "40 Brook Avenue, Timperley, WA15 6SJ", "area": "W", "date": "2026-10-01", "decision": "Dismissed", "ref": "6012392", "type": "Planning"}
+{"addr": "Units 1-2, 3 Meadow Road Industrial Estate, Worthing, BN11 2RU", "area": "BN", "date": "2026-10-01", "decision": "Dismissed", "ref": "6012522", "type": "Planning"}
+{"addr": "Flat 3, 49 Madeira Park, Royal Tunbridge Wells, TN2 5SY", "area": "TN", "date": "2026-10-01", "decision": "Allowed in part", "ref": "6012775", "type": "Planning"}
+{"addr": "58 Stanley Road, 58 Stanley Road, M7 4HN", "area": "M", "date": "2026-10-01", "decision": "Allowed", "ref": "6012817", "type": "Householder"}
+{"addr": "1 Beech Close, Cheadle, ST10 1SN", "area": "ST", "date": "2026-10-01", "decision": "Dismissed", "ref": "6012844", "type": "Householder"}
+{"addr": "50 Newark Crescent, Ealing, Park Royal, NW10 7BA", "area": "NW", "date": "2026-10-01", "decision": "Dismissed", "ref": "6013035", "type": "Planning"}
+{"addr": "60 Newark Crescent, Ealing, Park Royal, NW10 7BA", "area": "NW", "date": "2026-10-01", "decision": "Dismissed", "ref": "6013036", "type": "Planning"}
+{"addr": "Land North West Of 31 The Oval, The Oval, Bedlington, NE22 5HS", "area": "N", "date": "2026-10-01", "decision": "Dismissed", "ref": "6013586", "type": "Planning"}
+{"addr": "Orchard View, West Buckland, Wellington, TA21 9JZ", "area": "TA", "date": "2026-10-01", "decision": "Allowed", "ref": "6013951", "type": "Householder"}
+{"addr": "48 Topfield Road, Manchester, M22 9QN", "area": "M", "date": "2026-10-01", "decision": "Dismissed", "ref": "6014028", "type": "Householder"}
+{"addr": "17 Roundway, Camberley, GU15 1NR", "area": "GU", "date": "2026-10-01", "decision": "Dismissed", "ref": "6014361", "type": "Householder"}
+{"addr": "8, OSPRINGE ROAD, FAVERSHAM, ME13 7LJ", "area": "ME", "date": "2026-10-01", "decision": "Allowed", "ref": "6014749", "type": "Householder"}
+{"addr": "38 Sequoia Park, Harrow, HA5 4DG", "area": "HA", "date": "2026-10-01", "decision": "Dismissed", "ref": "6015003", "type": "Householder"}
+{"addr": "127 Pollards Hill South, Norbury, Croydon, SW16 4LS", "area": "SW", "date": "2026-10-02", "decision": "Allowed", "ref": "6003513", "type": "Planning"}
+{"addr": "7 East Mersea Road, West Mersea, CO5 8SL", "area": "CO", "date": "2026-10-02", "decision": "Dismissed", "ref": "6005011", "type": "Planning"}
+{"addr": "7 East Mersea Road, West Mersea, CO5 8SL", "area": "CO", "date": "2026-10-02", "decision": "Dismissed", "ref": "6005014", "type": "Planning listed building and conservation area"}
+{"addr": "Land To The East Of Wymers Wood Road, Burnham, SL1 8LQ", "area": "SL", "date": "2026-10-02", "decision": "Allowed", "ref": "6005162", "type": "Planning"}
+{"addr": "51 Thorndon Hall, Ingrave, CM13 3RJ", "area": "CM", "date": "2026-10-02", "decision": "Dismissed", "ref": "6005177", "type": "Planning listed building and conservation area"}
+{"addr": "16-17 Cecilia House, Hanger Lane, Ealing, W5 3HH", "area": "W", "date": "2026-10-02", "decision": "Dismissed", "ref": "6005995", "type": "Planning"}
+{"addr": "Cross Gaits Inn, Beverley Road, Blacko, BB9 6RF", "area": "BB", "date": "2026-10-02", "decision": "Allowed", "ref": "6007704", "type": "Planning"}
+{"addr": "Cross Gaits Inn, Beverley Road, Blacko, BB9 6RF", "area": "BB", "date": "2026-10-02", "decision": "Allowed", "ref": "6007757", "type": "Planning listed building and conservation area"}
+{"addr": "47 Burma Road, Hackney, N16 9BH", "area": "N", "date": "2026-10-02", "decision": "Dismissed", "ref": "6007927", "type": "Planning"}
+{"addr": "Land To The West Of (U6032) Underlane, Wendron, Carnkie, Cornwall, Helston, TR130EH", "area": "TR", "date": "2026-10-02", "decision": "Dismissed", "ref": "6008292", "type": "Planning"}
+{"addr": "Cornish Marquees, Higher Trevellas, St Agnes, TR5 0XS", "area": "TR", "date": "2026-10-02", "decision": "Dismissed", "ref": "6008432", "type": "Planning"}
+{"addr": "Land Adjacent To 2 New Ealing Broadway, London, W5 2NU", "area": "W", "date": "2026-10-02", "decision": "Dismissed", "ref": "6008483", "type": "Planning"}
+{"addr": "Land Adjacent To 2 New Ealing Broadway, London, W5 2NU", "area": "W", "date": "2026-10-02", "decision": "Dismissed", "ref": "6008485", "type": "Commercial advertisement"}
+{"addr": "2 Westparkside, Goole, DN14 6XN", "area": "DN", "date": "2026-10-02", "decision": "Dismissed", "ref": "6008497", "type": "Planning"}
+{"addr": "Oozedam, High Road, Fobbing, SS17 9HT", "area": "SS", "date": "2026-10-02", "decision": "Dismissed", "ref": "6008679", "type": "Planning"}
+{"addr": "Thurlestone Golf Club, Links Court Service Roads, Thurlestone, TQ7 3NZ", "area": "TQ", "date": "2026-10-02", "decision": "Dismissed", "ref": "6008892", "type": "Planning"}
+{"addr": "456 Southchurch rd, Southend, SS1 2QA", "area": "SS", "date": "2026-10-02", "decision": "Dismissed", "ref": "6009119", "type": "Planning"}
+{"addr": "67 Main Street, Bushby, LE7 9PL", "area": "LE", "date": "2026-10-02", "decision": "Dismissed", "ref": "6009245", "type": "Planning"}
+{"addr": "The Orchard, Charley Road, Charley, LE12 9YB", "area": "LE", "date": "2026-10-02", "decision": "Allowed", "ref": "6009255", "type": "Planning"}
+{"addr": "128 Monometer House Rectory Grove, Leigh-on-sea, Southend-on-sea, SS9 2HN", "area": "SS", "date": "2026-10-02", "decision": "Dismissed", "ref": "6009318", "type": "Planning"}
+{"addr": "Street Record, Callis Way, Parkwood, Gillingham, ME8 9PA", "area": "ME", "date": "2026-10-02", "decision": "Dismissed", "ref": "6009769", "type": "Planning"}
+{"addr": "Green Farm, Lower Green, Stoke By Clare, CO10 8HN", "area": "CO", "date": "2026-10-02", "decision": "Dismissed", "ref": "6009854", "type": "Planning"}
+{"addr": "10 BRADFIELD DRIVE, BARKING, IG11 9AR", "area": "IG", "date": "2026-10-02", "decision": "Dismissed", "ref": "6009965", "type": "Planning"}
+{"addr": "2, RIDGE HILL LANE, TAMESIDE, SK15 1NF", "area": "SK", "date": "2026-10-02", "decision": "Dismissed", "ref": "6010069", "type": "Planning"}
+{"addr": "Grass Verge at Ferrers Close, Coventry, CV4 9RA", "area": "CV", "date": "2026-10-02", "decision": "Dismissed", "ref": "6010199", "type": "Planning"}
+{"addr": "10 West Street, Weston-Super-Mare, BS23 1JT", "area": "BS", "date": "2026-10-02", "decision": "Dismissed", "ref": "6010305", "type": "Planning"}
+{"addr": "144 Browns Lane, Stanton on the Wolds, NG12 5BN", "area": "N", "date": "2026-10-02", "decision": "Allowed", "ref": "6010392", "type": "Planning"}
+{"addr": "Manton Quarry, Manton, Gainsborough, DN21 4JT", "area": "DN", "date": "2026-10-02", "decision": "Allowed", "ref": "6010548", "type": "Planning"}
+{"addr": "Land at Dunvilles Farm, Bollington Lane, Chelford Road, Monks Heath, Macclesfield, SK10 4UL", "area": "SK", "date": "2026-10-02", "decision": "Allowed", "ref": "6010578", "type": "Planning"}
+{"addr": "Canons, Hobbs Cross Road, Matching, CM17 0NP", "area": "CM", "date": "2026-10-02", "decision": "Dismissed", "ref": "6010746", "type": "Planning"}
+{"addr": "13 Crispin Road, Edgware, London, HA8 9EN", "area": "HA", "date": "2026-10-02", "decision": "Dismissed", "ref": "6010842", "type": "Householder"}
+{"addr": "The Little Boatyard, Lime Street, Brightlingsea, CO7 0BH", "area": "CO", "date": "2026-10-02", "decision": "Allowed", "ref": "6010933", "type": "Planning"}
+{"addr": "West Court Land, Park Lane, Finchampstead, Wokingham, RG40 4QF", "area": "RG", "date": "2026-10-02", "decision": "Dismissed", "ref": "6011060", "type": "Planning"}
+{"addr": "239 Barking road, London, E6 1LB", "area": "E", "date": "2026-10-02", "decision": "Dismissed", "ref": "6011081", "type": "Planning"}
+{"addr": "14-16 Hendon Rise, Nottingham, NG3 3AN", "area": "N", "date": "2026-10-02", "decision": "Dismissed", "ref": "6011302", "type": "Planning"}
+{"addr": "Land adjacent to North Grove, Long Lane, Fowlmere, SG8 7TG", "area": "S", "date": "2026-10-02", "decision": "Dismissed", "ref": "6011365", "type": "Planning"}
+{"addr": "Ivy Cottage Moss Lane, Beeston, CW6 9SU", "area": "CW", "date": "2026-10-02", "decision": "Dismissed", "ref": "6011423", "type": "Householder"}
+{"addr": "Plot HD587047 of Lot B2A, Upper Bourne End Lane, Hemel Hempstead, HP1 2RR", "area": "HP", "date": "2026-10-02", "decision": "Dismissed", "ref": "6011489", "type": "Planning"}
+{"addr": "Eastlyn, Fengate, Moulton Chapel, Spalding, PE12 0XL", "area": "PE", "date": "2026-10-02", "decision": "Dismissed", "ref": "6011584", "type": "Householder"}
+{"addr": "1, HARBERTON CRESCENT, CHICHESTER, PO19 5NY", "area": "PO", "date": "2026-10-02", "decision": "Dismissed", "ref": "6011615", "type": "Householder"}
+{"addr": "Chase Lodge Hospital, Page Street, London, NW7 2ED", "area": "NW", "date": "2026-10-02", "decision": "Dismissed", "ref": "6011852", "type": "Planning"}
+{"addr": "Chase Lodge Hospital, Page Street, London, NW7 2ED", "area": "NW", "date": "2026-10-02", "decision": "Dismissed", "ref": "6011855", "type": "Planning"}
+{"addr": "Pole Barn, Hollywood Farm, Uttoxeter Road, Hollywood, Stone, ST15 8RB", "area": "ST", "date": "2026-10-02", "decision": "Dismissed", "ref": "6011939", "type": "Planning"}
+{"addr": "Plot to the rear of 4 Wickham Road, Wickham Mews, London, SE4 1PS", "area": "S", "date": "2026-10-02", "decision": "Dismissed", "ref": "6011958", "type": "Planning"}
+{"addr": "Land behind 5 Lapworth Close, Orpington, BR6 9BW", "area": "BR", "date": "2026-10-02", "decision": "Dismissed", "ref": "6011963", "type": "Planning"}
+{"addr": "Land behind 5 Lapworth Close, Orpington, BR6 9BW", "area": "BR", "date": "2026-10-02", "decision": "Dismissed", "ref": "6011964", "type": "Planning"}
+{"addr": "Romaldor, St Johns Road, Wroxall, PO38 3EL", "area": "PO", "date": "2026-10-02", "decision": "Dismissed", "ref": "6012036", "type": "Planning"}
+{"addr": "403 King's Rd, London, SW10 0LR", "area": "SW", "date": "2026-10-02", "decision": "Dismissed", "ref": "6012075", "type": "Planning"}
+{"addr": "403 King's Rd, London, SW10 0LR", "area": "SW", "date": "2026-10-02", "decision": "Dismissed", "ref": "6012078", "type": "Commercial advertisement"}
+{"addr": "369 Fulham Rd, London, SW10 9TR", "area": "SW", "date": "2026-10-02", "decision": "Dismissed", "ref": "6012112", "type": "Planning"}
+{"addr": "369 Fulham Rd, London, SW10 9TR", "area": "SW", "date": "2026-10-02", "decision": "Dismissed", "ref": "6012114", "type": "Commercial advertisement"}
+{"addr": "55, BOUNDARY LANE, ST LEONARDS AND ST IVES, BH24 2SE", "area": "BH", "date": "2026-10-02", "decision": "Dismissed", "ref": "6012115", "type": "Planning"}
+{"addr": "137, HOLDEN AVENUE, MILTON KEYNES, MK4 4HS", "area": "MK", "date": "2026-10-02", "decision": "Dismissed", "ref": "6012181", "type": "Householder"}
+{"addr": "17 DALEGARTH AVENUE, LIVERPOOL, L12 0AJ", "area": "L", "date": "2026-10-02", "decision": "Dismissed", "ref": "6012205", "type": "Householder"}
+{"addr": "34 Greyhound Hill, London, NW4 4JP", "area": "NW", "date": "2026-10-02", "decision": "Dismissed", "ref": "6012215", "type": "Householder"}
+{"addr": "Rear of 2 High Street, Edgware, HA8 7EF", "area": "HA", "date": "2026-10-02", "decision": "Dismissed", "ref": "6012289", "type": "Planning"}
+{"addr": "35 Cumberland Drive, Bexleyheath, DA7 5LA", "area": "DA", "date": "2026-10-02", "decision": "Allowed", "ref": "6012368", "type": "Planning"}
+{"addr": "26 Valentines Way, Rush Green, Romford, RM7 0YH", "area": "RM", "date": "2026-10-02", "decision": "Allowed", "ref": "6012871", "type": "Householder"}
+{"addr": "Sunny Bank Kitchen Garden, south west of Killington New Bridge, Killington, Sedbergh, LA10 5EW", "area": "LA", "date": "2026-10-02", "decision": "Allowed", "ref": "6013634", "type": "Planning"}
+{"addr": "56 St Giles, Oxford, OX1 3LU", "area": "OX", "date": "2026-10-02", "decision": "Dismissed", "ref": "6013769", "type": "Planning"}

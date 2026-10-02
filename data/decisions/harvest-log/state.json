@@ -1,6 +1,6 @@
 {
   "cases": {
-    "builtAt": "2026-09-30T18:40:55+01:00",
+    "builtAt": "2026-10-02T21:44:50+01:00",
     "byDecisionMaker": {
       "inspector": 899,
       "lpa-committee": 37,
@@ -9,7 +9,7 @@
     },
     "newestDecisionDate": "2026-09-30",
     "newestHarvestedOn": "2026-09-30",
-    "refreshedAt": "2026-10-02T19:57:53+01:00",
+    "refreshedAt": "2026-10-02T21:44:50+01:00",
     "total": 971
   },
   "frameworkDate": "2026-08-17",
@@ -18,7 +18,7 @@
     "lpa:stratford": {
       "lastRunAt": "2026-09-27T19:18:01+01:00",
       "newestDecisionDateSeen": "2026-09-22",
-      "note": "SDC via portal JSON API (DISTILLATION-GUIDE.md §7); last pass 23 Sep 2026"
+      "note": "SDC via portal JSON API (DISTILLATION-GUIDE.md \u00a77); last pass 23 Sep 2026"
     },
     "pins-acp": {
       "decidedSinceFramework": 239,
@@ -28,21 +28,21 @@
     },
     "pins-new": {
       "awaitingFetch": 0,
-      "corpusLetters": 1400,
+      "corpusLetters": 1508,
       "fetchFailures": 0,
-      "lastFetchAt": "2026-09-30T18:01:53+01:00",
-      "lastIndexAt": "2026-09-30T18:01:54+01:00",
-      "lastQueueAt": "2026-09-30T18:40:07+01:00",
-      "lastQueueFile": "harvest-log/slices/queue-2026-09-30.tsv",
+      "lastFetchAt": "2026-10-02T21:44:44+01:00",
+      "lastIndexAt": "2026-10-02T21:44:44+01:00",
+      "lastQueueAt": "2026-10-02T21:44:44+01:00",
+      "lastQueueFile": "harvest-log/slices/queue-2026-10-02.tsv",
       "lastSweepAreas": "all",
-      "lastSweepAt": "2026-09-30T17:57:30+01:00",
+      "lastSweepAt": "2026-10-02T21:42:38+01:00",
       "lastSweepErrors": 0,
-      "listed": 1400,
-      "newestDecisionDateSeen": "2026-09-30",
-      "newestLetterDate": "2026-09-30",
+      "listed": 1508,
+      "newestDecisionDateSeen": "2026-10-02",
+      "newestLetterDate": "2026-10-02",
       "newestRefSeen": "6015634",
       "note": "Run times before 27 Sep 2026 backfilled from the 23 Sep 2026 corpus build.",
-      "queued": 0
+      "queued": 62
     }
   }
 }
