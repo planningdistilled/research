@@ -23,6 +23,7 @@ planningdistilled/
 ```
 
 - All paths go through `paths.mjs` / `paths.py`. `PD_SITE` and `PD_SOURCES` override the sibling defaults. Never hardcode a path; import from these.
+- GitHub Actions (`.github/workflows/check.yml`) runs on every push. It runs the public gate, compiles the Python tools, checks the decisions index is in sync with the case files, and runs the Navigator typecheck, tests and build (which verifies every NPPF quote). Keep it green: run `gh run list -R planningdistilled/research -L 1` after pushing.
 - Data files cite documents with prefixes. `open:<path>` means `data/open-sources/<path>`. `sources:<path>` means the private sources repo. Use `resolveRef()` / `resolve_ref()` to turn them into paths.
 - The SessionStart hook (`.claude/hooks/session-start.sh`) does three things:
   - turns on the commit gate;
