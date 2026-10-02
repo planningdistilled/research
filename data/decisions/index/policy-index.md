@@ -28,10 +28,13 @@ Jump to: [AnnexA](#annexa) · [AnnexB](#annexb) · [AnnexD](#annexd) · [AnnexF]
 
 ## AnnexB
 
-### AnnexB:PDL  (fail 5, pass 3, not-engaged 1)
+### AnnexB:PDL  (fail 8, pass 4, not-engaged 1)
 
 | Case | Maker | Outcome | Finding | Weight | Note |
 | --- | --- | --- | --- | --- | --- |
+| [Land east of Wymers Wood Road, Burnham (self-build dwelling)](../cases/PINS-6005162.md) | Appeal | allowed | fail |  | garden land treated as excluded from PDL outright, on a site described as open countryside outside the settlement boundary (DL 7, 13) |
+| ★ [Cornish Marquees, Higher Trevellas, St Agnes (PIP, two dwellings)](../cases/PINS-6008432.md) | Appeal | dismissed | fail |  | hardstanding and commercial use have no planning permission or lawful use, so the site is not previously developed land as defined (DL 15-17) |
+| [Canons, Hobbs Cross Road, Matching (replacement dwelling, Green Belt)](../cases/PINS-6010746.md) | Appeal | dismissed | pass |  | letter cites the definition as "Annex 2 of the Framework" (the 2024 numbering); curtilage outside a built-up area is PDL (DL 10) |
 | [Land north of Claypole Equestrian, Doddington Lane, Claypole](../cases/PINS-6008915.md) | Appeal | dismissed | not-engaged |  | open land with no buildings; even if within a wider curtilage, the Framework says the whole curtilage should not be assumed developable (DL 9) |
 | [Cosy Cow Shed, near Dalwood, Devon (holiday let to dwelling)](../cases/PINS-6009619.md) | Appeal | allowed | pass |  | property accords with the Annex B definition (DL 15) |
 | [Ewen House, High Road, Fobbing (pool and annexe)](../cases/PINS-6009919.md) | Appeal | dismissed | fail |  | hardstanding behind the two houses is PDL, but the vegetated part behind Vine Lodge/Sandiacre has blended into the landscape; site as a whole not PDL (DL 9-15) |
@@ -41,20 +44,26 @@ Jump to: [AnnexA](#annexa) · [AnnexB](#annexb) · [AnnexD](#annexd) · [AnnexF]
 | [Land opposite Trewithin Terrace, Ashton, Helston (PIP, World Heritage Site)](../cases/PINS-6008414.md) | Appeal | dismissed | fail |  | earlier development has blended into the landscape (DL 24) |
 | [Land to the rear of Abbey Gardens, Southport Road, Lydiate](../cases/PINS-6008723.md) | Appeal | dismissed | fail |  | former farm (agricultural) and remnants blended into the landscape; not PDL; former use very limited weight (DL 6-7, 27) |
 | [Land adjacent to 50 Middleton Way, Fen Drayton](../cases/PINS-6009303.md) | Appeal | dismissed | fail |  | land last occupied by agricultural structures excluded from PDL (DL 18) |
+| ★ [Ardencroft, Cloweswood Lane, Earlswood](../cases/stratford-26-01614-FUL.md) | Delegated | refused | fail |  | the garden is "within a built-up area" (a row of houses forming part of the village), so it is excluded from the definition of previously developed land (p.3) |
 
-### AnnexB:grey-belt  (pass 41, fail 8, not-engaged 1)
+### AnnexB:grey-belt  (pass 45, fail 8, not-engaged 2)
 
 | Case | Maker | Outcome | Finding | Weight | Note |
 | --- | --- | --- | --- | --- | --- |
+| [Land east of Wymers Wood Road, Burnham (self-build dwelling)](../cases/PINS-6005162.md) | Appeal | allowed | pass |  | no strong contribution to purposes (a), (b) or (d); previous inspector (APP/X0415/W/25/3360406) reached the same view under the 2024 text; definition unchanged apart from the removal of the old footnote 7 exclusions (DL 15-17) |
+| [Oozedam, High Road, Fobbing (5 dwellings behind the frontage, grey belt)](../cases/PINS-6008679.md) | Appeal | dismissed | pass |  | not disputed that the site does not strongly contribute to purposes (a), (b) or (d); letter says "Annexe B" (DL 6) |
+| [Land adjacent to 1 Ninesprings Cottage, Wymondley Road, Hitchin (PIP)](../cases/PINS-6009720.md) | Appeal | allowed | pass |  | moderate contribution to purpose (a) (adjacent to Hitchin, a large built-up area, but partly enclosed by housing, an elevated railway and vegetation); moderate to (b) (very small part of the Hitchin-Stevenage gap); none to (d); site distinguished from the 2016 Green Belt Review parcel, rated strong; Annex E applied (DL 10-15) |
 | [Land adjacent 837 Manchester Road, Linthwaite](../cases/PINS-6006003.md) | Appeal | dismissed | pass |  | undisputed; no strong contribution to (a), (b) or (d) (DL 8) |
 | [Disley Meadow, Lower Greenshall Lane, Disley](../cases/PINS-6010213.md) | Appeal | dismissed | pass |  | accepted by the Council; contained position (DL 18) |
 | [Ewen House, High Road, Fobbing (pool and annexe)](../cases/PINS-6009919.md) | Appeal | dismissed | pass |  | common ground - no strong contribution to (a), (b) or (d) (DL 16-17) |
+| [Land west of 103 Tonbridge Road, Hildenborough (PIP, 5 to 7 homes)](../cases/PINS-6010459.md) | Appeal | allowed | pass |  | does not strongly contribute to purposes (a), (b) or (d); site does not adjoin a large built-up area, form a substantial part of a gap between towns, or relate to a historic town; Arup Green Belt Assessment does not alter this (DL 20) |
 | [Land near Fanshawes, Ware Park, Ware](../cases/PINS-6006224.md) | Appeal | dismissed | pass |  | accepted by the Council; no contribution to purposes (a), (b) or (d) (DL 9) |
 | [Land adjacent Langley Cricket Club, Cock Hall Lane, Langley, Macclesfield (PIP one dwelling)](../cases/PINS-6010253.md) | Appeal | dismissed | pass |  | undisputed; would not undermine the purposes of the remaining Green Belt (DL 10) |
 | [Land at Mount Avenue, Chaldon (Caterham edge)](../cases/PINS-6006497.md) | Appeal | allowed | pass |  | not PDL; (b) and (d) not strongly served (common ground); (a) moderate only, because ancient woodland, Birchwood Lane and hedgerows contain sprawl of Caterham, a large built-up area (DL 18-26) |
 | [Land to rear of 6-12 Long Lane, Newtown, South Staffordshire](../cases/PINS-6010537.md) | Appeal | allowed | pass |  | Green Belt Study parcel (strong for a, b, c) is high level; site judged on its own; village not a large built-up area; not next to listed towns; no historic town (DL 19-25) |
 | [3 Nursery, Hoe Lane, Nazeing (vehicle storage)](../cases/PINS-6010709.md) | Appeal | dismissed | pass |  | not PDL (previous appeal); council accepts no strong contribution to (a), (b), (d) (DL 13-14) |
 | [236 Hawkes Mill Lane, Coventry](../cases/PINS-6011410.md) | Appeal | allowed | pass |  | plot enclosed by row of houses and Ted Pitts Lane; no strong contribution to (a), (b), (d) (DL 7-10) |
+| [Land north of Scrubs Farm, Lower Gravel Road, Bromley (padel courts)](../cases/PINS-6012303.md) | Appeal | allowed | not-engaged |  | grey belt and other exceptions argued by the appellant but not determined once (f)(iv) was met (DL 6, 21) |
 | [Land at 260A Hawkes Mill Lane, Allesley, Coventry](../cases/PINS-6009837.md) | Appeal | allowed | pass |  | within small group of houses behind Hawkes Mill Lane frontage; no strong contribution to (a), (b) or (d) (DL 6-8) |
 | [Land off Oakdene Crescent, Hatton Station, Warwick](../cases/PINS-6006637.md) | Appeal | dismissed | pass |  | common ground (DL 10) |
 | [Boltons Farm, Blackgate Lane, Tarleton](../cases/PINS-6007484.md) | Appeal | allowed | pass |  | purposes (a) and (d) not disputed; Tarleton is a village so cannot be a large built-up area for purpose (a); Annex E cited (DL 10-11) |
@@ -111,10 +120,19 @@ Jump to: [AnnexA](#annexa) · [AnnexB](#annexb) · [AnnexD](#annexd) · [AnnexF]
 | [Land at Marazanvose, St Allen (holiday lodges)](../cases/PINS-6006832.md) | Appeal | dismissed | fail |  | temporary DCO workers' caravan compound (to be restored to grassland under the DCO) and earlier equestrian structures are not PDL (DL 8-10) |
 | [Former Gardens to Knells House, The Knells, Carlisle](../cases/PINS-6005528.md) | Appeal | dismissed | neutral |  | former garden in curtilage of a permanent structure outside a built-up area accepted as PDL (Dartford [2017] EWCA Civ 141) but not given L2 substantial weight (DL 11-12) |
 
-### AnnexB:settlement  (fail 8, pass 5, not-engaged 4, neutral 3, determinative 1)
+### AnnexB:reasonable-walking-distance  (fail 1)
 
 | Case | Maker | Outcome | Finding | Weight | Note |
 | --- | --- | --- | --- | --- | --- |
+| [Land at Mushroom Lane, Brigsley (outline, nine dwellings)](../cases/PINS-6009363.md) | Appeal | dismissed | fail |  | the 800 m definition applied to walking to services generally, although Annex B frames it for the station policies and HC5 (DL 14) |
+
+### AnnexB:settlement  (fail 10, pass 8, not-engaged 5, neutral 3, determinative 1)
+
+| Case | Maker | Outcome | Finding | Weight | Note |
+| --- | --- | --- | --- | --- | --- |
+| ★ [Cornish Marquees, Higher Trevellas, St Agnes (PIP, two dwellings)](../cases/PINS-6008432.md) | Appeal | dismissed | fail |  | Trevellas is not a named settlement and reads as a dispersed scatter of buildings with no recognisable centre; the Annex B exclusion of hamlets and scattered groups is cited (DL 10-13) |
+| [The Orchard, Charley Road, Charley (garage conversion to a self-build dwelling)](../cases/PINS-6009255.md) | Appeal | allowed | not-engaged |  | the site is in a hamlet with no services; the Framework term "settlement" does not include hamlets outside predominantly built-up areas (DL 6, 8) |
+| [Land north of the Bower House, Clatterbury Lane, Clavering](../cases/PINS-6010951.md) | Appeal | dismissed | pass |  | mapped - no defined boundary, so whether the site is within the built area is a planning judgement; contained by a dwelling to the south and a tree belt to the north (DL 21-24) |
 | [Land east of New Road, Melksham](../cases/PINS-6007352.md) | Appeal | dismissed | fail |  | parcel on a rural lane among dispersed development, separated from Melksham by open land; not part of a settlement (DL 5) |
 | [Somerville, Mingoose Vale, Towan Cross, Truro (affordable PIP)](../cases/PINS-6009030.md) | Appeal | dismissed | pass |  | Towan Cross - clusters with landscape gaps but village signs and definable boundaries; akin to a small village, not a hamlet or scattered group (DL 10) |
 | [Land south of 2 Leighton Road, Hamerton](../cases/PINS-6008987.md) | Appeal | dismissed | neutral |  | Hamerton accepted as a settlement; site adjacent to but outside it (DL 5, 29) |
@@ -134,6 +152,9 @@ Jump to: [AnnexA](#annexa) · [AnnexB](#annexb) · [AnnexD](#annexd) · [AnnexF]
 | [Land south of 47 Necton Road (Ashbridge House), Little Dunham](../cases/PINS-6009588.md) | Appeal | dismissed | neutral |  | Little Dunham (no plan settlement boundary) is a village and so a settlement, but the site lies beyond the edge of existing built form - outside the settlement, S5 applies (DL 23) |
 | [Cedars Farm, Broadwas](../cases/PINS-6010973.md) | Appeal | allowed | pass |  | Broadwas is a settlement because the development plan defines it as one (Category 2) (DL 12) |
 | [Land east of 52 Exeter Road, Claydon](../cases/PINS-6010228.md) | Appeal | dismissed | fail |  | plot adjoins houses at end of new cul-de-sac but has no buildings and is outside the Policies Map boundary; "not within a settlement" (DL 8) |
+| [144 Malthouse Lane, Earlswood](../cases/stratford-26-01542-FUL.md) | Delegated | refused | pass |  | site treated as within a settlement (S4 and L2(1)(d), both "within settlements", quoted and applied) because it is inside the Earlswood boundary in the neighbourhood plan; the report does not mention the Annex B exclusion of villages washed over by the Green Belt |
+| ★ [The Old School, Stretton-on-Fosse](../cases/stratford-26-01687-FUL.md) | Delegated | approved | pass |  | no Built-Up Area Boundary; the officer quoted the Annex B definition and held the village a settlement on the ground - "predominantly built-up with a concentrated area of residential development that clearly has a physical confines" (p.4) |
+| [Ardencroft, Cloweswood Lane, Earlswood](../cases/stratford-26-01614-FUL.md) | Delegated | refused | fail |  | "the application site is not considered to be within a settlement because it lies within the Green Belt" (p.2); the Annex B exclusion of washed-over villages applied in terms |
 | ★ [Land at OS 9574 5003, Seaford, Pinvin (barn replaced by self-build dwelling)](../cases/wychavon-W-26-00329-FUL.md) | Delegated | approved | fail |  | 700 m north of the Pinvin boundary, "clearly visually divorced" from the village, among scattered dwellings, so not a settlement |
 | ★ [Land at OS 8339 4949, Upton Road, Callow End (5-9 dwellings PIP)](../cases/malvern-M-26-01162-PIP.md) | Delegated | refused | determinative |  |  |
 
@@ -178,10 +199,12 @@ Jump to: [AnnexA](#annexa) · [AnnexB](#annexb) · [AnnexD](#annexd) · [AnnexF]
 
 ## CC2
 
-### CC2  (benefit 5, fail 3, determinative 2, pass 1, conflict 1)
+### CC2  (benefit 6, fail 3, conflict 2, determinative 2, pass 1)
 
 | Case | Maker | Outcome | Finding | Weight | Note |
 | --- | --- | --- | --- | --- | --- |
+| ★ [Land off Long Lane, Fowlmere (PIP, up to 7 self-build homes)](../cases/PINS-6011365.md) | Appeal | dismissed | conflict | significant | location would not support sustainable patterns of movement or good access to facilities; future residents likely to depend on the car; TR3 not named (DL 10, 23) |
+| [Former Hull Grammar School and Community Centre, Cottingham Road, Hull](../cases/PINS-6010376.md) | Appeal | dismissed | benefit |  | substantial weight to improving energy efficiency of existing buildings noted, but achievable with a better designed scheme (DL 66) |
 | [Cosy Cow Shed, near Dalwood, Devon (holiday let to dwelling)](../cases/PINS-6009619.md) | Appeal | allowed | pass |  | no conflict with CC2/TR3/TR4 (DL 17-18) |
 | ★ [Land off Shire Lane, Hurst Green (self-build PIP)](../cases/PINS-6009691.md) | Appeal | dismissed | determinative |  |  |
 | ★ [17 Brook Lane, Brookville](../cases/PINS-6009844.md) | Appeal | dismissed | fail |  | location test run under CC2, not TR3; café 0.6 miles along the B1112 with no pavement or lighting; shop 1.5 miles and primary school 1.8 miles; fast, unlit B-road; car dependence (DL 14-16, 35) |
@@ -207,10 +230,11 @@ Jump to: [AnnexA](#annexa) · [AnnexB](#annexb) · [AnnexD](#annexd) · [AnnexF]
 | --- | --- | --- | --- | --- | --- |
 | [Land south of 2 Leighton Road, Hamerton](../cases/PINS-6008987.md) | Appeal | dismissed | harm | limited | car reliance at odds with limiting need to travel (DL 39) |
 
-### CC2(2)  (benefit 9, not-engaged 3, harm 1)
+### CC2(2)  (benefit 10, not-engaged 3, harm 1)
 
 | Case | Maker | Outcome | Finding | Weight | Note |
 | --- | --- | --- | --- | --- | --- |
+| [51 Thorndon Hall, Ingrave (replacement sash windows, listed building consent)](../cases/PINS-6005177.md) | Appeal | dismissed | benefit | substantial | substantial weight to improving the energy efficiency of existing buildings, but the need for wholesale replacement is unevidenced (DL 30) |
 | [5 Kingsfold Close, Billingshurst](../cases/PINS-6009032.md) | Appeal | dismissed | benefit | substantial | Passivhaus and PV given substantial weight but outweighed (DL 23) |
 | [Flat 2, 349 Hackney Road, Tower Hamlets](../cases/PINS-6008490.md) | Appeal | dismissed | benefit | limited | code mapped by harvester — "enabling energy efficiency would be an important public benefit and substantial weight should be given to the benefits of improving the energy efficiency of existing buildings", but no evidence of gains or that less harmful options were discounted, so "limited positive weight" (DL 17) |
 | ★ [North Burton Hall, Hunmanby Road, Burton Fleming](../cases/PINS-6006422.md) | Appeal | allowed | benefit | substantial | energy efficiency / renewable heat for existing buildings (DL 59) |
@@ -227,10 +251,11 @@ Jump to: [AnnexA](#annexa) · [AnnexB](#annexb) · [AnnexD](#annexd) · [AnnexF]
 
 ## CC3
 
-### CC3  (conflict 1, pass 1)
+### CC3  (pass 2, conflict 1)
 
 | Case | Maker | Outcome | Finding | Weight | Note |
 | --- | --- | --- | --- | --- | --- |
+| [Land east of Halfpenny Lane, Wisbech (352 dwellings, hybrid)](../cases/PINS-6002677.md) | Appeal | allowed | pass |  | larger culvert section than the existing upstream culvert, so no increase in upstream flood risk; greenfield run-off rates (DL 19-20, 26-27) |
 | [Valera Ltd, Plox Brow, Tarleton](../cases/PINS-6004952.md) | Appeal | dismissed | conflict |  | fails to minimise vulnerability to flooding through F4-F8 (DL 11, 23) |
 | ★ [Marina Court, 34 Banks Road, Sandbanks, Poole](../cases/PINS-6003539.md) | Appeal | allowed | pass |  | read with F5 for climate-change future flood conditions (DL 22) |
 
@@ -242,10 +267,15 @@ Jump to: [AnnexA](#annexa) · [AnnexB](#annexb) · [AnnexD](#annexd) · [AnnexF]
 
 ## CO1
 
-### CO1  (benefit 32, fail 1, pass 1, determinative 1)
+### CO1  (benefit 37, fail 1, pass 1, determinative 1)
 
 | Case | Maker | Outcome | Finding | Weight | Note |
 | --- | --- | --- | --- | --- | --- |
+| [Land adjacent to 2 New Ealing Broadway, Ealing (BT Street Hub with advert screens)](../cases/PINS-6008483.md) | Appeal | dismissed | benefit | moderate | mapped: letter cites "Section 9 of the Framework" on communications infrastructure and support for expanding networks; CO1 is not named and its substantial weight is not applied (DL 23, 25) |
+| [Grass verge at Ferrers Close, Coventry (20 m telecoms monopole, prior approval)](../cases/PINS-6010199.md) | Appeal | dismissed | benefit | substantial | substantial weight to network benefits acknowledged, but in a prior approval appeal it is "relevant insofar as it informs the need for the installation to be sited as proposed"; the general need is reflected in the permitted development right itself (DL 22-23) |
+| [West Court Land, Park Lane, Finchampstead (telecoms lattice mast, prior approval)](../cases/PINS-6011060.md) | Appeal | dismissed | benefit | substantial | letter says "Policy C01"; substantial weight to maintaining or improving network coverage, capacity, reliability and resilience acknowledged, but not enough without evidence on alternatives (DL 26) |
+| ★ [Pavement outside Waterfront House, 35 Station Street, Nottingham (communications kiosk)](../cases/PINS-6002400.md) | Appeal | dismissed | benefit |  | substantial weight in principle, but "significantly" limited because CO1 also requires siting that minimises visual impact and no alternative sitings were evidenced (DL 26); benefits moderate collectively (DL 29) |
+| [Pavement outside 498-504 Fulham Road, London SW6 (multifunctional hub with advert screen)](../cases/PINS-6010445.md) | Appeal | dismissed | benefit | substantial | mapped: benefits "afforded substantial weight in line with the policies in the Framework", no policy named; but "modest" given the limited scale (DL 16, 29) |
 | [Opposite 67 Sandgate Road, Folkestone (BT Street Hub)](../cases/PINS-6004363.md) | Appeal | dismissed | benefit |  | CO1 substantial weight to coverage noted but, small scale and no evidence of local deficiency, "a small benefit" (DL 17) |
 | ★ [Pavement at East Road, Cambridge (BT Street Hub, planning)](../cases/PINS-6012279.md) | Appeal | dismissed | benefit | substantial | Wi-Fi, 5G, charging; but no evidence the benefits could not be delivered in a less harmful location, and the hub is not sited to minimise visual impact (DL 20-21, 35) |
 | [Footpath outside 1 Prince Street, Bridlington (BT Street Hub)](../cases/PINS-6009141.md) | Appeal | dismissed | benefit | substantial | substantial weight to network benefits, though this unit's contribution relatively limited; other social benefits and kiosk removal limited (DL 19-20, 24) |
@@ -292,10 +322,11 @@ Jump to: [AnnexA](#annexa) · [AnnexB](#annexb) · [AnnexD](#annexd) · [AnnexF]
 | ★ [Kings Way verge, Burgess Hill (17.5 m monopole, prior approval)](../cases/PINS-6010382.md) | Appeal | allowed | benefit | substantial | improved 4G and new 5G for VMO2 (DL ¶14, ¶16, ¶21) |
 | [Dovecot Avenue / Pilch Lane, Liverpool (20 m streetworks pole, prior approval)](../cases/PINS-6009085.md) | Appeal | dismissed | benefit |  | replaces the Ash Grange site lost to a Notice to Quit; ESN contract and 5G; need "weighs in favour" but no weight label given (DL ¶24-25, ¶28) |
 
-### CO1(1)(a)  (pass 1, determinative 1)
+### CO1(1)(a)  (fail 1, pass 1, determinative 1)
 
 | Case | Maker | Outcome | Finding | Weight | Note |
 | --- | --- | --- | --- | --- | --- |
+| ★ [Grass verge at Ferrers Close, Coventry (20 m telecoms monopole, prior approval)](../cases/PINS-6010199.md) | Appeal | dismissed | fail |  | CO1 read as requiring use of existing masts and structures unless there is no reasonable opportunity; a car park site (D20) was discounted for the loss of at least five parking spaces with limited evidence; not "discounted on a clear and persuasive basis" (DL 15-21, 25) |
 | ★ [Kings Way verge, Burgess Hill (17.5 m monopole, prior approval)](../cases/PINS-6010382.md) | Appeal | allowed | pass |  | no mast-sharing opportunities in the search area (DL ¶16) |
 | ★ [Dovecot Avenue / Pilch Lane, Liverpool (20 m streetworks pole, prior approval)](../cases/PINS-6009085.md) | Appeal | dismissed | determinative |  |  |
 
@@ -323,10 +354,11 @@ Jump to: [AnnexA](#annexa) · [AnnexB](#annexb) · [AnnexD](#annexd) · [AnnexF]
 
 ## CO2
 
-### CO2(1)(b)  (fail 2, pass 1)
+### CO2(1)(b)  (fail 3, pass 1)
 
 | Case | Maker | Outcome | Finding | Weight | Note |
 | --- | --- | --- | --- | --- | --- |
+| ★ [West Court Land, Park Lane, Finchampstead (telecoms lattice mast, prior approval)](../cases/PINS-6011060.md) | Appeal | dismissed | fail |  | letter says "Policy CO2 1. b."; evidence on alternative sites not sufficient to show they were thoroughly considered; an unwilling landowner is a constraint but "not one that is unsurmountable"; appellant also working towards a different solution (DL 21-24, 26) |
 | [J Sainsbury, 73 High Street, Chislehurst (rooftop telecoms)](../cases/PINS-6003034.md) | Appeal | dismissed | fail |  | alternatives not adequately explored, including an unimplemented 17.5 m pole prior approval in the car park and sites outside listed-building settings (DL ¶17-18) |
 | ★ [Kings Way verge, Burgess Hill (17.5 m monopole, prior approval)](../cases/PINS-6010382.md) | Appeal | allowed | pass |  | 22 sites assessed plus the 2 the council suggested; council conceded the appeal site was the only realistic option; operator had sought coverage since 2016, with 3 refusals (DL ¶16-20) |
 | ★ [Dovecot Avenue / Pilch Lane, Liverpool (20 m streetworks pole, prior approval)](../cases/PINS-6009085.md) | Appeal | dismissed | fail |  | 2024 NPPF ¶122 cited; 16 alternatives assessed, but rejection of D1-D3 (near masts, yet two masts already near the appeal site) and D16 insufficiently substantiated (DL ¶26-27) |
@@ -484,11 +516,13 @@ Jump to: [AnnexA](#annexa) · [AnnexB](#annexb) · [AnnexD](#annexd) · [AnnexF]
 
 ## DM4
 
-### DM4  (neutral 12, accord 1, pass 1)
+### DM4  (neutral 14, accord 1, pass 1)
 
 | Case | Maker | Outcome | Finding | Weight | Note |
 | --- | --- | --- | --- | --- | --- |
+| [10 West Street, Weston-super-Mare (shop unit merged into the dwelling above)](../cases/PINS-6010305.md) | Appeal | dismissed | neutral | limited | emerging Local Plan (Regulation 19) policies not supplied and may change; limited weight (DL 3) |
 | [39 Cowling Brow, Chorley (5-bedroom HMO)](../cases/PINS-6013087.md) | Appeal | allowed | neutral | limited | emerging Central Lancashire Local Plan "little weight" (DL 3) |
+| [454-456 Blackpool Road, Preston (3 retail units and 6 flats on a corner plot)](../cases/PINS-6006018.md) | Appeal | dismissed | neutral | limited | mapped: DM4 not cited; emerging Central Lancashire Local Plan 2023-2041, submitted June 2025, given limited weight (DL 2) |
 | [Former Revolution Bar, Maxwell Road, Beaconsfield](../cases/PINS-6007582.md) | Appeal | dismissed | neutral | limited | Reg 19 emerging plan limited weight (DL 4) |
 | [Fairfield Cottage, Cross in Hand Road, Heathfield](../cases/PINS-6009517.md) | Appeal | dismissed | neutral | limited | Reg 19 plan puts the site inside the Cross-in-Hand boundary; some weight only (DL 4, 24) |
 | [236 Hawkes Mill Lane, Coventry](../cases/PINS-6011410.md) | Appeal | allowed | neutral | limited | emerging plan review at examination, limited weight (DL 4) |
@@ -525,10 +559,11 @@ Jump to: [AnnexA](#annexa) · [AnnexB](#annexb) · [AnnexD](#annexd) · [AnnexF]
 
 ## DM5
 
-### DM5  (pass 4, fail 1, neutral 1, determinative 1)
+### DM5  (pass 4, harm 1, fail 1, neutral 1, determinative 1)
 
 | Case | Maker | Outcome | Finding | Weight | Note |
 | --- | --- | --- | --- | --- | --- |
+| [Land east of Halfpenny Lane, Wisbech (352 dwellings, hybrid)](../cases/PINS-6002677.md) | Appeal | allowed | harm | moderate | mapped - education, library, GP and ambulance contributions below those requested, on viability; extra burden on infrastructure (DL 38, 43) |
 | [Glebe Court, Glebe Way, West Wickham (McCarthy Stone retirement living)](../cases/PINS-6007183.md) | Appeal | allowed | pass |  | council viability preferred; GBP 1.175m payment in lieu; vacant building credit discretionary and not applied (DL 33-61, 65) |
 | ★ [74-76 Coombe Road, New Malden](../cases/PINS-6009076.md) | Appeal | dismissed | fail |  | viability assessment does not explain differences from the plan-stage viability inputs (DL 20) |
 | [275 Addiscombe Road, Croydon](../cases/PINS-6007319.md) | Appeal | allowed | pass |  | nil affordable housing accepted on viability, with early and late review secured in the UU; LP H5 preferred over CLP SP2.5 as the more recent policy (DL 18-20) |
@@ -539,25 +574,35 @@ Jump to: [AnnexA](#annexa) · [AnnexB](#annexb) · [AnnexD](#annexd) · [AnnexF]
 
 ## DM6
 
-### DM6  (pass 28, neutral 20, fail 15, determinative 4, accord 4, not-engaged 1)
+### DM6  (pass 34, neutral 22, fail 17, determinative 4, accord 4, not-engaged 1)
 
 | Case | Maker | Outcome | Finding | Weight | Note |
 | --- | --- | --- | --- | --- | --- |
+| [144 Browns Lane, Stanton on the Wolds (replacement dwelling, Green Belt)](../cases/PINS-6010392.md) | Appeal | allowed | pass |  | Council gave no reasons for its suggested conditions; conditions without a policy basis not imposed; no removal of permitted development rights without clear justification (DL 15, 23) |
+| [35 Cumberland Drive, Bexleyheath (house to children's home)](../cases/PINS-6012368.md) | Appeal | allowed | neutral |  | Framework tests for conditions applied; occupancy capped at three children and use limited to a children's home (DL 29-34) |
+| [Sunny Bank Kitchen Garden, Killington New Bridge, Killington (market garden barn and polytunnels)](../cases/PINS-6013634.md) | Appeal | allowed | neutral |  | mapped: local policy E2 removal condition applied to the polytunnels and other infrastructure but not the permanent barn, following PPG on reasonableness (DL 19) |
+| ★ [Milan Villa, Hyde Wood Lane, Canewdon (replacement dwelling)](../cases/PINS-6008122.md) | Appeal | dismissed | fail |  | condition requiring first occupation for 3 years by the person who commissioned the design depends on a particular occupier; contrary to PPG that permission runs with the land; fails reasonableness and enforceability (DL 6, 8-9) |
+| [189 Greenwich High Road, London SE10 (bar to convenience store, Appeal A)](../cases/PINS-6012344.md) | Appeal | allowed | pass |  | conditions reworded to meet the DM6 tests; cycle parking condition not shown to be necessary (DL 33, 37) |
+| [189 Greenwich High Road, London SE10 (bar to cafe, Appeal B)](../cases/PINS-6012348.md) | Appeal | allowed | pass |  | extraction condition reworded to bite only if new or altered equipment is proposed; cycle parking condition not shown to be necessary (DL 33, 41-42) |
 | [Adsdean House, Adsdean (listed building consent - stair lift)](../cases/PINS-6001939.md) | Appeal | dismissed | fail |  | mapped: condition requiring reinstatement of floorboards and removal of the lift when no longer required not sufficiently precise (DL 15) |
 | [147 Eastcote Lane, Harrow (two bungalows, outline)](../cases/PINS-6004526.md) | Appeal | allowed | neutral |  | suggested conditions removing PD rights omitted; DM6 allows this only with clear justification and none was given (DL 35) |
 | [Former National Grid Site, Marsh Lane, Stanmore (Aldi)](../cases/PINS-6005822.md) | Appeal | dismissed | neutral |  | UU (BNG, travel plan, highway works, carbon offset, employment and training) meets the tests (DL 89-93) |
 | [Land rear of 53 Beresford Avenue, Chapel-en-le-Frith (agricultural containers)](../cases/PINS-6009410.md) | Appeal | allowed | pass |  | condition limiting containers to purposes ancillary to the site's agricultural use (DL 15, 24) |
+| [33 Sherwood Road, Seaford (house to two flats)](../cases/PINS-6009869.md) | Appeal | allowed | pass |  | Council's conditions tested against DM6 and the Planning Practice Guidance; conditions controlling room use and the garden rejected as overly onerous because the approved plans already fix them (DL 14-16) |
 | ★ [Sleepy Corner, Stibb Cross, Torrington (footway condition)](../cases/PINS-6010706.md) | Appeal | allowed | fail |  | condition 10 not necessary or reasonable; disproportionate cost for one dwelling (PPG 21a-005) (DL 6, 9-10, 12) |
 | [69 Wellingborough Road, Rushden (HMO frontage parking, s73)](../cases/PINS-6013651.md) | Appeal | allowed | pass |  | conditions 4, 6 and 7 of the original permission removed; new condition caps parking at two spaces (DL 19-23) |
 | [Floringham Lodge, Old Bracknell Lane East, Bracknell (46 retirement flats)](../cases/PINS-6009377.md) | Appeal | allowed | pass |  | UU obligations meet Reg 122; Council's objection to the 'deemed' approval mechanism unwarranted given the Framework's delivery emphasis (DL 56, 63) |
+| ★ [22 Ecclesburn Street, Richmond Hill, Leeds (dwelling to short-term let)](../cases/PINS-6010211.md) | Appeal | dismissed | fail |  | a condition capping occupation at six guests could not reasonably be complied with or enforced; nor could one limiting occupiers to young professionals, or one securing the management plan (DL 6, 9) |
 | ★ [Unit 116, The Burrows, East Goscote (noise condition)](../cases/PINS-6010437.md) | Appeal | allowed | fail |  | condition necessary in principle, but a one-month deadline was unreasonable, mitigation was not tied to the assessment's findings, and with no sanction the condition was unenforceable; replaced with a condition requiring the approved acoustic surround within three months or cessation of use (DL 9-13) |
 | [18 Georgia Road, Thornton Heath (6-person HMO)](../cases/PINS-6010710.md) | Appeal | allowed | pass |  | fire safety addressed by condition (London Plan D12) (DL 25-27) |
 | [10 Goodminns Estate, Sedgeford](../cases/PINS-6008840.md) | Appeal | dismissed | fail |  | self-build condition not shown to meet the tests; negligible weight to self-build (DL 27) |
 | [Adj Grassmere, Horseman Side, Navestock (self-build dwelling in garden)](../cases/PINS-6009849.md) | Appeal | allowed | fail |  | no obligation securing self-build; occupation-by-builder condition would fail the tests, so treated as market housing (DL 28) |
 | [Land at Pear Tree Farm, Alburgh Road, Hempnall Green (PIP, self-build)](../cases/PINS-6004780.md) | Appeal | allowed | pass |  | GIRAMS, nutrient-neutrality and self-build UUs meet the obligation tests (DL 44-45) |
 | [Glebe Court, Glebe Way, West Wickham (McCarthy Stone retirement living)](../cases/PINS-6007183.md) | Appeal | allowed | pass |  | UU (affordable housing, reviews, carbon offset GBP 36,765, highways GBP 85,000 for Addington Road crossing) meets tests (DL 67-70) |
+| [Land north of Scrubs Farm, Lower Gravel Road, Bromley (padel courts)](../cases/PINS-6012303.md) | Appeal | allowed | pass |  | conditions tested against DM6; cycle parking trigger moved to first use; refuse and parking management conditions not imposed (DL 27-34) |
 | [Contec House, East Street, Farnham (takeaway opening hours)](../cases/PINS-6005594.md) | Appeal | dismissed | fail |  | condition requiring the Late-Night Delivery Driver Policy ("gently", "smooth", "careful") not precise or enforceable (DL 8, 18) |
 | [Land at 260A Hawkes Mill Lane, Allesley, Coventry](../cases/PINS-6009837.md) | Appeal | allowed | neutral |  | self-build UU imprecise (refers to "the Dwelling", "first occupier") and not necessary; not relied on; BNG condition applies as self-build exemption not secured (DL 15-19) |
+| ★ [Percy Wood Golf Club and Country Retreat, Swarland (180 caravans and lodges, leisure hub)](../cases/PINS-6010440.md) | Appeal | allowed | pass |  | agreed conditions edited having regard to the DM6 tests; planning obligations tested against CIL Regulation 122 (DL 16-21) |
 | [The Stables, Underriver House Road, Underriver, Sevenoaks](../cases/PINS-6011192.md) | Appeal | allowed | pass |  | ponies-only condition not reasonable or necessary; private-use, no-lighting and no-paraphernalia conditions imposed (DL 24-25) |
 | [St Vincents Farm Cottages, The Ridgeway, Mill Hill (s73A variation of conditions, 7 dwellings)](../cases/PINS-6008624.md) | Appeal | dismissed | fail |  | conflicting and incomplete plans (no first-floor plans) mean the varied conditions could not be understood or enforced (DL 11-17) |
 | ★ [Land adjacent Hillside, Brick Kiln Road, Raunds](../cases/APP-M2840-W-25-3366989.md) | Appeal | allowed | determinative |  |  |
@@ -631,10 +676,13 @@ Jump to: [AnnexA](#annexa) · [AnnexB](#annexb) · [AnnexD](#annexd) · [AnnexF]
 | --- | --- | --- | --- | --- | --- |
 | ★ [Barn at Low Farm, Post Office Lane, Norley](../cases/PINS-6008197.md) | Appeal | allowed | fail |  | original condition imprecise — did not name GPDO classes, contrary to PPG (DL 9) |
 
-### DM6(2)(c)  (pass 2, fail 2, neutral 1)
+### DM6(2)(c)  (pass 5, fail 2, neutral 1)
 
 | Case | Maker | Outcome | Finding | Weight | Note |
 | --- | --- | --- | --- | --- | --- |
+| [The Little Boatyard, Lime Street, Brightlingsea (timber cabin for light industrial use)](../cases/PINS-6010933.md) | Appeal | allowed | pass |  | letter says DM6(2)(c) bars conditions removing national permitted development rights "unless there is clear justification"; justification found, so Part 3 rights removed and the use limited to Class E(g)(iii) (DL 32) |
+| [15 Brethergate, Westwoodside (dwelling in side curtilage)](../cases/PINS-6008883.md) | Appeal | allowed | pass |  | Council sought removal of permitted development rights in Classes A, B, C, D, E and G; only Class B (roof additions) justified; the letter writes "DM6(2)c" (DL 20) |
+| [Land at Backworth Business Park, Eccleston Close, Backworth (37 homes on a local wildlife site)](../cases/PINS-6006322.md) | Appeal | allowed | pass |  | no clear justification for removing permitted development rights, so the condition was not imposed; policy not cited by code (DL 45) |
 | [Honeysuckle Bottom Sawmill, East Horsley](../cases/PINS-6011694.md) | Appeal | allowed | neutral |  | removal of PD rights justified by ancient woodland, not by Green Belt openness (DL 46) |
 | ★ [5 Blandford Road South, Slough](../cases/PINS-6008903.md) | Appeal | allowed | pass |  | no clear justification to restrict C3→C4 PD or Class B/E rights; generic amenity reason insufficient (DL 9-16, 23) |
 | ★ [Barn at Low Farm, Post Office Lane, Norley](../cases/PINS-6008197.md) | Appeal | allowed | pass |  | brief "agricultural character" reason not clear justification for a broad PD removal; classes A, AA, B, D, E and Part 2 A justified, C and G not (DL 10-12) |
@@ -643,10 +691,11 @@ Jump to: [AnnexA](#annexa) · [AnnexB](#annexb) · [AnnexD](#annexd) · [AnnexF]
 
 ## DM7
 
-### DM7  (neutral 5, pass 4)
+### DM7  (pass 5, neutral 5)
 
 | Case | Maker | Outcome | Finding | Weight | Note |
 | --- | --- | --- | --- | --- | --- |
+| ★ [Land east of Halfpenny Lane, Wisbech (352 dwellings, hybrid)](../cases/PINS-6002677.md) | Appeal | allowed | pass |  | Internal Drainage Board said Land Drainage Consent was unlikely; separate regime assumed to operate effectively, and no application had been made or determined (DL 12-13) |
 | [75-79 New Road, Peterborough (23 apartments)](../cases/PINS-6012642.md) | Appeal | dismissed | neutral |  | with PM13, internal sound transfer between flats left to Building Regulations (DL 21) |
 | [Glebe Court, Glebe Way, West Wickham (McCarthy Stone retirement living)](../cases/PINS-6007183.md) | Appeal | allowed | pass |  | fire safety matters for Building Regulations; fire evacuation strategy condition; LFB no objection (DL 25-32, 65) |
 | [Former Revolution Bar, Maxwell Road, Beaconsfield](../cases/PINS-6007582.md) | Appeal | dismissed | neutral |  | foundation encroachment into 10 m borehole buffer (chalk dissolution) left to other regimes (DL 11-13) |
@@ -741,14 +790,34 @@ Jump to: [AnnexA](#annexa) · [AnnexB](#annexb) · [AnnexD](#annexd) · [AnnexF]
 
 ## DP3
 
-### DP3  (fail 56, pass 51, harm 41, conflict 14, determinative 12, neutral 9, accord 8, benefit 3, not-engaged 1)
+### DP3  (fail 56, pass 52, harm 49, conflict 25, accord 16, determinative 12, neutral 10, benefit 3, not-engaged 1)
 
 | Case | Maker | Outcome | Finding | Weight | Note |
 | --- | --- | --- | --- | --- | --- |
 | [Morgan and Morecambe Offshore Wind Farms Transmission Assets (DCO)](../cases/SOS-EN020032.md) | SoS | approved | harm | limited | good design partially met (DL 7.11) |
 | [Beacon Fen Energy Park, near Heckington, Lincolnshire (DCO)](../cases/SOS-EN010151.md) | SoS | approved | harm | moderate | landscape and visual effects (DL 4.27, 7.1) |
+| [Land adjacent to 2 New Ealing Broadway, Ealing (BT Street Hub with advert screens)](../cases/PINS-6008483.md) | Appeal | dismissed | conflict |  | mapped: DP3 not named; local policies said to be "consistent with the Framework in requiring that development proposals respond to their context so that they integrate with and enhance their surroundings"; visually intrusive, bulky, adds clutter (DL 15, 27) |
+| [Grass verge at Ferrers Close, Coventry (20 m telecoms monopole, prior approval)](../cases/PINS-6010199.md) | Appeal | dismissed | harm |  | mapped: Framework design policy not cited; 20 m monopole and six cabinets a prominent, incongruous and urbanising addition to grassed open space in a suburban street; conflict with local C2 and DE1 so far as relevant (DL 7-13) |
+| ★ [144 Browns Lane, Stanton on the Wolds (replacement dwelling, Green Belt)](../cases/PINS-6010392.md) | Appeal | allowed | accord |  | fails the Design Code SPD limit (replacement not more than 50% above the volume of the original, height not significantly greater) but causes no character harm on a double-width plot in a varied linear street; no conflict with the Framework's aim of well-designed places (DL 5-9) |
+| [Canons, Hobbs Cross Road, Matching (replacement dwelling, Green Belt)](../cases/PINS-6010746.md) | Appeal | dismissed | conflict |  | mapped: Framework design policy not cited; substantially larger, bulkier dwelling of overtly urban design conflicts with local DM9 (DL 26-28) |
+| [West Court Land, Park Lane, Finchampstead (telecoms lattice mast, prior approval)](../cases/PINS-6011060.md) | Appeal | dismissed | harm |  | mapped: Framework design policy not cited; siting and appearance would have a significant adverse impact - engineered tower above the canopy of a woodland belt beside historic parkland that is a SANG; TPO woodland impact not assessed (DL 9-17) |
+| ★ [Land off Long Lane, Fowlmere (PIP, up to 7 self-build homes)](../cases/PINS-6011365.md) | Appeal | dismissed | conflict | substantial | letter says DP3 "requires proposals to be refused if they would not respond to their context"; the "without clear justification" qualifier is not mentioned and S5(2) is not cited; closing the gap is "inherently harmful" (DL 13, 24) |
+| [Lot B2a, Upper Bourne End Lane, Hemel Hempstead (outdoor wellbeing use and office unit)](../cases/PINS-6011489.md) | Appeal | dismissed | harm | moderate | mapped: Framework design policy not cited; home-office style building incongruous and cramped on a small rural plot (DL 12) |
+| ★ [Romaldor, St Johns Road, Wroxall (amateur radio mast)](../cases/PINS-6012036.md) | Appeal | dismissed | conflict | great | significant harm to character and appearance; a 13 m mast with a 5.5 m antenna turning circle would be "a very distinctive break in the skyline"; local policies C1 and EV9 found consistent with DP3, N4 and L2 and "great weight" given to the conflict (DL 10-11, 13, 21) |
+| ★ [403 King's Road, Chelsea (JOLT electric vehicle charge point with advert screens)](../cases/PINS-6012075.md) | Appeal | dismissed | conflict |  | mapped: Framework design policy not cited; the unit would be the most prominent feature in its setting, incongruous and uncharacteristic, contrary to local plan CD1, CD2, CD15, TR4 (DL 9-10, 15) |
+| [Land at Castle End, Lea, Ross-on-Wye (PIP, up to 3 dwellings)](../cases/PINS-6002708.md) | Appeal | dismissed | neutral |  | mapped - no harm to character and appearance; protected views D2 and A2 in the neighbourhood plan maintained (DL 27-34) |
+| [Lower Fawke Farm, Bitchet Green Road, Fawke Common, Underriver](../cases/PINS-6004899.md) | Appeal | allowed | accord |  | integrates with and enhances its surroundings (DL 16) |
+| ★ [65 Grimshaw Lane, Manchester M40 (first-floor guest house over former pub)](../cases/PINS-6008018.md) | Appeal | dismissed | conflict |  | conflict with development plan policy on design standards for visitor accommodation - access only by a rear gate, a yard beside the bins and a narrow stair; no clear-justification question asked (DL 16, 29, 31) |
+| [12 Victoria Road, Whetstone (dwelling in rear garden)](../cases/PINS-6009910.md) | Appeal | dismissed | conflict |  | mapped: Framework design policy not cited; two-storey house and double garage in a rear garden conflict with the pattern of semi-detached houses with long gardens; significant harm under local CS2 and DM1 (DL 5-8) |
+| ★ [Pavement outside 498-504 Fulham Road, London SW6 (multifunctional hub with advert screen)](../cases/PINS-6010445.md) | Appeal | dismissed | conflict |  | mapped: Framework design policy not cited; most prominent feature in an uncluttered footway, incongruous and uncharacteristic, contrary to local plan DC1, DC8, DC9, DC10 (DL 10-11, 17) |
+| [Land to the rear of 14 Cross Hills, Kippax (storage unit and car park layout)](../cases/PINS-6011321.md) | Appeal | dismissed | accord |  | single-storey flat-roofed unit acceptable in a mixed local centre; neutral in the balance (DL 14-17, 19) |
+| ★ [28A Ridley Road, London NW10 (external rear staircase to first-floor flat)](../cases/PINS-6011602.md) | Appeal | allowed | accord |  | accords with "the design policies of the Framework", no policy number given; narrow, lightweight black steel stair tucked into the side passage of the outrigger, below the eaves (DL 6-10) |
+| ★ [125-133 Old Brompton Road, London SW7 (JOLT electric vehicle charge point with advert screens)](../cases/PINS-6012098.md) | Appeal | dismissed | conflict |  | mapped: Framework design policy not cited; incongruous and uncharacteristic feature in an open footway, contrary to local plan CD1, CD2, CD15, TR4 (DL 9-10, 16) |
+| ★ [Outside 131 Fulham Road, London SW3 (JOLT electric vehicle charge point with advert screens)](../cases/PINS-6012105.md) | Appeal | dismissed | conflict |  | mapped: Framework design policy not cited; the unit would be the most prominent feature in its setting, incongruous and uncharacteristic, contrary to local plan CD1, CD2, CD15, TR4 (DL 9-10, 15) |
 | [Sycamore Farm, Well Bank Lane, Over Peover](../cases/PINS-6008176.md) | Appeal | allowed | pass |  | no conflict with CELPS SD1/SD2; no character harm alleged (DL 13, 16-17) |
+| [15 Brethergate, Westwoodside (dwelling in side curtilage)](../cases/PINS-6008883.md) | Appeal | allowed | accord |  | mapped: DP3 not cited; efficient use of the plot, in keeping with the varied pattern of the area; no conflict with DS1, H8 or CS5 (DL 7-8) |
 | [Land rear of 53 Beresford Avenue, Chapel-en-le-Frith (agricultural containers)](../cases/PINS-6009410.md) | Appeal | allowed | accord |  | dark green, recessed containers not discordant in edge-of-settlement views; hedging maturing (DL 7-12) |
+| ★ [33 Sherwood Road, Seaford (house to two flats)](../cases/PINS-6009869.md) | Appeal | allowed | accord |  | mapped: no Framework policy named for the main issue; compliance with CP11 and DM20 said to accord with the revised Framework's aim of well-designed places (DL 8) |
 | [Disley Meadow, Lower Greenshall Lane, Disley](../cases/PINS-6010213.md) | Appeal | dismissed | harm | moderate | mapped: container industrial in appearance, extensive hardstanding conspicuously engineered; letter cites "the Framework's design objectives" without a policy code (DL 26-30) |
 | ★ [79 Rushdene Crescent, Northolt (vehicle crossover across green)](../cases/PINS-6012788.md) | Appeal | dismissed | conflict |  | mapped - Framework cited only generically ("achieving well-designed places"); drive would scar the grassed open space and significantly damage the area's attractiveness; harm "very clearly" outweighs private EV-charging convenience (DL 8, 11, 14-15) |
 | [69 Wellingborough Road, Rushden (HMO frontage parking, s73)](../cases/PINS-6013651.md) | Appeal | allowed | accord |  | hard-surfaced frontages with low walls typical of the street; site used for parking for years (DL 13-16) |
@@ -760,11 +829,15 @@ Jump to: [AnnexA](#annexa) · [AnnexB](#annexb) · [AnnexD](#annexd) · [AnnexF]
 | [52 Eaton Drive, Romford (pair of houses in a rear garden)](../cases/PINS-6010339.md) | Appeal | dismissed | harm | moderate | two-storey houses cramped and incongruous against the long-garden spatial character; conflict with DP3 and L2; no DP3(3) or clear-justification step (DL 5-9, 14) |
 | [Land at Hillberry, Dalefords Lane, Marton, Winsford](../cases/PINS-6012304.md) | Appeal | dismissed | pass |  | rounds off ribbon, fits street scene; limited localised openness harm (DL 24-26) |
 | [Land at Pear Tree Farm, Alburgh Road, Hempnall Green (PIP, self-build)](../cases/PINS-6004780.md) | Appeal | allowed | neutral |  | mapped: a single dwelling in keeping with the low-density pattern; no harm (DL 28-31) |
+| [454-456 Blackpool Road, Preston (3 retail units and 6 flats on a corner plot)](../cases/PINS-6006018.md) | Appeal | dismissed | harm |  | mapped: DP3 not cited; overly bulky, dominant building at the back of the pavement on a prominent corner; conflict with Local Plan AD1(a) (DL 9, 12) |
 | [Glebe Court, Glebe Way, West Wickham (McCarthy Stone retirement living)](../cases/PINS-6007183.md) | Appeal | allowed | pass |  | no conflict regarding neighbours' living conditions (19 m to boundary, 28 m to No 32; screens and obscure glazing by condition) (DL 20-24, 65) |
 | [74-76 Coombe Road, New Malden](../cases/PINS-6009076.md) | Appeal | dismissed | benefit | substantial | mapped: improvement to character and setting of locally listed church; "substantial weight to compliance with CS Policies CS8 and DM10" (DL 18, 24) |
+| [Land north of Scrubs Farm, Lower Gravel Road, Bromley (padel courts)](../cases/PINS-6012303.md) | Appeal | allowed | accord |  | mapped: DP3 not cited; courts and floodlights seen against the industrial estate and playing-field floodlights; complies with Local Plan Policy 37 (DL 22-23) |
+| [Land to the rear of 137 Station Road, Hesketh Bank (PIP, up to 4 homes)](../cases/PINS-6007730.md) | Appeal | allowed | accord |  | varied plot sizes nearby; not persuaded that up to 4 dwellings could not respond appropriately to context without appearing cramped (DL 10-11) |
 | [Land off Shire Lane, Hurst Green (self-build PIP)](../cases/PINS-6009691.md) | Appeal | dismissed | harm | significant | DP3 "development should respond to its context" cited in the harm; no DP3(3) step (DL 21) |
 | ★ [550 Topsham Road, Exeter (linked annexe)](../cases/PINS-6015017.md) | Appeal | allowed | accord |  | subservient, well-proportioned extension behind a fence; grey painted link breaks up massing; reinforces local distinctiveness (DL 5-9) |
 | ★ [Land to rear of 1A St James Road, Torquay](../cases/PINS-6006957.md) | Appeal | allowed | pass |  | asymmetric pitched roof steps with topography; comparable height to No 1 (DL 8-11) |
+| ★ [Paddock north of Spring Acres, West End Lane, Henfield (PIP, up to 9 self-build homes)](../cases/PINS-6006961.md) | Appeal | dismissed | conflict |  | any built form would urbanise an open, verdant gap and erode views to the countryside, whatever the number of dwellings; DP3(3) not cited (DL 15-19) |
 | ★ [Land adjacent to Parkend Club, Castlemain, Parkend (s73A variation, 3 dwellings)](../cases/PINS-6008171.md) | Appeal | allowed | pass |  | close-boarded boundary fence with new hedge not incongruous on settlement edge (DL 11-13); consistent with Framework chapter 14 |
 | ★ [Flat 1, 9 Chestnut Avenue, Bournemouth](../cases/PINS-6008491.md) | Appeal | allowed | pass |  | lightweight minor addition; roof terraces already visible locally; CS41 consistent with L2 and DP3 (DL 6-8, 19) |
 | [Land adjacent to Farm View Cottage (Frith Manor), Lingfield Road, East Grinstead](../cases/PINS-6008688.md) | Appeal | dismissed | benefit | limited | energy efficiency, M4(3), BNG and design quality unsecured or not exceptional (DL 36) |
@@ -926,12 +999,17 @@ Jump to: [AnnexA](#annexa) · [AnnexB](#annexb) · [AnnexD](#annexd) · [AnnexF]
 | ★ [46 The Beck, Elford, Tamworth (new dwelling in side garden)](../cases/PINS-6009207.md) | Appeal | dismissed | harm |  | cramped detached dwelling fills a side gap that acts as a transition between two house types (DL 6-9) |
 | [Pine Lodge, Chilworth Drove, Chilworth](../cases/PINS-6009745.md) | Appeal | dismissed | fail |  | suburbanising second frontage dwelling and parking; carport/drive in RPA of TPO Lawson Cypress >20% (BS5837) — applied as 2024 Chapter 12 (DL 25-35) |
 | ★ [Banbh Farm, Breinton Common](../cases/PINS-6011206.md) | Appeal | dismissed | fail |  | GPDO siting/design/appearance — isolated large barn in open field sloping to River Wye; stark and visually dominant; planting not reliable screening (DL 8-12); Framework not cited |
+| ★ [Land to the rear of Edoras, Banbury Road, Pillerton Priors](../cases/stratford-26-01894-PIP.md) | Committee | refused | harm |  | members - "substantial harm to the character of Pillerton Priors village"; the notice cites DP3 with no limb and gives no weight word |
+| ★ [Land to the rear of Edoras, Banbury Road, Pillerton Priors](../cases/stratford-26-01894-PIP.md) | Committee | refused | harm | significant | officer view - "In light of NDMP DP3 (2), I afford this harm significant weight" (Report p.12) |
 | [Land off Butts Lane, Tanworth-in-Arden](../cases/stratford-26-00918-PIP.md) | Committee | approved | harm | limited | limited to moderate landscape harm in the Arden Special Landscape Area; conflict with CS.5, CS.9, CS.12 and NDP BE1 |
 | [Land South of Elm Leys, Hunt Hall Lane, Welford-on-Avon](../cases/stratford-26-00772-PIP.md) | Committee | approved | harm | limited | minor, localised landscape harm, contained site, not in a designated landscape or NDP important view |
 | ★ [Land off Beech Lane, Kislingbury (58 dwellings)](../cases/westnorthants-WNS-2022-0673-MAF.md) | Committee | refused | fail | significant | generic suburban layout; terrace of plots 5 to 13 forms a hard urban edge with no transition to countryside |
 | ★ [Site of Old Gas Works, Upper Bristol Road, Lower Weston, Bath (co-living)](../cases/bathnes-25-04961-FUL.md) | Committee | refused | fail |  | members' sole reason — height, scale and massing |
 | ★ [Cales Farm, Broadlands Drive, Malvern (200 dwellings, reserved matters)](../cases/malvern-M-25-01235-RM.md) | Committee | approved | pass |  | update sheet maps old ¶¶131/135 to DP3 with no change to the conclusion |
 | [Home Farm, Land off A423, Southam](../cases/stratford-25-00346-OUT.md) | Committee | approved | harm | moderate | moderate landscape and character harm; conflict with CS.5, CS.9, CS.15, AS.10 "no more than moderate weight" |
+| [Field south of The Slade, Fenny Compton](../cases/stratford-26-01801-FUL.md) | Delegated | approved | harm |  | mapped - the report cites only Part G of the council's Development Requirements SPD; "some design harm as a result of the scale of the proposed extension" (p.12); no weight word |
+| [Ardencroft, Cloweswood Lane, Earlswood](../cases/stratford-26-01614-FUL.md) | Delegated | refused | pass |  | design acceptable; the remodelled house "would not appear incongruous" in a varied street (p.4) |
+| [Land at Windmill Lane, Ladbroke](../cases/stratford-26-01660-OUT.md) | Delegated | approved | harm | significant | "urbanising impact" of 5 "sizable dwellings" on an undeveloped field; contrary to CS.5, CS.9 and DP3 (p.6); weight given on p.12 |
 | [Land at Banbury Road (B4100), Gaydon](../cases/stratford-25-01765-FUL.md) | Delegated | approved | harm | limited | landscape and visual change on an allocated site |
 | ★ [Land at OS 0837 3879, Pennylands Bank, Broadway (1 dwelling PIP)](../cases/wychavon-W-26-01874-PIP.md) | Delegated | refused | fail |  | would increase the dispersal of settlement, contrary to the landscape character guideline to "retain pattern of strongly nucleated villages" |
 | [Land between Clunes and Sundial, Bordon Hill, Stratford-upon-Avon](../cases/stratford-26-01588-PIP.md) | Delegated | approved | harm | moderate | land in St24 parcel of high sensitivity to housing (Landscape Sensitivity Study); site reduced from 0.58 ha to 0.095 ha after a 9-dwelling PIP was refused on 10 Apr 2026 |
@@ -941,10 +1019,22 @@ Jump to: [AnnexA](#annexa) · [AnnexB](#annexb) · [AnnexD](#annexd) · [AnnexF]
 | [Pittern Hill Riding School, Pittern Hill, Kineton](../cases/stratford-26-01764-PIP.md) | Delegated | approved | harm | moderate | landscape sensitivity high/medium (2012 LSA); rising land at the settlement edge; moderate harm |
 | [Land adjoining Coverwell Farm, Pillerton Hersey](../cases/stratford-25-01271-FUL.md) | Delegated | refused | harm | significant | encroachment into Feldon SLA, reduced gap between the two Pillertons |
 
-### DP3(1)  (conflict 34, fail 27, determinative 7, harm 6, pass 4, not-engaged 1, accord 1)
+### DP3(1)  (conflict 45, fail 27, determinative 7, harm 6, pass 4, accord 3, not-engaged 1)
 
 | Case | Maker | Outcome | Finding | Weight | Note |
 | --- | --- | --- | --- | --- | --- |
+| ★ [47 Burma Road, Hackney (rear extension next to a locally listed building)](../cases/PINS-6007927.md) | Appeal | dismissed | conflict |  | double-height and one-and-a-half-storey glazed doors on the rear elevation would be "obtrusive and inharmonious", at odds with the smaller windows along the terrace and visible from two streets (DL 9-12, 15) |
+| ★ [2 Westparkside, Goole (boundary fence)](../cases/PINS-6008497.md) | Appeal | dismissed | conflict | substantial | mapped: the letter cites only the design related decision-making policies of the Framework; tall, solid fence on a prominent corner in a street of low walls and hedges; substantial weight to the harm (DL 5-8, 11) |
+| ★ [Oozedam, High Road, Fobbing (5 dwellings behind the frontage, grey belt)](../cases/PINS-6008679.md) | Appeal | dismissed | conflict | substantial | cul-de-sac deep into the plot harms the linear pattern of this part of Fobbing and suburbanises a rural, verdant setting; "significant harm to the character of the area"; substantial weight to the harm; houses themselves well designed (DL 20-23, 42) |
+| [67 Main Street, Bushby (replacement dwelling in conservation area)](../cases/PINS-6009245.md) | Appeal | dismissed | conflict |  | fails to respond to context; also conflict with the built form and identity principles in DP3(2) (DL 17) |
+| ★ [Monometer House, 128 Rectory Grove, Leigh-on-Sea (storage building on stilts over a car park)](../cases/PINS-6009318.md) | Appeal | dismissed | conflict |  | 4.8 m high building on stilts beside a house, eroding an open gap; "a prominent alien feature" in a residential context with jarring timber cladding; DP3(1) also cited for the harm to the neighbour's outlook (DL 6, 8-10, 15) |
+| [10 West Street, Weston-super-Mare (shop unit merged into the dwelling above)](../cases/PINS-6010305.md) | Appeal | dismissed | conflict |  | letter says "Policy DP3.1"; replacement elevation not of suitably high quality and poorly related to the upper floors (DL 17, 34) |
+| ★ [The Little Boatyard, Lime Street, Brightlingsea (timber cabin for light industrial use)](../cases/PINS-6010933.md) | Appeal | allowed | accord |  | single-storey cabin enclosed by dense vegetation, appropriately designed for light industrial use and in keeping with other commercial structures on Lime Street; accords with DP3(1) and DP3(2) (DL 12-13, 16-17) |
+| ★ [239 Barking Road, East Ham (two studio flats above a car wash waiting area)](../cases/PINS-6011081.md) | Appeal | dismissed | conflict |  | DP3 quoted (respond to context, integrate with and enhance surroundings); two-storey building fills a distinct first-floor break between Barking Road and Aintree Avenue, sits forward of the terrace building line, hipped roof and simplistic fenestration out of keeping (DL 8-12) |
+| ★ [Rear of 2 High Street, Edgware (nine flats above a garage)](../cases/PINS-6012289.md) | Appeal | dismissed | conflict |  | DP3(1) quoted in the balance (DL 36); four-storey flat-roofed block fails to mediate between the varied High Street and two-storey suburban streets behind (DL 11-14); DP3(3) not cited |
+| [Sunny Bank Kitchen Garden, Killington New Bridge, Killington (market garden barn and polytunnels)](../cases/PINS-6013634.md) | Appeal | allowed | accord |  | buildings integrated with their surroundings "in line with Policy DP3" (DL 7) |
+| ★ [Former Hull Grammar School and Community Centre, Cottingham Road, Hull](../cases/PINS-6010376.md) | Appeal | dismissed | conflict |  | flat-roofed first-floor extension, off-centre dormers and render create a top-heavy, discordant building; harm to the building and the immediate area (DL 8-10, 15, 69) |
+| ★ [Thamesfield Retirement Village, Wargrave Road, Remenham](../cases/PINS-6011062.md) | Appeal | dismissed | conflict | substantial | overbearing effect on outlook and loss of privacy for 1 to 5 Remenham Row treated as a failure to respond positively to context (DL 17, 42); substantial weight to the harm (DL 46) |
 | ★ [5 More London Place, Southwark (restaurant pergola and awning)](../cases/PINS-6001859.md) | Appeal | dismissed | conflict |  | 2.8 m solid pergola and tall planters conceal the ground-floor frontage, openings at odds with tall windows, awning sits awkwardly under the overhang; incongruous and longstanding (DL 15-17) |
 | ★ [Land adjacent 837 Manchester Road, Linthwaite](../cases/PINS-6006003.md) | Appeal | dismissed | conflict |  | loss of open gap and trees harms character (DL 17-20, 27) |
 | [Land east of New Road, Melksham](../cases/PINS-6007352.md) | Appeal | dismissed | conflict |  | encroachment into open agricultural land eroding scattered pattern; letter says significant harm at DL 16 and substantial harm at DL 24 (DL 13-16, 24, 29) |
@@ -978,6 +1068,7 @@ Jump to: [AnnexA](#annexa) · [AnnexB](#annexb) · [AnnexD](#annexd) · [AnnexF]
 | ★ [Heather Lodge, 2 Old Acre Lane, Brocton, Stafford](../cases/PINS-6011888.md) | Appeal | dismissed | conflict |  | doubled floor area and much greater height and massing, tight to boundaries, dark vertical cladding; dominant and incongruous among low-lying properties (DL 11-15, 20) |
 | ★ [65A Bedford Road, Reading (rear dormer)](../cases/PINS-6014625.md) | Appeal | dismissed | conflict |  | large, bulky dormer across almost the whole roof, incongruous on a prominent corner; conflict with DP3(1) called "the overriding consideration"; no DP3(3) or clear-justification step (DL 5-8) |
 | ★ [Upper Flat, 23 Ronalds Road, Highbury (extension over outrigger)](../cases/PINS-6005904.md) | Appeal | allowed | conflict | limited | boxy flat-roofed extension above eaves, unbalances the paired outriggers and raises the party parapet; contrary to SPD guidance; harm "limited" because small, at the rear, not visible from public spaces and with some local precedent (DL 7, 11, 13, 19) |
+| ★ [1C Wickenden Road, Sevenoaks (s73, grey roof tiles on approved extensions)](../cases/PINS-6007698.md) | Appeal | dismissed | conflict |  | smooth grey tiles on the extensions would jar with the textured red tiles of the house and its neighbours; brown or red roof tiles are part of the distinctive character recorded in the Residential Character Area Assessment (Character Area C08); fails to respond to context or adhere to a local design standard (DL 9-10, 14) |
 | [The Lamb Inn, Lambs Green, Rusper (coach house, two units)](../cases/PINS-6007772.md) | Appeal | allowed | pass |  | mapped - reads as logical infilling between existing buildings; no wider countryside harm (DL 14-17) |
 | [Land North of A507, West of A10, Buntingford](../cases/PINS-6008238.md) | Appeal | allowed | not-engaged |  | held to govern on-site scale, layout, landscaping and appearance, not effects on landscape character (N2 covers that); in the alternative a DP3(1) conflict would still be outweighed under S5(2) (DL 123-125, 168-169) |
 | [Land East of College Road South, Aston Clinton](../cases/PINS-6008253.md) | Appeal | allowed | conflict | moderate | moderate character harm and limited harm to settlement pattern and setting of Aston Clinton; no coalescence with Aylesbury; harm from the change of use, not design (DL 23, 25, 28-31, 78) |
@@ -1026,10 +1117,12 @@ Jump to: [AnnexA](#annexa) · [AnnexB](#annexb) · [AnnexD](#annexd) · [AnnexF]
 | ★ [979 Tyburn Road, Birmingham](../cases/PINS-6010912.md) | Appeal | allowed | pass |  | "no conflict with Policy DP3 ... which requires development to respond to the context ... while expressly allowing for innovation or change where appropriate" — contemporary lightweight contrast accepted (DL 8-10) |
 | ★ [30 Honeysuckle Gardens, Hatfield](../cases/PINS-6006744.md) | Appeal | dismissed | fail |  | loss of open verdant land in planned layout, fence closer to road than any other: "contrary to ... the relevant provisions of the Framework" — no code cited, no DP3(3) wording; mapped by harvester (DL 5-9) |
 
-### DP3(2)  (fail 3, determinative 1)
+### DP3(2)  (fail 3, conflict 2, determinative 1)
 
 | Case | Maker | Outcome | Finding | Weight | Note |
 | --- | --- | --- | --- | --- | --- |
+| ★ [Monometer House, 128 Rectory Grove, Leigh-on-Sea (storage building on stilts over a car park)](../cases/PINS-6009318.md) | Appeal | dismissed | conflict |  | cited with DP3(1) for visually attractive, distinctive development and a coherent palette of materials (the identity principle) (DL 10) |
+| ★ [Beechwood Shopping Centre, 14 Church Street, Woodlesford (raised seating deck and canopy)](../cases/PINS-6011983.md) | Appeal | dismissed | conflict |  | ramped access too steep and narrow for people using mobility aids, contrary to the Accessible Leeds SPD; letter cites DP3(2) generally and the words "function well over the lifetime of the development", which are in DP3(2)(a) (DL 8-11) |
 | [61 Hawthorn Road, Edmonton, Enfield (HMO)](../cases/PINS-6010207.md) | Appeal | dismissed | fail | significant | communal living room has no external window, daylight only through internal partition windows, poor outlook; fails the "liveability" key principle (DL 6-9) |
 | ★ [Land between 75 and 99 Star Road, Caversham, Reading](../cases/PINS-6007941.md) | Appeal | dismissed | fail |  | ungainly bulk, repetitive terrace, blank flank wall, mean gardens (DL 18-24) |
 | ★ [Land east of Bere Hill, Whitchurch](../cases/PINS-6006893.md) | Appeal | dismissed | fail | substantial | does not respond to context / integrate with surroundings (DL 56) |
@@ -1087,10 +1180,19 @@ Jump to: [AnnexA](#annexa) · [AnnexB](#annexb) · [AnnexD](#annexd) · [AnnexF]
 | [10 Broomfield Ride, Oxshott (side and rear extensions)](../cases/PINS-6012221.md) | Appeal | allowed | pass |  | additions must not unduly harm host building character even from private views; met with materials condition (DL 13-15) |
 | ★ [Land adjacent to 115 Loampit Vale, Lewisham](../cases/PINS-6010822.md) | Appeal | dismissed | determinative |  |  |
 
-### DP3(3)  (fail 73, determinative 12, harm 4, pass 3, conflict 2, not-engaged 1, accord 1)
+### DP3(3)  (fail 83, determinative 12, harm 4, pass 3, not-engaged 2, conflict 2, accord 1)
 
 | Case | Maker | Outcome | Finding | Weight | Note |
 | --- | --- | --- | --- | --- | --- |
+| ★ [47 Burma Road, Hackney (rear extension next to a locally listed building)](../cases/PINS-6007927.md) | Appeal | dismissed | fail |  | DP3 stated as refuse "if, without clear justification, they do not do this"; the claimed benefits could be achieved without causing the harm, so no justification (DL 15-16) |
+| ★ [Oozedam, High Road, Fobbing (5 dwellings behind the frontage, grey belt)](../cases/PINS-6008679.md) | Appeal | dismissed | fail |  | quoted - refuse "if, without clear justification, they conflict with DP3(1)"; no separate finding on justification (DL 45-46) |
+| ★ [67 Main Street, Bushby (replacement dwelling in conservation area)](../cases/PINS-6009245.md) | Appeal | dismissed | fail |  | DP3(3) quoted with its clear-justification qualifier and applied as a refusal policy; no separate finding on justification (DL 17-18) |
+| ★ [Land adjacent to 4 Callis Way, Parkwood, Gillingham (bungalow on amenity open space)](../cases/PINS-6009769.md) | Appeal | dismissed | fail |  | DP3 stated as refuse "if, without clear justification, they do not respond to their context"; tight, congested layout at odds with the open estate; no justification finding made (DL 20-24, 38) |
+| ★ [10 West Street, Weston-super-Mare (shop unit merged into the dwelling above)](../cases/PINS-6010305.md) | Appeal | dismissed | fail |  | letter says "Policy DP3.3"; paraphrased as substantial weight to compliance with development plan design policies and refusal "where they lack clear justification for non-compliance"; conflict with the Shopfront Design Guide SPD "carries weight"; S4(2)(c) not cited (DL 34) |
+| ★ [239 Barking Road, East Ham (two studio flats above a car wash waiting area)](../cases/PINS-6011081.md) | Appeal | dismissed | fail |  | letter says "Framework Policy D3 relating to character and appearance that stipulates permission should be refused in such circumstances"; "fundamental conflict"; no clear-justification question asked; S4(2)(c) not cited (DL 28-29) |
+| [Land at Mushroom Lane, Brigsley (outline, nine dwellings)](../cases/PINS-6009363.md) | Appeal | dismissed | not-engaged |  | character harm found, but with design reserved there is no clear conflict with DP3 that would trigger refusal (DL 12) |
+| ★ [Former Hull Grammar School and Community Centre, Cottingham Road, Hull](../cases/PINS-6010376.md) | Appeal | dismissed | fail |  | conflict "without clear justification (as in this case)"; letter calls it "section (2) of Policy DP3" (DL 69) |
+| ★ [Thamesfield Retirement Village, Wargrave Road, Remenham](../cases/PINS-6011062.md) | Appeal | dismissed | fail |  | letter says "Criterion 3"; the significant benefits were held not to provide clear justification for the living-conditions harm (DL 43-44) |
 | ★ [5 More London Place, Southwark (restaurant pergola and awning)](../cases/PINS-6001859.md) | Appeal | dismissed | fail |  | explicit step - "the scheme lacks clear justification" (DL 24) |
 | ★ [Opposite 67 Sandgate Road, Folkestone (BT Street Hub)](../cases/PINS-6004363.md) | Appeal | dismissed | fail |  | conflicts with DP3(1) (context, heritage integration) and "no clear justifications for the harm" (DL 28) |
 | ★ [Land adjacent 837 Manchester Road, Linthwaite](../cases/PINS-6006003.md) | Appeal | dismissed | fail |  | explicit - "The application does not provide clear justification in this regard" (DL 27, 33) |
@@ -1100,6 +1202,7 @@ Jump to: [AnnexA](#annexa) · [AnnexB](#annexb) · [AnnexD](#annexd) · [AnnexF]
 | ★ [Somerville, Mingoose Vale, Towan Cross, Truro (affordable PIP)](../cases/PINS-6009030.md) | Appeal | dismissed | fail |  | paraphrased omitting the clear-justification qualifier - proposals conflicting with DP3(1) "should be refused"; "highest possible weight"; no clear-justification question asked (DL 27) |
 | ★ [Two Oaks, Whitchurch Road (A49), Spurstow](../cases/PINS-6009407.md) | Appeal | dismissed | fail |  | "Where such conflict would occur without clear justification, the Framework advises that development proposals should be refused"; applied as an S5(2) circumstance (DL 48, 51) |
 | ★ [Land east of Hole House Lane, Tosside (food truck)](../cases/PINS-6009649.md) | Appeal | dismissed | fail |  | cited with "without clear justification" wording; not sensitively located (DL 35); no separate justification finding |
+| ★ [Beechwood Shopping Centre, 14 Church Street, Woodlesford (raised seating deck and canopy)](../cases/PINS-6011983.md) | Appeal | dismissed | fail |  | DP3(3) quoted with the clear-justification qualifier; conflict with DP3(2) found; no justification because access could be improved without significant prejudice to the business (DL 12-13) |
 | ★ [Land to the rear of 21 Roselands Avenue, St Philip's Avenue, Eastbourne](../cases/PINS-6006541.md) | Appeal | dismissed | fail |  | DP3(3) set out with the S4(2)(c) trigger (DL 27-28); clear justification not separately assessed |
 | ★ [1 King Edward Crescent, Newquay (townhouse with roof-space bedroom)](../cases/PINS-6006725.md) | Appeal | dismissed | fail |  | local design policies generally consistent with DP3; failure to comply with these explicit design standards means DP3(3) says refuse; no separate clear-justification finding (DL 24) |
 | [Land adjoining The Ridings, Singleborough](../cases/PINS-6008773.md) | Appeal | dismissed | fail |  | DP3(1) and the refusal direction paraphrased, then applied through the heritage conflict; no express clear-justification finding (DL 29) |
@@ -1125,6 +1228,7 @@ Jump to: [AnnexA](#annexa) · [AnnexB](#annexb) · [AnnexD](#annexd) · [AnnexF]
 | ★ [2 Highbury Grove Court, Islington (basement conversion to two flats)](../cases/PINS-6005590.md) | Appeal | dismissed | fail | significant | no step-free access; conflict with explicit design standards (London Plan D5/D7, SDMP H4); housing (substantial) and affordable contribution (significant) do not amount to clear justification (DL 43-47) |
 | [Upper Flat, 23 Ronalds Road, Highbury (extension over outrigger)](../cases/PINS-6005904.md) | Appeal | allowed | not-engaged |  | DP3(1) conflict found but the refusal limb (DP3(3), clear justification) is never mentioned; the conflict is carried straight into the S4 balance (DL 19-20) |
 | ★ [207 Lower Blandford Road, Broadstone (3 flats to the rear)](../cases/PINS-6007434.md) | Appeal | dismissed | fail |  | conflict with DP3(1) (arrangement of buildings) and DP3(2) liveability, and with plan design standards; DP3(3) quoted but clear justification not separately assessed (DL 33) |
+| ★ [1C Wickenden Road, Sevenoaks (s73, grey roof tiles on approved extensions)](../cases/PINS-6007698.md) | Appeal | dismissed | fail |  | DP3(3) treated as a national policy stating that proposals should be refused; sporadic grey roofs elsewhere "do not provide justification"; the clear-justification wording is not quoted (DL 11, 14) |
 | ★ [Land East of College Road South, Aston Clinton](../cases/PINS-6008253.md) | Appeal | allowed | pass |  | explicit - "the substantial benefits are sufficient to provide clear justification for the conflict with Policy DP3" (benefits reading) (DL 86) |
 | ★ [79 Main Street, Seamer (planning appeal)](../cases/PINS-6009092.md) | Appeal | dismissed | fail |  | DP3(1) context conflict cited with the refusal direction (fn 10 cites DP3(1) and DP3(3)); no separate clear-justification sentence (DL 41-42) |
 | ★ [3 Old Glass House, Kents Lane, North Weald Bassett](../cases/PINS-6009621.md) | Appeal | dismissed | fail |  | DP3 treated as a should-be-refused policy under S5(2); clear justification not separately reasoned (DL 39-41) |
@@ -1232,19 +1336,31 @@ Jump to: [AnnexA](#annexa) · [AnnexB](#annexb) · [AnnexD](#annexd) · [AnnexF]
 
 ## E2
 
-### E2  (benefit 25, harm 3, neutral 2, determinative 2, conflict 2, pass 1, accord 1)
+### E2  (benefit 36, harm 3, neutral 2, determinative 2, conflict 2, pass 1, not-engaged 1, accord 1)
 
 | Case | Maker | Outcome | Finding | Weight | Note |
 | --- | --- | --- | --- | --- | --- |
+| [Cornish Marquees, Higher Trevellas, St Agnes (PIP, two dwellings)](../cases/PINS-6008432.md) | Appeal | dismissed | benefit |  | mapped: construction jobs, support for the marquee business and local spending; "modest weight" (DL 29) |
+| [Monometer House, 128 Rectory Grove, Leigh-on-Sea (storage building on stilts over a car park)](../cases/PINS-6009318.md) | Appeal | dismissed | benefit | substantial | on-site document storage helps an existing business operate efficiently and could support expansion and jobs; E2 substantial weight (DL 16) |
+| ★ [The Little Boatyard, Lime Street, Brightlingsea (timber cabin for light industrial use)](../cases/PINS-6010933.md) | Appeal | allowed | benefit | substantial | complementary function assisting the efficient operation of an existing business; E2 substantial weight to economic benefits of commercial development that lets businesses invest, expand or adapt (DL 30) |
+| [14-16 Hendon Rise, Nottingham (two vehicle repair and sales units)](../cases/PINS-6011302.md) | Appeal | dismissed | benefit | limited | jobs and investment from the subdivision accord with E2, but "given the modest size of the units, a small amount of weight is attached" (DL 21) |
+| [Pavement outside Waterfront House, 35 Station Street, Nottingham (communications kiosk)](../cases/PINS-6002400.md) | Appeal | dismissed | benefit | limited | substantial weight for business growth under E2 limited by the scale of the development (DL 27) |
 | [Former National Grid Site, Marsh Lane, Stanmore (Aldi)](../cases/PINS-6005822.md) | Appeal | dismissed | pass |  | no overriding need for industrial use; 40 jobs; complies with LP E4 and LE3 (DL 69-81) |
 | [Land east of Hole House Lane, Tosside (food truck)](../cases/PINS-6009649.md) | Appeal | dismissed | benefit |  | substantial weight principle noted; economic benefits limited by small scale (DL 33) |
+| [Balne Moor Coarse Fishery, Balne Moor Road, Balne (manager's dwelling)](../cases/PINS-6010112.md) | Appeal | dismissed | not-engaged |  | E2 and E4 concern commercial and rural business development, not a dwelling; economic benefits markedly reduced (DL 32) |
+| [2 Rookwood Avenue, Leeds (dwelling to short-term let)](../cases/PINS-6011827.md) | Appeal | dismissed | benefit | substantial | mapped: E2 not named; economic benefits of the business use given substantial weight "with regard to the support for business activity" (DL 12) |
+| [Beechwood Shopping Centre, 14 Church Street, Woodlesford (raised seating deck and canopy)](../cases/PINS-6011983.md) | Appeal | dismissed | benefit | substantial | E2(1)(a) economic benefits of commercial development allowing a business to invest, expand or adapt; more outdoor hospitality floorspace (DL 12) |
 | [Floringham Lodge, Old Bracknell Lane East, Bracknell (46 retirement flats)](../cases/PINS-6009377.md) | Appeal | allowed | benefit | moderate | mapped - construction jobs and apprenticeships; letter links them to "L2 and S4" (DL 75-76) |
+| [Land west of 103 Tonbridge Road, Hildenborough (PIP, 5 to 7 homes)](../cases/PINS-6010459.md) | Appeal | allowed | benefit | moderate | mapped: E2 not cited; construction and occupier spending (DL 19, 29) |
 | [37 Eastern Esplanade, Southend-on-Sea (shopfront)](../cases/PINS-6004873.md) | Appeal | dismissed | benefit |  | E2/TC2 substantial weight quoted, but benefits "would be modest" (DL 26-27) |
+| [454-456 Blackpool Road, Preston (3 retail units and 6 flats on a corner plot)](../cases/PINS-6006018.md) | Appeal | dismissed | benefit | substantial | economic benefits of commercial development, town-centre vitality and better use of vacant land said to carry substantial weight under the Framework, but small in amount here; no policy code given (DL 19) |
 | [Land at Brock, Garstang Road (A6), Bilsborrow](../cases/PINS-6007133.md) | Appeal | dismissed | benefit | substantial | E2(1)(a) substantial weight; c.94 net local jobs and 6.6m GVA pa (overstated as it assumed office use); 49 construction jobs pa (DL 52-54) |
 | [Eden Grove, 15-51 London Road, Staines-upon-Thames (parking conditions, Appeal B)](../cases/PINS-6007620.md) | Appeal | allowed | benefit |  | mapped - reallocating 35 spaces to vacant commercial units could create jobs; no weight word (DL 36) |
 | [74-76 Coombe Road, New Malden](../cases/PINS-6009076.md) | Appeal | dismissed | benefit |  | "only modest weight" - demand evidence does not support the commercial unit, so E2 substantial weight not attracted (DL 22) |
 | [3 Nursery, Hoe Lane, Nazeing (vehicle storage)](../cases/PINS-6010709.md) | Appeal | dismissed | benefit | substantial | 34 jobs; substantial weight to economic benefits noted, but location benefit limited (DL 27-29, 35) |
 | [Contec House, East Street, Farnham (takeaway opening hours)](../cases/PINS-6005594.md) | Appeal | dismissed | benefit | substantial | E2(1) substantial weight to allowing the business to invest, expand or adapt (DL 21); no evidence jobs at risk (DL 13) |
+| [Land at Backworth Business Park, Eccleston Close, Backworth (37 homes on a local wildlife site)](../cases/PINS-6006322.md) | Appeal | allowed | benefit | moderate | mapped: E2 not cited; construction, council tax and occupier spending, unquantified (DL 28, 34) |
+| [Paddock north of Spring Acres, West End Lane, Henfield (PIP, up to 9 self-build homes)](../cases/PINS-6006961.md) | Appeal | dismissed | benefit | moderate | mapped: E2 not cited; economic benefits during construction and after occupation (DL 34) |
 | [70 London Road, Grays](../cases/PINS-6010223.md) | Appeal | dismissed | benefit | limited | substantial weight in principle but no evidence the business needs the hours; small scale (DL 15) |
 | ★ [25 Elms Avenue, Eastbourne (guest house to HMO)](../cases/PINS-6010944.md) | Appeal | dismissed | harm |  | loss of tourist accommodation harms Eastbourne's tourism economy; HO14 bars HMOs in the Tourist Accommodation Area (DL 10, 16) |
 | [Higher Collybeer Farm, Spreyton (B8 storage units)](../cases/PINS-6014952.md) | Appeal | allowed | neutral | limited | council's E2 unmet-demand objection given limited weight; S5 does not require a separate demonstration of unmet demand here (DL 11) |
@@ -1289,6 +1405,12 @@ Jump to: [AnnexA](#annexa) · [AnnexB](#annexb) · [AnnexD](#annexd) · [AnnexF]
 | ★ [Former Gas Holder Site, Cranbourne Road, Gosport (open storage)](../cases/PINS-6011101.md) | Appeal | dismissed | benefit | substantial | substantial weight given even though the speculative benefits are hard to quantify (DL 18) |
 | [Chelmer House, Braintree Road, Great Dunmow (home wellbeing studio)](../cases/PINS-6005461.md) | Appeal | dismissed | benefit | limited | substantial weight available in principle but 'limited information to assess the proposal's economic benefits' (DL 25, 27) |
 
+### E2(1)(b)  (benefit 1)
+
+| Case | Maker | Outcome | Finding | Weight | Note |
+| --- | --- | --- | --- | --- | --- |
+| [Land west of Underlane, Carnkie, Wendron (mushroom growing building)](../cases/PINS-6008292.md) | Appeal | dismissed | benefit | substantial | letter cites E2 and E4 for substantial weight to domestic food production; benefits nonetheless "likely to be modest" for want of evidence of their breadth and given the scale (DL 22-24) |
+
 ### E2(1)(b),E4  (not-engaged 1)
 
 | Case | Maker | Outcome | Finding | Weight | Note |
@@ -1313,10 +1435,11 @@ Jump to: [AnnexA](#annexa) · [AnnexB](#annexb) · [AnnexD](#annexd) · [AnnexF]
 
 ## E4
 
-### E4  (benefit 11, conflict 3, fail 3, neutral 2, pass 2, accord 1, harm 1, determinative 1)
+### E4  (benefit 11, conflict 3, fail 3, accord 2, neutral 2, pass 2, harm 1, determinative 1)
 
 | Case | Maker | Outcome | Finding | Weight | Note |
 | --- | --- | --- | --- | --- | --- |
+| ★ [Lower Fawke Farm, Bitchet Green Road, Fawke Common, Underriver](../cases/PINS-6004899.md) | Appeal | allowed | accord | significant | conversion of existing buildings for rural business; district need for storage; farm diversification (DL 18, 32) |
 | [Land east of Hole House Lane, Tosside (food truck)](../cases/PINS-6009649.md) | Appeal | dismissed | benefit |  | farm diversification supported, but E4 also requires siting appropriate to character (DL 33) |
 | [Land north of Claypole Equestrian, Doddington Lane, Claypole](../cases/PINS-6008915.md) | Appeal | dismissed | benefit | moderate | mapped: diversification of a land-based rural business, moderate weight (DL 5, 10) |
 | [The Firs Country Park, West End Road, Boston (workshop to holiday let)](../cases/PINS-6010342.md) | Appeal | allowed | benefit |  | mapped: more holiday accommodation choice and support for local tourism economy "supported by the Framework" (DL 19) |
@@ -1347,6 +1470,19 @@ Jump to: [AnnexA](#annexa) · [AnnexB](#annexb) · [AnnexD](#annexd) · [AnnexF]
 | Case | Maker | Outcome | Finding | Weight | Note |
 | --- | --- | --- | --- | --- | --- |
 | [Overs Farm, Haughton, Tasley, Bridgnorth (wigwam cabins)](../cases/PINS-6008804.md) | Appeal | dismissed | benefit |  | supports diversification of land-based businesses and rural tourism (DL 17) |
+
+### E4(1)(c)  (benefit 1)
+
+| Case | Maker | Outcome | Finding | Weight | Note |
+| --- | --- | --- | --- | --- | --- |
+| [Thurlestone Golf Club, Thurlestone (hospitality trailer beside the coast path)](../cases/PINS-6008892.md) | Appeal | dismissed | benefit | moderate | letter cites S5, E2 and E4 together; tourism, recreational and economic benefits limited by small scale and seasonal use (DL 14, 16) |
+
+### E4(1)(d)  (benefit 1, accord 1)
+
+| Case | Maker | Outcome | Finding | Weight | Note |
+| --- | --- | --- | --- | --- | --- |
+| ★ [Sunny Bank Kitchen Garden, Killington New Bridge, Killington (market garden barn and polytunnels)](../cases/PINS-6013634.md) | Appeal | allowed | benefit |  | farm viability and domestic food production, with specific reference to polytunnels; broad support for rural business favours the scheme (DL 16-17) |
+| ★ [Bridge Farm, Birmingham Road, Kings Coughton](../cases/stratford-26-01447-FUL.md) | Delegated | approved | accord |  | farm shops named in the policy; the report writes "NDMP E4 part (d)" (p.3) |
 
 ### E4(2)  (fail 2, conflict 1, pass 1)
 
@@ -1427,10 +1563,12 @@ Jump to: [AnnexA](#annexa) · [AnnexB](#annexb) · [AnnexD](#annexd) · [AnnexF]
 
 ## F5
 
-### F5  (fail 13, pass 3, not-engaged 3, neutral 1, accord 1)
+### F5  (fail 14, pass 4, not-engaged 3, neutral 1, accord 1)
 
 | Case | Maker | Outcome | Finding | Weight | Note |
 | --- | --- | --- | --- | --- | --- |
+| [Land at Dunvilles Farm, Bollington Lane, Monks Heath (PIP, 5 dwellings, grey belt)](../cases/PINS-6010578.md) | Appeal | allowed | pass |  | Flood Zone 1 with medium surface water risk in one corner; F5(2)(b)(i) and (ii) cited; no evidence that 5 dwellings could not avoid the affected area; flood risk assessment left to technical details (DL 28-31) |
+| ★ [Land north of the Bower House, Clatterbury Lane, Clavering](../cases/PINS-6010951.md) | Appeal | dismissed | fail | substantial | no sequential test; F5(2)(b)(i) exemption not met because the access and escape route is in Flood Zones 2 and 3, although the dwelling is in Flood Zone 1; (2)(a), (2)(b)(ii) and (2)(c) not applicable (DL 7-8, 13, 15, 28) |
 | ★ [Valera Ltd, Plox Brow, Tarleton](../cases/PINS-6004952.md) | Appeal | dismissed | fail | significant | part of access in Flood Zone 2 and newer modelling shows wider risk, so the F5 exception (no built development incl. access/escape in risk area) not met; no sequential test (DL 7-10); adverse effect significant weight (DL 23) |
 | ★ [Land at Tuttle Farm, Lock Road, North Cotes](../cases/PINS-6009106.md) | Appeal | dismissed | fail | substantial | sequential test statement only "broad assertions"; search area confined to North Cotes and nearby settlements without justification (DL 12-14, 17) |
 | [Land at Brock, Garstang Road (A6), Bilsborrow](../cases/PINS-6007133.md) | Appeal | dismissed | pass |  | sequential test passed, no exception test needed (DL 49) |
@@ -1488,10 +1626,12 @@ Jump to: [AnnexA](#annexa) · [AnnexB](#annexb) · [AnnexD](#annexd) · [AnnexF]
 
 ## F7
 
-### F7  (fail 13, pass 3, determinative 2, neutral 1, accord 1)
+### F7  (fail 14, pass 3, neutral 2, determinative 2, accord 1)
 
 | Case | Maker | Outcome | Finding | Weight | Note |
 | --- | --- | --- | --- | --- | --- |
+| [Rear of 2 High Street, Edgware (nine flats above a garage)](../cases/PINS-6012289.md) | Appeal | dismissed | neutral |  | mapped: surface water flood risk; flats above ground floor; flood risk assessment and drainage strategy first submitted at appeal and not scrutinised, so moderate weight to that evidence; not determinative (DL 19-25) |
+| ★ [Land north of the Bower House, Clatterbury Lane, Clavering](../cases/PINS-6010951.md) | Appeal | dismissed | fail |  | flood depth of about 682 mm across the access in the 1 in 100 plus 35% event; safe access and escape not demonstrated; letter cites "Policies F4 to F7" together (DL 11-12, 15) |
 | [Valera Ltd, Plox Brow, Tarleton](../cases/PINS-6004952.md) | Appeal | dismissed | neutral |  | FRADS mitigation goes to whether development could be made safe, not to the sequential test (DL 10) |
 | [Stratton House Hotel, Stratton, Cirencester (LBC)](../cases/PINS-6009635.md) | Appeal | allowed | fail |  | appeal A only - FRA lacks ground levels, finished floor levels and modelled flood level; site in Flood Zones 2 and 3a (DL 11-22) |
 | ★ [Former Revolution Bar, Maxwell Road, Beaconsfield](../cases/PINS-6007582.md) | Appeal | dismissed | fail |  | exceedance flows routed to The Hollies' private drainage with no evidence of capacity or third-party agreement; condition not reasonable; F7 treated as a should-be-refused policy (DL 14-17, 46) |
@@ -1513,7 +1653,7 @@ Jump to: [AnnexA](#annexa) · [AnnexB](#annexb) · [AnnexD](#annexd) · [AnnexF]
 | [Titchmarsh Marina, Coles Lane, Walton-on-the-Naze (replacement workshop, Flood Zone 3)](../cases/PINS-6006959.md) | Appeal | dismissed | fail |  | 'I cannot be satisfied that the proposal and its intended users would be safe from flooding' (DL 8) |
 | ★ [30 Hadrians Walk, Alcester](../cases/stratford-26-01376-FUL.md) | Delegated | refused | fail | substantial | dwellings placed in FZ2/3 when parts of the site are FZ1 (F7(2)(a)); safe access, resilience and off-site risk requirements not met; ground-level changes would worsen flood risk for the host property |
 
-### F7(2)  (fail 3, pass 1)
+### F7(2)  (fail 3, pass 2)
 
 | Case | Maker | Outcome | Finding | Weight | Note |
 | --- | --- | --- | --- | --- | --- |
@@ -1521,6 +1661,7 @@ Jump to: [AnnexA](#annexa) · [AnnexB](#annexb) · [AnnexD](#annexd) · [AnnexF]
 | [The Firs Country Park, West End Road, Boston (workshop to holiday let)](../cases/PINS-6010342.md) | Appeal | allowed | pass |  | mapped: Flood Zone 3, future hazard "Danger to All"/"Danger to Most", breach depths 0.5-1.6 m; floor levels cannot be raised; EA accepts no occupation 1 Nov-14 Mar plus resilience and an evacuation plan, all conditioned; F5/F7 not named and no sequential test discussed (DL 23-24, conditions 4-6) |
 | ★ [2 North Field, Newby Bridge, Windermere (boathouse)](../cases/PINS-6010157.md) | Appeal | dismissed | fail | substantial | Flood Zones 2 and 3, within 20 m of main river; basic FRA; Environment Agency not satisfied (incl. climate change allowance); not conditionable (DL 25-31, 34) |
 | ★ [Site I, The Mill, Catteshall Road, Godalming](../cases/PINS-6006517.md) | Appeal | dismissed | fail |  | no level-for-level compensatory flood storage (compensation measured against office fallback) and bank reclamation may lose storage — increases flood risk elsewhere; F7(2) directs refusal (DL 29-31, 48, 50) |
+| [The Hill, Warwick Road, Stratford-upon-Avon](../cases/stratford-26-01141-FUL.md) | Delegated | approved | pass |  | the access from Warwick Road and part of the drive are in Flood Zones 2 and 3; flood risk assessment and Flood Evacuation Plan accepted (p.11); sequential test (F5) not applied |
 
 ## F8
 
@@ -1538,6 +1679,12 @@ Jump to: [AnnexA](#annexa) · [AnnexB](#annexb) · [AnnexD](#annexd) · [AnnexF]
 | ★ [Vyners Estate, Mill Lane, Tidmarsh](../cases/PINS-6009718.md) | Appeal | dismissed | fail |  | no drainage strategy; viability of any solution unknown (DL 34-38) |
 | [Compounds A, A1 and A4, Youngs Industrial Estate, Aldermaston](../cases/PINS-6009448.md) | Appeal | allowed | fail |  | SuDS condition retained — no evidence on drainage or pollutant control for plant/material storage (DL 7-15), under SP6 |
 | ★ [Norbryght, Tilburstow Hill Road, South Godstone](../cases/PINS-6004344.md) | Appeal | dismissed | fail |  | surface water flood risk area; no drainage evidence (DL 27-28) |
+
+### F8(3)  (pass 1)
+
+| Case | Maker | Outcome | Finding | Weight | Note |
+| --- | --- | --- | --- | --- | --- |
+| ★ [Land east of Halfpenny Lane, Wisbech (352 dwellings, hybrid)](../cases/PINS-6002677.md) | Appeal | allowed | pass |  | enclosing a watercourse needs "compelling reasons"; found in the allocation and the lack of another suitable access (DL 21-22) |
 
 ## F9
 
@@ -1603,11 +1750,13 @@ Jump to: [AnnexA](#annexa) · [AnnexB](#annexb) · [AnnexD](#annexd) · [AnnexF]
 | ★ [Land north of Helm Lane, Mill Bank, Sowerby Bridge (rural worker dwelling)](../cases/PINS-6008062.md) | Appeal | dismissed | fail | substantial | temporary rural worker dwelling falls within none of the GB7 exceptions → inappropriate (DL 5-6) |
 | ★ [Tacna, Broad Lane, Tanworth-in-Arden](../cases/stratford-26-01310-FUL.md) | Delegated | refused | determinative |  |  |
 
-### GB6(2)  (harm 46, fail 21, not-engaged 10, pass 9)
+### GB6(2)  (harm 49, fail 23, not-engaged 11, pass 10)
 
 | Case | Maker | Outcome | Finding | Weight | Note |
 | --- | --- | --- | --- | --- | --- |
 | ★ [Morgan and Morecambe Offshore Wind Farms Transmission Assets (DCO)](../cases/SOS-EN020032.md) | SoS | approved | harm | substantial | two onshore substations are inappropriate development causing significant harm to openness and undermining purposes (a) and (c); assessed under 2024 NPPF paras 153/160 and NPS EN-1 5.11.37 (DL 4.111-4.113, 7.12, 7.14) |
+| ★ [Lot B2a, Upper Bourne End Lane, Hemel Hempstead (outdoor wellbeing use and office unit)](../cases/PINS-6011489.md) | Appeal | dismissed | harm | substantial | inappropriate; openness harm from a large glazed office building on undeveloped land; VSC not shown (DL 8-9, 16-18) |
+| ★ [55 Boundary Lane, St Leonards and St Ives (static caravan as rental home)](../cases/PINS-6012115.md) | Appeal | dismissed | harm | substantial | inappropriate; moderate spatial and moderate visual openness harm from a semi-permanent caravan, independent access, comings and goings and domestic paraphernalia; VSC not shown (DL 16-18, 24-25) |
 | ★ [Disley Meadow, Lower Greenshall Lane, Disley](../cases/PINS-6010213.md) | Appeal | dismissed | fail | substantial | inappropriate; limited, localised spatial and visual loss of openness; VSC not shown (DL 21-23, 33-34) |
 | ★ [Upper Farm, Shut Lane Head, Newcastle-under-Lyme](../cases/PINS-6007668.md) | Appeal | dismissed | fail | substantial | inappropriate; footprint about three times the ruined brick building; significant loss of spatial and visual openness; encroachment (DL 28-30, 45-48) |
 | ★ [Ewen House, High Road, Fobbing (pool and annexe)](../cases/PINS-6009919.md) | Appeal | dismissed | fail | substantial | inappropriate; significant loss of spatial openness, moderate visual; VSC not shown (DL 24-28, 46) |
@@ -1615,6 +1764,9 @@ Jump to: [AnnexA](#annexa) · [AnnexB](#annexb) · [AnnexD](#annexd) · [AnnexF]
 | ★ [Land near Fanshawes, Ware Park, Ware](../cases/PINS-6006224.md) | Appeal | dismissed | fail | substantial | inappropriate development plus spatial and visual loss of openness; VSC not shown (DL 21, 33) |
 | ★ [Land adjacent Langley Cricket Club, Cock Hall Lane, Langley, Macclesfield (PIP one dwelling)](../cases/PINS-6010253.md) | Appeal | dismissed | fail | substantial | inappropriate; significant openness harm from building on an open field; benefits significant but VSC not shown (DL 25-26, 29, 35) |
 | ★ [3 Nursery, Hoe Lane, Nazeing (vehicle storage)](../cases/PINS-6010709.md) | Appeal | dismissed | fail | substantial | inappropriate; moderate visual and spatial openness harm; benefits substantial overall but VSC not shown (DL 25, 34-35) |
+| ★ [Maisie Cottage, Bottrells Lane, Chalfont St Giles (stable to dwelling)](../cases/PINS-6011889.md) | Appeal | dismissed | harm | substantial | inappropriate development; domestic paraphernalia and parking would fail to preserve openness in spatial and visual terms; a 2024 inspector had called the effect of a similar curtilage limited but harmful (DL 8-12, 22-23) |
+| ★ [Maisie Cottage, Bottrells Lane, Chalfont St Giles (stable to dwelling)](../cases/PINS-6011889.md) | Appeal | dismissed | fail |  | very special circumstances do not exist; one dwelling and biodiversity gain do not clearly outweigh the harm (DL 23) |
+| [Land north of Scrubs Farm, Lower Gravel Road, Bromley (padel courts)](../cases/PINS-6012303.md) | Appeal | allowed | not-engaged |  | not inappropriate, so very special circumstances not considered (DL 21) |
 | ★ [Land north of Bottomdale Road, Halton](../cases/APP-A2335-C-26-3378663.md) | Appeal | dismissed | harm | substantial | visual and some spatial openness harm from caravans and earthworks; no VSC (DL 32-36) |
 | ★ [Land off Oakdene Crescent, Hatton Station, Warwick](../cases/PINS-6006637.md) | Appeal | dismissed | harm | substantial | inappropriate; distinct spatial loss of openness on an undeveloped 1.17 ha site (DL 55) |
 | ★ [Land adjacent to Farm View Cottage (Frith Manor), Lingfield Road, East Grinstead](../cases/PINS-6008688.md) | Appeal | dismissed | harm | substantial | inappropriate development plus "significant" harm to spatial and visual openness (DL 19-26) |
@@ -1686,6 +1838,8 @@ Jump to: [AnnexA](#annexa) · [AnnexB](#annexb) · [AnnexD](#annexd) · [AnnexF]
 | ★ [Land south of Woolshots Farm, London Road, Wickford/Billericay](../cases/basildon-25-01188-OUT.md) | Committee | refused | fail | substantial | officers found VSC (acute need, 50% AH, BNG well above 10%); members did not |
 | ★ [Land south of London Road, Crays Hill, Billericay](../cases/basildon-25-01190-OUT.md) | Committee | refused | fail | substantial | officers found VSC (1.96/2.05-year supply, 28 affordable, bus enhancements, speed limit reduction, c.£320k contributions); members did not |
 | ★ [Land of the former Knowle House, Sagars Road, Handforth (care home)](../cases/cheshireeast-25-2053-FUL.md) | Committee | approved | pass | substantial | VSC found — grey belt status, enclosed PDL site, specialist housing need (significant weight), employment |
+| ★ [Bridge Farm, Birmingham Road, Kings Coughton](../cases/stratford-26-01447-FUL.md) | Delegated | approved | pass | substantial | inappropriate; very special circumstances accepted - the holding is the only lawful place for the farm to sell eggs direct to consumers, and the shop brings about 20% of farm income (p.6); the conclusion says the need "would outweigh the harm", without the word "clearly" |
+| ★ [Ardencroft, Cloweswood Lane, Earlswood](../cases/stratford-26-01614-FUL.md) | Delegated | refused | fail | substantial | inappropriate; "some moderate harm to the openness" (p.4); fallback and design benefits "not considered sufficient to clearly outweigh the harm" (p.9) |
 | ★ [Fanday, Brandheath Lane, New End, Astwood Bank (1-5 dwellings PIP)](../cases/wychavon-W-26-01639-PIP.md) | Delegated | refused | fail | substantial | inappropriate development; material harm to openness; very special circumstances not shown |
 | ★ [88 Houndsfield Lane, Hollywood (replacement self-build dwelling)](../cases/bromsgrove-26-00434-FUL.md) | Delegated | approved | pass | substantial | very special circumstances from a larger-home extension prior approval fallback (25/00890/HHPRIO), under which the dwelling plus extension would be larger than the proposal, together with a child's medical needs (Article 8 and UNCRC art 3) |
 | ★ [Tacna, Broad Lane, Tanworth-in-Arden](../cases/stratford-26-01310-FUL.md) | Delegated | refused | fail | substantial | inappropriate development; spatial and visual harm to openness; no very special circumstances |
@@ -1696,17 +1850,18 @@ Jump to: [AnnexA](#annexa) · [AnnexB](#annexb) · [AnnexD](#annexd) · [AnnexF]
 
 ## GB7
 
-### GB7  (pass 3, fail 2)
+### GB7  (pass 4, fail 2)
 
 | Case | Maker | Outcome | Finding | Weight | Note |
 | --- | --- | --- | --- | --- | --- |
+| [Lower Fawke Farm, Bitchet Green Road, Fawke Common, Underriver](../cases/PINS-6004899.md) | Appeal | allowed | pass |  | not inappropriate, agreed between the parties; the letter gives no limb, saying the change of use "would not cause substantial harm to the openness" (DL 24) |
 | [Land north of Willies Well, Crawcrook, Ryton (shepherd's hut)](../cases/PINS-6008659.md) | Appeal | dismissed | fail |  | agreed no GB7 exception applies; GB7 list "broadly consistent" with the previous Framework (DL 5-6) |
 | [126 Toms Lane, Kings Langley](../cases/PINS-6011803.md) | Appeal | dismissed | pass |  | parties agreed not inappropriate; limb not specified (DL 4) |
 | [The Chequers PH, Matching Green](../cases/PINS-6008532.md) | Appeal | allowed | pass |  | agreed not inappropriate (DL 5) |
 | [Grove House, Town Lane, Mobberley](../cases/PINS-6006027.md) | Appeal | dismissed | pass |  | not disproportionate; not inappropriate (common ground) (DL 5) |
 | ★ [Forge Farm, Nunhold Road, Shrewley (permanent rural worker's dwelling, outline)](../cases/warwick-W-26-0134.md) | Delegated | approved | fail |  | a new dwelling is not a GB7 exception; "well established in appeal decisions that … essential rural workers dwellings should be considered as inappropriate development" |
 
-### GB7(1)(a)  (pass 5, fail 3, not-engaged 1)
+### GB7(1)(a)  (pass 5, fail 4, not-engaged 1)
 
 | Case | Maker | Outcome | Finding | Weight | Note |
 | --- | --- | --- | --- | --- | --- |
@@ -1719,12 +1874,16 @@ Jump to: [AnnexA](#annexa) · [AnnexB](#annexb) · [AnnexD](#annexd) · [AnnexF]
 | ★ [The Ferns, 6 Broc Hill Way, Brocton](../cases/PINS-6010165.md) | Appeal | dismissed | fail |  | equipment store for maintaining private land, not agriculture/horticulture/forestry or nature conservation (DL 8) |
 | ★ [Raja Farm, Whalley Old Road, Langho](../cases/APP-T2350-C-25-3374492.md) | Appeal | dismissed | fail |  | agricultural use not shown — no livestock, no feed, domestic garden furniture/tools, half the building given to seating; "maintenance of land is not a land use" (DL 16-20) |
 | ★ [Great Meadow Barn, Copes Farm, Great Kingshill (agricultural store)](../cases/PINS-6007287.md) | Appeal | dismissed | pass |  | 2.35 ha meadow is agriculture (s336); machinery storage building commensurate with holding; no agricultural appraisal needed; agricultural-use condition (DL 6-11) |
+| [Bridge Farm, Birmingham Road, Kings Coughton](../cases/stratford-26-01447-FUL.md) | Delegated | approved | fail |  | the shop supports a farm business but "the development itself is a retail shop, namely a farm shop which is not agricultural in use" (p.5) |
 
-### GB7(1)(b)  (fail 37, pass 13, not-engaged 2)
+### GB7(1)(b)  (fail 39, pass 14, not-engaged 3)
 
 | Case | Maker | Outcome | Finding | Weight | Note |
 | --- | --- | --- | --- | --- | --- |
+| [Canons, Hobbs Cross Road, Matching (replacement dwelling, Green Belt)](../cases/PINS-6010746.md) | Appeal | dismissed | fail |  | footprint 38.8% larger and floorspace 479 sq m, an increase of 141.9% (Council's undisputed figures); substantial width and depth; "materially larger than the one it would replace" (DL 6-8) |
+| [Milan Villa, Hyde Wood Lane, Canewdon (replacement dwelling)](../cases/PINS-6008122.md) | Appeal | dismissed | not-engaged |  | Council said the proposal fell outside (b); the appellant relied on (e) instead; no finding made on (b) (DL 15) |
 | [8 Shepherd House, Shepherd House Farm, Luddenden (extension to listed farmhouse, Appeal A)](../cases/PINS-6011008.md) | Appeal | dismissed | pass |  | letter cites "GB7 1) a." for extensions; about 25% increase after conservatory removal; OS maps of 1933 and 1949 and a photo show the original building was larger; not disproportionate (DL 25-27) |
+| [Maisie Cottage, Bottrells Lane, Chalfont St Giles (stable to dwelling)](../cases/PINS-6011889.md) | Appeal | dismissed | pass |  | conversion and extension of the stable agreed to fall within the exception; inspector saw no reason to differ (DL 5) |
 | [Rusper, Nottingham Road, Heronsgate](../cases/PINS-6010198.md) | Appeal | allowed | fail |  | replacement well exceeds the size of the original/existing and is materially larger (DL 10) |
 | ★ [Pentire, The Avenue, Worplesdon](../cases/PINS-6009962.md) | Appeal | dismissed | fail |  | bungalow to two storeys plus triple garage; floorspace uplift 56% (appellant) to 75% (Council); bulk and massing make it unrecognisable; disproportionate (DL 12-15) |
 | ★ [Knightswood Cottage, Prince Albert Drive, Ascot](../cases/PINS-6010236.md) | Appeal | dismissed | fail |  | original 361 m³, existing 793 m³, proposed 888 m³ → c.145% cumulative increase vs LP guide of 40% → disproportionate (DL 5-8) |
@@ -1772,12 +1931,13 @@ Jump to: [AnnexA](#annexa) · [AnnexB](#annexb) · [AnnexD](#annexd) · [AnnexF]
 | [Grove House, Town Lane, Mobberley (planning appeal)](../cases/PINS-6006023.md) | Appeal | dismissed | pass |  | Council accepted no disproportionate increase over the original building; not inappropriate; inspector agrees (DL 5) |
 | ★ [203 Almners Road, Lyne](../cases/PINS-6008286.md) | Appeal | dismissed | fail |  | decided under 2024 NPPF para 154(c) (= GB7(1)(b)); c.70% floor-area increase on modest 1960s semi → disproportionate (DL 3-9) |
 | [Giles House Farm, Bromsgrove Road, Stourbridge](../cases/PINS-6010859.md) | Appeal | allowed | not-engaged |  | new outbuilding, not within the exceptions; inappropriateness conceded by appellant (DL 4-5) |
+| ★ [Ardencroft, Cloweswood Lane, Earlswood](../cases/stratford-26-01614-FUL.md) | Delegated | refused | fail |  | original dwelling about 374 m3, proposed about 970 m3, an increase of about 596 m3 or 159%; "clearly a disproportionate increase" (p.3); the notice writes "GB7(b)" |
 | ★ [88 Houndsfield Lane, Hollywood (replacement self-build dwelling)](../cases/bromsgrove-26-00434-FUL.md) | Delegated | approved | fail |  | about +21% floor area and +17% volume is "material", so not "not materially larger" |
 | ★ [Tacna, Broad Lane, Tanworth-in-Arden](../cases/stratford-26-01310-FUL.md) | Delegated | refused | fail |  | a detached garage forward of the house is not an extension or alteration of the building; no GB7 category applies |
 | ★ [Crowfields Farm, Fockbury Road, Dodford (new dwelling replacing barn and stables)](../cases/bromsgrove-25-01429-FUL.md) | Delegated | approved | fail |  | a replacement must be "for the same use"; agricultural/equestrian to residential does not qualify |
 | ★ [Fowlers Dairy, Small Lane, Earlswood](../cases/stratford-26-01608-FUL.md) | Delegated | approved | pass |  | same use; footprint 458 to 414 sq m (-10%), volume 1,985 to 2,307 m3 (+16%), height 6.2 to 6.5 m, held "not materially larger" |
 
-### GB7(1)(c)  (fail 4, not-engaged 1)
+### GB7(1)(c)  (fail 4, not-engaged 1, pass 1)
 
 | Case | Maker | Outcome | Finding | Weight | Note |
 | --- | --- | --- | --- | --- | --- |
@@ -1785,13 +1945,20 @@ Jump to: [AnnexA](#annexa) · [AnnexB](#annexb) · [AnnexD](#annexd) · [AnnexF]
 | [Land to rear of 6-12 Long Lane, Newtown, South Staffordshire](../cases/PINS-6010537.md) | Appeal | allowed | fail |  | letter calls it "(d) limited infilling in villages"; not a gap in a built-up frontage (DL 14, 16) |
 | [3 Nursery, Hoe Lane, Nazeing (vehicle storage)](../cases/PINS-6010709.md) | Appeal | dismissed | fail |  | judged on the ground (Wood v SSCLG); no discernible group of houses, so not within a village; 1.3 ha / 120 vehicles not "limited infilling" (DL 7-12) |
 | [236 Hawkes Mill Lane, Coventry](../cases/PINS-6011410.md) | Appeal | allowed | not-engaged |  | limited infilling / ribbon development not decided as (g) already met (DL 16) |
+| [144 Malthouse Lane, Earlswood](../cases/stratford-26-01542-FUL.md) | Delegated | refused | pass |  | built form "to the sides, rear and front", so "whilst it is considered to be backland development, the dwelling can also be considered infill development" (p.8); the report writes "GB7 1c" |
 | ★ [Fanday, Brandheath Lane, New End, Astwood Bank (1-5 dwellings PIP)](../cases/wychavon-W-26-01639-PIP.md) | Delegated | refused | fail |  | not limited infilling in a village; the site extends development north-east along Wood Lane rather than filling a gap, following the earlier appeal (PINS 6001105) |
 
-### GB7(1)(e)  (fail 21, pass 16)
+### GB7(1)(e)  (fail 24, pass 22)
 
 | Case | Maker | Outcome | Finding | Weight | Note |
 | --- | --- | --- | --- | --- | --- |
+| [Land east of Wymers Wood Road, Burnham (self-build dwelling)](../cases/PINS-6005162.md) | Appeal | allowed | fail |  | appellant said the site was part of the curtilage of the adjoining house; inspector held that, if so, it is residential garden land, which Annex B "specifically excludes" from PDL; no finding on whether the land is in a built-up area (DL 12-13) |
+| ★ [144 Browns Lane, Stanton on the Wolds (replacement dwelling, Green Belt)](../cases/PINS-6010392.md) | Appeal | allowed | pass |  | parties agree the scheme is not inappropriate under "what is now Policy GB7.1.e of the Framework (previously paragraph 154g))"; inspector finds no reason to disagree; no openness assessment set out (DL 3) |
+| [Canons, Hobbs Cross Road, Matching (replacement dwelling, Green Belt)](../cases/PINS-6010746.md) | Appeal | dismissed | pass |  | site is previously developed land (not within a built-up area, so the garden exclusion does not apply) and a replacement dwelling is redevelopment; considerable spatial and limited visual openness harm, "moderate" overall and not substantial, so not inappropriate (DL 9-16) |
+| [Milan Villa, Hyde Wood Lane, Canewdon (replacement dwelling)](../cases/PINS-6008122.md) | Appeal | dismissed | pass |  | redevelopment of PDL; bulkier at first-floor and roof level but negligible change in footprint and an enclosed site, so harm to openness falls short of substantial; a replacement dwelling may be tested under (e) as well as (b) (DL 15-16) |
+| [Thamesfield Retirement Village, Wargrave Road, Remenham](../cases/PINS-6011062.md) | Appeal | dismissed | pass |  | not inappropriate as partial redevelopment of PDL; also said to meet the grey belt provisions; one paragraph in Other Matters, no reasoning (DL 39) |
 | ★ [Sycamore Farm, Well Bank Lane, Over Peover](../cases/PINS-6008176.md) | Appeal | allowed | pass |  | agreed PDL; ridge 7.77 m v 5.86 m, footprint 441 v 118 sq m; moderate loss of visual openness, spatial openness improved by removing outbuildings; not substantial harm, so not inappropriate (DL 6-12) |
+| [Balne Moor Coarse Fishery, Balne Moor Road, Balne (manager's dwelling)](../cases/PINS-6010112.md) | Appeal | dismissed | pass |  | not inappropriate; agreed between the parties; letter says "GB7(e)"; no reasoning given (DL 3, 18) |
 | [Ewen House, High Road, Fobbing (pool and annexe)](../cases/PINS-6009919.md) | Appeal | dismissed | fail |  | not available because the site as a whole is not PDL (DL 15) |
 | ★ [Adj Grassmere, Horseman Side, Navestock (self-build dwelling in garden)](../cases/PINS-6009849.md) | Appeal | allowed | pass |  | two-storey house slots into roadside ribbon between dwellings and Wattons Works; hedge retained; moderate, not substantial, openness harm (DL 12-16) |
 | ★ [Lawn Cottage, Wakering Road, Southend-on-Sea (rebuilt commercial unit)](../cases/PINS-6007335.md) | Appeal | allowed | pass |  | PDL; building taller, longer ridge and at the boundary, plus formal parking = moderate openness harm, but localised and limited visually; not "substantial harm" (DL 6-8, 10) |
@@ -1827,6 +1994,9 @@ Jump to: [AnnexA](#annexa) · [AnnexB](#annexb) · [AnnexD](#annexd) · [AnnexF]
 | ★ [Woodcock Hill Industrial Estate, Harefield Road, Rickmansworth](../cases/threerivers-26-0520-FUL.md) | Committee | approved | pass |  | rear of estate used 10+ years for container/boat storage (lawful by time) plus grassed land enclosed by vegetation, "visually and functionally related" to the estate → PDL; buildings no higher than existing; no substantial harm to openness |
 | ★ [Land of the former Knowle House, Sagars Road, Handforth (care home)](../cases/cheshireeast-25-2053-FUL.md) | Committee | approved | fail |  | mostly PDL but substantial harm to openness (as found on 2021 appeal for 26 dwellings) |
 | [Coblands Nursery, Trench Road, Tonbridge](../cases/tmbc-25-01976-PA.md) | Committee | approved | fail |  | majority of site is PDL (former commercial plant nursery, glasshouses) but quantum would cause substantial harm to openness |
+| ★ [The Hill, Warwick Road, Stratford-upon-Avon](../cases/stratford-26-01141-FUL.md) | Delegated | approved | pass |  | site is previously developed land "given it is already occupied by a permanent structure"; extensions "not considered to result in substantial harm to the openness of the Green Belt" (p.9); the report writes "GB7(e)" |
+| [Bridge Farm, Birmingham Road, Kings Coughton](../cases/stratford-26-01447-FUL.md) | Delegated | approved | fail |  | the land "has not been lawfully developed" and was in agricultural use; the report cites the Annex B exclusion of land last occupied by agricultural or forestry buildings (p.5) |
+| ★ [Ardencroft, Cloweswood Lane, Earlswood](../cases/stratford-26-01614-FUL.md) | Delegated | refused | fail |  | not PDL, and an extension is not "redevelopment" (p.8); the officer was also not satisfied that it "would avoid substantial harm to the openness" (p.10); the report and notice write "GB7(e)" |
 | ★ [Crowfields Farm, Fockbury Road, Dodford (new dwelling replacing barn and stables)](../cases/bromsgrove-25-01429-FUL.md) | Delegated | approved | fail |  | not PDL, because Annex B excludes land last occupied by agricultural buildings |
 
 ### GB7(1)(f)(i)  (pass 2)
@@ -1836,20 +2006,25 @@ Jump to: [AnnexA](#annexa) · [AnnexB](#annexb) · [AnnexD](#annexd) · [AnnexF]
 | ★ [Sky Farm, New Years Lane, Knockholt (Appeal B - hard surfacing)](../cases/PINS-6007340.md) | Appeal | allowed | pass |  | engineering operation; surfacing wraps tightly round the barn, set back from views; impact on openness minimised and no conflict with purposes; inspector says no need to show need or operational requirement (DL 15-19); the (f)(i) qualifier about engineering operations being required in a Green Belt location is not discussed |
 | [The Ferns, 6 Broc Hill Way, Brocton](../cases/PINS-6010165.md) | Appeal | dismissed | pass |  | permeable paving engineering operation minimises openness impact (DL 13) |
 
-### GB7(1)(f)(iii)  (pass 4, fail 1)
+### GB7(1)(f)(iii)  (pass 5, fail 3)
 
 | Case | Maker | Outcome | Finding | Weight | Note |
 | --- | --- | --- | --- | --- | --- |
+| [Lot B2a, Upper Bourne End Lane, Hemel Hempstead (outdoor wellbeing use and office unit)](../cases/PINS-6011489.md) | Appeal | dismissed | pass |  | the use of the land for mindfulness, stretching, nature-based activity and therapeutic horticulture accepted as recreational and consistent with limb (iii) (DL 6) |
+| [55 Boundary Lane, St Leonards and St Ives (static caravan as rental home)](../cases/PINS-6012115.md) | Appeal | dismissed | fail |  | the limb is not open-ended: because of the words "such as", uses within it take their flavour from the examples given; it does not cover the provision of a static caravan (DL 9) |
+| ★ [Maisie Cottage, Bottrells Lane, Chalfont St Giles (stable to dwelling)](../cases/PINS-6011889.md) | Appeal | dismissed | fail |  | new garden and driveway are a change of use of undeveloped grassland to residential use; residential uses are outside the material-change-of-use exception (RB Kingston upon Thames v SSLUHC [2023] EWHC 2055 (Admin)); no other exception applies; the letter writes "GB7(f)(iii)" (DL 6-7) |
 | ★ [Land at Windsor Lane, Little Kingshill](../cases/PINS-6009002.md) | Appeal | allowed | pass |  | material change of use for private outdoor recreation; land stays predominantly open; openness preserved (DL 28) |
 | [Grove Farm (Harefield Grove), Rickmansworth Road, Harefield](../cases/PINS-6010520.md) | Appeal | dismissed | pass |  | material change of use of the fields to dog training is outdoor recreation; negligible openness impact (DL 31-37) |
 | ★ [Land and buildings south of Cowley Lane, Dronfield](../cases/PINS-6011330.md) | Appeal | dismissed | fail |  | residential garden is not a "material change in the use of land" under the exception — Kingston v SSLUHC [2023] EWHC 2055 (Admin) (DL 8) |
 | [Land to the rear of 3 Broad Lane, Downholland](../cases/PINS-6012188.md) | Appeal | dismissed | pass |  | outdoor yoga is outdoor recreation; the change of use of the land falls within (f)(iii) (DL 8) |
 | ★ [Land south west of Stonards Hill, Epping (keeping of horses)](../cases/PINS-6008989.md) | Appeal | allowed | pass |  | material change of use to keeping horses with no fencing, buildings or equipment → not inappropriate; agreed by parties (DL 3) |
 
-### GB7(1)(f)(iv)  (pass 6, fail 4)
+### GB7(1)(f)(iv)  (pass 7, fail 5)
 
 | Case | Maker | Outcome | Finding | Weight | Note |
 | --- | --- | --- | --- | --- | --- |
+| ★ [Lot B2a, Upper Bourne End Lane, Hemel Hempstead (outdoor wellbeing use and office unit)](../cases/PINS-6011489.md) | Appeal | dismissed | fail |  | no reason shown why the building is necessary to support the outdoor use; one-to-one consultations do not depend on a Green Belt location; the building takes a large part of a very small site, so it is not an "appropriate facility"; openness harmed (DL 6-9) |
+| ★ [Land north of Scrubs Farm, Lower Gravel Road, Bromley (padel courts)](../cases/PINS-6012303.md) | Appeal | allowed | pass |  | outdoor sport facilities with a change of use; impact on openness minimised (open courts, see-through enclosures, lights fixed to the enclosures, single-storey buildings, modest parking) and no significant conflict with the Green Belt purposes; the letter writes "GB7(f)(iv)" (DL 7, 9-20) |
 | ★ [The Stables, Underriver House Road, Underriver, Sevenoaks](../cases/PINS-6011192.md) | Appeal | allowed | pass |  | outdoor recreation facility; openness impact minimised; no significant conflict with purposes, including encroachment; Council agreed (DL 13-14) |
 | ★ [The Paddocks, Bridgnorth Road, Stourton](../cases/PINS-6008866.md) | Appeal | dismissed | fail |  | equestrian facilities are outdoor recreation in connection with existing use, but close-board front fencing does not "minimise" impact on openness, so exception fails regardless of purposes (DL 9-14) |
 | ★ [Land at Windsor Lane, Little Kingshill](../cases/PINS-6009002.md) | Appeal | allowed | pass |  | existing barn altered to stabling as an appropriate facility; no material increase in built form (DL 28) |
@@ -1861,11 +2036,12 @@ Jump to: [AnnexA](#annexa) · [AnnexB](#annexb) · [AnnexD](#annexd) · [AnnexF]
 | ★ [The Wilderness Sports Ground, Molesey Park Road, East Molesey (clubhouse)](../cases/elmbridge-2025-1444.md) | Committee | approved | fail |  | outdoor sport facility but footprint 227.7→734.4 sqm, volume 877.9→3,946 m3, height 4.4→7 m, so impact on openness 'not minimised' |
 | ★ [Burton Green Village Hall, Red Lane, Burton Green (outdoor activity area, kiosk and pergolas)](../cases/warwick-W-25-1768.md) | Committee | approved | pass |  | facilities for outdoor recreation linked to the existing use; small (under 2.5 m high), read with the hall; no significant conflict with purpose (c); openness impact minimised |
 
-### GB7(1)(g)  (determinative 17, pass 7, not-engaged 3, fail 2)
+### GB7(1)(g)  (determinative 19, pass 7, not-engaged 3, fail 2)
 
 | Case | Maker | Outcome | Finding | Weight | Note |
 | --- | --- | --- | --- | --- | --- |
 | [Land adjacent 837 Manchester Road, Linthwaite](../cases/PINS-6006003.md) | Appeal | dismissed | pass |  | not inappropriate; openness and VSC not considered (DL 11) |
+| ★ [Land west of 103 Tonbridge Road, Hildenborough (PIP, 5 to 7 homes)](../cases/PINS-6010459.md) | Appeal | allowed | determinative |  |  |
 | [Adj Grassmere, Horseman Side, Navestock (self-build dwelling in garden)](../cases/PINS-6009849.md) | Appeal | allowed | not-engaged |  | not considered as (e) is met (DL 17) |
 | ★ [Land at Mount Avenue, Chaldon (Caterham edge)](../cases/PINS-6006497.md) | Appeal | allowed | determinative |  |  |
 | ★ [Land to rear of 6-12 Long Lane, Newtown, South Staffordshire](../cases/PINS-6010537.md) | Appeal | allowed | determinative |  |  |
@@ -1892,16 +2068,23 @@ Jump to: [AnnexA](#annexa) · [AnnexB](#annexb) · [AnnexD](#annexd) · [AnnexF]
 | ★ [Parcel 0014, Charlton Road, Keynsham](../cases/bathnes-25-04952-EOUT.md) | Committee | approved | determinative |  |  |
 | ★ [Land next to Bathampton Junction, Station Road, Bathampton (padel centre)](../cases/bathnes-26-00259-FUL.md) | Committee | approved | determinative |  |  |
 | ★ [Coblands Nursery, Trench Road, Tonbridge](../cases/tmbc-25-01976-PA.md) | Committee | approved | determinative |  |  |
+| ★ [The Hill, Warwick Road, Stratford-upon-Avon](../cases/stratford-26-01141-FUL.md) | Delegated | approved | determinative |  |  |
 | ★ [The Barn, Tithe Barn Lane, Earlswood (Hockley Heath)](../cases/stratford-26-01458-FUL.md) | Delegated | approved | determinative |  |  |
 | ★ [Land at Yew Tree Lane, Fairfield (two dwellings)](../cases/bromsgrove-26-00744-FUL.md) | Delegated | approved | pass |  | assessed as 2024 ¶155 (a) to (d). Grey belt with (a) moderate, (b) weak, (d) none; unmet need (2.24-year supply); sustainable, relying on a 2022 appeal finding that the site is within Fairfield village and about 400 m (5 minutes' walk) from facilities |
 
-### GB7(1)(g)(i)  (pass 39, determinative 3, fail 1)
+### GB7(1)(g)(i)  (pass 45, determinative 3, not-engaged 1, fail 1)
 
 | Case | Maker | Outcome | Finding | Weight | Note |
 | --- | --- | --- | --- | --- | --- |
+| ★ [Land east of Wymers Wood Road, Burnham (self-build dwelling)](../cases/PINS-6005162.md) | Appeal | allowed | pass |  | plan-wide test applied to all five purposes; former South Bucks is 14,100 ha, 87.4% Green Belt; 0.16 ha site consolidates an area between existing development; no encroachment (DL 18-21) |
+| [Oozedam, High Road, Fobbing (5 dwellings behind the frontage, grey belt)](../cases/PINS-6008679.md) | Appeal | dismissed | pass |  | site helps safeguard the countryside from encroachment but not significantly across the plan area; would not fundamentally undermine the purposes of the remaining Green Belt (DL 8) |
+| [Land at Dunvilles Farm, Bollington Lane, Monks Heath (PIP, 5 dwellings, grey belt)](../cases/PINS-6010578.md) | Appeal | allowed | pass |  | letter says "Policy GB7(g)"; parties do not dispute that the site is grey belt and would not undermine the purposes of the remaining Green Belt; inspector concurs after the site visit (DL 10-11) |
+| [55 Boundary Lane, St Leonards and St Ives (static caravan as rental home)](../cases/PINS-6012115.md) | Appeal | dismissed | not-engaged |  | grey belt and unmet need limbs not decided; (g) failed on limb (iii) alone because all four criteria must be met (DL 13) |
+| ★ [Land adjacent to 1 Ninesprings Cottage, Wymondley Road, Hitchin (PIP)](../cases/PINS-6009720.md) | Appeal | allowed | pass |  | limited encroachment; would not fundamentally undermine the purposes taken together (DL 17) |
 | [Land adjacent 837 Manchester Road, Linthwaite](../cases/PINS-6006003.md) | Appeal | dismissed | pass |  | disputed on purpose (c); modest, contained encroachment, would not fundamentally undermine the purposes taken together (DL 8-9) |
 | [Disley Meadow, Lower Greenshall Lane, Disley](../cases/PINS-6010213.md) | Appeal | dismissed | pass |  | would not fundamentally undermine the purposes of the remaining Green Belt (DL 18) |
 | [Ewen House, High Road, Fobbing (pool and annexe)](../cases/PINS-6009919.md) | Appeal | dismissed | pass |  | purpose (c) encroachment argued under the "fundamentally undermine" limb; not so significant (DL 18-19) |
+| [Land west of 103 Tonbridge Road, Hildenborough (PIP, 5 to 7 homes)](../cases/PINS-6010459.md) | Appeal | allowed | pass |  | would not fundamentally undermine the purposes of the remaining Green Belt across the plan area (DL 20) |
 | [Land near Fanshawes, Ware Park, Ware](../cases/PINS-6006224.md) | Appeal | dismissed | pass |  | would not fundamentally undermine the purposes of the remaining Green Belt (DL 9) |
 | [Land adjacent Langley Cricket Club, Cock Hall Lane, Langley, Macclesfield (PIP one dwelling)](../cases/PINS-6010253.md) | Appeal | dismissed | pass |  | undisputed (DL 10) |
 | [Land at Mount Avenue, Chaldon (Caterham edge)](../cases/PINS-6006497.md) | Appeal | allowed | pass |  | would not materially affect the ability of the remaining plan-area Green Belt to serve all five purposes "in a meaningful way"; common ground (DL 27-28) |
@@ -1937,20 +2120,26 @@ Jump to: [AnnexA](#annexa) · [AnnexB](#annexb) · [AnnexD](#annexd) · [AnnexF]
 | ★ [Magdalen Lodge, Potash Road, Billericay](../cases/basildon-25-00575-OUT.md) | Committee | refused | determinative |  |  |
 | [Land next to Bathampton Junction, Station Road, Bathampton (padel centre)](../cases/bathnes-26-00259-FUL.md) | Committee | approved | pass |  | confined, reuses formerly developed land |
 | ★ [Land adjacent to Woodlands Cottage, Oxhey Lane, Carpenders Park](../cases/threerivers-25-2168-OUT.md) | Committee | refused | determinative |  |  |
+| [The Hill, Warwick Road, Stratford-upon-Avon](../cases/stratford-26-01141-FUL.md) | Delegated | approved | pass |  | grey belt found in one sentence with no reasons, for a site adjoining the boundary of Stratford-upon-Avon (p.8); purposes (c) and (e) then tested for the "fundamentally undermine" limb |
 | ★ [Land south of The Farm House, Church Road, Stonnall (up to 2 dwellings)](../cases/lichfield-26-00855-OUT.md) | Delegated | approved | pass |  | the Council's 2026 Green Belt Review parcel STO06 makes no contribution to (a), a weak one to (b) and none to (d); the site is contained by houses north and south, the road and woodland; a localised loss of openness does not fundamentally undermine the purposes |
 | [Fanday, Brandheath Lane, New End, Astwood Bank (1-5 dwellings PIP)](../cases/wychavon-W-26-01639-PIP.md) | Delegated | refused | pass |  | grey belt accepted, following the Inspector's finding on the larger site |
 | ★ [Land adjacent to 22 Alcester Road, Hollywood / Wythall (up to 6 dwellings PIP)](../cases/bromsgrove-26-00845-PIP.md) | Delegated | approved | pass |  | purpose (a) weak (Hollywood is not a large built-up area, citing appeal 3356219); (b) weak (Solihull 7.53 km away, no loss of separation from Birmingham); (d) none; (c) and (e) not fundamentally undermined |
 | ★ [Flourishing Fields Farm, Stonehouse Lane, Hopwood (SEND farm school and rural worker's dwelling)](../cases/bromsgrove-25-00751-FUL.md) | Delegated | approved | pass |  | not PDL, but it "does not strongly contribute to Purpose (a)" (about 1.6 km east of Hopwood, not adjoining an urban edge), with a limited contribution to (b) and none to (d); some conflict with (c) |
 | [The Barn, Tithe Barn Lane, Earlswood (Hockley Heath)](../cases/stratford-26-01458-FUL.md) | Delegated | approved | pass |  | Earlswood "a village, some distance from large built-up areas and towns"; site bordered by development to north and west |
 
-### GB7(1)(g)(ii)  (pass 43, fail 12, not-engaged 1)
+### GB7(1)(g)(ii)  (pass 49, fail 13, not-engaged 1)
 
 | Case | Maker | Outcome | Finding | Weight | Note |
 | --- | --- | --- | --- | --- | --- |
+| ★ [Land east of Wymers Wood Road, Burnham (self-build dwelling)](../cases/PINS-6005162.md) | Appeal | allowed | pass |  | footnote 41; Council accepts no five-year supply (DL 22); 0.97 years in the southern area (DL 41) |
+| [Oozedam, High Road, Fobbing (5 dwellings behind the frontage, grey belt)](../cases/PINS-6008679.md) | Appeal | dismissed | pass |  | housing land supply equivalent to 1.02 years, from the officer's report (DL 9) |
+| [Land at Dunvilles Farm, Bollington Lane, Monks Heath (PIP, 5 dwellings, grey belt)](../cases/PINS-6010578.md) | Appeal | allowed | pass |  | letter calls this "criterion b)"; no dispute that the Council cannot show a 5-year supply, so there is unmet need; figure not stated (DL 12) |
+| ★ [Land adjacent to 1 Ninesprings Cottage, Wymondley Road, Hitchin (PIP)](../cases/PINS-6009720.md) | Appeal | allowed | pass |  | no five-year supply (figure not stated) (DL 18) |
 | [Land adjacent 837 Manchester Road, Linthwaite](../cases/PINS-6006003.md) | Appeal | dismissed | pass |  | no five-year supply (4.18 years in the officer report) (DL 10, 23) |
 | ★ [Disley Meadow, Lower Greenshall Lane, Disley](../cases/PINS-6010213.md) | Appeal | dismissed | fail |  | usefulness to an intended activity is not an evidenced unmet need; only the appellant's assertions (DL 19) |
 | [Upper Farm, Shut Lane Head, Newcastle-under-Lyme](../cases/PINS-6007668.md) | Appeal | dismissed | not-engaged |  | self-build shortfall evidence incomplete and no evidence of a five-year supply shortfall; not decided because (iii) fails (DL 25-26) |
 | ★ [Ewen House, High Road, Fobbing (pool and annexe)](../cases/PINS-6009919.md) | Appeal | dismissed | fail |  | no evidence of the family member's needs, local self-build need, or need for a pool; future bungalow use theoretical (DL 20-21) |
+| [Land west of 103 Tonbridge Road, Hildenborough (PIP, 5 to 7 homes)](../cases/PINS-6010459.md) | Appeal | allowed | pass |  | evidenced unmet need; 2.89 years supply (officer report) and HDT "well below 75%" (appellant) (DL 19-20) |
 | [Land near Fanshawes, Ware Park, Ware](../cases/PINS-6006224.md) | Appeal | dismissed | pass |  | no five-year supply, so evidenced unmet need (DL 9) |
 | [Land adjacent Langley Cricket Club, Cock Hall Lane, Langley, Macclesfield (PIP one dwelling)](../cases/PINS-6010253.md) | Appeal | dismissed | pass |  | no five-year supply (3.3 years Council, 3.8 appellant) (DL 11, 32) |
 | [Land at Mount Avenue, Chaldon (Caterham edge)](../cases/PINS-6006497.md) | Appeal | allowed | pass |  | agreed supply range 1.22-1.97 years (DL 29) |
@@ -1998,19 +2187,27 @@ Jump to: [AnnexA](#annexa) · [AnnexB](#annexb) · [AnnexD](#annexd) · [AnnexF]
 | [Land south of Woolshots Farm, London Road, Wickford/Billericay](../cases/basildon-25-01188-OUT.md) | Committee | refused | pass |  | supply shortfall, persistent under-delivery |
 | [Land of the former Knowle House, Sagars Road, Handforth (care home)](../cases/cheshireeast-25-2053-FUL.md) | Committee | approved | pass |  | 3.3-year supply plus applicant's care-bed needs assessment (569-bed undersupply by 2030) not disputed by commissioner |
 | [Coblands Nursery, Trench Road, Tonbridge](../cases/tmbc-25-01976-PA.md) | Committee | approved | pass |  | 2.96-year supply; HDT 63% |
+| [The Hill, Warwick Road, Stratford-upon-Avon](../cases/stratford-26-01141-FUL.md) | Delegated | approved | pass |  | the 2.21-year supply taken as unmet need for market housing (p.8), although the scheme reduces the number of dwellings from 5 to 3 |
+| [Bridge Farm, Birmingham Road, Kings Coughton](../cases/stratford-26-01447-FUL.md) | Delegated | approved | fail |  | "there is not an evidenced unmet need for the type of development proposed" (p.5); no finding on grey belt, limb (i) |
 | ★ [Land south of The Farm House, Church Road, Stonnall (up to 2 dwellings)](../cases/lichfield-26-00855-OUT.md) | Delegated | approved | pass |  | 3.5-year supply |
 | ★ [Fanday, Brandheath Lane, New End, Astwood Bank (1-5 dwellings PIP)](../cases/wychavon-W-26-01639-PIP.md) | Delegated | refused | fail |  | five-year supply now demonstrated after SWDPR adoption (the appeal had found 1.1 years); HDT 133% |
 | ★ [Land adjacent to 22 Alcester Road, Hollywood / Wythall (up to 6 dwellings PIP)](../cases/bromsgrove-26-00845-PIP.md) | Delegated | approved | pass |  | fn41, no five-year supply |
 | ★ [Flourishing Fields Farm, Stonehouse Lane, Hopwood (SEND farm school and rural worker's dwelling)](../cases/bromsgrove-25-00751-FUL.md) | Delegated | approved | pass |  | need for specialist SEND provision accepted on the applicant's evidence; the LPA "has not undertaken an independent assessment" but has no contrary evidence |
 | [The Barn, Tithe Barn Lane, Earlswood (Hockley Heath)](../cases/stratford-26-01458-FUL.md) | Delegated | approved | pass |  | 2.21-year supply |
 
-### GB7(1)(g)(iii)  (pass 39, fail 15, determinative 1)
+### GB7(1)(g)(iii)  (pass 45, fail 16, determinative 1)
 
 | Case | Maker | Outcome | Finding | Weight | Note |
 | --- | --- | --- | --- | --- | --- |
+| ★ [Land east of Wymers Wood Road, Burnham (self-build dwelling)](../cases/PINS-6005162.md) | Appeal | allowed | pass |  | TR3(1)(a) to (e) taken in turn; one dwelling held not to generate a significant amount of movement, so it "would therefore accord with principle (a)"; no assessment of the walking route (DL 23-29) |
+| [Oozedam, High Road, Fobbing (5 dwellings behind the frontage, grey belt)](../cases/PINS-6008679.md) | Appeal | dismissed | pass |  | farm shop and cafe, garden centre, church, pub and recreation ground reached by level, well-lit footways; bus stop within about 100 m with services through the day, though not frequent; further facilities in Corringham within about 2 km by footway, "walkable for some but not all"; sustainable "in the context of the site's semi-rural location" (DL 10-12) |
+| ★ [Land at Dunvilles Farm, Bollington Lane, Monks Heath (PIP, 5 dwellings, grey belt)](../cases/PINS-6010578.md) | Appeal | allowed | pass |  | bus stop about 391 m away with shelters, two hourly services (87 and 130) on staggered timetables; cafe opposite, convenience store, gym, nursery and others within about 500 m; Alderley Park 1 km by lit footpaths; footpath uneven and mostly unlit but usable and separated from the carriageway by a wide verge (DL 13-18) |
+| ★ [55 Boundary Lane, St Leonards and St Ives (static caravan as rental home)](../cases/PINS-6012115.md) | Appeal | dismissed | fail |  | bus stops on the A31 0.6 miles (appellant) or over 1 km (Council) away along a mostly unlit pavement; uncontrolled crossing of heavy traffic to the northbound stop; occupants heavily reliant on the car (DL 10-13) |
+| ★ [Land adjacent to 1 Ninesprings Cottage, Wymondley Road, Hitchin (PIP)](../cases/PINS-6009720.md) | Appeal | allowed | pass |  | bus stops and footpaths "in close proximity" give access to Hitchin town centre; no distances or frequencies; no footway at the site frontage, left to the technical details stage (DL 19-20) |
 | [Land adjacent 837 Manchester Road, Linthwaite](../cases/PINS-6006003.md) | Appeal | dismissed | pass |  | "due to the site’s proximity to local amenities, services, footpath links and public transport"; no route facts given (DL 10) |
 | ★ [Upper Farm, Shut Lane Head, Newcastle-under-Lyme](../cases/PINS-6007668.md) | Appeal | dismissed | fail |  | not in a sustainable location, so (g) fails whatever the position on (i) and (ii) (DL 24, 26) |
 | [Ewen House, High Road, Fobbing (pool and annexe)](../cases/PINS-6009919.md) | Appeal | dismissed | pass |  | Fobbing very limited services, bus 4 times a day; lit, largely level pavement to Corringham shops; "sustainably located having regard to its rural situation" (DL 22) |
+| [Land west of 103 Tonbridge Road, Hildenborough (PIP, 5 to 7 homes)](../cases/PINS-6010459.md) | Appeal | allowed | pass |  | passed in one sentence as "very close to services and facilities in Hildenborough as well as bus links"; no distances, route or frequencies given; TR3 not cited (DL 20) |
 | ★ [Land near Fanshawes, Ware Park, Ware](../cases/PINS-6006224.md) | Appeal | dismissed | fail |  | not a sustainable location, so the (g) exception fails and the scheme is inappropriate (DL 18) |
 | ★ [Land adjacent Langley Cricket Club, Cock Hall Lane, Langley, Macclesfield (PIP one dwelling)](../cases/PINS-6010253.md) | Appeal | dismissed | fail |  | bus stop about 550 m in the village; route beyond the village edge unlit, no footways, national speed limit, incline, little refuge; supermarkets, GP and station (about 4.5 km) in Macclesfield; heavy car reliance notwithstanding small scale (DL 12-23) |
 | ★ [Land at Mount Avenue, Chaldon (Caterham edge)](../cases/PINS-6006497.md) | Appeal | allowed | pass |  | pre-school, primary school, village hall and cafe within about 850 m; shop 1.1 km; term-time school buses 150 m away; two-hourly 411 bus; gradient to Caterham a significant deterrent and commuting by bus challenging, but a genuine choice for local trips (DL 31-47) |
@@ -2057,6 +2254,7 @@ Jump to: [AnnexA](#annexa) · [AnnexB](#annexb) · [AnnexD](#annexd) · [AnnexF]
 | [Land south of Woolshots Farm, London Road, Wickford/Billericay](../cases/basildon-25-01188-OUT.md) | Committee | refused | pass |  | adjoins Wickford built-up area; London Road bus network; bus improvements |
 | [Land of the former Knowle House, Sagars Road, Handforth (care home)](../cases/cheshireeast-25-2053-FUL.md) | Committee | approved | pass |  | lit footway on Sagars Road; shops/bus 0.7 km, health centre 600 m, Handforth station 750 m; Connectivity Tool 59-62% (below national average, 'comparably well connected for a rural edge location') |
 | [Coblands Nursery, Trench Road, Tonbridge](../cases/tmbc-25-01976-PA.md) | Committee | approved | pass |  | adjoins Tonbridge (Tier 1); local parade, supermarkets, medical centre, schools within walking distance; town centre c.2 km; buses 218/219 twice hourly to town/station; lit footway/cycleway |
+| [The Hill, Warwick Road, Stratford-upon-Avon](../cases/stratford-26-01141-FUL.md) | Delegated | approved | pass |  | "a well-lit and maintained footpath and cycleway into the centre of Stratford, under 1 kilometre away" (p.9) |
 | ★ [Land south of The Farm House, Church Road, Stonnall (up to 2 dwellings)](../cases/lichfield-26-00855-OUT.md) | Delegated | approved | pass |  | adjoins the built form of Stonnall; primary school, pub, village hall, medical, sports and shop within walking and cycling distance; public transport within about 500 m |
 | ★ [Fanday, Brandheath Lane, New End, Astwood Bank (1-5 dwellings PIP)](../cases/wychavon-W-26-01639-PIP.md) | Delegated | refused | fail |  | Connectivity Tool score 23; limited bus service; narrow, mostly unlit pedestrian routes; residents would rely on the car |
 | ★ [Land adjacent to 22 Alcester Road, Hollywood / Wythall (up to 6 dwellings PIP)](../cases/bromsgrove-26-00845-PIP.md) | Delegated | approved | pass |  | 7 m outside the Hollywood/Wythall boundary (a large settlement under BDP2); footways and lighting on both sides of Alcester Road; bus stop 60 m away with regular services to Redditch and Birmingham |
@@ -2064,10 +2262,13 @@ Jump to: [AnnexA](#annexa) · [AnnexB](#annexb) · [AnnexD](#annexd) · [AnnexF]
 | [The Barn, Tithe Barn Lane, Earlswood (Hockley Heath)](../cases/stratford-26-01458-FUL.md) | Delegated | approved | pass |  | passed in one sentence because the dwelling footprint lies within the BUAB of a Category 3 LSV; no TR3 analysis of routes or services |
 | ★ [Crowfields Farm, Fockbury Road, Dodford (new dwelling replacing barn and stables)](../cases/bromsgrove-25-01429-FUL.md) | Delegated | approved | fail |  | rural site; first school 180 m away but no other facilities; bus one each way on Tuesdays and Fridays only |
 
-### GB7(1)(g)(iv)  (not-engaged 14, fail 2, pass 1)
+### GB7(1)(g)(iv)  (not-engaged 17, pass 2, fail 2)
 
 | Case | Maker | Outcome | Finding | Weight | Note |
 | --- | --- | --- | --- | --- | --- |
+| [Oozedam, High Road, Fobbing (5 dwellings behind the frontage, grey belt)](../cases/PINS-6008679.md) | Appeal | dismissed | not-engaged |  | not major development (DL 13) |
+| [Land at Dunvilles Farm, Bollington Lane, Monks Heath (PIP, 5 dwellings, grey belt)](../cases/PINS-6010578.md) | Appeal | allowed | not-engaged |  | Golden Rules apply only to major development (DL 19) |
+| [Land west of 103 Tonbridge Road, Hildenborough (PIP, 5 to 7 homes)](../cases/PINS-6010459.md) | Appeal | allowed | pass |  | site exceeds 0.5 ha so is major development under Annex B; no evidence on the Golden Rules, but obligations cannot be secured at PIP stage, so GB8 contributions assumed capable of being met at technical details stage (DL 21) |
 | [Land at Mount Avenue, Chaldon (Caterham edge)](../cases/PINS-6006497.md) | Appeal | allowed | pass |  | major housing complies with GB8 (DL 30) |
 | [Land adjacent to Model Farm, Plex Lane, Halsall](../cases/PINS-6007428.md) | Appeal | dismissed | not-engaged |  | not major (DL 20) |
 | [Land south of Coppice Road, Higher Poynton](../cases/PINS-6010471.md) | Appeal | allowed | not-engaged |  | not major (DL 21) |
@@ -2083,13 +2284,15 @@ Jump to: [AnnexA](#annexa) · [AnnexB](#annexb) · [AnnexD](#annexd) · [AnnexF]
 | [Land off Jago Green, Snitterfield Lane, Snitterfield](../cases/stratford-26-00617-PIP.md) | Committee | approved | not-engaged |  | 0.472 ha, minor development |
 | ★ [Land adjacent to Blackthorn Stud, Kennel Lane, Billericay](../cases/basildon-24-01047-OUT.md) | Committee | refused | fail |  | 11 dwellings = major; zero affordable vs 50% default; no viability evidence |
 | ★ [Land of the former Knowle House, Sagars Road, Handforth (care home)](../cases/cheshireeast-25-2053-FUL.md) | Committee | approved | fail |  | care home treated as major development involving provision of housing; no affordable housing offered → Golden Rules failed → inappropriate |
+| [The Hill, Warwick Road, Stratford-upon-Avon](../cases/stratford-26-01141-FUL.md) | Delegated | approved | not-engaged |  | not major development; the report refers to the Golden Rules by 2024 paragraph numbers ("p.156 and 17") (p.9) |
 | ★ [Land adjacent to 22 Alcester Road, Hollywood / Wythall (up to 6 dwellings PIP)](../cases/bromsgrove-26-00845-PIP.md) | Delegated | approved | not-engaged |  | not major development, so the Golden Rules do not apply |
 | [The Barn, Tithe Barn Lane, Earlswood (Hockley Heath)](../cases/stratford-26-01458-FUL.md) | Delegated | approved | not-engaged |  | 0.49 ha, 1 dwelling |
 
-### GB7(1)(h)  (not-engaged 2, pass 1)
+### GB7(1)(h)  (not-engaged 3, pass 1)
 
 | Case | Maker | Outcome | Finding | Weight | Note |
 | --- | --- | --- | --- | --- | --- |
+| [Land at Dunvilles Farm, Bollington Lane, Monks Heath (PIP, 5 dwellings, grey belt)](../cases/PINS-6010578.md) | Appeal | allowed | not-engaged |  | once one GB7 category is met there is no need to show any other, "such as that under Policy GB7(1)(h)" (DL 22) |
 | [Land off Oakdene Crescent, Hatton Station, Warwick](../cases/PINS-6006637.md) | Appeal | dismissed | not-engaged |  | station fails "well-connected station" definition (fewer than 4 tph daytime; fewer than 2 tph each direction) (DL 18) |
 | ★ [Land East of Tring (Marshcroft) — appeal stance review](../cases/dacorum-25-01880-MOA.md) | Committee | refused | pass |  | Tring station well-connected (4-5 London trains/hour in one direction); only the part of the site within c.800 m qualifies; GB8 capable of being met (50% affordable) |
 | [Fanday, Brandheath Lane, New End, Astwood Bank (1-5 dwellings PIP)](../cases/wychavon-W-26-01639-PIP.md) | Delegated | refused | not-engaged |  | no well-connected station |
@@ -2103,10 +2306,12 @@ Jump to: [AnnexA](#annexa) · [AnnexB](#annexb) · [AnnexD](#annexd) · [AnnexF]
 
 ## GB8
 
-### GB8  (pass 8, not-engaged 1, benefit 1, fail 1)
+### GB8  (pass 9, not-engaged 2, benefit 1, fail 1)
 
 | Case | Maker | Outcome | Finding | Weight | Note |
 | --- | --- | --- | --- | --- | --- |
+| [Land east of Wymers Wood Road, Burnham (self-build dwelling)](../cases/PINS-6005162.md) | Appeal | allowed | not-engaged |  | not major development (DL 14, 29) |
+| [Land west of 103 Tonbridge Road, Hildenborough (PIP, 5 to 7 homes)](../cases/PINS-6010459.md) | Appeal | allowed | pass |  | assumed, not evidenced or secured; deferred to the technical details consent stage (DL 21) |
 | [Land adjacent Langley Cricket Club, Cock Hall Lane, Langley, Macclesfield (PIP one dwelling)](../cases/PINS-6010253.md) | Appeal | dismissed | not-engaged |  | Golden Rules apply to major development only (DL 24) |
 | ★ [Land at Mount Avenue, Chaldon (Caterham edge)](../cases/PINS-6006497.md) | Appeal | allowed | pass | substantial | 50% affordable, infrastructure improvements and a significant area of publicly accessible woodland open space; compliance itself given substantial weight (DL 30, 68) |
 | ★ [Land south of Warren Lane, Hurst Green](../cases/PINS-6004144.md) | Appeal | dismissed | pass | substantial | 50% affordable, infrastructure, open space secured; GB8(2) substantial weight to compliance (DL 33-34, 52) |
@@ -2184,10 +2389,11 @@ Jump to: [AnnexA](#annexa) · [AnnexB](#annexb) · [AnnexD](#annexd) · [AnnexF]
 
 ## HC4
 
-### HC4  (benefit 11, determinative 1, not-engaged 1)
+### HC4  (benefit 12, determinative 1, not-engaged 1)
 
 | Case | Maker | Outcome | Finding | Weight | Note |
 | --- | --- | --- | --- | --- | --- |
+| [The Beck and Call, Stainbeck Road, Meanwood, Leeds (outdoor TV screen)](../cases/PINS-6010755.md) | Appeal | dismissed | benefit |  | mapped: no Framework policy cited; social role of the public house given "modest weight"; economic benefit unquantified, which limited its weight (DL 16) |
 | ★ [Footpath outside The Heart Centre, Hepworth Way, Walton-on-Thames](../cases/PINS-6009738.md) | Appeal | dismissed | benefit | substantial | Wi-Fi, helplines, charging, possible 4G/5G - substantial weight (DL 22-23) |
 | ★ [Outside 100 Avenue Road / Swiss Cottage Station, Camden (BT Street Hub 3)](../cases/PINS-6007200.md) | Appeal | dismissed | determinative |  |  |
 | ★ [Myrtle Mount, 14 Elm Grove, Hartlepool](../cases/PINS-6008410.md) | Appeal | dismissed | benefit | substantial | children's home is social care infrastructure, a form of public service infrastructure in the glossary; tempered for lack of an operational plan and alternatives (DL 28, 41-42) |
@@ -2210,10 +2416,11 @@ Jump to: [AnnexA](#annexa) · [AnnexB](#annexb) · [AnnexD](#annexd) · [AnnexF]
 
 ## HC5
 
-### HC5  (neutral 1, pass 1, not-engaged 1)
+### HC5  (conflict 1, neutral 1, pass 1, not-engaged 1)
 
 | Case | Maker | Outcome | Finding | Weight | Note |
 | --- | --- | --- | --- | --- | --- |
+| ★ [259 Wick Road, Hackney, London E9 (takeaway and delivery-only food premises)](../cases/PINS-6010033.md) | Appeal | dismissed | conflict |  | about 315 m from Ickburgh School and within 400 m of two youth and community facilities, outside any designated centre; walk-in sales and the food sold could not be controlled by condition; limb not cited (DL 3-7) |
 | [47 Huddersfield Road, Mirfield (bank to hot food takeaway)](../cases/PINS-6005670.md) | Appeal | allowed | neutral |  | mapped: no evidence of concentration of takeaways harming health, vitality or antisocial behaviour; Hot Food Takeaway SPD noted (DL 25-26) |
 | [Contec House, East Street, Farnham (takeaway opening hours)](../cases/PINS-6005594.md) | Appeal | dismissed | pass |  | no evidence of nearby schools or an over-concentration of takeaways (DL 16) |
 | [28 Central Parade, New Addington, Croydon (KFC late hours)](../cases/PINS-6010883.md) | Appeal | dismissed | not-engaged |  | the council's reason cited 2024 para 97, now HC5; no school proximity or over-concentration was alleged, so no conflict (DL 15) |
@@ -2233,10 +2440,12 @@ Jump to: [AnnexA](#annexa) · [AnnexB](#annexb) · [AnnexD](#annexd) · [AnnexF]
 
 ## HC6
 
-### HC6  (pass 3, benefit 1, accord 1, not-engaged 1)
+### HC6  (pass 4, not-engaged 2, benefit 1, accord 1)
 
 | Case | Maker | Outcome | Finding | Weight | Note |
 | --- | --- | --- | --- | --- | --- |
+| ★ [Cross Gaits Inn, Beverley Road, Blacko (pub to dwelling, planning appeal)](../cases/PINS-6007704.md) | Appeal | allowed | pass |  | pub use no longer viable and cannot reasonably be made so (marketing and viability report undisputed by the Council; community group's purchase and refurbishment plan not shown to be realistic); accords with HC6 "in relation to there being no reasonable prospect of the use being retained" (DL 15-31) |
+| [Former Hull Grammar School and Community Centre, Cottingham Road, Hull](../cases/PINS-6010376.md) | Appeal | dismissed | not-engaged |  | school use held not to be a community use for the Framework because schools are not mentioned in HC6 or the Annex B definition of "community facilities"; the letter does not address the Annex B definition of "public service infrastructure" (DL 27-29) |
 | [Former Revolution Bar, Maxwell Road, Beaconsfield](../cases/PINS-6007582.md) | Appeal | dismissed | benefit | limited | pub not commercially viable (DL 44) |
 | [58 and 60 Waverley Road, St Albans (former sports and social club)](../cases/PINS-6009808.md) | Appeal | dismissed | pass |  | club closed 2018 after financial decline and receivership; no reasonable prospect of the use being retained (DL 8-14) |
 | [Land at Windsor Lane, Little Kingshill](../cases/PINS-6009002.md) | Appeal | allowed | pass |  | mapped: Scout Hut inside the red line but a separate planning unit, retained; no loss of community facility (GB24) (DL 7-10) |
@@ -2251,10 +2460,11 @@ Jump to: [AnnexA](#annexa) · [AnnexB](#annexb) · [AnnexD](#annexd) · [AnnexF]
 | ★ [50 Nutfield Road, Merstham (launderette to Class E)](../cases/PINS-6007410.md) | Appeal | allowed | pass |  | launderette (sui generis) is a key community facility but the 12-month marketing requirement applies only to shops and pubs; in any case marketed about 12 months overall (6 at reduced rent) without success; no unjustified loss (DL 5-7, 16) |
 | ★ [25 Essex Road, Dartford (Class MA, nursery to house)](../cases/PINS-6011893.md) | Appeal | dismissed | fail |  | nursery treated as key community facility; conflict "for the same reasons" (DL 11, 15) |
 
-### HC6(1)(a)  (fail 4, not-engaged 1, pass 1)
+### HC6(1)(a)  (fail 4, not-engaged 2, pass 1)
 
 | Case | Maker | Outcome | Finding | Weight | Note |
 | --- | --- | --- | --- | --- | --- |
+| [189 Greenwich High Road, London SE10 (bar to convenience store, Appeal A)](../cases/PINS-6012344.md) | Appeal | allowed | not-engaged |  | 12-month marketing test for public houses summarised (DL 9) but not applied; last use found to be a drinking establishment with expanded food provision, not a public house (DL 16-17) |
 | ★ [Victoria Vaults, 47-49 Nunnery Lane, York (pub/music venue to 3 townhouses)](../cases/PINS-6010035.md) | Appeal | dismissed | fail | substantial | same marketing and viability failings as the café appeal; 12-month period evidential not determinative (DL 25-36, 64) |
 | ★ [Victoria Vaults, 47-49 Nunnery Lane, York (pub/music venue to café)](../cases/PINS-6011055.md) | Appeal | dismissed | fail | substantial | 12-month marketing is "evidential rather than determinative"; marketing mixed in redevelopment value and excluded the upstairs flat; no open-book viability; ongoing hospitality interest (DL 30-41, 63) |
 | ★ [Former Newsham Park pub, 108 Boaler Street, Liverpool](../cases/PINS-6008083.md) | Appeal | dismissed | fail |  | HC6's 12-month marketing benchmark used to read local policy SP5; three months of unverified circulation to agents "falls significantly short" (DL 7-9) |
@@ -2262,10 +2472,12 @@ Jump to: [AnnexA](#annexa) · [AnnexB](#annexb) · [AnnexD](#annexd) · [AnnexF]
 | [St Barnabas Church, St Barnabas Close, Hereford (church to 52-bed care home)](../cases/PINS-6010739.md) | Appeal | allowed | not-engaged |  | the marketing requirement applies to shops and pubs where commercial viability is at issue, not to a church where limb (c) is met (DL 11) |
 | ★ [Bulls Head Public House, 96 Cambridge Street, St Neots](../cases/PINS-6009938.md) | Appeal | allowed | pass |  | 15 months of specialist marketing, 38 enquiries, 16 viewings, one offer withdrawn; negative fair maintainable operating profit; price in line with comparables; loss "sufficiently justified" (DL 5-11) |
 
-### HC6(1)(c)  (pass 3, fail 1)
+### HC6(1)(c)  (pass 5, fail 1)
 
 | Case | Maker | Outcome | Finding | Weight | Note |
 | --- | --- | --- | --- | --- | --- |
+| ★ [189 Greenwich High Road, London SE10 (bar to convenience store, Appeal A)](../cases/PINS-6012344.md) | Appeal | allowed | pass |  | a number of drinking establishments in Greenwich town centre, so sufficient alternative provision and no diminished access to key community facilities; letter says "HC6(1)(C)" (DL 25) |
+| ★ [189 Greenwich High Road, London SE10 (bar to cafe, Appeal B)](../cases/PINS-6012348.md) | Appeal | allowed | pass |  | sufficient alternative provision of drinking establishments in the town centre; same finding for both appeals; letter says "HC6(1)(C)" (DL 25) |
 | ★ [The Crown Inn, 97 Station Road, Cradley Heath](../cases/PINS-6010155.md) | Appeal | allowed | pass |  | other pubs within walking distance (Waterfall, Spring Meadow, Haden Cross) and many more in the wider area, so the loss "would not diminish access"; no 12-month marketing needed on this route (DL 20-22) |
 | ★ [Victoria Vaults, 47-49 Nunnery Lane, York (pub/music venue to café)](../cases/PINS-6011055.md) | Appeal | dismissed | fail |  | of c.40 York venues with live music, only The Crescent (300 capacity) is a comparable dedicated grassroots venue in the city centre (DL 17-19) |
 | ★ [The New Inn, Main Road, Totton](../cases/PINS-6003718.md) | Appeal | allowed | pass |  | Peg and Parrott within reasonable walking distance, town-centre pubs, two community halls; access not diminished, so HC6 met overall (DL 11, 33) |
@@ -2282,10 +2494,11 @@ Jump to: [AnnexA](#annexa) · [AnnexB](#annexb) · [AnnexD](#annexd) · [AnnexF]
 
 ## HC7
 
-### HC7  (pass 2, not-engaged 1)
+### HC7  (pass 2, fail 1, not-engaged 1)
 
 | Case | Maker | Outcome | Finding | Weight | Note |
 | --- | --- | --- | --- | --- | --- |
+| ★ [Land adjacent to 4 Callis Way, Parkwood, Gillingham (bungalow on amenity open space)](../cases/PINS-6009769.md) | Appeal | dismissed | fail |  | loss of existing open space; only HC7(1)(a) potentially applicable; the presence of other open spaces, dog walking and Council maintenance do not "clearly show" the site is surplus to requirements (DL 9-13) |
 | ★ [Land adjacent to 9 Ashby Close, Grimsby](../cases/PINS-6008922.md) | Appeal | allowed | pass |  | code mapped by harvester — not designated/safeguarded open space; hard-surfaced, unused; ample greenspace nearby along Great Coates Road and River Freshney (DL 9-11) |
 | [Land south of Daws Heath Road, Thundersley](../cases/PINS-6007184.md) | Appeal | allowed | not-engaged |  | private grazing land is not recreational land/facility (DL 49) |
 | [Land at OS 7833 5108, Leigh Sinton (community centre and pitches)](../cases/malvern-M-26-00885-FUL.md) | Committee | approved | pass |  | assessed under "NPPF paragraphs 103 and 104" (the 2024 numbering) rather than HC1/HC4/HC7 |
@@ -2319,10 +2532,13 @@ Jump to: [AnnexA](#annexa) · [AnnexB](#annexb) · [AnnexD](#annexd) · [AnnexF]
 | ★ [35 Denmark Road, Poole (9 flats, outline)](../cases/PINS-6005194.md) | Appeal | dismissed | fail |  | benefits "insufficient to provide the clear and convincing justification" (DL 42) |
 | ★ [Thorneloe Place, Thorneloe Walk, Worcester (4 dwellings, repositioning; with 26/00542/LB)](../cases/worcester-26-00541-FUL.md) | Committee | approved | determinative |  |  |
 
-### HE4(1)  (harm 1, conflict 1)
+### HE4(1)  (conflict 4, harm 1)
 
 | Case | Maker | Outcome | Finding | Weight | Note |
 | --- | --- | --- | --- | --- | --- |
+| [Barrow Hill House, 7 East Mersea Road, West Mersea (two-storey rear extension, planning appeal)](../cases/PINS-6005011.md) | Appeal | dismissed | conflict |  | HE4 set out; the proposal would not conserve the building in a manner appropriate to its significance (DL 12, 23-24) |
+| [Barrow Hill House, 7 East Mersea Road, West Mersea (two-storey rear extension, listed building consent)](../cases/PINS-6005014.md) | Appeal | dismissed | conflict |  | the works would not conserve the building in a manner appropriate to its significance; contrary to HE4 and HE6 (DL 23-24) |
+| [51 Thorndon Hall, Ingrave (replacement sash windows, listed building consent)](../cases/PINS-6005177.md) | Appeal | dismissed | conflict |  | HE4 set out; works not shown to conserve significance (DL 8, 33) |
 | ★ [21 Grace Hill, Folkestone (ground floor)](../cases/PINS-6011807.md) | Appeal | dismissed | harm |  | heritage assets "an irreplaceable resource ... conserved in a manner appropriate to their significance" (DL 16) |
 | [Pavement outside 297 King Street, Hammersmith](../cases/PINS-6009772.md) | Appeal | dismissed | conflict |  | "heritage assets, as an irreplaceable resource, should be conserved in a manner appropriate to their significance" (DL 13) |
 
@@ -2333,10 +2549,24 @@ Jump to: [AnnexA](#annexa) · [AnnexB](#annexb) · [AnnexD](#annexd) · [AnnexF]
 | [Low Flatt Farm, Heads Lane, Bolsterstone](../cases/PINS-6007476.md) | Appeal | dismissed | neutral | limited | benefits of securing the new use "only limited weight": no evidence the building is at risk or that the opening is needed for a viable conversion, and less harmful alternatives not explored (DL 11, 14-15); code mapped by harvester |
 | [Long Barn, 46 Market Square, Witney](../cases/PINS-6009103.md) | Appeal | dismissed | benefit |  | code mapped by harvester — ongoing use for two vacant units "an important public benefit", plus removal of infill, a town-centre home, spend (DL 17) |
 
-### HE4(2)  (fail 29, determinative 6, pass 3)
+### HE4(1)(b)  (conflict 1)
 
 | Case | Maker | Outcome | Finding | Weight | Note |
 | --- | --- | --- | --- | --- | --- |
+| [67 Main Street, Bushby (replacement dwelling in conservation area)](../cases/PINS-6009245.md) | Appeal | dismissed | conflict |  | fails to avoid harm to significance (DL 14, 18) |
+
+### HE4(2)  (fail 37, determinative 6, pass 3)
+
+| Case | Maker | Outcome | Finding | Weight | Note |
+| --- | --- | --- | --- | --- | --- |
+| ★ [Barrow Hill House, 7 East Mersea Road, West Mersea (two-storey rear extension, planning appeal)](../cases/PINS-6005011.md) | Appeal | dismissed | fail |  | clear and convincing justification not provided (DL 18, 23) |
+| ★ [Barrow Hill House, 7 East Mersea Road, West Mersea (two-storey rear extension, listed building consent)](../cases/PINS-6005014.md) | Appeal | dismissed | fail |  | clear and convincing justification not provided (DL 18, 23) |
+| ★ [51 Thorndon Hall, Ingrave (replacement sash windows, listed building consent)](../cases/PINS-6005177.md) | Appeal | dismissed | fail |  | no specialist report that the windows are beyond repair and no account of alternatives; no clear justification for the extent of the works (DL 15-16, 28, 32-33) |
+| ★ [Land adjacent to 2 New Ealing Broadway, Ealing (BT Street Hub with advert screens)](../cases/PINS-6008483.md) | Appeal | dismissed | fail |  | the edge-of-area location and the absence of concerns from the Council's Conservation Officer are not "a clear and convincing justification" for the harm (DL 20) |
+| ★ [10 West Street, Weston-super-Mare (shop unit merged into the dwelling above)](../cases/PINS-6010305.md) | Appeal | dismissed | fail |  | harm "lacks clear and convincing justification" (DL 20, 24) |
+| [Pavement outside Waterfront House, 35 Station Street, Nottingham (communications kiosk)](../cases/PINS-6002400.md) | Appeal | dismissed | fail |  | clear and convincing justification stated as the test (DL 21); alternative sitings not shown to have been considered (DL 26) |
+| ★ [Land at Castle End, Lea, Ross-on-Wye (PIP, up to 3 dwellings)](../cases/PINS-6002708.md) | Appeal | dismissed | fail |  | no clear and convincing justification; HE4 not cited by number (DL 26) |
+| ★ [2A Park Road, Barnoldswick (uPVC shopfront condition)](../cases/PINS-6009979.md) | Appeal | dismissed | fail |  | clear and convincing justification stated as the test; other uPVC in the area and cost do not justify the harm (DL 10, 16-17) |
 | ★ [Adsdean House, Adsdean (listed building consent - stair lift)](../cases/PINS-6001939.md) | Appeal | dismissed | fail |  | harm not supported by clear and convincing justification (DL 18) |
 | [Opposite 67 Sandgate Road, Folkestone (BT Street Hub)](../cases/PINS-6004363.md) | Appeal | dismissed | fail |  | public benefits "insufficient to provide such justification" (DL 19) |
 | ★ [The Stables, Adsdean Park Road, Funtington (listed building consent)](../cases/PINS-6006266.md) | Appeal | dismissed | fail |  | no clear and convincing justification (DL 25) |
@@ -2418,10 +2648,17 @@ Jump to: [AnnexA](#annexa) · [AnnexB](#annexb) · [AnnexD](#annexd) · [AnnexF]
 | [Pavement outside 297 King Street, Hammersmith](../cases/PINS-6009772.md) | Appeal | dismissed | fail |  | no heritage assessment of setting submitted (DL 6) |
 | [Pavement outside 1b Shepherds Bush Road, Hammersmith](../cases/PINS-6009776.md) | Appeal | dismissed | neutral |  | "There is nothing before me to establish the significance of the CA as required by policy HE5" — inspector assessed significance from own observations (DL 6-7) |
 
-### HE5(2)  (harm 8, neutral 1)
+### HE5(2)  (harm 13, neutral 3)
 
 | Case | Maker | Outcome | Finding | Weight | Note |
 | --- | --- | --- | --- | --- | --- |
+| [Cross Gaits Inn, Beverley Road, Blacko (pub to dwelling, planning appeal)](../cases/PINS-6007704.md) | Appeal | allowed | harm |  | loss of the long-standing public house use erodes the special interest of the Grade II building; "The degree of harm would be limited" because the building, its form and most surviving features are kept; HE5 cited for effect on significance, not scale of development (DL 35-36) |
+| [Cross Gaits Inn, Beverley Road, Blacko (pub to dwelling, listed building consent)](../cases/PINS-6007757.md) | Appeal | allowed | harm |  | internal alterations kept to a minimum with some loss of historic fabric; the main harm is the loss of the historic public house use; "The degree of harm would be limited" (DL 34-36) |
+| [Land adjacent to 2 New Ealing Broadway, Ealing (BT Street Hub with advert screens)](../cases/PINS-6008483.md) | Appeal | dismissed | harm |  | harm to the significance of the Ealing Town Centre Conservation Area from a dominant, illuminated unit that would obscure views along The Broadway; "the degree of harm would be modest" given the commercial setting (DL 17-19) |
+| [Monometer House, 128 Rectory Grove, Leigh-on-Sea (storage building on stilts over a car park)](../cases/PINS-6009318.md) | Appeal | dismissed | neutral |  | mapped: site close to the Leigh Conservation Area; parties agree no harm to its setting; s72(1) noted (DL 18) |
+| [10 West Street, Weston-super-Mare (shop unit merged into the dwelling above)](../cases/PINS-6010305.md) | Appeal | dismissed | harm |  | harm to the significance of the Great Weston Conservation Area "at the low end of the scale" - a disjointed domestic frontage and the loss of the retail unit, where the significance relates largely to the ground-floor commercial presence (DL 16-19) |
+| [Canons, Hobbs Cross Road, Matching (replacement dwelling, Green Belt)](../cases/PINS-6010746.md) | Appeal | dismissed | harm |  | letter says "Policy HE5 2"; low degree of harm to the significance of Grade II Inglenook through its setting, from the scale, gables, glazing and hardstanding eroding the rural context (DL 19-21) |
+| [The Little Boatyard, Lime Street, Brightlingsea (timber cabin for light industrial use)](../cases/PINS-6010933.md) | Appeal | allowed | neutral |  | site close to the Brightlingsea Conservation Area; not visible in views to or from it; "no effect on the significance of the CA"; HE4 and HE5 cited; s72(1) applied although the site is outside the area (DL 23-24) |
 | [Footpath outside 1 Prince Street, Bridlington (BT Street Hub)](../cases/PINS-6009141.md) | Appeal | dismissed | harm |  | degree identified - low harm to the CA's significance; dark monolithic hub with illuminated screens more conspicuous than the kiosk it replaces (DL 12, 15, 17) |
 | [The Old Stables, 12 Kenward Court, Hadlow (uPVC windows, listed building consent)](../cases/PINS-6009847.md) | Appeal | dismissed | harm |  | degree identified - limited harm; uPVC inappropriate even though the windows replaced are not historic (DL 12-14) |
 | [1 Boxley Oast, Street Farm, Boxley (garage roof alterations)](../cases/PINS-6010727.md) | Appeal | dismissed | harm |  | degree identified - greater than moderate harm to the significance of the Boxley CA; bulk undermines the primacy of the NDHA oast in a key view (DL 13-16) |
@@ -2442,7 +2679,7 @@ Jump to: [AnnexA](#annexa) · [AnnexB](#annexb) · [AnnexD](#annexd) · [AnnexF]
 | ★ [Blackett Street (outside No 42), Newcastle upon Tyne](../cases/PINS-6003400.md) | Appeal | allowed | neutral |  | neutral effect on setting of Grade I Earl Grey Monument, Grade II Parsons' Polygon, Eldon Buildings and Central CA; like-for-like replacement, Council gave no evidence of harm (DL 21-25) |
 | ★ [19 Loughborough Road, Burton on the Wolds](../cases/PINS-6008290.md) | Appeal | allowed | pass |  | bonded glazing bars and flat timber bead only discernible at close quarters; "neutral effect" (DL 12-14) |
 
-### HE5(2)(c)  (harm 4)
+### HE5(2)(c)  (harm 4, neutral 1)
 
 | Case | Maker | Outcome | Finding | Weight | Note |
 | --- | --- | --- | --- | --- | --- |
@@ -2450,15 +2687,26 @@ Jump to: [AnnexA](#annexa) · [AnnexB](#annexb) · [AnnexD](#annexd) · [AnnexF]
 | [8 Shepherd House, Shepherd House Farm, Luddenden (listed building consent)](../cases/PINS-6011013.md) | Appeal | dismissed | harm |  | the two-storey extension is too high and prominent for a hillside farmhouse, and the new opening loses historic fabric, so "a medium level of harm"; the fabric repairs would have "a positive effect" (DL 12-16, 21) |
 | [79 Main Street, Seamer (listed building consent, curtilage outbuildings)](../cases/PINS-6008732.md) | Appeal | dismissed | harm |  | loss of curtilage-listed outbuildings plus a dominant garage and stark tarmac; "a low level of harm" to the listed building and "a very low level of harm" to the conservation area (DL 19-29) |
 | [79 Main Street, Seamer (planning appeal)](../cases/PINS-6009092.md) | Appeal | dismissed | harm |  | degree identified - low harm to the listed building, very low harm to Seamer CA (DL 18, 29) |
+| [Land at Backworth Business Park, Eccleston Close, Backworth (37 homes on a local wildlife site)](../cases/PINS-6006322.md) | Appeal | allowed | neutral |  | mapped: Framework heritage policy not cited; neutral effect on the significance and setting of Grade II Dairy Cottage; s66(1) duty applied (DL 29-30) |
+
+### HE5(3)  (neutral 1)
+
+| Case | Maker | Outcome | Finding | Weight | Note |
+| --- | --- | --- | --- | --- | --- |
+| [56 St Giles', Oxford (bookshop to college common room)](../cases/PINS-6013769.md) | Appeal | dismissed | neutral |  | HE5 cited; the impact on significance, not the scale of development, is what matters, so a change of use with no physical works can still harm (DL 15) |
 
 ## HE6
 
-### HE6  (harm 52, neutral 47, pass 19, not-engaged 7, determinative 1, benefit 1)
+### HE6  (harm 52, neutral 52, pass 19, not-engaged 7, determinative 1, benefit 1)
 
 | Case | Maker | Outcome | Finding | Weight | Note |
 | --- | --- | --- | --- | --- | --- |
 | [Morgan and Morecambe Offshore Wind Farms Transmission Assets (DCO)](../cases/SOS-EN020032.md) | SoS | approved | harm | moderate | residual moderate adverse effects on buried archaeology; benefits outweigh with "clear and convincing justification" (DL 7.8, 7.13) |
 | [Beacon Fen Energy Park, near Heckington, Lincolnshire (DCO)](../cases/SOS-EN010151.md) | SoS | approved | harm | moderate | less than substantial harm (South Kyme Tower setting, Gashes Barn, non-designated farmsteads, Car Dyke); benefits outweigh; SoS raised ExA's little weight to moderate; applied as "NPPF paragraph 215" (2024) (DL 4.53-4.54, 7.2) |
+| [Land east of Wymers Wood Road, Burnham (self-build dwelling)](../cases/PINS-6005162.md) | Appeal | allowed | neutral |  | no harm to the significance or setting of Grade II Elizabeth's Way; absence of harm does not weigh in favour (DL 37-38, 43) |
+| [Lower Fawke Farm, Bitchet Green Road, Fawke Common, Underriver](../cases/PINS-6004899.md) | Appeal | allowed | neutral |  | mapped - site not part of the setting of four Grade II listed buildings (no intervisibility); Old Dairy not treated as an NDHA (DL 25-26) |
+| [189 Greenwich High Road, London SE10 (bar to convenience store, Appeal A)](../cases/PINS-6012344.md) | Appeal | allowed | neutral |  | settings of Grade II Greenwich Station and Queen Elizabeth's Almshouses preserved; West Greenwich CA conserved; no harm to the Maritime Greenwich World Heritage Site buffer zone (HE5, HE6 and HE8 cited) (DL 28-30) |
+| [189 Greenwich High Road, London SE10 (bar to cafe, Appeal B)](../cases/PINS-6012348.md) | Appeal | allowed | neutral |  | listed building settings, the West Greenwich CA and the World Heritage Site buffer zone unharmed (HE5, HE6 and HE8 cited) (DL 28-30) |
 | [5 More London Place, Southwark (restaurant pergola and awning)](../cases/PINS-6001859.md) | Appeal | dismissed | neutral |  | site outside but in setting of Tooley Street CA and of Grade I Tower Bridge; no harm to significance, views from busiest central walkway kept (DL 11, 13-14, 19) |
 | [Land opposite Nash Cottage, Ashford Road, Brenzett](../cases/PINS-6007677.md) | Appeal | dismissed | neutral |  | setting of Grade II Nash Cottage; existing building detracts; no additional harm, significance preserved (s66) (DL 14-16) |
 | [Beehive Cottage, Portway, Old Sarum, Salisbury](../cases/PINS-6007924.md) | Appeal | allowed | neutral |  | setting of the Grade II toll house preserved; dilapidated plot adds nothing to significance (DL 15-21) |
@@ -2479,6 +2727,7 @@ Jump to: [AnnexA](#annexa) · [AnnexB](#annexb) · [AnnexD](#annexd) · [AnnexF]
 | [111-115 Grainger Street, Newcastle (first-floor flat by market flue)](../cases/PINS-6005950.md) | Appeal | dismissed | neutral |  | Grade I listed Grainger Market east front and Newcastle Central CA preserved; s66(1) and s72(1) satisfied subject to conditions (DL 26-29) |
 | [Land East of College Road South, Aston Clinton](../cases/PINS-6008253.md) | Appeal | allowed | neutral |  | no harm to Grade II Sunnybrook Farm (setting already engulfed) or 1-6 Ballards Row (DL 43-47) |
 | [Land at Nunhayes, Great Stone, Cuddington](../cases/PINS-6009513.md) | Appeal | dismissed | neutral |  | no effect on settings of Grade II Nunhayes Cottage and outbuilding, or Great Stone House (DL 16-19) |
+| [Percy Wood Golf Club and Country Retreat, Swarland (180 caravans and lodges, leisure hub)](../cases/PINS-6010440.md) | Appeal | allowed | neutral |  | mapped: Framework heritage policy not cited; nearby heritage assets and their settings preserved; s66(1) and s72(1) duties cited (DL 15) |
 | [Land adjacent to Red Lane, Rosudgeon](../cases/PINS-6007416.md) | Appeal | dismissed | harm | substantial | minor harm to OUV of Cornwall and West Devon Mining Landscape WHS through erosion of legibility of a historic mineworkers' smallholding; HE6(1) substantial weight to conservation, HE6(3) considerable importance and weight; public benefits moderate (DL 13-20, 28) |
 | ★ [Land to the rear of The White House, Munden Road, Dane End](../cases/PINS-6007451.md) | Appeal | allowed | neutral |  | rear field outside the Grade II White House's current setting, which is limited to historic gardens; no meaningful intervisibility; relationship only via 20th-century nursery use; driveway works negligible (DL 16-25) |
 | [Land adjacent to Farm View Cottage (Frith Manor), Lingfield Road, East Grinstead](../cases/PINS-6008688.md) | Appeal | dismissed | neutral |  | setting of Grade II Frith Manor preserved (DL 40) |
@@ -2585,10 +2834,24 @@ Jump to: [AnnexA](#annexa) · [AnnexB](#annexb) · [AnnexD](#annexd) · [AnnexF]
 | [Parcel 0014, Charlton Road, Keynsham](../cases/bathnes-25-04952-EOUT.md) | Committee | approved | harm | limited | less-than-substantial harm to Queen Charlton Conservation Area, outweighed |
 | ★ [Land rear of 6-108 Mell Road, Tollesbury](../cases/maldon-26-00066-OUTM.md) | Committee | approved | harm | limited | low less-than-substantial harm to Grade II Monks' House and Bohuns Hall; limited harm to Protected Lane (NDHA) |
 
-### HE6(1)  (harm 47, determinative 19, neutral 7, pass 2, benefit 1)
+### HE6(1)  (harm 62, determinative 19, neutral 7, pass 2, benefit 1)
 
 | Case | Maker | Outcome | Finding | Weight | Note |
 | --- | --- | --- | --- | --- | --- |
+| [Barrow Hill House, 7 East Mersea Road, West Mersea (two-storey rear extension, planning appeal)](../cases/PINS-6005011.md) | Appeal | dismissed | harm | substantial | substantial weight to conservation stated (DL 13) |
+| [Barrow Hill House, 7 East Mersea Road, West Mersea (two-storey rear extension, listed building consent)](../cases/PINS-6005014.md) | Appeal | dismissed | harm | substantial | substantial weight to conservation stated (DL 13) |
+| [51 Thorndon Hall, Ingrave (replacement sash windows, listed building consent)](../cases/PINS-6005177.md) | Appeal | dismissed | harm | substantial | substantial weight to conservation, greater for a more important asset; Grade I listing "of special importance" (DL 9, 17) |
+| [Cross Gaits Inn, Beverley Road, Blacko (pub to dwelling, planning appeal)](../cases/PINS-6007704.md) | Appeal | allowed | harm | substantial | substantial weight to the asset's conservation stated (DL 36) |
+| [Cross Gaits Inn, Beverley Road, Blacko (pub to dwelling, listed building consent)](../cases/PINS-6007757.md) | Appeal | allowed | harm | substantial | substantial weight to the asset's conservation stated (DL 36) |
+| [Land adjacent to 2 New Ealing Broadway, Ealing (BT Street Hub with advert screens)](../cases/PINS-6008483.md) | Appeal | dismissed | harm | substantial | substantial weight to conservation of the asset stated (DL 21) |
+| [10 West Street, Weston-super-Mare (shop unit merged into the dwelling above)](../cases/PINS-6010305.md) | Appeal | dismissed | harm | substantial | substantial weight to conservation of the asset stated (DL 20, 24) |
+| [Canons, Hobbs Cross Road, Matching (replacement dwelling, Green Belt)](../cases/PINS-6010746.md) | Appeal | dismissed | harm | substantial | substantial weight to the asset's conservation stated (DL 22, 30) |
+| [56 St Giles', Oxford (bookshop to college common room)](../cases/PINS-6013769.md) | Appeal | dismissed | harm | substantial | substantial weight to conservation stated; harm to the conservation area graded as a low level (DL 16) |
+| ★ [Pavement outside Waterfront House, 35 Station Street, Nottingham (communications kiosk)](../cases/PINS-6002400.md) | Appeal | dismissed | harm | substantial | harm, not substantial, to the Station Conservation Area and to the setting of the Grade II* Midland Railway Station; HE6(1) quoted in full, with greater weight for the more important asset (DL 20-22) |
+| ★ [Land at Castle End, Lea, Ross-on-Wye (PIP, up to 3 dwellings)](../cases/PINS-6002708.md) | Appeal | dismissed | harm | substantial | moderate harm to the significance of Grade II* Castle End through loss of the open buffer in its setting; greater weight for a more important asset (DL 14-15, 21-22, 25, 40) |
+| ★ [The Teapot, East Pier, Sandside, Scarborough (outdoor seating hours condition)](../cases/PINS-6009880.md) | Appeal | dismissed | harm | substantial | mapped: policy numbers not cited; harm "at the lower end of the scale" to the setting of the listed East Pier and to the Scarborough Conservation Area; substantial weight to their conservation (DL 11, 13) |
+| ★ [2A Park Road, Barnoldswick (uPVC shopfront condition)](../cases/PINS-6009979.md) | Appeal | dismissed | harm | substantial | uPVC shop window and door would harm the Barnoldswick Conservation Area, "towards the lower end of the spectrum"; substantial weight to conservation "irrespective of the level of harm" (DL 9, 13) |
+| [Thamesfield Retirement Village, Wargrave Road, Remenham](../cases/PINS-6011062.md) | Appeal | dismissed | harm | substantial | limited harm to the Remenham Henley Bridge CA (development within it) and the Henley-on-Thames CA (setting); letter says "HE6.1" (DL 29-30) |
 | [Adsdean House, Adsdean (listed building consent - stair lift)](../cases/PINS-6001939.md) | Appeal | dismissed | harm | substantial | substantial weight to the asset's conservation stated (DL 17); loss of c.1900 lath and plaster ceiling and floorboards, doors sealed shut, "inelegant and awkward siting" (DL 8-11) |
 | [Opposite 67 Sandgate Road, Folkestone (BT Street Hub)](../cases/PINS-6004363.md) | Appeal | dismissed | harm | substantial | substantial weight to conservation of Folkestone Leas and Bayle CA (DL 9); "Modest harm" to CA significance through setting (DL 15) |
 | [The Stables, Adsdean Park Road, Funtington (listed building consent)](../cases/PINS-6006266.md) | Appeal | dismissed | harm | substantial | HE6(1) stated correctly - "substantial weight should be given to the asset's conservation"; low harm to the Grade II stables (fabric loss, domesticated rear elevation) and to the setting of Grade II Adsdean House (DL 17-21, 24) |
@@ -2600,6 +2863,7 @@ Jump to: [AnnexA](#annexa) · [AnnexB](#annexb) · [AnnexD](#annexd) · [AnnexF]
 | [4-6 Ashford Road, Tenterden (listed building consent, first-floor sign)](../cases/PINS-6011717.md) | Appeal | dismissed | harm | substantial | substantial weight to conservation; each sign causes "a moderate degree of harm" (DL 24) |
 | [Flat 4, 99 Kennington Park Road, Southwark](../cases/PINS-6003226.md) | Appeal | dismissed | harm | substantial | substantial weight to conservation; harm to significance of Grade II terrace (loss of cellular plan form, spine wall and last chimney breasts); degree of harm graded high (DL 17-18, 22, 24) |
 | [42 Potter Street, Harlow (annex to part holiday let)](../cases/PINS-6007590.md) | Appeal | allowed | neutral | substantial | HE4 and HE6 quoted with s66(1); no physical works, so no harm to the Grade II outbuilding or Grade II house; more regular use and heating may help upkeep, limited weight as unevidenced (DL 11-14) |
+| [Land west of 103 Tonbridge Road, Hildenborough (PIP, 5 to 7 homes)](../cases/PINS-6010459.md) | Appeal | allowed | harm | substantial | substantial weight to the asset's conservation "irrespective of the level of harm" (DL 18) |
 | [Land at Castle End, Lea (PIP, setting of Grade II* manor house)](../cases/PINS-6001896.md) | Appeal | dismissed | harm | substantial | substantial weight to conservation; Grade II* asset "extremely important"; the field is the last open buffer between development and Castle End, so harm to setting at "a moderate level" (DL 10-16, 19, 29) |
 | ★ [Land at Netteswell, The Crescent, Watford (two one-bedroom houses)](../cases/PINS-6006990.md) | Appeal | dismissed | harm | substantial | public benefits (two homes, energy efficiency and low-carbon heat) insufficient against the substantial weight to conservation; degree of harm not graded and HE6(3)/(4) not named (DL 7, 24-25) |
 | [Brishing Court Farm, Brishing Lane, Boughton Monchelsea](../cases/PINS-6007158.md) | Appeal | dismissed | harm | substantial | substantial weight to conservation stated (DL 11); moderate harm to Grade II* Brishing Court through loss of orchard on its historic approach (DL 7-8, 12) |
@@ -2672,10 +2936,31 @@ Jump to: [AnnexA](#annexa) · [AnnexB](#annexb) · [AnnexD](#annexd) · [AnnexF]
 | --- | --- | --- | --- | --- | --- |
 | [Forge Garage, Church Road, Churchill](../cases/PINS-6007705.md) | Appeal | allowed | benefit | significant | positive effect on the Churchill CA; with enhancement of The Forge NDHA, "significant weight" (DL 9, 11, 43) |
 
-### HE6(3)  (harm 51, determinative 11)
+### HE6(3)  (harm 73, determinative 11)
 
 | Case | Maker | Outcome | Finding | Weight | Note |
 | --- | --- | --- | --- | --- | --- |
+| [Barrow Hill House, 7 East Mersea Road, West Mersea (two-storey rear extension, planning appeal)](../cases/PINS-6005011.md) | Appeal | dismissed | harm | considerable | flat-roofed two-storey extension has an awkward interface with the catslide roof and is not subservient; degree of harm not graded (DL 15-16, 18) |
+| [Barrow Hill House, 7 East Mersea Road, West Mersea (two-storey rear extension, listed building consent)](../cases/PINS-6005014.md) | Appeal | dismissed | harm | considerable | awkward interface between the flat roof and the catslide roof; not subservient; degree of harm not graded (DL 15-16, 18) |
+| [51 Thorndon Hall, Ingrave (replacement sash windows, listed building consent)](../cases/PINS-6005177.md) | Appeal | dismissed | harm | considerable | loss of historic fabric harms significance; degree of harm not graded (DL 18, 28, 33) |
+| [Cross Gaits Inn, Beverley Road, Blacko (pub to dwelling, planning appeal)](../cases/PINS-6007704.md) | Appeal | allowed | harm | considerable | "I give this harm considerable importance and weight" (DL 36) |
+| [Cross Gaits Inn, Beverley Road, Blacko (pub to dwelling, listed building consent)](../cases/PINS-6007757.md) | Appeal | allowed | harm | considerable | "I give this harm considerable importance and weight" (DL 36) |
+| [Land adjacent to 2 New Ealing Broadway, Ealing (BT Street Hub with advert screens)](../cases/PINS-6008483.md) | Appeal | dismissed | harm | considerable | "the considerable importance I must attach to the preservation of the CA" (DL 25) |
+| [67 Main Street, Bushby (replacement dwelling in conservation area)](../cases/PINS-6009245.md) | Appeal | dismissed | harm | considerable | harm to the significance of the Bushby Conservation Area, degree not graded; "considerable importance and weight" (DL 11, 18) |
+| [10 West Street, Weston-super-Mare (shop unit merged into the dwelling above)](../cases/PINS-6010305.md) | Appeal | dismissed | harm | considerable | harm and "the considerable importance this carries" (DL 24) |
+| ★ [Canons, Hobbs Cross Road, Matching (replacement dwelling, Green Belt)](../cases/PINS-6010746.md) | Appeal | dismissed | harm | considerable | harm "at the lower level" is still a matter of considerable importance and weight (DL 30) |
+| ★ [Chase Lodge Hospital, Page Street, Mill Hill (front pergola, Grade II listed)](../cases/PINS-6011852.md) | Appeal | dismissed | harm | considerable | overtly modern, visually intrusive pergola by the reception entrance competes with the symmetrical principal elevation and takes open space from the setting; "considerable importance and weight"; degree of harm not graded (DL 9-11) |
+| ★ [Chase Lodge Hospital, Page Street, Mill Hill (rear pergola, Grade II listed)](../cases/PINS-6011855.md) | Appeal | dismissed | harm | considerable | harm to the significance of the Grade II listed building through its setting (loss of open space, discordant modern structure); "considerable importance and weight"; degree of harm not graded (DL 9-10) |
+| [403 King's Road, Chelsea (JOLT electric vehicle charge point with advert screens)](../cases/PINS-6012075.md) | Appeal | dismissed | harm | considerable | letter says the harm is one "to which I attach substantial weight" (DL 14); the Framework's words are considerable importance and weight to harm, substantial weight to conservation |
+| [56 St Giles', Oxford (bookshop to college common room)](../cases/PINS-6013769.md) | Appeal | dismissed | harm | considerable | even a low level of harm carries considerable importance and weight (DL 16, 23) |
+| ★ [Pavement outside Waterfront House, 35 Station Street, Nottingham (communications kiosk)](../cases/PINS-6002400.md) | Appeal | dismissed | harm | considerable | considerable importance and weight, especially given the Grade II* station complex (DL 22) |
+| ★ [Land at Castle End, Lea, Ross-on-Wye (PIP, up to 3 dwellings)](../cases/PINS-6002708.md) | Appeal | dismissed | harm | considerable | harm of considerable importance and weight (DL 22, 25, 40) |
+| ★ [The Teapot, East Pier, Sandside, Scarborough (outdoor seating hours condition)](../cases/PINS-6009880.md) | Appeal | dismissed | harm | considerable | mapped: "a matter of considerable importance" (DL 13) |
+| ★ [2A Park Road, Barnoldswick (uPVC shopfront condition)](../cases/PINS-6009979.md) | Appeal | dismissed | harm | considerable | considerable importance and weight attached to the harm, by reference to the section 72 duty (DL 9, 13) |
+| [Pavement outside 498-504 Fulham Road, London SW6 (multifunctional hub with advert screen)](../cases/PINS-6010445.md) | Appeal | dismissed | harm | considerable | letter says the harm is one "to which I attach substantial weight" (DL 16); the Framework's words are considerable importance and weight to harm, substantial weight to conservation |
+| [Thamesfield Retirement Village, Wargrave Road, Remenham](../cases/PINS-6011062.md) | Appeal | dismissed | harm | considerable | considerable importance and weight attached to the limited harm (DL 30, 37) |
+| [125-133 Old Brompton Road, London SW7 (JOLT electric vehicle charge point with advert screens)](../cases/PINS-6012098.md) | Appeal | dismissed | harm | considerable | letter says the harm is one "to which I attach substantial weight" (DL 15); the Framework's words are considerable importance and weight to harm, substantial weight to conservation |
+| [Outside 131 Fulham Road, London SW3 (JOLT electric vehicle charge point with advert screens)](../cases/PINS-6012105.md) | Appeal | dismissed | harm | considerable | letter says the harm is one "to which I attach substantial weight" (DL 14); the Framework's words are considerable importance and weight to harm, substantial weight to conservation |
 | ★ [Adsdean House, Adsdean (listed building consent - stair lift)](../cases/PINS-6001939.md) | Appeal | dismissed | harm | considerable | "at a low level of harm but nevertheless is of considerable importance and weight" (DL 13) |
 | [Land adjacent 837 Manchester Road, Linthwaite](../cases/PINS-6006003.md) | Appeal | dismissed | harm | considerable | moderate harm to Linthwaite CA from loss of the open visual break and larger trees; no clear and convincing justification (DL 20-21) |
 | [The Stables, Adsdean Park Road, Funtington (listed building consent)](../cases/PINS-6006266.md) | Appeal | dismissed | harm | considerable | low harm, individually and cumulatively, "of considerable importance and weight" (DL 21) |
@@ -2690,6 +2975,7 @@ Jump to: [AnnexA](#annexa) · [AnnexB](#annexb) · [AnnexD](#annexd) · [AnnexF]
 | [Footpath outside 1 Prince Street, Bridlington (BT Street Hub)](../cases/PINS-6009141.md) | Appeal | dismissed | harm | considerable | HE6(1) substantial weight irrespective of level of effect; HE6(3) considerable importance and weight (DL 18, 21) |
 | ★ [The Old Stables, 12 Kenward Court, Hadlow (uPVC windows, listed building consent)](../cases/PINS-6009847.md) | Appeal | dismissed | harm | considerable | HE6(1) substantial weight to conservation and HE6(3) considerable importance and weight stated (DL 10, 15) |
 | [Ewen House, High Road, Fobbing (pool and annexe)](../cases/PINS-6009919.md) | Appeal | dismissed | harm | considerable | moderate harm to Fobbing CA by eroding significant open space identified in the appraisal; utilitarian design (DL 30-34) |
+| [Land west of 103 Tonbridge Road, Hildenborough (PIP, 5 to 7 homes)](../cases/PINS-6010459.md) | Appeal | allowed | harm | considerable | harm to the Hildenborough Conservation Area "at the lower end of the scale of harm"; the access would break the uninterrupted, TPO-protected hedgerow on the southern side of Tonbridge Road (DL 10-11, 13, 18) |
 | [Land outside 81 Fishergate, Preston (communications kiosk with digital advert)](../cases/PINS-6012248.md) | Appeal | dismissed | harm |  | low harm to setting of Winckley Square CA and Grade II former Fishergate Baptist Church (clock-tower landmark) from illuminated changing images; HE6(3) wording on the weight of harm not stated (DL 12, 14) |
 | ★ [Land at Castle End, Lea (PIP, setting of Grade II* manor house)](../cases/PINS-6001896.md) | Appeal | dismissed | harm | considerable | moderate harm "nevertheless is of considerable importance and weight" (DL 16) |
 | [Brishing Court Farm, Brishing Lane, Boughton Monchelsea](../cases/PINS-6007158.md) | Appeal | dismissed | harm | considerable | "moderate harm ... Any harm to a designated heritage asset will be a matter of considerable importance and weight" (DL 12) |
@@ -2739,10 +3025,31 @@ Jump to: [AnnexA](#annexa) · [AnnexB](#annexb) · [AnnexD](#annexd) · [AnnexF]
 | ★ [Forest Farm, Welford Road, Long Marston](../cases/stratford-26-01906-PIP.md) | Delegated | approved | harm | substantial | harm to setting of Grade II Forest Farmhouse ("highly detrimental") and Grade II Lyndon Cottage (20 m); Conservation Officer objected; weighed only inside the S4 balance, with no separate HE6(4) public-benefits test |
 | [Church View, Back Street, Ilmington](../cases/stratford-26-01399-PIP.md) | Delegated | refused | harm | considerable | harm to character and appearance of Ilmington Conservation Area and to setting of Grade II Hill Farm Barns (1–3); officer also says "great weight" |
 
-### HE6(4)  (fail 91, harm 31, benefit 9, pass 7, not-engaged 2, determinative 1)
+### HE6(4)  (fail 109, harm 31, pass 11, benefit 9, not-engaged 2, determinative 1)
 
 | Case | Maker | Outcome | Finding | Weight | Note |
 | --- | --- | --- | --- | --- | --- |
+| ★ [Barrow Hill House, 7 East Mersea Road, West Mersea (two-storey rear extension, planning appeal)](../cases/PINS-6005011.md) | Appeal | dismissed | fail |  | extra floorspace and internal reconfiguration are private; no public benefits identified (DL 20-22) |
+| ★ [Barrow Hill House, 7 East Mersea Road, West Mersea (two-storey rear extension, listed building consent)](../cases/PINS-6005014.md) | Appeal | dismissed | fail |  | no public benefits identified; the benefits are a private aspiration (DL 20-22) |
+| ★ [51 Thorndon Hall, Ingrave (replacement sash windows, listed building consent)](../cases/PINS-6005177.md) | Appeal | dismissed | fail |  | harm not outweighed by any public benefits (DL 28-33) |
+| ★ [Cross Gaits Inn, Beverley Road, Blacko (pub to dwelling, planning appeal)](../cases/PINS-6007704.md) | Appeal | allowed | pass |  | public benefits outweigh the limited harm - securing the long-term conservation of a listed building vacant for over 3 years ("an important public benefit"), removal of unsympathetic rear extensions, one family home, economic benefits; inspector notes that 2024 paragraph 215 is replaced and "reference to optimum viable use has been removed" (DL 37-40) |
+| ★ [Cross Gaits Inn, Beverley Road, Blacko (pub to dwelling, listed building consent)](../cases/PINS-6007757.md) | Appeal | allowed | pass |  | public benefits collectively outweigh the limited harm - long-term conservation of a listed building vacant for over 3 years, removal of unsympathetic rear extensions that better reveals the building, housing and economic benefits; "reference to optimum viable use has been removed" from the test (DL 38-40) |
+| ★ [Land adjacent to 2 New Ealing Broadway, Ealing (BT Street Hub with advert screens)](../cases/PINS-6008483.md) | Appeal | dismissed | fail |  | public benefits (free public wi-fi, device charging, free calls including to support charities, digital connectivity) given moderate weight together; they do not outweigh the harm (DL 22-25) |
+| ★ [67 Main Street, Bushby (replacement dwelling in conservation area)](../cases/PINS-6009245.md) | Appeal | dismissed | fail |  | no net gain in dwellings, short-term construction benefits and modest benefits of occupation; public benefits not sufficient (DL 11-12) |
+| ★ [10 West Street, Weston-super-Mare (shop unit merged into the dwelling above)](../cases/PINS-6010305.md) | Appeal | dismissed | fail |  | public benefits (construction and occupation spend, removal of roller shutters, safer front access, a 4-bedroom dwelling, minor extra footfall) limited by the small scale; thermal improvement not evidenced; benefits do not outweigh (DL 21, 24) |
+| ★ [Canons, Hobbs Cross Road, Matching (replacement dwelling, Green Belt)](../cases/PINS-6010746.md) | Appeal | dismissed | fail |  | one-for-one replacement adds nothing to housing supply; modern living and energy standards not shown to be unachievable in the existing dwelling; no other public benefits (DL 22-23) |
+| ★ [Chase Lodge Hospital, Page Street, Mill Hill (front pergola, Grade II listed)](../cases/PINS-6011852.md) | Appeal | dismissed | fail |  | letter says "In accordance with Policy HE5 of the Framework" for the public-benefits weighing; benefits to patients and visitors are private and carry little weight; conflict with HE6 (DL 11-14) |
+| ★ [Chase Lodge Hospital, Page Street, Mill Hill (rear pergola, Grade II listed)](../cases/PINS-6011855.md) | Appeal | dismissed | fail |  | letter says "In accordance with Policy HE5 of the Framework" for the public-benefits weighing; benefits to patients and visitors are private and carry little weight; conflict with HE6 (DL 10-13) |
+| ★ [403 King's Road, Chelsea (JOLT electric vehicle charge point with advert screens)](../cases/PINS-6012075.md) | Appeal | dismissed | fail |  | harm to the significance of the Sloane/Stanley Conservation Area (through its setting) "at the lower level"; weighed against public benefits "in accordance with Policy HE6 (4)"; benefits insufficient (DL 11-14) |
+| ★ [56 St Giles', Oxford (bookshop to college common room)](../cases/PINS-6013769.md) | Appeal | dismissed | fail |  | public benefits (graduate common room, accessibility, economic and social benefits of the university) cumulatively moderate weight; unquantified, and alternatives not shown to have been explored; harm not outweighed (DL 17-19) |
+| ★ [Pavement outside Waterfront House, 35 Station Street, Nottingham (communications kiosk)](../cases/PINS-6002400.md) | Appeal | dismissed | fail |  | benefits, moderate collectively, not sufficient to outweigh the harm (DL 22, 29-30) |
+| ★ [Land at Castle End, Lea, Ross-on-Wye (PIP, up to 3 dwellings)](../cases/PINS-6002708.md) | Appeal | dismissed | fail |  | public benefits of up to three homes and associated benefits do not outweigh the harm; HE6(4) not cited by number (DL 23-25) |
+| ★ [The Teapot, East Pier, Sandside, Scarborough (outdoor seating hours condition)](../cases/PINS-6009880.md) | Appeal | dismissed | fail |  | mapped: modest public benefits (operational flexibility in the tourist season) do not outweigh the heritage harm (DL 12-14) |
+| ★ [2A Park Road, Barnoldswick (uPVC shopfront condition)](../cases/PINS-6009979.md) | Appeal | dismissed | fail |  | public benefits limited and not dependent on using uPVC; they do not outweigh the harm; cited as "Policy HE6" (DL 10-13) |
+| ★ [Pavement outside 498-504 Fulham Road, London SW6 (multifunctional hub with advert screen)](../cases/PINS-6010445.md) | Appeal | dismissed | fail |  | harm to the Walham Green Conservation Area (site within it) "at the lower level"; weighed against public benefits "in accordance with Policy HE6 (4)"; benefits insufficient; no harm to the setting of the Barclay Road CA (DL 12-16) |
+| [Thamesfield Retirement Village, Wargrave Road, Remenham](../cases/PINS-6011062.md) | Appeal | dismissed | pass |  | substantial public benefits outweigh the heritage harm; letter says "HE6.4" (DL 30-37) |
+| ★ [125-133 Old Brompton Road, London SW7 (JOLT electric vehicle charge point with advert screens)](../cases/PINS-6012098.md) | Appeal | dismissed | fail |  | harm to the significance of the Boltons Conservation Area (through its setting, boundary about 30 m away) "at the lower level"; weighed against public benefits "in accordance with Policy HE6 (4)"; benefits insufficient; no harm to the Thurloe/Smiths Charity CA about 70 m away (DL 11-15) |
+| ★ [Outside 131 Fulham Road, London SW3 (JOLT electric vehicle charge point with advert screens)](../cases/PINS-6012105.md) | Appeal | dismissed | fail |  | harm to the significance of the Thurloe/Smiths Charity Conservation Area (through its setting) "at the lower level"; weighed against public benefits "in accordance with Policy HE6 (4)"; benefits insufficient (DL 11-14) |
 | ★ [Adsdean House, Adsdean (listed building consent - stair lift)](../cases/PINS-6001939.md) | Appeal | dismissed | fail |  | community use, tours and memorabilia informal and ad hoc, so modest weight; economic and housing-stock benefits; harm not outweighed (DL 14, 16-17) |
 | ★ [Opposite 67 Sandgate Road, Folkestone (BT Street Hub)](../cases/PINS-6004363.md) | Appeal | dismissed | fail |  | public benefits (small / limited weight) do not outweigh the modest setting harm (DL 16-19) |
 | ★ [Land adjacent 837 Manchester Road, Linthwaite](../cases/PINS-6006003.md) | Appeal | dismissed | fail |  | one dwelling and unsecured self-build do not outweigh; HE6(1) substantial weight to conservation stated (DL 21-25) |
@@ -2760,6 +3067,7 @@ Jump to: [AnnexA](#annexa) · [AnnexB](#annexb) · [AnnexD](#annexd) · [AnnexF]
 | ★ [Footpath outside 1 Prince Street, Bridlington (BT Street Hub)](../cases/PINS-6009141.md) | Appeal | dismissed | fail |  | public benefits meaningful but do not outweigh (DL 19-21) |
 | ★ [The Old Stables, 12 Kenward Court, Hadlow (uPVC windows, listed building consent)](../cases/PINS-6009847.md) | Appeal | dismissed | fail |  | energy efficiency named in HE6(4) but no evidence of improvement over existing double glazing; security and low maintenance are private benefits (DL 15-16) |
 | ★ [Ewen House, High Road, Fobbing (pool and annexe)](../cases/PINS-6009919.md) | Appeal | dismissed | fail |  | benefits mainly private (annexe and pool); tidying, BNG, local contractors limited weight (DL 35) |
+| ★ [Land west of 103 Tonbridge Road, Hildenborough (PIP, 5 to 7 homes)](../cases/PINS-6010459.md) | Appeal | allowed | pass |  | 5 to 7 homes (substantial weight) and economic benefits (moderate weight) outweigh the harm; balance run separately, before the Green Belt and S5(5) steps (DL 19) |
 | ★ [Land outside 81 Fishergate, Preston (communications kiosk with digital advert)](../cases/PINS-6012248.md) | Appeal | dismissed | fail |  | free calls, defibrillator, wayfinding and messaging modest (similar facilities nearby); tree planting and 4G unsecured, limited weight; not outweigh harm "to which substantial weight must be given" (DL 14-17) |
 | ★ [Land at Castle End, Lea (PIP, setting of Grade II* manor house)](../cases/PINS-6001896.md) | Appeal | dismissed | fail |  | housing and moderate social/economic benefits do not outweigh the harm (DL 17-19) |
 | ★ [Brishing Court Farm, Brishing Lane, Boughton Monchelsea](../cases/PINS-6007158.md) | Appeal | dismissed | fail |  | housing, self-build, older-person design, orchard restoration, efficiency - "substantial weight" given supply, but one dwelling insufficient (DL 13) |
@@ -2913,10 +3221,12 @@ Jump to: [AnnexA](#annexa) · [AnnexB](#annexb) · [AnnexD](#annexd) · [AnnexF]
 
 ## HE7
 
-### HE7  (harm 11, neutral 7, benefit 3, pass 3, not-engaged 1)
+### HE7  (harm 11, neutral 9, benefit 3, pass 3, not-engaged 1)
 
 | Case | Maker | Outcome | Finding | Weight | Note |
 | --- | --- | --- | --- | --- | --- |
+| ★ [Land west of Leicester Road (B6047), Market Harborough (PIP, 5 to 9 dwellings)](../cases/PINS-6008177.md) | Appeal | allowed | neutral |  | HE7 paraphrased for ridge and furrow on the site, a non-designated heritage asset; no demonstrated harm at this stage; no balance run (DL 28-31, 35) |
+| [Land west of 103 Tonbridge Road, Hildenborough (PIP, 5 to 7 homes)](../cases/PINS-6010459.md) | Appeal | allowed | neutral |  | mapped: HE7 not cited; no harm to the non-designated Foxbush Historic Park and Garden or other non-designated assets; no harm to the settings of Grade II Pembroke Lodge and Woodside Cottage (DL 15-17) |
 | [1 Boxley Oast, Street Farm, Boxley (garage roof alterations)](../cases/PINS-6010727.md) | Appeal | dismissed | harm |  | harm to the NDHA oast; no separate HE7(2) balance (DL 15, 18) |
 | [37 Eastern Esplanade, Southend-on-Sea (shopfront)](../cases/PINS-6004873.md) | Appeal | dismissed | neutral |  | no harm to locally listed Nos 46-57 (NDHA) (DL 18, 24-25) |
 | ★ [South Barn, Elworthy Farm, Greenham, Wellington](../cases/PINS-6012293.md) | Appeal | dismissed | harm | significant | moderate harm to NDHA - domestic fenestration and heavy cladding compete with simple stonework; exposed cruck roof a positive (DL 5-8, 22-23) |
@@ -2949,10 +3259,17 @@ Jump to: [AnnexA](#annexa) · [AnnexB](#annexb) · [AnnexD](#annexd) · [AnnexF]
 | --- | --- | --- | --- | --- | --- |
 | ★ [The Chequers PH, Matching Green](../cases/PINS-6008532.md) | Appeal | allowed | determinative |  |  |
 
-### HE7(2)  (harm 11, neutral 3, fail 2, benefit 1)
+### HE7(2)  (harm 14, neutral 5, fail 2, not-engaged 1, pass 1, benefit 1)
 
 | Case | Maker | Outcome | Finding | Weight | Note |
 | --- | --- | --- | --- | --- | --- |
+| ★ [47 Burma Road, Hackney (rear extension next to a locally listed building)](../cases/PINS-6007927.md) | Appeal | dismissed | harm |  | unsympathetic backdrop detracts from the setting of locally listed 42 Clissold Crescent, a non-designated heritage asset; HE7 balanced judgement stated; degree of harm not graded (DL 8-9, 12, 15) |
+| ★ [Pavement outside Waterfront House, 35 Station Street, Nottingham (communications kiosk)](../cases/PINS-6002400.md) | Appeal | dismissed | harm |  | harm, not substantial, to the setting of locally listed Trent House (NDHA); balanced judgement stated (DL 20, 23, 30) |
+| [Land at Castle End, Lea, Ross-on-Wye (PIP, up to 3 dwellings)](../cases/PINS-6002708.md) | Appeal | dismissed | not-engaged |  | dilapidated outbuildings do not merit NDHA status; raised late by the Council and not a refusal reason (DL 17-20) |
+| [The Teapot, East Pier, Sandside, Scarborough (outdoor seating hours condition)](../cases/PINS-6009880.md) | Appeal | dismissed | harm |  | mapped: harm to the contribution made by the Toll Bar (NDHA) added to the collective heritage harm, not balanced separately (DL 11, 13) |
+| [Former Hull Grammar School and Community Centre, Cottingham Road, Hull](../cases/PINS-6010376.md) | Appeal | dismissed | neutral |  | no harm to locally listed 123-125 Cottingham Road (DL 14) |
+| [Thamesfield Retirement Village, Wargrave Road, Remenham](../cases/PINS-6011062.md) | Appeal | dismissed | pass |  | in the alternative, any harm to the original mansion as an NDHA also outweighed (DL 21, 38) |
+| [189 Greenwich High Road, London SE10 (bar to convenience store, Appeal A)](../cases/PINS-6012344.md) | Appeal | allowed | neutral |  | mapped - no harm to locally listed 189 and 191-195 Greenwich High Road (DL 31) |
 | [Land south of The Elms, Chatteris (152 homes, A142 access)](../cases/PINS-6008859.md) | Appeal | allowed | harm |  | moderate harm to mid-19th-century parkland NDHA; weighed jointly with the listed-building harm (DL 18-19) |
 | ★ [Land at Nunhayes, Great Stone, Cuddington](../cases/PINS-6009513.md) | Appeal | dismissed | fail |  | Nunhayes (converted barn, NP-identified and locally listed NDHA) suffers mid-range / moderate harm from 2.5 m gap and loss of side garden; balanced judgement against one dwelling (DL 20-26, 28, 42) |
 | ★ [Marton House, 31 West Street, Padiham](../cases/PINS-6011037.md) | Appeal | dismissed | harm |  | "moderately high scale of harm" to the boundary wall as NDHA (DL 8, 14-15) |
@@ -2990,13 +3307,20 @@ Jump to: [AnnexA](#annexa) · [AnnexB](#annexb) · [AnnexD](#annexd) · [AnnexF]
 
 ## HE9
 
-### HE9  (pass 22, neutral 14, harm 14, determinative 5, fail 3, benefit 2)
+### HE9  (pass 22, neutral 20, harm 15, determinative 5, fail 3, benefit 2, conflict 1)
 
 | Case | Maker | Outcome | Finding | Weight | Note |
 | --- | --- | --- | --- | --- | --- |
+| [51 Thorndon Hall, Ingrave (replacement sash windows, listed building consent)](../cases/PINS-6005177.md) | Appeal | dismissed | neutral |  | mapped: s72(1) applied; change too localised to affect the character of the Thorndon Park Conservation Area (DL 19-20) |
+| [16-17 Cecilia House, Hanger Lane, Ealing (rear extension to HMO)](../cases/PINS-6005995.md) | Appeal | dismissed | neutral |  | mapped: no harm to the Ealing Common CA or the setting of the Creffield CA; extension not visible from the public realm (DL 13) |
+| [10 West Street, Weston-super-Mare (shop unit merged into the dwelling above)](../cases/PINS-6010305.md) | Appeal | dismissed | conflict |  | HE9 read as requiring consideration of the area's special historic interest in the design of development; no reference to the building's historical significance in the scheme (DL 34) |
+| ★ [Land west of Leicester Road (B6047), Market Harborough (PIP, 5 to 9 dwellings)](../cases/PINS-6008177.md) | Appeal | allowed | neutral |  | HE9 paraphrased for the adjoining Grand Union Canal Conservation Area; potential harm noted but not assessable on a red-line plan; no demonstrated harm at this stage (DL 27, 29-31, 35) |
+| [Former Hull Grammar School and Community Centre, Cottingham Road, Hull](../cases/PINS-6010376.md) | Appeal | dismissed | neutral |  | Newland CA preserved; buildings barely seen from within it; HE4 also cited (DL 12-13) |
 | [76 Andover Road, Cheltenham (listed garden wall rebuild)](../cases/PINS-6010276.md) | Appeal | allowed | neutral |  | Cheltenham Central Conservation Area (Tivoli Character Area) preserved; s72(1) met (DL 31) |
+| [Beechwood Shopping Centre, 14 Church Street, Woodlesford (raised seating deck and canopy)](../cases/PINS-6011983.md) | Appeal | dismissed | neutral |  | mapped: Framework heritage policy not cited; site is outside but adjacent to the Woodlesford Conservation Area; no harm to the area from development in its setting; the letter cites the s72 duty (DL 6) |
 | [Flat 4, 99 Kennington Park Road, Southwark](../cases/PINS-6003226.md) | Appeal | dismissed | pass |  | no external alterations so Kennington Park Road CA preserved (DL 23) |
 | [16 Hobart Street, Leicester (7-person HMO)](../cases/PINS-6007630.md) | Appeal | dismissed | neutral |  | no external change; preserves South Highfields Conservation Area (DL 14-15) |
+| [Land west of 103 Tonbridge Road, Hildenborough (PIP, 5 to 7 homes)](../cases/PINS-6010459.md) | Appeal | allowed | harm |  | mapped: HE9 not cited; northern part of the site is in the conservation area; s72(1) and s66(1) duties applied to a permission in principle (DL 8) |
 | ★ [Land at Netteswell, The Crescent, Watford (two one-bedroom houses)](../cases/PINS-6006990.md) | Appeal | dismissed | harm |  | HE9(2) relative significance; removed tree belt screened the CA from the ring road; building here would stop replacement planting (DL 10-13) |
 | [Serif House, 10 Dudley Street, Luton](../cases/PINS-6009487.md) | Appeal | dismissed | neutral |  | in setting of High Town CA; negligible effect, character and appearance preserved (DL 11) |
 | ★ [Home Lea, 15 High Street, Alconbury Weston (listed building consent)](../cases/PINS-6010766.md) | Appeal | allowed | determinative |  |  |
@@ -3053,6 +3377,7 @@ Jump to: [AnnexA](#annexa) · [AnnexB](#annexb) · [AnnexD](#annexd) · [AnnexF]
 | [Unit 9 Latimer Industrial Estate, Latimer Road, Kensington and Chelsea](../cases/PINS-6005682.md) | Appeal | allowed | pass |  | mapped; site outside but in setting of Oxford Gardens - St Quintin CA; no harm, setting preserved; decided on LP HC1 and s72 terms, no Framework heritage policy cited (DL 19, 22) |
 | [Land east of Hockerton Road, Upton](../cases/PINS-6010301.md) | Appeal | dismissed | harm |  | subdivision of pre-enclosure field erodes historic field pattern; peninsula into countryside; domestication of approach (DL 13-17) |
 | [Petrol Filling Station, 95 High Street, Bidford-on-Avon](../cases/stratford-24-03145-FUL.md) | Committee | approved | neutral |  | no harm to Conservation Area about 100 m away |
+| [The Old School, Stretton-on-Fosse](../cases/stratford-26-01687-FUL.md) | Delegated | approved | neutral |  | mapped - the site is in the Stretton-on-Fosse Conservation Area but the report cites no Framework heritage policy; it relies on the previous officer finding no harm to "the historic environment" (p.5) |
 | [Weavers Cottage, Church End, Priors Hardwick](../cases/stratford-26-01211-FUL.md) | Delegated | approved | pass |  | no harm to conservation area |
 
 ### HE9(1)  (harm 1, fail 1)
@@ -3062,20 +3387,29 @@ Jump to: [AnnexA](#annexa) · [AnnexB](#annexb) · [AnnexD](#annexd) · [AnnexF]
 | [Land at Nunhayes, Great Stone, Cuddington](../cases/PINS-6009513.md) | Appeal | dismissed | harm |  | site (former orchard) makes important positive contribution; cramped infill, forced building line, domestic design and hardstanding erode loose-knit agrarian pattern; harm "calibrated at the mid-range" (DL 8-15); letter attributes the total loss / harm / no effect / positive effect scale to HE9(1) |
 | ★ [7 Church Street, Stamford](../cases/PINS-6007762.md) | Appeal | dismissed | fail |  | positive-contributor buildings to be conserved (DL 7) |
 
-### HE9(2)  (pass 1, harm 1, neutral 1)
+### HE9(1)(b)  (conflict 1)
 
 | Case | Maker | Outcome | Finding | Weight | Note |
 | --- | --- | --- | --- | --- | --- |
+| [67 Main Street, Bushby (replacement dwelling in conservation area)](../cases/PINS-6009245.md) | Appeal | dismissed | conflict |  | design does not consider the conservation area's special interest; HE4 and HE9 cited together (DL 14) |
+
+### HE9(2)  (harm 2, pass 1, neutral 1)
+
+| Case | Maker | Outcome | Finding | Weight | Note |
+| --- | --- | --- | --- | --- | --- |
+| [56 St Giles', Oxford (bookshop to college common room)](../cases/PINS-6013769.md) | Appeal | dismissed | harm |  | HE9 cited for the point that not all elements of a conservation area contribute to its significance; the active retail use does contribute, and its loss would erode that contribution (DL 11, 15) |
 | [Former Middleton Conservative Club, 77 Long Street, Middleton (events venue)](../cases/PINS-6004977.md) | Appeal | dismissed | pass |  | CA judged as a whole; the hidden bowling green's loss is not prominent; no harm to the CA (DL 23-24) |
 | [6 Bacon's Lane, Highgate (garden studio at Grade II Manasseh house)](../cases/PINS-6005980.md) | Appeal | dismissed | harm |  | not every element of a CA contributes, but the large designed garden supports Bacon's Lane's spacious character; localised harm to Highgate CA (DL 28-31) |
 | [26 Groveway, Stockwell](../cases/PINS-6006162.md) | Appeal | dismissed | neutral |  | post-war pair No 26/28 has a neutral effect (not negative) on CA; shows wartime bomb damage and reconstruction (DL 18-19) |
 
 ## HO1
 
-### HO1  (harm 3, neutral 3, benefit 2, not-engaged 1, determinative 1)
+### HO1  (neutral 4, harm 3, not-engaged 2, benefit 2, determinative 1)
 
 | Case | Maker | Outcome | Finding | Weight | Note |
 | --- | --- | --- | --- | --- | --- |
+| [35 Cumberland Drive, Bexleyheath (house to children's home)](../cases/PINS-6012368.md) | Appeal | allowed | neutral |  | plan-making policy cited as context; the local plan should, as the Framework requires, evidence the need for looked-after children's accommodation but does not; need found from the Children's Services response instead (DL 7, 10) |
+| [Land west of Sunnyside, Glentham (three over-55s dwellings)](../cases/PINS-6011337.md) | Appeal | dismissed | not-engaged |  | HO1 and HO5 are plan-making policies for the local plan review; risen housing requirements do not reduce the primacy of the plan (DL 19) |
 | ★ [7 Grayling Close, Canning Town (solo children's home)](../cases/PINS-6011432.md) | Appeal | allowed | benefit |  | solo home meets commissioning priorities; aligns with HO1 on the needs of looked-after children (DL 15, 24) |
 | ★ [7 Grayling Close, Canning Town (solo children's home)](../cases/PINS-6011432.md) | Appeal | allowed | harm |  | loss of family dwelling contrary to H4, but no greater than the LDC fallback (C3(b)), which attracts substantial weight (DL 12, 37-39) |
 | ★ [38 Highfield Road, Nottingham](../cases/PINS-6010946.md) | Appeal | dismissed | harm | significant | loss of a family dwelling for which there is evidenced need treated as contrary to Framework HO1 (DL 30) |
@@ -3120,11 +3454,12 @@ Jump to: [AnnexA](#annexa) · [AnnexB](#annexb) · [AnnexD](#annexd) · [AnnexF]
 
 ## HO11
 
-### HO11  (fail 6, not-engaged 6, determinative 6, pass 2, accord 1)
+### HO11  (not-engaged 7, fail 6, determinative 6, pass 2, accord 1)
 
 | Case | Maker | Outcome | Finding | Weight | Note |
 | --- | --- | --- | --- | --- | --- |
 | ★ [Cud Hill House barn, Upton Hill, Upton St Leonards](../cases/PINS-6005652.md) | Appeal | dismissed | fail |  | reuse limb needs the scheme to enhance its immediate setting; the domestic curtilage over pastureland would not (DL 32-33) |
+| [Land to the rear of 137 Station Road, Hesketh Bank (PIP, up to 4 homes)](../cases/PINS-6007730.md) | Appeal | allowed | not-engaged |  | not isolated homes; the Council's costs rebuttal had cited paragraph 84 of the former Framework; the letter writes "H011" (DL 22) |
 | [Land North of A507, West of A10, Buntingford](../cases/PINS-6008238.md) | Appeal | allowed | not-engaged |  | common ground that the scheme is not isolated homes (DL 15) |
 | [3 Old Glass House, Kents Lane, North Weald Bassett](../cases/PINS-6009621.md) | Appeal | dismissed | not-engaged |  | within a ribbon cluster, so not isolated (Braintree) (DL 30) |
 | ★ [Outmarsh Farm, Semington (temporary rural worker caravan)](../cases/PINS-6008970.md) | Appeal | dismissed | fail |  | no essential need for a worker to live on site, even temporarily - modest stock (15 sheep, 2 goats, 20 hens, 3 hives), security and predator risks answerable by other means, viability of the enterprise unevidenced (DL 9-17, 19) |
@@ -3146,10 +3481,11 @@ Jump to: [AnnexA](#annexa) · [AnnexB](#annexb) · [AnnexD](#annexd) · [AnnexF]
 | ★ [Mobile home at Wierton Hill Farm, Boughton Monchelsea](../cases/maidstone-26-501191-FULL.md) | Committee | refused | fail |  | members — isolated dwelling, no essential need, no enhancement of setting (minutes cite 'HR11', evidently HO11) |
 | [Flourishing Fields Farm, Stonehouse Lane, Hopwood (SEND farm school and rural worker's dwelling)](../cases/bromsgrove-25-00751-FUL.md) | Delegated | approved | pass |  | functional and financial need for a temporary rural worker's dwelling (278 standard man days; about £25k net profit by year 3), independently verified by Kernon Countryside |
 
-### HO11(1)(a)  (pass 4, fail 3)
+### HO11(1)(a)  (fail 4, pass 4)
 
 | Case | Maker | Outcome | Finding | Weight | Note |
 | --- | --- | --- | --- | --- | --- |
+| ★ [Balne Moor Coarse Fishery, Balne Moor Road, Balne (manager's dwelling)](../cases/PINS-6010112.md) | Appeal | dismissed | fail |  | no essential need for a rural worker; case rests on an unevidenced expansion to 24-hour, 7-day opening; letter says "HO11(a)" (DL 8-17) |
 | ★ [Wagtails Farm, Okehurst Road, The Haven, Billingshurst](../cases/PINS-6010187.md) | Appeal | dismissed | fail |  | no essential need for a rural worker to live on site 24/7; the poultry and ewes could be managed with CCTV/alarms, electric netting and seasonal lambing cover (DL 8-25) |
 | ★ [Land north of Helm Lane, Mill Bank, Sowerby Bridge (rural worker dwelling)](../cases/PINS-6008062.md) | Appeal | dismissed | fail |  | no essential need for rural worker to live permanently at or near holding; lambing/farrowing intermittent and seasonal; theft isolated; expansion aspirations not current need (DL 12-16) |
 | ★ [Upper Sent Cottages, The Barn, Okewood Hill](../cases/PINS-6007601.md) | Appeal | dismissed | fail |  | no evidence of frequency of equine emergencies, foaling numbers, alternative security, or business finances; 3.21 FTE labour is not essential need to live on site (DL 6-16) |
@@ -3158,14 +3494,16 @@ Jump to: [AnnexA](#annexa) · [AnnexB](#annexb) · [AnnexD](#annexd) · [AnnexF]
 | ★ [Derry Farm Stables, Footherley Road, Shenstone (permanent rural worker's dwelling)](../cases/lichfield-26-00849-FUL.md) | Delegated | approved | pass |  | essential need for a rural worker to live on site; later cited as "paragraph 84(a)", which is the 2024 number |
 | ★ [Land off High Cross Lane, Pinley Green (permanent rural worker's dwelling)](../cases/warwick-W-25-0302.md) | Delegated | approved | pass |  | independent rural consultant confirmed the functional need (horse rehabilitation) and financial soundness; 150 m² footprint "modest"; no dwelling within sight and sound available |
 
-### HO11(1)(c)  (fail 4)
+### HO11(1)(c)  (fail 5, pass 1)
 
 | Case | Maker | Outcome | Finding | Weight | Note |
 | --- | --- | --- | --- | --- | --- |
+| [Balne Moor Coarse Fishery, Balne Moor Road, Balne (manager's dwelling)](../cases/PINS-6010112.md) | Appeal | dismissed | fail |  | caravan is not a building, and the limb refers to reuse of buildings; letter says "HO11(c)" (DL 17) |
 | ★ [Barn House, Warren Road, Fairlight](../cases/PINS-6008634.md) | Appeal | dismissed | fail |  | holiday let not shown redundant or disused; change of use only, no evidence of enhancement to immediate setting (DL 10) |
 | ★ [The Barn (opposite Lansdowne House), Fordingbridge](../cases/PINS-6008115.md) | Appeal | dismissed | fail |  | building in storage use, not redundant or disused; and overtly domestic conversion would not enhance its immediate setting (DL 28-29) |
 | ★ [Barns at The Old Rectory, Bredicot](../cases/PINS-6009042.md) | Appeal | dismissed | fail |  | group of the barns plus one dwelling is isolated; repairs enhance, but the dominant extension harms the immediate setting overall (DL 20) |
 | ★ [Hall Farm, Copt Oak Road, Copt Oak](../cases/PINS-6006388.md) | Appeal | dismissed | fail |  | letter cites "Policies S5, HO10 and T3" for re-use of redundant/disused buildings — the re-use limb is actually HO11(1)(c); not shown redundant or disused, as still laid out and equipped as ancillary accommodation (DL 15-16) |
+| ★ [Field south of The Slade, Fenny Compton](../cases/stratford-26-01801-FUL.md) | Delegated | approved | pass |  | reuse of a redundant or disused building that enhances its immediate setting; "the proposal would result in an enhancement of the site and its setting" (p.14); the report writes "HO11 1. C" |
 
 ### HO11(1)(e)  (fail 1)
 
@@ -3263,10 +3601,34 @@ Jump to: [AnnexA](#annexa) · [AnnexB](#annexb) · [AnnexD](#annexd) · [AnnexF]
 
 ## HO7
 
-### HO7  (benefit 253, neutral 9, harm 3, not-engaged 1, conflict 1, fail 1, determinative 1, accord 1)
+### HO7  (benefit 288, neutral 11, harm 5, conflict 2, not-engaged 1, fail 1, determinative 1, accord 1)
 
 | Case | Maker | Outcome | Finding | Weight | Note |
 | --- | --- | --- | --- | --- | --- |
+| [16-17 Cecilia House, Hanger Lane, Ealing (rear extension to HMO)](../cases/PINS-6005995.md) | Appeal | dismissed | benefit | substantial | mapped: two units, with effective use of land under L3 and social and economic benefits, given substantial weight together; HO7 not named (DL 15) |
+| [Cornish Marquees, Higher Trevellas, St Agnes (PIP, two dwellings)](../cases/PINS-6008432.md) | Appeal | dismissed | benefit | substantial | substantial weight stated, but two dwellings "would be a modest benefit" (DL 28) |
+| [Oozedam, High Road, Fobbing (5 dwellings behind the frontage, grey belt)](../cases/PINS-6008679.md) | Appeal | dismissed | benefit | substantial | net gain of 5 accessible family homes; substantial weight, but "the benefit of 5 additional dwellings would not be significant in terms of addressing this shortfall" (DL 36, 43) |
+| ★ [The Orchard, Charley Road, Charley (garage conversion to a self-build dwelling)](../cases/PINS-6009255.md) | Appeal | allowed | benefit | substantial | self-build dwelling secured by unilateral undertaking; shortfall of at least 19 plots is "a significant unmet need"; letter cites "policies HO1 and national decision-making policy HO7" together (DL 13-14, 20) |
+| [Land adjacent to 4 Callis Way, Parkwood, Gillingham (bungalow on amenity open space)](../cases/PINS-6009769.md) | Appeal | dismissed | benefit |  | mapped: HO7 not named; one dwelling against a supply of about 3.1 years is "a positive contribution towards the shortfall, albeit a modest one"; benefits overall "modest" (DL 33-34) |
+| [10 Bradfield Drive, Barking (house to 3-bedroom HMO)](../cases/PINS-6009965.md) | Appeal | dismissed | conflict |  | mapped: letter refers to "Framework policies relating to the delivery of a sufficient supply of homes" without naming one; loss of a single-family home where family housing is the priority need, and no evidence of need for an HMO (DL 4-5, 17) |
+| [2 Ridge Hill Lane, Stalybridge (house to 6-bedroom HMO)](../cases/PINS-6010069.md) | Appeal | dismissed | benefit |  | letter says "Policy H07"; substantial weight is for homes meeting evidenced needs; no substantive evidence of a need for more HMO accommodation, though the scheme adds generally to supply (DL 32) |
+| [144 Browns Lane, Stanton on the Wolds (replacement dwelling, Green Belt)](../cases/PINS-6010392.md) | Appeal | allowed | benefit |  | self-build delivery is a benefit that aligns with the Framework's aim to meet the needs of people wishing to commission or build their own homes; not determinative (DL 22) |
+| [239 Barking Road, East Ham (two studio flats above a car wash waiting area)](../cases/PINS-6011081.md) | Appeal | dismissed | benefit | substantial | mapped: housing supply contribution weighed together with L2; HO7 not named (DL 25) |
+| [Land off Long Lane, Fowlmere (PIP, up to 7 self-build homes)](../cases/PINS-6011365.md) | Appeal | dismissed | benefit | moderate | substantial weight for homes including self-build acknowledged, but cut to moderate because it is not certain that technical details consent would be granted (DL 25) |
+| [55 Boundary Lane, St Leonards and St Ives (static caravan as rental home)](../cases/PINS-6012115.md) | Appeal | dismissed | benefit | moderate | Framework's substantial weight to providing homes acknowledged, but "due to the small scale of the proposal, and thereby the small scale of the benefits" moderate weight to the home, efficient use of land and economic benefits together (DL 19) |
+| [Rear of 2 High Street, Edgware (nine flats above a garage)](../cases/PINS-6012289.md) | Appeal | dismissed | benefit |  | mapped: additional dwellings acknowledged, no weight word and HO7 not cited (DL 33) |
+| ★ [Land east of Halfpenny Lane, Wisbech (352 dwellings, hybrid)](../cases/PINS-6002677.md) | Appeal | allowed | benefit | substantial | substantial weight tied to affordable housing need, although the Council has a five-year supply (DL 44-45) |
+| [Land at Castle End, Lea, Ross-on-Wye (PIP, up to 3 dwellings)](../cases/PINS-6002708.md) | Appeal | dismissed | benefit | substantial | up to three homes with no five-year supply (figure not stated); DL 24 gives "moderate weight to all these benefits" and DL 39 says substantial weight to homes (DL 23-24, 38-39) |
+| [Milan Villa, Hyde Wood Lane, Canewdon (replacement dwelling)](../cases/PINS-6008122.md) | Appeal | dismissed | benefit | limited | replacement of a single dwelling with no detailed evidence of need; substantial weight would "ordinarily" apply (DL 22) |
+| [6 and 6a Fairview Road, Wednesfield, Wolverhampton](../cases/PINS-6009135.md) | Appeal | dismissed | benefit |  | HO7 substantial weight cited (letter says "H07") but no weight expressly given to the net gain of 2 dwellings (DL 30-31) |
+| [Land at Mushroom Lane, Brigsley (outline, nine dwellings)](../cases/PINS-6009363.md) | Appeal | dismissed | benefit | substantial | nine homes where supply is significantly below that required (DL 18, 21) |
+| [Land adjacent to 1 Ninesprings Cottage, Wymondley Road, Hitchin (PIP)](../cases/PINS-6009720.md) | Appeal | allowed | benefit | substantial | one dwelling; a modest contribution to supply (DL 30) |
+| [12 Victoria Road, Whetstone (dwelling in rear garden)](../cases/PINS-6009910.md) | Appeal | dismissed | benefit | limited | one dwelling; Council cannot show a five-year supply (figure not stated); benefit "would be limited in this context"; HO7 not named (DL 14) |
+| [Former Hull Grammar School and Community Centre, Cottingham Road, Hull](../cases/PINS-6010376.md) | Appeal | dismissed | benefit |  | "modest" weight (not in the weight vocabulary): no evidence of need for student accommodation outside the University Quarter, and the University says none is required, so not the substantial weight HO7 advocates (DL 60, 68) |
+| [Land north of the Bower House, Clatterbury Lane, Clavering](../cases/PINS-6010951.md) | Appeal | dismissed | benefit | substantial | one dwelling at 4.77 years' supply; a modest contribution (DL 30) |
+| [Thamesfield Retirement Village, Wargrave Road, Remenham](../cases/PINS-6011062.md) | Appeal | dismissed | benefit | significant | 13 net C2 units against a supply shortfall; a second significant weight for older persons' need (DL 31-32) |
+| [Land west of Sunnyside, Glentham (three over-55s dwellings)](../cases/PINS-6011337.md) | Appeal | dismissed | benefit | moderate | need not established generally or for this form of specialist housing, so only moderate weight to the additional housing, with economic and social benefits (DL 26, 28) |
+| ★ [Happy Hounds Hotel, Back Lane, Weeton (PIP, up to 2 dwellings on kennels site)](../cases/PINS-6012202.md) | Appeal | allowed | benefit | substantial | Council has a shortfall; the modest scale of two homes does not diminish the weight (DL 16) |
 | [Valera Ltd, Plox Brow, Tarleton](../cases/PINS-6004952.md) | Appeal | dismissed | benefit | substantial | 9 dwellings; council cannot show adequate supply (figure not stated) (DL 20) |
 | [Land adjacent 837 Manchester Road, Linthwaite](../cases/PINS-6006003.md) | Appeal | dismissed | benefit | substantial | substantial weight under HO7 but contribution of one dwelling "limited" (DL 23, 28) |
 | [Land east of New Road, Melksham](../cases/PINS-6007352.md) | Appeal | dismissed | benefit | substantial | 2 self-build homes, valuable in the district circumstances (DL 30) |
@@ -3274,11 +3636,14 @@ Jump to: [AnnexA](#annexa) · [AnnexB](#annexb) · [AnnexD](#annexd) · [AnnexF]
 | [Beehive Cottage, Portway, Old Sarum, Salisbury](../cases/PINS-6007924.md) | Appeal | allowed | benefit | substantial | "the substantial weight afforded to housing" (DL 46) |
 | [7A Shorefield Cottage, Shorefield Road, Westcliff-on-Sea (replacement dwelling)](../cases/PINS-6008855.md) | Appeal | dismissed | benefit |  | even substantial weight including self-build would not change the outcome (DL 44) |
 | [Land adjacent to 33A Chelford Road, Somerford (PIP, Jodrell Bank WHS)](../cases/PINS-6008864.md) | Appeal | dismissed | benefit | moderate | up to five homes; no five-year supply (figure not stated); moderate weight "Given the magnitude of development" (DL 29) |
+| [15 Brethergate, Westwoodside (dwelling in side curtilage)](../cases/PINS-6008883.md) | Appeal | allowed | benefit |  | one open-market dwelling; no weight word given; no weight to self-build because it was not secured by an undertaking or agreement (DL 14) |
 | [Somerville, Mingoose Vale, Towan Cross, Truro (affordable PIP)](../cases/PINS-6009030.md) | Appeal | dismissed | benefit | substantial | substantial weight to meeting identified need, though collective benefits of up to 8 affordable homes described as "moderate" (DL 25, 27-28) |
 | [Land at Tuttle Farm, Lock Road, North Cotes](../cases/PINS-6009106.md) | Appeal | dismissed | benefit | moderate | up to nine homes with no five-year supply, plus economic benefits, moderate weight (DL 16) |
 | [Two Oaks, Whitchurch Road (A49), Spurstow](../cases/PINS-6009407.md) | Appeal | dismissed | benefit | substantial | three homes; 3.3-year supply despite HDT 213% (DL 46, 50) |
 | [Pound Scots, Chinnor Road, Bledlow Ridge (self-build dwelling in listed building's garden)](../cases/PINS-6010097.md) | Appeal | dismissed | benefit | substantial | one dwelling against a significant shortfall; no extra weight for self-build without a legal mechanism (DL 11) |
+| [Balne Moor Coarse Fishery, Balne Moor Road, Balne (manager's dwelling)](../cases/PINS-6010112.md) | Appeal | dismissed | benefit | substantial | a very modest contribution at 2.6 years' supply (the appellant's existing home would be released); letter says "H07" (DL 31) |
 | [Land off Pickworth Road, Great Casterton (HO11(e) earth-sheltered house)](../cases/PINS-6010934.md) | Appeal | dismissed | benefit |  | one self-build dwelling, an important consideration given the supply position; weight word not given (DL 46) |
+| [2 Rookwood Avenue, Leeds (dwelling to short-term let)](../cases/PINS-6011827.md) | Appeal | dismissed | harm |  | mapped: HO7 not named; loss of a dwelling to the housing supply given negative weight similar to the economic benefit, although the Council has a positive supply figure (DL 12) |
 | [Cud Hill House barn, Upton Hill, Upton St Leonards](../cases/PINS-6005652.md) | Appeal | dismissed | benefit | considerable | one home against a significant shortfall (DL 34) |
 | [Cud Hill House barn, Upton Hill, Upton St Leonards](../cases/PINS-6005652.md) | Appeal | dismissed | benefit | substantial | self-build meeting evidenced local need; secured by legal agreement, "substantial weight" but reduced because it could be met elsewhere without harm (DL 35) |
 | [Land to the rear of 21 Roselands Avenue, St Philip's Avenue, Eastbourne](../cases/PINS-6006541.md) | Appeal | dismissed | benefit | significant | significant weight to the principle of housing delivery with 1.4-year supply, but one unit's benefits "relatively modest" (DL 26) |
@@ -3291,6 +3656,7 @@ Jump to: [AnnexA](#annexa) · [AnnexB](#annexb) · [AnnexD](#annexd) · [AnnexF]
 | [61 Hawthorn Road, Edmonton, Enfield (HMO)](../cases/PINS-6010207.md) | Appeal | dismissed | benefit | limited | contribution to housing mix, limited given scale (DL 15) |
 | [Land to the South of Telegraph Road, Caldy](../cases/PINS-6010411.md) | Appeal | dismissed | benefit | limited | no evidence of a supply shortfall; dwelling types unknown at PIP stage (DL 16) |
 | [40 Millers Lane, Harpley (self-build dwelling)](../cases/PINS-6010422.md) | Appeal | dismissed | benefit | substantial | HO7(1) substantial weight to SBCB given evidenced unmet need; UU dated 30 Jul 2026 could secure it (DL 32, 44) |
+| ★ [Land west of 103 Tonbridge Road, Hildenborough (PIP, 5 to 7 homes)](../cases/PINS-6010459.md) | Appeal | allowed | benefit | substantial | substantial weight "whether that be 5 or 7 homes", given acknowledged unmet need (DL 19, 29) |
 | [60 Langdale Road, Nottingham (subdivision of family house)](../cases/PINS-6010508.md) | Appeal | dismissed | harm | substantial | HO7 evidenced-need wording used to give substantial weight to the conflict with the family-housing policies, given the evidenced shortage of family homes (DL 13) |
 | [Land at Castle End, Lea (PIP, setting of Grade II* manor house)](../cases/PINS-6001896.md) | Appeal | dismissed | benefit | substantial | up to six homes; no five-year supply (figure not stated) (DL 17, 28) |
 | [Land at access to Clockhouse Mews, Huxley Close, Godalming](../cases/PINS-6006117.md) | Appeal | dismissed | benefit | substantial | one home; council supply 1.28 years (DL 24) |
@@ -3316,6 +3682,7 @@ Jump to: [AnnexA](#annexa) · [AnnexB](#annexb) · [AnnexD](#annexd) · [AnnexF]
 | [Land to rear of 6-12 Long Lane, Newtown, South Staffordshire](../cases/PINS-6010537.md) | Appeal | allowed | benefit | substantial | letter gives "substantial weight to the moderate benefit" of 4-5 homes (DL 46) |
 | [Beechwood House, Willoughby Road, West Willoughby](../cases/PINS-6010911.md) | Appeal | dismissed | benefit | substantial | HO7 substantial weight cited; with effective use of land and social and economic benefits (DL 32) |
 | [Merienda, Greenhill Road, Elton (replacement dwelling)](../cases/PINS-6011882.md) | Appeal | dismissed | benefit |  | no net gain despite no five-year supply; modest benefit from improved housing choice; energy, BNG, EV limited (DL 23-24) |
+| [Maisie Cottage, Bottrells Lane, Chalfont St Giles (stable to dwelling)](../cases/PINS-6011889.md) | Appeal | dismissed | benefit | substantial | one dwelling; contribution described as limited, but given substantial weight in light of the supply position and HO7 (DL 20, 23) |
 | [25 Essex Road, Dartford (Class MA, nursery to house)](../cases/PINS-6011893.md) | Appeal | dismissed | not-engaged |  | housing benefits outside the scope of prior approval under para W(10)(b) (DL 16) |
 | [2 Highbury Grove Court, Islington (basement conversion to two flats)](../cases/PINS-6005590.md) | Appeal | dismissed | benefit | substantial | two homes against HDT 69% and 252 of 775 delivered in 2024/25; scale of the benefit modest (DL 37-39) |
 | [207 Lower Blandford Road, Broadstone (3 flats to the rear)](../cases/PINS-6007434.md) | Appeal | dismissed | benefit | substantial | three homes, supply about 2.55 years (DL 29) |
@@ -3331,6 +3698,8 @@ Jump to: [AnnexA](#annexa) · [AnnexB](#annexb) · [AnnexD](#annexd) · [AnnexF]
 | [Marton House, 31 West Street, Padiham](../cases/PINS-6011037.md) | Appeal | dismissed | benefit | moderate | one dwelling in a sustainable location in a Key Service Centre; self-build limited weight, no evidence of unmet need (DL 16-17) |
 | [Wayside Farm, Lower Road, Hough-on-the-Hill (three dwellings, outline)](../cases/PINS-6011585.md) | Appeal | dismissed | benefit | moderate | moderate weight for three homes given scale; HO7 not named, 2024-style "significantly boosting" framing (DL 17) |
 | [South Barn, Elworthy Farm, Greenham, Wellington](../cases/PINS-6012293.md) | Appeal | dismissed | benefit | substantial | one dwelling on a 3.9-year supply (DL 21) |
+| ★ [Land at Backworth Business Park, Eccleston Close, Backworth (37 homes on a local wildlife site)](../cases/PINS-6006322.md) | Appeal | allowed | benefit | substantial | 37 homes including 9 affordable (affordable rent and discount for sale) on vacant, allocated brownfield land; 2.82 years supply and a delivery shortfall (DL 27, 34) |
+| [Paddock north of Spring Acres, West End Lane, Henfield (PIP, up to 9 self-build homes)](../cases/PINS-6006961.md) | Appeal | dismissed | benefit | moderate | self-build housing on a small site said to attract substantial weight, but reduced to moderate because of the small scale (DL 34) |
 | [Land adjacent to Red Lane, Rosudgeon](../cases/PINS-6007416.md) | Appeal | dismissed | benefit | moderate | up to five homes; modest but useful contribution; HO7 not named (DL 17) |
 | [Boltons Farm, Blackgate Lane, Tarleton](../cases/PINS-6007484.md) | Appeal | allowed | benefit | substantial | up to 9 homes against an acute shortfall (DL 30) |
 | [Zoar Cottage, 15 Passage Hill, Mylor Bridge](../cases/PINS-6007807.md) | Appeal | dismissed | benefit | moderate | 3.9-year supply; two homes a very modest but useful contribution (DL 15) |
@@ -3520,6 +3889,7 @@ Jump to: [AnnexA](#annexa) · [AnnexB](#annexb) · [AnnexD](#annexd) · [AnnexF]
 | [46 The Beck, Elford, Tamworth (new dwelling in side garden)](../cases/PINS-6009207.md) | Appeal | dismissed | benefit | limited | one self-occupied home; limited benefits (DL 18-19) |
 | [150 Barnhorn Road, Bexhill](../cases/PINS-6009653.md) | Appeal | dismissed | benefit | limited | one self-build dwelling, construction and spend "modest" (DL 32); reuse, energy, BNG etc moderate (DL 33) |
 | [Pine Lodge, Chilworth Drove, Chilworth](../cases/PINS-6009745.md) | Appeal | dismissed | benefit | moderate | one family home, quick delivery, economic benefits — 2024 paras 61, 73 (DL 47-48) |
+| [Land to the rear of Edoras, Banbury Road, Pillerton Priors](../cases/stratford-26-01894-PIP.md) | Committee | refused | benefit | substantial | officer view - up to 5 dwellings against a 2.21-year supply (Report pp.16-17); the notice gives no weight to the benefits ("any benefits") |
 | [Land off Butts Lane, Tanworth-in-Arden](../cases/stratford-26-00918-PIP.md) | Committee | approved | benefit | substantial | up to 9 dwellings against the district supply, and over 5% of the roughly 133 dwellings the Interim Policy Position Statement assigns to Tanworth over five years |
 | [Land East of Tring (Marshcroft) — appeal stance review](../cases/dacorum-25-01880-MOA.md) | Committee | refused | benefit | substantial | market housing; 1.18-year supply |
 | [Land off Jago Green, Snitterfield Lane, Snitterfield](../cases/stratford-26-00617-PIP.md) | Committee | approved | benefit | substantial | up to 5 dwellings to the district supply |
@@ -3529,6 +3899,14 @@ Jump to: [AnnexA](#annexa) · [AnnexB](#annexb) · [AnnexD](#annexd) · [AnnexF]
 | ★ [Former Bath Press premises (western end), Lower Bristol Road, Bath](../cases/bathnes-25-03592-FUL.md) | Committee | approved | benefit | substantial | housing in evidenced shortfall |
 | ★ [Land west of Edmond Street, Newman Drive and Benson Close, Burnham-on-Crouch](../cases/maldon-26-00018-FULM.md) | Committee | approved | benefit | substantial | homes deliverable within five-year period (Phase 1 from April 2027); 40% affordable vs 30% policy |
 | ★ [Home Farm, Land off A423, Southam](../cases/stratford-25-00346-OUT.md) | Committee | approved | benefit | substantial | update sheet raised housing from "significant" (report) to "substantial" weight under HO7 |
+| [The Hill, Warwick Road, Stratford-upon-Avon](../cases/stratford-26-01141-FUL.md) | Delegated | approved | neutral |  | loss of two dwellings "afforded neutral weight in the planning balance" (p.9) |
+| [144 Malthouse Lane, Earlswood](../cases/stratford-26-01542-FUL.md) | Delegated | refused | benefit | substantial | one dwelling; "substantial positive weight in principle, although I acknowledge that the benefit is limited in scale" (p.13) |
+| [144 Malthouse Lane, Earlswood](../cases/stratford-26-01542-FUL.md) | Delegated | refused | benefit | moderate | one self-build plot toward the 3-year rolling supply (pp.7, 13) |
+| [The Old School, Stretton-on-Fosse](../cases/stratford-26-01687-FUL.md) | Delegated | approved | benefit | substantial | one additional dwelling (p.7); the principle section says "Significant weight can be attributed to the provision of housing at this time" (p.5) |
+| [Field south of The Slade, Fenny Compton](../cases/stratford-26-01801-FUL.md) | Delegated | approved | neutral |  | no net gain because the Class Q approval already gives one dwelling; "I afford the provision of one dwelling neutral weight" (p.7) |
+| [Field south of The Slade, Fenny Compton](../cases/stratford-26-01801-FUL.md) | Delegated | approved | benefit | moderate | one self-build dwelling given moderate weight although the council has a surplus of self-build plots (p.4); secured by condition 9 of the notice |
+| [Land at Windmill Lane, Ladbroke](../cases/stratford-26-01660-OUT.md) | Delegated | approved | benefit | substantial | up to 5 dwellings to the district supply (p.12) |
+| [Land at Windmill Lane, Ladbroke](../cases/stratford-26-01660-OUT.md) | Delegated | approved | harm | moderate | loss of 5 self-build plots from the council's 3-year rolling supply, because the open-market scheme replaces the extant self-build outline (p.11) |
 | [Forest Farm, Welford Road, Long Marston](../cases/stratford-26-01906-PIP.md) | Delegated | approved | benefit | substantial | one dwelling |
 | [30 Hadrians Walk, Alcester](../cases/stratford-26-01376-FUL.md) | Delegated | refused | benefit | substantial | 2 dwellings |
 | [Land between Clunes and Sundial, Bordon Hill, Stratford-upon-Avon](../cases/stratford-26-01588-PIP.md) | Delegated | approved | benefit | substantial | up to 2 dwellings |
@@ -3547,10 +3925,11 @@ Jump to: [AnnexA](#annexa) · [AnnexB](#annexb) · [AnnexD](#annexd) · [AnnexF]
 
 ## HO8
 
-### HO8  (benefit 17, neutral 2, fail 2, pass 1)
+### HO8  (benefit 18, neutral 2, fail 2, pass 1)
 
 | Case | Maker | Outcome | Finding | Weight | Note |
 | --- | --- | --- | --- | --- | --- |
+| [Land east of Halfpenny Lane, Wisbech (352 dwellings, hybrid)](../cases/PINS-6002677.md) | Appeal | allowed | benefit |  | mapped - 49 affordable homes, about 13% against a 25% policy target, accepted on viability; no conflict with LP5 (DL 37) |
 | [Floringham Lodge, Old Bracknell Lane East, Bracknell (46 retirement flats)](../cases/PINS-6009377.md) | Appeal | allowed | neutral |  | no affordable housing on agreed viability; LP16/LP24 give no sound basis for a late review (claw-back) mechanism (DL 11-18, 83) |
 | [Land at Mount Avenue, Chaldon (Caterham edge)](../cases/PINS-6006497.md) | Appeal | allowed | benefit | substantial | 15 affordable homes (DL 53) |
 | [Glebe Court, Glebe Way, West Wickham (McCarthy Stone retirement living)](../cases/PINS-6007183.md) | Appeal | allowed | pass |  | off-site payment in lieu acceptable as 29 registered providers showed no interest (DL 58-60, 65) |
@@ -3576,10 +3955,11 @@ Jump to: [AnnexA](#annexa) · [AnnexB](#annexb) · [AnnexD](#annexd) · [AnnexF]
 
 ## HO9
 
-### HO9  (benefit 6, pass 4, fail 4)
+### HO9  (benefit 6, pass 4, fail 4, accord 1)
 
 | Case | Maker | Outcome | Finding | Weight | Note |
 | --- | --- | --- | --- | --- | --- |
+| [Former Hull Grammar School and Community Centre, Cottingham Road, Hull](../cases/PINS-6010376.md) | Appeal | dismissed | accord | limited | management plan condition would address HO9; compliance carries limited weight as no need shown (DL 44, 46, 48, 68) |
 | ★ [Floringham Lodge, Old Bracknell Lane East, Bracknell (46 retirement flats)](../cases/PINS-6009377.md) | Appeal | allowed | benefit | significant | 46 market older persons' homes, chain moves, health benefits; letter cites "H05, H07 and H09" (DL 71-74) |
 | ★ [43 Woodgrange Drive, Southend-on-Sea (8-bed HMO)](../cases/PINS-6010908.md) | Appeal | allowed | pass |  | even if specialist accommodation, living and storage space adequate; open-plan kitchen/diner (14 + 10.6 sq m) meets Essex Code for HMO without living room (DL 6-16, 21) |
 | ★ [Wrights Upholstery, Claremont Street, Burnley (student studios)](../cases/PINS-6007776.md) | Appeal | dismissed | fail |  | no internal communal space; narrow side yard with bins next to ground-floor windows; risk of isolation for students (DL 6-10, 28) |
@@ -3601,6 +3981,12 @@ Jump to: [AnnexA](#annexa) · [AnnexB](#annexb) · [AnnexD](#annexd) · [AnnexF]
 | --- | --- | --- | --- | --- | --- |
 | ★ [Homestead, Liverpool Road, Tarleton](../cases/PINS-6009486.md) | Appeal | allowed | conflict |  | strain on Lancashire education, CAMHS and police services from saturation of children's homes; management plan not sufficient (HO9(1)(b)); tempered by only two children (DL 8-15, 25) |
 | ★ [59 Luncies Road, Basildon](../cases/PINS-6010861.md) | Appeal | allowed | pass |  | living conditions and access to services appropriate (DL 8) |
+
+### HO9(1)(a)  (fail 1)
+
+| Case | Maker | Outcome | Finding | Weight | Note |
+| --- | --- | --- | --- | --- | --- |
+| [Land west of Sunnyside, Glentham (three over-55s dwellings)](../cases/PINS-6011337.md) | Appeal | dismissed | fail |  | M4(2) limb met, but residents could not reach frequently used services easily and safely by walking, wheeling or public transport (DL 26-27) |
 
 ### HO9(1)(a)(i)  (pass 1)
 
@@ -3652,21 +4038,30 @@ Jump to: [AnnexA](#annexa) · [AnnexB](#annexb) · [AnnexD](#annexd) · [AnnexF]
 
 ## L1
 
-### L1  (benefit 1, fail 1)
+### L1  (not-engaged 1, benefit 1, fail 1)
 
 | Case | Maker | Outcome | Finding | Weight | Note |
 | --- | --- | --- | --- | --- | --- |
+| [Paddock north of Spring Acres, West End Lane, Henfield (PIP, up to 9 self-build homes)](../cases/PINS-6006961.md) | Appeal | dismissed | not-engaged |  | plan-making policy; paragraph 8 of the Framework says such policies are not for decisions; not considered (DL 27) |
 | [Honeysuckle Bottom Sawmill, East Horsley](../cases/PINS-6011694.md) | Appeal | allowed | benefit | considerable | PDL redevelopment and reuse (DL 31) |
 | [Land off Beech Lane, Kislingbury (58 dwellings)](../cases/westnorthants-WNS-2022-0673-MAF.md) | Committee | refused | fail | significant | countryside encroachment beyond the Beech Lane edge and loss of a gap towards Northampton. The notice cites "Policy L1 of the NPPF", a plan-making policy (effective use of land), for a countryside-character reason. |
 
 ## L2
 
-### L2  (benefit 18, neutral 7, fail 6, not-engaged 4, pass 2, conflict 1, determinative 1)
+### L2  (benefit 23, neutral 7, not-engaged 6, fail 6, conflict 2, pass 2, determinative 1)
 
 | Case | Maker | Outcome | Finding | Weight | Note |
 | --- | --- | --- | --- | --- | --- |
+| [456 Southchurch Road, Southend (hand car wash with acoustic shelter)](../cases/PINS-6009119.md) | Appeal | dismissed | benefit | substantial | economically beneficial meanwhile use pending redevelopment under an extant permission for commercial space and eight flats; modest employment and a service in demand; "In accordance with Policy L2 of the Framework, substantial weight" (DL 23) |
+| [10 West Street, Weston-super-Mare (shop unit merged into the dwelling above)](../cases/PINS-6010305.md) | Appeal | dismissed | benefit |  | substantial weight to better use of vacant and underutilised buildings acknowledged, but the unit has been vacant only a short time and no evidence it is unattractive to the market (DL 33) |
+| [239 Barking Road, East Ham (two studio flats above a car wash waiting area)](../cases/PINS-6011081.md) | Appeal | dismissed | benefit | substantial | effective use of land within a settlement using airspace above commercial premises; with the housing contribution in an accessible location, "substantial weight, despite its small scale" (DL 25, 28) |
+| [Romaldor, St Johns Road, Wroxall (amateur radio mast)](../cases/PINS-6012036.md) | Appeal | dismissed | conflict | great | letter cites L2 for "acceptable living standards for neighbours" (the wording of L2(1)(d)(ii), which concerns additional homes and floorspace); close, dominant and overbearing effect on the outlook of neighbouring bungalows and gardens (DL 15-16, 21) |
+| [Lower Fawke Farm, Bitchet Green Road, Fawke Common, Underriver](../cases/PINS-6004899.md) | Appeal | allowed | not-engaged |  | site is not PDL by definition (agricultural) and the scheme relies on its otherwise effective agricultural use, so L2 substantial weight not applied (DL 32) |
+| [Thamesfield Retirement Village, Wargrave Road, Remenham](../cases/PINS-6011062.md) | Appeal | dismissed | benefit | moderate | efficient use of previously developed land and continued specialist provision (DL 33) |
+| [Land to the rear of 14 Cross Hills, Kippax (storage unit and car park layout)](../cases/PINS-6011321.md) | Appeal | dismissed | benefit | limited | mapped: reuse of previously developed land, but on part of an approved car park, not vacant or underused land; L2 not named (DL 19) |
 | [Former National Grid Site, Marsh Lane, Stanmore (Aldi)](../cases/PINS-6005822.md) | Appeal | dismissed | pass |  | efficient footprint on constrained 0.9 ha (0.4 ha developable) triangular site; reuse of underused brownfield land "in itself is positive" (DL 54-68) |
 | [7A Shorefield Cottage, Shorefield Road, Westcliff-on-Sea (replacement dwelling)](../cases/PINS-6008855.md) | Appeal | dismissed | not-engaged |  | extra floorspace not sensitive to context; none of the listed L2 types (DL 43) |
+| [Balne Moor Coarse Fishery, Balne Moor Road, Balne (manager's dwelling)](../cases/PINS-6010112.md) | Appeal | dismissed | not-engaged |  | PDL, but the caravan is neither vacant nor underutilised and not a temporary use, so L2 substantial weight not applied (DL 33) |
 | [Land at access to Clockhouse Mews, Huxley Close, Godalming](../cases/PINS-6006117.md) | Appeal | dismissed | benefit |  | efficient use of well contained site; social and economic benefits; overall benefits "attracts substantial weight" (DL 25, 27) |
 | ★ [Adj Grassmere, Horseman Side, Navestock (self-build dwelling in garden)](../cases/PINS-6009849.md) | Appeal | allowed | benefit | substantial | substantial weight to effective use of PDL (DL 38); L2/L3 given only limited weight at DL 25 ("Given the scale of the proposal") |
 | [72-74 High Street, Beckenham (upward roof extension to flats)](../cases/PINS-6013151.md) | Appeal | dismissed | benefit | limited | mapped - improved accommodation and efficient use of land, limited weight given scale (DL 17) |
@@ -3713,11 +4108,14 @@ Jump to: [AnnexA](#annexa) · [AnnexB](#annexb) · [AnnexD](#annexd) · [AnnexF]
 | [Land adjacent to 9 Windmill Close, Ivinghoe](../cases/PINS-6007136.md) | Appeal | dismissed | benefit | substantial | better use of vacant/underutilised land (DL 34) |
 | [7 Vicarage Mansions, Queenstown Road, Wandsworth (mansard roof)](../cases/PINS-6007541.md) | Appeal | dismissed | not-engaged |  | 'substantial weight applies only where the criteria in Policy L2 … are met and where no conflict arises with the conservation of designated heritage assets' (DL 15) |
 
-### L2(1)(b)  (benefit 14, neutral 1, conflict 1)
+### L2(1)(b)  (benefit 17, neutral 1, conflict 1)
 
 | Case | Maker | Outcome | Finding | Weight | Note |
 | --- | --- | --- | --- | --- | --- |
+| [Monometer House, 128 Rectory Grove, Leigh-on-Sea (storage building on stilts over a car park)](../cases/PINS-6009318.md) | Appeal | dismissed | benefit | substantial | better use of underutilised land "such as building on or above car parks" (DL 16) |
+| ★ [The Little Boatyard, Lime Street, Brightlingsea (timber cabin for light industrial use)](../cases/PINS-6010933.md) | Appeal | allowed | benefit | substantial | principle supported by L2(1)(b), substantial weight to making better use of underutilised land (DL 30) |
 | [Valera Ltd, Plox Brow, Tarleton](../cases/PINS-6004952.md) | Appeal | dismissed | benefit | limited | not "underutilised" in the L2(1)(b) sense because employment use not shown to have ended, so no substantial weight; PDL reuse limited weight (DL 21) |
+| [454-456 Blackpool Road, Preston (3 retail units and 6 flats on a corner plot)](../cases/PINS-6006018.md) | Appeal | dismissed | benefit | substantial | mapped: code not given; "making better use of vacant and underutilised land and buildings" on previously developed land (DL 19) |
 | [Former Revolution Bar, Maxwell Road, Beaconsfield](../cases/PINS-6007582.md) | Appeal | dismissed | benefit | substantial | better use of vacant/underutilised land (DL 42) |
 | [Site I, The Mill, Catteshall Road, Godalming](../cases/PINS-6006517.md) | Appeal | dismissed | benefit |  | better use of partly PDL, sustainably located site; folded into overall substantial weight (DL 46, 50) |
 | [286 Great North Road, Woodlands, Doncaster](../cases/PINS-6009127.md) | Appeal | dismissed | benefit | limited | intensifies residential use rather than converting another use; site too small for the units (DL 21) |
@@ -3734,12 +4132,14 @@ Jump to: [AnnexA](#annexa) · [AnnexB](#annexb) · [AnnexD](#annexd) · [AnnexF]
 | [17 Allesley Old Road, Chapel Fields, Coventry](../cases/PINS-6005849.md) | Appeal | dismissed | benefit | moderate | vacant building in disrepair back into use plus 4 dwellings (DL 22) |
 | [1 Blewitts Cottages, New Road, Rainham](../cases/PINS-6006409.md) | Appeal | dismissed | benefit |  | efficient use of existing building and economic activity acknowledged but insufficient (DL 17-18) |
 
-### L2(1)(d)  (benefit 10, fail 9, not-engaged 1, pass 1)
+### L2(1)(d)  (fail 12, benefit 10, pass 3, not-engaged 1)
 
 | Case | Maker | Outcome | Finding | Weight | Note |
 | --- | --- | --- | --- | --- | --- |
+| ★ [15 Brethergate, Westwoodside (dwelling in side curtilage)](../cases/PINS-6008883.md) | Appeal | allowed | pass |  | "the proposal satisfies the three requirements of part d"; no footprint or curtilage figures given; the letter writes "L2(1)(d))" (DL 17) |
 | ★ [Serif House, 10 Dudley Street, Luton](../cases/PINS-6009487.md) | Appeal | dismissed | fail | substantial | additional homes must be consistent with the streetscene and give acceptable living conditions and external amenity space; scheme falls wholly short (DL 40-41) |
 | ★ [Upper Flat, 23 Ronalds Road, Highbury (extension over outrigger)](../cases/PINS-6005904.md) | Appeal | allowed | benefit | substantial | additional residential floorspace in the airspace above existing residential premises; not visible from the street frontage, so L2(1)(d)(i) street-scene consistency not required (DL 18-19) |
+| ★ [Land to the rear of 137 Station Road, Hesketh Bank (PIP, up to 4 homes)](../cases/PINS-6007730.md) | Appeal | allowed | pass |  | site is not all residential curtilage; unlikely to exceed twice the footprint of existing buildings; No 137 "would be unlikely to retain at least 50% of the non-developed area … within its curtilage" (the break is a page footnote), but that would not necessarily harm the overall character of the area, subject to detailed design; full assessment left to technical details stage (DL 17) |
 | ★ [Marton House, 31 West Street, Padiham](../cases/PINS-6011037.md) | Appeal | dismissed | fail |  | garden development not consistent with the street scene; routed through S4(2)(a)(ii) (DL 29-30) |
 | [202A High Street, Harwich](../cases/PINS-6008784.md) | Appeal | dismissed | not-engaged |  | no additional units or floorspace; L2 "does not preclude me from finding harm" (DL 20) |
 | ★ [64 Prestwich Avenue, Worcester](../cases/PINS-6006644.md) | Appeal | dismissed | fail |  | plot intensification does not keep acceptable privacy for No 62 or safe access; "substantial adverse impact" (DL 45) |
@@ -3758,13 +4158,20 @@ Jump to: [AnnexA](#annexa) · [AnnexB](#annexb) · [AnnexD](#annexd) · [AnnexF]
 | ★ [96 Church Road, Blurton, Stoke-on-Trent](../cases/PINS-6010701.md) | Appeal | dismissed | fail |  | visible from street, inconsistent with street scene, under 50% of undeveloped curtilage retained, more than twice existing footprint - a "substantial adverse impact" (DL 33-34) |
 | [Mulberry Interiors, 8 Church Hill, Loughton](../cases/PINS-6007526.md) | Appeal | dismissed | fail | considerable | additional unit within existing plot supported in principle, but bedrooms enclosed by 7-8 m trees and an overhanging sycamore fail the daylight/sunlight living-standards limb (DL 11-12, 21) |
 | [26 Bendemeer Road, Putney](../cases/PINS-6006986.md) | Appeal | dismissed | benefit | limited | efficient use of plot, one extra home in sustainable location: "only limited weight" — no L2 substantial weight applied (DL 15); code mapped by harvester |
+| ★ [Land to the rear of Edoras, Banbury Road, Pillerton Priors](../cases/stratford-26-01894-PIP.md) | Committee | refused | fail |  | members - the notice cites "L2" with no limb; the reason describes "a backland form of development within an existing residential curtilage" (Notice reason 1) |
+| ★ [Land to the rear of Edoras, Banbury Road, Pillerton Priors](../cases/stratford-26-01894-PIP.md) | Committee | refused | fail |  | officer view - fails point (iii) because the scheme would not retain 50% of the non-developed curtilage; "some conflict", but the policy says "should" and not "must" (Report pp.9, 13, 17); the report writes "L2 (1)(4) point iii" |
+| ★ [144 Malthouse Lane, Earlswood](../cases/stratford-26-01542-FUL.md) | Delegated | refused | fail |  | fails (i), not consistent with the street scene and visible from the frontage (house about 7 m high behind bungalows of about 5.5 m), and (ii), amenity space of 46.94 sqm against a 62 sqm standard (pp.6, 11); refusal reason 2 |
 | ★ [Tacna, Broad Lane, Tanworth-in-Arden](../cases/stratford-26-01310-FUL.md) | Delegated | refused | fail |  | incongruous garage in spacious landscaped frontage; cited in refusal reason 2 with CS.9 |
 
-### L2(1)(d)(i)  (fail 15, pass 2)
+### L2(1)(d)(i)  (fail 17, conflict 2, pass 2)
 
 | Case | Maker | Outcome | Finding | Weight | Note |
 | --- | --- | --- | --- | --- | --- |
+| ★ [Rear of 2 High Street, Edgware (nine flats above a garage)](../cases/PINS-6012289.md) | Appeal | dismissed | fail | limited | airspace development gets substantial weight only if consistent with the overall street scene; it is not, so "little weight" (DL 35) |
+| ★ [6 and 6a Fairview Road, Wednesfield, Wolverhampton](../cases/PINS-6009135.md) | Appeal | dismissed | conflict |  | first-floor side extension breaches the Fairview Grove building line and dominates an open corner; not consistent with the overall street scene (DL 8-11, 32) |
+| [Former Hull Grammar School and Community Centre, Cottingham Road, Hull](../cases/PINS-6010376.md) | Appeal | dismissed | conflict |  | airspace development must be consistent with the street scene and not harm the building's character; character harm "significantly limits" the L2 weight (DL 67) |
 | ★ [15 Churchill Close, Sturminster Marshall (chalet bungalow s73)](../cases/PINS-6011565.md) | Appeal | dismissed | fail |  | top-heavy chalet bungalow, visible above the frontage and from public viewpoints; discordant with the 1950s estate; SMNP9 and HE2 conflict (DL 10-12, 21) |
+| ★ [454-456 Blackpool Road, Preston (3 retail units and 6 flats on a corner plot)](../cases/PINS-6006018.md) | Appeal | dismissed | fail |  | taller than the former building and its neighbours, with a substantial gabled flank to Parkfield Avenue; not consistent with the overall street scene and not a corner where a higher building is appropriate, so the scheme "does not benefit from this part of Policy L2"; the letter writes "L2 d." (DL 8-10) |
 | [Land at Nunhayes, Great Stone, Cuddington](../cases/PINS-6009513.md) | Appeal | dismissed | fail |  | not consistent with the overall street scene (DL 42) |
 | ★ [4 Whurley Way, Maidenhead](../cases/PINS-6008337.md) | Appeal | dismissed | fail |  | "the proposal would not be consistent with the overall street scene … in conflict with policy L2(1)(d)(i)" — blank rear/side elevations, awkward stepped roof on prominent corner (DL 8-10, 30) |
 | ★ [512 High Road, Tottenham](../cases/PINS-6008944.md) | Appeal | dismissed | fail |  | airspace development not consistent with the street scene (DL 18-19) |
@@ -3782,10 +4189,16 @@ Jump to: [AnnexA](#annexa) · [AnnexB](#annexb) · [AnnexD](#annexd) · [AnnexF]
 | ★ [40 West Way, Poole](../cases/PINS-6006144.md) | Appeal | dismissed | fail |  | triangular, uncharacteristically small plot; not consistent with the overall street scene (DL 6-7, 27) |
 | ★ [17-19 Parkstone Road, Poole](../cases/PINS-6007128.md) | Appeal | dismissed | fail |  | five storeys in open rear courtyard, not consistent with street scene (DL 8-12, 36) |
 
-### L2(1)(d)(ii)  (fail 17, pass 2, conflict 1, determinative 1)
+### L2(1)(d)(ii)  (fail 18, conflict 4, pass 3, accord 1, determinative 1)
 
 | Case | Maker | Outcome | Finding | Weight | Note |
 | --- | --- | --- | --- | --- | --- |
+| ★ [16-17 Cecilia House, Hanger Lane, Ealing (rear extension to HMO)](../cases/PINS-6005995.md) | Appeal | dismissed | conflict |  | harm to outlook, daylight and sunlight for existing rooms 5 and 30; no site-specific daylight assessment; letter says "policy L2 d ii" and gives "greater than substantial weight" to the adverse effect (DL 8-9, 16) |
+| [2 Ridge Hill Lane, Stalybridge (house to 6-bedroom HMO)](../cases/PINS-6010069.md) | Appeal | dismissed | fail |  | L2 substantial weight for creating additional homes acknowledged, but the policy also requires acceptable living standards including external amenity space, which the scheme does not provide (DL 33) |
+| ★ [6 and 6a Fairview Road, Wednesfield, Wolverhampton](../cases/PINS-6009135.md) | Appeal | dismissed | conflict |  | poor-quality shared external space and loss of privacy and disturbance for flat 3; unacceptable living standards (DL 12-18, 32) |
+| [12 Victoria Road, Whetstone (dwelling in rear garden)](../cases/PINS-6009910.md) | Appeal | dismissed | conflict |  | mapped: Framework not cited; all first-floor windows except the front would be obscure-glazed and fixed, and gardens very small; poor living conditions for future occupiers under local DM1 (DL 9-12) |
+| [Former Hull Grammar School and Community Centre, Cottingham Road, Hull](../cases/PINS-6010376.md) | Appeal | dismissed | accord |  | privacy of neighbours on Scholars Drive acceptable; 23.8 m minimum separation (DL 52, 54) |
+| [28A Ridley Road, London NW10 (external rear staircase to first-floor flat)](../cases/PINS-6011602.md) | Appeal | allowed | pass |  | mapped: Framework not cited; no unacceptable overlooking of the ground-floor flat; garden rights are a private matter (DL 12) |
 | ★ [56 Burlington Road, New Malden](../cases/PINS-6009988.md) | Appeal | dismissed | fail |  | ground-floor bedroom window W15 at 52-54 Burlington Road loses 93.7% VSC and 100% NSL; sole window to the only bedroom of a one-bed flat (DL 4-12, 24) |
 | ★ [15 Churchill Close, Sturminster Marshall (chalet bungalow s73)](../cases/PINS-6011565.md) | Appeal | dismissed | fail |  | new rooflights overlook the gardens of Nos 14, 16 and 91A High Street (DL 13-17, 21) |
 | ★ [10 Goodminns Estate, Sedgeford](../cases/PINS-6008840.md) | Appeal | dismissed | fail | significant | significant harm to No 8 (overbearing, overlooking of garden, vehicle noise along the boundary); letter treats S4(2)(a)(ii) as relevant (DL 13-21, 25, 31) |
@@ -3808,10 +4221,11 @@ Jump to: [AnnexA](#annexa) · [AnnexB](#annexb) · [AnnexD](#annexd) · [AnnexF]
 | ★ [40 West Way, Poole](../cases/PINS-6006144.md) | Appeal | dismissed | fail |  | side elevation ~12 m from No 40's rear windows, "substantially overbearing" — unacceptable living standards for neighbours (DL 12-13, 27) |
 | ★ [17-19 Parkstone Road, Poole](../cases/PINS-6007128.md) | Appeal | dismissed | fail |  | looms 12 m from rear of existing HMO; ground-floor rooms overlook cycle stands (DL 13-21, 36) |
 
-### L2(1)(d)(iii)  (fail 1, pass 1)
+### L2(1)(d)(iii)  (pass 2, fail 1)
 
 | Case | Maker | Outcome | Finding | Weight | Note |
 | --- | --- | --- | --- | --- | --- |
+| [147 Eastcote Lane, Harrow (two-storey house in rear garden, outline)](../cases/PINS-6006890.md) | Appeal | dismissed | pass | substantial | additional unit within a residential curtilage; footprint and 50% retention criteria met; other L2 criteria not disputed or for reserved matters (DL 37, 40, 42) |
 | ★ [18 Beech Hill, Hadley Wood, Enfield](../cases/PINS-6008667.md) | Appeal | dismissed | fail |  | "The proposal would more than double the existing footprint and would not be the 'sensitive redevelopment' stipulated" — substantial weight "not available" (DL 13) |
 | ★ [18 Beech Hill, Hadley Wood, Enfield](../cases/PINS-6008803.md) | Appeal | dismissed | pass |  | more than doubles existing footprint, but "unless … without harm to the overall character" limb met — plot very large, spacing similar to neighbours, rear pair does not dominate Green Belt (DL 10-11) |
 
@@ -3829,7 +4243,7 @@ Jump to: [AnnexA](#annexa) · [AnnexB](#annexb) · [AnnexD](#annexd) · [AnnexF]
 
 ## L3
 
-### L3  (benefit 7, neutral 5, pass 4, not-engaged 2, fail 1, determinative 1)
+### L3  (benefit 7, pass 5, neutral 5, not-engaged 3, fail 1, determinative 1)
 
 | Case | Maker | Outcome | Finding | Weight | Note |
 | --- | --- | --- | --- | --- | --- |
@@ -3839,6 +4253,8 @@ Jump to: [AnnexA](#annexa) · [AnnexB](#annexb) · [AnnexD](#annexd) · [AnnexF]
 | [Former Revolution Bar, Maxwell Road, Beaconsfield](../cases/PINS-6007582.md) | Appeal | dismissed | benefit | limited | emerging allocation proposes more dwellings (DL 44) |
 | [58 and 60 Waverley Road, St Albans (former sports and social club)](../cases/PINS-6009808.md) | Appeal | dismissed | benefit | limited | efficient use of land discounted because the scheme is not well designed (DL 38) |
 | [207 Lower Blandford Road, Broadstone (3 flats to the rear)](../cases/PINS-6007434.md) | Appeal | dismissed | benefit | significant | efficient use of PDL, density increase in an accessible location, plus construction benefits (DL 30) |
+| ★ [Land to the rear of 137 Station Road, Hesketh Bank (PIP, up to 4 homes)](../cases/PINS-6007730.md) | Appeal | allowed | pass |  | 4 homes on 0.14 ha approaches 30 dwellings per hectare, the Local Plan RS1 minimum; L3 supports increased density, and existing character "should not preclude development which makes the most of an area's potential" (DL 9-10) |
+| [Paddock north of Spring Acres, West End Lane, Henfield (PIP, up to 9 self-build homes)](../cases/PINS-6006961.md) | Appeal | dismissed | not-engaged |  | L3 on making best use of a site outside settlements not determinative because of the DP3 conflict; L3(2)(c) station density does not apply as the site is not within reasonable walking distance of a station (DL 19, 26) |
 | [Land adjacent to 7 & 8 Slade Close, Etwall](../cases/PINS-6011093.md) | Appeal | allowed | pass |  | 10 dwellings on about 0.6 ha not over-intensive given trees, access and drainage constraints (DL 14-17); code mapped by harvester |
 | [1029 Oxford Road, Tilehurst, Reading](../cases/PINS-6004809.md) | Appeal | dismissed | benefit | significant | efficient use of PDL in an accessible location (DL 57) |
 | ★ [Deerleap Bank, Halstead Lane, Knockholt/Halstead](../cases/PINS-6007121.md) | Appeal | dismissed | fail |  | 13 dph at most vs SP7 30 dph; no demonstration that the site's maximum potential was used; "Development proposals that do not make efficient use of land … should be refused" (DL 14-21, 27) |
@@ -3854,10 +4270,18 @@ Jump to: [AnnexA](#annexa) · [AnnexB](#annexb) · [AnnexD](#annexd) · [AnnexF]
 | [Land adjacent to Woodlands Cottage, Oxhey Lane, Carpenders Park](../cases/threerivers-25-2168-OUT.md) | Committee | refused | neutral |  | 41 dph vs 45 dph for station-proximate sites; officers accepted shortfall because of pipeline buffer and heritage set-back |
 | [Coblands Nursery, Trench Road, Tonbridge](../cases/tmbc-25-01976-PA.md) | Committee | approved | pass |  | c.30 dph, 'slightly lower than expected' justified by edge location |
 
-### L3(2)(b)  (benefit 1, fail 1)
+### L3(2)(a)  (benefit 1)
 
 | Case | Maker | Outcome | Finding | Weight | Note |
 | --- | --- | --- | --- | --- | --- |
+| [Rear of 2 High Street, Edgware (nine flats above a garage)](../cases/PINS-6012289.md) | Appeal | dismissed | benefit | limited | density to be assessed against existing character subject to DP3; "little weight" in favour (DL 36) |
+
+### L3(2)(b)  (fail 3, benefit 1)
+
+| Case | Maker | Outcome | Finding | Weight | Note |
+| --- | --- | --- | --- | --- | --- |
+| [Land at Mushroom Lane, Brigsley (outline, nine dwellings)](../cases/PINS-6009363.md) | Appeal | dismissed | fail |  | letter says "L3(2b)"; 6.8 dwellings per hectare gross over 1.3 ha, and a very low net density even after excluding open space, biodiversity area, swales and pond (DL 7-9) |
+| [Land west of Sunnyside, Glentham (three over-55s dwellings)](../cases/PINS-6011337.md) | Appeal | dismissed | fail |  | letter says "L3(2b)"; very low density even on a net basis excluding the communal garden; no explanation for it (DL 29) |
 | [Land adjacent Langley Cricket Club, Cock Hall Lane, Langley, Macclesfield (PIP one dwelling)](../cases/PINS-6010253.md) | Appeal | dismissed | benefit | moderate | one dwelling on 0.1 ha an efficient use of land; moderate weight with economic, social and BNG benefits (DL 33) |
 | ★ [Land at OS 7540 6621 Stourport Road, Great Witley (4 dwellings)](../cases/PINS-6010196.md) | Appeal | dismissed | fail |  | site adjoins settlement boundary and has PiP, so footprint "should make the best use of the site's development potential"; about 4 dpa unjustified by constraints (DL 20-24) |
 
@@ -3875,10 +4299,12 @@ Jump to: [AnnexA](#annexa) · [AnnexB](#annexb) · [AnnexD](#annexd) · [AnnexF]
 | --- | --- | --- | --- | --- | --- |
 | ★ [Former Bath Press premises (western end), Lower Bristol Road, Bath](../cases/bathnes-25-03592-FUL.md) | Committee | approved | pass |  | Connectivity Tool used — DfT connectivity score 80-82 ('very high'), walking score 83 |
 
-### L3(4)  (conflict 1, determinative 1)
+### L3(4)  (fail 2, conflict 1, determinative 1)
 
 | Case | Maker | Outcome | Finding | Weight | Note |
 | --- | --- | --- | --- | --- | --- |
+| ★ [Land at Mushroom Lane, Brigsley (outline, nine dwellings)](../cases/PINS-6009363.md) | Appeal | dismissed | fail |  | not an effective use of land, so the policy says the development should be refused (DL 9, 23) |
+| ★ [Land west of Sunnyside, Glentham (three over-55s dwellings)](../cases/PINS-6011337.md) | Appeal | dismissed | fail |  | development that does not make efficient use of land should be refused (DL 29, 32) |
 | ★ [Land at OS 7540 6621 Stourport Road, Great Witley (4 dwellings)](../cases/PINS-6010196.md) | Appeal | dismissed | conflict |  | proposals not making efficient use of land "should be refused" (DL 23, 30) |
 | ★ [Land East of Tring (Marshcroft) — appeal stance review](../cases/dacorum-25-01880-MOA.md) | Committee | refused | determinative |  |  |
 
@@ -3951,6 +4377,12 @@ Jump to: [AnnexA](#annexa) · [AnnexB](#annexb) · [AnnexD](#annexd) · [AnnexF]
 | [271 The Drive, Cranbrook, Ilford](../cases/PINS-6009905.md) | Appeal | allowed | accord |  | family-housing policy read as a whole supports a range of homes; >90% of The Drive remains single dwellings (DL 10-11) |
 | [12 Belfairs Drive, Chadwell Heath](../cases/PINS-6010851.md) | Appeal | allowed | accord |  | mix policy aimed at housing sites not changes of use; weighs in favour of retaining larger homes (DL 5) |
 
+### LP5(local)  (conflict 1)
+
+| Case | Maker | Outcome | Finding | Weight | Note |
+| --- | --- | --- | --- | --- | --- |
+| [Land west of Underlane, Carnkie, Wendron (mushroom growing building)](../cases/PINS-6008292.md) | Appeal | dismissed | conflict |  | no overriding locational and business need shown for this site; cost savings from owning the land are not enough (DL 10, 20-21) |
+
 ## LP8
 
 ### LP8(HackneyLP)/S1(LondonPlan)  (conflict 1)
@@ -4009,10 +4441,13 @@ Jump to: [AnnexA](#annexa) · [AnnexB](#annexb) · [AnnexD](#annexd) · [AnnexF]
 
 ## N2
 
-### N2  (fail 25, harm 13, conflict 9, pass 6, benefit 5, neutral 4, accord 2, determinative 2, not-engaged 1)
+### N2  (fail 25, harm 13, conflict 11, benefit 7, pass 6, neutral 4, accord 2, determinative 2, not-engaged 1)
 
 | Case | Maker | Outcome | Finding | Weight | Note |
 | --- | --- | --- | --- | --- | --- |
+| [Monometer House, 128 Rectory Grove, Leigh-on-Sea (storage building on stilts over a car park)](../cases/PINS-6009318.md) | Appeal | dismissed | benefit | limited | green roof (DL 17) |
+| [Land off Long Lane, Fowlmere (PIP, up to 7 self-build homes)](../cases/PINS-6011365.md) | Appeal | dismissed | conflict | moderate | Grade 2 or 3a land not farmed for at least 60 years; N2 read as requiring poorer-quality land if significant development of agricultural land is necessary; contiguity and necessity uncertain (DL 15-18, 27) |
+| ★ [147 Eastcote Lane, Harrow (two-storey house in rear garden, outline)](../cases/PINS-6006890.md) | Appeal | dismissed | conflict |  | contrary to N2 "relating to improving the natural environment"; no limb given (DL 17); called "a severe environmental harm" in the balance (DL 43) |
 | ★ [147 Eastcote Lane, Harrow (two bungalows, outline)](../cases/PINS-6004526.md) | Appeal | allowed | accord |  | BNG baseline is grassland (2020 imagery), not gravel; gains in private gardens cannot count, but off-site units or credits are a realistic route, so the biodiversity gain condition is capable of discharge (DL 19-27) |
 | [Land east of Hole House Lane, Tosside (food truck)](../cases/PINS-6009649.md) | Appeal | dismissed | benefit | limited | landscaping and biodiversity "a small amount of weight" (DL 34) |
 | [Land off Pickworth Road, Great Casterton (HO11(e) earth-sheltered house)](../cases/PINS-6010934.md) | Appeal | dismissed | fail |  | roadside verge Local Wildlife Site not assessed; harm from access widening and splays not ruled out (DL 40-41) |
@@ -4021,6 +4456,7 @@ Jump to: [AnnexA](#annexa) · [AnnexB](#annexb) · [AnnexD](#annexd) · [AnnexF]
 | [Land at Mount Avenue, Chaldon (Caterham edge)](../cases/PINS-6006497.md) | Appeal | allowed | benefit | moderate | BNG 13.53% habitat and 123.23% hedgerow units (DL 60) |
 | [Land to rear of Pets Pantry, Guildford Road, Cranleigh](../cases/PINS-6006825.md) | Appeal | dismissed | fail |  | BNG - appellant accepts 10% not achieved and no s106 or other mechanism; negative condition not appropriate; no ecology survey (DL 30-33) |
 | ★ [Land north of Bottomdale Road, Halton](../cases/APP-A2335-C-26-3378663.md) | Appeal | dismissed | harm |  | harm to rural character contrary to DM29 and N2 (DL 34) |
+| [Land at Backworth Business Park, Eccleston Close, Backworth (37 homes on a local wildlife site)](../cases/PINS-6006322.md) | Appeal | allowed | benefit |  | some positive contributions to the natural environment and nature's recovery (DL 33) |
 | ★ [Land adjacent to Parkend Club, Castlemain, Parkend (s73A variation, 3 dwellings)](../cases/PINS-6008171.md) | Appeal | allowed | pass |  | loss of approved on-site reptile buffer offset by larger off-site mitigation land under a LEMP, secured by UU; net gain over the approved scheme (DL 14-22) |
 | ★ [33 Western Avenue, Thorpe, Egham](../cases/PINS-6010772.md) | Appeal | dismissed | fail |  | statutory BNG (Sch 7A TCPA) — all gain in private gardens; DEFRA metric guide (Aug 2026) says garden gains cannot be legally secured; 30-year maintenance unenforceable; condition not capable of discharge (DL 5-14); Framework not relied on |
 | ★ [Well Hill Nursery, Fountain Farm, Firmingers Road, Orpington](../cases/PINS-6012481.md) | Appeal | dismissed | fail | substantial | no GCN, reptile or bat surveys; cannot be conditioned (Circular 06/2005 para 99) (DL 22-30, 53) |
@@ -4087,10 +4523,14 @@ Jump to: [AnnexA](#annexa) · [AnnexB](#annexb) · [AnnexD](#annexd) · [AnnexF]
 | --- | --- | --- | --- | --- | --- |
 | ★ [Land north of Bishops Lane, west of Willow Bank, Robertsbridge](../cases/PINS-6005903.md) | Appeal | dismissed | conflict |  | harm to landscape character and beauty of the countryside (DL 46) |
 
-### N2(1)(a)  (harm 4, fail 3, pass 1, conflict 1)
+### N2(1)(a)  (harm 6, fail 4, conflict 3, pass 1)
 
 | Case | Maker | Outcome | Finding | Weight | Note |
 | --- | --- | --- | --- | --- | --- |
+| ★ [Land west of Underlane, Carnkie, Wendron (mushroom growing building)](../cases/PINS-6008292.md) | Appeal | dismissed | conflict |  | letter cites N2 without a limb; a singular, eye-catching building in an exposed open landscape, apart from any farmstead; significant harm to landscape value (DL 11-14, 25) |
+| ★ [Milan Villa, Hyde Wood Lane, Canewdon (replacement dwelling)](../cases/PINS-6008122.md) | Appeal | dismissed | conflict | significant | not shown that the proposal would conserve or enhance biodiversity (DL 23) |
+| ★ [Land at Mushroom Lane, Brigsley (outline, nine dwellings)](../cases/PINS-6009363.md) | Appeal | dismissed | harm | considerable | letter says "N2(1a)" and "N2(a)"; development of the open field harms the character and appearance of the area, as the inspector in an earlier appeal on the site found (DL 10-11, 23) |
+| ★ [Land west of Sunnyside, Glentham (three over-55s dwellings)](../cases/PINS-6011337.md) | Appeal | dismissed | fail |  | letter says "N2(1a)"; houses on rising ground would detract from the western approach to the village and the character of the countryside (DL 14, 23) |
 | [40 Millers Lane, Harpley (self-build dwelling)](../cases/PINS-6010422.md) | Appeal | dismissed | harm |  | at odds with N2(1) (natural beauty of the countryside); "medium weight" (not a standard weight word) as effects localised (DL 47) |
 | [8 Shepherd House, Shepherd House Farm, Luddenden (extension to listed farmhouse, Appeal A)](../cases/PINS-6011008.md) | Appeal | dismissed | pass |  | mapped - no harm to Luddenden Dean Special Landscape Area (local GN4) (DL 17-19) |
 | [Land North of A507, West of A10, Buntingford](../cases/PINS-6008238.md) | Appeal | allowed | harm | limited | limited localised landscape harm at year 15 to LCA 141 (medium value), built form kept off the plateau and ridge (DL 113-122, 126) |
@@ -4100,6 +4540,7 @@ Jump to: [AnnexA](#annexa) · [AnnexB](#annexb) · [AnnexD](#annexd) · [AnnexF]
 | ★ [10 Pine View Close, Badshot Lea, Farnham](../cases/PINS-6006720.md) | Appeal | dismissed | fail |  | no metric or landscaping plan, so 10% BNG not demonstrated (DL 25-27) |
 | ★ [Land north of Lyndale, Twitty Fee, Danbury](../cases/PINS-6006289.md) | Appeal | dismissed | fail |  | no completed metric / pre-development value, so self-build must be secured to be BNG-exempt; not secured (DL 25-31) |
 | ★ [Land east of Bere Hill, Whitchurch](../cases/PINS-6006893.md) | Appeal | dismissed | conflict | substantial | "serious harm" to landscape character and appearance (DL 30-31) |
+| ★ [Land to the rear of Edoras, Banbury Road, Pillerton Priors](../cases/stratford-26-01894-PIP.md) | Committee | refused | harm |  | members - the notice cites "N2" with no limb; "an unacceptable impact on the visual amenity of the landscape" (Notice reason 1); the officer also found conflict with N2 (Report p.12) |
 
 ### N2(1)(b)  (harm 3, neutral 1)
 
@@ -4121,6 +4562,12 @@ Jump to: [AnnexA](#annexa) · [AnnexB](#annexb) · [AnnexD](#annexd) · [AnnexF]
 | [Land adjacent to 7 & 8 Slade Close, Etwall](../cases/PINS-6011093.md) | Appeal | allowed | neutral |  | some tree loss offset by retention, replacement planting and conditions (DL 27) |
 | ★ [Land east of Bere Hill, Whitchurch](../cases/PINS-6006893.md) | Appeal | dismissed | conflict | substantial | landscaping would not integrate development; engineered buffer embankment (DL 26, 31) |
 
+### N2(1)(e)  (benefit 1)
+
+| Case | Maker | Outcome | Finding | Weight | Note |
+| --- | --- | --- | --- | --- | --- |
+| [Land at Mushroom Lane, Brigsley (outline, nine dwellings)](../cases/PINS-6009363.md) | Appeal | dismissed | benefit |  | letter says "N2(c-g)"; green infrastructure, biodiversity gain above the statutory requirement and tree planting (N3) support the scheme (DL 19, 21) |
+
 ### N2(1)(f)  (fail 3, pass 1)
 
 | Case | Maker | Outcome | Finding | Weight | Note |
@@ -4130,11 +4577,12 @@ Jump to: [AnnexA](#annexa) · [AnnexB](#annexb) · [AnnexD](#annexd) · [AnnexF]
 | ★ [Burnham Grammar School, Hogfair Lane, Burnham](../cases/PINS-6008170.md) | Appeal | allowed | pass |  | lightweight polycarbonate canopy is a "compelling technical reason" why integrated boxes would be ineffective; N2 does not support off-site boxes elsewhere in grounds (DL 9-10) |
 | ★ [96 Church Road, Blurton, Stoke-on-Trent](../cases/PINS-6010701.md) | Appeal | dismissed | fail | substantial | bat survey inconsistencies (trees surveyed do not match PBRA); effect on roosting bats unknown (DL 19-23, 32) |
 
-### N2(2)  (fail 3)
+### N2(2)  (fail 3, pass 1)
 
 | Case | Maker | Outcome | Finding | Weight | Note |
 | --- | --- | --- | --- | --- | --- |
 | ★ [Brishing Court Farm, Brishing Lane, Boughton Monchelsea](../cases/PINS-6007158.md) | Appeal | dismissed | fail |  | no reptile survey despite PEA recommending one; cannot be left to condition (DL 28-31) |
+| ★ [Land at Backworth Business Park, Eccleston Close, Backworth (37 homes on a local wildlife site)](../cases/PINS-6006322.md) | Appeal | allowed | pass |  | adverse effects on biodiversity "do not amount to significant harm that Policy N2 paragraph 2 seeks to avoid", given the net gain and the nearby off-site mitigation (DL 33) |
 | ★ [Grandview House, 94 Broad Street, Wood Street (Guildford)](../cases/PINS-6009645.md) | Appeal | dismissed | fail | substantial | red impact risk zone for great crested newts, 9 ponds within 500 m, no survey (DL 27-31, 56) |
 | [The Parsonage House, 90 High Street, Watchfield](../cases/PINS-6008736.md) | Appeal | dismissed | fail |  | Framework said to raise no new determinative matters (DL 11); decided under Circular 06/2005 and CP46 |
 
@@ -4144,10 +4592,11 @@ Jump to: [AnnexA](#annexa) · [AnnexB](#annexb) · [AnnexD](#annexd) · [AnnexF]
 | --- | --- | --- | --- | --- | --- |
 | ★ [Burnham Grammar School, Hogfair Lane, Burnham](../cases/PINS-6008170.md) | Appeal | allowed | pass |  | gains beyond statutory BNG only required via up-to-date allocation-specific policies; general CP9 "cannot be relied upon to require biodiversity enhancements beyond statutory net gain" (DL 7-8) |
 
-### N2(BNG)  (pass 1)
+### N2(BNG)  (benefit 1, pass 1)
 
 | Case | Maker | Outcome | Finding | Weight | Note |
 | --- | --- | --- | --- | --- | --- |
+| [Maisie Cottage, Bottrells Lane, Chalfont St Giles (stable to dwelling)](../cases/PINS-6011889.md) | Appeal | dismissed | benefit | moderate | appropriate provision for biodiversity net gain, of modest scale; overcomes a reason for the 2025 dismissal (DL 21) |
 | [Vale View, West Bagborough](../cases/PINS-6010616.md) | Appeal | dismissed | pass |  | off-site gains on appellant land; obligation needed only at gain-plan discharge (DL 11-13) |
 
 ## N3
@@ -4177,10 +4626,11 @@ Jump to: [AnnexA](#annexa) · [AnnexB](#annexb) · [AnnexD](#annexd) · [AnnexF]
 
 ## N4
 
-### N4  (harm 17, neutral 15, pass 12, fail 8, not-engaged 1, conflict 1)
+### N4  (harm 17, neutral 15, pass 13, fail 8, conflict 2, not-engaged 1)
 
 | Case | Maker | Outcome | Finding | Weight | Note |
 | --- | --- | --- | --- | --- | --- |
+| ★ [Lower Fawke Farm, Bitchet Green Road, Fawke Common, Underriver](../cases/PINS-6004899.md) | Appeal | allowed | pass |  | Kent Downs National Landscape; vehicle movements similar to the lawful agricultural use, storage confined to the farmstead, new hedgerow and tree planting; natural beauty preserved and enhanced (DL 5-16) |
 | ★ [Scotlands Farm, Telegraph Hill, Fernhurst (garage and access track)](../cases/PINS-6004640.md) | Appeal | dismissed | fail | substantial | access track through previously undeveloped woodland; significant landscape and tranquillity harm; does not conserve or enhance; statutory "seek to further" duty (LURA 2023) not met (DL 7-8, 12-20) |
 | ★ [Scotlands Farm, Telegraph Hill, Fernhurst (garage and access track)](../cases/PINS-6004640.md) | Appeal | dismissed | pass |  | garage itself subordinate, screened and grouped with outbuildings; no significant effect on the NP (DL 22, 24) |
 | [The Stables, Adsdean Park Road, Funtington (listed building consent)](../cases/PINS-6006266.md) | Appeal | dismissed | fail |  | does not conserve or enhance the cultural heritage of the National Park; LURA 2023 duty (DL 27-28) |
@@ -4192,6 +4642,7 @@ Jump to: [AnnexA](#annexa) · [AnnexB](#annexb) · [AnnexD](#annexd) · [AnnexF]
 | [10 Goodminns Estate, Sedgeford](../cases/PINS-6008840.md) | Appeal | dismissed | neutral |  | Norfolk Coast NL; limited scale within the settlement, sensitively located (DL 28) |
 | [Higher Bal Farm, Higher Bal, St Agnes (PIP, one dwelling)](../cases/PINS-6010498.md) | Appeal | dismissed | neutral |  | Cornwall National Landscape and heritage coast; a well-designed dwelling within the settlement's extent would preserve scenic beauty (DL 15) |
 | [1 Boxley Oast, Street Farm, Boxley (garage roof alterations)](../cases/PINS-6010727.md) | Appeal | dismissed | harm |  | mapped - negative impact on views towards Boxley from the Kent Downs NL, contrary to management plan principle SD8 (DL 11, 15) |
+| ★ [Maisie Cottage, Bottrells Lane, Chalfont St Giles (stable to dwelling)](../cases/PINS-6011889.md) | Appeal | dismissed | conflict | substantial | Chilterns National Landscape; domestication of the land erodes rural character; overall magnitude of harm limited because the site is small; substantial weight to conserving and enhancing natural beauty (DL 13, 17-19, 23) |
 | [Land East of College Road South, Aston Clinton](../cases/PINS-6008253.md) | Appeal | allowed | pass |  | Chilterns National Landscape conserved; read as a small extension to the village (DL 60) |
 | ★ [Land off Shire Lane, Hurst Green (self-build PIP)](../cases/PINS-6009691.md) | Appeal | dismissed | fail | significant | three curtilages, access and outbuildings would urbanise high-quality unspoilt rolling landscape in the Forest of Bowland National Landscape; statutory "seek to further" duty; no LVIA (DL 11-12, 21) |
 | ★ [2 North Field, Newby Bridge, Windermere (boathouse)](../cases/PINS-6010157.md) | Appeal | dismissed | fail | substantial | two-storey glazed boathouse on an undeveloped, tranquil stretch of shore; fails to conserve natural beauty and special qualities; high level of harm (DL 10, 13-16, 20, 32) |
@@ -4236,10 +4687,12 @@ Jump to: [AnnexA](#annexa) · [AnnexB](#annexb) · [AnnexD](#annexd) · [AnnexF]
 | ★ [Land next to Bathampton Junction, Station Road, Bathampton (padel centre)](../cases/bathnes-26-00259-FUL.md) | Committee | approved | pass |  | screened, preserves natural beauty of Cotswold National Landscape |
 | ★ [Grove Farm, Pendock (solar microgrid)](../cases/malvern-M-25-01044-FUL.md) | Committee | approved | pass |  | within the setting of the Malvern Hills National Landscape; the impact is judged "localised"; the update sheet maps old ¶189 to "N4 4" (setting) |
 
-### N4(1)  (conflict 3, pass 2, fail 2, harm 1, neutral 1)
+### N4(1)  (pass 3, conflict 3, harm 2, fail 2, neutral 1)
 
 | Case | Maker | Outcome | Finding | Weight | Note |
 | --- | --- | --- | --- | --- | --- |
+| ★ [Thurlestone Golf Club, Thurlestone (hospitality trailer beside the coast path)](../cases/PINS-6008892.md) | Appeal | dismissed | harm | substantial | isolated commercial feature on an open, undeveloped stretch of coast in the South Devon National Landscape; substantial weight to conserving and enhancing natural beauty (DL 6-9, 15) |
+| ★ [Sunny Bank Kitchen Garden, Killington New Bridge, Killington (market garden barn and polytunnels)](../cases/PINS-6013634.md) | Appeal | allowed | pass |  | substantial weight to conserving natural beauty stated (DL 3); modest farm buildings behind a dense roadside hedge are limited in scale and sensitively located; effect on the landscape value of the Park insignificant (DL 6-9) |
 | [Heather Lodge, 2 Old Acre Lane, Brocton, Stafford](../cases/PINS-6011888.md) | Appeal | dismissed | pass |  | natural beauty of Cannock Chase NL conserved; house not discernible from the Chase slopes (DL 16-19) |
 | ★ [Land south of Old Elstead Road, Milford](../cases/PINS-6007130.md) | Appeal | dismissed | fail | substantial | incongruous domestic encroachment into Surrey Hills National Landscape; loss of visual separation (DL 10-11, 17) |
 | ★ [Land west of Hedgehog Lane (Longdene House), Haslemere](../cases/PINS-6006581.md) | Appeal | dismissed | conflict | substantial | ~70% of site in Surrey Hills NL; considerable harm; would neither conserve nor enhance; also fails s85 CROW Act duty to further NL purposes (DL 13, 27, 31, 89-90) |
@@ -4250,18 +4703,20 @@ Jump to: [AnnexA](#annexa) · [AnnexB](#annexb) · [AnnexD](#annexd) · [AnnexF]
 | ★ [Kingston Barn, Kingston Russell (farmstead conversion, 7 dwellings, Dorset NL)](../cases/PINS-6007314.md) | Appeal | dismissed | fail |  | protected trees are an important contributor to this part of the Dorset NL; the scheme neither conserves nor enhances it (DL 12-13, 17, 19) |
 | ★ [Dial House Hotel, High Street, Bourton-on-the-Water (garden pavilion)](../cases/cotswold-26-01098-FUL.md) | Committee | approved | pass |  | officers quote the new "Substantial weight should be placed on the importance of conserving and enhancing the natural beauty"; the scheme sits in an enclosed garden in the built-up centre |
 
-### N4(2)  (not-engaged 3)
+### N4(2)  (not-engaged 4)
 
 | Case | Maker | Outcome | Finding | Weight | Note |
 | --- | --- | --- | --- | --- | --- |
+| [Lower Fawke Farm, Bitchet Green Road, Fawke Common, Underriver](../cases/PINS-6004899.md) | Appeal | allowed | not-engaged |  | largely conversion of existing buildings and reconfigured external space, so not major development (DL 15) |
 | [Land west of Hedgehog Lane (Longdene House), Haslemere](../cases/PINS-6006581.md) | Appeal | dismissed | not-engaged |  | not "major development" in the NL (footnote 59) given limited scale and effect on NL purposes; agreed by parties and 2019 Inspector (DL 12) |
 | [Crockmore Cottage, Fawley (200 kW ground-mounted solar)](../cases/PINS-6003569.md) | Appeal | allowed | not-engaged |  | parties agreed the scheme is not major development (DL ¶17) |
 | ★ [Bourton Industrial Park, Bourton-on-the-Water (Aldi and drive-thru)](../cases/cotswold-25-03800-FUL.md) | Committee | approved | not-engaged |  | not "major development" for N4 purposes (fn59), despite being DMPO-major, because it adjoins the village and the industrial estate on an allocated site |
 
-### N4(4)  (conflict 1, fail 1, pass 1)
+### N4(4)  (harm 1, conflict 1, fail 1, pass 1)
 
 | Case | Maker | Outcome | Finding | Weight | Note |
 | --- | --- | --- | --- | --- | --- |
+| ★ [Romaldor, St Johns Road, Wroxall (amateur radio mast)](../cases/PINS-6012036.md) | Appeal | dismissed | harm | great | harm to the setting of the Isle of Wight National Landscape "at a more moderate level"; letter gives "great weight" to conserving landscape and scenic beauty and to the harm (2024 wording; N4(1) says substantial weight) (DL 9, 13) |
 | ★ [Land west of Hedgehog Lane (Longdene House), Haslemere](../cases/PINS-6006581.md) | Appeal | dismissed | conflict | substantial | remaining ~30% (AGLV) is within the setting of the NL; harm not avoided or minimised (DL 14, 27, 89) |
 | ★ [Land east of Bere Hill, Whitchurch](../cases/PINS-6006893.md) | Appeal | dismissed | fail | substantial | setting of North Wessex Downs NL; not sensitively located/designed to avoid or minimise adverse impacts (DL 33-41) |
 | ★ [Cales Farm, Broadlands Drive, Malvern (200 dwellings, reserved matters)](../cases/malvern-M-25-01235-RM.md) | Committee | approved | pass |  | in the setting of the Malvern Hills National Landscape (about 290 m to the west), with elevated views from the Hills; the update sheet mis-cites the setting policy as "Policy N5 Para 4" (N5 is the coast policy) |
@@ -4274,11 +4729,15 @@ Jump to: [AnnexA](#annexa) · [AnnexB](#annexb) · [AnnexD](#annexd) · [AnnexF]
 
 ## N6
 
-### N6  (pass 16, fail 10, neutral 7, harm 3, not-engaged 3)
+### N6  (pass 17, fail 10, neutral 9, not-engaged 4, harm 3)
 
 | Case | Maker | Outcome | Finding | Weight | Note |
 | --- | --- | --- | --- | --- | --- |
 | [Morgan and Morecambe Offshore Wind Farms Transmission Assets (DCO)](../cases/SOS-EN020032.md) | SoS | approved | harm | significant | residual significant adverse effects on non-breeding waders and Mill Brook Valley BHS, limited BNG; SoS departs from ExA's great weight and AEoI conclusion on Ribble and Alt Estuaries SPA (DL 7.7, 7.15) |
+| [Land east of Wymers Wood Road, Burnham (self-build dwelling)](../cases/PINS-6005162.md) | Appeal | allowed | pass |  | Burnham Beeches SAC 5.6 km zone; SAMMS contribution secured by signed UU; Natural England content; appropriate assessment carried out (DL 31-36, 42); letter uses the 2024 phrase "strong reason for refusing" |
+| [Cornish Marquees, Higher Trevellas, St Agnes (PIP, two dwellings)](../cases/PINS-6008432.md) | Appeal | dismissed | not-engaged |  | within the zones of influence of the Fal and Helford and Penhale Dunes SACs; appropriate assessment not needed as the appeal is dismissed (DL 34-36) |
+| [Oozedam, High Road, Fobbing (5 dwellings behind the frontage, grey belt)](../cases/PINS-6008679.md) | Appeal | dismissed | neutral |  | Thames Estuary and Marshes SPA and Ramsar zone of influence; no appropriate assessment as dismissed (DL 25-27) |
+| [55 Boundary Lane, St Leonards and St Ives (static caravan as rental home)](../cases/PINS-6012115.md) | Appeal | dismissed | neutral |  | Dorset Heathlands and New Forest SAC/SPA mitigation; draft UU only; appropriate assessment not needed as dismissed on other grounds (DL 22-23) |
 | ★ [Land to rear of 1A Fancy Road, Poole (backland bungalow)](../cases/PINS-6005913.md) | Appeal | allowed | pass |  | Dorset Heaths and Poole Harbour tariffs secured by signed UU and paid; Natural England content; no adverse effect on integrity (DL 20-25) |
 | [The Stables, Adsdean Park Road, Funtington (listed building consent)](../cases/PINS-6006266.md) | Appeal | dismissed | not-engaged |  | Singleton and Cocking Tunnels SAC zone of influence; bat mitigation not pursued as appeal fails (DL 29-30) |
 | [Beehive Cottage, Portway, Old Sarum, Salisbury](../cases/PINS-6007924.md) | Appeal | allowed | pass |  | mapped: River Avon SAC phosphorus; package treatment plant replacing a septic tank reduces load; secured by condition; Natural England satisfied (DL 33-37) |
@@ -4325,10 +4784,13 @@ Jump to: [AnnexA](#annexa) · [AnnexB](#annexb) · [AnnexD](#annexd) · [AnnexF]
 | ★ [Land west of Old Hall, Watton Road, Colney](../cases/PINS-6008791.md) | Appeal | dismissed | fail |  | Broads SAC/Ramsar nutrient neutrality; package treatment plant mitigation acceptable in principle but lifetime management not secured (no agreements, no draft condition); no IROPI; no EDP in force; N6(1) "indicates the proposal should be refused" (DL 11-14, 22-23, 44) |
 | ★ [Land between 191 and 243 Nottingham Road, Selston](../cases/PINS-6008160.md) | Appeal | dismissed | fail |  | loss of most of Selston Common Grassland Local Wildlife Site; PEA and BNG based on an 18-home scheme; otter, water vole and bat surveys outstanding (DL 14-20) |
 
-### N6(1)(a)  (fail 3)
+### N6(1)(a)  (fail 3, pass 2, not-engaged 1)
 
 | Case | Maker | Outcome | Finding | Weight | Note |
 | --- | --- | --- | --- | --- | --- |
+| [Percy Wood Golf Club and Country Retreat, Swarland (180 caravans and lodges, leisure hub)](../cases/PINS-6010440.md) | Appeal | allowed | pass |  | mapped: N6 not cited; within 10 km of the coast; appropriate assessment agreed with Natural England; Coastal Mitigation Service contribution secured by legal agreement (DL 21) |
+| [Land at Backworth Business Park, Eccleston Close, Backworth (37 homes on a local wildlife site)](../cases/PINS-6006322.md) | Appeal | allowed | pass |  | mapped: N6(1)(a) not cited; coastal buffer zone of the Northumbria Coast SPA and Ramsar site and Durham Coast SAC; appropriate assessment carried out; coastal mitigation tariff secured (DL 24-26) |
+| [Paddock north of Spring Acres, West End Lane, Henfield (PIP, up to 9 self-build homes)](../cases/PINS-6006961.md) | Appeal | dismissed | not-engaged |  | mapped: N6 not cited; Sussex North Water Supply Zone and the Arun Valley habitats sites; no appropriate assessment needed because the appeal was dismissed (DL 22) |
 | ★ [Hillcrest, Chalton, Luton (PIP 1-9 dwellings)](../cases/PINS-6007334.md) | Appeal | dismissed | fail |  | within 12.6 km ZoI of Chilterns Beechwoods SAC; UU contributions (SAMMS £182.49, SANGS £3,205/£4,273) below current tariff (£202.54, £3,565/£4,750) → LSEs not ruled out; PIP cannot be granted for habitats development (Art 5B PIP Order) (DL 7-17) |
 | ★ [35 Denmark Road, Poole (9 flats, outline)](../cases/PINS-6005194.md) | Appeal | dismissed | fail |  | 2024 paras 11(d)(i) fn7 and 195 applied; UU on the council's fast-track form fell away on refusal, so no secured Dorset Heathlands / Poole Harbour mitigation; LSE cannot be ruled out; "strong reason for refusing" (DL 36-37, 43-44) |
 | ★ [Land off Beech Lane, Kislingbury (58 dwellings)](../cases/westnorthants-WNS-2022-0673-MAF.md) | Committee | refused | fail | substantial | no wintering-bird surveys for functionally linked land to the Upper Nene Valley Gravel Pits SPA, so an appropriate assessment cannot be done |
@@ -4339,6 +4801,12 @@ Jump to: [AnnexA](#annexa) · [AnnexB](#annexb) · [AnnexD](#annexd) · [AnnexF]
 | --- | --- | --- | --- | --- | --- |
 | ★ [40 West Way, Poole](../cases/PINS-6006144.md) | Appeal | dismissed | fail |  | no s106 securing Dorset Heathlands / Poole Harbour SPA mitigation; no nutrient neutrality statement (DL 19-21, 27) |
 | ★ [17-19 Parkstone Road, Poole](../cases/PINS-6007128.md) | Appeal | dismissed | fail |  | SAMM contributions only on a form, no legal mechanism; AA cannot conclude no adverse effect (DL 25-30, 36) |
+
+### N6(1)(c)  (pass 1)
+
+| Case | Maker | Outcome | Finding | Weight | Note |
+| --- | --- | --- | --- | --- | --- |
+| ★ [Land at Backworth Business Park, Eccleston Close, Backworth (37 homes on a local wildlife site)](../cases/PINS-6006322.md) | Appeal | allowed | pass |  | local wildlife site treated as a site of local importance; no substantive evidence of a significant adverse effect on the integrity of the site; limb (ii), benefits clearly outweighing the impact, also noted; the letter writes "N6 paragraph 1 c" (DL 36-37) |
 
 ### N6(2)  (pass 1)
 
@@ -4362,14 +4830,24 @@ Jump to: [AnnexA](#annexa) · [AnnexB](#annexb) · [AnnexD](#annexd) · [AnnexF]
 
 ## P3
 
-### P3  (pass 56, fail 46, harm 28, conflict 5, determinative 5, neutral 4, accord 3, not-engaged 1)
+### P3  (pass 58, fail 46, harm 29, conflict 14, determinative 5, neutral 4, accord 3, not-engaged 2)
 
 | Case | Maker | Outcome | Finding | Weight | Note |
 | --- | --- | --- | --- | --- | --- |
+| ★ [456 Southchurch Road, Southend (hand car wash with acoustic shelter)](../cases/PINS-6009119.md) | Appeal | dismissed | conflict |  | jet washing noise distinctive, intrusive and unpredictable against a low background; a shelter open on the side facing the road would have no more than a modest attenuating effect; not shown that the use could operate without unacceptable harm to nearby residents (DL 10-21) |
+| [Land adjacent to 4 Callis Way, Parkwood, Gillingham (bungalow on amenity open space)](../cases/PINS-6009769.md) | Appeal | dismissed | conflict |  | mapped: Framework policy not cited for living conditions; a parking space in the centre of the rear garden splits the usable space and dominates the only outlook from the living area; confirms the conclusion (DL 14-19, 39) |
+| ★ [10 Bradfield Drive, Barking (house to 3-bedroom HMO)](../cases/PINS-6009965.md) | Appeal | dismissed | conflict |  | mapped: letter refers to "Framework policies that seek to ensure proposals provide healthy living conditions"; Bedroom 01 at 7.415 sq m and Bedroom 03 at 6.769 sq m fall below London Plan D6 7.5 sq m and East London HMO Guidance 8.5 sq m (DL 10-12) |
+| ★ [2 Ridge Hill Lane, Stalybridge (house to 6-bedroom HMO)](../cases/PINS-6010069.md) | Appeal | dismissed | conflict |  | single shared kitchen-diner not shown to work for six; Bedroom 6 lit only by a small rooflight, "oppressive"; ground-floor bedrooms open straight onto a busy pavement; small yard also holding bikes and bins (DL 12-20, 34) |
+| [239 Barking Road, East Ham (two studio flats above a car wash waiting area)](../cases/PINS-6011081.md) | Appeal | dismissed | conflict |  | future occupiers - one small window 4.4 m from the rear of Nos 239 and 239A, poor daylight and oppressive outlook, overlooking, unassessed car wash noise, no private outdoor space against London Plan D6 5 sq m (DL 13-18); neighbours - loss of privacy and enclosure, which the letter attributes to DP3 (DL 19-22) |
+| ★ [14-16 Hendon Rise, Nottingham (two vehicle repair and sales units)](../cases/PINS-6011302.md) | Appeal | dismissed | conflict | significant | noise, disturbance and vibration to the attached house at No 12 through the party wall; the appellant's own noise assessment shows a significant impact and its mitigation (PVC strip curtains) does not address the party wall; "not appropriate for its location" (DL 11-12, 16-17, 23) |
+| [Rear of 2 High Street, Edgware (nine flats above a garage)](../cases/PINS-6012289.md) | Appeal | dismissed | harm | significant | mapped: overbearing sense of enclosure and loss of outlook for 2 High Street, Elmer Gardens and Garratt Road; significant harm to amenity (DL 16-18) |
+| [35 Cumberland Drive, Bexleyheath (house to children's home)](../cases/PINS-6012368.md) | Appeal | allowed | pass |  | mapped: activity beyond a normal household (staff shifts, professional visits) but not harmful; management plan condition (DL 19-22) |
+| [Thamesfield Retirement Village, Wargrave Road, Remenham](../cases/PINS-6011062.md) | Appeal | dismissed | not-engaged |  | P3 read as concerned with daylight, sunlight and pollution, not outlook and privacy; not determinative (DL 18) |
 | [147 Eastcote Lane, Harrow (two bungalows, outline)](../cases/PINS-6004526.md) | Appeal | allowed | not-engaged |  | mapped - privacy harm refused by Council citing the Framework; inspector holds the revised Framework no longer refers to amenity in a general sense, so not strictly applicable; obscure-glazed fixed dormers mean no harm (DL 12-14) |
 | [Land to rear of 1A Fancy Road, Poole (backland bungalow)](../cases/PINS-6005913.md) | Appeal | allowed | pass |  | mapped - overlooking from the host bedroom gable window no worse than existing relationships; no harmful loss of privacy (DL 10-13) |
 | ★ [7A Shorefield Cottage, Shorefield Road, Westcliff-on-Sea (replacement dwelling)](../cases/PINS-6008855.md) | Appeal | dismissed | fail |  | overbearing and loss of daylight to St James Court and Cliff House; privacy either lost or future bedrooms and office given poor outlook; local amenity policies consistent with P3 (DL 25-37) |
 | [Stratton House Hotel, Stratton, Cirencester (Appeal A - sauna and plant room)](../cases/PINS-6009631.md) | Appeal | dismissed | pass |  | mapped: BS 4142 assessment; rating limit LAr 42 dB and hours 09:00-20:00 could be conditioned (DL 23-28) |
+| ★ [2 Rookwood Avenue, Leeds (dwelling to short-term let)](../cases/PINS-6011827.md) | Appeal | dismissed | conflict |  | comings and goings of up to six guests with frequent turnovers at a terraced house with a short forecourt; management plan gives only limited assurance and is reactive (DL 4-7, 10) |
 | ★ [40 Gladstone Street, Scarborough (house to 7-bed HMO)](../cases/PINS-6012886.md) | Appeal | dismissed | fail | significant | mapped: seven unrelated occupants in a small terrace; No 42 sandwiched between HMOs; external activity not controllable by insulation, management plan or an unenforceable occupancy cap (DL 7-14, 24) |
 | ★ [Land to the rear of 21 Roselands Avenue, St Philip's Avenue, Eastbourne](../cases/PINS-6006541.md) | Appeal | dismissed | conflict |  | rear garden no more than 2 m deep, oppressive enclosure; unsatisfactory living environment for future occupiers (DL 12-14) |
 | [1 King Edward Crescent, Newquay (townhouse with roof-space bedroom)](../cases/PINS-6006725.md) | Appeal | dismissed | harm |  | mapped - loss of outlook and light to Atlantic Lodge and its courtyard; daylight studies related to other schemes and could not be relied on (DL 14-18) |
@@ -4378,15 +4856,18 @@ Jump to: [AnnexA](#annexa) · [AnnexB](#annexb) · [AnnexD](#annexd) · [AnnexF]
 | ★ [65A Richmond Wood Road, Bournemouth (8-person HMO)](../cases/PINS-6007836.md) | Appeal | dismissed | fail |  | two ground-floor bedrooms face a fence under 1.5 m away and the gable of No 65 - oppressive outlook; intensified noise through the party wall to No 65B, insulation unevidenced (DL 8-16, 37) |
 | [Floringham Lodge, Old Bracknell Lane East, Bracknell (46 retirement flats)](../cases/PINS-6009377.md) | Appeal | allowed | pass |  | mapped - obscured secondary bedroom windows to flats 14 and 28 not oppressive (DL 44-46) |
 | ★ [56 Burlington Road, New Malden](../cases/PINS-6009988.md) | Appeal | dismissed | fail |  | cited with L2 on acceptable daylight standards (DL 24) |
+| ★ [22 Ecclesburn Street, Richmond Hill, Leeds (dwelling to short-term let)](../cases/PINS-6010211.md) | Appeal | dismissed | conflict |  | frequent guest turnover, cleaning visits and use of a small yard in a dense, relatively tranquil terraced street; not appropriate for its location (DL 5-8) |
 | [46 The Finches, Weymouth](../cases/PINS-6011131.md) | Appeal | dismissed | fail | substantial | mapped: two-storey blank flank wall overbearing on the garden of No 27 (ENV16) (DL 10-12, 29) |
 | [Land at access to Clockhouse Mews, Huxley Close, Godalming](../cases/PINS-6006117.md) | Appeal | dismissed | harm |  | overbearing sense of enclosure to Clockhouse Mews shared car park; no daylight harm (DL 14-17, 26) |
 | ★ [Land north west of Holly Tree Cottage, Howlett End, Wimbish](../cases/PINS-6008762.md) | Appeal | dismissed | fail | significant | adjoining dog kennels; noise modelling of acoustic fence and 5 m garage uncertain; EHO counter-modelling 63.5 dB; draft ProPG kennel guidance given limited weight; cannot be conditioned (DL 18-28, 40) |
 | [10 Goodminns Estate, Sedgeford](../cases/PINS-6008840.md) | Appeal | dismissed | fail |  | mapped: future occupiers exposed to vehicle noise from the shared turning area next to bedroom windows (DL 10-12) |
 | [52 Eaton Drive, Romford (pair of houses in a rear garden)](../cases/PINS-6010339.md) | Appeal | dismissed | harm | substantial | mapped: letter cites DP3 liveability; overbearing presence and significant overlooking of No 50 and its garden (DL 10-14) |
+| ★ [The Beck and Call, Stainbeck Road, Meanwood, Leeds (outdoor TV screen)](../cases/PINS-6010755.md) | Appeal | dismissed | conflict |  | impulsive cheering and shouting during screened sport, on a frequent basis, in a relatively tranquil residential area (background 40 dB LA90); significant observed adverse effect level crossed; noise from the screen itself could be controlled by condition, customer noise could not (DL 5-9, 12, 14) |
 | [75-79 New Road, Peterborough (23 apartments)](../cases/PINS-6012642.md) | Appeal | dismissed | harm |  | mapped - overlooking and overbearing to No 73's garden; no noise assessment for College air-handling units (DL 13-22) |
 | ★ [The Wheel Inn, 13 Main Street, Branston (retained marquee)](../cases/PINS-6012885.md) | Appeal | dismissed | harm |  | up to 125 guests, amplified music until midnight, homes close by; no noise assessment; limits unenforceable (DL 16-21, 33) |
 | [105 Wellburn Road, Donwell, Washington (hair salon)](../cases/PINS-6004934.md) | Appeal | allowed | neutral |  | mapped; living conditions acceptable with management plan (single chair, max 10 clients a day, 09:00-18:00 Mon-Sat) secured by condition; Framework not cited on this issue (DL 8-9) |
 | [47 Huddersfield Road, Mirfield (bank to hot food takeaway)](../cases/PINS-6005670.md) | Appeal | allowed | pass |  | mapped: noise and activity acceptable with plant, insulation, hours conditions; Framework aim on living conditions met (DL 19-24) |
+| [454-456 Blackpool Road, Preston (3 retail units and 6 flats on a corner plot)](../cases/PINS-6006018.md) | Appeal | dismissed | pass |  | mapped: P3 not cited; overlooking and noise limited against the existing busy road and mutual overlooking; no conflict with AD1(a) on living conditions (DL 13-16) |
 | ★ [Glebe Court, Glebe Way, West Wickham (McCarthy Stone retirement living)](../cases/PINS-6007183.md) | Appeal | allowed | harm | considerable | lower-ground units 1-3 below BRE light guidance, poor outlook and car-park disturbance; conflict with LP D3-D6 and BLP 4, 37; "not a policy which directs permission to be refused" (DL 8-9, 17, 66, 71) |
 | [Former Revolution Bar, Maxwell Road, Beaconsfield](../cases/PINS-6007582.md) | Appeal | dismissed | harm |  | 2 rooms substantial and 5 moderate daylight loss at Elmers Court; mirror-image baseline rejected; privacy harm to The Hollies from balconies under 21 m (DL 19-30, 47) |
 | ★ [3 Kimberley Street, Wigan (house to 5-bed HMO)](../cases/PINS-6008026.md) | Appeal | dismissed | fail |  | ground-floor bedroom 2 shares a thin wall with the communal kitchen/lounge; mitigation unevidenced (DL 20-23, 28, 34) |
@@ -4595,10 +5076,11 @@ Jump to: [AnnexA](#annexa) · [AnnexB](#annexb) · [AnnexD](#annexd) · [AnnexF]
 
 ## P4
 
-### P4  (pass 3, fail 1, determinative 1, neutral 1)
+### P4  (pass 3, not-engaged 1, fail 1, determinative 1, neutral 1)
 
 | Case | Maker | Outcome | Finding | Weight | Note |
 | --- | --- | --- | --- | --- | --- |
+| [14-16 Hendon Rise, Nottingham (two vehicle repair and sales units)](../cases/PINS-6011302.md) | Appeal | dismissed | not-engaged |  | P4 protects the permitted operations of existing businesses; the uses have no planning permission or lawful development certificate, so P4 does not weigh in favour of a retrospective scheme (DL 22) |
 | ★ [111-115 Grainger Street, Newcastle (first-floor flat by market flue)](../cases/PINS-6005950.md) | Appeal | dismissed | fail |  | agent of change; cannot be certain the flat would not place unreasonable restrictions on the existing hot-food business (DL 4, 22-23, 25) |
 | ★ [Brookfields Farm, Longhill Lane, Hankelow](../cases/PINS-6007422.md) | Appeal | allowed | pass |  | agent-of-change tension noted but siting discrete (DL 46-47) |
 | [Priors Court Farm, Rudge Lane, Beckington](../cases/PINS-6009739.md) | Appeal | allowed | pass |  | code mapped by harvester — Q.2(1)(e) neighbouring Barn E conditioned to hay/machinery storage only; limited farm activity; not impractical or undesirable (DL 21-26) |
@@ -4659,13 +5141,16 @@ Jump to: [AnnexA](#annexa) · [AnnexB](#annexb) · [AnnexD](#annexd) · [AnnexF]
 
 ## S3
 
-### S3  (determinative 23, pass 5, fail 5, not-engaged 4, accord 1, neutral 1)
+### S3  (determinative 23, pass 7, fail 5, not-engaged 4, accord 2, neutral 1)
 
 | Case | Maker | Outcome | Finding | Weight | Note |
 | --- | --- | --- | --- | --- | --- |
+| [Cross Gaits Inn, Beverley Road, Blacko (pub to dwelling, planning appeal)](../cases/PINS-6007704.md) | Appeal | allowed | accord |  | proposal "in accordance with the development plan and in accordance with Policy S3 of the Framework"; S5 not cited although the site is outside the settlement of Blacko (DL 11, 47) |
+| [15 Brethergate, Westwoodside (dwelling in side curtilage)](../cases/PINS-6008883.md) | Appeal | allowed | pass |  | S3 sends proposals within settlements to S4; the Council's decision had relied on the presumption in the former Framework (DL 16) |
 | ★ [105 Wellburn Road, Donwell, Washington (hair salon)](../cases/PINS-6004934.md) | Appeal | allowed | pass |  | no adverse effects and no conflict with the decision-making policies, so the presumption indicates permission; S4 not named (DL 19) |
 | [Land at Brock, Garstang Road (A6), Bilsborrow](../cases/PINS-6007133.md) | Appeal | dismissed | not-engaged |  | S3(1)(c) quoted; no presumption overrides the conflict with CDMP3 and DP3 (DL 56-57) |
 | [58 and 60 Waverley Road, St Albans (former sports and social club)](../cases/PINS-6009808.md) | Appeal | dismissed | fail |  | letter says Policy P3 and Policy P4 for the presumption and development within settlements (S3, S4); adverse effects substantially outweigh benefits (DL 37, 42-43) |
+| [Land to the rear of 137 Station Road, Hesketh Bank (PIP, up to 4 homes)](../cases/PINS-6007730.md) | Appeal | allowed | pass |  | S3 applied; S4 governs within settlements; S3(1)(c) set out (accord with an up-to-date plan and the Framework, approve without delay) (DL 15, 18) |
 | ★ [Four Winds, The Common, Melbourne](../cases/PINS-6011217.md) | Appeal | allowed | determinative |  |  |
 | ★ [Land at Main Street, Great Brington](../cases/PINS-6010826.md) | Appeal | dismissed | determinative |  |  |
 | [275 Addiscombe Road, Croydon](../cases/PINS-6007319.md) | Appeal | allowed | accord |  | accords with an up-to-date development plan and Framework decision-making policies, so should be approved without delay (DL 21) |
@@ -4722,10 +5207,12 @@ Jump to: [AnnexA](#annexa) · [AnnexB](#annexb) · [AnnexD](#annexd) · [AnnexF]
 | --- | --- | --- | --- | --- | --- |
 | ★ [Land West of Spratts Farm, Queenborough Road, Southminster](../cases/PINS-6005664.md) | Appeal | allowed | pass |  | quoted as "1 c) Outside settlements, Policy S5 should be applied" (it is S3(1)(b)); compliance with S5 plus reduced weight to out-of-date plan policies = sustainable development to be permitted (DL 58) |
 
-### S3(1)(c)  (pass 4, fail 1)
+### S3(1)(c)  (pass 4, not-engaged 1, accord 1, fail 1)
 
 | Case | Maker | Outcome | Finding | Weight | Note |
 | --- | --- | --- | --- | --- | --- |
+| [Rear of 2 High Street, Edgware (nine flats above a garage)](../cases/PINS-6012289.md) | Appeal | dismissed | not-engaged |  | quoted; proposal does not accord with the plan (DL 32-33) |
+| [Lower Fawke Farm, Bitchet Green Road, Fawke Common, Underriver](../cases/PINS-6004899.md) | Appeal | allowed | accord |  | no conflict with any development plan or Framework policy (DL 30) |
 | ★ [Sky Farm, New Years Lane, Knockholt (agricultural building)](../cases/PINS-6007338.md) | Appeal | allowed | pass |  | accords with an up-to-date plan and the Framework, so approve without delay; also says agricultural uses are "supported by the Framework outside settlements" (DL 20) |
 | ★ [Sky Farm, New Years Lane, Knockholt (Appeal B - hard surfacing)](../cases/PINS-6007340.md) | Appeal | allowed | pass |  | accords with an up-to-date plan and the Framework, so approve without delay (DL 20) |
 | ★ [Land to the rear of Melrose, Arndale, Wigston](../cases/PINS-6009097.md) | Appeal | dismissed | fail |  | does not accord with the up-to-date plan, so S3 gives no reason to allow; S4 not applied (DL 24) |
@@ -4856,22 +5343,50 @@ Jump to: [AnnexA](#annexa) · [AnnexB](#annexb) · [AnnexD](#annexd) · [AnnexF]
 | ★ [Site of Old Gas Works, Upper Bristol Road, Lower Weston, Bath (co-living)](../cases/bathnes-25-04961-FUL.md) | Committee | refused | fail |  | officers — within settlement, approve unless substantially outweighed, no significant harm; members refused on height, scale and massing |
 | ★ [Land rear of 6-108 Mell Road, Tollesbury](../cases/maldon-26-00066-OUTM.md) | Committee | approved | determinative |  |  |
 
-### S4(1)  (fail 78, pass 14, determinative 3)
+### S4(1)  (fail 103, pass 20, determinative 3)
 
 | Case | Maker | Outcome | Finding | Weight | Note |
 | --- | --- | --- | --- | --- | --- |
+| ★ [16-17 Cecilia House, Hanger Lane, Ealing (rear extension to HMO)](../cases/PINS-6005995.md) | Appeal | dismissed | fail |  | S3 and S4 set out; the conclusion is expressed as plan conflict not outweighed by material considerations, without stating that the benefits are substantially outweighed (DL 14-17) |
+| ★ [47 Burma Road, Hackney (rear extension next to a locally listed building)](../cases/PINS-6007927.md) | Appeal | dismissed | fail |  | S3 and S4 set out; modest benefits "clearly and substantially outweighed by the adverse effects"; not sustainable development (DL 14, 16) |
+| ★ [456 Southchurch Road, Southend (hand car wash with acoustic shelter)](../cases/PINS-6009119.md) | Appeal | dismissed | fail |  | benefits substantially outweighed by the adverse effects and the conflict with P3; framed as a main issue in S4 terms (DL 3, 22, 24) |
+| ★ [67 Main Street, Bushby (replacement dwelling in conservation area)](../cases/PINS-6009245.md) | Appeal | dismissed | fail |  | benefits substantially outweighed; not sustainable development (DL 16, 19) |
+| ★ [Monometer House, 128 Rectory Grove, Leigh-on-Sea (storage building on stilts over a car park)](../cases/PINS-6009318.md) | Appeal | dismissed | fail |  | S4 not named; "The adverse effects of the proposal substantially outweigh its benefits when assessed against the national decision-making policies"; presumption in S3 does not apply; DP3(3) and S4(2)(c) not cited (DL 21) |
+| [Land adjacent to 4 Callis Way, Parkwood, Gillingham (bungalow on amenity open space)](../cases/PINS-6009769.md) | Appeal | dismissed | fail |  | modest benefits "even in the context of the housing land shortfall" substantially outweighed (DL 39) |
+| ★ [10 Bradfield Drive, Barking (house to 3-bedroom HMO)](../cases/PINS-6009965.md) | Appeal | dismissed | fail |  | site within a settlement so S4 engaged; "given the conflict with Framework policies relating to the sufficient supply of homes and living conditions, the adverse effects would substantially outweigh any benefits"; no presumption under S3 (DL 17) |
+| ★ [2 Ridge Hill Lane, Stalybridge (house to 6-bedroom HMO)](../cases/PINS-6010069.md) | Appeal | dismissed | fail |  | benefits substantially outweighed by adverse effects; S4 "does not point to permission being granted" (DL 31, 34) |
+| ★ [10 West Street, Weston-super-Mare (shop unit merged into the dwelling above)](../cases/PINS-6010305.md) | Appeal | dismissed | fail |  | benefits substantially outweighed; no presumption under S3 (DL 32, 35) |
+| ★ [239 Barking Road, East Ham (two studio flats above a car wash waiting area)](../cases/PINS-6011081.md) | Appeal | dismissed | fail |  | site within a settlement so S4 engaged; "given the conflict with Policy D3" benefits substantially outweighed; no presumption "as articulated at Framework Policy S3" (DL 29) |
+| ★ [14-16 Hendon Rise, Nottingham (two vehicle repair and sales units)](../cases/PINS-6011302.md) | Appeal | dismissed | fail |  | S3 and S4 set out; benefits substantially outweighed by the adverse effects, "the presumption in favour of sustainable development does not apply" (DL 19-20, 24) |
+| [Romaldor, St Johns Road, Wroxall (amateur radio mast)](../cases/PINS-6012036.md) | Appeal | dismissed | fail |  | benefits substantially outweighed by adverse effects; letter concludes the presumption in S4 "does not apply" (DL 23) |
+| ★ [Rear of 2 High Street, Edgware (nine flats above a garage)](../cases/PINS-6012289.md) | Appeal | dismissed | fail |  | benefits substantially outweighed by character and living-conditions harm (DL 34, 37) |
+| ★ [56 St Giles', Oxford (bookshop to college common room)](../cases/PINS-6013769.md) | Appeal | dismissed | fail |  | site within a settlement; benefits substantially outweighed by harm to vitality and to the conservation area (DL 22-24) |
+| [Pavement outside Waterfront House, 35 Station Street, Nottingham (communications kiosk)](../cases/PINS-6002400.md) | Appeal | dismissed | fail |  | presumption held not to apply; the letter states the test in inverted form: "the benefits would not substantially outweigh the adverse effects" (DL 33) |
+| ★ [Land east of Halfpenny Lane, Wisbech (352 dwellings, hybrid)](../cases/PINS-6002677.md) | Appeal | allowed | pass |  | site allocated within the South Wisbech broad location for growth and treated as within the settlement; benefits not substantially outweighed (DL 22, 41, 46) |
+| ★ [147 Eastcote Lane, Harrow (two-storey house in rear garden, outline)](../cases/PINS-6006890.md) | Appeal | dismissed | fail |  | location acceptable in principle, but the BNG failure substantially outweighs the benefits (DL 41-43) |
+| ★ [65 Grimshaw Lane, Manchester M40 (first-floor guest house over former pub)](../cases/PINS-6008018.md) | Appeal | dismissed | fail |  | S3 and S4 noted; benefits substantially outweighed by the adverse effects (DL 30-31) |
+| ★ [6 and 6a Fairview Road, Wednesfield, Wolverhampton](../cases/PINS-6009135.md) | Appeal | dismissed | fail |  | benefits substantially outweighed; letter says "S03" and "S04" (DL 30, 33) |
+| ★ [12 Victoria Road, Whetstone (dwelling in rear garden)](../cases/PINS-6009910.md) | Appeal | dismissed | fail |  | one dwelling without a five-year supply is a limited benefit, substantially outweighed by significant character and living-conditions harm (DL 13-14) |
+| ★ [Land north of the Bower House, Clatterbury Lane, Clavering](../cases/PINS-6010951.md) | Appeal | dismissed | fail |  | site within the built area of Clavering; flood and BNG harms substantially outweigh the benefits (DL 24, 32) |
+| ★ [Land to the rear of 14 Cross Hills, Kippax (storage unit and car park layout)](../cases/PINS-6011321.md) | Appeal | dismissed | fail |  | benefits substantially outweighed by the highway safety harm (DL 18-21) |
 | ★ [Land to rear of 1A Fancy Road, Poole (backland bungalow)](../cases/PINS-6005913.md) | Appeal | allowed | pass |  | benefits not substantially outweighed; 2.1-year supply described as an acute deficit (DL 24, 26-27) |
+| ★ [15 Brethergate, Westwoodside (dwelling in side curtilage)](../cases/PINS-6008883.md) | Appeal | allowed | pass |  | within the settlement boundary; benefits not substantially outweighed; "It should therefore be approved" (DL 6, 16-17) |
 | ★ [Stratton House Hotel, Stratton, Cirencester (Appeal A - sauna and plant room)](../cases/PINS-6009631.md) | Appeal | dismissed | fail |  | economic, social and heritage investment benefits substantially outweighed (DL 44-45) |
 | ★ [40 Gladstone Street, Scarborough (house to 7-bed HMO)](../cases/PINS-6012886.md) | Appeal | dismissed | fail |  | moderate-weight benefits (reuse, supply, choice, accessible location) substantially outweighed (DL 22-25) |
 | ★ [Land to the rear of 21 Roselands Avenue, St Philip's Avenue, Eastbourne](../cases/PINS-6006541.md) | Appeal | dismissed | fail |  | adverse impacts "would substantially and demonstrably outweigh the benefits" - 2024 wording in the conclusion after the S4 test was set out (DL 27, 29) |
+| ★ [Basement Flat, 226 Finchley Road, Camden (parking space and crossover)](../cases/PINS-6008940.md) | Appeal | dismissed | fail |  | benefit of one off-street space given limited weight; highway safety harm given significant weight; benefits substantially outweighed (DL 13) |
 | ★ [Pavement outside 43-47 Bethnal Green Road, Tower Hamlets (communication hub)](../cases/PINS-6010661.md) | Appeal | dismissed | fail |  | CO1 and other public benefits substantially outweighed (DL 25, 27) |
 | ★ [148 Bradwell Common Boulevard, Milton Keynes (house to 6-bed HMO)](../cases/PINS-6009760.md) | Appeal | dismissed | fail |  | limited-weight benefits (shared affordable accommodation, efficient use, supply) substantially outweighed; S4(2)(c) framing set out (DL 20-22) |
+| ★ [454-456 Blackpool Road, Preston (3 retail units and 6 flats on a corner plot)](../cases/PINS-6006018.md) | Appeal | dismissed | fail |  | benefits of 2 additional retail units and 2 additional dwellings substantially outweighed by the character harm (DL 18-19) |
 | ★ [3 Kimberley Street, Wigan (house to 5-bed HMO)](../cases/PINS-6008026.md) | Appeal | dismissed | fail |  | P3 conflict means harm would substantially outweigh the benefits (DL 33-34) |
 | ★ [74-76 Coombe Road, New Malden](../cases/PINS-6009076.md) | Appeal | dismissed | fail |  | benefits substantially outweighed by affordable housing failure and loss of safeguarded employment land (DL 25) |
 | ★ [Footpath outside 100 High Street, Bromley (BT Street Hub)](../cases/PINS-6010811.md) | Appeal | dismissed | fail |  | benefits substantially outweighed by the heritage harm (DL 25) |
 | ★ [Merienda, Greenhill Road, Elton (replacement dwelling)](../cases/PINS-6011882.md) | Appeal | dismissed | fail |  | benefits substantially outweighed (DL 30) |
+| [1C Wickenden Road, Sevenoaks (s73, grey roof tiles on approved extensions)](../cases/PINS-6007698.md) | Appeal | dismissed | fail |  | benefits limited to private benefits to the appellant; substantially outweighed by the adverse effects (DL 14) |
+| ★ [Land to the rear of 137 Station Road, Hesketh Bank (PIP, up to 4 homes)](../cases/PINS-6007730.md) | Appeal | allowed | pass |  | accords with the development plan; no conflict with the Framework's decision-making policies; S3 and S4 indicate approval (DL 17-18) |
 | ★ [Marton House, 31 West Street, Padiham](../cases/PINS-6011037.md) | Appeal | dismissed | fail |  | benefits substantially outweighed by heritage and amenity harms (DL 29-31) |
 | ★ [Pavement outside 144 Hills Road, Cambridge (BT Street Hub)](../cases/PINS-6012284.md) | Appeal | dismissed | fail |  | S4(2)(c) framing set out; benefits substantially outweighed (DL 16, 22) |
+| ★ [Land at Backworth Business Park, Eccleston Close, Backworth (37 homes on a local wildlife site)](../cases/PINS-6006322.md) | Appeal | allowed | pass |  | site within a settlement; benefits not substantially outweighed; decision made otherwise than in accordance with the development plan (DL 35, 38, 46) |
 | ★ [Land between 75 and 99 Star Road, Caversham, Reading](../cases/PINS-6007941.md) | Appeal | dismissed | fail |  | great weight to housing and efficient land use against a 3.55-year supply, substantially outweighed by totality of harms (DL 37-40) |
 | ★ [4 Whurley Way, Maidenhead](../cases/PINS-6008337.md) | Appeal | dismissed | fail |  | cited as "S04"; "benefits … would be substantially outweighed by the identified adverse effects … the presumption in favour of sustainable development would not apply" (DL 28, 32) |
 | ★ [202A High Street, Harwich](../cases/PINS-6008784.md) | Appeal | dismissed | fail |  | "the benefits of the proposal would be substantially outweighed by its adverse effects through harm to the CA" (DL 23) |
@@ -4951,15 +5466,19 @@ Jump to: [AnnexA](#annexa) · [AnnexB](#annexb) · [AnnexD](#annexd) · [AnnexF]
 | ★ [Footpath outside 60 High Street, West Wickham](../cases/PINS-6010818.md) | Appeal | dismissed | fail |  | clutter and a 1.2 m effective footway (under 1 m when in use) on a busy high street; pedestrians forced towards the carriageway; benefits substantially outweighed (DL 8-18) |
 | ★ [Footway adjacent to 85 Upper Richmond Road, Putney](../cases/PINS-6010864.md) | Appeal | dismissed | fail |  | telecoms benefits (emergency calls, wifi, monitoring) substantially outweighed by amenity harm from a centrally sited, perpendicular, illuminated unit adding clutter and obstructing pedestrians (DL 10-13, 16) |
 | ★ [17-19 Parkstone Road, Poole](../cases/PINS-6007128.md) | Appeal | dismissed | fail |  | benefits "substantially outweighed" by adverse effects (DL 34, 37) |
+| ★ [Land to the rear of Edoras, Banbury Road, Pillerton Priors](../cases/stratford-26-01894-PIP.md) | Committee | refused | fail |  | members - "The harm is considered to substantially outweigh any benefits associated with the scheme" (Notice reason 1) |
+| ★ [Land to the rear of Edoras, Banbury Road, Pillerton Priors](../cases/stratford-26-01894-PIP.md) | Committee | refused | pass |  | officer view - the benefits "would not be substantially outweighed by any adverse effects" (Report p.17); recommendation GRANT |
 | ★ [Petrol Filling Station, 95 High Street, Bidford-on-Avon](../cases/stratford-24-03145-FUL.md) | Committee | approved | pass |  | not analysed; the update sheet simply states the 2026 NPPF "does not affect the substantive matters" |
+| ★ [The Old School, Stretton-on-Fosse](../cases/stratford-26-01687-FUL.md) | Delegated | approved | pass |  | benefits "would not be substantially outweighed by any adverse effects" (p.7); no adverse effect identified |
 | ★ [Forest Farm, Welford Road, Long Marston](../cases/stratford-26-01906-PIP.md) | Delegated | approved | pass |  | within BUAB; none of S4(2)(a)-(c) engaged; benefits not substantially outweighed |
 | ★ [Weavers Cottage, Church End, Priors Hardwick](../cases/stratford-26-01211-FUL.md) | Delegated | approved | pass |  | dwelling and garden held "within the physical confines of the village" |
 | ★ [Church View, Back Street, Ilmington](../cases/stratford-26-01399-PIP.md) | Delegated | refused | fail |  | within Ilmington BUAB (Category 3 LSV); "benefits … would be substantially outweighed by the adverse effects, namely the identified harm to heritage assets" |
 
-### S4(2)  (fail 4, not-engaged 2, pass 1, determinative 1)
+### S4(2)  (fail 4, not-engaged 3, pass 1, determinative 1)
 
 | Case | Maker | Outcome | Finding | Weight | Note |
 | --- | --- | --- | --- | --- | --- |
+| [Land east of Halfpenny Lane, Wisbech (352 dwellings, hybrid)](../cases/PINS-6002677.md) | Appeal | allowed | not-engaged |  | none of the listed circumstances apply; the list is noted as not exhaustive (DL 42) |
 | [Land to rear of 1A Fancy Road, Poole (backland bungalow)](../cases/PINS-6005913.md) | Appeal | allowed | pass |  | no should-be-refused policy failed (DL 27) |
 | [Footpath outside 100 High Street, Bromley (BT Street Hub)](../cases/PINS-6010811.md) | Appeal | dismissed | not-engaged |  | "There are no specific national policies directing refusal in this case"; none of the S4(2) situations apply, but S4(1) still weighed (DL 21-22); DP3 not considered |
 | [2 Chantry View Road, Guildford](../cases/PINS-6007054.md) | Appeal | dismissed | not-engaged |  | none of the listed situations applies, but S4(2) list is not exhaustive (DL 22) |
@@ -4982,21 +5501,31 @@ Jump to: [AnnexA](#annexa) · [AnnexB](#annexb) · [AnnexD](#annexd) · [AnnexF]
 | ★ [St Barnabas Church, St Barnabas Close, Hereford (church to 52-bed care home)](../cases/PINS-6010739.md) | Appeal | allowed | neutral |  | no adverse impact on safeguarding buildings for particular uses (DL 32) |
 | ★ [Bourton Industrial Park, Bourton-on-the-Water (Aldi and drive-thru)](../cases/cotswold-25-03800-FUL.md) | Committee | approved | pass |  | no "substantial adverse impact" on the employment allocation, because extant consents exceed the allocation, a PD fallback to retail exists and the scheme generates comparable jobs; "the safeguarding of this part of the allocated site is no longer appropriate in this particular instance" |
 
-### S4(2)(a)(ii)  (determinative 3, fail 3)
+### S4(2)(a)(ii)  (not-engaged 5, fail 4, determinative 3)
 
 | Case | Maker | Outcome | Finding | Weight | Note |
 | --- | --- | --- | --- | --- | --- |
+| ★ [Land adjacent to 4 Callis Way, Parkwood, Gillingham (bungalow on amenity open space)](../cases/PINS-6009769.md) | Appeal | dismissed | fail |  | substantial adverse impact in relation to HC7 - "As the whole of the existing open space would be lost the adverse impact would, in that respect, be substantial" (DL 36-37) |
+| ★ [15 Brethergate, Westwoodside (dwelling in side curtilage)](../cases/PINS-6008883.md) | Appeal | allowed | not-engaged |  | the only relevant S4(2) circumstance was L2(1)(d), development within residential curtilages; its requirements were met (DL 17) |
 | ★ [10 Goodminns Estate, Sedgeford](../cases/PINS-6008840.md) | Appeal | dismissed | determinative |  |  |
+| ★ [Land to the rear of 137 Station Road, Hesketh Bank (PIP, up to 4 homes)](../cases/PINS-6007730.md) | Appeal | allowed | not-engaged |  | no reason to find a substantial adverse impact in relation to L2(1)(d), so not a circumstance in which benefits are likely to be substantially outweighed (DL 16-17) |
 | ★ [Marton House, 31 West Street, Padiham](../cases/PINS-6011037.md) | Appeal | dismissed | determinative |  |  |
+| ★ [Land at Backworth Business Park, Eccleston Close, Backworth (37 homes on a local wildlife site)](../cases/PINS-6006322.md) | Appeal | allowed | not-engaged |  | no substantial adverse impact in relation to the N6 policies, so the presumption applies; the letter writes "S4 paragraph 2 a. ii." (DL 36-37) |
 | ★ [64 Prestwich Avenue, Worcester](../cases/PINS-6006644.md) | Appeal | dismissed | fail |  | substantial adverse impact on the application of L2 to development within residential curtilages (DL 46) |
 | ★ [86 Alexandra Road, Poole](../cases/PINS-6010619.md) | Appeal | dismissed | fail |  | substantial adverse impact on application of L2(1)(d) and DP3 refusal policy; benefits outweighed (DL 55-59) |
 | ★ [Land east of Gwel An Syllan, Truthwall Lane, Truthwall (St Just)](../cases/PINS-6003055.md) | Appeal | dismissed | fail |  | alternative finding - substantial adverse impact on the NL (N4) (DL 28) |
 | ★ [96 Church Road, Blurton, Stoke-on-Trent](../cases/PINS-6010701.md) | Appeal | dismissed | determinative |  |  |
+| [Land to the rear of Edoras, Banbury Road, Pillerton Priors](../cases/stratford-26-01894-PIP.md) | Committee | refused | not-engaged |  | officer view - quoted in full (Report p.7) but never applied; no finding on whether the L2(1)(d) failure was a "substantial adverse impact"; the notice cites S4 and L2 but not S4(2) |
+| [144 Malthouse Lane, Earlswood](../cases/stratford-26-01542-FUL.md) | Delegated | refused | not-engaged |  | quoted in full with S4 (pp.4-5) but never applied; no finding on whether the L2(1)(d) failure was a "substantial adverse impact"; not cited in the notice |
 
-### S4(2)(c)  (fail 22, determinative 11)
+### S4(2)(c)  (fail 27, determinative 11)
 
 | Case | Maker | Outcome | Finding | Weight | Note |
 | --- | --- | --- | --- | --- | --- |
+| ★ [67 Main Street, Bushby (replacement dwelling in conservation area)](../cases/PINS-6009245.md) | Appeal | dismissed | fail |  | failure of DP3 routed through S4; letter says benefits "likely to be outweighed", leaving out the word substantially (DL 18) |
+| ★ [Land adjacent to 4 Callis Way, Parkwood, Gillingham (bungalow on amenity open space)](../cases/PINS-6009769.md) | Appeal | dismissed | fail |  | S4(2)(c) wording set out alongside (a)(ii); DP3 is the refusal policy relied on (DL 36, 38) |
+| ★ [Romaldor, St Johns Road, Wroxall (amateur radio mast)](../cases/PINS-6012036.md) | Appeal | dismissed | fail |  | proposal would fail to comply with one of the national decision-making policies "which state that development proposals should be refused"; the policy is not named (DL 22) |
+| ★ [Former Hull Grammar School and Community Centre, Cottingham Road, Hull](../cases/PINS-6010376.md) | Appeal | dismissed | fail |  | conflict with a should-be-refused policy indicates benefits are substantially outweighed; benefits do not outweigh the DP3 conflict (DL 70) |
 | ★ [5 More London Place, Southwark (restaurant pergola and awning)](../cases/PINS-6001859.md) | Appeal | dismissed | fail |  | letter says "S4(2)(a)(c)"; DP3(1) conflict without clear justification routed through the S4(2) trigger (DL 24) |
 | ★ [Opposite 67 Sandgate Road, Folkestone (BT Street Hub)](../cases/PINS-6004363.md) | Appeal | dismissed | fail |  | DP3(3) routed through S4(2); benefits substantially outweighed (DL 27-28) |
 | ★ [Stratton House Hotel, Stratton, Cirencester (Appeal A - sauna and plant room)](../cases/PINS-6009631.md) | Appeal | dismissed | fail |  | F7 named as a "should be refused" policy; letter cites "Policy S4(c)" (DL 44) |
@@ -5012,6 +5541,7 @@ Jump to: [AnnexA](#annexa) · [AnnexB](#annexb) · [AnnexD](#annexd) · [AnnexF]
 | ★ [Merienda, Greenhill Road, Elton (replacement dwelling)](../cases/PINS-6011882.md) | Appeal | dismissed | determinative |  |  |
 | ★ [Heather Lodge, 2 Old Acre Lane, Brocton, Stafford](../cases/PINS-6011888.md) | Appeal | dismissed | fail |  | letter reads S4(2)(c) as directing refusal where a decision-making policy is not complied with (DL 23) |
 | ★ [2 Highbury Grove Court, Islington (basement conversion to two flats)](../cases/PINS-6005590.md) | Appeal | dismissed | fail |  | set out at DL 35 as the should-be-refused circumstance; DP3(3) then directs refusal (DL 47) |
+| ★ [1C Wickenden Road, Sevenoaks (s73, grey roof tiles on approved extensions)](../cases/PINS-6007698.md) | Appeal | dismissed | fail |  | mapped: the letter says "Having regard to Policy S4" and identifies DP3(3) as a refusal policy; S4(2)(c) is not cited by limb (DL 14) |
 | ★ [11 and 13 Marlborough Avenue, Hull (render and palisade fence in the Avenues CA)](../cases/PINS-6009857.md) | Appeal | dismissed | fail |  | conflict with a should-be-refused policy; benefits do not outweigh (DL 34) |
 | ★ [64 Prestwich Avenue, Worcester](../cases/PINS-6006644.md) | Appeal | dismissed | fail |  | DP3 and TR6 refusal policies failed (DL 46) |
 | ★ [406-410 Beverley Road, Kingston upon Hull](../cases/PINS-6009228.md) | Appeal | dismissed | fail |  | DP3 and TR6 treated as "should be refused" policies; with HE6 conflict, benefits outweighed (DL 36) |
@@ -5033,10 +5563,11 @@ Jump to: [AnnexA](#annexa) · [AnnexB](#annexb) · [AnnexD](#annexd) · [AnnexF]
 
 ## S5
 
-### S5  (fail 8, not-engaged 4, determinative 4, pass 1, conflict 1)
+### S5  (fail 9, not-engaged 4, determinative 4, pass 1, conflict 1)
 
 | Case | Maker | Outcome | Finding | Weight | Note |
 | --- | --- | --- | --- | --- | --- |
+| ★ [Land at Castle End, Lea, Ross-on-Wye (PIP, up to 3 dwellings)](../cases/PINS-6002708.md) | Appeal | dismissed | fail |  | benefits substantially outweighed by the adverse effects; no S5(1) category identified (DL 41) |
 | [Land at Tuttle Farm, Lock Road, North Cotes](../cases/PINS-6009106.md) | Appeal | dismissed | not-engaged |  | site outside the built-up part of North Cotes, detached, no footway and mostly unlit; S3/S5 not named and no S5(1) category or S5(4) test run; balance framed as adverse consequences "outweigh" benefits (DL 7, 18) |
 | ★ [Land at Castle End, Lea (PIP, setting of Grade II* manor house)](../cases/PINS-6001896.md) | Appeal | dismissed | fail |  | benefits "substantially outweighed" by the heritage harm; the letter does not decide whether the site is inside or outside a settlement, or identify an S5(1) category, and says the result would be the same under S4 (DL 30-31) |
 | ★ [The Lamb Inn, Lambs Green, Rusper (coach house, two units)](../cases/PINS-6007772.md) | Appeal | allowed | determinative |  |  |
@@ -5056,10 +5587,15 @@ Jump to: [AnnexA](#annexa) · [AnnexB](#annexb) · [AnnexD](#annexd) · [AnnexF]
 | [Land adjacent to Village Hall, Clay Hill, Great Henny (pottery studio)](../cases/PINS-6009270.md) | Appeal | dismissed | fail |  | decided under 2024 NPPF para 11(c)/(d) (maps to S3-S5); countryside policy LPP1 up to date; no reason for the location; car-dependent (DL 5-6, 11) |
 | [Wharfedale Cottage, Wath Lane, Ulleskelf (PiP 1 dwelling)](../cases/PINS-6010426.md) | Appeal | dismissed | not-engaged |  | decided under 2024 para 11(d)(ii) tilted balance - "significantly and demonstrably outweigh" (DL 18, 22) |
 
-### S5(1)  (fail 20, pass 10, not-engaged 2, determinative 2)
+### S5(1)  (fail 23, pass 12, not-engaged 2, determinative 2)
 
 | Case | Maker | Outcome | Finding | Weight | Note |
 | --- | --- | --- | --- | --- | --- |
+| ★ [Thurlestone Golf Club, Thurlestone (hospitality trailer beside the coast path)](../cases/PINS-6008892.md) | Appeal | dismissed | fail |  | benefits substantially outweighed by adverse effects (DL 16) |
+| [The Orchard, Charley Road, Charley (garage conversion to a self-build dwelling)](../cases/PINS-6009255.md) | Appeal | allowed | pass |  | benefits "not substantially outweighed by the adverse effects in this particular instance" (DL 21) |
+| [Land off Long Lane, Fowlmere (PIP, up to 7 self-build homes)](../cases/PINS-6011365.md) | Appeal | dismissed | fail |  | unsuitable location, character harm and loss of agricultural land "would substantially outweigh the benefits" (DL 28); S5(4) not cited |
+| [Land at Mushroom Lane, Brigsley (outline, nine dwellings)](../cases/PINS-6009363.md) | Appeal | dismissed | fail |  | benefits substantially outweighed by the adverse effects (DL 24) |
+| ★ [Happy Hounds Hotel, Back Lane, Weeton (PIP, up to 2 dwellings on kennels site)](../cases/PINS-6012202.md) | Appeal | allowed | pass |  | benefits not substantially outweighed; presumption applies (DL 14, 20) |
 | [Beehive Cottage, Portway, Old Sarum, Salisbury](../cases/PINS-6007924.md) | Appeal | allowed | pass |  | no other harm and no Framework conflict, so nothing substantially outweighs the benefits (DL 45-46) |
 | ★ [Somerville, Mingoose Vale, Towan Cross, Truro (affordable PIP)](../cases/PINS-6009030.md) | Appeal | dismissed | fail |  | harm "would substantially outweigh the benefits" (DL 28) |
 | [Land rear of 53 Beresford Avenue, Chapel-en-le-Frith (agricultural containers)](../cases/PINS-6009410.md) | Appeal | allowed | pass |  | modest benefits not substantially outweighed by limited adverse effects including the plan conflict (DL 23) |
@@ -5095,10 +5631,12 @@ Jump to: [AnnexA](#annexa) · [AnnexB](#annexb) · [AnnexD](#annexd) · [AnnexF]
 | [Land rear of 6-108 Mell Road, Tollesbury](../cases/maldon-26-00066-OUTM.md) | Committee | approved | pass |  | housing incl. 40% affordable substantial weight; landscape harm moderate; spatial-strategy conflict limited; not substantially outweighed |
 | ★ [Land at OS 9574 5003, Seaford, Pinvin (barn replaced by self-build dwelling)](../cases/wychavon-W-26-00329-FUL.md) | Delegated | approved | fail |  | no category met; (h), (i) and (j) considered; S5(1)(c) replacement is not discussed |
 
-### S5(1)(a)  (fail 5, pass 3, neutral 1, not-engaged 1)
+### S5(1)(a)  (pass 5, fail 5, neutral 1, not-engaged 1)
 
 | Case | Maker | Outcome | Finding | Weight | Note |
 | --- | --- | --- | --- | --- | --- |
+| [Land west of Underlane, Carnkie, Wendron (mushroom growing building)](../cases/PINS-6008292.md) | Appeal | dismissed | pass |  | S5 support for agriculture and horticulture outside settlements stated with its test, but no conclusion is reached in S5 terms; the appeal is decided on the development plan (DL 22, 27) |
+| ★ [Sunny Bank Kitchen Garden, Killington New Bridge, Killington (market garden barn and polytunnels)](../cases/PINS-6013634.md) | Appeal | allowed | pass |  | horticulture is one of the forms of development outside settlements that should generally be approved (DL 16); no separate S5(1) balance run |
 | ★ [Land rear of 53 Beresford Avenue, Chapel-en-le-Frith (agricultural containers)](../cases/PINS-6009410.md) | Appeal | allowed | pass |  | "Policy S5 of the Framework supports development for agriculture outside settlements and does not require such development to support an existing agricultural enterprise" (DL 22) |
 | [2 North Field, Newby Bridge, Windermere (boathouse)](../cases/PINS-6010157.md) | Appeal | dismissed | fail |  | outdoor sport and recreation category referred to; benefits substantially outweighed; S5(2) triggers DP3(3) and F7 weigh strongly (DL 33-35) |
 | ★ [Land south-west of Poachers Pocket, St Columb](../cases/PINS-6006078.md) | Appeal | dismissed | fail |  | agriculture is a listed S5(1) use, but the inspector applied the S5(1) proviso: modest benefits "substantially outweighed" by localised but clearly adverse landscape harm and lack of demonstrated need (DL 22-23); limb not named in letter, mapped by harvester |
@@ -5110,10 +5648,11 @@ Jump to: [AnnexA](#annexa) · [AnnexB](#annexb) · [AnnexD](#annexd) · [AnnexF]
 | [Land off Carr Lane, Alderley Edge (agricultural barn in functional floodplain)](../cases/PINS-6010751.md) | Appeal | dismissed | neutral |  | not expressly applied; agricultural need not evidenced under local RUR1 (no business plan, generic yield figures) (DL 5-16) |
 | ★ [Land at OS 7833 5108, Leigh Sinton (community centre and pitches)](../cases/malvern-M-26-00885-FUL.md) | Committee | approved | not-engaged |  | the site is outside the Leigh Sinton development boundary, but the report never applies S5. Principle rests on SWDPR11 and on NDP LB/H/6, which requires about 5.5 ha of sports land alongside the adjoining housing allocation. Outdoor sport and recreation would fall within S5(1)(a). |
 
-### S5(1)(b)  (fail 10, pass 3, neutral 1)
+### S5(1)(b)  (fail 10, pass 4, neutral 1)
 
 | Case | Maker | Outcome | Finding | Weight | Note |
 | --- | --- | --- | --- | --- | --- |
+| ★ [Thurlestone Golf Club, Thurlestone (hospitality trailer beside the coast path)](../cases/PINS-6008892.md) | Appeal | dismissed | pass |  | a location outside a settlement accepted as "reasonably necessary" for a facility serving golfers, beach users and walkers (DL 12-13) |
 | ★ [Land north of Claypole Equestrian, Doddington Lane, Claypole](../cases/PINS-6008915.md) | Appeal | dismissed | fail |  | convenience and commercial advantage of co-location with the equestrian business do not show a location outside a settlement is necessary; no evidence the use could not go in or next to a settlement or on employment land (DL 6-11) |
 | [The Geldings, Bouts Lane, Holberrow Green, Inkberrow (live/work unit)](../cases/PINS-6009011.md) | Appeal | dismissed | fail |  | rural business element, but no evidence a countryside location is necessary (DL 42-43) |
 | [Land at Brock, Garstang Road (A6), Bilsborrow](../cases/PINS-6007133.md) | Appeal | dismissed | fail |  | not shown to be development for rural businesses (DL 34) |
@@ -5129,10 +5668,11 @@ Jump to: [AnnexA](#annexa) · [AnnexB](#annexb) · [AnnexD](#annexd) · [AnnexF]
 | ★ [Land at Marazanvose, St Allen (holiday lodges)](../cases/PINS-6006832.md) | Appeal | dismissed | fail |  | rural tourism — no locational or business need for this site shown (DL 32, 34, 51) |
 | ★ [Kilcummer Barn, Tregeath Lane, Trewarmett, Tintagel](../cases/PINS-6000903.md) | Appeal | dismissed | fail |  | rural tourism outside a settlement supported only where the location is shown to be necessary; appellant argued general tourism benefit but not why this site (DL 9, 11) |
 
-### S5(1)(c)  (pass 15, fail 13, not-engaged 4)
+### S5(1)(c)  (pass 17, fail 13, not-engaged 4)
 
 | Case | Maker | Outcome | Finding | Weight | Note |
 | --- | --- | --- | --- | --- | --- |
+| ★ [The Orchard, Charley Road, Charley (garage conversion to a self-build dwelling)](../cases/PINS-6009255.md) | Appeal | allowed | pass |  | outside settlements S5 applies; the forms of development that should be approved "include the re-use of an existing building"; limb not numbered and the building's construction and lawfulness not discussed (DL 17) |
 | [Cud Hill House barn, Upton Hill, Upton St Leonards](../cases/PINS-6005652.md) | Appeal | dismissed | pass |  | permanent and substantial building; modest extension not disproportionate; "The requirements of S5(1) c appear satisfied" (DL 4, 30) |
 | [South Barn, Elworthy Farm, Greenham, Wellington](../cases/PINS-6012293.md) | Appeal | dismissed | pass |  | mapped; letter finds a genuine conversion under local DM2 but does not name an S5 category or run the S5 test (DL 9-12) |
 | [Land off Middlebridge Road, Gringley-on-the-Hill](../cases/PINS-6006950.md) | Appeal | dismissed | fail |  | barns permanent and substantial but not same use and new dwelling disproportionately larger; Class Q unavailable (DL 22, 29) |
@@ -5160,16 +5700,21 @@ Jump to: [AnnexA](#annexa) · [AnnexB](#annexb) · [AnnexD](#annexd) · [AnnexF]
 | ★ [Northolm Farm, Crowland Road, Eye Green, Peterborough (barn to B2/B8)](../cases/PINS-6010542.md) | Appeal | dismissed | pass |  | re-use of an existing building of permanent and substantial construction; principle not in dispute (DL 23) |
 | [Hillcott, Duffield Lane, Newborough](../cases/PINS-6010986.md) | Appeal | dismissed | not-engaged |  | re-use of existing building outside settlement not assessed under S5 — letter applies local settlement-boundary policy (DL 11-14); code mapped by harvester |
 | ★ [Mobile home at Wierton Hill Farm, Boughton Monchelsea](../cases/maidstone-26-501191-FULL.md) | Committee | refused | fail |  | officers — replacement of lawful permanent dwelling, eaves height comparable; members — 'disproportionate enlargement' (27 sqm to 151 sqm footprint) |
+| ★ [Field south of The Slade, Fenny Compton](../cases/stratford-26-01801-FUL.md) | Delegated | approved | pass |  | quoted and held met, "Subject to a detailed assessment of all other material considerations" (p.6); the new linked building (17.5 m by 5.8 m) is called "a substantial extension" (p.8), but the report makes no finding on whether it is a "disproportionate increase" over the existing building |
 | ★ [Weavers Cottage, Church End, Priors Hardwick](../cases/stratford-26-01211-FUL.md) | Delegated | approved | pass |  | the extension onto agricultural land is "not … a disproportionate increase in size compared to the existing building" |
 | ★ [Hales Farm, Fosse Way, Moreton Morrell](../cases/stratford-26-01558-FUL.md) | Delegated | approved | fail |  | replacement "significantly larger" (about 3.4x floorspace) and partly outside curtilage, so conflicts with (c) and CS.20 |
 | ★ [Duffledown Farm, Wyre Piddle Bypass, Upper Moor (site manager's dwelling, retrospective)](../cases/wychavon-W-26-01447-FUL.md) | Delegated | refused | fail |  | a replacement must be of a lawful existing building for the same use. Insufficient evidence that the straw-bale building (approved in 2002 for agricultural use only) was a lawful dwelling; an affidavit claimed about 5 years' residential occupation from 2012. |
 | ★ [Hollow Meadow, Lower End, Priors Hardwick](../cases/stratford-26-00898-FUL.md) | Delegated | approved | pass |  | reuse of an existing lawful building of permanent and substantial construction with very modest additions |
 | [Barn adjacent to Stonecroft House, Kineton Road, Oxhill](../cases/stratford-26-01393-FUL.md) | Delegated | approved | not-engaged |  | not considered; agricultural-to-residential rebuild is not a replacement "for the same use", so (c) would not obviously apply; approval rests on the Class Q fallback |
 
-### S5(1)(d)  (pass 11, fail 7, not-engaged 4, benefit 1, neutral 1)
+### S5(1)(d)  (pass 14, fail 8, not-engaged 4, benefit 1, neutral 1)
 
 | Case | Maker | Outcome | Finding | Weight | Note |
 | --- | --- | --- | --- | --- | --- |
+| [Cornish Marquees, Higher Trevellas, St Agnes (PIP, two dwellings)](../cases/PINS-6008432.md) | Appeal | dismissed | fail |  | site cannot be considered PDL for the purposes of the appeal (DL 32) |
+| ★ [144 Browns Lane, Stanton on the Wolds (replacement dwelling, Green Belt)](../cases/PINS-6010392.md) | Appeal | allowed | pass |  | parties agree the scheme is redevelopment of previously developed land, so it "benefits from part 1.d of Policy S5"; S5(5) not mentioned although the site is in the Green Belt; no adverse effects, so it accords "with whichever Framework policy were to be applied" (S4 or S5) (DL 13-14) |
+| [Thamesfield Retirement Village, Wargrave Road, Remenham](../cases/PINS-6011062.md) | Appeal | dismissed | pass |  | redevelopment of previously developed land; applied to a Green Belt site in place of S5(5) (DL 41); letter says "Criterion d)" |
+| ★ [Happy Hounds Hotel, Back Lane, Weeton (PIP, up to 2 dwellings on kennels site)](../cases/PINS-6012202.md) | Appeal | allowed | pass |  | redevelopment of previously developed land; criterion (d) does not require the site to be physically well-related to a settlement, a requirement found only in (h) and (j) (DL 14-15) |
 | [Land opposite Nash Cottage, Ashford Road, Brenzett](../cases/PINS-6007677.md) | Appeal | dismissed | pass |  | parties agree redevelopment of previously developed land; inspector agrees (DL 25) |
 | ★ [Cosy Cow Shed, near Dalwood, Devon (holiday let to dwelling)](../cases/PINS-6009619.md) | Appeal | allowed | pass |  | existing holiday dwelling is PDL; material change of use to residential falls within (d) (DL 15) |
 | ★ [The Lamb Inn, Lambs Green, Rusper (coach house, two units)](../cases/PINS-6007772.md) | Appeal | allowed | pass | significant | letter says S5(d); redevelopment of PDL hardstanding outside a settlement, modest and not isolated (DL 11, 13, 35) |
@@ -5195,10 +5740,12 @@ Jump to: [AnnexA](#annexa) · [AnnexB](#annexb) · [AnnexD](#annexd) · [AnnexF]
 | ★ [Duffledown Farm, Wyre Piddle Bypass, Upper Moor (site manager's dwelling, retrospective)](../cases/wychavon-W-26-01447-FUL.md) | Delegated | refused | fail |  | not the redevelopment of previously developed land |
 | ★ [Pittern Hill Riding School, Pittern Hill, Kineton](../cases/stratford-26-01764-PIP.md) | Delegated | approved | not-engaged |  | site accepted as PDL under the NPPF definition, but S5(1)(d) not expressly applied |
 
-### S5(1)(e)  (fail 21, pass 9)
+### S5(1)(e)  (fail 24, pass 9)
 
 | Case | Maker | Outcome | Finding | Weight | Note |
 | --- | --- | --- | --- | --- | --- |
+| [Cornish Marquees, Higher Trevellas, St Agnes (PIP, two dwellings)](../cases/PINS-6008432.md) | Appeal | dismissed | fail |  | adjacent to dwellings but an extension to the group of buildings, not within it (DL 32) |
+| [Land west of Sunnyside, Glentham (three over-55s dwellings)](../cases/PINS-6011337.md) | Appeal | dismissed | fail |  | not infill, as it extends development away from the settlement (DL 21) |
 | [Land adjoining The Ridings, Singleborough](../cases/PINS-6008773.md) | Appeal | dismissed | pass |  | limited infilling within a group of housing (DL 26) |
 | [Land off Drake Street, Welland](../cases/PINS-6006722.md) | Appeal | dismissed | fail |  | some distance from built form on one side, a large paddock from the single house on the other; not infilling within a group (DL 35) |
 | [Brishing Court Farm, Brishing Lane, Boughton Monchelsea](../cases/PINS-6007158.md) | Appeal | dismissed | fail |  | near a group of houses but adjoins orchard on two sides, not infill (DL 42) |
@@ -5210,6 +5757,7 @@ Jump to: [AnnexA](#annexa) · [AnnexB](#annexb) · [AnnexD](#annexd) · [AnnexF]
 | [17 Brook Lane, Brookville](../cases/PINS-6009844.md) | Appeal | dismissed | fail |  | open fields north and south; houses on one side only on Brook Lane; not infilling within a group (DL 31-32) |
 | ★ [Land South of Mount Pleasant Cottage, Poundstock](../cases/PINS-6010020.md) | Appeal | dismissed | fail |  | large field gap; not infilling even if the houses form a group (DL 20) |
 | ★ [Land south of Darlifields, Heywood Road, Tibenham (two self-build dwellings, outline)](../cases/PINS-6010418.md) | Appeal | dismissed | fail |  | letter finds the site not an infill plot, then says it falls within the scope of S5(e) as part of a group, then that adverse effects substantially outweigh so no support; internally inconsistent (DL 12) |
+| ★ [Paddock north of Spring Acres, West End Lane, Henfield (PIP, up to 9 self-build homes)](../cases/PINS-6006961.md) | Appeal | dismissed | fail |  | built development on the south side of the lane only; the north side is predominantly open with sporadic, screened development; the site is not within a group of houses (DL 14, 32) |
 | [Land SW Sibson Road, Sheepy Parva](../cases/PINS-6009220.md) | Appeal | dismissed | fail |  | not infill — part of an expansive open gap between village edge and Meadowside; would extend a ribbon (DL 5-6) (made without naming S5(1)(e)) |
 | ★ [Land on road from Frost Cross to Oldborough Cross, Morchard Bishop](../cases/PINS-6012985.md) | Appeal | dismissed | fail |  | no houses immediately either side along the lane - "could not reasonably be considered a natural infilling" (DL 10, 18) |
 | [Land adjacent to Model Farm, Plex Lane, Halsall](../cases/PINS-6007428.md) | Appeal | dismissed | fail |  | loose-knit pattern, not a continuous frontage; infilling status would not decide sustainability anyway (DL 18) |
@@ -5263,10 +5811,12 @@ Jump to: [AnnexA](#annexa) · [AnnexB](#annexb) · [AnnexD](#annexd) · [AnnexF]
 | --- | --- | --- | --- | --- | --- |
 | ★ [Land at Banbury Road (B4100), Gaydon](../cases/stratford-25-01765-FUL.md) | Delegated | approved | pass |  | land allocated for employment in the development plan, albeit restricted to JLR-related uses |
 
-### S5(1)(j)  (pass 37, fail 31, not-engaged 3, determinative 2)
+### S5(1)(j)  (pass 37, fail 32, not-engaged 6, determinative 3)
 
 | Case | Maker | Outcome | Finding | Weight | Note |
 | --- | --- | --- | --- | --- | --- |
+| [Land adjacent to 1 Ninesprings Cottage, Wymondley Road, Hitchin (PIP)](../cases/PINS-6009720.md) | Appeal | allowed | not-engaged |  | Council argued conflict with S5(1)(j); S5(5) takes Green Belt proposals out of S5(1) (DL 28) |
+| [Land west of Sunnyside, Glentham (three over-55s dwellings)](../cases/PINS-6011337.md) | Appeal | dismissed | fail |  | no unmet need for housing in general (five-year supply and Housing Delivery Test met); specialist-need evidence is numeric and does not show a need for large four-bedroom houses for over-55s at a small village edge (DL 6, 9-13, 22) |
 | [Land east of New Road, Melksham](../cases/PINS-6007352.md) | Appeal | dismissed | pass |  | unmet need shown - 2.8-year supply and unmet self-build demand on the register (DL 26-27) |
 | [Beehive Cottage, Portway, Old Sarum, Salisbury](../cases/PINS-6007924.md) | Appeal | allowed | pass |  | no five-year supply (figure not stated) (DL 10) |
 | [Two Oaks, Whitchurch Road (A49), Spurstow](../cases/PINS-6009407.md) | Appeal | dismissed | pass |  | "relatively close to existing development in physical terms", so accords with S5:1.j; TR3 not tested within (j) despite the location finding at DL 13-15 (DL 51) |
@@ -5276,11 +5826,13 @@ Jump to: [AnnexA](#annexa) · [AnnexB](#annexb) · [AnnexD](#annexd) · [AnnexF]
 | ★ [Fairfield Cottage, Cross in Hand Road, Heathfield](../cases/PINS-6009517.md) | Appeal | dismissed | pass |  | outside the settlement boundary but physically well related to the linear development along the A267; 3.44-year supply (DL 23) |
 | [Pigeon Farm Cottage, Cold Harbour Lane, Bobbing](../cases/PINS-6010408.md) | Appeal | dismissed | fail |  | no evidenced unmet need shown (DL 7, 25) |
 | ★ [Land west of The Charters, Greatford Road, Uffington (Stamford)](../cases/PINS-6011227.md) | Appeal | dismissed | determinative |  |  |
+| [Maisie Cottage, Bottrells Lane, Chalfont St Giles (stable to dwelling)](../cases/PINS-6011889.md) | Appeal | dismissed | not-engaged |  | supply shortfall acknowledged, but S5(5) means S5 does not apply in the Green Belt (DL 23) |
 | ★ [Land North of A507, West of A10, Buntingford](../cases/PINS-6008238.md) | Appeal | allowed | pass |  | supply 2.21 to 2.88 years, so evidenced unmet need; scale accommodated with the s106 infrastructure (DL 17-19) |
 | [Land East of College Road South, Aston Clinton](../cases/PINS-6008253.md) | Appeal | allowed | pass |  | evidenced unmet need agreed; infrastructure capacity met via s106 (DL 79) |
 | [The Pigs, Leesthorpe Road, Pickwell](../cases/PINS-6008693.md) | Appeal | dismissed | fail |  | self-build shortfall accepted as unmet need, but (j)(i) fails (DL 21) |
 | [17 Brook Lane, Brookville](../cases/PINS-6009844.md) | Appeal | dismissed | fail |  | self-build shortfall possibly an unmet need, but the self-build element cannot be secured (no legal agreement; condition not shown enforceable) (DL 11-12, 30) |
 | [Longbrook Pavillion, Hook Lane, Bognor Regis](../cases/PINS-6010637.md) | Appeal | allowed | pass |  | letter cites "Framework Policy S5" without a limb; 3.23-year supply as unmet need, well related to the settlement, scale accommodated by infrastructure - the (j)(i) wording (DL 14) |
+| [Paddock north of Spring Acres, West End Lane, Henfield (PIP, up to 9 self-build homes)](../cases/PINS-6006961.md) | Appeal | dismissed | not-engaged |  | not argued; "It has not been put to me that the proposal would accord with any of the other criteria" in S5(1), despite a housing land supply shortfall; the site does not adjoin a settlement edge (DL 9, 12, 32) |
 | ★ [Land to the rear of The White House, Munden Road, Dane End](../cases/PINS-6007451.md) | Appeal | allowed | pass |  | no five-year supply accepted; site directly adjoins the settlement; single dwelling acceptable in scale (DL 10) |
 | [Land SW Sibson Road, Sheepy Parva](../cases/PINS-6009220.md) | Appeal | dismissed | pass |  | no 5YHLS and, per Council, well related to settlement — "some support" in principle; limb not named (DL 10-11) |
 | ★ [Land on road from Frost Cross to Oldborough Cross, Morchard Bishop](../cases/PINS-6012985.md) | Appeal | dismissed | fail |  | no 5YHLS, but about 400m from Morchard Bishop with verdant gaps and a steep hill - physically and functionally separated, not well related (DL 9, 12, 17-18) |
@@ -5335,16 +5887,20 @@ Jump to: [AnnexA](#annexa) · [AnnexB](#annexb) · [AnnexD](#annexd) · [AnnexF]
 | ★ [Land South of Elm Leys, Hunt Hall Lane, Welford-on-Avon](../cases/stratford-26-00772-PIP.md) | Committee | approved | pass |  | 2.21-year supply = evidenced unmet need; edge of a Category 2 LSV, "physically contained by residential development on two sides" |
 | ★ [Land off Beech Lane, Kislingbury (58 dwellings)](../cases/westnorthants-WNS-2022-0673-MAF.md) | Committee | refused | pass |  | supply shortfall of about 0.7 years; the site adjoins Kislingbury (Secondary Service Village A) with a school, shop, pubs and a regular bus to Northampton; scale proportionate. "broadly compliance to Policy S5 … in so far as subparagraph 1j" |
 | ★ [Home Farm, Land off A423, Southam](../cases/stratford-25-00346-OUT.md) | Committee | approved | pass |  | adjoins Main Rural Centre Southam; well related and of a scale Southam can accommodate |
+| ★ [Land at Windmill Lane, Ladbroke](../cases/stratford-26-01660-OUT.md) | Delegated | approved | determinative |  |  |
 | ★ [Land at Banbury Road (B4100), Gaydon](../cases/stratford-25-01765-FUL.md) | Delegated | approved | pass |  | evidenced unmet need for employment land; well-related to Gaydon Lighthorne Heath; part (ii) freight and logistics also met |
 | ★ [Land between Clunes and Sundial, Bordon Hill, Stratford-upon-Avon](../cases/stratford-26-01588-PIP.md) | Delegated | approved | pass |  | about 0.5 km beyond the Stratford-upon-Avon BUAB on the B439 Evesham Road; "well-related to an existing settlement" |
 | ★ [Land adjacent to 22 Alcester Road, Hollywood / Wythall (up to 6 dwellings PIP)](../cases/bromsgrove-26-00845-PIP.md) | Delegated | approved | pass |  | cited as the lens for the principle despite S5(5) excluding Green Belt land. An S5(5)-style approval was the effective outcome. |
 | ★ [Land at OS 9294 4914, Stonebow Road, Drakes Broughton (50 dwellings)](../cases/wychavon-W-26-01322-OUT.md) | Delegated | refused | not-engaged |  | with a five-year supply (July 2026 report, 20% buffer), "none of the types of development set out within policy S5 are applicable" |
 | ★ [Hollow Meadow, Lower End, Priors Hardwick](../cases/stratford-26-00898-FUL.md) | Delegated | approved | pass |  | 2.21-year supply = evidenced unmet need; "physically well-related to an existing settlement" limb not separately examined for a village with no BUAB |
 
-### S5(1)(j)(i)  (fail 17, pass 15, not-engaged 1)
+### S5(1)(j)(i)  (fail 19, pass 17, not-engaged 1)
 
 | Case | Maker | Outcome | Finding | Weight | Note |
 | --- | --- | --- | --- | --- | --- |
+| [Cornish Marquees, Higher Trevellas, St Agnes (PIP, two dwellings)](../cases/PINS-6008432.md) | Appeal | dismissed | fail |  | not physically well-related to a settlement, because there is no settlement; letter says "Policy S5.1.j" (DL 31) |
+| ★ [Land off Long Lane, Fowlmere (PIP, up to 7 self-build homes)](../cases/PINS-6011365.md) | Appeal | dismissed | fail |  | S5(1)(j) paraphrased at DL 22; "the proposal would not be suitably related to a settlement and its need for access to services and facilities could not be accommodated by available infrastructure" (DL 28); site detached from the village across a gap |
+| [Land at Mushroom Lane, Brigsley (outline, nine dwellings)](../cases/PINS-6009363.md) | Appeal | dismissed | pass |  | letter says "S5(1ji)"; no five-year supply, and the site adjoins the development boundary, so physically well-related to an existing settlement; the scale and infrastructure limb is not addressed (DL 5, 22) |
 | ★ [Land east of New Road, Melksham](../cases/PINS-6007352.md) | Appeal | dismissed | fail |  | not physically well-related to the settlement in accessibility or character; narrow unlit lane with no footways; appellant accepts occupiers would drive (DL 9, 27) |
 | ★ [Beehive Cottage, Portway, Old Sarum, Salisbury](../cases/PINS-6007924.md) | Appeal | allowed | pass |  | physically well related to Old Sarum via the adjacent park and ride, with a pavement link to the settlement; an earlier inspector found the site part of the consolidated Old Sarum development (DL 11-12) |
 | [Land adjacent to 33A Chelford Road, Somerford (PIP, Jodrell Bank WHS)](../cases/PINS-6008864.md) | Appeal | dismissed | pass |  | edge of Somerford next to the Congleton boundary; "strong functional and spatial relationship" with Congleton, services "within a very short journey"; modest scale (DL 28-29) |
@@ -5378,6 +5934,7 @@ Jump to: [AnnexA](#annexa) · [AnnexB](#annexb) · [AnnexD](#annexd) · [AnnexF]
 | ★ [Land west of Edmond Street, Newman Drive and Benson Close, Burnham-on-Crouch](../cases/maldon-26-00018-FULM.md) | Committee | approved | pass |  | adjoins and is accessed through allocated Burnham-on-Crouch West scheme under construction; 4.1-year supply; infrastructure via S106/S278 |
 | ★ [Land rear of 6-108 Mell Road, Tollesbury](../cases/maldon-26-00066-OUTM.md) | Committee | approved | pass |  | 4.1-year supply (appellant says 3.6); edge of 'larger village', development on two sides, no gap; infrastructure can accommodate with contributions |
 | ★ [Land south of London Road, Rockbeare (Cranbrook edge)](../cases/eastdevon-26-0534-MOUT.md) | Committee | approved | pass |  | 3.5-year supply; adjoins Cranbrook BUAB and allocated Grange Expansion Area (c.800 homes) |
+| [Land at Windmill Lane, Ladbroke](../cases/stratford-26-01660-OUT.md) | Delegated | approved | pass |  | the 2.21-year supply taken as the evidenced unmet need; "well-related to an existing settlement" asserted in one sentence (p.5), although the site is outside the "physical confines" (p.3) and "divorced from the edge of Ladbroke" by a field (p.6) |
 
 ### S5(1)(j)(ii)  (not-engaged 1, pass 1)
 
@@ -5386,16 +5943,22 @@ Jump to: [AnnexA](#annexa) · [AnnexB](#annexb) · [AnnexD](#annexd) · [AnnexF]
 | [Land at Brock, Garstang Road (A6), Bilsborrow](../cases/PINS-6007133.md) | Appeal | dismissed | not-engaged |  | flexible E(g)/B8 use could be delivered with no freight and logistics, so the scheme does not wholly fall under (j)(ii); E3 compliance left open (DL 39, 41-43); letter says "S5(j)(ii)" |
 | [Paddock land adjoining 39a Stone Lane, Lydiard Millicent](../cases/PINS-6001260.md) | Appeal | allowed | pass |  | no infrastructure provider objection; no evidence capacity exceeded (DL 26) |
 
-### S5(2)  (fail 21, determinative 15, pass 2, not-engaged 2)
+### S5(2)  (fail 25, determinative 15, not-engaged 4, pass 2)
 
 | Case | Maker | Outcome | Finding | Weight | Note |
 | --- | --- | --- | --- | --- | --- |
+| ★ [Oozedam, High Road, Fobbing (5 dwellings behind the frontage, grey belt)](../cases/PINS-6008679.md) | Appeal | dismissed | fail |  | fails a "should be refused" policy, so benefits likely to be substantially outweighed (DL 45) |
+| ★ [Land at Mushroom Lane, Brigsley (outline, nine dwellings)](../cases/PINS-6009363.md) | Appeal | dismissed | fail |  | conflict with L3, a "should be refused" policy, with the TR3 and N2 conflicts, means the benefits are likely to be substantially outweighed (DL 6, 24) |
+| ★ [Thamesfield Retirement Village, Wargrave Road, Remenham](../cases/PINS-6011062.md) | Appeal | dismissed | fail |  | DP3 is a policy that says development should be refused, so benefits found to be substantially outweighed; conflict with S5 (DL 45) |
+| [Happy Hounds Hotel, Back Lane, Weeton (PIP, up to 2 dwellings on kennels site)](../cases/PINS-6012202.md) | Appeal | allowed | not-engaged |  | no national decision-making policy indicates the proposal should be refused (DL 20) |
 | ★ [Land adjacent 837 Manchester Road, Linthwaite](../cases/PINS-6006003.md) | Appeal | dismissed | determinative |  |  |
 | ★ [Land opposite Nash Cottage, Ashford Road, Brenzett](../cases/PINS-6007677.md) | Appeal | dismissed | fail |  | DP3(3) failure routed through S5(2); benefits substantially outweighed (DL 26-27) |
 | ★ [Two Oaks, Whitchurch Road (A49), Spurstow](../cases/PINS-6009407.md) | Appeal | dismissed | fail |  | benefits substantially outweighed (DL 51-52) |
 | ★ [Land rear of 53 Beresford Avenue, Chapel-en-le-Frith (agricultural containers)](../cases/PINS-6009410.md) | Appeal | allowed | pass |  | no conflict with any Framework "should be refused" policy (DL 22) |
+| ★ [Balne Moor Coarse Fishery, Balne Moor Road, Balne (manager's dwelling)](../cases/PINS-6010112.md) | Appeal | dismissed | fail |  | HO11 treated as engaged through S5(2) and S5(5) even though S5(3) is not (DL 18-19) |
 | ★ [Land adjoining The Ridings, Singleborough](../cases/PINS-6008773.md) | Appeal | dismissed | fail |  | benefits substantially outweighed by the adverse effects; presumption does not apply (DL 28, 33) |
 | ★ [Cosy Cow Shed, near Dalwood, Devon (holiday let to dwelling)](../cases/PINS-6009619.md) | Appeal | allowed | pass |  | no conflict with any "should be refused" policy - L3(4), DP3(3), TR6(4), F6(1), F7(2), N2(2), N6(1)(a), N6(2), HE6(5) listed and checked (DL 14, 16) |
+| [Land west of 103 Tonbridge Road, Hildenborough (PIP, 5 to 7 homes)](../cases/PINS-6010459.md) | Appeal | allowed | not-engaged |  | no failure of a national policy that says proposals should be refused (DL 29) |
 | ★ [Land north west of Holly Tree Cottage, Howlett End, Wimbish](../cases/PINS-6008762.md) | Appeal | dismissed | fail |  | S5(2) set out; moderate housing and limited other benefits substantially outweighed (DL 36, 41) |
 | ★ [Adj Grassmere, Horseman Side, Navestock (self-build dwelling in garden)](../cases/PINS-6009849.md) | Appeal | allowed | determinative |  |  |
 | ★ [Land at Brock, Garstang Road (A6), Bilsborrow](../cases/PINS-6007133.md) | Appeal | dismissed | fail |  | fails a "should be refused" policy, so benefits likely substantially outweighed; location unsuitable (DL 58) |
@@ -5431,10 +5994,11 @@ Jump to: [AnnexA](#annexa) · [AnnexB](#annexb) · [AnnexD](#annexd) · [AnnexF]
 | ★ [Land off Beech Lane, Kislingbury (58 dwellings)](../cases/westnorthants-WNS-2022-0673-MAF.md) | Committee | refused | determinative |  |  |
 | ★ [Land adjacent to 10 Hambridge Way, Pirton](../cases/northherts-25-02064-OP.md) | Committee | approved | not-engaged |  | no national 'should be refused' policy engaged (TR6, flood, heritage, biodiversity) |
 
-### S5(3)  (fail 12, not-engaged 4, pass 3, conflict 3, determinative 1, neutral 1)
+### S5(3)  (fail 12, not-engaged 5, pass 4, conflict 3, determinative 1, neutral 1)
 
 | Case | Maker | Outcome | Finding | Weight | Note |
 | --- | --- | --- | --- | --- | --- |
+| [Balne Moor Coarse Fishery, Balne Moor Road, Balne (manager's dwelling)](../cases/PINS-6010112.md) | Appeal | dismissed | not-engaged |  | S5(3) does not apply in the Green Belt, but the home is found to be isolated on the same definition (not within a group of houses or a settlement) (DL 7, 19) |
 | ★ [Land off Pickworth Road, Great Casterton (HO11(e) earth-sheltered house)](../cases/PINS-6010934.md) | Appeal | dismissed | fail |  | agreed isolated home, so only HO11 applies (DL 8, 10) |
 | ★ [Cud Hill House barn, Upton Hill, Upton St Leonards](../cases/PINS-6005652.md) | Appeal | dismissed | fail |  | isolated home (outside settlements or groups of houses), so only HO11 can support it (DL 31) |
 | [Land adjoining The Ridings, Singleborough](../cases/PINS-6008773.md) | Appeal | dismissed | pass |  | not isolated given relationship with surroundings (DL 7) |
@@ -5457,13 +6021,16 @@ Jump to: [AnnexA](#annexa) · [AnnexB](#annexb) · [AnnexD](#annexd) · [AnnexF]
 | [Beech Dene, Kelsick, Abbeytown](../cases/PINS-6011045.md) | Appeal | dismissed | not-engaged |  | agreed the site is not isolated, though outside any defined settlement; HO11 argument not needed (DL 20) |
 | [Kilcummer Barn, Tregeath Lane, Trewarmett, Tintagel](../cases/PINS-6000903.md) | Appeal | dismissed | neutral |  | if the unit is a dwelling it would be an isolated home, engaging HO11; not resolved because S5(1)(c) applies either way (DL 12) |
 | ★ [Upper Sent Cottages, The Barn, Okewood Hill](../cases/PINS-6007601.md) | Appeal | dismissed | fail |  | isolated homes only in accordance with HO11, so no presumption under S3 (DL 27) |
+| ★ [Field south of The Slade, Fenny Compton](../cases/stratford-26-01801-FUL.md) | Delegated | approved | pass |  | isolated-homes rule cited; routed to HO11 (p.6) |
 | ★ [Land at OS 9574 5003, Seaford, Pinvin (barn replaced by self-build dwelling)](../cases/wychavon-W-26-00329-FUL.md) | Delegated | approved | pass |  | close to another dwelling, so not strictly an isolated home |
 | ★ [Cedar Wood, Seaford Lane, Naunton Beauchamp (1 self-build dwelling PIP)](../cases/wychavon-W-26-01828-PIP.md) | Delegated | approved | pass |  | not an isolated home |
 
-### S5(4)  (fail 39, pass 4, determinative 3)
+### S5(4)  (fail 42, pass 4, determinative 3)
 
 | Case | Maker | Outcome | Finding | Weight | Note |
 | --- | --- | --- | --- | --- | --- |
+| ★ [Cornish Marquees, Higher Trevellas, St Agnes (PIP, two dwellings)](../cases/PINS-6008432.md) | Appeal | dismissed | fail |  | no S5(1) category met; benefits do not substantially outweigh the harm, including to sustainable patterns of movement (DL 33) |
+| ★ [Land west of Sunnyside, Glentham (three over-55s dwellings)](../cases/PINS-6011337.md) | Appeal | dismissed | fail |  | no exceptional circumstances; benefits do not substantially outweigh harm to countryside character and sustainable patterns of movement (DL 22, 32) |
 | ★ [Land east of New Road, Melksham](../cases/PINS-6007352.md) | Appeal | dismissed | fail |  | benefits do not substantially outweigh adverse effects; no exceptional circumstances; S3 presumption does not apply (DL 28, 31) |
 | ★ [Land off Pickworth Road, Great Casterton (HO11(e) earth-sheltered house)](../cases/PINS-6010934.md) | Appeal | dismissed | fail | very-substantial | combined harms very substantial weight; adverse effects substantially outweigh benefits; no exceptional circumstances (DL 32, 50-51) |
 | ★ [Cud Hill House barn, Upton Hill, Upton St Leonards](../cases/PINS-6005652.md) | Appeal | dismissed | fail |  | benefits would not substantially outweigh the adverse effects, including countryside character and sustainable movement (DL 40) |
@@ -5477,6 +6044,7 @@ Jump to: [AnnexA](#annexa) · [AnnexB](#annexb) · [AnnexD](#annexd) · [AnnexF]
 | ★ [Land East of College Road South, Aston Clinton](../cases/PINS-6008253.md) | Appeal | allowed | pass |  | exceptional circumstances; substantial benefits substantially outweigh moderate countryside harm (DL 81, 85) |
 | ★ [The Pigs, Leesthorpe Road, Pickwell](../cases/PINS-6008693.md) | Appeal | dismissed | fail |  | benefits "modest" with a 7.6-year supply; no exceptional circumstances (DL 22) |
 | ★ [Land South of Mount Pleasant Cottage, Poundstock](../cases/PINS-6010020.md) | Appeal | dismissed | fail |  | substantial weight to the secured custom-build unit, very limited to other benefits; no exceptional circumstances against very substantial character harm (DL 22-23) |
+| ★ [Paddock north of Spring Acres, West End Lane, Henfield (PIP, up to 9 self-build homes)](../cases/PINS-6006961.md) | Appeal | dismissed | fail |  | benefits would not substantially outweigh the harm to character and appearance, even taking a pragmatic view of access to sustainable transport (DL 33-35) |
 | ★ [Overs Farm, Haughton, Tasley, Bridgnorth (wigwam cabins)](../cases/PINS-6008804.md) | Appeal | dismissed | fail |  | no exceptional circumstances; benefits do not substantially outweigh harm (DL 19) |
 | ★ [Land on road from Frost Cross to Oldborough Cross, Morchard Bishop](../cases/PINS-6012985.md) | Appeal | dismissed | fail |  | benefits do not substantially outweigh harm to sustainable patterns of movement (substantial weight) (DL 18-22) |
 | ★ [Land off Middlebridge Road, Gringley-on-the-Hill](../cases/PINS-6006950.md) | Appeal | dismissed | fail |  | benefits substantially outweighed; no exceptional circumstances (DL 32, 50) |
@@ -5511,12 +6079,21 @@ Jump to: [AnnexA](#annexa) · [AnnexB](#annexb) · [AnnexD](#annexd) · [AnnexF]
 | ★ [Duffledown Farm, Wyre Piddle Bypass, Upper Moor (site manager's dwelling, retrospective)](../cases/wychavon-W-26-01447-FUL.md) | Delegated | refused | determinative |  |  |
 | ★ [Land at OS 9294 4914, Stonebow Road, Drakes Broughton (50 dwellings)](../cases/wychavon-W-26-01322-OUT.md) | Delegated | refused | fail |  | no exceptional circumstances; the benefits do not "substantially outweigh" the adverse effects |
 
-### S5(5)  (not-engaged 13, pass 11, determinative 8, fail 7, neutral 1)
+### S5(5)  (pass 16, not-engaged 16, fail 11, determinative 8, neutral 1)
 
 | Case | Maker | Outcome | Finding | Weight | Note |
 | --- | --- | --- | --- | --- | --- |
+| ★ [Land east of Wymers Wood Road, Burnham (self-build dwelling)](../cases/PINS-6005162.md) | Appeal | allowed | pass |  | not inappropriate, so approve unless benefits substantially outweighed, applying S5(2); no trigger policy failed (DL 44-45) |
+| ★ [Oozedam, High Road, Fobbing (5 dwellings behind the frontage, grey belt)](../cases/PINS-6008679.md) | Appeal | dismissed | fail |  | not inappropriate, so approve unless benefits substantially outweighed, applying S5(2); benefits substantially outweighed by the character harm (DL 44, 46) |
+| ★ [Land at Dunvilles Farm, Bollington Lane, Monks Heath (PIP, 5 dwellings, grey belt)](../cases/PINS-6010578.md) | Appeal | allowed | pass |  | not inappropriate, so approve unless benefits substantially outweighed, applying S5(2); benefits "not outweighed by any adverse effects" (DL 33-34) |
+| [55 Boundary Lane, St Leonards and St Ives (static caravan as rental home)](../cases/PINS-6012115.md) | Appeal | dismissed | not-engaged |  | inappropriate and no VSC, so "policy S5 of the Framework is not engaged" (DL 25) |
+| ★ [Lower Fawke Farm, Bitchet Green Road, Fawke Common, Underriver](../cases/PINS-6004899.md) | Appeal | allowed | pass |  | not inappropriate, so approve unless benefits substantially outweighed, applying S5(2); no adverse effects and no trigger policy failed (DL 31, 33) |
+| ★ [Milan Villa, Hyde Wood Lane, Canewdon (replacement dwelling)](../cases/PINS-6008122.md) | Appeal | dismissed | fail |  | not inappropriate, but benefits substantially outweighed by the BNG and N2 conflict (DL 21, 23) |
+| ★ [Land adjacent to 1 Ninesprings Cottage, Wymondley Road, Hitchin (PIP)](../cases/PINS-6009720.md) | Appeal | allowed | pass |  | not inappropriate, so approve unless benefits substantially outweighed; no adverse effects found (DL 28, 31) |
 | ★ [Land adjacent 837 Manchester Road, Linthwaite](../cases/PINS-6006003.md) | Appeal | dismissed | fail |  | S5(5) with S5(2) applied; DP3(3) failure means benefits substantially outweighed (DL 32-33) |
+| ★ [Balne Moor Coarse Fishery, Balne Moor Road, Balne (manager's dwelling)](../cases/PINS-6010112.md) | Appeal | dismissed | fail |  | not inappropriate, but the HO11 conflict substantially outweighs the benefits (DL 30, 34) |
 | [Upper Farm, Shut Lane Head, Newcastle-under-Lyme](../cases/PINS-6007668.md) | Appeal | dismissed | not-engaged |  | S5 does not apply to inappropriate Green Belt development (DL 31) |
+| ★ [Land west of 103 Tonbridge Road, Hildenborough (PIP, 5 to 7 homes)](../cases/PINS-6010459.md) | Appeal | allowed | pass |  | not inappropriate, so approve unless benefits substantially outweighed, applying S5(2); benefits not substantially outweighed (DL 28-29) |
 | [Land near Fanshawes, Ware Park, Ware](../cases/PINS-6006224.md) | Appeal | dismissed | not-engaged |  | S5 does not apply in the Green Belt; decided under GB6/GB7 (DL 29) |
 | ★ [Adj Grassmere, Horseman Side, Navestock (self-build dwelling in garden)](../cases/PINS-6009849.md) | Appeal | allowed | pass |  | S5 directs to GB6-GB8, then S5(2); no "should be refused" policy breached; benefits not substantially outweighed (DL 36-40) |
 | [Land adjacent Langley Cricket Club, Cock Hall Lane, Langley, Macclesfield (PIP one dwelling)](../cases/PINS-6010253.md) | Appeal | dismissed | not-engaged |  | presumption does not apply to inappropriate Green Belt development without VSC (DL 37) |
@@ -5552,18 +6129,22 @@ Jump to: [AnnexA](#annexa) · [AnnexB](#annexb) · [AnnexD](#annexd) · [AnnexF]
 | ★ [Land off Moor Road, Croston](../cases/chorley-25-01052-FULMAJ.md) | Committee | refused | determinative |  |  |
 | ★ [Parcel 0014, Charlton Road, Keynsham](../cases/bathnes-25-04952-EOUT.md) | Committee | approved | pass |  | harms (limited/moderate/limited) do not substantially outweigh benefits; S5(2) not triggered |
 | [Land adjacent to Woodlands Cottage, Oxhey Lane, Carpenders Park](../cases/threerivers-25-2168-OUT.md) | Committee | refused | not-engaged |  | officers' route (not inappropriate → S5(5) 'substantially outweighed') rejected by members |
+| ★ [144 Malthouse Lane, Earlswood](../cases/stratford-26-01542-FUL.md) | Delegated | refused | fail |  | not inappropriate, so "should be granted unless benefits of doing so would be substantially outweighed by any adverse effects" (p.13); refused on that balance, though the concluding sentence is worded the wrong way round |
+| [Bridge Farm, Birmingham Road, Kings Coughton](../cases/stratford-26-01447-FUL.md) | Delegated | approved | not-engaged |  | "Policy S5 does not apply to sites within the Green Belt" (p.3); inappropriate development, so no S5(5) balance |
+| [Ardencroft, Cloweswood Lane, Earlswood](../cases/stratford-26-01614-FUL.md) | Delegated | refused | not-engaged |  | S5 "does not apply to development proposals within the Green Belt"; assessed under GB6 and GB7 (p.2); the scheme was inappropriate, so no S5(5) balance |
 | ★ [Land south of The Farm House, Church Road, Stonnall (up to 2 dwellings)](../cases/lichfield-26-00855-OUT.md) | Delegated | approved | pass |  | once not inappropriate under GB7, "should be approved unless the benefits … would be substantially outweighed" |
 | ★ [Fanday, Brandheath Lane, New End, Astwood Bank (1-5 dwellings PIP)](../cases/wychavon-W-26-01639-PIP.md) | Delegated | refused | not-engaged |  | S5 does not apply in the Green Belt; the proposal is taken to GB6/GB7 |
 | ★ [The Barn, Tithe Barn Lane, Earlswood (Hockley Heath)](../cases/stratford-26-01458-FUL.md) | Delegated | approved | determinative |  |  |
 
 ## S6
 
-### S6  (not-engaged 10, neutral 2, fail 1, accord 1)
+### S6  (not-engaged 14, neutral 2, fail 1, accord 1)
 
 | Case | Maker | Outcome | Finding | Weight | Note |
 | --- | --- | --- | --- | --- | --- |
 | [Land North of A507, West of A10, Buntingford](../cases/PINS-6008238.md) | Appeal | allowed | not-engaged |  | neighbourhood plan made in 2017, more than five years old (DL 27) |
 | [The Pigs, Leesthorpe Road, Pickwell](../cases/PINS-6008693.md) | Appeal | dismissed | not-engaged |  | neighbourhood plan made more than five years ago; the letter describes S6 as weighing "in favour of the benefits of housing proposals over any conflict", which inverts S6 (DL 23) |
+| [Paddock north of Spring Acres, West End Lane, Henfield (PIP, up to 9 self-build homes)](../cases/PINS-6006961.md) | Appeal | dismissed | not-engaged |  | Henfield Neighbourhood Plan passed five years in June 2026, so S6 no longer applies (DL 36) |
 | ★ [Land SW Sibson Road, Sheepy Parva](../cases/PINS-6009220.md) | Appeal | dismissed | fail |  | conflict with NP; NP said to have become part of development plan five years or less ago and to contain allocations meeting its requirement, so benefits likely substantially outweighed (DL 13-15) — but DL 7 calls it the "2019" NP |
 | ★ [Land off Cheddington Road, Pitstone](../cases/PINS-6010848.md) | Appeal | dismissed | not-engaged |  | neighbourhood plan made 2016, more than five years old (DL 33) |
 | [Land between Rudyard Road and Hot Lane, Biddulph Moor](../cases/PINS-6011103.md) | Appeal | allowed | neutral |  | no evidence to assess; even if engaged benefits outweigh (DL 33) |
@@ -5574,6 +6155,9 @@ Jump to: [AnnexA](#annexa) · [AnnexB](#annexb) · [AnnexD](#annexd) · [AnnexF]
 | ★ [Land off Beech Lane, Kislingbury (58 dwellings)](../cases/westnorthants-WNS-2022-0673-MAF.md) | Committee | refused | not-engaged | very-limited | the 2017 neighbourhood plan is more than five years old, so its boundary and allocation conflict gets very limited weight |
 | ★ [Land south of London Road, Rockbeare (Cranbrook edge)](../cases/eastdevon-26-0534-MOUT.md) | Committee | approved | not-engaged |  | Rockbeare NP made Oct 2018 (more than five years old), so conflict with NP Green Wedge and development-limit policies does not trigger S6 |
 | [Home Farm, Land off A423, Southam](../cases/stratford-25-00346-OUT.md) | Committee | approved | not-engaged |  | Southam NDP made 11 Jul 2023 with allocations, but allocations treated as out of date under the IPPS (June 2026), so the allocations limb failed (decided under the old para 14 wording) |
+| [The Hill, Warwick Road, Stratford-upon-Avon](../cases/stratford-26-01141-FUL.md) | Delegated | approved | not-engaged |  | neighbourhood plan made December 2018 (p.7) |
+| [144 Malthouse Lane, Earlswood](../cases/stratford-26-01542-FUL.md) | Delegated | refused | not-engaged |  | neighbourhood plan made 2022 with no housing allocations (p.4) |
+| [Field south of The Slade, Fenny Compton](../cases/stratford-26-01801-FUL.md) | Delegated | approved | not-engaged |  | neighbourhood plan made 2023 "but does not contain housing allocations (as detailed in the Interim Policy Position Statement)" (p.7) |
 | [Forest Farm, Welford Road, Long Marston](../cases/stratford-26-01906-PIP.md) | Delegated | approved | accord |  | officer states Long Marston NDP is within 5 years and has sufficient allocations, so S6 would bite on any conflict; scheme accords with DEV3 (within BUAB) |
 | [Church View, Back Street, Ilmington](../cases/stratford-26-01399-PIP.md) | Delegated | refused | neutral |  | IPPS treats Ilmington NDP (made July 2021, with allocations) as "in date"; significant weight to NDP |
 
@@ -5653,10 +6237,11 @@ Jump to: [AnnexA](#annexa) · [AnnexB](#annexb) · [AnnexD](#annexd) · [AnnexF]
 
 ## TC2
 
-### TC2  (benefit 5, pass 1, not-engaged 1, fail 1)
+### TC2  (benefit 6, pass 1, not-engaged 1, fail 1)
 
 | Case | Maker | Outcome | Finding | Weight | Note |
 | --- | --- | --- | --- | --- | --- |
+| [10 West Street, Weston-super-Mare (shop unit merged into the dwelling above)](../cases/PINS-6010305.md) | Appeal | dismissed | benefit | limited | TC2 substantial weight to supporting town centre vitality, including through residential, acknowledged; with no net gain in dwellings the benefits to vitality "would be limited" (DL 33) |
 | [5 More London Place, Southwark (restaurant pergola and awning)](../cases/PINS-6001859.md) | Appeal | dismissed | benefit |  | TC2 substantial weight to town-centre vitality said to be relevant, but the social and economic benefits are "modest", which limits their weight (DL 22-23) |
 | [Former Revolution Bar, Maxwell Road, Beaconsfield](../cases/PINS-6007582.md) | Appeal | dismissed | benefit | substantial | town centre vitality incl. residential diversification (DL 42) |
 | [406-410 Beverley Road, Kingston upon Hull](../cases/PINS-6009228.md) | Appeal | dismissed | benefit | substantial | substantial weight to supporting town-centre vitality and local shops, and L2 better use of land (DL 35) |
@@ -5665,6 +6250,12 @@ Jump to: [AnnexA](#annexa) · [AnnexB](#annexb) · [AnnexD](#annexd) · [AnnexF]
 | [23 Manchester Street, Luton (shop to takeaway)](../cases/PINS-6009647.md) | Appeal | dismissed | not-engaged |  | not cited; vitality and viability assessed under local policy only |
 | ★ [41a Liverpool Road, Birkdale, Southport](../cases/PINS-6010397.md) | Appeal | allowed | benefit |  | residential intensification supports centre vitality; no evidence the Post Office would close (DL 21) |
 | ★ [Pavement outside 33 Havelock Road, Hastings (BT Street Hub)](../cases/PINS-6004449.md) | Appeal | dismissed | fail | considerable | siting would conflict with the rain-garden layout of the advanced Hastings Town Centre Public Realm Improvement Project, undermining town-centre vitality (DL 9-10, 23) |
+
+### TC2(1)  (conflict 1)
+
+| Case | Maker | Outcome | Finding | Weight | Note |
+| --- | --- | --- | --- | --- | --- |
+| ★ [56 St Giles', Oxford (bookshop to college common room)](../cases/PINS-6013769.md) | Appeal | dismissed | conflict |  | TC2 paraphrased (substantial weight to vitality and viability and to retaining access to local shops); loss of an occupied shop reduces the range of facilities and conflicts with the vitality objective (DL 10) |
 
 ### TC2(1)(a)  (benefit 1)
 
@@ -5732,10 +6323,11 @@ Jump to: [AnnexA](#annexa) · [AnnexB](#annexb) · [AnnexD](#annexd) · [AnnexF]
 
 ## TR2
 
-### TR2  (pass 3, neutral 1, harm 1)
+### TR2  (pass 4, neutral 1, harm 1)
 
 | Case | Maker | Outcome | Finding | Weight | Note |
 | --- | --- | --- | --- | --- | --- |
+| [10 Bradfield Drive, Barking (house to 3-bedroom HMO)](../cases/PINS-6009965.md) | Appeal | dismissed | pass |  | mapped: driveway for two cars and a retained garage give 3 spaces against a worst case of 4; Controlled Parking Zone; local parking policies found broadly consistent with Framework transport policies (DL 13-16) |
 | [Former National Grid Site, Marsh Lane, Stanmore (Aldi)](../cases/PINS-6005822.md) | Appeal | dismissed | neutral |  | 94 spaces v 38 London Plan maximum conflicts with T1/T6.3; but spaces needed for safe functioning (Cadent easement, queuing on Marsh Lane, overspill); "both support and conflict" with Framework (DL 29, 36-52) |
 | [56 Burlington Road, New Malden](../cases/PINS-6009988.md) | Appeal | dismissed | harm |  | mapped; car-free UU incomplete (monitoring fee undefined and unpaid), so on-street parking pressure in CPZ not controlled; London Plan T6 conflict (DL 19-22) |
 | [Wrights Upholstery, Claremont Street, Burnley (student studios)](../cases/PINS-6007776.md) | Appeal | dismissed | pass |  | 5 spaces including 1 accessible; students have low car ownership; accessible location (DL 18-22); mapped from LP IC3 |
@@ -5751,10 +6343,22 @@ Jump to: [AnnexA](#annexa) · [AnnexB](#annexb) · [AnnexD](#annexd) · [AnnexF]
 
 ## TR3
 
-### TR3  (fail 58, pass 42, harm 23, determinative 12, benefit 11, conflict 5, neutral 4, not-engaged 3, accord 1)
+### TR3  (fail 60, pass 48, harm 25, benefit 13, determinative 12, neutral 8, conflict 6, not-engaged 3, accord 1)
 
 | Case | Maker | Outcome | Finding | Weight | Note |
 | --- | --- | --- | --- | --- | --- |
+| ★ [Cornish Marquees, Higher Trevellas, St Agnes (PIP, two dwellings)](../cases/PINS-6008432.md) | Appeal | dismissed | fail | substantial | day-to-day services 2.6 km and 3.4 km away along lanes and a classified road largely without footways or lighting; bus stops 300 m away by an unlit route without pavement; local policy T1 consistent with TR3 and the conflict given substantial weight (DL 19-22, 27) |
+| ★ [The Orchard, Charley Road, Charley (garage conversion to a self-build dwelling)](../cases/PINS-6009255.md) | Appeal | allowed | harm | limited | no public transport nearby, unlit roads without footways, occupiers heavily reliant on private vehicles (DL 10); but low traffic from one dwelling means minimal environmental effects and no realistic rural improvements exist or would be proportionate, so "the conflict with the principles under Policy TR3 would be limited" (DL 18-19); the TR3(1)(a) genuine-choice test is not addressed |
+| [Monometer House, 128 Rectory Grove, Leigh-on-Sea (storage building on stilts over a car park)](../cases/PINS-6009318.md) | Appeal | dismissed | benefit | moderate | location supports sustainable patterns of movement and limits the need to travel by car (DL 17) |
+| ★ [10 Bradfield Drive, Barking (house to 3-bedroom HMO)](../cases/PINS-6009965.md) | Appeal | dismissed | conflict |  | TR3 paraphrased and local T4 and DMT1 found broadly consistent with it; PTAL 0 (very poor); nearest high-frequency bus stops about 0.4 miles away, "a significant distance in this London context"; residents likely to rely on a car for some day-to-day needs; conflict found under the local policies and not carried into the S4 sentence (DL 6-8, 17) |
+| ★ [Land at Dunvilles Farm, Bollington Lane, Monks Heath (PIP, 5 dwellings, grey belt)](../cases/PINS-6010578.md) | Appeal | allowed | pass |  | "a genuine and realistic choice of transport modes"; concern about wheelchair users set aside by reference to the semi-rural context ("I am not convinced that the condition of the local footpaths along renders the location unsustainable"); Highway Officer had accessibility concerns but no objection in principle (DL 24-26) |
+| ★ [55 Boundary Lane, St Leonards and St Ives (static caravan as rental home)](../cases/PINS-6012115.md) | Appeal | dismissed | fail |  | applied through GB7(1)(g)(iii); "absence of genuinely sustainable travel choices" (DL 12); no TR3(1)(a) significant-movement threshold question asked for one unit |
+| ★ [Lower Fawke Farm, Bitchet Green Road, Fawke Common, Underriver](../cases/PINS-6004899.md) | Appeal | allowed | pass |  | no footways or lighting, fast roads, users reliant on private transport; but TR3 read with E4 (rural business sites may be poorly served by public transport), movements comparable to the existing use, not a significant amount of movement, and no reasonable opportunities to improve other modes (DL 17-19) |
+| [Land west of Leicester Road (B6047), Market Harborough (PIP, 5 to 9 dwellings)](../cases/PINS-6008177.md) | Appeal | allowed | neutral |  | mapped: TR3 not cited; the location lacks meaningful and dedicated pedestrian infrastructure, a matter left to the technical details stage (DL 15, 22) |
+| [6 and 6a Fairview Road, Wednesfield, Wolverhampton](../cases/PINS-6009135.md) | Appeal | dismissed | benefit |  | mapped - urban location within walking distance of bus routes weighs in favour, in TR3 wording; TR3 not named (DL 23, 31) |
+| [Land adjacent to 1 Ninesprings Cottage, Wymondley Road, Hitchin (PIP)](../cases/PINS-6009720.md) | Appeal | allowed | pass |  | accords with TR3; scale means no significant adverse impact on the transport network (DL 20) |
+| [Land north of the Bower House, Clatterbury Lane, Clavering](../cases/PINS-6010951.md) | Appeal | dismissed | pass |  | TR3 not named but its wording used; footway opposite, services under 1 km, buses to Saffron Walden and Bishop's Stortford, unlit roads at 30 mph (DL 25) |
+| [Happy Hounds Hotel, Back Lane, Weeton (PIP, up to 2 dwellings on kennels site)](../cases/PINS-6012202.md) | Appeal | allowed | harm | moderate | no continuous lit footway to Weeton or the nearest bus stop; unlit public right of way unsuitable in bad weather, darkness or with pushchairs and wheelchairs; heavy reliance on private vehicles, moderated by the existing business's trips and short driving distances; "at odds with the principles" of TR3 (DL 10-11, 18-19) |
 | [Former National Grid Site, Marsh Lane, Stanmore (Aldi)](../cases/PINS-6005822.md) | Appeal | dismissed | conflict |  | PTAL 2; TR1 and TR3 cited as reinforcing the town-centre-first conflict (DL 44, 52, 96); no walking-route analysis |
 | [Land adjacent to 33A Chelford Road, Somerford (PIP, Jodrell Bank WHS)](../cases/PINS-6008864.md) | Appeal | dismissed | harm | limited | mapped: TR3 not cited; bus, rail and services beyond local-plan distances; car reliance likely, but "relatively short in time and distance, when undertaken by private vehicle", so limited harm (DL 10-15) |
 | [Somerville, Mingoose Vale, Towan Cross, Truro (affordable PIP)](../cases/PINS-6009030.md) | Appeal | dismissed | pass |  | mapped - few services, but fairly regular buses to St Agnes and Truro; no pavement to the stops yet "easily reached on foot"; reduced accessibility expected for rural exception sites; TR3 not cited (DL 15, 18) |
@@ -5791,6 +6395,7 @@ Jump to: [AnnexA](#annexa) · [AnnexB](#annexb) · [AnnexD](#annexd) · [AnnexF]
 | [Pigeon Farm Cottage, Cold Harbour Lane, Bobbing](../cases/PINS-6010408.md) | Appeal | dismissed | neutral |  | 13-minute walk to bus stops; no evidence on connectivity of alternatives, so no locational advantage shown (DL 21, 23) |
 | [Beechwood House, Willoughby Road, West Willoughby](../cases/PINS-6010911.md) | Appeal | dismissed | not-engaged |  | TR3 not cited; access judged under plan policies SD1 and ID2 and found acceptable despite an unlit footway and a considerable distance to services, with a bus and cycling available (DL 15-18) |
 | ★ [236 Hawkes Mill Lane, Coventry](../cases/PINS-6011410.md) | Appeal | allowed | pass |  | accords (DL 15) |
+| [Land north of Scrubs Farm, Lower Gravel Road, Bromley (padel courts)](../cases/PINS-6012303.md) | Appeal | allowed | neutral |  | mapped: TR3 not cited; PTAL 0 and no footway on the 130 m access lane, but a bus garage with four services 800 m away and Petts Wood station a 30-minute walk; "not situated in a particularly sustainable location" yet acceptable on balance with the benefits; not a refusal reason (DL 24-25) |
 | [The Lamb Inn, Lambs Green, Rusper (coach house, two units)](../cases/PINS-6007772.md) | Appeal | allowed | harm |  | mapped - TR3 not cited; limited accessibility, no footways or lighting, narrow unlit right of way, heavy car reliance; counted only as reinforcing the local-plan conflict (DL 12-13, 36) |
 | ★ [Land North of A507, West of A10, Buntingford](../cases/PINS-6008238.md) | Appeal | allowed | pass |  | services within 2 km; Connectivity Tool 45, district band B; lit and widened PROW 35/36, new stepped footbridge and active-travel bridge, shared route on Baldock Road, bus services 331 (30-minute), 18 and 37 into the site, travel plan; "genuine choice" found (DL 59-94) |
 | [Land East of College Road South, Aston Clinton](../cases/PINS-6008253.md) | Appeal | allowed | pass |  | mapped - "agreed accessible location"; "well located in terms of facilities and services"; TR3 not cited; bus contribution and off-site highway works secured (DL 41-42, 57, 80) |
@@ -5800,7 +6405,9 @@ Jump to: [AnnexA](#annexa) · [AnnexB](#annexb) · [AnnexD](#annexd) · [AnnexF]
 | ★ [Land at 260A Hawkes Mill Lane, Allesley, Coventry](../cases/PINS-6009837.md) | Appeal | allowed | pass |  | TR3 paraphrased incl. rural practicability; accords (DL 11, 13) |
 | [Land South of Mount Pleasant Cottage, Poundstock](../cases/PINS-6010020.md) | Appeal | dismissed | not-engaged |  | TR3 not cited; access judged under plan policies CLP 27, CEDP C1(6), T1 and passed on short car trips to Bude and two-hourly buses "given its rural context", despite no footway or lighting on the A39 (DL 13-18) |
 | [Land south of Darlifields, Heywood Road, Tibenham (two self-build dwellings, outline)](../cases/PINS-6010418.md) | Appeal | dismissed | fail |  | mapped - TR3 not cited; narrow road without footpaths or lighting, heavy car reliance; 2024 "vary between urban and rural areas" acknowledged but not relied on (DL 17-18) |
+| [Percy Wood Golf Club and Country Retreat, Swarland (180 caravans and lodges, leisure hub)](../cases/PINS-6010440.md) | Appeal | allowed | neutral |  | mapped: TR3 not cited; residents raised the lack of services and public transport; answered by a travel plan and the comment that such developments are often in rural locations (DL 12) |
 | ★ [Land off Oakdene Crescent, Hatton Station, Warwick](../cases/PINS-6006637.md) | Appeal | dismissed | fail |  | location does not limit need to travel; no genuine choice of modes; signage, markings and possible 20 mph TRO too minor or uncertain (DL 27-39) |
+| [Paddock north of Spring Acres, West End Lane, Henfield (PIP, up to 9 self-build homes)](../cases/PINS-6006961.md) | Appeal | dismissed | neutral |  | mapped: TR3 not cited; highway authority did not object but called the location not sustainable in transport terms (very limited public transport, no footways); the inspector left accessibility undecided and assumed it in the appellant's favour (DL 11-12, 35) |
 | [Boltons Farm, Blackgate Lane, Tarleton](../cases/PINS-6007484.md) | Appeal | allowed | pass |  | see GB7(1)(g)(iii); TR3(1)(a) paraphrased but the operative reasoning is the 2024 rural-variation phrase (DL 13-15) |
 | [4 Whurley Way, Maidenhead](../cases/PINS-6008337.md) | Appeal | dismissed | benefit |  | code mapped by harvester — walking distance of buses and Maidenhead station (DL 29) |
 | ★ [Land adjacent to Farm View Cottage (Frith Manor), Lingfield Road, East Grinstead](../cases/PINS-6008688.md) | Appeal | dismissed | fail |  | no "genuinely attractive choice of transport modes"; no Connectivity Tool assessment by either party noted (DL 17-18) |
@@ -5897,6 +6504,7 @@ Jump to: [AnnexA](#annexa) · [AnnexB](#annexb) · [AnnexD](#annexd) · [AnnexF]
 | ★ [Land opposite Camel Valley Cottages, Dunmere Road, Bodmin](../cases/PINS-6007179.md) | Appeal | dismissed | fail | significant | bus stops and Camel Trail reachable only along busy road with no pavement, unlit trail; heavily reliant on private vehicles (DL 8-11, 18) |
 | [Peterstone Lodge, Burnham Road, Burnham Overy Town](../cases/PINS-6009184.md) | Appeal | dismissed | fail |  | code mapped by harvester (not cited) — 60mph B1155, no footway or lighting; only school-day buses (2/day); "reliant upon the use of a car for every trip" (DL 4, 7-8, 11) |
 | ★ [Pine Lodge, Chilworth Drove, Chilworth](../cases/PINS-6009745.md) | Appeal | dismissed | fail |  | narrow unlit hedged single-track lanes, no footway — "almost wholly dependent upon the car"; applied as 2024 Framework transport objectives (DL 14-18) |
+| [Land to the rear of Edoras, Banbury Road, Pillerton Priors](../cases/stratford-26-01894-PIP.md) | Committee | refused | pass |  | officer view - "a sustainable settlement" with pavements, a village hall, a petrol station and a bus service, but "The level of sustainability is of course not high" (Report p.9) |
 | ★ [Land at Kenyons Lane / Millbank Lane, Lydiate (Maghull edge)](../cases/sefton-DC-2026-00141.md) | Committee | approved | determinative |  |  |
 | ★ [Land adjacent to Alfred King Close, Shavington](../cases/cheshireeast-26-0640-FUL.md) | Committee | approved | pass |  | bus stops a short walk (2 buses/hour), footways, NCR 551, schools/medical centre/shop within walking distance; Connectivity Tool Local Authority Band B |
 | [Bourton Industrial Park, Bourton-on-the-Water (Aldi and drive-thru)](../cases/cotswold-25-03800-FUL.md) | Committee | approved | pass |  | over 1 km from the village centre, but lit footways, flat routes and nearby bus stops; not reliant solely on the car |
@@ -5908,6 +6516,7 @@ Jump to: [AnnexA](#annexa) · [AnnexB](#annexb) · [AnnexD](#annexd) · [AnnexF]
 | [Land south of London Road, Rockbeare (Cranbrook edge)](../cases/eastdevon-26-0534-MOUT.md) | Committee | approved | pass |  | c.1 km to Cranbrook town centre; bus stops 10-600 m (44/44A); station 2.9 km; new pedestrian/cycle link Rockbeare-Cranbrook |
 | ★ [Land of the former Knowle House, Sagars Road, Handforth (care home)](../cases/cheshireeast-25-2053-FUL.md) | Committee | approved | determinative |  |  |
 | ★ [Coblands Nursery, Trench Road, Tonbridge](../cases/tmbc-25-01976-PA.md) | Committee | approved | determinative |  |  |
+| [Land at Windmill Lane, Ladbroke](../cases/stratford-26-01660-OUT.md) | Delegated | approved | pass |  | one infrequent bus service; the car trip to Southam "around 6-7 minutes"; "no made footpath from the application site into Southam"; these factors "would weigh against the proposal", yet the scheme "accords well" with S5 and TR3 (p.5) |
 | ★ [Land south of The Farm House, Church Road, Stonnall (up to 2 dwellings)](../cases/lichfield-26-00855-OUT.md) | Delegated | approved | determinative |  |  |
 | [Land at OS 9574 5003, Seaford, Pinvin (barn replaced by self-build dwelling)](../cases/wychavon-W-26-00329-FUL.md) | Delegated | approved | fail |  | B4802 has no footways or lighting; limited buses; residents "reliant on the private car for almost all journeys" |
 | [Land at OS 8339 4949, Upton Road, Callow End (5-9 dwellings PIP)](../cases/malvern-M-26-01162-PIP.md) | Delegated | refused | pass |  | Callow End is a Category 1 village with services and public transport within walking and cycling distance; residents "would arguably have a 'choice'" |
@@ -5922,10 +6531,13 @@ Jump to: [AnnexA](#annexa) · [AnnexB](#annexb) · [AnnexD](#annexd) · [AnnexF]
 | ★ [Land east of Nordic Barn, Kilkhampton, Bude (glamping pods)](../cases/PINS-6009443.md) | Appeal | dismissed | fail | substantial | Bude c.4 miles on narrow unlit lanes without pavements; buses three each way weekdays, request stops on 60 mph road; TR3(1)(e) rural constraint acknowledged but not enough (DL 16-18, 21, 25) |
 | ★ [Greenhill Farm, Greenhill Lane, Hallow (former business buildings to self-build dwelling)](../cases/malvern-M-26-01131-FUL.md) | Delegated | refused | fail | substantial | about 500 m to Hallow along an unlit, unpaved, narrow sunken lane with no passing places; walking and cycling are theoretical, not realistic |
 
-### TR3(1)(a)  (harm 4, pass 2, benefit 1, fail 1)
+### TR3(1)(a)  (harm 4, pass 3, fail 3, benefit 1)
 
 | Case | Maker | Outcome | Finding | Weight | Note |
 | --- | --- | --- | --- | --- | --- |
+| [Land east of Wymers Wood Road, Burnham (self-build dwelling)](../cases/PINS-6005162.md) | Appeal | allowed | pass |  | single dwelling at the village edge not a significant amount of movement (DL 23); site about 1 km north of the village high street (DL 27) |
+| ★ [Land at Mushroom Lane, Brigsley (outline, nine dwellings)](../cases/PINS-6009363.md) | Appeal | dismissed | fail | considerable | letter says "TR3(1a)"; no services within 500 m; Brigsley's limited services 500 to 1,000 m away along a narrow unlit footpath; Waltham's services beyond 1,000 m; no bus frequency evidence; Connectivity Tool results consistent with poor connectivity (DL 13-17, 23) |
+| ★ [Land west of Sunnyside, Glentham (three over-55s dwellings)](../cases/PINS-6011337.md) | Appeal | dismissed | fail |  | letter says "TR3(1a)"; village has a small shop and very limited services; no evidence of bus frequency; Connectivity Tool score particularly low; poorly connected and car-reliant (DL 23-25) |
 | [Beech Grove, Brock Road, Great Eccleston (barn to live/work)](../cases/PINS-6008848.md) | Appeal | dismissed | pass |  | limited scale means little movement, so not the type of development TR3(1)(a) is "principally directed" at (DL 19) |
 | ★ [Land north of Spring Hill, Kingston Bagpuize with Southmoor](../cases/PINS-6005809.md) | Appeal | allowed | pass |  | 20-minute bus to Oxford outside the site; walk to primary school about double the 800 m walkable-neighbourhood figure but comparable to existing homes, footway upgrades secured (DL 47-53) |
 | [Land off Jago Green, Snitterfield Lane, Snitterfield](../cases/stratford-26-00617-PIP.md) | Committee | approved | harm | limited | the report gave limited weight to about 100 m of walking in the carriageway (existing Jago Green residents already do so; WCC Highways did not object); the Update Report then corrected the route, saying the proposed Park Lane footpath means no pedestrian needs to walk in the public highway |
@@ -5950,19 +6562,23 @@ Jump to: [AnnexA](#annexa) · [AnnexB](#annexb) · [AnnexD](#annexd) · [AnnexF]
 | ★ [Sleepy Corner, Stibb Cross, Torrington (footway condition)](../cases/PINS-6010706.md) | Appeal | allowed | pass |  | rural opportunities to improve walking etc. to be taken where they can be supported by the development; a footway for one dwelling not necessary or proportionate (DL 5, 9-12) |
 | ★ [Cedar Wood, Seaford Lane, Naunton Beauchamp (1 self-build dwelling PIP)](../cases/wychavon-W-26-01828-PIP.md) | Delegated | approved | fail |  | the village has no key services; the bus stop is 2 km away; national speed limit lane with no footway or lighting; "the location of the site is not considered to promote sustainable transport measures" |
 
-### TR3(2)  (pass 1, fail 1)
+### TR3(2)  (pass 3, fail 1)
 
 | Case | Maker | Outcome | Finding | Weight | Note |
 | --- | --- | --- | --- | --- | --- |
+| [Land east of Wymers Wood Road, Burnham (self-build dwelling)](../cases/PINS-6005162.md) | Appeal | allowed | pass |  | Connectivity Tool result "average or above average", relative to the method of travel and the semi-rural location; comparator not stated (DL 28) |
+| [Land at Dunvilles Farm, Bollington Lane, Monks Heath (PIP, 5 dwellings, grey belt)](../cases/PINS-6010578.md) | Appeal | allowed | pass |  | Connectivity Tool score 33, "an above average result for a site in this type of location" and comparable to 29-34 at nearby approved schemes (DL 18) |
 | ★ [Land south of Coppice Road, Higher Poynton](../cases/PINS-6010471.md) | Appeal | allowed | pass |  | first recorded appellate use of the Connectivity Tool, supporting (not deciding) the conclusion (DL 20) |
 | ★ [Fanday, Brandheath Lane, New End, Astwood Bank (1-5 dwellings PIP)](../cases/wychavon-W-26-01639-PIP.md) | Delegated | refused | fail |  | Connectivity Tool used "alongside other relevant qualitative and quantitative evidence" |
 
 ## TR4
 
-### TR4  (pass 22, fail 17, benefit 2, neutral 2, accord 1, determinative 1, conflict 1, harm 1)
+### TR4  (pass 22, fail 17, conflict 2, accord 2, benefit 2, neutral 2, determinative 1, harm 1)
 
 | Case | Maker | Outcome | Finding | Weight | Note |
 | --- | --- | --- | --- | --- | --- |
+| ★ [2 Ridge Hill Lane, Stalybridge (house to 6-bedroom HMO)](../cases/PINS-6010069.md) | Appeal | dismissed | conflict |  | no off-street parking; up to six occupants parking on a frontage next to filter lanes at a busy junction; "an unacceptable risk to highway safety"; the Framework conflict is put under TR4 "with regard to parking provision" (TR6 not cited) (DL 5-11, 34) |
+| [The Little Boatyard, Lime Street, Brightlingsea (timber cabin for light industrial use)](../cases/PINS-6010933.md) | Appeal | allowed | accord |  | private unmade road in reasonable condition, low speeds, passing places; no material intensification over the existing B8 use; letter cites TR3 and TR4 together for highway safety (DL 18-22) |
 | [40 Gladstone Street, Scarborough (house to 7-bed HMO)](../cases/PINS-6012886.md) | Appeal | dismissed | fail | moderate | mapped: no off-street parking in a controlled, heavily parked area; only 5 cycle spaces for 7 bedrooms, detail lacking; low car ownership unevidenced (DL 15-20, 24) |
 | [65A Richmond Wood Road, Bournemouth (8-person HMO)](../cases/PINS-6007836.md) | Appeal | dismissed | accord |  | mapped - no on-site parking accords with the 2021 SPD (one space required); accessible location; no highways objection (DL 21-24) |
 | ★ [Pavement outside 137 Chiswick High Road (BT Street Hub)](../cases/PINS-6012328.md) | Appeal | dismissed | fail |  | obstruction on a busy footway beside cycle stands, bus stops and a crossing, particularly for disabled and visually impaired people; Inclusive Mobility widths met but "guidance only" (DL 25-27) |
@@ -6063,10 +6679,23 @@ Jump to: [AnnexA](#annexa) · [AnnexB](#annexb) · [AnnexD](#annexd) · [AnnexF]
 
 ## TR6
 
-### TR6  (pass 26, fail 14, neutral 4, determinative 2, not-engaged 1, accord 1)
+### TR6  (pass 34, fail 17, neutral 4, harm 2, determinative 2, not-engaged 1, accord 1)
 
 | Case | Maker | Outcome | Finding | Weight | Note |
 | --- | --- | --- | --- | --- | --- |
+| [Land adjacent to 2 New Ealing Broadway, Ealing (BT Street Hub with advert screens)](../cases/PINS-6008483.md) | Appeal | dismissed | harm |  | mapped: letter says "contrary to the highway safety provisions of the Framework"; unit near the kerb by a busy crossing would block views between pedestrians and road users; precautionary approach without sightline evidence (DL 29-37) |
+| [West Court Land, Park Lane, Finchampstead (telecoms lattice mast, prior approval)](../cases/PINS-6011060.md) | Appeal | dismissed | pass |  | mapped: no harm to highway safety from construction or occasional maintenance visits (DL 18-20) |
+| [Lot B2a, Upper Bourne End Lane, Hemel Hempstead (outdoor wellbeing use and office unit)](../cases/PINS-6011489.md) | Appeal | dismissed | harm | significant | mapped: Framework highway policy not cited; no parking proposed or shown, visitors most likely to come by car, access and parking in the area very constrained; conflict with local CS8 and CS12 (DL 10-11) |
+| [403 King's Road, Chelsea (JOLT electric vehicle charge point with advert screens)](../cases/PINS-6012075.md) | Appeal | dismissed | pass |  | mapped: about 2 m clear footway left, below the Council SPD 3 m but in line with TfL Streetscape Guidance 2,000 mm; no obvious desire line interrupted; no harm to highway safety (DL 17-20) |
+| [35 Cumberland Drive, Bexleyheath (house to children's home)](../cases/PINS-6012368.md) | Appeal | allowed | pass |  | mapped: PTAL 2, four bus routes within walking distance; two on-site spaces by condition; overflow parking not shown to be dangerous (DL 23-26) |
+| [Land east of Halfpenny Lane, Wisbech (352 dwellings, hybrid)](../cases/PINS-6002677.md) | Appeal | allowed | pass |  | no severe impact on the network or unacceptable impact on highway safety; junction upgrades and widening of Halfpenny Lane to 6.5 m (DL 31-32) |
+| [Lower Fawke Farm, Bitchet Green Road, Fawke Common, Underriver](../cases/PINS-6004899.md) | Appeal | allowed | pass |  | access shared with a public footpath; movements not substantially different, smaller vehicles, slow speeds, verges and passing points give refuge (DL 20-21, 23) |
+| [65 Grimshaw Lane, Manchester M40 (first-floor guest house over former pub)](../cases/PINS-6008018.md) | Appeal | dismissed | pass |  | mapped: Framework not cited; limited parking demand, no unacceptable parking stress or highway safety harm; highway authority content (DL 22-26) |
+| [6 and 6a Fairview Road, Wednesfield, Wolverhampton](../cases/PINS-6009135.md) | Appeal | dismissed | pass |  | mapped - parking below the maximum standard; no significant on-street pressure or highway safety effect (DL 19-24) |
+| ★ [Pavement outside 498-504 Fulham Road, London SW6 (multifunctional hub with advert screen)](../cases/PINS-6010445.md) | Appeal | dismissed | fail |  | mapped: Framework not cited; advert would distract drivers at a busy multi-lane roundabout junction with a collision record, and the hub would obstruct pedestrians at a corner pinch point; contrary to local plan T3 and London Plan T2, D5 (DL 19-25) |
+| ★ [Land to the rear of 14 Cross Hills, Kippax (storage unit and car park layout)](../cases/PINS-6011321.md) | Appeal | dismissed | fail | significant | storage unit removed three visitor spaces for an adjoining terrace; substandard bays and manoeuvring; extra movements at an access with restricted visibility; unacceptable highway safety impact; paragraph (4) not cited by number (DL 7-13, 20) |
+| ★ [125-133 Old Brompton Road, London SW7 (JOLT electric vehicle charge point with advert screens)](../cases/PINS-6012098.md) | Appeal | dismissed | fail |  | mapped: Framework not cited; about 2.1 m clear width meets the 2 m guidance, but the footway narrows next door and pedestrians were seen walking across the proposed position; undue obstruction, contrary to local plan TR6(f) and London Plan T4 (DL 18-21) |
+| [Outside 131 Fulham Road, London SW3 (JOLT electric vehicle charge point with advert screens)](../cases/PINS-6012105.md) | Appeal | dismissed | pass |  | mapped: about 2.8 m clear footway left, just below the Council SPD 3 m but above the TfL Streetscape Guidance 2,000 mm; no obvious desire line interrupted; no harm to highway safety (DL 18-21) |
 | [Land east of Hole House Lane, Tosside (food truck)](../cases/PINS-6009649.md) | Appeal | dismissed | pass |  | 2.4 x 43 m splay required by condition despite low measured speeds and flows (DL 23-28) |
 | [Floringham Lodge, Old Bracknell Lane East, Bracknell (46 retirement flats)](../cases/PINS-6009377.md) | Appeal | allowed | pass |  | 72 daily movements; access radii revised; 3-space parking shortfall against new standards, but no on-street parking harm (DL 64-69) |
 | [Ewen House, High Road, Fobbing (pool and annexe)](../cases/PINS-6009919.md) | Appeal | dismissed | pass |  | mapped: long shared drive; limited intensification; no highway harm (DL 40-43) |
@@ -6116,14 +6745,18 @@ Jump to: [AnnexA](#annexa) · [AnnexB](#annexb) · [AnnexD](#annexd) · [AnnexF]
 | ★ [Coblands Nursery, Trench Road, Tonbridge](../cases/tmbc-25-01976-PA.md) | Committee | approved | pass |  | independent highways consultant — no severe impact; monitoring condition with trigger points |
 | [Hales Farm, Fosse Way, Moreton Morrell](../cases/stratford-26-01558-FUL.md) | Delegated | approved | pass |  | no intensification of access |
 
-### TR6(4)  (fail 35, pass 21, not-engaged 1, harm 1)
+### TR6(4)  (fail 37, pass 26, not-engaged 1, harm 1)
 
 | Case | Maker | Outcome | Finding | Weight | Note |
 | --- | --- | --- | --- | --- | --- |
+| ★ [Sunny Bank Kitchen Garden, Killington New Bridge, Killington (market garden barn and polytunnels)](../cases/PINS-6013634.md) | Appeal | allowed | pass |  | existing access with splays of no more than 2.4 m x 15.2 m, well below normal standards; trips already made by the business; very light flows and low speeds unchallenged; no evidence of risk; not development that should be refused (DL 10-13) |
+| ★ [Land west of Leicester Road (B6047), Market Harborough (PIP, 5 to 9 dwellings)](../cases/PINS-6008177.md) | Appeal | allowed | pass |  | mapped: TR6 not cited; required splays of 2.4 m x 160 m rely on third-party land and could not be secured with certainty, giving an unacceptable risk without them, but the constraint could be overcome at technical details stage, so the location is acceptable in principle (DL 16-21) |
+| ★ [259 Wick Road, Hackney, London E9 (takeaway and delivery-only food premises)](../cases/PINS-6010033.md) | Appeal | dismissed | fail |  | narrow pavement, very limited parking and a Red Route frontage; comings and goings by cycles, motorbikes and cars would have an unacceptable impact on highway safety; letter says "paragraph 4 of Policy TR6" (DL 8-11) |
 | [7A Shorefield Cottage, Shorefield Road, Westcliff-on-Sea (replacement dwelling)](../cases/PINS-6008855.md) | Appeal | dismissed | pass |  | narrower crossover could have been secured (DL 38) |
 | ★ [Land off Pickworth Road, Great Casterton (HO11(e) earth-sheltered house)](../cases/PINS-6010934.md) | Appeal | dismissed | fail |  | northern splay needs third-party hedge removal; access width, fire appliance turning and delivery bay not shown (DL 33-39) |
 | [79 Rushdene Crescent, Northolt (vehicle crossover across green)](../cases/PINS-6012788.md) | Appeal | dismissed | pass |  | letter cites TR3 as "concerned with highway safety"; good intervisibility, no material harm despite non-standard dimensions (DL 9, 13) |
 | ★ [69 Wellingborough Road, Rushden (HMO frontage parking, s73)](../cases/PINS-6013651.md) | Appeal | allowed | pass |  | long-standing lawful dropped kerb near an A5001 roundabout; clear visibility; no accident record; two spaces keep use comparable to the former dwelling (DL 6-9, 12) |
+| ★ [Basement Flat, 226 Finchley Road, Camden (parking space and crossover)](../cases/PINS-6008940.md) | Appeal | dismissed | fail | significant | mapped: TR6(4) not cited; the letter refers to "section 15" of the Framework and the safe use of transport and highway networks; reversing across a narrow footway and a bus lane beside a bus stop, with visibility limited by a flanking wall (DL 9-10, 13) |
 | ★ [The Geldings, Bouts Lane, Holberrow Green, Inkberrow (live/work unit)](../cases/PINS-6009011.md) | Appeal | dismissed | fail | very-substantial | no evidence that 60 m splays suit the 40 mph limit (60 mph nearby) or recorded speeds; condition could not mitigate (DL 8-10, 14, 48) |
 | ★ [40 Millers Lane, Harpley (self-build dwelling)](../cases/PINS-6010422.md) | Appeal | dismissed | fail | considerable | Millers Lane too narrow for cars to pass; verge used; six trips a day increase conflict with pedestrians and cyclists; no severe capacity impact (DL 20-24, 50) |
 | ★ [18 Georgia Road, Thornton Heath (6-person HMO)](../cases/PINS-6010710.md) | Appeal | allowed | pass |  | no parking survey (some conflict with DM30 a), but small scale, on-street spaces in side streets, 2 driveway spaces and 8 cycle spaces; no severe or unacceptable impact, so the proposal "should not be refused on highway grounds" (DL 15-23) |
@@ -6134,6 +6767,7 @@ Jump to: [AnnexA](#annexa) · [AnnexB](#annexb) · [AnnexD](#annexd) · [AnnexF]
 | ★ [Eden Grove, 15-51 London Road, Staines-upon-Thames (parking conditions, Appeal B)](../cases/PINS-6007620.md) | Appeal | allowed | pass |  | no unacceptable highway safety impact; highway authority agreed; congestion and nuisance parking are not in themselves safety harm (DL 34-35, 39) |
 | ★ [Land south of The Elms, Chatteris (152 homes, A142 access)](../cases/PINS-6008859.md) | Appeal | allowed | pass |  | 60 mph A142 access; updated surveys show 0.27 RFC post-development against 0.85 tolerance; few, mainly slight injury collisions since 2017; ghost island, tapered junction and crossings; no severe or unacceptable impact (DL 6-13) |
 | ★ [Fairfield Cottage, Cross in Hand Road, Heathfield](../cases/PINS-6009517.md) | Appeal | dismissed | fail | substantial | westbound visibility about 80 m against 116 m needed for 85th percentile speeds of about 43 mph on an A-road carrying over 21,000 vehicles a day; improvement on existing is not enough; no speed data for Herring Lane; no collisions does not show safety (DL 7-16, 29) |
+| [Land north of Scrubs Farm, Lower Gravel Road, Bromley (padel courts)](../cases/PINS-6012303.md) | Appeal | allowed | pass |  | mapped: TR6 not cited; no highway authority objection; peak parking demand of 12 vehicles against 15 spaces (DL 26) |
 | [The Stables, Underriver House Road, Underriver, Sevenoaks](../cases/PINS-6011192.md) | Appeal | allowed | pass |  | existing lawful access; insignificant vehicle movements (DL 16) |
 | ★ [Land adjacent to Unit 17, Lee Bridge Industrial Estate, Halifax](../cases/PINS-6006305.md) | Appeal | dismissed | fail | significant | overspill onto estate circulation areas harms highway safety and free flow (DL 12, 18) |
 | ★ [Erith Cottages, Main Road, Lacey Green](../cases/PINS-6009997.md) | Appeal | dismissed | fail |  | north-west visibility splay needs third-party hedge land; unsafe access on a curving 30 mph road (DL 11-16, 36) |
@@ -6177,17 +6811,21 @@ Jump to: [AnnexA](#annexa) · [AnnexB](#annexb) · [AnnexD](#annexd) · [AnnexF]
 | ★ [Wharfedale Cottage, Wath Lane, Ulleskelf (PiP 1 dwelling)](../cases/PINS-6010426.md) | Appeal | dismissed | fail | substantial | substandard visibility at a multi-road junction; DMRB splays not met; assessed under 2024 Framework wording (DL 9-14, 21) |
 | ★ [Site 64c001, Golf Drive, Nuneaton (junction trigger variation)](../cases/nuneaton-041303.md) | Committee | refused | fail |  | members found that occupying 75 more homes before the Golf Drive/B4112/B4114 junction works were built "is likely to cause a severe adverse impact on the highway network"; officers and the County Highway Authority had found no severe impact |
 | ★ [Cales Farm, Broadlands Drive, Malvern (200 dwellings, reserved matters)](../cases/malvern-M-25-01235-RM.md) | Committee | approved | pass |  | old ¶116 mapped to TR6(4); no severe impact |
+| [Bridge Farm, Birmingham Road, Kings Coughton](../cases/stratford-26-01447-FUL.md) | Delegated | approved | pass |  | county highway authority raised no objection; internal visibility splays to be provided within 3 months by condition (pp.7-8) |
+| [Land at Windmill Lane, Ladbroke](../cases/stratford-26-01660-OUT.md) | Delegated | approved | pass |  | county highway authority raised no objection subject to conditions; no "severe" impact; the report cites "NDMP TR 4" (p.8) |
 | ★ [Land at OS 9294 4914, Stonebow Road, Drakes Broughton (50 dwellings)](../cases/wychavon-W-26-01322-OUT.md) | Delegated | refused | fail |  | insufficient access information (closure of the existing access, fire appliances, visibility), so a severe impact is not ruled out |
 
 ## TR8
 
-### TR8  (harm 1, not-engaged 1, pass 1)
+### TR8  (pass 2, harm 1, not-engaged 1, neutral 1)
 
 | Case | Maker | Outcome | Finding | Weight | Note |
 | --- | --- | --- | --- | --- | --- |
+| [Lower Fawke Farm, Bitchet Green Road, Fawke Common, Underriver](../cases/PINS-6004899.md) | Appeal | allowed | pass |  | public rights of way function acceptably; permissive paths offered but not necessary (DL 21, 23) |
 | [Land North of A507, West of A10, Buntingford](../cases/PINS-6008238.md) | Appeal | allowed | harm | limited | limited localised harm to users' experience of PROW 40 and 41 (DL 121, 164) |
 | [Beech Grove, Brock Road, Great Eccleston (barn to live/work)](../cases/PINS-6008848.md) | Appeal | dismissed | not-engaged |  | no PROW affected or opportunity arising (DL 20) |
 | ★ [16-20 Banksfield Avenue, Yeadon (garden extension across PROW)](../cases/PINS-6010787.md) | Appeal | allowed | pass |  | no harm to free and unobstructed use of the PROW; TR8 "formerly Paragraph 105" (DL 13) |
+| [Land to the rear of Edoras, Banbury Road, Pillerton Priors](../cases/stratford-26-01894-PIP.md) | Committee | refused | neutral |  | officer view - the Update Sheet reports an objection from the county Rights of Way team (the definitive line of footpath SS11 crosses the rear garden); officers said a diversion could be secured at technical details stage; not a refusal reason |
 
 ## Transitional
 
@@ -6200,20 +6838,44 @@ Jump to: [AnnexA](#annexa) · [AnnexB](#annexb) · [AnnexD](#annexd) · [AnnexF]
 | ★ [Pittern Hill Riding School, Pittern Hill, Kineton](../cases/stratford-26-01764-PIP.md) | Delegated | approved | neutral |  | report written under NPPF 2024 11(d); a "Procedural Issue" paragraph added after 17 Aug says the balance "remains generally consistent" under the 2026 NPPF, with no S5 analysis |
 | ★ [Land at Yew Tree Lane, Fairfield (two dwellings)](../cases/bromsgrove-26-00744-FUL.md) | Delegated | approved | not-engaged |  | decision dated 17 Aug 2026, the day the new Framework took effect, but the notice lists "National Planning Policy Framework (2024)" and applies ¶11(d), ¶143, ¶154, ¶155 and footnote 7 |
 
-### Transitional(2)  (conflict 21, neutral 13, accord 12, fail 1, determinative 1)
+### Transitional(2)  (conflict 39, accord 28, neutral 13, fail 1, determinative 1)
 
 | Case | Maker | Outcome | Finding | Weight | Note |
 | --- | --- | --- | --- | --- | --- |
+| [Land east of Wymers Wood Road, Burnham (self-build dwelling)](../cases/PINS-6005162.md) | Appeal | allowed | conflict | limited | LP GB1 does not cover the full range of GB7 exceptions, so given "more limited weight"; Annex A not cited (DL 8) |
+| [Land west of Underlane, Carnkie, Wendron (mushroom growing building)](../cases/PINS-6008292.md) | Appeal | dismissed | accord | substantial | plan policies consistent with the Framework, so the conflict is given substantial weight (DL 25) |
+| [Cornish Marquees, Higher Trevellas, St Agnes (PIP, two dwellings)](../cases/PINS-6008432.md) | Appeal | dismissed | conflict | moderate | spatial policies found broadly consistent with the Framework, then their conflict cut to moderate weight because the 3.8-year supply shows the strategy is not delivering enough homes (DL 25-26) |
+| [456 Southchurch Road, Southend (hand car wash with acoustic shelter)](../cases/PINS-6009119.md) | Appeal | dismissed | accord |  | local amenity policies "are consistent with Policy P3 of the Framework"; Annex A not cited (DL 21) |
+| [The Orchard, Charley Road, Charley (garage conversion to a self-build dwelling)](../cases/PINS-6009255.md) | Appeal | allowed | accord |  | local S2 and S3 "are consistent with" the Framework; conflict with them is "an important factor" but tempered because a re-use cannot be located elsewhere; Annex A not cited (DL 8, 16) |
+| [Monometer House, 128 Rectory Grove, Leigh-on-Sea (storage building on stilts over a car park)](../cases/PINS-6009318.md) | Appeal | dismissed | accord |  | local design and amenity policies "are consistent with the Framework"; Annex A paragraph 2 not cited (DL 9, 14) |
+| [10 Bradfield Drive, Barking (house to 3-bedroom HMO)](../cases/PINS-6009965.md) | Appeal | dismissed | accord |  | local housing, transport, living-standards and parking policies each found "broadly consistent" with the Framework; Annex A not cited (DL 4, 6, 10, 13) |
+| [239 Barking Road, East Ham (two studio flats above a car wash waiting area)](../cases/PINS-6011081.md) | Appeal | dismissed | accord |  | London Plan and Newham Local Plan design, amenity, cycle and waste policies each found "broadly consistent with the Framework"; Annex A not cited (DL 8, 13, 19, 24) |
+| [Land off Long Lane, Fowlmere (PIP, up to 7 self-build homes)](../cases/PINS-6011365.md) | Appeal | dismissed | accord | significant | "in the context of this appeal" local policies S/2, S/7, HQ/1 and NH/2 "are not materially inconsistent with the Framework"; NH/3 "less consistent" as it does not consider the significance of development (DL 29) |
+| [Romaldor, St Johns Road, Wroxall (amateur radio mast)](../cases/PINS-6012036.md) | Appeal | dismissed | accord |  | local policies C1 and EV9 found consistent with DP3, N4 and L2; Annex A not cited; plan adopted 16 September 2026, after the Framework (DL 4, 21) |
+| [Rear of 2 High Street, Edgware (nine flats above a garage)](../cases/PINS-6012289.md) | Appeal | dismissed | accord | substantial | Annex A paragraph 2 paraphrased; plan design and amenity policies consistent with the Framework, so substantial weight (DL 31) |
+| [147 Eastcote Lane, Harrow (two-storey house in rear garden, outline)](../cases/PINS-6006890.md) | Appeal | dismissed | conflict | very-limited | criterion (b) of LP GR10 (garden land only where it makes a comprehensive use of land) and the Garden Land SPD are more restrictive than L2, so materially inconsistent; plan adopted during the appeal (DL 6, 38-40) |
+| [65 Grimshaw Lane, Manchester M40 (first-floor guest house over former pub)](../cases/PINS-6008018.md) | Appeal | dismissed | accord |  | CS CC4 and UDP 4.1 "not materially inconsistent" with the Framework, as they help create well-designed places, a key principle of DP3 (DL 11) |
+| [Milan Villa, Hyde Wood Lane, Canewdon (replacement dwelling)](../cases/PINS-6008122.md) | Appeal | dismissed | conflict | very-limited | LP DM21 limits bulk and massing of replacement dwellings and does not contemplate the PDL exception, so it is materially inconsistent with GB7 as it applies here (DL 13, 17) |
+| [Land at Mushroom Lane, Brigsley (outline, nine dwellings)](../cases/PINS-6009363.md) | Appeal | dismissed | conflict | very-limited | Part 3 of Local Plan Policy 5 inconsistent with the Framework, very limited weight; the Framework policy it conflicts with is not named (DL 4) |
+| [Land at Mushroom Lane, Brigsley (outline, nine dwellings)](../cases/PINS-6009363.md) | Appeal | dismissed | accord |  | Part 1 of Policy 5 (suitability and sustainability criteria) and Policy 22 generally consistent and given full weight (DL 4, 9, 19) |
+| [Land adjacent to 1 Ninesprings Cottage, Wymondley Road, Hitchin (PIP)](../cases/PINS-6009720.md) | Appeal | allowed | conflict | limited | conflict with SP2 (development outside the settlement boundary) given limited weight having regard to S5(5); Annex A not cited (DL 23, 29) |
+| [Former Hull Grammar School and Community Centre, Cottingham Road, Hull](../cases/PINS-6010376.md) | Appeal | dismissed | conflict | very-limited | Hull LP Policy 13 held materially inconsistent with HC6 in treating a school as a community use, so very limited weight; HC6 "would outweigh the conflict" (DL 28-29, 65) |
+| [Land west of Sunnyside, Glentham (three over-55s dwellings)](../cases/PINS-6011337.md) | Appeal | dismissed | accord |  | local plan policies S1, S4 and S23 not inconsistent with the Framework and given full weight; Annex A paragraph 2 paraphrased (DL 17-18) |
+| ★ [Happy Hounds Hotel, Back Lane, Weeton (PIP, up to 2 dwellings on kennels site)](../cases/PINS-6012202.md) | Appeal | allowed | conflict | very-limited | local countryside policy GD4, and S1 by connection, more restrictive than S5 and without a provision for previously developed land outside settlements, so very limited weight (DL 13) |
+| ★ [Happy Hounds Hotel, Back Lane, Weeton (PIP, up to 2 dwellings on kennels site)](../cases/PINS-6012202.md) | Appeal | allowed | accord |  | local policies DLF1 and INF1 broadly in line with TR3 (DL 13) |
 | [Opposite 67 Sandgate Road, Folkestone (BT Street Hub)](../cases/PINS-6004363.md) | Appeal | dismissed | neutral | significant | HB1 and RL9 consistent with section 14 / DP3, so conflict carries significant weight (DL 25-26) |
 | [Valera Ltd, Plox Brow, Tarleton](../cases/PINS-6004952.md) | Appeal | dismissed | neutral |  | GN3 and GN5 "broadly consistent with the sequential approach in the Framework" (DL 5) |
 | [Land east of New Road, Melksham](../cases/PINS-6007352.md) | Appeal | dismissed | neutral | moderate | CP1, CP2, CP15 materially inconsistent with S5 because they restrict development outside settlements, yet given moderate rather than very limited weight (DL 25) |
 | [Land opposite Nash Cottage, Ashford Road, Brenzett](../cases/PINS-6007677.md) | Appeal | dismissed | neutral | very-limited | SS1, SS2, CSD3 materially inconsistent insofar as restrictive, reasoned from the lack of a five-year supply and HO7; HB1/NE3 consistent with DP3 and N2 (significant weight); SS3 consistent with DP3(2)(d) (considerable weight) (DL 18-21) |
 | ★ [Beehive Cottage, Portway, Old Sarum, Salisbury](../cases/PINS-6007924.md) | Appeal | allowed | conflict | very-limited | CP1/CP2 open-countryside restriction inconsistent with S5(1)(j), so very limited weight (DL 43-44) |
 | ★ [Sycamore Farm, Well Bank Lane, Over Peover](../cases/PINS-6008176.md) | Appeal | allowed | neutral | very-limited | RUR13 "materially larger" replacement test does not reflect GB7(1)(e); conflict (199% floorspace, 274% footprint increase) given very limited weight (DL 14-17, 35) |
+| [15 Brethergate, Westwoodside (dwelling in side curtilage)](../cases/PINS-6008883.md) | Appeal | allowed | conflict | very-limited | the part of CS2 limiting development in rural settlements to identified local needs is "more restrictive than the Framework"; given "very little weight", also because of the housing supply position; Annex A not cited (DL 15) |
+| [Balne Moor Coarse Fishery, Balne Moor Road, Balne (manager's dwelling)](../cases/PINS-6010112.md) | Appeal | dismissed | accord |  | CS SP2 and SP13 consistent with the Framework as they apply here, reflecting E4, HO11 and DP3 (DL 24) |
 | [Disley Meadow, Lower Greenshall Lane, Disley](../cases/PINS-6010213.md) | Appeal | dismissed | accord | significant | PG3 predates grey belt but "remains broadly aligned" with the Framework, significant weight (DL 8) |
 | [Pavement at East Road, Cambridge (BT Street Hub, planning)](../cases/PINS-6012279.md) | Appeal | dismissed | accord | significant | LP Policies 55, 65 (design) and 61 (heritage) consistent with the Framework; conflict given significant weight (DL 33) |
 | [Cud Hill House barn, Upton Hill, Upton St Leonards](../cases/PINS-6005652.md) | Appeal | dismissed | conflict |  | spatial policies "largely in keeping" with the Framework, but their weight limited because of the 3.2-year supply (the 2024 out-of-date route) (DL 27-28); CP14 and ES7 consistent (DL 29) |
 | [Land adjoining The Ridings, Singleborough](../cases/PINS-6008773.md) | Appeal | dismissed | neutral | very-limited | LP S1, S2, S3 materially inconsistent with S5 (broader support for limited infilling); conflict very limited weight (DL 27) |
+| [Land west of 103 Tonbridge Road, Hildenborough (PIP, 5 to 7 homes)](../cases/PINS-6010459.md) | Appeal | allowed | conflict | limited | SQ1 (local distinctiveness) not consistent with the Framework because it has no balancing exercise; CP12 and CP14 (development within rural settlement confines) inconsistent with the Framework and not delivering enough homes; conflict with each given limited weight, citing Annex A (DL 14, 23) |
 | [46 The Finches, Weymouth](../cases/PINS-6011131.md) | Appeal | dismissed | accord | substantial | ENV10, ENV12 and ENV16 "broadly consistent" with the Framework's design and amenity aims (DL 28-29) |
 | [Land near Fanshawes, Ware Park, Ware](../cases/PINS-6006224.md) | Appeal | dismissed | accord | great | EHDP policies "largely consistent with the Framework"; Annex A paragraph 2 quoted; great weight to conflict with DPS2, TRA1 and GBR1 (DL 19) |
 | [50 Nutfield Road, Merstham (launderette to Class E)](../cases/PINS-6007410.md) | Appeal | allowed | neutral |  | INF2 "not materially inconsistent with the Framework"; Annex 3 read alongside the Framework (DL 9) |
@@ -6228,21 +6890,31 @@ Jump to: [AnnexA](#annexa) · [AnnexB](#annexb) · [AnnexD](#annexd) · [AnnexF]
 | [Land to rear of 6-12 Long Lane, Newtown, South Staffordshire](../cases/PINS-6010537.md) | Appeal | allowed | neutral | limited | CS GB1 "only partially consistent" (omits PDL and grey belt) (DL 15); Core Policy 1 conflict given limited weight because it restricts development and because of the "significant shortfall" (DL 44) |
 | [Beechwood House, Willoughby Road, West Willoughby](../cases/PINS-6010911.md) | Appeal | dismissed | conflict | very-limited | SP2, SP3 and SP5 restrict infill to named settlements, so are materially inconsistent with S5 (letter says "Policy SP5 of the Framework") on limited infilling; very limited weight under Annex A (DL 31) |
 | [Land west of The Charters, Greatford Road, Uffington (Stamford)](../cases/PINS-6011227.md) | Appeal | dismissed | conflict | very-limited | SP3's infill location criteria more restrictive than S4, so very limited weight; its character requirement is consistent and keeps weight (DL 24) |
+| [Maisie Cottage, Bottrells Lane, Chalfont St Giles (stable to dwelling)](../cases/PINS-6011889.md) | Appeal | dismissed | conflict | very-limited | Local Plan GB11 (residential reuse of Green Belt buildings, subject to criteria) is more restrictive than the Framework; very limited weight under Annex A paragraph 2; conflict with GB2 and GB11 is still recorded at DL 12 (DL 4, 12) |
+| [Land north of Scrubs Farm, Lower Gravel Road, Bromley (padel courts)](../cases/PINS-6012303.md) | Appeal | allowed | conflict | limited | Bromley Local Plan Policy 49 requires such development to preserve openness and not conflict with the purposes, which is stricter than the Framework test; found inconsistent and given limited weight; Annex A not cited (DL 8) |
 | [207 Lower Blandford Road, Broadstone (3 flats to the rear)](../cases/PINS-6007434.md) | Appeal | dismissed | accord | significant | PP27 and BP4 consistent with DP3, P3 and L2, so significant weight to the conflict (DL 32) |
 | ★ [Land North of A507, West of A10, Buntingford](../cases/PINS-6008238.md) | Appeal | allowed | conflict | limited | DPS2, GBR2 (Rural Area Beyond the Green Belt) and NP HD1 "materially inconsistent" with S5; Annex A paragraph 2 quoted ("very limited weight") but "limited adverse weight" given; reasoning also cites the out-of-date housing requirement and lack of supply (DL 25-29, 165) |
 | [3 Old Glass House, Kents Lane, North Weald Bassett](../cases/PINS-6009621.md) | Appeal | dismissed | conflict | very-limited | DM4 C(vi) no-greater-impact openness test inconsistent with the substantial-harm threshold in GB7(1)(e); very limited weight to that part (DL 9, 17) |
 | ★ [17 Brook Lane, Brookville](../cases/PINS-6009844.md) | Appeal | dismissed | accord | significant | LP02 and other policies "not materially inconsistent with the Framework" in the context of this appeal, so significant weight (DL 36) |
 | [Rusper, Nottingham Road, Heronsgate](../cases/PINS-6010198.md) | Appeal | allowed | neutral |  | DM2 found broadly not materially inconsistent (DL 7), found in conflict on size (DL 10), then said to be complied with (DL 16) - internal inconsistency |
+| [Paddock north of Spring Acres, West End Lane, Henfield (PIP, up to 9 self-build homes)](../cases/PINS-6006961.md) | Appeal | dismissed | accord |  | 2015 plan policies on location and accessibility, and on character, are not materially inconsistent with the Framework and are given "due weight"; Annex A cited (DL 30) |
 | ★ [Overs Farm, Haughton, Tasley, Bridgnorth (wigwam cabins)](../cases/PINS-6008804.md) | Appeal | dismissed | neutral |  | CS1/CS5/CS16 spatial strategy consistent with TR3; not given reduced weight for pre-dating the Framework (DL 15) |
 | ★ [73 High Street, Ruislip (bingo hall)](../cases/PINS-6011516.md) | Appeal | dismissed | conflict | very-limited | Annex A para 2 — parts of DMTC4 and DMTC2 B(i)/(ii) seek control over changes now permitted within Class E; "attributed very limited weight"; DMTC2 B(iii) keeps full weight as consistent with TC2 (DL 8-9) |
 | ★ [Beech Grove, Brock Road, Great Eccleston (barn to live/work)](../cases/PINS-6008848.md) | Appeal | dismissed | conflict | very-limited | SP4 priority hierarchy of uses for conversions (live/work third, residential fifth) is more restrictive than S5(1)(c) and so inconsistent; conflict carries very limited weight (DL 14, 16, 21) |
 | [13 Temperance Hill, Woolley Moor (rear first-floor extension)](../cases/PINS-6011648.md) | Appeal | dismissed | conflict | limited | SS9 (assess large countryside extensions as new dwellings) has "diminished weight" because of S5(1)(c) (DL 15-16, 18) |
 | ★ [7 Vicarage Mansions, Queenstown Road, Wandsworth (mansard roof)](../cases/PINS-6007541.md) | Appeal | dismissed | fail |  | appellant's Annex A argument rejected: LP1, LP3, LP4 and LP5 'broadly consistent' with the Framework and keep full weight (DL 3-4) |
 | ★ [Kingston Barn, Kingston Russell (farmstead conversion, 7 dwellings, Dorset NL)](../cases/PINS-6007314.md) | Appeal | dismissed | neutral |  | ENV2 and ENV10 consistent with the Framework, so their conflict carries significant weight (DL 26) |
+| [Land to the rear of Edoras, Banbury Road, Pillerton Priors](../cases/stratford-26-01894-PIP.md) | Committee | refused | conflict | very-limited | officer view - CS.26 "materially inconsistent" because it lacks the "severe" test (Report p.14); CS.5 and CS.9 treated as materially consistent (Report p.9) |
 | ★ [Land off Butts Lane, Tanworth-in-Arden](../cases/stratford-26-00918-PIP.md) | Committee | approved | conflict | very-limited | CS.15, CS.16, AS.10, CS.10, CS.26 and NDP H3 held "materially inconsistent" with the 2026 decision-making policies |
 | ★ [Land off Jago Green, Snitterfield Lane, Snitterfield](../cases/stratford-26-00617-PIP.md) | Committee | approved | conflict | very-limited | CS.15, CS.16, AS.10, CS.10, CS.26, CS.8, NDP H1 and BE7 given very limited weight as materially inconsistent |
 | ★ [Land South of Elm Leys, Hunt Hall Lane, Welford-on-Avon](../cases/stratford-26-00772-PIP.md) | Committee | approved | conflict | very-limited | CS.15, CS.16, AS.10 and NDP HLU1 and HE5 held materially inconsistent; CS.26 too |
 | ★ [Land adjacent to Alfred King Close, Shavington](../cases/cheshireeast-26-0640-FUL.md) | Committee | approved | determinative |  |  |
+| [The Hill, Warwick Road, Stratford-upon-Avon](../cases/stratford-26-01141-FUL.md) | Delegated | approved | conflict | very-limited | CS.15, CS.16, AS.10 (p.6), CS.10 (p.7) and NDP H1 (p.7) given very limited weight; CS.5, CS.9 and CS.12 treated as materially consistent (p.9) |
+| [144 Malthouse Lane, Earlswood](../cases/stratford-26-01542-FUL.md) | Delegated | refused | conflict | very-limited | CS.15 and CS.16 given very limited weight although the scheme complied with them (p.4); CS.10 "materially inconsistent" with GB7 (p.8); NDP H3 and CS.26 also very limited; CS.9 treated as materially consistent |
+| [Field south of The Slade, Fenny Compton](../cases/stratford-26-01801-FUL.md) | Delegated | approved | conflict | very-limited | NDP DE.2 given very limited weight because S6 is not engaged (p.7); CS.26 "materially inconsistent" (p.10); the AS.10 conflict (no viability evidence) is set against the Class Q fallback and not given a weight |
+| [Bridge Farm, Birmingham Road, Kings Coughton](../cases/stratford-26-01447-FUL.md) | Delegated | approved | conflict | very-limited | CS.10 "materially inconsistent" because GB7 and GB8 include grey belt and the Golden Rules (p.4); CS.8 and CS.26 also called materially inconsistent (p.7) |
+| [Ardencroft, Cloweswood Lane, Earlswood](../cases/stratford-26-01614-FUL.md) | Delegated | refused | accord |  | "These elements of GB6 and GB7 are considered to be materially consistent with policy CS.10" (p.3); contrast SDC housing reports, which call CS.10 materially inconsistent |
+| ★ [Land at Windmill Lane, Ladbroke](../cases/stratford-26-01660-OUT.md) | Delegated | approved | conflict | very-limited | CS.15, CS.16 and AS.10 "materially inconsistent" because S5(1)(j) allows what they would not (p.5); CS.26 too (p.7); CS.5, CS.9, CS.4 and CS.6 treated as materially consistent |
 | [Forest Farm, Welford Road, Long Marston](../cases/stratford-26-01906-PIP.md) | Delegated | approved | conflict |  | CS.8 held "materially inconsistent" with HE5 |
 | [Manor Cottage, Upper Quinton](../cases/stratford-26-00922-FUL.md) | Delegated | refused | conflict | limited | CS.8 given only limited weight because "Core Strategy policy CS.8 does not align with the new NPPF HE policies" (p.4); refusal rests on HE6(4) alone |
 | [30 Hadrians Walk, Alcester](../cases/stratford-26-01376-FUL.md) | Delegated | refused | conflict | very-limited | CS.15 given very limited weight, but not relevant since the site is inside the BUAB |

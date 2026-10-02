@@ -1,24 +1,24 @@
 {
   "cases": {
-    "builtAt": "2026-10-02T21:44:50+01:00",
+    "builtAt": "2026-10-02T22:43:06+01:00",
     "byDecisionMaker": {
-      "inspector": 899,
-      "lpa-committee": 37,
-      "lpa-delegated": 33,
+      "inspector": 984,
+      "lpa-committee": 38,
+      "lpa-delegated": 40,
       "secretary-of-state": 2
     },
-    "newestDecisionDate": "2026-09-30",
-    "newestHarvestedOn": "2026-09-30",
-    "refreshedAt": "2026-10-02T21:44:50+01:00",
-    "total": 971
+    "newestDecisionDate": "2026-10-02",
+    "newestHarvestedOn": "2026-10-02",
+    "refreshedAt": "2026-10-02T22:46:57+01:00",
+    "total": 1064
   },
   "frameworkDate": "2026-08-17",
   "schema": 1,
   "sources": {
     "lpa:stratford": {
-      "lastRunAt": "2026-09-27T19:18:01+01:00",
-      "newestDecisionDateSeen": "2026-09-22",
-      "note": "SDC via portal JSON API (DISTILLATION-GUIDE.md \u00a77); last pass 23 Sep 2026"
+      "lastRunAt": "2026-10-02T22:41:28+01:00",
+      "newestDecisionDateSeen": "2026-10-02",
+      "note": "SDC via portal JSON API (DISTILLATION-GUIDE.md \u00a77); pass of 2 Oct 2026 covered notices 23 Sep to 2 Oct (62 notices, 8 cases); 23 Sep committee minutes not yet published"
     },
     "pins-acp": {
       "decidedSinceFramework": 239,
@@ -32,7 +32,7 @@
       "fetchFailures": 0,
       "lastFetchAt": "2026-10-02T21:44:44+01:00",
       "lastIndexAt": "2026-10-02T21:44:44+01:00",
-      "lastQueueAt": "2026-10-02T21:44:44+01:00",
+      "lastQueueAt": "2026-10-02T22:46:57+01:00",
       "lastQueueFile": "harvest-log/slices/queue-2026-10-02.tsv",
       "lastSweepAreas": "all",
       "lastSweepAt": "2026-10-02T21:42:38+01:00",
@@ -42,7 +42,7 @@
       "newestLetterDate": "2026-10-02",
       "newestRefSeen": "6015634",
       "note": "Run times before 27 Sep 2026 backfilled from the 23 Sep 2026 corpus build.",
-      "queued": 62
+      "queued": 0
     }
   }
 }

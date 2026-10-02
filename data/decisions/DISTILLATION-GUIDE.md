@@ -313,9 +313,9 @@ Put these facts in `key_facts` (one line each, with numbers) and the policy `not
 | When | What |
 | --- | --- |
 | Weekly | `uv run tools/harvest.py all` (PINS sweep, fetch, corpus-index refresh, queue, rebuild); distil the queue; Planning Geek API |
-| 24–25 Sep 2026 | SDC committee of 23 Sep minutes: 25/00347/FUL Home Farm crossing; **26/01894/PIP Pillerton Priors** (L2(1)(d) failure not run as an S4(2)(a)(ii) trigger) |
+| When published (expected with the 21 Oct 2026 agenda) | SDC committee of 23 Sep minutes: the vote and debate on **26/01894/PIP Pillerton Priors** (refused 25 Sep against the officer recommendation; case written from the report, Update Sheet and notice) and what was resolved on 25/00347/FUL Home Farm crossing (still pending at 2 Oct) |
 | From 29 Sep to 21 Oct 2026 | s288 and JR windows close for the transitional letters: 6002759 (29 Sep), SOS-EN010151 (2 Oct), 6009270 (5 Oct), SDC 26/01764 and 26/01393 and wychavon-W-25-01931 (6 Oct), 6007837 (13 Oct), 6010844 (16 Oct), 6003168 and 6007519 (21 Oct). Search Find Case Law and Planning Geek in late October |
-| 7 Oct 2026 | SDC committee (MId 6931) |
+| 7 Oct 2026 | SDC committee (MId 6931): 25/02712/OUT Harbury (up to 38 homes), 26/00410/FUL Tanworth-in-Arden (3 houses), 26/00581/FUL Admington (agricultural building) |
 | 9 Oct 2026 | Albrighton recovered inquiry closes (SoS decision likely 2027) |
 | Monthly | Croxley Green 6004972 (inquiry; watch for recovery); Holocaust Memorial; member-overturn appeals (Basildon ×3, Three Rivers 25/2168, Chorley 6014396, Nuneaton 041303) |
 | Now (overdue) | MOD Bicester Site A urgent Crown decision (SOS-PCU-RARE-C3105-3378843) |

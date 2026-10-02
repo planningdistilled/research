@@ -32,6 +32,7 @@ These are hand-picked from about 970 decisions (17 Aug–30 Sep 2026). `../index
 - ↓ [PINS-6008253](../cases/PINS-6008253.md) ¶80 (hearing): very close to the village, but limited harm to its setting fails (j)(i). Then allowed under S5(4) (see below).
 - ↓ [PINS-6009838](../cases/PINS-6009838.md) ¶15, 44–49 (WR): the restrictive, form-based reading ("regardless of whether it would be of a scale…").
 - ↓ [PINS-6008785](../cases/PINS-6008785.md) ¶39: (j) met, but lost via DP3(3) and S5(2).
+- ↓ [PINS-6011337](../cases/PINS-6011337.md) ¶10, 22: where the council has a five-year supply, the need must be shown for the type of housing proposed. "There is no unmet need for housing in general."
 - ↓ [PINS-6011872](../cases/PINS-6011872.md) ¶19–26: a self-build deficit counts as unmet need at 5.5 years, but "access to services" was read into the infrastructure limb.
 - ↑ [PINS-6005809](../cases/PINS-6005809.md) ¶57–60 (inquiry): "including, but not limited to". A marginal compliant supply plus a housing register satisfies the need limb.
 - ↑ [PINS-6001260](../cases/PINS-6001260.md) ¶24–25 (WR): no requirement to adjoin the settlement or to have a segregated footway.
@@ -41,6 +42,8 @@ These are hand-picked from about 970 decisions (17 Aug–30 Sep 2026). `../index
 **S5(2) / S4(2) "should be refused" triggers**
 - ↓ [PINS-6011803](../cases/PINS-6011803.md) ¶18–20: a washed-over road is not a built-up area. A backland breach of local design policy gives DP3(3) → S5(2), which beats substantial housing weight.
 - ↓ [PINS-6010619](../cases/PINS-6010619.md) ¶58–59: L2(1)(d) as an S4(2)(a)(ii) trigger. ◇ It also uses "significantly and demonstrably" (¶56).
+- ↓ [PINS-6009769](../cases/PINS-6009769.md) ¶37: HC7 as an S4(2)(a)(ii) trigger. "As the whole of the existing open space would be lost the adverse impact would, in that respect, be substantial".
+- ↑ [PINS-6007730](../cases/PINS-6007730.md) ¶16–17: L2(1)(d) checked as an S4(2)(a)(ii) trigger at PIP stage and no "substantial adverse impact" found. [PINS-6006322](../cases/PINS-6006322.md) ¶36–37 does the same for a local wildlife site under N6(1)(c).
 - ↓ [PINS-6009997](../cases/PINS-6009997.md) ¶14–15: TR6(4) splay over third-party hedge land beats 4 homes at 1.98 years.
 - ↓ [stratford-26-01376-FUL](../cases/stratford-26-01376-FUL.md) (delegated): F7 via S4(2)(c). The only SDC trigger refusal.
 - ↑ [PINS-6009340](../cases/PINS-6009340.md) ¶22: W3 substantial weight supplied DP3(3)'s "clear justification".
@@ -106,6 +109,7 @@ These are hand-picked from about 970 decisions (17 Aug–30 Sep 2026). `../index
 - ↓ [PINS-6009997](../cases/PINS-6009997.md) ¶14–15: splay over a neighbour's hedge.
 - ↓ [PINS-6007807](../cases/PINS-6007807.md) ¶9, 11, 22: splays destroy a roadside tree tunnel, and the arboricultural report missed them.
 - ↓ [PINS-6008848](../cases/PINS-6008848.md): no third-party visibility agreement.
+- ◇ [PINS-6008177](../cases/PINS-6008177.md) ¶19–21 (PIP, allowed): "an unacceptable risk to highway safety" without splays over third-party land, yet left to the technical details stage. Contestable.
 - ↑ [PINS-6001260](../cases/PINS-6001260.md): 43 m of carriageway walking at 30 mph with low flows and no injury accidents was acceptable.
 - ↑ [PINS-6008643](../cases/PINS-6008643.md): parking stress is amenity, not a TR6(4) safety matter.
 - ◇ [PINS-6009573](../cases/PINS-6009573.md) ¶8–9, 23: DMRB CD 143 gets "very little weight" off trunk roads; a nil collision record is "not a reliable indicator".
@@ -209,6 +213,8 @@ These are hand-picked from about 970 decisions (17 Aug–30 Sep 2026). `../index
 - ↓ [PINS-6003226](../cases/PINS-6003226.md) ¶22, 27: harm graded "high" in 2026 terms; claimed energy gains unevidenced and achievable with less harm.
 - ↑ [PINS-6010276](../cases/PINS-6010276.md) ¶33–34: securing a listed wall's "long-term structural stability" is "a meaningful public heritage benefit" that outweighs limited harm.
 - ↑ [PINS-6011786](../cases/PINS-6011786.md) ¶16–18: "very low" harm to a CA setting outweighed by one needed home.
+- ↑ [PINS-6007704](../cases/PINS-6007704.md) ¶36–40 (hearing): "limited" harm from the loss of a listed pub's historic use, outweighed mainly by reuse of a building empty for over three years. The first win on the HE6(4) reuse example; ¶38 notes that the reference to optimum viable use "has been removed".
+- ↑ [PINS-6010459](../cases/PINS-6010459.md) ¶18–19, 29 (PIP): conservation-area harm "at the lower end of the scale" outweighed by 5–7 homes at 2.89 years. ◇ The same letter passes GB7(1)(g)(iii) in one sentence (¶20).
 
 **HE6(5) substantial harm**
 - ↓ [PINS-6006506](../cases/PINS-6006506.md) ¶16, 20: a rear extension across a 17th-century elevation "seriously affect[s] a key element".
@@ -246,7 +252,9 @@ These are hand-picked from about 970 decisions (17 Aug–30 Sep 2026). `../index
 - ↑ [PINS-6012221](../cases/PINS-6012221.md): householder, with (d)(i)–(iii) met.
 
 **L3(4) efficient use of land**
-- ↓ [PINS-6010196](../cases/PINS-6010196.md) ¶23–24, 31: about 4 dwellings per acre on a PiP edge site. Refused with no character harm. The only appeal so far.
+- ↓ [PINS-6010196](../cases/PINS-6010196.md) ¶23–24, 31: about 4 dwellings per acre on a PiP edge site. Refused with no character harm.
+- ↓ [PINS-6009363](../cases/PINS-6009363.md) ¶9, 24: nine homes at very low density outside a settlement. S5(1)(j) met, but L3 failed: "the policy is clear that the development should be refused", taken through S5(2).
+- ↓ [PINS-6011337](../cases/PINS-6011337.md) ¶29, 32 (same inspector): L3(2)(b) and L3(4) applied to an unallocated edge-of-village site.
 - ◇ [PINS-6006475](../cases/PINS-6006475.md) ¶67: L3 "is not just about maximising development capacity" and does not trump heritage. [PINS-6006581](../cases/PINS-6006581.md) ¶88: 35 dph inappropriate in a National Landscape.
 
 ---

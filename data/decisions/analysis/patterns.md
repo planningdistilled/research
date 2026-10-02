@@ -6,6 +6,7 @@ Synthesis of `green-belt.md`, `principle-and-balance.md`, `heritage-design-envir
 - **Counts** are the analysts' figures. "n a/b" means a cases for the proposition and b against, or a of b where the issue arose.
 - **Confidence:** *strong* means consistent across many letters; *emerging* means a clear direction with limited numbers; *single* means one case.
 - **Selection bias:** appeals are refusals under test, and the council sample is skewed to notable approvals. Raw permit rates (inspector 31%, committee 70%, delegated 63%) measure selection, not leniency.
+- **Updates:** the propositions were written from the 23 Sep base. Lines marked "2 Oct 2026" add counter-examples and recounts from the 1,064 cases held at that date (984 inspector, 38 committee, 40 delegated, 2 SoS); the other counts are unchanged from the base.
 
 Case links point to `../cases/<id>.md`. For the full list of cases per policy see `../index/policy-index.md`; for the curated picks see `reference-cases.md`.
 
@@ -20,7 +21,7 @@ Case links point to `../cases/<id>.md`. For the full list of cases per policy se
 - The exception: at Aston Clinton (PINS-6008253, hearing, 66 homes) a "substantial" shortfall was the main benefit that carried an S5(4) balance, alongside 25% affordable housing and the council's own emerging allocation (DL ¶38–39, ¶82, ¶85).
 - Best cases: [PINS-6005664](../cases/PINS-6005664.md) ¶44 (inquiry: "such a marginal difference being unimportant"); [PINS-6008528](../cases/PINS-6008528.md) ¶10 (HDT below 75% with a five-year supply); [PINS-6005809](../cases/PINS-6005809.md) ¶57 (inquiry: "including, but not limited to").
 
-**2. Outside settlements, the S5(1) category is the whole case. Falling outside every category (S5(4)) is almost always fatal.** *Strong. n 37 fail / 3 pass at appeal (recounted 2 Oct 2026 from case frontmatter).*
+**2. Outside settlements, the S5(1) category is the whole case. Falling outside every category (S5(4)) is almost always fatal.** *Strong. n 40 fail / 3 pass at appeal (recounted 2 Oct 2026 from case frontmatter, after the 2 Oct additions).*
 - The three passes have no single route. Two turned on the *absence* of transport harm or a fallback that cancelled it (Cople; Honeysuckle Bottom). The third, Aston Clinton, turned on the size of the benefits: a substantial supply shortfall, 25% affordable housing, and a site inside the council's emerging strategic allocation, set against only moderate character harm (6008253 ¶85: "taken together the substantial benefits of the proposal would substantially outweigh the moderate weight I have applied to the adverse effects to the character of the countryside").
 - Best cases: [PINS-6012985](../cases/PINS-6012985.md) ¶18–22 (movement harm at substantial weight beats substantial HO7 weight with no five-year supply). Counter-examples: [PINS-6011253](../cases/PINS-6011253.md) (Cople); [PINS-6011694](../cases/PINS-6011694.md) (a sawmill fallback, but a flawed letter); [PINS-6008253](../cases/PINS-6008253.md) (Aston Clinton, hearing).
 
@@ -35,6 +36,8 @@ Case links point to `../cases/<id>.md`. For the full list of cases per policy se
 - Best cases: [PINS-6010836](../cases/PINS-6010836.md) (HO7, E2 and TC2 all substantial, and still lost on DP3); [PINS-6008167](../cases/PINS-6008167.md) ¶21.
 - Converse: [PINS-6010195](../cases/PINS-6010195.md) ¶26 (a local-only conflict "does not represent specific conflict against the national decision-making policies").
 - Counter-example: [PINS-6009545](../cases/PINS-6009545.md) (low heritage harm prevailed with no trigger named).
+- 2 Oct 2026: two more counter-examples, both small urban schemes. At Preston [PINS-6006018](../cases/PINS-6006018.md) ¶19 character harm alone, with no trigger named, substantially outweighed E2 and L2 benefits "given the low number of additional retail units and dwellings provided". At Southend [PINS-6009119](../cases/PINS-6009119.md) ¶23–24 a single P3 noise conflict did the same.
+- 2 Oct 2026: triggers other than DP3 are now run in terms. S4(2)(a)(ii) with HC7 at Gillingham [PINS-6009769](../cases/PINS-6009769.md) ¶37 (the whole of a small open space lost); S4(2)(a)(ii) with N6(1)(c) considered and not met at Backworth [PINS-6006322](../cases/PINS-6006322.md) ¶36–37; L3(4) through S5(2) at Brigsley [PINS-6009363](../cases/PINS-6009363.md) ¶9, ¶24 (nine homes at very low density: "the policy is clear that the development should be refused") and Glentham [PINS-6011337](../cases/PINS-6011337.md) ¶29, ¶32.
 
 **5. DP3(3) is the main refusal trigger, and through its "explicit design standards" limb local standards come back as Framework-level harms.** *Strong that the route exists; emerging on how uniformly it is used.*
 - About 20 appeals used DP3(3) as a trigger. The corpus has 174 letters citing DP3, but only 31 cite it by limb.
@@ -51,6 +54,7 @@ Case links point to `../cases/<id>.md`. For the full list of cases per policy se
 - The recurring gaps: an unexecuted HRA or SAC obligation, an unpaid tariff, no BNG metric, a self-build UU that is unsigned or on the wrong land, species surveys, third-party splay land.
 - Self-build counts only when it is secured (20 cases tagged `self-build-unsecured`). The small-site BNG exemption applies only to applications made from 6 Aug 2026.
 - Best cases: [PINS-6010848](../cases/PINS-6010848.md) ¶34–35 (won every planning point, lost on the SAC obligation); [PINS-6009588](../cases/PINS-6009588.md) (£304 tariff unpaid); [PINS-6011375](../cases/PINS-6011375.md) (no metric).
+- 2 Oct 2026: three more BNG paperwork dismissals (Canewdon [PINS-6008122](../cases/PINS-6008122.md) ¶8–10; Harrow [PINS-6006890](../cases/PINS-6006890.md) ¶12–15; Clavering [PINS-6010951](../cases/PINS-6010951.md) ¶18). Two counter-examples: Stanton on the Wolds [PINS-6010392](../cases/PINS-6010392.md) ¶22 secured self-build by "a negatively-worded condition requiring the submission of a planning obligation", in "exceptional circumstances"; and Market Harborough [PINS-6008177](../cases/PINS-6008177.md) ¶19–21, a permission in principle (PIP), left visibility splays over third-party land to the technical details stage.
 
 **8. S6 protects a neighbourhood plan only if it was made five years or less before the decision date *and* contains allocations.** *Strong.*
 - Best cases: [PINS-6007431](../cases/PINS-6007431.md) ¶21–23 (applied); [PINS-6007104](../cases/PINS-6007104.md) ¶29–34 (lost at five years and two months).
@@ -77,15 +81,17 @@ Case links point to `../cases/<id>.md`. For the full list of cases per policy se
 - Best cases: [PINS-6006637](../cases/PINS-6006637.md) ¶21–26 ("necessity rather than choice"); [PINS-6007428](../cases/PINS-6007428.md) ¶14–15; [PINS-6011736](../cases/PINS-6011736.md) ¶4–7.
 - Counter-examples: [PINS-6009645](../cases/PINS-6009645.md) (unlit, continuous footway, evidenced DRT bus); [PINS-6011301](../cases/PINS-6011301.md); [PINS-6001260](../cases/PINS-6001260.md) (43 m of carriageway, low speed and flow).
 
-**11. Small scale does not rescue a failing location in the Green Belt. Outside it, the TR3(1)(a) threshold is split.** *Strong in the Green Belt (6/0); contested outside.*
+**11. Small scale does not rescue a failing location in the Green Belt. Outside it, the TR3(1)(a) threshold is split.** *Was 6/0 in the Green Belt at 23 Sep; 6/2 at 2 Oct 2026, so now contested there too. Contested outside.*
 - Green Belt: 1–9 homes are "significant movement … in this context", and "TR3 must be read as a whole" ([PINS-6010313](../cases/PINS-6010313.md) ¶13; [PINS-6009966](../cases/PINS-6009966.md) ¶27).
 - Outside the Green Belt, some letters hold TR3(1)(a) "not relevant" for 1–2 homes but still weigh car reliance ([PINS-6008739](../cases/PINS-6008739.md) ¶37). Others give movement harm substantial weight for one home ([PINS-6012985](../cases/PINS-6012985.md) ¶18).
+- 2 Oct 2026: two Green Belt allowals go the other way. Burnham [PINS-6005162](../cases/PINS-6005162.md) ¶23 holds that a single dwelling would not "result in a significant amount of movement", so TR3(1)(a) is met; Hitchin [PINS-6009720](../cases/PINS-6009720.md) ¶20 (PIP) answers a missing frontage footway by "the scale of the development". Neither tests the walking route.
 
 **12. Transport claims must be evidenced and mitigation secured.** *Strong.*
 - Evidence and mitigation that failed: bus stops without timetables; "short car trips"; EVs and homeworking; unsecured TROs or s278 works; travel vouchers.
 - A highway authority's no-objection does not settle location.
 - The Connectivity Tool corroborates but does not decide: a score of 52 has both failed and passed.
 - Best cases: [PINS-6011431](../cases/PINS-6011431.md) ¶11–17 (the catalogue of rejected mitigation); [PINS-6011736](../cases/PINS-6011736.md) ¶6–7 (CT 52 fail); [PINS-6010471](../cases/PINS-6010471.md) ¶20 (CT 52 pass).
+- 2 Oct 2026, counter-example: Weeton [PINS-6012202](../cases/PINS-6012202.md) ¶11 (allowed under S5(1)(d)) accepted that "driving distances would be short to both Weeton and the larger settlement of Wesham, moderating the extent of harm".
 
 **13. The station routes, GB7(1)(h) and S5(1)(h), are applied literally under Annex B. No appeal has yet passed (h) on a contested station.** *Strong on failure.*
 - Under 4 tph daytime, or under 2 tph each way, the station is not "well-connected". About 2× the reasonable walking distance fails.
@@ -95,6 +101,7 @@ Case links point to `../cases/<id>.md`. For the full list of cases per policy se
 **14. TR6(4) highway safety ("unacceptable") is a stand-alone refusal ground, separate from "severe". Visibility splays over third-party or hedge land fail.** *Strong: TR6(4) 29 fail / 12 pass.*
 - Best cases: [PINS-6006819](../cases/PINS-6006819.md) ¶20; [PINS-6009997](../cases/PINS-6009997.md) ¶14–15 (beat 4 homes at 1.98 years after grey belt was conceded); [PINS-6007807](../cases/PINS-6007807.md) (splays destroying a tree tunnel).
 - Counter-example: [PINS-6001260](../cases/PINS-6001260.md), which had accident data and low speed and flow.
+- 2 Oct 2026, counter-example at PIP stage: Market Harborough [PINS-6008177](../cases/PINS-6008177.md) found "an unacceptable risk to highway safety" without splays over third-party land (¶19), then allowed because the constraint could be overcome "at the technical details consent stage" (¶21).
 
 ## C. Green Belt
 
@@ -125,6 +132,7 @@ Case links point to `../cases/<id>.md`. For the full list of cases per policy se
 - "Low" harm has beaten 1 home at 3.68 years, and "moderate" harm has beaten 1 home at 2.98 years.
 - Best cases: [PINS-6009545](../cases/PINS-6009545.md) ¶17; [PINS-6007054](../cases/PINS-6007054.md) ¶13–22; [PINS-6007221](../cases/PINS-6007221.md) ¶33–34.
 - Counter-example: [PINS-6011786](../cases/PINS-6011786.md) ¶16–18 ("very low" harm outweighed).
+- 2 Oct 2026: two more allowals against harm above "very low". Blacko [PINS-6007704](../cases/PINS-6007704.md) ¶36–40 (hearing): "limited" harm to a listed pub from loss of its historic use, outweighed mainly by reuse of a building empty for over three years. Hildenborough [PINS-6010459](../cases/PINS-6010459.md) ¶18–19, ¶29 (PIP): conservation-area harm "at the lower end of the scale", outweighed by 5–7 homes at substantial weight with a 2.89-year supply.
 
 **20. Housing wins the HE6(4) balance at scale, not at the margin.** *Emerging: 5 allowed, 3 refused.*
 - Major schemes with a shortfall outweigh low or lowest-end harm to Grade II settings.
@@ -171,6 +179,12 @@ Case links point to `../cases/<id>.md`. For the full list of cases per policy se
 | Transitional(2) | Clause-level cuts; spatial restrictions cut in 30 of 45 letters | Whole-policy cuts (SDC cuts CS.8 heritage and CS.26 access) | Heritage, design and access policies keep full weight at appeal (38 of 39: 6007541; 6006637 ¶40); spatial restrictions lose it where the scheme meets an S5(1) category |
 | Fallbacks | Proof required | Accepted on assertion | |
 
+**2 Oct 2026: eight more SDC decisions (notices 23 Sep – 2 Oct).**
+- Refusals on the balance have started. Members refused Pillerton Priors against the officer recommendation, on "substantial harm" from backland development ([stratford-26-01894-PIP](../cases/stratford-26-01894-PIP.md)); an officer refused one dwelling at Earlswood on character and L2(1)(d) after passing it as village infill under GB7(1)(c) ([stratford-26-01542-FUL](../cases/stratford-26-01542-FUL.md)).
+- Both reports quote S4(2)(a)(ii) with L2(1)(d); neither applies it as a trigger. An inspector did the same exercise at Hesketh Bank ([PINS-6007730](../cases/PINS-6007730.md) ¶17) and found no "substantial adverse impact".
+- One report applies the Annex B exclusion: an Earlswood site "is not considered to be within a settlement because it lies within the Green Belt" ([stratford-26-01614-FUL](../cases/stratford-26-01614-FUL.md)). Eight days later another report treats a site in the same village as within a settlement (stratford-26-01542-FUL).
+- Fallbacks were tested rather than assumed in three reports ([stratford-26-01660-OUT](../cases/stratford-26-01660-OUT.md), [stratford-26-01801-FUL](../cases/stratford-26-01801-FUL.md), stratford-26-01614-FUL).
+
 **Member overturns** (8 found, 4 tested on appeal).
 - **How members overturn:** by regrading a matter of judgement, such as grey-belt purpose (a), "around 800m" or "severe", rather than by disputing facts.
 - **What survives appeal:** overturns resting on a reading available on the ground (landscape, heritage). Example: [PINS-6005903](../cases/PINS-6005903.md), where members' National Landscape refusal was upheld.
@@ -186,13 +200,15 @@ Case links point to `../cases/<id>.md`. For the full list of cases per policy se
 - The four readings of S5(1)(j)(i) "physically well-related" are unresolved.
 - Is ~1,100 m "around 800m" for GB7(1)(h)? No appeal yet.
 - No appeal has yet passed GB7(1)(h). GB7(1)(c) village infill has one appeal analysis so far, on a non-residential scheme ([PINS-6010709](../cases/PINS-6010709.md) ¶8–11: no discernible village on the ground; 1.3 ha is not limited infilling). The Annex B washed-over exclusion has now been applied squarely ([PINS-6009919](../cases/PINS-6009919.md) ¶49: Fobbing is not a settlement, so S4 is not engaged), but another inspector ran S4 for a Green Belt site inside a village settlement boundary ([PINS-6010097](../cases/PINS-6010097.md) ¶15, ¶20). No appeal has decided whether a washed-over village can be the "existing settlement" for S5(1)(j)(i).
-- No appeal has allowed 1–9 homes against "low" (not "very low") designated-asset harm. No inquiry has weighed moderate Grade II setting harm against 50+ homes.
+- Until 2 Oct 2026 no appeal had allowed 1–9 homes against "low" (not "very low") designated-asset harm; Blacko 6007704 ("limited", hearing) and Hildenborough 6010459 ("low level heritage harm", PIP) now have. No inquiry has weighed moderate Grade II setting harm against 50+ homes.
 - No express appeal ruling on Annex A ¶3 (Transitional(3)), or on a plan examined against the 2026 Framework.
 - Limb (ii) "type" has not been tested for market housing against an affordable-only need.
 - The meaning of the Connectivity Tool scale is unexplained in any letter.
-- F5 ("should not be located") is being used as a "should be refused" trigger. Is that right?
-- HO7 and HO1 as *harms*: 3 letters for, 5 against.
-- HE6(4) "long-term reuse of a vacant listed building" has no winning example.
+- F5 ("should not be located") is being used as a "should be refused" trigger. Is that right? Clavering [PINS-6010951](../cases/PINS-6010951.md) ¶14, ¶28 (2 Oct 2026) instead weighs the missing sequential test in the S4 balance.
+- HO7 and HO1 as *harms*: 3 letters for, 5 against. Barking [PINS-6009965](../cases/PINS-6009965.md) ¶17 (2 Oct 2026) treats loss of a family home as conflict with unnamed Framework housing-supply policies.
+- HE6(4) "long-term reuse of a vacant listed building" had no winning example until Blacko [PINS-6007704](../cases/PINS-6007704.md) ¶38–40 (hearing, 2 Oct 2026), which also notes that the reference to optimum viable use "has been removed".
+- L3(2)(b) and L3(4) are being applied to unallocated sites outside settlements (Brigsley 6009363; Glentham 6011337, same inspector). Is L3 a "should be refused" policy for an S5(1)(j) scheme?
+- At PIP stage, how much can be left to technical details? Hildenborough 6010459 ¶21 assumes the Golden Rules can be met; Market Harborough 6008177 defers heritage, splays and pedestrian access.
 
 **Watch list and recheck dates:**
 
@@ -202,9 +218,9 @@ Case links point to `../cases/<id>.md`. For the full list of cases per policy se
 | First s288 challenges to 2026-Framework decisions (S5(1)(j), HE6 weight misstatements such as 6007478) | The first construction of the new tests | From 29 Sep, monthly |
 | Albrighton, Shropshire (800 homes, Green Belt; recovered 16 Sep) | The first SoS Green Belt housing decision | Inquiry closes 9 Oct; decision likely 2027 |
 | Croxley Green 6004972 (about 600 homes, GB7(1)(g), inquiry) | Large-scheme grey belt | Monthly; watch for recovery |
-| MOD Bicester Site A (urgent Crown, SOS-PCU-RARE-C3105-3378843) | The first SoS decision under the 2026 Framework | Overdue; check now |
+| MOD Bicester Site A (urgent Crown, SOS-PCU-RARE-C3105-3378843) | The first SoS decision under the 2026 Framework | Checked 2 Oct 2026: gov.uk page still shows the representation period (closed 17 Sep) and no decision. Check weekly |
 | Maple House, Potters Bar (S62A/2026/0159, 293 homes); Laugherne Villa (S62A/2026/0157) | s62A decisions | 5 Nov; 10 Dec |
 | Dacorum, Land East of Tring inquiry | The GB7(1)(h) part-site rule; L3 45 dph | Opens 10 Nov |
 | Member-overturn appeals: [basildon-25-00575-OUT](../cases/basildon-25-00575-OUT.md), [-01188](../cases/basildon-25-01188-OUT.md), [-01190](../cases/basildon-25-01190-OUT.md), [threerivers-25-2168-OUT](../cases/threerivers-25-2168-OUT.md), Chorley 6014396, [nuneaton-041303](../cases/nuneaton-041303.md) | Tests section F (purpose (a) regrading; "around 800m") | As each lands |
-| SDC committee 23 Sep: 26/01894/PIP Pillerton Priors (L2(1)(d) failed but not run as an S4(2)(a)(ii) trigger); 25/00347/FUL | SDC trigger practice | Minutes 24–25 Sep; next committee 7 Oct |
+| SDC committee 23 Sep: [stratford-26-01894-PIP](../cases/stratford-26-01894-PIP.md) Pillerton Priors was refused on 25 Sep against the officer recommendation, on the S4(1) balance; neither the report nor the notice runs L2(1)(d) as an S4(2)(a)(ii) trigger. 25/00347/FUL still shows as pending | SDC trigger practice; a member overturn that may be appealed (until 25 Mar 2027) | Minutes of 23 Sep not published at 2 Oct. Next committee 7 Oct: 25/02712/OUT Harbury (up to 38 homes), 26/00410/FUL Tanworth-in-Arden (3 houses, washed-over village) and 26/00581/FUL |
 | Wychavon and Chalfont St Peter High Court challenges (2024-Framework decisions) | Context only | Nov |

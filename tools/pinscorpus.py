@@ -23,13 +23,22 @@ INDEX_COLS = ['ref', 'date', 'type', 'decision', 'lpa', 'nppf2026_codes',
               'cites_2026_fw', 'cites_old_fw_paras', 'description']
 
 # Canonical NPPF 2026 policy-code pattern (also used by the navigator build).
+_CODE = (r'(?:S[1-6]|GB[1-8]|TR[1-8]|HE(?:10|[1-9])|HO(?:1[0-3]|[1-9])|E[1-4]|TC[1-4]|CO[12]|W[1-4]'
+         r'|M[1-6]|L[1-3]|DP[1-4]|HC[1-8]|P[1-6]|F[1-9]|N[1-6]|DM(?:10|[1-9]))')
 CODE_RE = re.compile(
-    r'\b(S[1-6]|GB[1-8]|TR[1-8]|HE(?:10|[1-9])|HO(?:1[0-3]|[1-9])|E[1-4]|TC[1-4]|CO[12]|W[1-4]'
-    r'|M[1-6]|L[1-3]|DP[1-4]|HC[1-8]|P[1-6]|F[1-9]|N[1-6]|DM(?:10|[1-9]))'
+    r'\b(' + _CODE[3:-1] + r')'
     r'(\(\d+\)(?:\([a-z]\))?(?:\([ivx]+\))?)?(?=[\s,.;:)\]]|$)')
 
-FW26_RE = re.compile(r'(2026 (edition of the )?(National Planning Policy )?Framework|Framework \(2026\)'
-                     r'|August 2026|NPPF 2026|2026 NPPF|new Framework|revised Framework published)')
+# A letter cites the 2026 Framework if it names it by year or as the new or revised version, or cites
+# a Framework policy by code (the 2024 Framework had paragraph numbers, not codes). The queue depends
+# on this flag, so a phrasing missed here silently drops the letter from distillation.
+FW26_RE = re.compile(
+    r'(2026 (edition of the |version of the )?(National Planning Policy )?Framework'
+    r'|(Framework|NPPF),? \(?2026|August 2026|2026 NPPF'
+    r'|(new|revised|updated|latest|current|most recent) (version of the |edition of the )?'
+    r'(National Planning Policy )?(Framework|NPPF)'
+    r'|(Framework|NPPF) Polic(y|ies) ' + _CODE + r'\b'
+    r'|Polic(y|ies) ' + _CODE + r'(\(\d+\))?(\([a-z]\))?(\([ivx]+\))? of the (Framework|NPPF))')
 OLD_FW_RE = re.compile(r'December 2024|paragraph \d{2,3} of the (Framework|NPPF)')
 
 
