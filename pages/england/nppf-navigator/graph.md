@@ -713,7 +713,7 @@ Number (homes)
 - A handful of homes has been significant in a small or sparsely built village: five homes were "a significant amount of movement in this context" (6010313 ¶13). A single dwelling among existing houses has not (one home was not significant at 6010973 ¶20).
 - If it is not engaged, TR3(1)(a) is not a decisive matter, but reliance on the car is still weighed in the planning balance (P12). Inspectors have differed on how much: limited weight is common, but one home with TR3(1)(a) not engaged was given "moderate negative weight" for a poor walking route (6010422 ¶49), and another single home was held to conflict with TR3's "more general principles about sustainable patterns of movement" (6008773 ¶30–32). Car dependence has also been treated as a DP3(2)(d) conflict without clear justification, engaging DP3(3) (6007677 ¶27). If it is engaged, the location must offer a genuine choice of transport modes, tested in the next steps.
 - One inspector read the proviso "unless the nature of the development would make this impractical" as covering a change of use of an existing building (6009619 ¶18). The proviso refers to the nature of the development; whether a conversion meets it is a judgement to state.
-- This step is not asked in the Green Belt: GB7(1)(g)(iii) requires a sustainable-location finding whatever the scale of the scheme. One home failed there on the route alone, "notwithstanding the small scale of the proposal" (6010253 ¶18).
+- This step is not asked in the Green Belt: GB7(1)(g)(iii) requires a sustainable-location finding whatever the scale of the scheme. One home failed there on the route alone, "notwithstanding the small scale of the proposal" (6010253 ¶18). Two allowed appeals have since taken the opposite view, holding that a single dwelling would not "result in a significant amount of movement" (6005162 ¶23) or answering a missing footway by "the scale of the development" (6009720 ¶20), without testing the route.
 
 **Cases:** policies TR3(1)(a); grouped by finding
 
@@ -738,7 +738,7 @@ Number (homes)
 **Guidance:**
 - Measure the route people would actually use, not a straight-line distance.
 - Width matters: a lit, continuous but narrow footway beside a busy road failed at 6008688 (¶14).
-- TR4 is framed around the design of the development, but it asks for priority to walking, wheeling and cycling "both within the scheme and with neighbouring areas" (TR4(1)(a)) and for measures that "meet the needs of disabled people, older people and children" (TR4(1)(c)(ii)). A route to services that a wheelchair or pushchair cannot use is not a genuine choice for them under TR3(1)(a).
+- TR4 is framed around the design of the development, but it asks for priority to walking, wheeling and cycling "both within the scheme and with neighbouring areas" (TR4(1)(a)) and for measures that "meet the needs of disabled people, older people and children" (TR4(1)(c)(ii)). A route to services that a wheelchair or pushchair cannot use is not a genuine choice for them under TR3(1)(a). One inspector, told the footpaths were unusable by wheelchair users, was "not convinced that the condition of the local footpaths along renders the location unsustainable" (6010578 ¶24, allowed).
 
 ### Walking route: lighting `tr3Lit` (question)
 
@@ -1009,7 +1009,7 @@ Number (mph)
 - Small housing schemes have lost this balance on "low" harm despite supply shortfalls (6009545: 1 home, 3.68 years; 6007054: moderate harm, 1 home, 2.98 years). At 6010097 ¶14 one home was given substantial weight and still did not outweigh harm that was "modest in extent".
 - An informal public benefit that is not secured carries reduced weight: community use "on an informal ad-hoc basis" got modest weight (6001939 ¶14).
 - Minor harm has been outweighed by larger schemes with a shortfall (3375062: 20 homes; 6005664: 110 homes).
-- No appeal since August 2026 in the dataset allows 1 to 9 homes against "low" (as opposed to "very low") harm to a designated asset.
+- Two appeals in the dataset allow 1 to 9 homes against harm above "very low": "limited" harm to a listed pub, outweighed mainly by reuse of a building empty for over three years (6007704 ¶36–40, hearing); and conservation-area harm "at the lower end of the scale", outweighed by 5 to 7 homes at 2.89 years' supply (6010459 ¶18–19, permission in principle). Otherwise small schemes have lost on "low" harm.
 
 **Contested:** Should HE6(4) be run as its own balance, or folded into the overall S4/S5 balance?
 - *Run separately, then carried into the overall balance*: The usual appeal sequence: HE6(4) first (6007221 ¶40), then the overall balance, where the unjustified harm has led inspectors to find the benefits substantially outweighed (6007221 ¶51; 6006475 ¶59, ¶68; SDC at Ilmington, stratford-26-01399-PIP). The failure is weighed there; it is not a "should be refused" trigger.

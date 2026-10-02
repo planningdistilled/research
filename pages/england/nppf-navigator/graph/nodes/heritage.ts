@@ -184,7 +184,7 @@ export const heritage: GraphNode[] = [
       type: 'multi',
       options: [
         { value: 'housing-larger', label: 'Housing — a larger scheme where housing supply is short', help: 'Significant weight: HO7 weight rises with the number of homes and the certainty of delivery, and a supply shortfall adds to it.' },
-        { value: 'housing-small', label: 'Housing — one or a few homes', help: 'Limited weight, even with a supply shortfall: no appeal in the dataset has allowed 1–9 homes against more than very low heritage harm.' },
+        { value: 'housing-small', label: 'Housing — one or a few homes', help: 'Usually limited weight, even with a supply shortfall. Two appeals in the dataset have allowed 1–9 homes against more than very low heritage harm (6007704, 6010459).' },
         { value: 'affordable-secured', label: 'Affordable housing — secured by obligation', help: 'Significant weight when secured by a planning obligation.' },
         { value: 'affordable-unsecured', label: 'Affordable housing — offered but not secured', help: 'Little or no weight until it is secured.' },
         { value: 'reuse', label: 'Long-term reuse of a vacant or underused listed building — secured', help: 'An important public benefit named in HE6(4). The building must be genuinely vacant or underused, and the reuse secured. Its weight falls where the harmful scheme is not needed to deliver it: an extant, less harmful consent already secured the reuse (6006903 ¶22), or the conversion was not shown to be "the only way to secure the long-term reuse" (6006266 ¶23).' },
@@ -221,7 +221,7 @@ export const heritage: GraphNode[] = [
       'Small housing schemes have lost this balance on "low" harm despite supply shortfalls (6009545: 1 home, 3.68 years; 6007054: moderate harm, 1 home, 2.98 years). At 6010097 ¶14 one home was given substantial weight and still did not outweigh harm that was "modest in extent".',
       'An informal public benefit that is not secured carries reduced weight: community use "on an informal ad-hoc basis" got modest weight (6001939 ¶14).',
       'Minor harm has been outweighed by larger schemes with a shortfall (3375062: 20 homes; 6005664: 110 homes).',
-      'No appeal since August 2026 in the dataset allows 1 to 9 homes against "low" (as opposed to "very low") harm to a designated asset.',
+      'Two appeals in the dataset allow 1 to 9 homes against harm above "very low": "limited" harm to a listed pub, outweighed mainly by reuse of a building empty for over three years (6007704 ¶36–40, hearing); and conservation-area harm "at the lower end of the scale", outweighed by 5 to 7 homes at 2.89 years\' supply (6010459 ¶18–19, permission in principle). Otherwise small schemes have lost on "low" harm.',
     ],
     method: {
       question: 'With considerable importance and weight given to the harm, and substantial weight to the asset\'s conservation, do the public benefits outweigh the harm?',

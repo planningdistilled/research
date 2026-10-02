@@ -84,7 +84,7 @@ export const greenbelt: GraphNode[] = [
         'Check the existing building. It must be of permanent and substantial construction and lawful in planning terms. A temporary or unlawful structure does not qualify.',
         'For an extension or alteration, compare the building as it would be, with all previous additions, against the original building (footnote 40), not against the building as it stands now (6008745 ¶8, ¶10). Use floorspace, volume, footprint and external dimensions together; the test is not a percentage rule.',
         'For a replacement, ask whether it is for the same use and not materially larger than the building it replaces. Here the comparison is with the existing building.',
-        'If every condition is met, the proposal is not inappropriate. Openness is not then assessed separately (6010603 ¶16).',
+        'If every condition is met, the proposal is not inappropriate. Openness is not then assessed separately (6010603 ¶16). Check the whole proposal: where a conversion passed (b) but a new residential garden was a change of use of land outside every exception, the scheme as a whole was inappropriate (6011889 ¶5–7).',
       ],
       pointers: [
         {
@@ -225,7 +225,7 @@ export const greenbelt: GraphNode[] = [
       question: 'Is the whole site previously developed land as Annex B defines it, is the proposal its redevelopment, and would it stop short of substantial harm to openness?',
       steps: [
         'Test the land against Annex B: lawfully developed, occupied by a permanent structure or fixed surface infrastructure, with its curtilage (not assuming the whole curtilage should be developed). Check each exclusion: agricultural or forestry buildings, land with restoration provision, land in built-up areas such as residential gardens, and remains that have blended into the landscape.',
-        'Check the whole site. Where a necessary part, such as a garden, is not PDL (previously developed land), inspectors have held the category is not met (6011330 ¶9). A garden outside a built-up area can be PDL (6012162 ¶8–9); one in a built-up area is not (6011803 ¶19).',
+        'Check the whole site. Where a necessary part, such as a garden, is not PDL (previously developed land), inspectors have held the category is not met (6011330 ¶9). A garden outside a built-up area can be PDL (6012162 ¶8–9); one in a built-up area is not (6011803 ¶19). One letter read Annex B as excluding residential garden land generally (6005162 ¶13); the exclusion as written applies in built-up areas.',
         'Check it is redevelopment. A material change of use to residential is included. Extending a building that stays in place is not redevelopment (6008579 ¶12); consider it under GB7(1)(b).',
         'Assess openness in spatial and visual terms against what is there now: footprint, height, volume, spread across the site, and visibility.',
         'Ask only whether the harm to openness would be substantial. GB7(1)(e) has no purposes test and no "greater impact" test; the purposes test with "significant conflict" belongs to GB7(1)(f).',
@@ -494,7 +494,7 @@ export const greenbeltAfterTr3: GraphNode[] = [
         },
       ],
       evidence: ['The development plan affordable housing policies, and the highest existing requirement', 'The draft planning obligation and heads of terms', 'Infrastructure providers\' and the highway authority\'s requirements', 'The landscape and green space parameter plan', 'Any viability assessment, and which GB8(3) circumstance it relies on'],
-      closeCall: 'All three contributions are required. Compliance carries substantial weight (GB8(2)). An improvement that is offered but not secured has been treated as not made (6006637 ¶44). Affordable housing significantly below the required level is acceptable only in exceptional cases, fully evidenced and justified (GB8(4)).',
+      closeCall: 'All three contributions are required. Compliance carries substantial weight (GB8(2)). An improvement that is offered but not secured has been treated as not made (6006637 ¶44). At permission in principle stage, where obligations cannot be secured, one inspector assumed the contributions were deliverable "Despite the absence of evidence on this matter" (6010459 ¶21). Affordable housing significantly below the required level is acceptable only in exceptional cases, fully evidenced and justified (GB8(4)).',
     },
     input: passFail('Yes', 'No'),
     effects: [

@@ -71,7 +71,7 @@ const methods: Record<'c' | 'd' | 'e' | 'f' | 'h' | 'i' | 'j' | 'isolated' | 'ho
     steps: [
       'Map the site against lawful permanent structures, fixed surface infrastructure and their curtilage.',
       'Apply the Annex B exclusions: land last occupied by agricultural or forestry buildings; land with provision for restoration; residential gardens, parks, recreation grounds and allotments in built-up areas; and land where the remains have blended into the landscape.',
-      'The garden exclusion applies only in built-up areas. A garden outside a built-up area has been held to be previously developed land (6011217 ¶17).',
+      'The garden exclusion applies only in built-up areas. A garden outside a built-up area has been held to be previously developed land (6011217 ¶17). One letter read the exclusion as covering residential garden land generally (6005162 ¶13).',
       'Check the whole site qualifies. S5(1)(d) has been held not to cover the partial redevelopment of previously developed land (6006950 ¶30, 6009409 ¶18).',
       'Note that Annex B says it "should not be assumed that the whole of the curtilage should be developed". The extent of built development is weighed in the balance.',
       'If the scheme creates a new home outside any settlement or group of houses, inspectors have still applied S5(3) and HO11 (6008115 ¶26, 6009718 ¶61).',
