@@ -1,0 +1,572 @@
+Appeal Decision
+Hearing held on 2 September 2026
+Site visit made on 22 August 2026
+by L N Hughes BA (Hons) MSc MRTPI
+an Inspector appointed by the Secretary of State
+Decision date: 25 September 2026
+
+
+Appeal Ref: 6007133
+Land at Brock, Garstang Road, Bilsborrow, PR3 0BT
+•      The appeal is made under section 78 of the Town and Country Planning Act 1990 (as amended)
+       against a refusal to grant outline planning permission.
+•      The appeal is made by The Hub (UK) Ltd against the decision of Wyre Borough Council.
+•      The application Ref is 22/00612/OUTMAJ.
+•      The development proposed is outline application for the erection of mixed-use class commercial
+       units featuring Use Class E(g) and/or B8 with associated access off Garstang Road (A6), with
+       access, layout and scale applied for.
+
+Decision
+1.       The appeal is dismissed.
+Preliminary Matters
+2.       At appeal submission stage the appellant proposed several amendments, which I
+         considered in accordance with the substantive test and procedural tests identified
+         by the Holborn Studios judgement1. I accepted the removal of the potential for the
+         proposed uses to include offices, to be achieved via a condition. This was because
+         I found no reliance on an office use intent within the application stage documents,
+         it is not expressly stated in the operative description of development, and the
+         extent of parking provision would be unaffected. Its removal would therefore meet
+         the substantive test, and would not cause any procedural unfairness as it would
+         restrict the proposal and not expand it.
+3.       New appeal stage plans ‘Proposed Access Arrangement 16-2090-002 Rev E’ and
+         ‘Vehicle Tracking 16-2090-004 Rev E’ proposed site access amendments and
+         provided further detail. I accepted them as meeting the necessary tests, because
+         the access would not be a fundamental change to the application stage proposal,
+         and they had been agreed by the Lancashire County Council Highway Authority.
+4.       Based on the above, and on the hearing discussion regarding the potential impact
+         on the veteran oak tree (which I address within Character and Appearance), the
+         Council confirmed that the 2nd, 4th, and 5th reasons for refusal fell away. These
+         related to the lack of sequential test for office use, loss of the oak tree, and
+         highways matters.
+5.       The appellant’s appeal submission also requested removal of consideration of
+         layout and scale until future reserved matters stage. However, they have remained
+         part of my assessment as I found this would be a substantive change, being part
+         of the operative description, and would cause procedural unfairness as it informed
+
+1
+    Holborn Studios Ltd v The Council of the London Borough of Hackney [2017] EWHC 2823 (Admin)
+
+https://www.gov.uk/planning-inspectorate
+Appeal Decision 6007133
+
+
+       the basis of a high number of interested party responses. The Council also
+       considered that layout and scale are fundamental to the proposal’s assessment.
+6.     The hearing was initially scheduled in person, but was postponed at short notice
+       and rearranged to a virtual event 3 weeks later. I am satisfied that no-one was
+       prejudiced by this change. Specific discussion of this at the hearing identified that
+       the two parties who had previously registered to speak in person and who could no
+       longer attend, were able to be suitably represented by other interested parties,
+       alongside their own previous written representations.
+7.     A revised version of the National Planning Policy Framework ('the Framework')
+       was published on 17 August 2026. Prior to the hearing I sought written comments
+       from the main parties, with the discussions held on this basis.
+Main Issues
+8. The main issues are:
+     • the effect of the proposed development on the character and appearance of the
+       area; and
+     • whether the proposed development would be in a suitable location, having
+       regard to the spatial strategy for the area.
+Reasons
+Character and Appearance
+9. The A6 Garstang Road runs north-south through the village of Bilsborrow. The
+   appeal site is a grassed field parcel to its east, separated by a grassed verge and a
+   hedgerow with some trees. Dwellings and commercial units lie on the opposite side
+   of the A6. To the site’s north lies hedging and vegetation adjacent to the River
+   Brock, with the forecourt of a car showroom beyond the river. To its east runs the
+   mainline railway on an elevated bund, with a large field and the M6 beyond. The
+   site’s southern extent partly comprises residential gardens, and partly a low
+   boundary to a single track lane, with a commercial unit on its other side.
+10. The veteran oak tree in the site’s south-eastern extent is subject to a Tree
+    Preservation Order. The application was refused in part due to the loss of this tree,
+    and its associated ecosystem, although the appellant clarified at appeal stage that
+    its direct removal is not sought. However, it would likely be impacted by the draft
+    drainage scheme’s attenuation pond layout.
+11. Were I to allow the appeal, the proposed condition 3 requires further details of a
+    sustainable surface water drainage scheme and foul water drainage scheme to be
+    approved, and condition 18 requires an Arboricultural Method Statement and Tree
+    Protection Plan for all retained trees. I would also be able to impose an additional
+    condition for specific details to demonstrate how the veteran oak tree and its
+    immediate ecosystem would be protected and accommodated within the drainage
+    and construction strategy. I could ensure that the condition approving the Proposed
+    Site Plan2 clarified that this would not approve the tree’s removal.
+12. The Council agreed in discussion at the hearing that that this provides sufficient
+    confidence that there would be no physical impact on the tree, and thus no conflict
+    with the protection for veteran trees given by Policy CDMP4(24) of the Wyre Local
+
+2
+8679-BOW-A0-00-DR-A-1000_P7
+
+
+https://www.gov.uk/planning-inspectorate   2
+Appeal Decision 6007133
+
+
+     Plan 2011-2031 (incorporating partial update of 2022) (‘the LP’), and by the
+     Framework Policy N6(2). My consideration of the proposal’s impact upon character
+     and appearance is therefore made on this basis.
+13. I take no in principle issue with the Landscape and Visual Impact Assessment
+    (LVIA)3 methodology and representative viewpoints chosen as a professional
+    landscape analysis, in accordance with the Guidelines for Landscape and Visual
+    Impact Assessment (Third Edition). The Council criticised elements of its approach
+    as overcomplicating the process, however, I find it to be consistent with established
+    professional guidance.
+14. The LVIA identifies the site as within the Landscape Character Area of ‘5i West
+    Bowland Fringes’, within the broader ‘Undulating Lowland Farmland’ Landscape
+    Character Type (LCT)4. It is described as transitional landscape between the
+    gritstone scarps of the Bowland Fells and the coastal plain of Amounderness, with
+    a fault line corridor containing the motorway, road, and railway, and providing a
+    transition to the agricultural plain.
+15. To some extent the site could be perceived to be a remnant field parcel more
+    aligned to the built form of Bilsborrow than to the wider countryside. This results
+    from the separation by the railway bund and its associated infrastructure, with the
+    frequency of passing trains drawing attention to its presence, and the influence of
+    the commercial and residential development to the other sides. The urbanising
+    effect of the proposal could therefore be read not as a different form of physical
+    intervention, but rather a continuation of the established character of ribbon
+    development along the A6. The LVIA acknowledges that the land-cover change
+    within the site would cause an overall moderate significance of effect, but identifies
+    that the key characteristics of the LCT would prevail, and with only minor effect on
+    the other landscape receptors.
+16. However, the verdancy and openness of the site behind and above its prominent
+    A6 hedgerow frontage provides a very apparent break to the built form. This aligns
+    with the broader character of the main route through Bilsborrow being stretches of
+    development interspersed with open grassed areas or thick tree cover. Although
+    the railway acts as a raised barrier to the field beyond, the distant hills of the Forest
+    of Bowland National Landscape are evident above and beyond it from along the A6
+    and its dwellings, even with a high hedgerow in full leaf. These hills are noted within
+    the LCT West Bowland Fringes description; “the scarps of the Bowland fells are
+    never far away”5. There are also glimpsed views of the field itself through the
+    hedgerow along the A6, which would vary seasonally, and a clear oblique view of it
+    from the A6 river bridge.
+17. From the raised parts of the Public Right of Way (PRoW) route to the north-east,
+    the site’s verdant and agricultural form is especially evident as its main
+    characteristic, despite its framing by the railway in the foreground and some other
+    built form elements visible around it. Similarly, the stretch of the adjacent lane to its
+    south allows for very open views across the whole site.
+18. Although longer pastoral views are restricted by the railway infrastructure, that is
+    not a recent landscape intervention, and its associated vegetation provides a green
+3
+  Landscape and Visual Impact Assessment, Pegasus Group, March 2025; Landscape and Visual Technical Note, Urban Green,
+March 2026.
+4
+  A Landscape Strategy for Lancashire, Landscape Character Assessment, Lancashire County Council, 2000
+5
+  As repeated in the LVIA paragraph 3.13.
+
+
+https://www.gov.uk/planning-inspectorate            3
+Appeal Decision 6007133
+
+
+     bookend such that elements of hard infrastructure are predominantly limited to the
+     slimline poles and wires. Development to the north of the field is also longstanding,
+     albeit has changed in form and use over the years. In this sense, the field is not a
+     remnant parcel of countryside, but rather a valuable element of the village’s historic
+     development. Overall, I find a strong visual and perceptual connection across the
+     railway to the site’s broader countryside setting. The site provides a strong and
+     positive contribution to the character of the village.
+19. The proposal would retain the majority of the frontage hedgerow as its prominent
+    feature, excepting the new access road. However, its value to the local character in
+    providing a verdant break would be reduced due to the stark visual contrast of the
+    higher built form massing behind it, and the blocked long range views and
+    countryside connection. A continuous extent of commercial frontage along the A6
+    would be a marked change in character, even with additional landscaping.
+20. The density and layout in part responds to the need for variety of plot sizes and
+    types, and thus contributes to the proposal’s identified economic benefits which I
+    discuss later in this decision. Nonetheless, I find harm from the overall extent of
+    massing and hardstanding proposed across the site. The lack of consistent
+    proportions and plot size for the proposed buildings would not be especially
+    evident, but cumulatively the proposal would be overly dense and of overwhelming
+    scale for its location. In particular, plots 2-7 would form a long barrier row to those
+    important views I have identified above. The layout would not reflect the other
+    commercial buildings in the vicinity which are further set back from the A6 and
+    orientated in alignment to it. These aspects are compounded by the proposed
+    height of up to 9m. This would be more evidently impactful than the broadly
+    equivalent heights of the individual dwellings opposite, due to the commercial form
+    and extent.
+21. Although landscaping is a reserved matter, such that more screening could be
+    provided than as shown indicatively on the current plans, the proposal’s
+    overwhelming character would be densely urban. This would not adequately reflect
+    its rural village setting.
+22. Regarding visual effects, the LVIA characterises the overall magnitude of effect for
+    A6 road users and A6 residents as medium magnitude of effect at year 1, dropping
+    to low at year 15. The overall significance of effect is identified as moderate
+    dropping to minor for A6 road users, and major dropping to moderate for residents.
+    For the reasons outlined above, I find the proposal would have a more severe
+    adverse effect for these receptors across this period.
+23. With regard to the PRoW routes, the LVIA methodology is inevitably based on a
+    consideration of theoretical receptors. In actuality, interested parties also identified
+    the recreational walking route’s regional popularity, and the adjacent community
+    nature area. Incorporating these aspects, they place high value on the PRoW and
+    its elevated bridge running alongside the railway, and its importance for visitors.
+    Alongside my own reading of the evidence including my site visit, I judge there
+    would be a higher extent of impact upon those viewpoints than as described in the
+    LVIA, even though visual effects would be localised.
+24. Specifically, I find the impact from viewpoint 4 to the north-east would have a higher
+    magnitude of effect at years 1 and 15 than the LVIA’s identified medium and low
+    respectively. I agree a year 1 major significance of effect, but expect this would be
+
+
+https://www.gov.uk/planning-inspectorate   4
+Appeal Decision 6007133
+
+
+     more than moderately adverse at year 15. Views across the site from the lane
+     running immediately to the south of the site are encompassed generally within the
+     representative viewpoints, albeit not specifically identified. The impact would be of
+     high magnitude and major significance. On the layout sought, there would generally
+     be limited opportunity across the majority of views for this harm to be mitigated to
+     any impactful extent over time by future landscaping.
+25. Overall, I find that the extent of the existing surrounding development in this
+    location provides even greater need and importance for retention of the character
+    of the remaining field gap and views across it. The proposal would not be well-
+    related to its edge of village location, and would therefore significantly harm the
+    character and appearance of the area, in conflict with the LP Policy CDMP3.
+    Amongst other matters this requires that development must be designed to respect
+    or enhance the character of the area and make a positive contribution to an
+    attractive and coherent townscape, having regard to matters including density,
+    height, scale, massing, and views.
+26. The decision notice reason for refusal also refers to a conflict with Policy SP4, with
+    relation to criterion (1) being development which adversely impacts on the open
+    and rural character of the countryside. However, as such development will not be
+    permitted unless this harm is demonstrated as being necessary to achieve
+    substantial public benefits that outweigh the harm, I therefore conclude on SP4 in
+    my Planning Balance.
+27. The Framework Policy DP3 criterion (1) identifies that development proposals
+    should respond to their context (the history, character and features of their site and
+    its setting) so that they integrate with and enhance their surroundings, including
+    through the arrangement of development plots and buildings. Criterion (3) identifies
+    that proposals should be refused if, without clear justification, they conflict with
+    criterion (1). I find conflict in this regard.
+Suitable Location
+28. Bilsborrow is identified as one of ten ‘Main Rural Settlements’ within the settlement
+    hierarchy established by the LP Policy SP1, with 1.9ha of employment growth
+    identified across them. The appeal site size of approximately 2.44ha would exceed
+    this entire employment land allocation. Policy SP1 requires new development to be
+    of appropriate type and scale to the character of the settlement in the hierarchy,
+    which would not be achieved.
+29. The LP Policies Map places the appeal site within the ‘Countryside Area’ outside
+    of the Bilsborrow settlement boundary. Again, I reserve full judgement on Policy
+    SP4(1) until my Planning Balance. However, SP4 further identifies that within
+    Countryside Areas, planning permission will only be granted for new development
+    that meets the requirements of the Core Development Management Policies and is
+    for the purposes of a set of listed development types, aligned with various criteria.
+    My straightforward reading of SP4 is that those types of development not
+    specifically identified under its criterion (2) to (4) are therefore precluded in
+    principle from this location. The only development form which may be relevant to
+    the appeal proposal is (2)(h), being ‘the expansion of business in rural areas in
+    accordance with Policy EP8 (Rural Economy)’.
+30. Policy EP8(2) in turn identifies that the expansion of existing businesses within
+    countryside areas will be supported where it is demonstrated that (a) its scale
+
+https://www.gov.uk/planning-inspectorate   5
+Appeal Decision 6007133
+
+
+       would not be detrimental to the rural character of the area. As I have already
+       identified such detriment, the proposal would thus not be in accordance with
+       EP8(2)(a). Moreover, although nothing would preclude a rural business from
+       operating from the site, this also cannot be relied upon as justification. If one of the
+       proposed units were leased by a multi-national company, that would not make it a
+       ‘rural business’ just because it were in a rural location. Policy SP4(2)(h) therefore
+       would not apply, bringing the proposal into overall conflict with SP4, subject to the
+       overall balance.
+31. With reference to EP8 criterion (1), which identifies that the Council will support
+    proposals to help diversify the rural economy, I similarly find the appellant takes
+    too broad a reading when considering support for the proposal before me. If any
+    and every type of development which would create jobs in the rural areas should
+    generate this support, it would essentially make the policy unnecessary and
+    meaningless as it would infer no differentiation. The focus of this policy as
+    identified in its justification text, relates to farm diversification and small
+    businesses. Overall, I find no direct support from EP8.
+32. Aligned to this theme, the appellant considers the Framework Policy E4 ‘rural
+    business development’ to be a significant policy shift which weakens the argument
+    that countryside location alone makes the development unacceptable. However,
+    E4 addresses similar themes to the LP EP8. The lack of identification of any
+    specific local business need for the site again indicates no direct relevance to
+    E4(1). As I have already identified that the proposal itself would not be physically
+    well-related to existing development or with appropriate siting and design having
+    regard to the character of its surroundings, it would conflict with E4 criterion (2)(a)
+    and (b).
+33. The Framework Policy S5 relates to the principle of development outside
+    settlements. Criterion (1) states that only certain forms of development should be
+    approved outside settlements, and these should be approved unless the benefits
+    of doing so would be substantially outweighed by any adverse effects, when
+    assessed against the national decision-making policies in the Framework.
+34. These forms of development are identified within several criteria, of which only (b)
+    and (j) could directly apply. As (b) is for development for rural businesses and
+    services where a location outside settlements is shown to be necessary, I make
+    the same finding as above that the proposal would not definitively be a
+    development for rural businesses.
+35. S5(1) criterion (j) is most relied upon. Firstly, this is for development which would
+    address an evidenced unmet need. The Framework Policy E2(2) is important in
+    this regard, as it identifies considerations to assess unmet need including market
+    signals and the availability of suitable existing land and buildings.
+36. Although the appeal site lies outside Bilsborrow’s settlement boundary, in
+    economic terms it aligns with the village’s location within the sub-market of the ‘A6
+    Corridor’, a well-established and strategically important economic spine within the
+    Borough. It is characterised by strong market demand, commercial activity, and
+    good transport links.
+37. The need for the proposal was discussed extensively across the written evidence
+    and at the hearing. Key points of dispute between the parties include whether the
+    current employment site vacancy rates in the A6 Corridor indicate either market
+
+https://www.gov.uk/planning-inspectorate   6
+Appeal Decision 6007133
+
+
+         failure and ineffective supply, or conversely indicate need is met through an
+         appropriate spatial strategy. The appellant’s evidence identifies that a 5% to 10%
+         vacancy rate is indicative of a healthy property market, as this allows businesses
+         to expand or contract into suitable premises, whilst also not leaving vacant
+         premises on the market for extended periods. They identify a Wyre Borough
+         vacancy rate of only 3.7%, and of 1.6% in the A6 corridor, suggesting significant
+         market constraint6. The parties also addressed whether the four key employment
+         sites discussed (as being those most in contention) are available and deliverable.
+38. However, matters concerning the extent to which employment land is being
+    delivered and needs addressed, are best assessed under my Planning Balance
+    section. This is because they are primarily material considerations to balance
+    against the development plan, including where supported by the Framework,
+    rather than in isolation leading to direct conflict or compliance with its specific
+    policies. I have therefore not addressed this point in further detail here.
+    Notwithstanding this approach, for the purpose of reasoning on this main issue as
+    to whether the proposal would be in a suitable location having regard to the spatial
+    strategy, I have assumed that an unmet employment land need does exist.
+39. The Framework Policy S5(1) criterion (j) also requires the development to be either
+    (i) physically well-related to an existing settlement (unless the nature of the
+    development would make this inappropriate) and be of a scale which can be
+    accommodated taking into account the existing or proposed availability of
+    infrastructure, or, (ii) comprise major development for freight and logistics
+    purposes which accords with policy E3. The proposal would fall under the
+    definition of freight and logistics, which includes storage and distribution
+    operations7.
+40. I take compliance against S5(1)(j)(i) to be not just the site’s own spatial
+    relationship to the settlement of Bilsborrow, against which is it physically well-
+    related due to the extent and positioning of the built form around it, but also how
+    the proposal itself would relate to the surrounding character. In this regard I have
+    explained in detail above how it would not be well-related due to the nature of the
+    development being inappropriate and the harm it would generate. Conflict with S5
+    would therefore arise in this regard.
+41. When turning to the Framework Policy E3 for freight and logistics development,
+    requirement (b) includes that proposals should be sited and designed to limit
+    environmental impacts. My reading is that environmental impacts may incorporate
+    the relationship with character and appearance. However, it could be argued that
+    the wording of ‘sensitive building design’ in E3(1)(b) should instead relate to a
+    broader interpretation of the environmental objective as set out in the Framework
+    paragraph 17, including because detailed building design is a reserved matter. In
+    that case, the proposal would comply with all the E3 criteria, including
+    environmental impacts, highways and transport matters, and impact on local
+    residents.
+42. Nonetheless, the flexible Class E(g)(ii)/(iii) and/or B8 use sought means that a
+    development could be delivered on the site from which freight and logistics use
+
+
+
+6
+    Paragraphs 5.3.2 and 5.3.3, Employment Land and Premises Assessment, Lambert Smith Hampton, April 2025.
+7
+    Framework Annex B: Glossary.
+
+
+https://www.gov.uk/planning-inspectorate               7
+Appeal Decision 6007133
+
+
+       were entirely absent. The traffic modelling and economic benefits are also not
+       predicated on it exclusively comprising freight and logistics.
+43. On this basis, I therefore find that the proposal should not be considered to wholly
+    fall under Policy S5(j)(ii) relating to “major development for freight and logistics
+    purposes which accords with policy E3.” There would be disparity with the
+    proposal’s underlying assumptions if I were to accept this approach. Criterion
+    S5(j)(i) holds more weight in the proposal’s determination. I therefore conclude that
+    there would be conflict with the Framework Policy S5 overall, even in assuming
+    that the proposal would address an evidenced unmet need for employment land.
+44. The appeal site is an agricultural field outside of the Bilsborrow settlement limits.
+    The LP could have identified special areas such as the A6 corridor where the
+    restrictive countryside policies could be tempered for economic purposes,
+    including due to being edge of settlement or due to physical characteristics such
+    as the mainline railway. However, it did not do so.
+45. The overall spatial strategy under the LP Policies SP1 and SP2 aims to create
+    sustainable communities, which includes aligning employment opportunities to
+    areas of significant housing growth. Bilsborrow is not a location for significant
+    housing growth. Local residents have highlighted that the village has already
+    embraced appropriate economic growth over the past few years from the major
+    developments at its northern extent, and smaller scale tourism and commercial
+    enterprises. Notwithstanding the weight to the material consideration of the
+    broader context of employment land need in the A6 Corridor, which I come onto
+    below, this does not in itself reduce the specific policy conflict.
+46. Overall, I have found conflict with the LP Policies SP1 and SP2, and partial conflict
+    with SP4 subject to the final balancing exercise, with no support from Policy EP8.
+    The proposal would also conflict with the Framework Policies E4 and S5. Against
+    the development plan and the Framework, the site’s countryside location and the
+    proposal’s specific form therefore indicates that it would not be in a suitable
+    location. However, ultimately this issue goes to the principle of the proposal as a
+    whole, such that the final conclusion of suitability must result from weighing of all
+    matters in my Planning Balance below.
+Other Matters
+47. Numerous residents raised highways concerns, including the proposal’s trip
+    generation and impact on existing congestion, implications of the new pedestrian
+    and cycle measures and access works, and sightlines to and from the north.
+48. However, the two Statements of Common Ground confirm that subject to
+    appropriate mitigation secured by condition, the Council and Lancashire County
+    Council as the Local Highway Authority have agreed the principle of the A6 priority
+    junction with right turn ghost island, the detailed access design, traffic impacts, trip
+    rates, and parking provision. Pedestrian and cycle improvements along the A6
+    frontage are deliverable and can be secured with detailed design via Section 278,
+    to include consultation with immediate residents. A Travel Plan, Construction
+    Environmental Management Plan (CEMP), and £6,000 Travel Plan monitoring
+    contribution are acceptable, and can be secured by condition or section 106
+    agreement.
+
+
+
+https://www.gov.uk/planning-inspectorate   8
+Appeal Decision 6007133
+
+
+49. Residents also objected on grounds of flood risk. Nonetheless, the proposal has
+    passed the sequential test, no exception test is required, and the relevant
+    consultees including the Environment Agency and the Lead Local Flood Authority
+    have no objections, subject to agreement of the final detailed drainage design via
+    conditions. As I am dismissing the appeal, it is unnecessary to address these
+    matters in any further detail, or any others raised by interested parties.
+Planning Balance and Conclusion
+50. For the purpose of assessing the planning balance and ultimately whether the
+    proposed development would be in a suitable location, I find it most straightforward
+    to take the starting point of testing the ‘what if’ position of accepting the appellant’s
+    employment need arguments in entirety. I have already taken this approach above
+    with relation to the Framework Policy S5 ‘unmet need’. On this premise, I can
+    consider the appellant’s position against the relevant policies and the development
+    plan as a whole including the overall spatial strategy, and the Framework. If I
+    resultingly find in favour of allowing the appeal, at that point I would have to make
+    more definitive conclusions on those specific matters contested by the Council.
+51. The proposal would include two pedestrian crossings and shared cycle and
+    pedestrian routes. Although acting partly as mitigation for the proposal’s highway
+    impacts, I give minor weight to the crossings as a benefit, based on the range of
+    interested party objections that the A6 is currently very busy and difficult to cross.
+    There is no statutory requirement for biodiversity net gain, and landscaping is
+    reserved, but conditions would ensure limited biodiversity benefits such as bat and
+    bird boxes and compensatory hedgerow planting. I also give this minor weight.
+52. The Framework Policy E2(1a) identifies that to support business growth,
+    substantial weight should be given to the economic benefits of proposals for
+    commercial development which allow businesses to invest, expand and/or adapt;
+    especially where this would support the economic vision and strategy for the area,
+    or support improvements in freight and logistics. The appeal proposal would
+    directly support business growth and achieve such benefits.
+53. During the 2 years of construction, and after allowing for leakage, displacement
+    and substitution, the proposal would bring a net additional impact of approximately
+    49 jobs per annum and £2.8 million GVA per annum within the North West region.
+    Annual business rates are cited as being approximately £156,000.
+54. After allowing for additionality, the net local impact would be approximately 94 net
+    jobs within Wyre District, generating approximately £6.6 million GVA per annum
+    locally. However, this is based upon calculations in the April 2025 Employment
+    Land Assessment, which assumed office occupation of the smallest units, being
+    13% of the total floorspace. The operational job and GVA totals would therefore be
+    lower, albeit the extent of this reduction was not quantified to me. Nonetheless,
+    even at a reduced level the economic benefits would still be of an extent to which
+    Policy E2 directs that I should give substantial weight.
+55. In accepting the appellant’s position on employment land and market dynamics,
+    this indicates that the overall employment strategy in the A6 Corridor is insufficient
+    to address need. The appellant argues that there is no bespoke policy position or
+    release mechanism within the LP which could directly support the type and
+    location of employment development proposed. On this basis, employment need,
+    as supported by the Framework policy E2 and in broader terms by the LP’s
+
+https://www.gov.uk/planning-inspectorate   9
+Appeal Decision 6007133
+
+
+         economic objectives, is a material consideration which tempers the weight to
+         which I give the conflict with the LP Policies SP1, SP2, and SP4.
+56. However, the Framework paragraph 3 identifies that planning law requires
+    planning applications to be determined in accordance with the development plan,
+    unless material considerations indicate otherwise. The national decision-making
+    policies in the Framework are a material consideration in making these decisions
+    and should be read alongside the policies in the development plan. Policy S3
+    reiterates this through the presumption in favour of sustainable development.
+    Criterion (c) states that in all locations, development proposals that accord with
+    both an up-to-date development plan and the decision-making policies in this
+    Framework should be approved without delay.
+57. The proposal would significantly harm the character and appearance of the area,
+    bringing it into conflict with the LP Policy CDMP3. This Policy is up-to-date,
+    including because it is not materially inconsistent with the Framework Policy DP3
+    as the relevant national decision-making policy8. On this basis, there is no
+    presumption that overrides the conflict with the relevant development plan and
+    Framework policies with regard to character and appearance. I have therefore
+    found that the proposal would not accord with the development plan as a whole,
+    even on the taking the appellant’s position that it is out-of-date with regard to the
+    employment land spatial strategy.
+58. The Framework Policy S5(2) further identifies that the circumstances in which the
+    benefits of approving development proposals outside settlements are likely to be
+    substantially outweighed by adverse effects include situations where the proposal
+    would fail to comply with one of the national decision-making policies which state
+    that development proposals should be refused in specific circumstances. Again, I
+    find this to be the case, which indicates that the site’s location outside of the
+    settlement is unsuitable.
+59. In this instance, even in also accepting the appellant’s arguments generally
+    relating to need within the A6 corridor and a lack of alternative sites, I do not find
+    the specific and significant harm to the character and appearance of the
+    countryside to be necessary to achieve the substantial public benefits, being the
+    proposal’s economic benefits, and the pedestrian crossings and biodiversity
+    measures. This encompasses that the harm from the proposal’s density and layout
+    in part results from those identified economic benefits and need.
+60. I reserved judgement above on the LP Policy SP4(1), as this requires the harm
+    from adverse impacts on the open and rural character of the countryside, to be
+    demonstrated as being necessary to achieve substantial public benefits that
+    outweigh the harm. Again, I do not find this harm to be outweighed or necessary.
+61. Overall therefore, the proposed development would conflict with the development
+    plan as a whole. With no other material considerations indicating otherwise,
+    including the Framework, for the reasons given above I conclude that the appeal is
+    dismissed.
+
+L N Hughes
+INSPECTOR
+
+8
+    Framework Annex A: Implementation, paragraph 2.
+
+
+https://www.gov.uk/planning-inspectorate              10
+Appeal Decision 6007133
+
+
+ANNEX A: APPEARANCES
+
+
+FOR THE APPELLANT:
+
+Mr Anthony Gill                      Barrister, Kings Chambers
+Mr Graeme Thorpe                     Associate, PWA Planning
+Mr Alex Roberts                      Head of Economics Planning Policy, Lambert Smith Hampton
+Mr Mark Evans                        Associate Director, Urban Green
+Mr Toan Chau                         Director, Cora IHT
+
+FOR THE LOCAL PLANNING AUTHORITY:
+
+Mr Rob McKillop                      Senior Planning Officer (Development Management)
+Miss Lucy Embery                     Senior Planning Officer (Planning Policy)
+
+
+INTERESTED PERSONS:
+
+Cllr James Tomlinson                 County Councillor (Wyre Rural East) and resident
+Mr J Hyde                            Resident
+Mrs C Johnson                        Resident
+Mr C Holmes                          Resident
+Mr Hamilton                          Resident
+Mrs B Hempton                        Resident
+
+
+
+
+ANNEX B: DOCUMENTS ACCEPTED AT AND AFTER THE HEARING
+
+ 1 Council                    Tree Protection Order - veteran oak
+ 2 Appellant                  Signed Unilateral Undertaking dated 7th September 2026
+
+
+
+
+https://www.gov.uk/planning-inspectorate        11
+

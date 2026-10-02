@@ -1,0 +1,7130 @@
+{
+ "39-essex-new-nppf-webinar-aug-2026": {
+  "has_text": true,
+  "summary": [
+   [
+    "what's new, what stays the same",
+    false
+   ]
+  ],
+  "positions": []
+ },
+ "acorn-rpc-new-nppf-draft": {
+  "has_text": false,
+  "summary": [],
+  "positions": []
+ },
+ "agora-architects-nppf-2026-residential": {
+  "has_text": true,
+  "summary": [
+   [
+    "Policy update — August 2026",
+    true
+   ],
+   [
+    "must still be acceptable in the round",
+    true
+   ],
+   [
+    "does not, on its own, grant permission for any proposal",
+    true
+   ]
+  ],
+  "positions": [
+   {
+    "prop": "S5",
+    "stance": "agrees",
+    "quotes": [
+     [
+      "S5 does not permit development",
+      true
+     ],
+     [
+      "— each category carries its own tests, and the proposal must still be acceptable in the round.",
+      true
+     ],
+     [
+      "The decision-making framework: S3, S4 and S5",
+      true
+     ]
+    ]
+   },
+   {
+    "prop": "SUP",
+    "stance": "agrees",
+    "quotes": [
+     [
+      "A shortfall in housing supply does not, on its own, grant permission for any proposal.",
+      true
+     ],
+     [
+      "Housing supply and the wider balance",
+      true
+     ]
+    ]
+   }
+  ]
+ },
+ "anthony-collins-nppf-key-changes": {
+  "has_text": true,
+  "summary": [],
+  "positions": []
+ },
+ "asdf-problems-and-issues-2026-nppf": {
+  "has_text": true,
+  "summary": [],
+  "positions": [
+   {
+    "prop": "S5",
+    "stance": "agrees",
+    "quotes": [
+     [
+      "Beyond these ‘carved-in’ categories, approval should only be granted if exceptional circumstances are deemed to apply",
+      true
+     ],
+     [
+      "They could also restrict development on greenfield sites not specifically covered by the S5 stated ‘carved-in’ exceptions.",
+      true
+     ]
+    ]
+   },
+   {
+    "prop": "SH1",
+    "stance": "agrees",
+    "quotes": [
+     [
+      "The separate treatment of land in and outside of areas defined as ‘settlements’ (policy S2a) combined with the importance accorded by policies S4 and S5 to the demarcation of settlement boundaries, however, could lead to a new series of contested applications and appeals.",
+      true
+     ]
+    ]
+   }
+  ]
+ },
+ "aurora-nppf-2026-heritage-changes": {
+  "has_text": true,
+  "summary": [
+   [
+    "less than substantial harm",
+    true
+   ],
+   [
+    "a matter of considerable importance and weight",
+    true
+   ]
+  ],
+  "positions": []
+ },
+ "b0-mhclg-nppf-annex-a-implementation": {
+  "has_text": true,
+  "summary": [
+   [
+    "or parts of those policies",
+    true
+   ]
+  ],
+  "positions": [
+   {
+    "prop": "A2",
+    "stance": "agrees",
+    "quotes": [
+     [
+      "Development plan policies (or parts of those policies) which are materially inconsistent with national decision-making policies in this Framework should be given very limited weight.",
+      true
+     ],
+     [
+      "Other development plan policies[footnote 67] should not be given reduced weight simply because they were adopted prior to the publication of this Framework.",
+      true
+     ]
+    ]
+   }
+  ]
+ },
+ "b0-mhclg-nppf-annex-b-glossary": {
+  "has_text": true,
+  "summary": [
+   [
+    "provides a means of assessing this",
+    true
+   ]
+  ],
+  "positions": [
+   {
+    "prop": "SH1",
+    "stance": "agrees",
+    "quotes": [
+     [
+      "This includes areas defined as a settlement in the development plan (whether using defined settlement boundaries or equivalent terms, or criteria for identifying settlement extents where boundaries have yet to be defined).",
+      true
+     ]
+    ]
+   },
+   {
+    "prop": "SH2",
+    "stance": "agrees",
+    "quotes": [
+     [
+      "For the purpose of this Framework they also exclude villages which lie within and are defined as part of the Green Belt in the development plan.",
+      true
+     ]
+    ]
+   },
+   {
+    "prop": "TR",
+    "stance": "agrees",
+    "quotes": [
+     [
+      "Any efficient, safe and accessible means of transport with overall low impact on the environment, including walking, wheeling, cycling and public transport.",
+      true
+     ]
+    ]
+   }
+  ]
+ },
+ "b0-mhclg-nppf-ch13-green-belt": {
+  "has_text": true,
+  "summary": [
+   [
+    "should not be identified as ‘settlements’",
+    true
+   ],
+   [
+    "a sustainable location, with particular reference to policy TR3",
+    true
+   ]
+  ],
+  "positions": [
+   {
+    "prop": "SH2",
+    "stance": "agrees",
+    "quotes": [
+     [
+      "Such villages should not be identified as ‘settlements’ for the purpose of the spatial strategy in the development plan",
+      true
+     ]
+    ]
+   },
+   {
+    "prop": "GB",
+    "stance": "agrees",
+    "quotes": [
+     [
+      "In making this assessment, substantial weight should be given to the harm to the Green Belt which would be caused, including harm to its openness.",
+      true
+     ],
+     [
+      "never produced VSC at appeal",
+      false
+     ]
+    ]
+   }
+  ]
+ },
+ "b0-mhclg-nppf-ch15-sustainable-transport": {
+  "has_text": true,
+  "summary": [
+   [
+    "limit the need to travel, particularly by private car, and offer a genuine choice of transport modes",
+    true
+   ],
+   [
+    "alongside other relevant quantitative or qualitative evidence",
+    true
+   ]
+  ],
+  "positions": [
+   {
+    "prop": "TR",
+    "stance": "agrees",
+    "quotes": [
+     [
+      "continuous footways and segregated cycle facilities which are adequately lit",
+      true
+     ],
+     [
+      "Minimise the scope for conflict between pedestrians, cyclists and vehicles",
+      true
+     ]
+    ]
+   }
+  ]
+ },
+ "b0-mhclg-nppf-ch4-sustainable-development": {
+  "has_text": true,
+  "summary": [
+   [
+    "physically well-related to an existing settlement",
+    true
+   ]
+  ],
+  "positions": [
+   {
+    "prop": "SH1",
+    "stance": "agrees",
+    "quotes": [
+     [
+      "Settlements within the development plan area (applying the definition in the glossary at Annex B), whether existing or proposed, and their boundaries",
+      true
+     ],
+     [
+      "Policy S4 in this Framework should be applied when considering development proposals within settlements",
+      true
+     ]
+    ]
+   },
+   {
+    "prop": "SH2",
+    "stance": "agrees",
+    "quotes": [
+     [
+      "This policy does not apply to development proposals in the Green Belt or on land designated as Local Green Space, which should instead be determined in accordance with policies HC8, GB6, GB7 and/or GB8 (as appropriate).",
+      true
+     ],
+     [
+      "the Green Belt route (GB6 to GB8, via S5(5))",
+      false
+     ]
+    ]
+   },
+   {
+    "prop": "S5",
+    "stance": "agrees",
+    "quotes": [
+     [
+      "Development proposals which do not fall within one of the categories set out in this policy should only be approved in exceptional circumstances, where the benefits of the proposal would substantially outweigh the adverse effects, including to the character of the countryside and in relation to promoting sustainable patterns of movement.",
+      true
+     ]
+    ]
+   },
+   {
+    "prop": "SUP",
+    "stance": "agrees",
+    "quotes": [
+     [
+      "Be physically well-related to an existing settlement[footnote 28] (unless the nature of the development would make this inappropriate) and be of a scale which can be accommodated taking into account the existing or proposed availability of infrastructure",
+      true
+     ]
+    ]
+   },
+   {
+    "prop": "GB",
+    "stance": "agrees",
+    "quotes": [
+     [
+      "However, where development would not be inappropriate in these locations (through the application of policies HC8 and GB7), proposals should be approved unless the benefits of doing so would be substantially outweighed by any adverse effects, when assessed against the national decision-making policies in this Framework, and applying paragraph 2 of this policy.",
+      true
+     ]
+    ]
+   }
+  ]
+ },
+ "b0-mhclg-nppf-guidance-page": {
+  "has_text": true,
+  "summary": [],
+  "positions": []
+ },
+ "b0-mhclg-nppf-pdf-2026-08-17": {
+  "has_text": true,
+  "summary": [
+   [
+    "or parts of those policies",
+    true
+   ]
+  ],
+  "positions": [
+   {
+    "prop": "SH1",
+    "stance": "agrees",
+    "quotes": [
+     [
+      "This includes areas defined as a settlement in the development plan (whether using defined settlement boundaries or equivalent terms, or criteria for identifying settlement extents where boundaries have yet to be defined).",
+      false
+     ],
+     [
+      "Settlements within the development plan area (applying the definition in the glossary at Annex B)",
+      true
+     ]
+    ]
+   },
+   {
+    "prop": "SH2",
+    "stance": "agrees",
+    "quotes": [
+     [
+      "For the purpose of this Framework they also exclude villages which lie within and are defined as part of the Green Belt in the development plan.",
+      true
+     ],
+     [
+      "Such villages should not be identified as ‘settlements’ for the purpose of the spatial strategy in the development plan",
+      true
+     ]
+    ]
+   },
+   {
+    "prop": "SH2",
+    "stance": "qualifies",
+    "quotes": [
+     [
+      "This policy does not apply to development proposals in the Green Belt or on land designated as Local Green Space, which should instead be determined in accordance with policies HC8, GB6, GB7 and/or GB8 (as appropriate).",
+      true
+     ]
+    ]
+   },
+   {
+    "prop": "S5",
+    "stance": "agrees",
+    "quotes": [
+     [
+      "Development proposals which do not fall within one of the categories set out in this policy should only be approved in exceptional circumstances, where the benefits of the proposal would substantially outweigh the adverse effects, including to the character of the countryside and in relation to promoting sustainable patterns of movement.",
+      false
+     ]
+    ]
+   },
+   {
+    "prop": "SUP",
+    "stance": "agrees",
+    "quotes": [
+     [
+      "physically well-related to an existing settlement",
+      true
+     ],
+     [
+      "Be physically well-related to an existing settlement28 (unless the nature of the development would make this inappropriate) and be of a scale which can be accommodated taking into account the existing or proposed availability of infrastructure",
+      true
+     ]
+    ]
+   },
+   {
+    "prop": "GB",
+    "stance": "agrees",
+    "quotes": [
+     [
+      "approve unless substantially outweighed",
+      false
+     ],
+     [
+      "applying paragraph 2 of this policy",
+      true
+     ],
+     [
+      "However, where development would not be inappropriate in these locations (through the application of policies HC8 and GB7), proposals should be approved unless the benefits of doing so would be substantially outweighed by any adverse effects, when assessed against the national decision-making policies in this Framework, and applying paragraph 2 of this policy.",
+      true
+     ]
+    ]
+   },
+   {
+    "prop": "A2",
+    "stance": "agrees",
+    "quotes": [
+     [
+      "Development plan policies (or parts of those policies) which are materially inconsistent with national decision-making policies in this Framework should be given very limited weight.",
+      true
+     ],
+     [
+      "Other development plan policies67 should not be given reduced weight simply because they were adopted prior to the publication of this Framework.",
+      true
+     ],
+     [
+      "examined and adopted66 or made against this Framework",
+      true
+     ]
+    ]
+   }
+  ]
+ },
+ "b0-mhclg-nppf-pdf-2026-09-29": {
+  "has_text": true,
+  "summary": [],
+  "positions": []
+ },
+ "b4-lga-nppf-august-2026-changes-briefing": {
+  "has_text": true,
+  "summary": [
+   [
+    "starting with the implications for development management",
+    true
+   ]
+  ],
+  "positions": [
+   {
+    "prop": "A2",
+    "stance": "agrees",
+    "quotes": [
+     [
+      "Existing development plan policies that are found to be",
+      true
+     ],
+     [
+      "with the new national NDMPs must immediately be downgraded by decision-makers and given",
+      true
+     ],
+     [
+      ". This allows some pre-existing, non-conflicting local plan policies to maintain a greater shelf-life but national policy takes precedence in cases of material conflict.",
+      true
+     ],
+     [
+      "Primacy over inconsistent local policies (Annex A, Paragraph 2)",
+      true
+     ],
+     [
+      "(or parts of those policies)",
+      false
+     ]
+    ]
+   },
+   {
+    "prop": "S5",
+    "stance": "agrees",
+    "quotes": [
+     [
+      "Only certain forms of development outside defined settlement boundaries are permitted but the",
+      true
+     ],
+     [
+      "tilted balance still applies if a project triggers specific categories listed under Policy S5(1)",
+      true
+     ]
+    ]
+   },
+   {
+    "prop": "SUP",
+    "stance": "agrees",
+    "quotes": [
+     [
+      "This explicitly includes scenarios where councils lack a 5-year housing supply or fail the housing delivery test (<75 per cent), but is",
+      true
+     ],
+     [
+      "The site must still be physically well-related to an existing settlement and compatible with local infrastructure.",
+      true
+     ]
+    ]
+   },
+   {
+    "prop": "TR",
+    "stance": "agrees",
+    "quotes": [
+     [
+      "is formally defined as around 800 metres (or a 10-minute walk), but can be reduced where topography, route availability, quality, or physical barriers make walking harder.",
+      true
+     ],
+     [
+      "Walking distance defined (Glossary - Annex B & Policy S5)",
+      true
+     ]
+    ]
+   }
+  ]
+ },
+ "b4-pas-2026-events": {
+  "has_text": true,
+  "summary": [
+   [
+    "Stations, density, and Green Belt",
+    true
+   ],
+   [
+    "Economy, retail, communities and transport",
+    true
+   ],
+   [
+    "Climate Change, Flood Risk, & Natural Environment",
+    true
+   ]
+  ],
+  "positions": []
+ },
+ "b4-pas-new-plan-making-system-what-we-know": {
+  "has_text": true,
+  "summary": [
+   [
+    "intends to introduce a suite of national policies for decision making",
+    true
+   ],
+   [
+    "should not duplicate them",
+    true
+   ]
+  ],
+  "positions": []
+ },
+ "b4-pins-govuk-organisation-page": {
+  "has_text": true,
+  "summary": [
+   [
+    "Planning Inspectorate Casework Database",
+    true
+   ],
+   [
+    "Use of artificial intelligence in casework evidence",
+    true
+   ],
+   [
+    "Planning Inspectorate Ministerial Measures - Experimental Statistics",
+    true
+   ]
+  ],
+  "positions": []
+ },
+ "b4-wdtk-copy-of-latest-inspector-training-manual": {
+  "has_text": true,
+  "summary": [
+   [
+    "not yet been fully updated",
+    true
+   ]
+  ],
+  "positions": []
+ },
+ "b4-wdtk-inspector-training-manual-5": {
+  "has_text": true,
+  "summary": [
+   [
+    "Consolidated Inspector Training Manual on 10 February 2025",
+    true
+   ],
+   [
+    "PINS suite of suggested planning conditions on 10 February 2025",
+    true
+   ]
+  ],
+  "positions": []
+ },
+ "b4-wdtk-most-up-to-date-inspector-training-manual": {
+  "has_text": true,
+  "summary": [
+   [
+    "up to date as of this week",
+    true
+   ],
+   [
+    "PINS suite of suggested planning conditions August 24.pdf",
+    true
+   ]
+  ],
+  "positions": []
+ },
+ "b4-wdtk-request-inspector-training-manual-model-conditions": {
+  "has_text": true,
+  "summary": [
+   [
+    "Suite of Suggested Planning Conditions – England",
+    true
+   ],
+   [
+    "does not constitute Government policy or guidance and does not seek to interpret Government policy",
+    true
+   ]
+  ],
+  "positions": []
+ },
+ "b6-pas-local-plan-training": {
+  "has_text": true,
+  "summary": [],
+  "positions": []
+ },
+ "b6-pas-welcome-planning-advisory-service": {
+  "has_text": true,
+  "summary": [
+   [
+    "PAS Bulletin August 2026",
+    true
+   ],
+   [
+    "Councillor training: Local Plan leaders",
+    true
+   ],
+   [
+    "Planning committee reforms: best practice guidance now available",
+    true
+   ],
+   [
+    "The new approach to development inside and outside settlement boundaries",
+    false
+   ]
+  ],
+  "positions": []
+ },
+ "barton-willmore-navigating-draft-nppf": {
+  "has_text": false,
+  "summary": [],
+  "positions": []
+ },
+ "battle-tc-how-planning-system-is-changing-handout": {
+  "has_text": true,
+  "summary": [
+   [
+    "National Decision Making Policies",
+    true
+   ],
+   [
+    "take priority over (replace)",
+    true
+   ],
+   [
+    "even in the Green Belt",
+    true
+   ]
+  ],
+  "positions": [
+   {
+    "prop": "A2",
+    "stance": "qualifies",
+    "quotes": [
+     [
+      "these will take priority over (replace) existing policies in a local plan or neighbourhood plan which cover the same issues",
+      true
+     ],
+     [
+      "‘inconsistent’ existing policies will carry ‘very little weight’",
+      true
+     ],
+     [
+      "NPPF and decision making redefined",
+      true
+     ],
+     [
+      "will apply from ... May/June 2026?",
+      true
+     ],
+     [
+      "or parts of those policies",
+      false
+     ]
+    ]
+   },
+   {
+    "prop": "SUP",
+    "stance": "agrees",
+    "quotes": [
+     [
+      "the significance of a five-year housing land supply is retained in relation to speculative development outside of settlement boundaries",
+      true
+     ],
+     [
+      "What else will the new NPPF do?",
+      true
+     ]
+    ]
+   }
+  ]
+ },
+ "bidwells-draft-nppf-unpacked": {
+  "has_text": true,
+  "summary": [
+   [
+    "Unpicking the Detail for Developers and Promoters",
+    true
+   ]
+  ],
+  "positions": []
+ },
+ "bidwells-nppf-december-2025-landowners": {
+  "has_text": true,
+  "summary": [],
+  "positions": []
+ },
+ "boyer-commentary-draft-nppf": {
+  "has_text": true,
+  "summary": [
+   [
+    "more debates at appeal",
+    true
+   ]
+  ],
+  "positions": []
+ },
+ "boyer-nppf-august-2026": {
+  "has_text": true,
+  "summary": [
+   [
+    "not just where development plan documents are out-of-date",
+    true
+   ]
+  ],
+  "positions": [
+   {
+    "prop": "SUP",
+    "stance": "agrees",
+    "quotes": [
+     [
+      "support for development that would address an evidenced unmet need including where the authority cannot demonstrate a five year housing land supply or scores below 75% in the most recent Housing Delivery Test",
+      true
+     ],
+     [
+      "Redevelopment of previously developed land",
+      true
+     ]
+    ]
+   }
+  ]
+ },
+ "broads-authority-committee-nppf-consultation-bng": {
+  "has_text": false,
+  "summary": [],
+  "positions": []
+ },
+ "brookbanks-nppf-2026-review": {
+  "has_text": false,
+  "summary": [
+   [
+    "where speculative housing and logistics developments may find most success",
+    false
+   ],
+   [
+    "alongside other relevant quantitative and qualitative evidence",
+    false
+   ]
+  ],
+  "positions": [
+   {
+    "prop": "SH2",
+    "stance": "agrees",
+    "quotes": [
+     [
+      "For the purpose of this Framework they also exclude villages which lie within and are defined as part of the Green Belt in the development plan.",
+      false
+     ],
+     [
+      "Further Favouring Sustainable Development",
+      false
+     ]
+    ]
+   },
+   {
+    "prop": "S5",
+    "stance": "agrees",
+    "quotes": [
+     [
+      "we can expect a key appeal battleground to be in distinguishing how settlements are defined when there may be inconsistencies in maps, outdated local plans and particularly focusing on Policy S5(j) which is where speculative housing and logistics developments may find most success.",
+      false
+     ],
+     [
+      "Further Favouring Sustainable Development",
+      false
+     ]
+    ]
+   },
+   {
+    "prop": "METH",
+    "stance": "agrees",
+    "quotes": [
+     [
+      "the true impact will depend on how Inspectors, local authorities and the courts interpret the new presumption over the next few years",
+      false
+     ]
+    ]
+   }
+  ]
+ },
+ "browne-jacobson-nppf-2026-consultation-response": {
+  "has_text": true,
+  "summary": [
+   [
+    "a very clear test",
+    false
+   ]
+  ],
+  "positions": [
+   {
+    "prop": "S5",
+    "stance": "agrees",
+    "quotes": [
+     [
+      "Policy S5 restricts development outside settlements to specified acceptable types",
+      false
+     ],
+     [
+      "The policy sets out a very clear test that supports housing delivery in sustainable locations outside of town centres",
+      false
+     ]
+    ]
+   }
+  ]
+ },
+ "browne-jacobson-nppf-2026-data-centres-response": {
+  "has_text": true,
+  "summary": [],
+  "positions": []
+ },
+ "browne-jacobson-nppf-2026-published-lawyers-comment": {
+  "has_text": true,
+  "summary": [
+   [
+    "replacing the carrot with the stick",
+    true
+   ]
+  ],
+  "positions": []
+ },
+ "burges-salmon-aug-2026-nppf-key-departures": {
+  "has_text": true,
+  "summary": [],
+  "positions": [
+   {
+    "prop": "A2",
+    "stance": "agrees",
+    "quotes": [
+     [
+      "development plan policies, or parts of those policies, which are materially inconsistent with the national decision-making policies in the new NPPF should be given very limited weight",
+      true
+     ],
+     [
+      "Parts of those policies",
+      true
+     ],
+     [
+      "still likely to give rise to early debate about which existing local plan policies can properly continue to carry full weight",
+      true
+     ]
+    ]
+   },
+   {
+    "prop": "S5",
+    "stance": "agrees",
+    "quotes": [
+     [
+      "residential and mixed-use development outside settlements can be approved where it is within reasonable walking distance of a well-connected station",
+      true
+     ],
+     [
+      "Policy S5 contains a broader route for development outside settlements where it would meet an evidenced unmet need",
+      true
+     ]
+    ]
+   },
+   {
+    "prop": "SH1",
+    "stance": "agrees",
+    "quotes": [
+     [
+      "S3 directs decision-makers to apply S4 where development is within a settlement and S5 where development is outside a settlement",
+      true
+     ]
+    ]
+   }
+  ]
+ },
+ "burges-salmon-new-nppf-one-month-on": {
+  "has_text": true,
+  "summary": [],
+  "positions": [
+   {
+    "prop": "METH",
+    "stance": "agrees",
+    "quotes": [
+     [
+      "we are now seeing appeal decisions published which refer to the new NPPF and grapple with its policies",
+      true
+     ]
+    ]
+   },
+   {
+    "prop": "METH",
+    "stance": "agrees",
+    "quotes": [
+     [
+      "although it is important to determine similar cases in a similar manner, the material considerations differed in each appeal following the revisions to the NPPF and the introduction of grey belt land. The Inspector therefore determines the appeal on its own merits, and on the evidence before him.",
+      true
+     ],
+     [
+      "will not be universal",
+      true
+     ]
+    ]
+   },
+   {
+    "prop": "A2",
+    "stance": "qualifies",
+    "quotes": [
+     [
+      "He notes that Policy S5(1)(j) undermines the thrust of relevant local plan policies and so only moderate weight is given to the conflict between the appeal scheme and those policies",
+      true
+     ],
+     [
+      "some inspectors still cut spatial-policy weight",
+      false
+     ]
+    ]
+   },
+   {
+    "prop": "S5",
+    "stance": "agrees",
+    "quotes": [
+     [
+      "He summarises S5 as defining categories of development which should be approved unless the benefits of doing so would be substantially outweighed by any adverse effects",
+      true
+     ],
+     [
+      "Although this meets rather than exceeds the local policy requirement, it weighs substantially in favour of the scheme which complies with S5(1)(j).",
+      true
+     ]
+    ]
+   }
+  ]
+ },
+ "ccn-councils-warn-new-planning-rules": {
+  "has_text": true,
+  "summary": [
+   [
+    "one size fits all",
+    true
+   ]
+  ],
+  "positions": []
+ },
+ "ceres-property-nppf-2026-key-changes": {
+  "has_text": false,
+  "summary": [],
+  "positions": [
+   {
+    "prop": "TR",
+    "stance": "agrees",
+    "quotes": [
+     [
+      "To be within 'reasonable walking distance' for this purpose the NPPF states this should be considered to be around 800 metres, or around 10 minutes' walk time if topography, route availability and quality or physical barriers would prevent or discourage walking from up to 800 metres away.",
+      false
+     ],
+     [
+      "Development Around Stations & Public Transport",
+      false
+     ]
+    ]
+   },
+   {
+    "prop": "A2",
+    "stance": "agrees",
+    "quotes": [
+     [
+      "development plan policies (or parts of those policies) which are materially inconsistent with national decision-making policies in this Framework should be given very limited weight.",
+      false
+     ],
+     [
+      "Implementation & Transitional Arrangements",
+      false
+     ]
+    ]
+   }
+  ]
+ },
+ "ciht-nppf-2026-consultation-response": {
+  "has_text": true,
+  "summary": [
+   [
+    "a significant amount of movement",
+    true
+   ]
+  ],
+  "positions": [
+   {
+    "prop": "TR",
+    "stance": "agrees",
+    "quotes": [
+     [
+      "should not only be based on distance – e.g. within 800m but must also take account",
+      true
+     ],
+     [
+      "of the quality of such a route and its perceived level of safety and convenience.",
+      true
+     ]
+    ]
+   },
+   {
+    "prop": "TR",
+    "stance": "agrees",
+    "quotes": [
+     [
+      "GB7(1.h.i) by ensuring that walking routes are not only acceptable in terms of",
+      true
+     ]
+    ]
+   },
+   {
+    "prop": "TR",
+    "stance": "agrees",
+    "quotes": [
+     [
+      "Unsafe or poorly lit routes undermine the practical",
+      true
+     ],
+     [
+      "Routes which are attractive to users are direct, with footways, lighting and accessible",
+      true
+     ]
+    ]
+   },
+   {
+    "prop": "SUP",
+    "stance": "qualifies",
+    "quotes": [
+     [
+      "there are ways around this, most notably when there is a shortfall in",
+      true
+     ],
+     [
+      "Automatically giving substantial weight to any",
+      true
+     ],
+     [
+      "when there is a lack of supply does not give the decision maker sufficient flexibility",
+      true
+     ]
+    ]
+   }
+  ]
+ },
+ "civic-voice-nppf-consultation-response": {
+  "has_text": true,
+  "summary": [
+   [
+    "The Response of Civic Voice (Draft): 16-02-2026",
+    true
+   ],
+   [
+    "multiple subjective interpretations and complex balancing",
+    true
+   ]
+  ],
+  "positions": [
+   {
+    "prop": "S5",
+    "stance": "agrees",
+    "quotes": [
+     [
+      "Outside of settlements there is no presumption in favour of development, but development may still be permitted if it falls within a series of predefined categories",
+      true
+     ]
+    ]
+   }
+  ]
+ },
+ "clyde-co-uk-real-estate-horizon-2026": {
+  "has_text": true,
+  "summary": [
+   [
+    "truly seismic regearing of the system",
+    true
+   ],
+   [
+    "Ultimately, its effectiveness will only be demonstrated in delivery.",
+    true
+   ],
+   [
+    "the central statutory planning policy document",
+    true
+   ]
+  ],
+  "positions": []
+ },
+ "community-planning-alliance-news": {
+  "has_text": true,
+  "summary": [],
+  "positions": []
+ },
+ "cornerstone-hgh-draft-nppf-roundtable": {
+  "has_text": true,
+  "summary": [],
+  "positions": [
+   {
+    "prop": "S5",
+    "stance": "agrees",
+    "quotes": [
+     [
+      "The reverse presumption (S5(4)) – a new restriction on promoting development outside of settlements which are not “acceptable in principle”.",
+      true
+     ]
+    ]
+   }
+  ]
+ },
+ "cornerstone-planning-day-2026": {
+  "has_text": true,
+  "summary": [],
+  "positions": [
+   {
+    "prop": "METH",
+    "stance": "agrees",
+    "quotes": [
+     [
+      "An analysis of the Key Appeal Decisions of the past 12 months and how they impact both current and future practices",
+      true
+     ]
+    ]
+   }
+  ]
+ },
+ "cornerstone-revised-nppf-rules-based-planning-web": {
+  "has_text": true,
+  "summary": [],
+  "positions": [
+   {
+    "prop": "S5",
+    "stance": "agrees",
+    "quotes": [
+     [
+      "there is a sting in its tail: a new reverse presumption against any development in the countryside which does not fall within its pre-ordained categories",
+      true
+     ]
+    ]
+   },
+   {
+    "prop": "S5",
+    "stance": "agrees",
+    "quotes": [
+     [
+      "This necessarily entails an exercise of planning judgement and is self-evidently a question on which reasonable people may reasonably disagree (and likely will). The same is true in respect of the requirement, found in the same countryside categories, that sites be",
+      true
+     ]
+    ]
+   },
+   {
+    "prop": "S5",
+    "stance": "qualifies",
+    "quotes": [
+     [
+      "However, in the presumption policies (S5(1)(j)) it is expressly not limited to these circumstances. Does that mean that an evidenced unmet need for, say, affordable housing or older/disabled persons housing would be sufficient to bring a residential proposal which included such housing into the countryside category?",
+      true
+     ]
+    ]
+   },
+   {
+    "prop": "A2",
+    "stance": "agrees",
+    "quotes": [
+     [
+      "mere inconsistency is not sufficient to engage the NPPF’s deemed weighting",
+      true
+     ]
+    ]
+   },
+   {
+    "prop": "A2",
+    "stance": "qualifies",
+    "quotes": [
+     [
+      "as the courts have repeatedly told us, weight is ultimately a matter for the decision maker, who is entitled (subject to public law constraints) to depart from policy, even where that policy is expressed in directive terms",
+      true
+     ]
+    ]
+   },
+   {
+    "prop": "GB",
+    "stance": "agrees",
+    "quotes": [
+     [
+      "in determining whether land is Grey Belt, it no longer appears necessary to consider (for example) whether there might be a strong reason for refusal in respect of heritage. However, those considerations will now form part of a separate assessment under other policies in the new NPPF.",
+      true
+     ]
+    ]
+   }
+  ]
+ },
+ "cornerstone-revised-nppf-rules-based-planning": {
+  "has_text": true,
+  "summary": [],
+  "positions": [
+   {
+    "prop": "S5",
+    "stance": "agrees",
+    "quotes": [
+     [
+      "there is a sting in its tail: a new reverse presumption against any development in the countryside which does not fall within its pre-ordained categories",
+      true
+     ]
+    ]
+   },
+   {
+    "prop": "S5",
+    "stance": "agrees",
+    "quotes": [
+     [
+      "This necessarily entails an exercise of planning judgement and is self-evidently a question on which reasonable people may reasonably disagree (and likely will). The same is true in respect of the requirement, found in the same countryside categories, that sites be",
+      true
+     ]
+    ]
+   },
+   {
+    "prop": "S5",
+    "stance": "qualifies",
+    "quotes": [
+     [
+      "However, in the presumption policies (S5(1)(j)) it is expressly not limited to these circumstances. Does that mean that an evidenced unmet need for, say, affordable housing or older/disabled persons housing would be sufficient to bring a residential proposal which included such housing into the countryside category?",
+      true
+     ]
+    ]
+   },
+   {
+    "prop": "A2",
+    "stance": "agrees",
+    "quotes": [
+     [
+      "mere inconsistency is not sufficient to engage the NPPF’s deemed weighting",
+      true
+     ]
+    ]
+   },
+   {
+    "prop": "A2",
+    "stance": "agrees",
+    "quotes": [
+     [
+      "as the courts have repeatedly told us, weight is ultimately a matter for the decision maker, who is entitled (subject to public law constraints) to depart from policy, even where that policy is expressed in directive terms",
+      true
+     ]
+    ]
+   },
+   {
+    "prop": "GB",
+    "stance": "agrees",
+    "quotes": [
+     [
+      "in determining whether land is Grey Belt, it no longer appears necessary to consider (for example) whether there might be a strong reason for refusal in respect of heritage. However, those considerations will now form part of a separate assessment under other policies in the new NPPF.",
+      true
+     ]
+    ]
+   }
+  ]
+ },
+ "cornerstone-unpacking-new-nppf-draft": {
+  "has_text": true,
+  "summary": [],
+  "positions": [
+   {
+    "prop": "S5",
+    "stance": "agrees",
+    "quotes": [
+     [
+      "Note however that anything NOT falling within categories (a)–(j) under Policy S5 (i.e., not benefitting from the presumption) face a reverse presumption and should be refused in the absence of exceptional circumstances.",
+      true
+     ]
+    ]
+   }
+  ]
+ },
+ "cpre-beds-green-belt-grey-belt": {
+  "has_text": true,
+  "summary": [],
+  "positions": [
+   {
+    "prop": "GB",
+    "stance": "agrees",
+    "quotes": [
+     [
+      "highlights examples of countryside and village-edge green fields being rebranded as ‘grey belt’ and becoming fair game for development",
+      true
+     ]
+    ]
+   }
+  ]
+ },
+ "cpre-herts-guidance-how-to-respond-nppf": {
+  "has_text": true,
+  "summary": [],
+  "positions": []
+ },
+ "cpre-herts-response-draft-nppf": {
+  "has_text": true,
+  "summary": [],
+  "positions": []
+ },
+ "cpre-kent-grey-belt-policy-countryside": {
+  "has_text": true,
+  "summary": [],
+  "positions": [
+   {
+    "prop": "METH",
+    "stance": "agrees",
+    "quotes": [
+     [
+      "‘Green Belt is now grey belt’ uncovers that 83 per cent of planning appeals on sites in the London Metropolitan Green Belt between February and December 2025 were permitted specifically on grey-belt grounds.",
+      true
+     ]
+    ]
+   },
+   {
+    "prop": "GB",
+    "stance": "agrees",
+    "quotes": [
+     [
+      "This is more than twice the proportion that were granted over the previous 10 years on any basis.",
+      true
+     ]
+    ]
+   }
+  ]
+ },
+ "cpre-nppf-brownfield-affordable-homes": {
+  "has_text": false,
+  "summary": [],
+  "positions": []
+ },
+ "cpre-nppf-mapping-collective-response": {
+  "has_text": false,
+  "summary": [],
+  "positions": [
+   {
+    "prop": "GB",
+    "stance": "agrees",
+    "quotes": [
+     [
+      "many developments labelled as 'grey belt' are in fact planned on unspoilt countryside.",
+      false
+     ]
+    ]
+   }
+  ]
+ },
+ "cpre-oxon-proposed-planning-reforms": {
+  "has_text": true,
+  "summary": [],
+  "positions": []
+ },
+ "cpre-responds-summer-2026-nppf": {
+  "has_text": false,
+  "summary": [],
+  "positions": []
+ },
+ "cpre-response-draft-revised-nppf": {
+  "has_text": false,
+  "summary": [],
+  "positions": [
+   {
+    "prop": "GB",
+    "stance": "agrees",
+    "quotes": [
+     [
+      "the vast majority of new homes approved on 'grey belt' sites will be built on unspoilt countryside, not the disused petrol stations and car parks the government promised last year.",
+      false
+     ]
+    ]
+   }
+  ]
+ },
+ "cpre-summary-nppf-consultation-response": {
+  "has_text": false,
+  "summary": [],
+  "positions": [
+   {
+    "prop": "METH",
+    "stance": "agrees",
+    "quotes": [
+     [
+      "Planning inspectors have approved approximately 100 (or 40%) of all appeals for developments where the policy was applied since it was introduced in 2012.",
+      false
+     ]
+    ]
+   },
+   {
+    "prop": "GB",
+    "stance": "agrees",
+    "quotes": [
+     [
+      "CPRE evidence shows the grey belt policy is being used to release greenfield land, including local wildlife sites and farmland with high quality soils, and not degraded sites as promised.",
+      false
+     ]
+    ]
+   }
+  ]
+ },
+ "cpre-valued-landscapes-warning": {
+  "has_text": false,
+  "summary": [],
+  "positions": [
+   {
+    "prop": "METH",
+    "stance": "agrees",
+    "quotes": [
+     [
+      "A policy cited in at least 100 planning appeals that have protected the countryside from inappropriate major development is set to disappear from England's planning rulebook",
+      false
+     ]
+    ]
+   }
+  ]
+ },
+ "designing-buildings-understanding-nppf-2026-changes": {
+  "has_text": true,
+  "summary": [],
+  "positions": []
+ },
+ "dha-new-nppf-2026-has-arrived": {
+  "has_text": true,
+  "summary": [
+   [
+    "are still able to contribute towards meeting development needs",
+    true
+   ]
+  ],
+  "positions": []
+ },
+ "dorset-cpre-respond-nppf-consultation": {
+  "has_text": true,
+  "summary": [],
+  "positions": [
+   {
+    "prop": "SUP",
+    "stance": "qualifies",
+    "quotes": [
+     [
+      "Of concern is Policy S5 J which creates a presumption in favour of development for proposals outside settlement boundaries where authorities are unable to demonstrate a 5 year housing land supply.",
+      true
+     ]
+    ]
+   }
+  ]
+ },
+ "dudley-peverill-nppf-2026-farms-estates": {
+  "has_text": true,
+  "summary": [],
+  "positions": [
+   {
+    "prop": "S5",
+    "stance": "agrees",
+    "quotes": [
+     [
+      "Whether your land sits inside or outside a settlement now decides almost everything. Policy S5 sets out what is supported outside settlements, and says it should be approved unless the benefits would be substantially outweighed by any adverse effects. Anything not on that list, according to S5(4), should be approved only in exceptional circumstances.",
+      true
+     ],
+     [
+      "Five things worth knowing",
+      true
+     ]
+    ]
+   },
+   {
+    "prop": "A2",
+    "stance": "agrees",
+    "quotes": [
+     [
+      "It is fair to add that Annex A does not write off older plans wholesale: policies which are not inconsistent keep their weight, and should not be marked down simply for being old.",
+      true
+     ],
+     [
+      "What should farmers and landowners do now?",
+      true
+     ]
+    ]
+   },
+   {
+    "prop": "A2",
+    "stance": "qualifies",
+    "quotes": [
+     [
+      "That is especially true where the refusal leaned on a countryside protection policy written under an earlier Framework, because Annex A, paragraph 2 now gives such policies very limited weight where they are materially inconsistent with national decision-making policy.",
+      true
+     ],
+     [
+      "where they are materially inconsistent",
+      true
+     ]
+    ]
+   },
+   {
+    "prop": "GB",
+    "stance": "agrees",
+    "quotes": [
+     [
+      "Where development would not be inappropriate under GB7, it should be approved unless the benefits would be substantially outweighed by any adverse effects.",
+      true
+     ],
+     [
+      "Does policy S5 apply in the Green Belt?",
+      true
+     ]
+    ]
+   },
+   {
+    "prop": "METH",
+    "stance": "agrees",
+    "quotes": [
+     [
+      "Our view is that this is a test to be evidenced rather than asserted, and the first appeal decisions will tell us how demanding it really is.",
+      true
+     ],
+     [
+      "The one test that catches new-build diversification",
+      true
+     ],
+     [
+      "Guidance and the first appeal decisions will settle how words like “necessary”, “small scale” and “disproportionate” are applied in practice.",
+      true
+     ]
+    ]
+   }
+  ]
+ },
+ "eddisons-20-percent-hls-buffer": {
+  "has_text": true,
+  "summary": [],
+  "positions": [
+   {
+    "prop": "SUP",
+    "stance": "agrees",
+    "quotes": [
+     [
+      "None of this removes the need for a well-argued planning case. Tilted balance planning still requires the benefits of a scheme to be weighed properly against any harm, and protections for designated land and assets continue to apply regardless of an authority's supply position.",
+      true
+     ],
+     [
+      "What does this mean for landowners and developers?",
+      true
+     ]
+    ]
+   }
+  ]
+ },
+ "edgars-draft-nppf-rural-development": {
+  "has_text": true,
+  "summary": [],
+  "positions": [
+   {
+    "prop": "S5",
+    "stance": "agrees",
+    "quotes": [
+     [
+      "applying certainty to what forms of development are acceptable inside settlements (Policy S4) and outside settlements (Policy S5)",
+      true
+     ],
+     [
+      "A Clearer – and Stronger – Presumption in Favour of Sustainable Development",
+      true
+     ]
+    ]
+   }
+  ]
+ },
+ "edwin-coe-nppf-2026-what-has-changed": {
+  "has_text": true,
+  "summary": [],
+  "positions": [
+   {
+    "prop": "SUP",
+    "stance": "agrees",
+    "quotes": [
+     [
+      "Instead, under the new framework, those factors become evidence of unmet housing need that may be relevant when applying policy S5.",
+      true
+     ]
+    ]
+   },
+   {
+    "prop": "METH",
+    "stance": "agrees",
+    "quotes": [
+     [
+      "Those references may now be of limited value unless they are checked against the new policy framework.",
+      true
+     ]
+    ]
+   }
+  ]
+ },
+ "eg-another-new-nppf-legal-comment": {
+  "has_text": false,
+  "summary": [],
+  "positions": []
+ },
+ "eg-default-yes-homes-around-stations": {
+  "has_text": false,
+  "summary": [],
+  "positions": []
+ },
+ "ehdc-cabinet-local-plan-update-may-2026": {
+  "has_text": true,
+  "summary": [
+   [
+    "in any way inconsistent",
+    true
+   ],
+   [
+    "positively framed local policies",
+    true
+   ],
+   [
+    "where appropriate taking account of the tilted balance",
+    true
+   ]
+  ],
+  "positions": []
+ },
+ "farmers-guide-rural-sector-responds-relaxed-planning": {
+  "has_text": true,
+  "summary": [
+   [
+    "a step in the right direction",
+    true
+   ]
+  ],
+  "positions": []
+ },
+ "foe-whats-in-new-nppf": {
+  "has_text": true,
+  "summary": [],
+  "positions": []
+ },
+ "freeths-consultation-to-publication-what-changed": {
+  "has_text": true,
+  "summary": [],
+  "positions": [
+   {
+    "prop": "S5",
+    "stance": "agrees",
+    "quotes": [
+     [
+      "Arguably, policies S4 and, in particular S5 are the biggest change in national planning policy in recent years.",
+      true
+     ],
+     [
+      "The policy has the potential to bring forward sites that may previously have been considered unacceptable.",
+      true
+     ]
+    ]
+   },
+   {
+    "prop": "SUP",
+    "stance": "agrees",
+    "quotes": [
+     [
+      "thus potentially engaging the tilted balance under S5(1)(j)",
+      true
+     ]
+    ]
+   },
+   {
+    "prop": "GB",
+    "stance": "qualifies",
+    "quotes": [
+     [
+      "As a result, where the relevant policy tests are met, planning permission should be granted without the need to demonstrate very special circumstances.",
+      true
+     ],
+     [
+      "the relevant policy tests",
+      true
+     ],
+     [
+      "permission should be granted",
+      true
+     ],
+     [
+      "passing GB7 is not approval",
+      false
+     ]
+    ]
+   }
+  ]
+ },
+ "freeths-draft-nppf-consultation-whats-new": {
+  "has_text": true,
+  "summary": [
+   [
+    "reframe the tilted balance",
+    false
+   ],
+   [
+    "in any way inconsistent",
+    true
+   ]
+  ],
+  "positions": [
+   {
+    "prop": "S5",
+    "stance": "agrees",
+    "quotes": [
+     [
+      "This sets out that ‘only’ certain forms of development should be approved outside of settlements",
+      true
+     ]
+    ]
+   },
+   {
+    "prop": "SUP",
+    "stance": "agrees",
+    "quotes": [
+     [
+      "For housing this is defined by a local planning authority being unable to demonstrate a five-year housing supply or scoring lower than 75% on the Housing Delivery Test and is therefore similar in effect to existing policy.",
+      true
+     ]
+    ]
+   }
+  ]
+ },
+ "fsp-law-new-nppf-2026": {
+  "has_text": true,
+  "summary": [],
+  "positions": []
+ },
+ "ftb-annual-planning-forum-2026-nppf-special": {
+  "has_text": true,
+  "summary": [
+   [
+    "Barristers from Francis Taylor Building will share their insights on key changes to the NPPF that are central to growth.",
+    false
+   ]
+  ],
+  "positions": []
+ },
+ "ftb-breakfast-briefing-rules-based-nppf": {
+  "has_text": false,
+  "summary": [],
+  "positions": []
+ },
+ "ftb-rhimes-115-homes-basingstoke-appeal": {
+  "has_text": false,
+  "summary": [
+   [
+    "significantly urbanising and strident intervention into the countryside",
+    false
+   ]
+  ],
+  "positions": [
+   {
+    "prop": "SUP",
+    "stance": "agrees",
+    "quotes": [
+     [
+      "Overall the Inspector was satisfied that the benefits were substantially outweighed by the harms and refused permission, notwithstanding the lack of a five year housing land supply (DL/79).",
+      false
+     ]
+    ]
+   }
+  ]
+ },
+ "fwi-new-planning-framework-farmers-rural-businesses": {
+  "has_text": true,
+  "summary": [
+   [
+    "could trump the local plan",
+    true
+   ]
+  ],
+  "positions": [
+   {
+    "prop": "A2",
+    "stance": "qualifies",
+    "quotes": [
+     [
+      "A fundamental change in the proposed NPPF, as drafted, is that it sets out that where there is conflict with the local development plan, the NPPF should take precedence.",
+      true
+     ],
+     [
+      "This is a major change and basically means that where a local plan doesn’t support something, if the NPPF does, then the NPPF could trump the local plan",
+      true
+     ],
+     [
+      "on technical grounds such as unsafe highways or flooding risk",
+      true
+     ],
+     [
+      "did not support a particular type of development",
+      true
+     ]
+    ]
+   },
+   {
+    "prop": "S5",
+    "stance": "qualifies",
+    "quotes": [
+     [
+      "“Within” can also mean immediately adjacent to a settlement, suggests Hannah.",
+      true
+     ],
+     [
+      "If a site is outside of a previous settlement boundary and well connected to the settlement, then there are more times where the tilted balance will apply.",
+      true
+     ]
+    ]
+   },
+   {
+    "prop": "SH1",
+    "stance": "agrees",
+    "quotes": [
+     [
+      "Smaller villages – which may have previously been counted out of the titled balance consideration – may under the new framework be considered settlements in planning terms",
+      true
+     ],
+     [
+      "More potential for smaller villages?",
+      true
+     ]
+    ]
+   }
+  ]
+ },
+ "gedling-portfolio-holder-report-nppf-2026": {
+  "has_text": true,
+  "summary": [
+   [
+    "will still carry very considerable weight",
+    true
+   ]
+  ],
+  "positions": []
+ },
+ "gillian-jamieson-nppf-consultation-response": {
+  "has_text": true,
+  "summary": [],
+  "positions": []
+ },
+ "github-uk-planning-skills-issue-62": {
+  "has_text": true,
+  "summary": [
+   [
+    "excluded from S5 altogether",
+    true
+   ],
+   [
+    "exclude then carve back",
+    false
+   ]
+  ],
+  "positions": [
+   {
+    "prop": "GB",
+    "stance": "agrees",
+    "quotes": [
+     [
+      "So the route is: GB7 exception → development is not inappropriate → the S5 presumption does",
+      true
+     ]
+    ]
+   }
+  ]
+ },
+ "guildford-dragon-rural-roar-effingham-pc": {
+  "has_text": true,
+  "summary": [],
+  "positions": [
+   {
+    "prop": "GB",
+    "stance": "agrees",
+    "quotes": [
+     [
+      "Regardless of its role in meeting the purposes of the green belt, most land around villages now falls by default into grey belt.",
+      true
+     ],
+     [
+      "It’s labelled grey belt regardless, because the test excludes villages from its assessments — entirely.",
+      true
+     ],
+     [
+      "Guildford’s “grey belt” according to AECOM Study",
+      true
+     ]
+    ]
+   },
+   {
+    "prop": "METH",
+    "stance": "agrees",
+    "quotes": [
+     [
+      "A large-scale review by GapSense of 710 substantive appeal decisions found 79 per cent succeeded where grey belt status was the deciding factor.",
+      true
+     ],
+     [
+      "Grey belt status secures development status 80 per cent of the time",
+      true
+     ],
+     [
+      "an unprecedented 80 per cent of major residential appeals located on grey belt land have been approved",
+      true
+     ]
+    ]
+   }
+  ]
+ },
+ "hansard-grey-belt-land-debate-2026-02-23": {
+  "has_text": true,
+  "summary": [],
+  "positions": []
+ },
+ "hbf-hyndburn-rep-12": {
+  "has_text": true,
+  "summary": [],
+  "positions": []
+ },
+ "hbf-response-government-publishes-nppf": {
+  "has_text": true,
+  "summary": [],
+  "positions": []
+ },
+ "hcl-cbp-10964-landing-page": {
+  "has_text": false,
+  "summary": [],
+  "positions": []
+ },
+ "hcl-cbp-10964-nppf-briefing": {
+  "has_text": false,
+  "summary": [],
+  "positions": []
+ },
+ "heal-nppf-2026-isolated-home-countryside": {
+  "has_text": true,
+  "summary": [],
+  "positions": [
+   {
+    "prop": "S5",
+    "stance": "agrees",
+    "quotes": [
+     [
+      "Importantly, self-build status, land ownership or personal connections to an area do not provide a separate justification for an isolated countryside dwelling.",
+      true
+     ]
+    ]
+   }
+  ]
+ },
+ "heal-nppf-2026-overall-summary": {
+  "has_text": true,
+  "summary": [
+   [
+    "does not mean that every proposal will receive planning permission",
+    true
+   ]
+  ],
+  "positions": [
+   {
+    "prop": "S5",
+    "stance": "agrees",
+    "quotes": [
+     [
+      "Outside settlements, development remains more controlled, but the NPPF identifies circumstances where proposals may be acceptable.",
+      true
+     ]
+    ]
+   }
+  ]
+ },
+ "heal-planning-nppf-2026-railway-stations": {
+  "has_text": false,
+  "summary": [],
+  "positions": []
+ },
+ "hem-architects-nppf-new-opportunities": {
+  "has_text": true,
+  "summary": [
+   [
+    "limited infilling within groups of houses",
+    true
+   ],
+   [
+    "backland and cluster plots",
+    true
+   ],
+   [
+    "much easier to identify and unlock",
+    true
+   ]
+  ],
+  "positions": [
+   {
+    "prop": "S5",
+    "stance": "agrees",
+    "quotes": [
+     [
+      "Infilling outside settlement limits was previously a tricky hurdle, even on sites surrounded by existing homes. This change offers far greater planning certainty and opens up brand-new possibilities for backland and cluster plots.",
+      true
+     ],
+     [
+      "Greater certainty for sites outside settlement boundaries",
+      true
+     ]
+    ]
+   },
+   {
+    "prop": "GB",
+    "stance": "agrees",
+    "quotes": [
+     [
+      "We recently achieved planning approval for a new-build green belt home in Dungworth, Sheffield. The application was strengthened with updated planning rules designed for sites on the edge of settlement boundaries.",
+      true
+     ],
+     [
+      "While high-performing Green Belt land retains full protection, low-performing land in sustainable locations is now much easier to identify and unlock.",
+      true
+     ],
+     [
+      "Clearer definitions for 'Grey Belt' development",
+      true
+     ]
+    ]
+   }
+  ]
+ },
+ "historic-england-gpa3-setting-heritage-assets": {
+  "has_text": true,
+  "summary": [],
+  "positions": []
+ },
+ "historic-england-response-nppf-reforms-feb26": {
+  "has_text": true,
+  "summary": [
+   [
+    "approve unless substantially outweighed",
+    false
+   ],
+   [
+    "high level of connectivity",
+    true
+   ]
+  ],
+  "positions": [
+   {
+    "prop": "S5",
+    "stance": "agrees",
+    "quotes": [
+     [
+      "In addition, Policy S5 1) h) contains multiple, vague criteria (e.g. 'reasonable walking distance', 'high level of connectivity', and 'physically well-related')... All these terms leave room for inconsistent interpretation, and need definition.",
+      true
+     ]
+    ]
+   },
+   {
+    "prop": "DIV",
+    "stance": "agrees",
+    "quotes": [
+     [
+      "will be difficult for applicants and decision-makers to interpret, and therefore for it to be applied consistently and effectively.",
+      true
+     ]
+    ]
+   }
+  ]
+ },
+ "housingtoday-hbf-permissions-lowest-record": {
+  "has_text": true,
+  "summary": [],
+  "positions": []
+ },
+ "housingtoday-rayner-default-yes-stations": {
+  "has_text": true,
+  "summary": [],
+  "positions": [
+   {
+    "prop": "A2",
+    "stance": "agrees",
+    "quotes": [
+     [
+      "adding that applications would still be determined against the wider development plan and other relevant considerations.",
+      true
+     ]
+    ]
+   }
+  ]
+ },
+ "hwgpnfy-apple-podcasts-listing": {
+  "has_text": true,
+  "summary": [
+   [
+    "Have We Got Planning News For You",
+    true
+   ],
+   [
+    "has led work to enhance and systemise inspector learning and development",
+    true
+   ]
+  ],
+  "positions": []
+ },
+ "hwgpnfy-s20e1-youtube": {
+  "has_text": true,
+  "summary": [],
+  "positions": [
+   {
+    "prop": "SH2",
+    "stance": "agrees",
+    "quotes": [
+     [
+      "villages in the green belt are excluded from the definition",
+      true
+     ],
+     [
+      "it's only villages which are not classified as settlements for the purposes of the spatial strategy which should be included in the green belt, i.e. washed over with it.",
+      true
+     ]
+    ]
+   },
+   {
+    "prop": "SH1",
+    "stance": "agrees",
+    "quotes": [
+     [
+      "Settlements are as defined in um in Annex B, it's important to note they exclude hamlets.",
+      true
+     ]
+    ]
+   },
+   {
+    "prop": "S5",
+    "stance": "agrees",
+    "quotes": [
+     [
+      "S5. um four indicates that development should only be approved in exceptional circumstances where the benefits substantially outweigh the adverse effects.",
+      true
+     ]
+    ]
+   },
+   {
+    "prop": "SUP",
+    "stance": "agrees",
+    "quotes": [
+     [
+      "clearly as before a a sub 5-year supply or sub 75% HDT will trigger uh the new tilted balance",
+      true
+     ],
+     [
+      "isn't the only way to get through",
+      true
+     ]
+    ]
+   }
+  ]
+ },
+ "iceni-construction-traffic": {
+  "has_text": true,
+  "summary": [
+   [
+    "applies both during the construction phase and following completion",
+    true
+   ]
+  ],
+  "positions": []
+ },
+ "iceni-quiet-demise-dm-policies": {
+  "has_text": true,
+  "summary": [],
+  "positions": [
+   {
+    "prop": "A2",
+    "stance": "qualifies",
+    "quotes": [
+     [
+      "Evidently the restrictive nature of policy is entirely at odds with the intent of the new NPPF, not least including the much reported ‘well-connected train station’ through Policies S5 (Principle of development outside settlements) and GB7 (Development which is not inappropriate in the Green Belt).",
+      true
+     ]
+    ]
+   },
+   {
+    "prop": "A2",
+    "stance": "qualifies",
+    "quotes": [
+     [
+      "This leaves a difficult situation where many policies could be found sound when considered against the 2024 NPPF, but might then be rendered effectively useless through the provisions of the 2026 NPPF.",
+      true
+     ],
+     [
+      "(or parts of those policies)",
+      true
+     ]
+    ]
+   }
+  ]
+ },
+ "iceni-retail-wants-to-grow": {
+  "has_text": true,
+  "summary": [],
+  "positions": []
+ },
+ "ihbc-ccn-responds-new-nppf": {
+  "has_text": true,
+  "summary": [
+   [
+    "will not operate in isolation",
+    true
+   ]
+  ],
+  "positions": [
+   {
+    "prop": "S5",
+    "stance": "qualifies",
+    "quotes": [
+     [
+      "Even where a Local Plan is in place, in many instances national policy will override this and mean that councils are unable to refuse development in locations that are not connected to existing settlements, resulting in homes being built in a piecemeal and unplanned way across the countryside.",
+      true
+     ]
+    ]
+   }
+  ]
+ },
+ "intermediary-grey-belt-changing-green-belt-appeals": {
+  "has_text": true,
+  "summary": [],
+  "positions": [
+   {
+    "prop": "METH",
+    "stance": "agrees",
+    "quotes": [
+     [
+      "Planning policy has to be understood at the level of individual decisions, not ministerial announcements.",
+      true
+     ]
+    ]
+   },
+   {
+    "prop": "METH",
+    "stance": "qualifies",
+    "quotes": [
+     [
+      "That isn’t because choosing an inquiry wins appeals; stronger cases reach inquiry in the first place.",
+      true
+     ],
+     [
+      "A headline claiming three-quarters of major grey belt schemes succeed can be perfectly accurate and still badly mislead anyone trying to understand how the policy works for most applicants.",
+      true
+     ],
+     [
+      "Far more likely it’s selection.",
+      true
+     ],
+     [
+      "One more trap worth flagging",
+      true
+     ],
+     [
+      "Trying to isolate grey belt from that environment is a mug’s game.",
+      true
+     ]
+    ]
+   },
+   {
+    "prop": "GB",
+    "stance": "agrees",
+    "quotes": [
+     [
+      "Among appeals where land was found to be grey belt, schemes that passed the sustainable location test succeeded 72% of the time. Those that failed it managed just 5%.",
+      true
+     ],
+     [
+      "Where the land was found not to be grey belt, the success rate collapsed to 7%.",
+      true
+     ]
+    ]
+   },
+   {
+    "prop": "SUP",
+    "stance": "agrees",
+    "quotes": [
+     [
+      "The demonstrable unmet need limb is passed far more often, largely because the NPPF ties it to housing land supply positions that are already widely unmet.",
+      true
+     ]
+    ]
+   }
+  ]
+ },
+ "irwin-mitchell-decoding-nppf-consultation-draft": {
+  "has_text": true,
+  "summary": [
+   [
+    "presumption in favour of suitably located development",
+    true
+   ]
+  ],
+  "positions": [
+   {
+    "prop": "S5",
+    "stance": "agrees",
+    "quotes": [
+     [
+      "want to make clear what forms of development are acceptable in principle in different locations as part of creating a more rules-based approach to development",
+      true
+     ],
+     [
+      "Sustainable Development: From tilted balance to permanent presumption",
+      true
+     ]
+    ]
+   }
+  ]
+ },
+ "irwin-mitchell-planning-reform-living-sector": {
+  "has_text": true,
+  "summary": [
+   [
+    "from discretionary decision-making toward more predictable outcomes",
+    true
+   ]
+  ],
+  "positions": []
+ },
+ "justspace-nppf-consultation-response": {
+  "has_text": true,
+  "summary": [
+   [
+    "in any way inconsistent",
+    true
+   ]
+  ],
+  "positions": []
+ },
+ "kings-chambers-planning-law-update-sep-2026": {
+  "has_text": false,
+  "summary": [
+   [
+    "Planning Law Update - September 2026",
+    false
+   ],
+   [
+    "Join Killian Garvey as he discusses some recent developments in planning law.",
+    false
+   ]
+  ],
+  "positions": []
+ },
+ "kings-chambers-recording-new-nppf-first-session": {
+  "has_text": false,
+  "summary": [
+   [
+    "the changes and their implications for planning decisions in the future",
+    false
+   ]
+  ],
+  "positions": []
+ },
+ "kings-chambers-recording-new-nppf-second-session": {
+  "has_text": false,
+  "summary": [],
+  "positions": []
+ },
+ "kings-chambers-webinar-new-nppf-second-session": {
+  "has_text": false,
+  "summary": [
+   [
+    "due to high demand",
+    false
+   ]
+  ],
+  "positions": []
+ },
+ "kings-chambers-webinar-new-nppf": {
+  "has_text": false,
+  "summary": [
+   [
+    "an interactive discussion to understand the changes and their implications for planning decisions in the future",
+    false
+   ]
+  ],
+  "positions": []
+ },
+ "kings-lynn-nppf-update-presentation-2026": {
+  "has_text": true,
+  "summary": [
+   [
+    "clarity re principles of development inside/ outside settlements",
+    true
+   ],
+   [
+    "in any way inconsistent",
+    true
+   ]
+  ],
+  "positions": []
+ },
+ "lancaster-cabinet-report-nppf-feb-2026": {
+  "has_text": true,
+  "summary": [
+   [
+    "a more consistent presumption in favour of sustainable development within settlements, and outside settlements on sites that are well-located",
+    true
+   ],
+   [
+    "will be a considerable material consideration that are capable of being directly applied to decisions and plans",
+    true
+   ]
+  ],
+  "positions": []
+ },
+ "landmark-appeal-s5-ho13-aston-clinton": {
+  "has_text": true,
+  "summary": [
+   [
+    "principally addressing the significant HLS [housing land supply] shortfall",
+    true
+   ]
+  ],
+  "positions": [
+   {
+    "prop": "S5",
+    "stance": "qualifies",
+    "quotes": [
+     [
+      "applying policy S5(4), exceptional circumstances justified approval of the proposal despite it not falling within any of the S5(1) categories",
+      true
+     ],
+     [
+      "falling outside every category is almost always fatal",
+      false
+     ]
+    ]
+   },
+   {
+    "prop": "S5",
+    "stance": "agrees",
+    "quotes": [
+     [
+      "The Inspector reached this conclusion solely based on",
+      true
+     ],
+     [
+      "caused by the proposal to the character and appearance of the area and to the setting and context of the village",
+      true
+     ]
+    ]
+   },
+   {
+    "prop": "SUP",
+    "stance": "qualifies",
+    "quotes": [
+     [
+      "the benefits of the proposal (principally addressing the significant HLS shortfall) would",
+      true
+     ]
+    ]
+   }
+  ]
+ },
+ "landmark-clean-energy-nppf-webinar": {
+  "has_text": true,
+  "summary": [],
+  "positions": []
+ },
+ "landmark-exploring-new-nppf-draft-webinar": {
+  "has_text": true,
+  "summary": [],
+  "positions": []
+ },
+ "landmark-government-publishes-nppf-2026": {
+  "has_text": true,
+  "summary": [
+   [
+    "clearer and more directive",
+    true
+   ],
+   [
+    "permanent presumption in favour of sustainable development",
+    true
+   ]
+  ],
+  "positions": []
+ },
+ "landmark-green-belt-appeal-full-costs": {
+  "has_text": true,
+  "summary": [],
+  "positions": []
+ },
+ "landmark-land-use-conference-2026": {
+  "has_text": true,
+  "summary": [
+   [
+    "From Reform to Reality: Delivering Growth while Protecting Places",
+    true
+   ],
+   [
+    "Nature v Need? Balancing Housing, Biodiversity and Climate Pressures",
+    true
+   ]
+  ],
+  "positions": []
+ },
+ "landmark-lpdf-exploring-new-nppf-draft-slides": {
+  "has_text": true,
+  "summary": [],
+  "positions": [
+   {
+    "prop": "S5",
+    "stance": "agrees",
+    "quotes": [
+     [
+      "1. Only certain forms of development should be approved outside settlements, as set out in the following list.",
+      true
+     ]
+    ]
+   }
+  ]
+ },
+ "landmark-nppf-2026-initial-look-webinar": {
+  "has_text": true,
+  "summary": [
+   [
+    "The New NPPF: Placemaking in practice",
+    true
+   ]
+  ],
+  "positions": []
+ },
+ "landmark-nppf-2026-webinar-initial-look-page": {
+  "has_text": true,
+  "summary": [
+   [
+    "NPPF 2026 webinar An initial look",
+    true
+   ]
+  ],
+  "positions": []
+ },
+ "landmark-nppf-2026-webinar-initial-look-slides": {
+  "has_text": true,
+  "summary": [],
+  "positions": [
+   {
+    "prop": "S5",
+    "stance": "agrees",
+    "quotes": [
+     [
+      "Clear list of ‘Tilt On’ development (10 options)",
+      true
+     ],
+     [
+      "Outside of that, tilt the other way (EC)",
+      true
+     ],
+     [
+      "S5: It's not (that) cold outside",
+      true
+     ]
+    ]
+   },
+   {
+    "prop": "GB",
+    "stance": "agrees",
+    "quotes": [
+     [
+      "If inappropriate, tilt against (need VSC (HC8, GB6))",
+      true
+     ]
+    ]
+   },
+   {
+    "prop": "GB",
+    "stance": "agrees",
+    "quotes": [
+     [
+      "If not inappropriate then tilt in favour of approval",
+      true
+     ]
+    ]
+   },
+   {
+    "prop": "A2",
+    "stance": "agrees",
+    "quotes": [
+     [
+      "A way of dealing with it may be to ask whether there is any practical significance to the difference in the application of old policy x and the NPPF on the same point",
+      true
+     ]
+    ]
+   },
+   {
+    "prop": "A2",
+    "stance": "qualifies",
+    "quotes": [
+     [
+      "Many plans (and emerging plans, even) are likely to be inconsistent/materially inconsistent with the new NPPF: eg, the S4/S5 approach to acceptability in principle.",
+      true
+     ],
+     [
+      "cut only the offending clause",
+      false
+     ]
+    ]
+   },
+   {
+    "prop": "DIV",
+    "stance": "agrees",
+    "quotes": [
+     [
+      "Will LPAs give more weight than PINS or Sec State to them? The principle of consistency (ie same treatment of same points unless there is a clear explanation) will be important.",
+      true
+     ],
+     [
+      "LPAs may take a different approach to this – if the early draft is their preferred option; compared perhaps to PINS and Sec State?",
+      true
+     ]
+    ]
+   }
+  ]
+ },
+ "landmark-old-chiswick-quashed-inconsistency": {
+  "has_text": true,
+  "summary": [],
+  "positions": [
+   {
+    "prop": "METH",
+    "stance": "agrees",
+    "quotes": [
+     [
+      "It benefits no one for officers to give advice or convey judgments, particularly as to material considerations, that they know to have been rejected by a planning inspector.",
+      true
+     ],
+     [
+      "Overall, the Court observed:",
+      true
+     ]
+    ]
+   }
+  ]
+ },
+ "landmark-placemaking-resource": {
+  "has_text": true,
+  "summary": [],
+  "positions": []
+ },
+ "landmark-placemaking-slides": {
+  "has_text": true,
+  "summary": [
+   [
+    "likely override all other settlement-based constraint policies in existing LPs [local plans]",
+    false
+   ]
+  ],
+  "positions": [
+   {
+    "prop": "A2",
+    "stance": "disagrees",
+    "quotes": [
+     [
+      "this provision will be likely to override all other settlement-based constraint policies in existing LPs: because of Annex A and fact that be inconsistent.",
+      true
+     ]
+    ]
+   },
+   {
+    "prop": "SUP",
+    "stance": "agrees",
+    "quotes": [
+     [
+      "5.36 years’ supply but affordable housing need with this engaged S5j (2,904 on the Council’s housing register) and appeal allowed. So – as apparent – confirmed that other needs beyond 5 HLS engages S5j",
+      true
+     ],
+     [
+      "including, but not limited to",
+      true
+     ]
+    ]
+   },
+   {
+    "prop": "SUP",
+    "stance": "agrees",
+    "quotes": [
+     [
+      "-But these presumptive policies not prevent refusal: proposal for mixed use where 2-3000 dwelling shortfall refused because of landscape and visual impacts: Whitchurch, 606893.",
+      true
+     ]
+    ]
+   },
+   {
+    "prop": "S5",
+    "stance": "agrees",
+    "quotes": [
+     [
+      "S5.1.j – a key provision in practice: replacing old need based presumption rendering policies out of date.",
+      true
+     ],
+     [
+      "S5 – outside settlement, categories of development attracting tilted balance",
+      true
+     ]
+    ]
+   },
+   {
+    "prop": "METH",
+    "stance": "agrees",
+    "quotes": [
+     [
+      "The application of this, only some at the moment: -Halstead Lane, Halstead, ref 6007121: dismissed for low density (13dph) not meeting targets.",
+      true
+     ]
+    ]
+   }
+  ]
+ },
+ "landmark-placemaking-webinar-event": {
+  "has_text": true,
+  "summary": [],
+  "positions": []
+ },
+ "landtech-2026-nppf-unlocks-development-opportunity": {
+  "has_text": true,
+  "summary": [],
+  "positions": [
+   {
+    "prop": "SH2",
+    "stance": "agrees",
+    "quotes": [
+     [
+      "the final version of the NPPF has included an updated definition of Settlement, which excludes villages that are ‘washed-over’ by Green Belt.",
+      true
+     ],
+     [
+      "Shift 2: Mandatory Density Floor",
+      true
+     ],
+     [
+      "exclude villages which lie within and are defined as part of the Green Belt in the development plan",
+      false
+     ]
+    ]
+   }
+  ]
+ },
+ "legal500-hugh-james-new-nppf-what-you-need-to-know": {
+  "has_text": false,
+  "summary": [],
+  "positions": []
+ },
+ "legal500-mills-reeve-new-nppf-key-takeaways": {
+  "has_text": false,
+  "summary": [],
+  "positions": []
+ },
+ "legal500-thrings-nppf-2026-sme-developers": {
+  "has_text": false,
+  "summary": [],
+  "positions": []
+ },
+ "lexisnexis-2026-revisions-nppf-published": {
+  "has_text": true,
+  "summary": [],
+  "positions": []
+ },
+ "lgbc-cpre-green-belt-now-grey-belt": {
+  "has_text": true,
+  "summary": [],
+  "positions": [
+   {
+    "prop": "METH",
+    "stance": "agrees",
+    "quotes": [
+     [
+      "From February to December 2025 there were twelve London Green Belt planning appeals. Ten were granted permission on grey belt grounds (83% where normally only 40% have been successful).",
+      true
+     ]
+    ]
+   },
+   {
+    "prop": "METH",
+    "stance": "agrees",
+    "quotes": [
+     [
+      "This showed that 84% of Green Belt appeals were being approved compared with 40%, as an average, over the last ten years.",
+      true
+     ]
+    ]
+   },
+   {
+    "prop": "GB",
+    "stance": "agrees",
+    "quotes": [
+     [
+      "The developer’s counsel argued, amongst other issues, that the site was grey belt, due to its definition specifically exempting encroachment from being a permitted reason for refusal (NPPF Glossary), and the Inspector agreed with the appellant and allowed the appeal.",
+      true
+     ]
+    ]
+   }
+  ]
+ },
+ "lgc-latest-nppf-changes": {
+  "has_text": true,
+  "summary": [],
+  "positions": []
+ },
+ "lgl-39-essex-planning-week-mar-2026": {
+  "has_text": true,
+  "summary": [
+   [
+    "Planning, Environment and Property Week",
+    true
+   ]
+  ],
+  "positions": []
+ },
+ "lgl-august-2026-nppf-changes-from-draft": {
+  "has_text": true,
+  "summary": [
+   [
+    "or parts of those policies",
+    true
+   ],
+   [
+    "in any way inconsistent",
+    true
+   ]
+  ],
+  "positions": [
+   {
+    "prop": "A2",
+    "stance": "agrees",
+    "quotes": [
+     [
+      "development plan policies, or parts of those policies, which are materially inconsistent with the national decision-making policies in the new NPPF should be given very limited weight",
+      true
+     ],
+     [
+      "or parts of those policies",
+      true
+     ],
+     [
+      "still likely to give rise to early debate about which existing local plan policies can properly continue to carry full weight",
+      true
+     ]
+    ]
+   },
+   {
+    "prop": "S5",
+    "stance": "agrees",
+    "quotes": [
+     [
+      "residential and mixed-use development outside settlements can be approved where it is within reasonable walking distance of a well-connected station",
+      true
+     ],
+     [
+      "Policy S5 contains a broader route for development outside settlements where it would meet an evidenced unmet need",
+      true
+     ]
+    ]
+   },
+   {
+    "prop": "SH1",
+    "stance": "agrees",
+    "quotes": [
+     [
+      "S3 directs decision-makers to apply S4 where development is within a settlement and S5 where development is outside a settlement",
+      true
+     ],
+     [
+      "This is likely to make settlement boundaries, site composition and the treatment of split sites increasingly important in planning judgement.",
+      true
+     ]
+    ]
+   }
+  ]
+ },
+ "lgl-cornerstone-roundtable-plan-making": {
+  "has_text": true,
+  "summary": [],
+  "positions": []
+ },
+ "lgl-default-yes-homes-near-stations": {
+  "has_text": true,
+  "summary": [
+   [
+    "more explicit presumption in favour of development in sustainable locations, including development within settlements",
+    true
+   ],
+   [
+    "not connected to existing settlements",
+    true
+   ]
+  ],
+  "positions": [
+   {
+    "prop": "S5",
+    "stance": "qualifies",
+    "quotes": [
+     [
+      "not connected to existing settlements",
+      true
+     ]
+    ]
+   }
+  ]
+ },
+ "lgl-government-traveller-sites-reports-wrong": {
+  "has_text": true,
+  "summary": [
+   [
+    "judged consistently alongside other planning applications",
+    true
+   ]
+  ],
+  "positions": []
+ },
+ "lgl-landmark-nppf-2026-event-listing": {
+  "has_text": true,
+  "summary": [],
+  "positions": []
+ },
+ "lgl-landmark-nppf-2026-initial-look-webinar": {
+  "has_text": true,
+  "summary": [],
+  "positions": []
+ },
+ "lgl-revised-nppf-clarifies-roles-of-plans": {
+  "has_text": true,
+  "summary": [
+   [
+    "more clearly the respective roles of different types of plans and what needs to be considered in decision-making",
+    true
+   ]
+  ],
+  "positions": []
+ },
+ "lgl-revised-nppf-registered-providers": {
+  "has_text": true,
+  "summary": [],
+  "positions": [
+   {
+    "prop": "A2",
+    "stance": "agrees",
+    "quotes": [
+     [
+      "without them being updated to match the NPPF some will be given limited weight in decision-making where they are inconsistent with the Framework.",
+      true
+     ]
+    ]
+   }
+  ]
+ },
+ "lgl-royal-borough-challenge-mol-grey-belt": {
+  "has_text": true,
+  "summary": [
+   [
+    "a useful but not strong contribution",
+    true
+   ]
+  ],
+  "positions": [
+   {
+    "prop": "DIV",
+    "stance": "agrees",
+    "quotes": [
+     [
+      "Greenwich had rejected this as inappropriate development on metropolitan open land",
+      true
+     ],
+     [
+      "The Royal Borough of Greenwich has challenged the decision made by the Planning Inspectorate.",
+      true
+     ]
+    ]
+   }
+  ]
+ },
+ "lichfields-healthcare-draft-nppf": {
+  "has_text": true,
+  "summary": [],
+  "positions": []
+ },
+ "lichfields-next-station-stop": {
+  "has_text": true,
+  "summary": [],
+  "positions": []
+ },
+ "lichfields-spatial-development-strategies": {
+  "has_text": true,
+  "summary": [],
+  "positions": []
+ },
+ "lichfields-ten-year-local-plan-periods": {
+  "has_text": true,
+  "summary": [
+   [
+    "no less than 10 years from the point of adoption",
+    true
+   ]
+  ],
+  "positions": []
+ },
+ "lichfields-town-centres-draft-nppf": {
+  "has_text": true,
+  "summary": [],
+  "positions": [
+   {
+    "prop": "S5",
+    "stance": "agrees",
+    "quotes": [
+     [
+      "Draft Policy S5 explicitly recognises such facilities as acceptable in principle outside settlement boundaries, subject to meeting the requirements of draft Policy TR5.",
+      true
+     ]
+    ]
+   }
+  ]
+ },
+ "livedin-nppf-2026-policy-test": {
+  "has_text": true,
+  "summary": [],
+  "positions": [
+   {
+    "prop": "SH2",
+    "stance": "agrees",
+    "quotes": [
+     [
+      "A village lying within the Green Belt is not a settlement for S4 purposes, so the S4 default yes is unavailable however built-up the frontage looks.",
+      true
+     ],
+     [
+      "Village lying within the Green Belt",
+      true
+     ]
+    ]
+   },
+   {
+    "prop": "S5",
+    "stance": "agrees",
+    "quotes": [
+     [
+      "S5(4): approval only in exceptional circumstances, where the benefits substantially outweigh the adverse effects",
+      true
+     ],
+     [
+      "Falling within any S5(1) limb means approval unless the benefits are substantially outweighed.",
+      true
+     ]
+    ]
+   },
+   {
+    "prop": "SUP",
+    "stance": "agrees",
+    "quotes": [
+     [
+      "The supply shortfall gets you through the door on its own.",
+      true
+     ]
+    ]
+   },
+   {
+    "prop": "GB",
+    "stance": "agrees",
+    "quotes": [
+     [
+      "Without one of those routes you would have to show very special circumstances, which is a high bar and rarely met.",
+      true
+     ],
+     [
+      "Where a GB7 limb is made out the development is not inappropriate, no very special circumstances are needed, and S5(5) then applies the balance.",
+      true
+     ]
+    ]
+   },
+   {
+    "prop": "A2",
+    "stance": "qualifies",
+    "quotes": [
+     [
+      "Two exceptions: policies examined and adopted or made against this Framework keep their weight, and a policy is not downgraded simply for predating the Framework. Most restrictive rural housing policies adopted under earlier editions now sit here.",
+      true
+     ],
+     [
+      "for checking rather than established",
+      true
+     ],
+     [
+      "Where a local policy clashes with the new national rules it carries very limited weight, unless the plan was examined against the new rules.",
+      true
+     ],
+     [
+      "identify the specific policies and the specific inconsistency",
+      true
+     ]
+    ]
+   },
+   {
+    "prop": "METH",
+    "stance": "agrees",
+    "quotes": [
+     [
+      "no decision has had to decide the point, because a supply shortfall was present in every appeal read",
+      true
+     ]
+    ]
+   }
+  ]
+ },
+ "livedin-nppf-2026-terminology": {
+  "has_text": true,
+  "summary": [],
+  "positions": [
+   {
+    "prop": "SH2",
+    "stance": "agrees",
+    "quotes": [
+     [
+      "Villages lying within and defined as part of the Green Belt are excluded entirely.",
+      true
+     ],
+     [
+      "A village inside the Green Belt does not count, however built-up it looks.",
+      true
+     ]
+    ]
+   },
+   {
+    "prop": "S5",
+    "stance": "agrees",
+    "quotes": [
+     [
+      "There is no test and no distance. Footnote 28 covers only land beyond an undeveloped allocation. This is the main battleground for edge-of-settlement sites.",
+      true
+     ],
+     [
+      "Where no route fits, this is what is left, and it is a high bar.",
+      true
+     ]
+    ]
+   },
+   {
+    "prop": "A2",
+    "stance": "disagrees",
+    "quotes": [
+     [
+      "Most restrictive rural housing policies adopted under earlier editions sit here.",
+      true
+     ],
+     [
+      "has to be shown",
+      true
+     ]
+    ]
+   }
+  ]
+ },
+ "logical-planning-nppf-2026-explained": {
+  "has_text": true,
+  "summary": [
+   [
+    "NPPF 2026: what changed",
+    true
+   ],
+   [
+    "Sustainable development and what it decides",
+    false
+   ],
+   [
+    "not yet a settled body of appeal decisions on the key definitions",
+    false
+   ]
+  ],
+  "positions": [
+   {
+    "prop": "SUP",
+    "stance": "agrees",
+    "quotes": [
+     [
+      "The supply position is still the practical gateway to the presumption",
+      false
+     ],
+     [
+      "Housing land supply and delivery: HO3 with Annex D",
+      false
+     ]
+    ]
+   },
+   {
+    "prop": "SUP",
+    "stance": "agrees",
+    "quotes": [
+     [
+      "it is the mechanism through which most greenfield edge-of-settlement consents are won at appeal.",
+      false
+     ],
+     [
+      "The presumption in favour of sustainable development",
+      true
+     ],
+     [
+      "for a site that is otherwise sustainably located",
+      false
+     ],
+     [
+      "the presumption combined with a walkable relationship to existing services and quantified benefits",
+      false
+     ],
+     [
+      "How sustainability decides a site in practice",
+      false
+     ],
+     [
+      "opens the gate, never decides",
+      false
+     ]
+    ]
+   },
+   {
+    "prop": "TR",
+    "stance": "qualifies",
+    "quotes": [
+     [
+      "Distance to a settlement and to everyday services is the practical test of sustainability.",
+      false
+     ],
+     [
+      "Sustainable location and travel patterns",
+      false
+     ],
+     [
+      "Accessibility audit with walking and cycling distances to services",
+      false
+     ]
+    ]
+   },
+   {
+    "prop": "GB",
+    "stance": "agrees",
+    "quotes": [
+     [
+      "Sustainability arguments do not override Green Belt policy, but the grey belt route makes them decisive",
+      false
+     ],
+     [
+      "Green Belt, grey belt and the Golden Rules",
+      false
+     ]
+    ]
+   },
+   {
+    "prop": "METH",
+    "stance": "agrees",
+    "quotes": [
+     [
+      "The pattern in appeal decisions is consistent.",
+      false
+     ],
+     [
+      "How sustainability decides a site in practice",
+      false
+     ]
+    ]
+   }
+  ]
+ },
+ "logical-planning-nppf-2026-policy-codes-explained": {
+  "has_text": true,
+  "summary": [],
+  "positions": []
+ },
+ "lsh-nppf-update-10-major-changes": {
+  "has_text": true,
+  "summary": [],
+  "positions": []
+ },
+ "marrons-planner-responds-new-nppf": {
+  "has_text": false,
+  "summary": [
+   [
+    "National Planning Policy Framework",
+    false
+   ],
+   [
+    "Grey Belt – A Game Changer for Planning and Housing",
+    false
+   ]
+  ],
+  "positions": []
+ },
+ "mbl-nppf-2026-complete-overhaul-webinar": {
+  "has_text": true,
+  "summary": [
+   [
+    "engage with the draft",
+    true
+   ],
+   [
+    "the new presumption in favour of sustainable development based on whether development is within or outside a settlement",
+    true
+   ]
+  ],
+  "positions": []
+ },
+ "mhclg-chief-planner-letter-25-aug-2026": {
+  "has_text": true,
+  "summary": [
+   [
+    "between 10 and 49 homes, on a site of up to 2.5 hectares",
+    true
+   ],
+   [
+    "should be used unless there are strong reasons for taking a different approach",
+    true
+   ]
+  ],
+  "positions": []
+ },
+ "mhclg-chief-planner-newsletter-aug-2026": {
+  "has_text": true,
+  "summary": [
+   [
+    "took effect on 17 August 2026",
+    true
+   ],
+   [
+    "familiarise themselves with the new Framework, and in particular the decision-making policies",
+    true
+   ],
+   [
+    "over the coming months",
+    true
+   ]
+  ],
+  "positions": []
+ },
+ "mhclg-chief-planner-newsletter-jun-2026": {
+  "has_text": true,
+  "summary": [],
+  "positions": []
+ },
+ "mhclg-chief-planner-newsletter-mar-2026": {
+  "has_text": true,
+  "summary": [
+   [
+    "want to access more training opportunities",
+    true
+   ]
+  ],
+  "positions": []
+ },
+ "mhclg-creating-clear-rules-based-planning-system": {
+  "has_text": true,
+  "summary": [
+   [
+    "more certain, consistent and streamlined",
+    true
+   ],
+   [
+    "avoid unjustified local deviation from national policy in local plans",
+    true
+   ]
+  ],
+  "positions": []
+ },
+ "mhclg-design-placemaking-ppg-consultation": {
+  "has_text": true,
+  "summary": [],
+  "positions": []
+ },
+ "mhclg-draft-nppf-december-2025": {
+  "has_text": true,
+  "summary": [
+   [
+    "For the purpose of this Framework they also exclude villages which lie within and are defined as part of the Green Belt in the development plan",
+    false
+   ],
+   [
+    "well related to an existing settlement",
+    true
+   ],
+   [
+    "in any way inconsistent",
+    true
+   ],
+   [
+    "policies (or parts of those policies) which are materially inconsistent",
+    false
+   ],
+   [
+    "topography, route availability and quality or physical barriers",
+    false
+   ]
+  ],
+  "positions": [
+   {
+    "prop": "SH1",
+    "stance": "agrees",
+    "quotes": [
+     [
+      "This includes areas defined as a settlement in the development plan (whether using defined settlement boundaries or equivalent terms, or criteria for identifying settlement extents).",
+      true
+     ]
+    ]
+   },
+   {
+    "prop": "S5",
+    "stance": "agrees",
+    "quotes": [
+     [
+      "Any other development proposals which do not fall within one of the categories set out above should only be approved in exceptional circumstances, where the benefits of the proposal would substantially outweigh the adverse effects",
+      true
+     ]
+    ]
+   },
+   {
+    "prop": "SUP",
+    "stance": "agrees",
+    "quotes": [
+     [
+      "Development which would address an evidenced unmet need (including, but not limited to, development proposals involving the provision of housing where the local planning authority cannot demonstrate a five year supply of deliverable housing sites",
+      true
+     ]
+    ]
+   }
+  ]
+ },
+ "mhclg-hdt-measurement-rule-book": {
+  "has_text": true,
+  "summary": [
+   [
+    "an evidenced unmet need for housing is deemed to exist for the purpose of applying policy S5(1)(j)",
+    true
+   ]
+  ],
+  "positions": [
+   {
+    "prop": "SUP",
+    "stance": "agrees",
+    "quotes": [
+     [
+      "where delivery falls below 75% of the requirement over the previous three years, an evidenced unmet need for housing is deemed to exist for the purpose of applying policy S5(1)(j) in the Framework.",
+      true
+     ]
+    ]
+   }
+  ]
+ },
+ "mhclg-letters-to-chief-planning-officers-index": {
+  "has_text": true,
+  "summary": [],
+  "positions": []
+ },
+ "mhclg-nppf-annex-d-housing-calculations": {
+  "has_text": true,
+  "summary": [
+   [
+    "an evidenced unmet need for housing is deemed to exist",
+    true
+   ]
+  ],
+  "positions": [
+   {
+    "prop": "SUP",
+    "stance": "agrees",
+    "quotes": [
+     [
+      "Where delivery falls below 75% of the requirement over the previous three years, an evidenced unmet need for housing is deemed to exist for the purpose of applying policy S5(1)(j) in this Framework.",
+      true
+     ],
+     [
+      "opens the gate, never decides the case",
+      false
+     ],
+     [
+      "including, but not limited to",
+      false
+     ]
+    ]
+   }
+  ]
+ },
+ "mhclg-nppf-annex-e-green-belt-assessments": {
+  "has_text": true,
+  "summary": [],
+  "positions": [
+   {
+    "prop": "GB",
+    "stance": "agrees",
+    "quotes": [
+     [
+      "Villages should not be considered large built-up areas.",
+      true
+     ],
+     [
+      "This purpose relates to the merging of towns[footnote 77], not villages.",
+      true
+     ],
+     [
+      "This purpose relates to historic towns, not villages.",
+      true
+     ]
+    ]
+   }
+  ]
+ },
+ "mhclg-nppf-ch14-design": {
+  "has_text": true,
+  "summary": [],
+  "positions": [
+   {
+    "prop": "A2",
+    "stance": "agrees",
+    "quotes": [
+     [
+      "Substantial weight should be given to compliance with relevant development plan policies when assessing the design quality of proposals.",
+      true
+     ],
+     [
+      "with any explicit design standards set out in the development plan (including those in locally-specific policies, guides, codes or masterplans)",
+      true
+     ]
+    ]
+   }
+  ]
+ },
+ "mhclg-nppf-ch20-historic-environment": {
+  "has_text": true,
+  "summary": [
+   [
+    "a matter of considerable importance and weight",
+    true
+   ]
+  ],
+  "positions": [
+   {
+    "prop": "A2",
+    "stance": "agrees",
+    "quotes": [
+     [
+      "Any harm to a designated heritage asset will be a matter of considerable importance and weight, which should be dealt with in accordance with paragraphs 4 to 6 of this policy.",
+      true
+     ]
+    ]
+   }
+  ]
+ },
+ "mhclg-nppf-ch3-decision-making": {
+  "has_text": true,
+  "summary": [],
+  "positions": []
+ },
+ "mhclg-nppf-ch6-housing-supply": {
+  "has_text": true,
+  "summary": [
+   [
+    "adjoin or be physically well-related to a settlement",
+    true
+   ],
+   [
+    "not well-related to existing settlements",
+    true
+   ]
+  ],
+  "positions": []
+ },
+ "mhclg-nppf-consultation-december-2025": {
+  "has_text": true,
+  "summary": [
+   [
+    "to guard against development being badly-located",
+    true
+   ]
+  ],
+  "positions": [
+   {
+    "prop": "SH1",
+    "stance": "agrees",
+    "quotes": [
+     [
+      "It emphasises the importance of identifying settlement boundaries, or clear criteria for identifying settlements, to support the proposed approach to decision-making on development within and outside settlements (policies S4 and S5).",
+      true
+     ]
+    ]
+   },
+   {
+    "prop": "S5",
+    "stance": "agrees",
+    "quotes": [
+     [
+      "this policy restricts the types of development that are considered acceptable outside settlements, in order to prevent unsustainable patterns of growth and conserve rural character.",
+      true
+     ]
+    ]
+   },
+   {
+    "prop": "SUP",
+    "stance": "agrees",
+    "quotes": [
+     [
+      "it adds the proviso that in such circumstances development should be well-related to an existing settlement (unless the nature of the use would make this inappropriate), to guard against development being badly-located.",
+      true
+     ]
+    ]
+   },
+   {
+    "prop": "METH",
+    "stance": "agrees",
+    "quotes": [
+     [
+      "The case for non-statutory national policy",
+      true
+     ],
+     [
+      "Since the current Framework was updated in December 2024, an unprecedented 80% of major residential appeals located on grey belt land have been approved",
+      true
+     ]
+    ]
+   }
+  ]
+ },
+ "mhclg-nppf-consultation-government-response": {
+  "has_text": true,
+  "summary": [
+   [
+    "to address how the definition applies to villages within the Green Belt",
+    true
+   ],
+   [
+    "route availability and quality",
+    true
+   ]
+  ],
+  "positions": [
+   {
+    "prop": "SH2",
+    "stance": "agrees",
+    "quotes": [
+     [
+      "address how the definition applies to villages within the Green Belt",
+      true
+     ],
+     [
+      "changes to policy GB4 to recognise that villages lying in the Green Belt should not be identified as settlements for the purpose of the spatial strategy in the development plan",
+      true
+     ]
+    ]
+   },
+   {
+    "prop": "TR",
+    "stance": "agrees",
+    "quotes": [
+     [
+      "around 400 metres, or around five minutes’ walk, unless topography, route availability and quality or physical barriers would prevent or discourage walking up to that distance.",
+      true
+     ]
+    ]
+   },
+   {
+    "prop": "A2",
+    "stance": "agrees",
+    "quotes": [
+     [
+      "It now makes clear that the policy can apply to parts of development plan policies to address concerns that entire policies could be given limited weight based on partial inconsistency. In addition, inconsistency is to be assessed based on material differences",
+      true
+     ],
+     [
+      "cuts only the offending clause",
+      false
+     ]
+    ]
+   },
+   {
+    "prop": "DIV",
+    "stance": "agrees",
+    "quotes": [
+     [
+      "Other respondents raised concerns about subjectivity, noting the potential for differing interpretations either to justify development or to strengthen protection.",
+      true
+     ]
+    ]
+   }
+  ]
+ },
+ "mhclg-nppf-consultation-outcome-page": {
+  "has_text": true,
+  "summary": [],
+  "positions": [
+   {
+    "prop": "A2",
+    "stance": "agrees",
+    "quotes": [
+     [
+      "On page 106 regarding transitional arrangements, we have removed the sentence ‘Therefore, the draft Framework sets out that due weight should be given to development plan policies relative to the consistency with the Framework’ for clarity.",
+      true
+     ],
+     [
+      "due weight by consistency",
+      false
+     ]
+    ]
+   }
+  ]
+ },
+ "mhclg-nppf-proposed-reforms-consultation-dec-2025": {
+  "has_text": true,
+  "summary": [
+   [
+    "well-related to an existing settlement",
+    true
+   ]
+  ],
+  "positions": [
+   {
+    "prop": "SH1",
+    "stance": "agrees",
+    "quotes": [
+     [
+      "It emphasises the importance of identifying settlement boundaries, or clear criteria for identifying settlements, to support the proposed approach to decision-making on development within and outside settlements (policies S4 and S5).",
+      true
+     ],
+     [
+      "S2: Producing a spatial strategy",
+      true
+     ]
+    ]
+   },
+   {
+    "prop": "S5",
+    "stance": "agrees",
+    "quotes": [
+     [
+      "this policy restricts the types of development that are considered acceptable outside settlements, in order to prevent unsustainable patterns of growth and conserve rural character.",
+      true
+     ],
+     [
+      "S5: Principle of development outside settlements",
+      true
+     ]
+    ]
+   },
+   {
+    "prop": "SUP",
+    "stance": "agrees",
+    "quotes": [
+     [
+      "development of other sorts which would meet an evidenced unmet need (for example in instances where there is not a five-year housing land supply)",
+      true
+     ],
+     [
+      "although it adds the proviso that in such circumstances development should be well-related to an existing settlement (unless the nature of the use would make this inappropriate), to guard against development being badly-located.",
+      true
+     ],
+     [
+      "S5: Principle of development outside settlements",
+      true
+     ],
+     [
+      "opens the gate but never decides",
+      false
+     ]
+    ]
+   },
+   {
+    "prop": "GB",
+    "stance": "agrees",
+    "quotes": [
+     [
+      "Since the current Framework was updated in December 2024, an unprecedented 80% of major residential appeals located on grey belt land have been approved",
+      true
+     ],
+     [
+      "The case for non-statutory national policy",
+      true
+     ]
+    ]
+   },
+   {
+    "prop": "METH",
+    "stance": "agrees",
+    "quotes": [
+     [
+      "Since the current Framework was updated in December 2024, an unprecedented 80% of major residential appeals located on grey belt land have been approved",
+      true
+     ],
+     [
+      "The case for non-statutory national policy",
+      true
+     ]
+    ]
+   }
+  ]
+ },
+ "mhclg-planning-policy-traveller-sites": {
+  "has_text": true,
+  "summary": [
+   [
+    "planning policy for traveller sites has been replaced by the NPPF",
+    true
+   ]
+  ],
+  "positions": []
+ },
+ "mhclg-ppg-collection": {
+  "has_text": true,
+  "summary": [
+   [
+    "Updated link to the National Planning Policy Framework, which was revised 17 August 2026.",
+    true
+   ]
+  ],
+  "positions": []
+ },
+ "mhclg-ppg-green-belt": {
+  "has_text": true,
+  "summary": [],
+  "positions": [
+   {
+    "prop": "GB",
+    "stance": "agrees",
+    "quotes": [
+     [
+      "Where a development is not inappropriate in the Green Belt, this does not itself remove the land from the Green Belt nor require development proposals to be approved.",
+      true
+     ]
+    ]
+   },
+   {
+    "prop": "GB",
+    "stance": "agrees",
+    "quotes": [
+     [
+      "Villages should not be considered large built up areas.",
+      true
+     ]
+    ]
+   }
+  ]
+ },
+ "mhclg-psed-assessment-nppf-changes": {
+  "has_text": true,
+  "summary": [
+   [
+    "permanent presumption in favour of suitably located development",
+    true
+   ]
+  ],
+  "positions": [
+   {
+    "prop": "TR",
+    "stance": "agrees",
+    "quotes": [
+     [
+      "Partly to account for the fact that some groups (such as older and disabled people) may face greater challenges with walking, the new definition of ‘reasonable walking distance’ explicitly allows for route availability, quality and physical barriers to be considered.",
+      true
+     ]
+    ]
+   },
+   {
+    "prop": "S5",
+    "stance": "agrees",
+    "quotes": [
+     [
+      "Policy S5 seeks to approve certain forms of development outside of settlements where sustainable",
+      true
+     ],
+     [
+      "makes clear what forms of development are acceptable in principle in different locations as part of creating a more rules-based approach to development.",
+      true
+     ]
+    ]
+   },
+   {
+    "prop": "METH",
+    "stance": "agrees",
+    "quotes": [
+     [
+      "it is through the application of the NPPF that any impact will be realised and the weight afforded to individual policies may result in a different on-the-ground impact from that set out in this assessment.",
+      true
+     ]
+    ]
+   }
+  ]
+ },
+ "mhclg-rules-based-planning-letter-page": {
+  "has_text": true,
+  "summary": [
+   [
+    "announced wider measures to create a faster, more certain planning system",
+    true
+   ]
+  ],
+  "positions": []
+ },
+ "mhclg-rules-based-planning-letter": {
+  "has_text": true,
+  "summary": [
+   [
+    "the decision-making policies will come into effect from today",
+    true
+   ]
+  ],
+  "positions": []
+ },
+ "michelmores-national-planning-policy-framework-2026": {
+  "has_text": true,
+  "summary": [
+   [
+    "does not strongly contribute to any of purposes (a), (b), or (d)",
+    true
+   ]
+  ],
+  "positions": [
+   {
+    "prop": "SUP",
+    "stance": "agrees",
+    "quotes": [
+     [
+      "Development outside settlements may also benefit from policy support in specified circumstances, including where authorities cannot demonstrate a five-year housing land supply or have Housing Delivery Test results below 75%.",
+      true
+     ]
+    ]
+   }
+  ]
+ },
+ "mid-sussex-colwell-farm-appellant-nppf-2026-id32": {
+  "has_text": true,
+  "summary": [],
+  "positions": [
+   {
+    "prop": "S5",
+    "stance": "agrees",
+    "quotes": [
+     [
+      "Compliance with one criterion is",
+      true
+     ]
+    ]
+   },
+   {
+    "prop": "S5",
+    "stance": "qualifies",
+    "quotes": [
+     [
+      "S5(1)(j) does not include any express requirements itself in respect to accessibility, beyond",
+      true
+     ]
+    ]
+   },
+   {
+    "prop": "SUP",
+    "stance": "qualifies",
+    "quotes": [
+     [
+      "growth at the edge of settlements should be permitted unless the new tilted balance is not satisfied: in short,",
+      true
+     ],
+     [
+      "unless a substantial level of harms would result",
+      true
+     ],
+     [
+      "The appeal scheme is clearly precisely the type of proposal the new NPPF was designed to",
+      true
+     ]
+    ]
+   },
+   {
+    "prop": "A2",
+    "stance": "disagrees",
+    "quotes": [
+     [
+      "the parts of DP6 which restrict development in the countryside beyond",
+      true
+     ],
+     [
+      "Consequently, DP34 should attract very limited weight as this is the effect of Annex A,",
+      true
+     ]
+    ]
+   },
+   {
+    "prop": "TR",
+    "stance": "agrees",
+    "quotes": [
+     [
+      "There are no specified walking distances relating to services, facilities, and bus stops, and therefore",
+      true
+     ],
+     [
+      "these must be considered on a case-by-case basis",
+      true
+     ],
+     [
+      "a detailed walking audit",
+      true
+     ],
+     [
+      "ensure there are consistent, safe, and attractive connections along the desire line routes",
+      true
+     ]
+    ]
+   }
+  ]
+ },
+ "mills-reeve-later-living-revised-nppf": {
+  "has_text": true,
+  "summary": [
+   [
+    "well related to an existing settlement",
+    true
+   ]
+  ],
+  "positions": [
+   {
+    "prop": "S5",
+    "stance": "agrees",
+    "quotes": [
+     [
+      "Outside settlements, certain forms of development can also benefit from that presumption, most notable examples for the later living sector being development which is allocated for that purpose in the development plan and development which would address an unmet evidenced need and would be well related to an existing settlement.",
+      true
+     ]
+    ]
+   }
+  ]
+ },
+ "ml-traffic-sustainable-transport-consultants-2026": {
+  "has_text": true,
+  "summary": [
+   [
+    "a route may look short on plan and still feel unusable in reality",
+    true
+   ]
+  ],
+  "positions": [
+   {
+    "prop": "TR",
+    "stance": "agrees",
+    "quotes": [
+     [
+      "A route may look short on plan and still feel unusable in reality.",
+      true
+     ],
+     [
+      "Site Appraisals, Accessibility Reviews, And Mitigation Strategies",
+      true
+     ],
+     [
+      "A five-minute walk to a bus stop sounds positive: less so if the route involves poor crossings, no lighting and an uninviting frontage.",
+      true
+     ]
+    ]
+   }
+  ]
+ },
+ "mondaq-hugh-james-new-nppf-what-you-need-to-know": {
+  "has_text": true,
+  "summary": [],
+  "positions": [
+   {
+    "prop": "A2",
+    "stance": "agrees",
+    "quotes": [
+     [
+      "The concept of policies being ‘out of date’ in the previous sense has been removed.",
+      true
+     ],
+     [
+      "New presumptions: Polices S3 to S5 replace the tilted balance",
+      true
+     ]
+    ]
+   },
+   {
+    "prop": "SH1",
+    "stance": "agrees",
+    "quotes": [
+     [
+      "The Framework introduces a national definition of a settlement for the first time, important because the Policy S4 and S5 presumptions turn on whether development is within or outside one.",
+      true
+     ]
+    ]
+   },
+   {
+    "prop": "METH",
+    "stance": "agrees",
+    "quotes": [
+     [
+      "It’s fair to say that the material inconsistency touchpaper has now been lit and will be played out on a case-by-case basis in live applications and appeals.",
+      true
+     ]
+    ]
+   }
+  ]
+ },
+ "nalc-broadly-supports-updated-nppf": {
+  "has_text": true,
+  "summary": [],
+  "positions": []
+ },
+ "nalc-finalises-nppf-consultation-response": {
+  "has_text": true,
+  "summary": [],
+  "positions": []
+ },
+ "nalc-requesting-planning-applications": {
+  "has_text": true,
+  "summary": [],
+  "positions": []
+ },
+ "nelincs-cabinet-local-plan-sep-2026": {
+  "has_text": true,
+  "summary": [
+   [
+    "provides an even stronger emphasis on housing delivery and approving schemes in sustainable locations without delay",
+    true
+   ]
+  ],
+  "positions": [
+   {
+    "prop": "SUP",
+    "stance": "agrees",
+    "quotes": [
+     [
+      "Not meeting the five-year supply means national planning policy takes precedence over local policy and there is an effective ‘presumption in favour of sustainable development’ meaning even if local decisions refuse such applications, a Planning Inspector is more likely to overturn such refusals. This does not mean all speculative applications will happen and the Council has been successful in a recent appeal. However, the bar is very much higher",
+      true
+     ],
+     [
+      "the changes to the NPPF in December 2024",
+      true
+     ],
+     [
+      "the bar is very much higher",
+      true
+     ]
+    ]
+   }
+  ]
+ },
+ "new-forest-npa-pc-507-26-nppf-consultation": {
+  "has_text": true,
+  "summary": [
+   [
+    "immediately be given very limited weight",
+    true
+   ],
+   [
+    "highest status of protection",
+    true
+   ]
+  ],
+  "positions": []
+ },
+ "newsteer-nppf-briefing-note-aug-26": {
+  "has_text": true,
+  "summary": [
+   [
+    "has been largely retained",
+    true
+   ],
+   [
+    "solely on the basis of local character or settlement-edge locations",
+    true
+   ]
+  ],
+  "positions": [
+   {
+    "prop": "TR",
+    "stance": "agrees",
+    "quotes": [
+     [
+      "although it does not replace the need for a site-specific assessment of local accessibility and transport conditions",
+      true
+     ],
+     [
+      "Protecting Green Belt Land",
+      true
+     ]
+    ]
+   },
+   {
+    "prop": "S5",
+    "stance": "agrees",
+    "quotes": [
+     [
+      "whilst maintaining tighter controls on development in less sustainable countryside locations",
+      true
+     ]
+    ]
+   }
+  ]
+ },
+ "nfb-updated-nppf-homes-near-transport-hubs": {
+  "has_text": true,
+  "summary": [
+   [
+    "an appropriate walking distance",
+    true
+   ]
+  ],
+  "positions": []
+ },
+ "nfu-nppf-consultation-announced": {
+  "has_text": true,
+  "summary": [],
+  "positions": [
+   {
+    "prop": "S5",
+    "stance": "agrees",
+    "quotes": [
+     [
+      "local planning authorities would be expected to give a default ‘yes’ to many agricultural and horticultural developments in rural areas, except in exceptional circumstances",
+      true
+     ]
+    ]
+   }
+  ]
+ },
+ "nfu-nppf-consultation-concerns": {
+  "has_text": true,
+  "summary": [],
+  "positions": []
+ },
+ "nfu-nppf-refresh-food-production": {
+  "has_text": true,
+  "summary": [
+   [
+    "will be translated into positive planning decisions at the local level",
+    true
+   ]
+  ],
+  "positions": []
+ },
+ "no5-bristol-planning-seminar-2026": {
+  "has_text": false,
+  "summary": [
+   [
+    "The New NPPF: The New Approach to Decision Making, The New Presumptions and New Objectives For The Housing, Care, Employment And Logistics Sectors",
+    false
+   ],
+   [
+    "Grey Belt Appeals and Green Belt Release",
+    false
+   ]
+  ],
+  "positions": []
+ },
+ "no5-podcast-ep57-nppf-flashpoints-veteran-trees": {
+  "has_text": false,
+  "summary": [
+   [
+    "3 to 4 times as many trees",
+    false
+   ]
+  ],
+  "positions": []
+ },
+ "no5-podcast-ep58-nppf-consultation-older-peoples-housing": {
+  "has_text": false,
+  "summary": [],
+  "positions": []
+ },
+ "no5-podcast-ep60-nppf-flashpoint-transport": {
+  "has_text": false,
+  "summary": [],
+  "positions": []
+ },
+ "parliament-wms-planning-reform-next-phase-2025-12-16": {
+  "has_text": true,
+  "summary": [
+   [
+    "more certain, consistent and streamlined",
+    true
+   ],
+   [
+    "effectively override conflicting policies in local plans from day one",
+    true
+   ]
+  ],
+  "positions": []
+ },
+ "pas-further-information-new-plan-making-system": {
+  "has_text": false,
+  "summary": [
+   [
+    "new system local plans",
+    false
+   ]
+  ],
+  "positions": []
+ },
+ "pegasus-draft-nppf-perspective": {
+  "has_text": true,
+  "summary": [],
+  "positions": []
+ },
+ "pegasus-five-changes-landscape": {
+  "has_text": true,
+  "summary": [
+   [
+    "intrinsic character and beauty of the countryside",
+    true
+   ]
+  ],
+  "positions": []
+ },
+ "pegasus-green-belt-grey-belt": {
+  "has_text": true,
+  "summary": [
+   [
+    "the purposes do not relate to villages",
+    true
+   ]
+  ],
+  "positions": [
+   {
+    "prop": "GB",
+    "stance": "agrees",
+    "quotes": [
+     [
+      "The criteria remain unchanged from that previously set out in the PPG, and as before, the purposes do not relate to villages.",
+      true
+     ],
+     [
+      "Assessing a Site’s Contribution to the Purposes A, B, and D",
+      true
+     ]
+    ]
+   },
+   {
+    "prop": "GB",
+    "stance": "agrees",
+    "quotes": [
+     [
+      "Passing this bar still requires one to overcome the substantial weight afforded to the harm to the Green Belt.",
+      true
+     ]
+    ]
+   },
+   {
+    "prop": "GB",
+    "stance": "agrees",
+    "quotes": [
+     [
+      "This does not mean to suggest that such policy restrictions would not impact on the ability for a site to be allocated or successfully promoted through a planning application.",
+      true
+     ],
+     [
+      "Definition of Grey Belt Land",
+      true
+     ]
+    ]
+   },
+   {
+    "prop": "SUP",
+    "stance": "agrees",
+    "quotes": [
+     [
+      "There is an identified need – e.g. failure of the housing delivery test or 5-year land supply test",
+      true
+     ]
+    ]
+   }
+  ]
+ },
+ "pegasus-pragmatic-viability": {
+  "has_text": true,
+  "summary": [],
+  "positions": []
+ },
+ "pegasus-pro-development-pivot": {
+  "has_text": true,
+  "summary": [
+   [
+    "need not be considered",
+    true
+   ],
+   [
+    "surrounded or washed over by Green Belt",
+    true
+   ]
+  ],
+  "positions": [
+   {
+    "prop": "GB",
+    "stance": "agrees",
+    "quotes": [
+     [
+      "major development proposals for housing in such locations will still need to satisfy the relevant policy tests and comply with the “Golden Rules.”",
+      true
+     ]
+    ]
+   },
+   {
+    "prop": "SH2",
+    "stance": "agrees",
+    "quotes": [
+     [
+      "Green Belt land around villages on the edge of main conurbations that are surrounded or washed over by Green Belt but have a well-connected train station",
+      true
+     ]
+    ]
+   }
+  ]
+ },
+ "pegasus-renewables-policy-void": {
+  "has_text": true,
+  "summary": [],
+  "positions": []
+ },
+ "pegasus-transport-planning-nppf": {
+  "has_text": true,
+  "summary": [
+   [
+    "severe adverse impact on the transport network",
+    true
+   ],
+   [
+    "an unacceptable impact on highway safety",
+    true
+   ]
+  ],
+  "positions": [
+   {
+    "prop": "TR",
+    "stance": "agrees",
+    "quotes": [
+     [
+      "Our view is that this tool will be useful to some extent but that it does not take into account such elements as multi-modal journeys, user experience, reliability or quality of destinations for example, so it should not be regarded as a single defining point of reference. The NPPF does recognise this at TR3.2.",
+      true
+     ]
+    ]
+   }
+  ]
+ },
+ "perfect-scale-5yhls-buffer-july-2026": {
+  "has_text": true,
+  "summary": [],
+  "positions": [
+   {
+    "prop": "SUP",
+    "stance": "agrees",
+    "quotes": [
+     [
+      "This does not force approvals. It raises the cost of refusing, most visibly at the marginal scheme.",
+      true
+     ],
+     [
+      "Why the trigger matters for refusal defensibility",
+      true
+     ]
+    ]
+   },
+   {
+    "prop": "METH",
+    "stance": "agrees",
+    "quotes": [
+     [
+      "For applicants weighing whether to push a marginal scheme before 1 July, those three numbers together are the empirical version of the question the buffer raises in policy terms.",
+      true
+     ],
+     [
+      "What the data shows for the seven boroughs",
+      true
+     ]
+    ]
+   }
+  ]
+ },
+ "pfandco-grey-belt-site-check-2026": {
+  "has_text": true,
+  "summary": [],
+  "positions": [
+   {
+    "prop": "GB",
+    "stance": "agrees",
+    "quotes": [
+     [
+      "It is also not a guarantee of approval.",
+      true
+     ],
+     [
+      "What grey belt is, and what it is not",
+      true
+     ],
+     [
+      "Grey belt eligibility does not switch off other planning considerations.",
+      true
+     ]
+    ]
+   },
+   {
+    "prop": "METH",
+    "stance": "agrees",
+    "quotes": [
+     [
+      "These are observed patterns, not statistics. Treat them as a directional signal until a meaningful body of determinations builds up.",
+      true
+     ],
+     [
+      "What approval data tells us so far",
+      true
+     ],
+     [
+      "a meaningful body of determinations",
+      true
+     ]
+    ]
+   },
+   {
+    "prop": "METH",
+    "stance": "agrees",
+    "quotes": [
+     [
+      "Lichfields published an analysis in March 2025 showing approximately 36% of grey belt housing appeals allowed at that point.",
+      true
+     ]
+    ]
+   }
+  ]
+ },
+ "pfandco-nppf-august-2026-what-changed": {
+  "has_text": true,
+  "summary": [],
+  "positions": [
+   {
+    "prop": "SH2",
+    "stance": "agrees",
+    "quotes": [
+     [
+      "are excluded outright. Only the second exclusion is absolute, so read the plan before advising that a hamlet takes the S5 route.",
+      true
+     ],
+     [
+      "The presumption is now a map to a test",
+      true
+     ]
+    ]
+   },
+   {
+    "prop": "SH1",
+    "stance": "agrees",
+    "quotes": [
+     [
+      "Hamlets and scattered groups of houses outside predominantly built-up areas are excluded",
+      true
+     ]
+    ]
+   },
+   {
+    "prop": "S5",
+    "stance": "agrees",
+    "quotes": [
+     [
+      "Outside, S5(1) is a closed list:",
+      true
+     ],
+     [
+      ", 10 limbs, a to j, each carrying the same substantially-outweighed standard.",
+      true
+     ]
+    ]
+   },
+   {
+    "prop": "A2",
+    "stance": "agrees",
+    "quotes": [
+     [
+      "so a materially inconsistent part should receive very limited weight while Annex A(2) does not itself determine the weight of the remainder, which is assessed on its own terms.",
+      true
+     ],
+     [
+      "Annex A: what weight your development plan now carries",
+      true
+     ],
+     [
+      "Age alone is expressly not a reason to reduce weight, and that is the whole of it.",
+      true
+     ]
+    ]
+   },
+   {
+    "prop": "SUP",
+    "stance": "agrees",
+    "quotes": [
+     [
+      "The words of the December 2024 11(d) trigger have gone, with no identified successor.",
+      true
+     ]
+    ]
+   },
+   {
+    "prop": "GB",
+    "stance": "agrees",
+    "quotes": [
+     [
+      "where development would not be inappropriate under HC8 or GB7, the S5 approval expectation returns, applying S5(2).",
+      true
+     ]
+    ]
+   }
+  ]
+ },
+ "pins-ai-in-casework-evidence": {
+  "has_text": true,
+  "summary": [
+   [
+    "produce a summary or analysis",
+    true
+   ]
+  ],
+  "positions": []
+ },
+ "pins-appeals-procedural-guide-apr-2026": {
+  "has_text": true,
+  "summary": [
+   [
+    "the appellant is not able to submit evidence at appeal not previously considered by the LPA",
+    true
+   ],
+   [
+    "A material and relevant change in development plan policy and/or national planning policy (including emerging policies)",
+    true
+   ],
+   [
+    "A relevant decision is made on another application or appeal",
+    true
+   ],
+   [
+    "quoting their paragraph numbers",
+    true
+   ]
+  ],
+  "positions": [
+   {
+    "prop": "METH",
+    "stance": "agrees",
+    "quotes": [
+     [
+      "A relevant decision is made on another application or appeal",
+      true
+     ]
+    ]
+   }
+  ]
+ },
+ "pins-blog-appeal-decision-written-in-the-stars": {
+  "has_text": true,
+  "summary": [
+   [
+    "headline rates of allowed appeals don’t tell the full story",
+    true
+   ],
+   [
+    "Both the LPA and inspector are usually assessing the evidence against the same relevant policy context",
+    true
+   ],
+   [
+    "with far more information than was available to the LPA",
+    true
+   ]
+  ],
+  "positions": [
+   {
+    "prop": "METH",
+    "stance": "qualifies",
+    "quotes": [
+     [
+      "why headline rates of allowed appeals don’t tell the full story",
+      true
+     ]
+    ]
+   }
+  ]
+ },
+ "pins-casework-database": {
+  "has_text": true,
+  "summary": [
+   [
+    "may produce apparent patterns of outcome that are in fact artefacts of the way work is allocated",
+    true
+   ]
+  ],
+  "positions": [
+   {
+    "prop": "METH",
+    "stance": "qualifies",
+    "quotes": [
+     [
+      "This may produce apparent patterns of outcome that are in fact artefacts of the way work is allocated and do not provide evidence as to an Inspector’s fitness for or approach to a particular case",
+      true
+     ],
+     [
+      "some dealing with as few as one which would give a result of 100% allowed or 100% dismissed",
+      true
+     ]
+    ]
+   }
+  ]
+ },
+ "pinsent-masons-nppf-boost-housing-renewables-water": {
+  "has_text": true,
+  "summary": [
+   [
+    "not any local planning policies",
+    true
+   ]
+  ],
+  "positions": [
+   {
+    "prop": "SUP",
+    "stance": "agrees",
+    "quotes": [
+     [
+      "The presumption would also, subject to certain caveats, apply outside settlement boundaries where development would address an evidenced unmet need – including where a local planning authority cannot demonstrate a five-year housing land supply",
+      true
+     ],
+     [
+      "subject to certain caveats",
+      true
+     ]
+    ]
+   }
+  ]
+ },
+ "pinsent-masons-nppf-practical-guide-webinar": {
+  "has_text": true,
+  "summary": [
+   [
+    "will not be recorded",
+    true
+   ]
+  ],
+  "positions": []
+ },
+ "planner-75pc-major-grey-belt-appeals-approved": {
+  "has_text": false,
+  "summary": [],
+  "positions": []
+ },
+ "planner-nature-and-planning-nppf-far-enough": {
+  "has_text": false,
+  "summary": [],
+  "positions": []
+ },
+ "planner-nppf-changes-welcome-plan-led-concerns": {
+  "has_text": false,
+  "summary": [],
+  "positions": []
+ },
+ "planning-600-home-countryside-appeal-unmet-need": {
+  "has_text": false,
+  "summary": [],
+  "positions": []
+ },
+ "planning-by-design-new-nppf-2026-major-changes": {
+  "has_text": true,
+  "summary": [
+   [
+    "not a general green light for countryside development",
+    true
+   ]
+  ],
+  "positions": [
+   {
+    "prop": "S5",
+    "stance": "agrees",
+    "quotes": [
+     [
+      "This is not a general green light for countryside development. Isolated homes remain tightly controlled, proposals outside the listed categories require exceptional circumstances, and separate policies apply to Green Belt and Local Green Space.",
+      true
+     ],
+     [
+      "Can development now be approved outside settlement boundaries?",
+      true
+     ]
+    ]
+   },
+   {
+    "prop": "SUP",
+    "stance": "agrees",
+    "quotes": [
+     [
+      "For housing, evidence of unmet need can include an authority being unable to demonstrate a five-year supply of deliverable housing sites or scoring below 75% in the latest Housing Delivery Test.",
+      true
+     ],
+     [
+      "Proposals must still be physically well-related to an existing settlement and of a scale that available or planned infrastructure can accommodate, unless the nature of the development makes that location requirement inappropriate.",
+      true
+     ]
+    ]
+   },
+   {
+    "prop": "A2",
+    "stance": "agrees",
+    "quotes": [
+     [
+      "Age alone is not enough. Other development plan policies should not lose weight simply because they pre-date the new Framework. The key question will be whether there is a material inconsistency, assessed policy by policy and in the circumstances of the individual proposal.",
+      true
+     ],
+     [
+      "Does the new NPPF apply to existing planning applications and appeals?",
+      true
+     ],
+     [
+      "The stronger general support for development within or outside settlements should not be treated as overriding the relevant Green Belt policies.",
+      true
+     ],
+     [
+      "What about Green Belt and grey belt?",
+      true
+     ]
+    ]
+   }
+  ]
+ },
+ "planning-compass-appeal-database": {
+  "has_text": false,
+  "summary": [],
+  "positions": []
+ },
+ "planning-gateway-nppf-2026-what-changed-17-august": {
+  "has_text": true,
+  "summary": [],
+  "positions": [
+   {
+    "prop": "A2",
+    "stance": "agrees",
+    "quotes": [
+     [
+      "it does not say that every older policy automatically becomes weak merely because of age.",
+      true
+     ],
+     [
+      "2. The development plan remains the legal starting point",
+      true
+     ]
+    ]
+   },
+   {
+    "prop": "SUP",
+    "stance": "agrees",
+    "quotes": [
+     [
+      "The delivery test is one input to the decision route; it does not erase site-specific constraints or the need to satisfy other national decision-making policies.",
+      true
+     ],
+     [
+      "7. The 2025 Housing Delivery Test can alter the decision balance",
+      true
+     ]
+    ]
+   },
+   {
+    "prop": "TR",
+    "stance": "agrees",
+    "quotes": [
+     [
+      "Map the walkable route, crossings, gradients, severance and entrances. Then verify the station and service-frequency definitions. A straight-line circle is an initial screening tool, not the policy evidence.",
+      true
+     ],
+     [
+      "Do not use an 800-metre radius alone",
+      true
+     ]
+    ]
+   }
+  ]
+ },
+ "planning-jungle-nppf-august-2026-update": {
+  "has_text": true,
+  "summary": [
+   [
+    "Creating a clear, rules-based planning system",
+    true
+   ],
+   [
+    "GPDO Part 1 (All Classes) – LDC Appeal Decisions",
+    true
+   ]
+  ],
+  "positions": []
+ },
+ "planning-presumption-within-settlements": {
+  "has_text": false,
+  "summary": [],
+  "positions": []
+ },
+ "planning-resource-inspector-allows-249-homes-unmet-need": {
+  "has_text": false,
+  "summary": [],
+  "positions": []
+ },
+ "planninggeek-albrighton-appeal": {
+  "has_text": true,
+  "summary": [],
+  "positions": []
+ },
+ "planninggeek-aston-clinton-appeal-settlement-test": {
+  "has_text": true,
+  "summary": [
+   [
+    "not physically well related",
+    true
+   ]
+  ],
+  "positions": [
+   {
+    "prop": "S5",
+    "stance": "qualifies",
+    "quotes": [
+     [
+      "proximity and good access do not automatically make a site physically well related, and failure under S5(1)(j) does not necessarily mean refusal.",
+      true
+     ],
+     [
+      "The contrast suggests that “physically well related” is not simply a measurement exercise",
+      true
+     ],
+     [
+      "Why the Aston Clinton appeal matters after Buntingford",
+      true
+     ]
+    ]
+   },
+   {
+    "prop": "A2",
+    "stance": "qualifies",
+    "quotes": [
+     [
+      "Raygen therefore gave only limited weight to conflict with the spatial strategy policies, while continuing to give full weight to the identified landscape harm.",
+      true
+     ],
+     [
+      "A substantial housing shortfall changed the weight",
+      true
+     ]
+    ]
+   },
+   {
+    "prop": "METH",
+    "stance": "agrees",
+    "quotes": [
+     [
+      "Nor should the Aston Clinton appeal be treated as creating a binding precedent. It is an individual appeal decision on its own evidence. But as an early application of the August 2026 NPPF, it gives practitioners a useful indication of how S5(1)(j) and S5(4) can operate sequentially.",
+      true
+     ],
+     [
+      "Why the Aston Clinton appeal matters after Buntingford",
+      true
+     ]
+    ]
+   }
+  ]
+ },
+ "planninggeek-build-outside-settlement-boundary": {
+  "has_text": true,
+  "summary": [],
+  "positions": [
+   {
+    "prop": "SH2",
+    "stance": "agrees",
+    "quotes": [
+     [
+      "There is also a special qualification for villages which lie within and are defined as part of the Green Belt.",
+      true
+     ],
+     [
+      "First question: is the site actually outside the settlement?",
+      true
+     ],
+     [
+      "S5 does not apply. The proposal must be assessed under the separate Green Belt policies GB6 to GB8",
+      true
+     ]
+    ]
+   },
+   {
+    "prop": "S5",
+    "stance": "agrees",
+    "quotes": [
+     [
+      "A site may be physically well-related because of its relationship to the built-up area, road and footpath connections, the pattern of nearby development, topography and the way the settlement is likely to grow.",
+      true
+     ],
+     [
+      "Does an edge-of-settlement site have to touch the boundary?",
+      true
+     ],
+     [
+      "If none applies, S5 has a separate exceptional-circumstances route, but that is deliberately harder",
+      true
+     ],
+     [
+      "What if the LPA has a healthy five year supply?",
+      true
+     ]
+    ]
+   },
+   {
+    "prop": "SUP",
+    "stance": "agrees",
+    "quotes": [
+     [
+      "A five year supply shortfall therefore gives you a potentially powerful planning argument. It does not make landscape harm, flooding, unsafe access or a badly designed scheme disappear.",
+      true
+     ],
+     [
+      "How does a lack of five year housing land supply help?",
+      true
+     ]
+    ]
+   },
+   {
+    "prop": "GB",
+    "stance": "agrees",
+    "quotes": [
+     [
+      "It still does not guarantee permission. The site must actually meet the grey-belt definition",
+      true
+     ],
+     [
+      "What if the land is grey belt?",
+      true
+     ]
+    ]
+   }
+  ]
+ },
+ "planninggeek-croxley-green-appeal": {
+  "has_text": true,
+  "summary": [],
+  "positions": []
+ },
+ "planninggeek-east-devon-holiday-home": {
+  "has_text": true,
+  "summary": [],
+  "positions": []
+ },
+ "planninggeek-grey-belt-caravan-enforcement": {
+  "has_text": true,
+  "summary": [],
+  "positions": []
+ },
+ "planninggeek-heald-green-grey-belt": {
+  "has_text": true,
+  "summary": [],
+  "positions": [
+   {
+    "prop": "A2",
+    "stance": "agrees",
+    "quotes": [
+     [
+      "Other development plan policies should not receive reduced weight simply because they were adopted before the Framework was published.",
+      true
+     ],
+     [
+      "The practitioner lesson is to identify the actual inconsistency. Age alone is not the argument.",
+      true
+     ],
+     [
+      "Why the older local policy carried less weight",
+      true
+     ],
+     [
+      "That does not mean PG3 ceased to be part of the development plan, or that every older Green Belt policy can be ignored.",
+      true
+     ]
+    ]
+   },
+   {
+    "prop": "TR",
+    "stance": "agrees",
+    "quotes": [
+     [
+      "Not every facility was within the distances mentioned in the supporting text to local policy SD2. Nevertheless, the Inspector found that residents would have reasonable access to shops, education, public transport and other services.",
+      true
+     ],
+     [
+      "This was a judgment about the actual connections and facilities available. It was not a conclusion that all land beside a settlement is automatically a sustainable location.",
+      true
+     ],
+     [
+      "The connection to Heald Green mattered",
+      true
+     ]
+    ]
+   },
+   {
+    "prop": "GB",
+    "stance": "agrees",
+    "quotes": [
+     [
+      "The site adjoins the built-up area and benefits from good pedestrian infrastructure connecting it to some everyday services and facilities.",
+      true
+     ]
+    ]
+   },
+   {
+    "prop": "SUP",
+    "stance": "agrees",
+    "quotes": [
+     [
+      "The council’s most recent evidence showed a shortfall in deliverable housing sites. The Inspector accepted that this established an evidenced unmet need for housing",
+      true
+     ],
+     [
+      "Grey belt was only the first part of the assessment",
+      true
+     ]
+    ]
+   }
+  ]
+ },
+ "planninggeek-horsham-nppf-s5-infill": {
+  "has_text": true,
+  "summary": [],
+  "positions": []
+ },
+ "planninggeek-hurst-green-grey-belt-odour": {
+  "has_text": true,
+  "summary": [],
+  "positions": [
+   {
+    "prop": "GB",
+    "stance": "agrees",
+    "quotes": [
+     [
+      "Grey belt can solve a Green Belt policy problem, but it does not disapply the rest of the development-management exercise.",
+      true
+     ],
+     [
+      "The Green Belt argument largely went the appellant's way",
+      true
+     ],
+     [
+      "Grey belt is a policy route, not a planning permission in its own right",
+      true
+     ],
+     [
+      "What does the Hurst Green appeal teach?",
+      true
+     ]
+    ]
+   },
+   {
+    "prop": "SUP",
+    "stance": "agrees",
+    "quotes": [
+     [
+      "Tandridge had only about a two-year housing land supply and its latest Housing Delivery Test result was 38%. The Inspector gave substantial weight to the provision of market and affordable housing",
+      true
+     ],
+     [
+      "Those benefits were not enough.",
+      true
+     ],
+     [
+      "The final planning balance",
+      true
+     ]
+    ]
+   }
+  ]
+ },
+ "planninggeek-keynsham-grey-belt": {
+  "has_text": true,
+  "summary": [],
+  "positions": [
+   {
+    "prop": "GB",
+    "stance": "agrees",
+    "quotes": [
+     [
+      "That did not make the Green Belt designation disappear. Nor did it create an automatic permission.",
+      true
+     ],
+     [
+      "Grey belt changed the starting point",
+      true
+     ],
+     [
+      "So the better planning-law lesson is not that Green Belt housing is now automatically acceptable.",
+      true
+     ],
+     [
+      "Why this is not simply a case of councillors being forced to approve",
+      true
+     ]
+    ]
+   }
+  ]
+ },
+ "planninggeek-kirklees-grey-belt-house": {
+  "has_text": true,
+  "summary": [],
+  "positions": [
+   {
+    "prop": "GB",
+    "stance": "agrees",
+    "quotes": [
+     [
+      "Grey belt status is not an automatic planning permission.",
+      true
+     ],
+     [
+      "The main lesson is not to treat GB7 as the whole planning case. It is one gateway.",
+      true
+     ],
+     [
+      "Passing GB7 did not decide the appeal",
+      true
+     ],
+     [
+      "What the Kirklees grey belt house decision means in practice",
+      true
+     ]
+    ]
+   },
+   {
+    "prop": "SUP",
+    "stance": "agrees",
+    "quotes": [
+     [
+      "Because Kirklees was below five years, the Inspector gave substantial weight to the general benefit of providing homes.",
+      true
+     ],
+     [
+      "In the overall heritage balance, the public benefits were not enough to outweigh the conservation harm.",
+      true
+     ],
+     [
+      "Conservation-area harm outweighed the housing benefit",
+      true
+     ]
+    ]
+   }
+  ]
+ },
+ "planninggeek-nppf-2024-vs-2026": {
+  "has_text": true,
+  "summary": [
+   [
+    "less than substantial harm",
+    true
+   ]
+  ],
+  "positions": [
+   {
+    "prop": "SUP",
+    "stance": "agrees",
+    "quotes": [
+     [
+      "The August 2026 NPPF starts somewhere different: location.",
+      true
+     ],
+     [
+      "Paragraph 11 has gone: S3, S4 and S5 now control the route",
+      true
+     ]
+    ]
+   },
+   {
+    "prop": "SH2",
+    "stance": "agrees",
+    "quotes": [
+     [
+      "Most hamlets and scattered groups of houses are excluded unless the development plan identifies them as settlements, and some Green Belt villages are excluded.",
+      true
+     ],
+     [
+      "Settlement status, plots and density now carry more weight",
+      true
+     ]
+    ]
+   },
+   {
+    "prop": "S5",
+    "stance": "agrees",
+    "quotes": [
+     [
+      "A proposal outside the listed categories needs exceptional circumstances.",
+      true
+     ],
+     [
+      "Paragraph 11 has gone",
+      true
+     ]
+    ]
+   },
+   {
+    "prop": "A2",
+    "stance": "agrees",
+    "quotes": [
+     [
+      "It says that a development plan policy, or part of a policy, which is materially inconsistent with a national decision-making policy should receive very limited weight.",
+      true
+     ],
+     [
+      "Other local policies do not lose weight simply because they are old.",
+      true
+     ],
+     [
+      "The development plan still comes first",
+      true
+     ]
+    ]
+   },
+   {
+    "prop": "GB",
+    "stance": "agrees",
+    "quotes": [
+     [
+      "Classification and acceptability are separate questions.",
+      true
+     ],
+     [
+      "Green Belt and grey belt have been recast",
+      true
+     ]
+    ]
+   },
+   {
+    "prop": "METH",
+    "stance": "agrees",
+    "quotes": [
+     [
+      "Older decisions remain useful but need their policy context, because an inspector or court applying the 2024 wording was not deciding under the 2026 architecture",
+      true
+     ],
+     [
+      "Important cautions when comparing the two Frameworks",
+      true
+     ]
+    ]
+   }
+  ]
+ },
+ "planninggeek-nppf-timeline": {
+  "has_text": true,
+  "summary": [],
+  "positions": []
+ },
+ "planninggeek-presumption-sustainable-development": {
+  "has_text": true,
+  "summary": [],
+  "positions": [
+   {
+    "prop": "SH1",
+    "stance": "agrees",
+    "quotes": [
+     [
+      "A development plan may identify a settlement using a defined boundary or an equivalent term, but it can also use criteria to identify the extent of a settlement where no boundary has been drawn.",
+      true
+     ],
+     [
+      "What counts as a settlement?",
+      true
+     ]
+    ]
+   },
+   {
+    "prop": "SH2",
+    "stance": "agrees",
+    "quotes": [
+     [
+      "The Framework also contains a particular qualification for villages which lie within and are defined as part of the Green Belt.",
+      true
+     ],
+     [
+      "What counts as a settlement?",
+      true
+     ]
+    ]
+   },
+   {
+    "prop": "S5",
+    "stance": "agrees",
+    "quotes": [
+     [
+      "The settlement-relationship test in S5(1)(j) is not a general additional condition imposed on every other S5 route.",
+      true
+     ],
+     [
+      "Read each S5 route separately",
+      true
+     ]
+    ]
+   },
+   {
+    "prop": "S5",
+    "stance": "agrees",
+    "quotes": [
+     [
+      "Falling outside the S5 list is not an automatic refusal. There is a separate exceptional-circumstances route.",
+      true
+     ],
+     [
+      "That is a materially harder test than the one applied to development which is acceptable in principle under S5.",
+      true
+     ],
+     [
+      "What if the proposal is not one of the S5 categories?",
+      true
+     ]
+    ]
+   },
+   {
+    "prop": "SUP",
+    "stance": "agrees",
+    "quotes": [
+     [
+      "Evidence of housing need is therefore important, but it is not enough on its own.",
+      true
+     ],
+     [
+      "S5 development outside settlements",
+      true
+     ],
+     [
+      "A shortage of housing land and poor housing delivery can still be very powerful, but they now operate principally as evidence of unmet need within the new policy structure rather than switching on the old paragraph 11(d) balance.",
+      true
+     ],
+     [
+      "How this replaced the tilted balance",
+      true
+     ]
+    ]
+   },
+   {
+    "prop": "GB",
+    "stance": "agrees",
+    "quotes": [
+     [
+      "That does not mean permission automatically follows: the other Green Belt tests still have to be satisfied",
+      true
+     ],
+     [
+      "Green Belt and Local Green Space are different",
+      true
+     ]
+    ]
+   }
+  ]
+ },
+ "planninggeek-revised-nppf-2026": {
+  "has_text": true,
+  "summary": [],
+  "positions": []
+ },
+ "planninggeek-sevenoaks-grey-belt-appeal": {
+  "has_text": true,
+  "summary": [],
+  "positions": []
+ },
+ "planninggeek-south-nutfield-grey-belt-gb7": {
+  "has_text": true,
+  "summary": [],
+  "positions": [
+   {
+    "prop": "TR",
+    "stance": "agrees",
+    "quotes": [
+     [
+      "The edge of South Nutfield was around 800 metres away, with many services a similar distance further on. The walking and cycling environment was the real difficulty.",
+      true
+     ],
+     [
+      "Coopers Hill Road and Kings Cross Lane did not provide continuous footways or street lighting. Pedestrians and cyclists would have to share the carriageway with motor traffic.",
+      true
+     ],
+     [
+      "Why the location failed Policy GB7",
+      true
+     ],
+     [
+      "Test walking, cycling and public-transport conditions on the ground rather than by distance alone",
+      true
+     ],
+     [
+      "What should applicants check?",
+      true
+     ],
+     [
+      "lighting does not cure it",
+      false
+     ]
+    ]
+   },
+   {
+    "prop": "GB",
+    "stance": "agrees",
+    "quotes": [
+     [
+      "A site can therefore be grey belt and still fail to benefit from the policy exception if one of the remaining criteria is not met.",
+      true
+     ],
+     [
+      "Grey-belt status was not the disputed point",
+      true
+     ],
+     [
+      "Those benefits did not clearly outweigh the Green Belt harm, loss of openness, countryside encroachment, character harm and unsustainable travel pattern. Very special circumstances were therefore not demonstrated.",
+      true
+     ],
+     [
+      "Housing need was not enough to amount to very special circumstances",
+      true
+     ]
+    ]
+   },
+   {
+    "prop": "SUP",
+    "stance": "agrees",
+    "quotes": [
+     [
+      "The shortfall in housing land supply gave substantial weight to the benefit of providing up to five homes.",
+      true
+     ]
+    ]
+   }
+  ]
+ },
+ "planninggeek-tandridge-grey-belt": {
+  "has_text": true,
+  "summary": [],
+  "positions": [
+   {
+    "prop": "SUP",
+    "stance": "agrees",
+    "quotes": [
+     [
+      "It is not permission simply because the land qualifies as grey belt and the council is short of housing.",
+      true
+     ],
+     [
+      "Grey belt is only the beginning of the test",
+      true
+     ]
+    ]
+   },
+   {
+    "prop": "GB",
+    "stance": "agrees",
+    "quotes": [
+     [
+      "Grey-belt status and a serious housing shortage can support a planning case, but they do not remove the other policy requirements",
+      true
+     ],
+     [
+      "The Planning Geek takeaway",
+      true
+     ]
+    ]
+   },
+   {
+    "prop": "TR",
+    "stance": "agrees",
+    "quotes": [
+     [
+      "It is whether the routes and services offer future residents a genuine, usable alternative for their everyday journeys.",
+      true
+     ],
+     [
+      "Brickhouse Lane has a 40mph speed limit, no footways and no street lighting.",
+      true
+     ],
+     [
+      "A rural lane with no realistic transport choice",
+      true
+     ]
+    ]
+   }
+  ]
+ },
+ "planninggeek-thundersley-grey-belt": {
+  "has_text": true,
+  "summary": [],
+  "positions": [
+   {
+    "prop": "GB",
+    "stance": "agrees",
+    "quotes": [
+     [
+      "existing Thundersley housing to the west",
+      true
+     ],
+     [
+      "A broad Green Belt parcel did not answer the site-specific question",
+      true
+     ],
+     [
+      "That did not automatically mean housing had to be approved.",
+      true
+     ],
+     [
+      "Why the Thundersley grey belt test was met",
+      true
+     ]
+    ]
+   },
+   {
+    "prop": "SUP",
+    "stance": "agrees",
+    "quotes": [
+     [
+      "That persistent and acute shortfall established a clear unmet housing need and gave substantial weight to the delivery of up to 58 homes.",
+      true
+     ],
+     [
+      "Castle Point had just 0.91 years of housing land supply",
+      true
+     ],
+     [
+      "Once grey-belt status was established, the combination of a 0.91-year housing supply, severe Housing Delivery Test under-performance, 50% affordable housing and compliance with the Golden Rules produced a very different planning balance.",
+      true
+     ],
+     [
+      "The Planning Geek takeaway",
+      true
+     ],
+     [
+      "opens the gate but never decides",
+      false
+     ]
+    ]
+   }
+  ]
+ },
+ "planninggeek-whitchurch-housing-appeal": {
+  "has_text": true,
+  "summary": [],
+  "positions": [
+   {
+    "prop": "S5",
+    "stance": "agrees",
+    "quotes": [
+     [
+      "The Inspector found that the development addressed evidenced unmet housing need, was sufficiently related to Whitchurch and was of a scale that could in principle be accommodated. Those findings brought the proposal within the decision-making route in Policy S5 of the August 2026 Framework.",
+      true
+     ],
+     [
+      "That was not the end of the exercise.",
+      true
+     ],
+     [
+      "What the Whitchurch housing appeal says about Policy S5",
+      true
+     ]
+    ]
+   },
+   {
+    "prop": "SUP",
+    "stance": "agrees",
+    "quotes": [
+     [
+      "The shortfall mattered a great deal. What it did not do was convert the balance into an automatic permission",
+      true
+     ]
+    ]
+   }
+  ]
+ },
+ "planninggeek-wychavon-green-belt-appeal": {
+  "has_text": true,
+  "summary": [],
+  "positions": [
+   {
+    "prop": "GB",
+    "stance": "agrees",
+    "quotes": [
+     [
+      "Succeeding under one Green Belt category can resolve the inappropriateness issue, but the rest of the planning assessment still matters.",
+      true
+     ],
+     [
+      "A favourable Green Belt finding did not remove the need to assess the replacement house against the rest of the development plan.",
+      true
+     ],
+     [
+      "Countryside size restrictions still applied",
+      true
+     ]
+    ]
+   }
+  ]
+ },
+ "planoraks-basics-19-how-many-appeals-win": {
+  "has_text": true,
+  "summary": [],
+  "positions": [
+   {
+    "prop": "METH",
+    "stance": "qualifies",
+    "quotes": [
+     [
+      "Short answer - how many appeals succeed? Around 30%. But that’s a number which doesn’t tell even close to the full story…",
+      true
+     ],
+     [
+      "Planning Inspectors are, in the end, human beings [Surely not!, Ed.]. Not algorithms. Not planning robots. A site or a scheme which strikes you one way may strike them completely differently.",
+      true
+     ],
+     [
+      "That’s before we even get into the approval records of individual planning inspectors which can vary starkly.",
+      true
+     ]
+    ]
+   }
+  ]
+ },
+ "planoraks-nppf2026-welcome-to-the-future": {
+  "has_text": true,
+  "summary": [
+   [
+    "in whole or part",
+    true
+   ],
+   [
+    "basket of most important policies",
+    false
+   ]
+  ],
+  "positions": [
+   {
+    "prop": "S5",
+    "stance": "agrees",
+    "quotes": [
+     [
+      "The flip-side: if you’re outside those particular categories, you get refused permission absent exceptional circumstances where your benefits substantially outweigh your adverse effects.",
+      true
+     ]
+    ]
+   },
+   {
+    "prop": "SUP",
+    "stance": "agrees",
+    "quotes": [
+     [
+      "First, outside the green belt anyhow, 5 year supply isn’t as important as it was. That’s because under the new S5 it’s only one way - just one - that unmet need can be demonstrated.",
+      true
+     ]
+    ]
+   }
+  ]
+ },
+ "practical-law-nppf-august-2026-published": {
+  "has_text": false,
+  "summary": [],
+  "positions": []
+ },
+ "propertyweek-reuk-welcomes-revised-nppf": {
+  "has_text": true,
+  "summary": [],
+  "positions": []
+ },
+ "propertyweek-revised-nppf-emphasis-on-national": {
+  "has_text": true,
+  "summary": [],
+  "positions": [
+   {
+    "prop": "S5",
+    "stance": "qualifies",
+    "quotes": [
+     [
+      "It can be any type of unmet need, notionally; how far this can be taken is something that will be played out in appeal decisions.",
+      true
+     ]
+    ]
+   },
+   {
+    "prop": "METH",
+    "stance": "agrees",
+    "quotes": [
+     [
+      "will be played out in appeal decisions",
+      true
+     ]
+    ]
+   }
+  ]
+ },
+ "ribaj-nppf-2026-what-architects-need-to-know": {
+  "has_text": false,
+  "summary": [],
+  "positions": []
+ },
+ "room-106-planning-podcast-listnotes": {
+  "has_text": true,
+  "summary": [
+   [
+    "relaxed in some ways, but tightened up in others",
+    true
+   ],
+   [
+    "significant changes to the long-established presumption",
+    false
+   ]
+  ],
+  "positions": []
+ },
+ "rsn-nppf-could-boost-rural-housing": {
+  "has_text": true,
+  "summary": [
+   [
+    "those taking majority control of a farm business",
+    true
+   ]
+  ],
+  "positions": []
+ },
+ "rsn-spotlight-rural-housing-jan-2026": {
+  "has_text": true,
+  "summary": [],
+  "positions": []
+ },
+ "rtpi-briefing-parliamentarians-nppf": {
+  "has_text": false,
+  "summary": [],
+  "positions": []
+ },
+ "rtpi-cpd-masterclass-calendar": {
+  "has_text": false,
+  "summary": [
+   [
+    "Planning reform and the new NPPF: promise, pitfalls, and the path forward",
+    false
+   ]
+  ],
+  "positions": []
+ },
+ "rtpi-south-west-events-cpd": {
+  "has_text": false,
+  "summary": [
+   [
+    "The New Planning System",
+    false
+   ]
+  ],
+  "positions": []
+ },
+ "rtpi-west-midlands-events": {
+  "has_text": false,
+  "summary": [
+   [
+    "Enable JavaScript and cookies",
+    false
+   ]
+  ],
+  "positions": []
+ },
+ "rural-roar-green-not-grey": {
+  "has_text": true,
+  "summary": [],
+  "positions": [
+   {
+    "prop": "GB",
+    "stance": "agrees",
+    "quotes": [
+     [
+      "This is the rural blind spot: in the grey-belt test, the green fields around villages appear not to matter.",
+      true
+     ]
+    ]
+   },
+   {
+    "prop": "GB",
+    "stance": "agrees",
+    "quotes": [
+     [
+      "Open countryside beyond a defined village settlement boundary can therefore be recast as low-contribution land without testing the purpose it performs most directly.",
+      true
+     ]
+    ]
+   },
+   {
+    "prop": "METH",
+    "stance": "agrees",
+    "quotes": [
+     [
+      "Research published in October 2025 found that 16 of the first 20 major residential grey-belt appeals—schemes of ten homes or more—were allowed.",
+      true
+     ]
+    ]
+   }
+  ]
+ },
+ "savills-ambition-and-caution-draft-nppf": {
+  "has_text": true,
+  "summary": [],
+  "positions": []
+ },
+ "savills-initial-thoughts-new-nppf": {
+  "has_text": true,
+  "summary": [],
+  "positions": [
+   {
+    "prop": "GB",
+    "stance": "agrees",
+    "quotes": [
+     [
+      "with opportunities for new development both within and on edge of settlements. This includes locations that meet the broader definition of Grey Belt land",
+      true
+     ],
+     [
+      "Savills anticipates significant emphasis",
+      true
+     ]
+    ]
+   }
+  ]
+ },
+ "savills-new-language-in-planning-2026": {
+  "has_text": true,
+  "summary": [
+   [
+    "permanent presumption in favour of suitably located development",
+    true
+   ]
+  ],
+  "positions": []
+ },
+ "savills-nppf-viability-reform": {
+  "has_text": true,
+  "summary": [],
+  "positions": []
+ },
+ "savills-rewriting-the-planning-rulebook": {
+  "has_text": true,
+  "summary": [],
+  "positions": []
+ },
+ "sharpe-pritchard-nppf-2026-key-planning-reforms": {
+  "has_text": true,
+  "summary": [],
+  "positions": [
+   {
+    "prop": "A2",
+    "stance": "agrees",
+    "quotes": [
+     [
+      "to the extent development plan policies are materially inconsistent with the NPPF 2026, they should be given very limited weight unless they have been examined and adopted, or made, against the NPPF 2026",
+      true
+     ],
+     [
+      "Implications for our clients",
+      true
+     ]
+    ]
+   },
+   {
+    "prop": "S5",
+    "stance": "agrees",
+    "quotes": [
+     [
+      "Where an out-of-settlement development does not fall within one of those categories, it should only be approved in exceptional circumstances.",
+      true
+     ]
+    ]
+   },
+   {
+    "prop": "SUP",
+    "stance": "agrees",
+    "quotes": [
+     [
+      "Developments that address evidenced unmet need (i.e. poor housing land supply and poor housing delivery) are also supported where certain criteria are met.",
+      true
+     ]
+    ]
+   },
+   {
+    "prop": "SH2",
+    "stance": "agrees",
+    "quotes": [
+     [
+      "inside or outside a settlement (e.g. cities, towns and (some) villages)",
+      true
+     ]
+    ]
+   }
+  ]
+ },
+ "silverback-nppf-august-2026": {
+  "has_text": true,
+  "summary": [],
+  "positions": [
+   {
+    "prop": "SUP",
+    "stance": "agrees",
+    "quotes": [
+     [
+      "this shifts a good deal of the argument in contested cases toward whether a site is suitably located in the first place, rather than toward technical disputes over five year housing land supply figures",
+      true
+     ],
+     [
+      "A permanent presumption, not a tilted balance",
+      true
+     ]
+    ]
+   }
+  ]
+ },
+ "simonicity-developing-near-stations": {
+  "has_text": true,
+  "summary": [],
+  "positions": []
+ },
+ "simonicity-evidenced-unmet-need": {
+  "has_text": true,
+  "summary": [],
+  "positions": [
+   {
+    "prop": "S5",
+    "stance": "agrees",
+    "quotes": [
+     [
+      "If your development does not fall within one of the ten categories listed, a to j, the national policy is that planning permission should only be granted “in exceptional circumstances",
+      true
+     ]
+    ]
+   },
+   {
+    "prop": "S5",
+    "stance": "agrees",
+    "quotes": [
+     [
+      "Linguistically, I’m genuinely unsure which is right.",
+      true
+     ]
+    ]
+   },
+   {
+    "prop": "SUP",
+    "stance": "agrees",
+    "quotes": [
+     [
+      "it does not mean that planning permission for housing will be automatically granted",
+      true
+     ]
+    ]
+   },
+   {
+    "prop": "S5",
+    "stance": "agrees",
+    "quotes": [
+     [
+      "indicating that the absence of a five year deliverable supply and HDT outcomes are not the only means by which an unmet need can be proven to exist",
+      true
+     ]
+    ]
+   },
+   {
+    "prop": "S5",
+    "stance": "agrees",
+    "quotes": [
+     [
+      "which would imply that that decision letter to be in error (although this interpretation question would ultimately be for the courts)",
+      true
+     ]
+    ]
+   }
+  ]
+ },
+ "simonicity-framework-good-work": {
+  "has_text": true,
+  "summary": [],
+  "positions": []
+ },
+ "simonicity-grey-belt-tests-tested": {
+  "has_text": true,
+  "summary": [
+   [
+    "strong reason for restricting",
+    true
+   ],
+   [
+    "fundamentally undermine the purposes",
+    true
+   ]
+  ],
+  "positions": [
+   {
+    "prop": "GB",
+    "stance": "agrees",
+    "quotes": [
+     [
+      "It is not an answer that the developer can fall back on broader Green Belt policies and show very special circumstances. The point of the introduction of the Grey Belt is to avoid that policy requirement.",
+      true
+     ]
+    ]
+   }
+  ]
+ },
+ "simonicity-mark-up-final-nppf-vs-draft": {
+  "has_text": true,
+  "summary": [],
+  "positions": []
+ },
+ "simonicity-nppf-category": {
+  "has_text": true,
+  "summary": [
+   [
+    "Old Wine In A New Bottle",
+    true
+   ],
+   [
+    "A Problem With The Draft London Plan?",
+    true
+   ],
+   [
+    "Mark-up Of Final Version Of NPPF vs Draft",
+    true
+   ],
+   [
+    "Grey Belt Tests Tested",
+    true
+   ],
+   [
+    "Planning Appeal Procedure Myth Busting",
+    false
+   ]
+  ],
+  "positions": []
+ },
+ "simonicity-old-wine-heritage": {
+  "has_text": true,
+  "summary": [
+   [
+    "a matter of considerable importance and weight",
+    true
+   ],
+   [
+    "less than substantial harm",
+    true
+   ]
+  ],
+  "positions": [
+   {
+    "prop": "A2",
+    "stance": "agrees",
+    "quotes": [
+     [
+      "we do not see NPPF 2026 changes as substantively changing the tests for assessing the impact of a proposed development on the significance of a designated heritage asset",
+      true
+     ],
+     [
+      "inconsistent with the Framework",
+      false
+     ]
+    ]
+   }
+  ]
+ },
+ "simonicity-problem-draft-london-plan": {
+  "has_text": true,
+  "summary": [],
+  "positions": []
+ },
+ "simonicity-push-the-button": {
+  "has_text": true,
+  "summary": [],
+  "positions": [
+   {
+    "prop": "S5",
+    "stance": "agrees",
+    "quotes": [
+     [
+      "For developments outside settlements, falling within the a to j list is vital.",
+      true
+     ]
+    ]
+   },
+   {
+    "prop": "GB",
+    "stance": "agrees",
+    "quotes": [
+     [
+      "If your land is green belt the development proposed must not be “inappropriate development” and must therefore fall within one of the a to h criteria in policy GB7 1 – so grey belt development, for instance, also qualifies for this strong pro-development presumption.",
+      true
+     ]
+    ]
+   }
+  ]
+ },
+ "slcc-new-nppf": {
+  "has_text": true,
+  "summary": [
+   [
+    "twelve things local councils should know",
+    true
+   ],
+   [
+    "substantially outweighed by adverse effects",
+    true
+   ],
+   [
+    "only certain kinds of development are allowed at all",
+    true
+   ]
+  ],
+  "positions": [
+   {
+    "prop": "S5",
+    "stance": "agrees",
+    "quotes": [
+     [
+      "Outside a built-up area, only certain kinds of development are allowed at all.",
+      true
+     ],
+     [
+      "A key test is whether a proposal is inside or outside the built-up area",
+      true
+     ]
+    ]
+   }
+  ]
+ },
+ "slcc-nppf-expected-over-summer": {
+  "has_text": true,
+  "summary": [],
+  "positions": []
+ },
+ "slcc-response-to-nppf-consultation": {
+  "has_text": true,
+  "summary": [],
+  "positions": [
+   {
+    "prop": "S5",
+    "stance": "agrees",
+    "quotes": [
+     [
+      "We feel that the drafting of this policy could be clearer – as it complicates the application of grey",
+      true
+     ]
+    ]
+   }
+  ]
+ },
+ "south-oxfordshire-nppf-consultation-response": {
+  "has_text": true,
+  "summary": [],
+  "positions": [
+   {
+    "prop": "SH1",
+    "stance": "agrees",
+    "quotes": [
+     [
+      "The policy provides no consideration of the size or sustainability of settlements, being too broad in its",
+      true
+     ]
+    ]
+   },
+   {
+    "prop": "S5",
+    "stance": "agrees",
+    "quotes": [
+     [
+      "‘well related to an existing settlement’ is insufficiently clear and may enable",
+      true
+     ]
+    ]
+   },
+   {
+    "prop": "TR",
+    "stance": "agrees",
+    "quotes": [
+     [
+      "area will have no other supporting infrastructure - like schools, bus stops, shops or even safe walking",
+      true
+     ]
+    ]
+   },
+   {
+    "prop": "METH",
+    "stance": "agrees",
+    "quotes": [
+     [
+      "undermines the primacy of plan‑making and shifts control to case‑by‑case appeal decisions",
+      true
+     ]
+    ]
+   }
+  ]
+ },
+ "squires-neighbourhood-planning-2026": {
+  "has_text": true,
+  "summary": [],
+  "positions": [
+   {
+    "prop": "SUP",
+    "stance": "agrees",
+    "quotes": [
+     [
+      "Neighbourhood plans and the presumption",
+      false
+     ],
+     [
+      "proposals that conflict with the neighbourhood plan are still likely to be refused, even where the presumption in favour of sustainable development would otherwise apply.",
+      true
+     ],
+     [
+      "In housing terms, the position is largely unchanged",
+      true
+     ]
+    ]
+   }
+  ]
+ },
+ "st-albans-ppc-briefing-draft-nppf-2026-01": {
+  "has_text": true,
+  "summary": [
+   [
+    "will take a considerable period of time to comprehend them all",
+    true
+   ]
+  ],
+  "positions": []
+ },
+ "stantec-new-nppf-progress-pitfalls": {
+  "has_text": false,
+  "summary": [],
+  "positions": []
+ },
+ "stantec-planning-reform-2026-insights": {
+  "has_text": false,
+  "summary": [],
+  "positions": []
+ },
+ "struttandparker-2026-nppf-first-impressions": {
+  "has_text": true,
+  "summary": [],
+  "positions": [
+   {
+    "prop": "S5",
+    "stance": "agrees",
+    "quotes": [
+     [
+      "Outside settlements, it says there are specific forms of development that should be approved, unless the benefits of doing so would be substantially outweighed by the adverse effects (policy S5).",
+      true
+     ],
+     [
+      "The presumption in favour of sustainable development",
+      true
+     ]
+    ]
+   }
+  ]
+ },
+ "struttandparker-7-key-changes-rural-landowners": {
+  "has_text": true,
+  "summary": [],
+  "positions": [
+   {
+    "prop": "SUP",
+    "stance": "agrees",
+    "quotes": [
+     [
+      "any delays in the Local Plan process may mean longer periods of housing shortfall, potentially triggering the presumption in favour of sustainable development and providing opportunities for speculative planning applications.",
+      true
+     ]
+    ]
+   }
+  ]
+ },
+ "struttandparker-nppf-residential-viability": {
+  "has_text": true,
+  "summary": [
+   [
+    "does not provide a general means of reducing the Golden Rules requirements",
+    true
+   ]
+  ],
+  "positions": []
+ },
+ "struttandparker-rural-affordable-homes": {
+  "has_text": true,
+  "summary": [],
+  "positions": []
+ },
+ "studio-bark-nppf-rural-housing": {
+  "has_text": true,
+  "summary": [
+   [
+    "limited infilling within groups of houses",
+    true
+   ]
+  ],
+  "positions": [
+   {
+    "prop": "SUP",
+    "stance": "agrees",
+    "quotes": [
+     [
+      "housing undersupply is now instead outlined in Policy S5.1(J) as a qualifying category, without the strength of the ‘tilted balance’ that it previously triggered.",
+      true
+     ],
+     [
+      "How does the new NPPF approach housing land supply?",
+      true
+     ]
+    ]
+   },
+   {
+    "prop": "S5",
+    "stance": "agrees",
+    "quotes": [
+     [
+      "The concept of ‘settlements’, and whether a site sits inside or outside one, becomes the central gateway test.",
+      true
+     ],
+     [
+      "A New ‘Development Presumption’ Framework",
+      true
+     ]
+    ]
+   },
+   {
+    "prop": "TR",
+    "stance": "qualifies",
+    "quotes": [
+     [
+      "Decision-makers will use a new government-published Connectivity Tool to produce an objective accessibility score for every site.",
+      true
+     ],
+     [
+      "The closer a site is to services and public transport, the higher its score will be under the new government tool.",
+      true
+     ],
+     [
+      "The New National Connectivity Tool",
+      true
+     ],
+     [
+      "public transport options and walking routes",
+      true
+     ],
+     [
+      "harder to argue away",
+      true
+     ]
+    ]
+   },
+   {
+    "prop": "A2",
+    "stance": "qualifies",
+    "quotes": [
+     [
+      "Local councils cannot invent stricter locational tests to block development. National policy now sets the definitive standard.",
+      true
+     ],
+     [
+      "Any existing local plan policies that conflict with the new national rules will carry very little weight when planning decisions are made, effectively making the national rules the only ones that matter on those issues.",
+      true
+     ],
+     [
+      "National Frameworks Take Precedence to Contradictory Local Policies",
+      true
+     ]
+    ]
+   },
+   {
+    "prop": "METH",
+    "stance": "agrees",
+    "quotes": [
+     [
+      "leaving the meaning to be a matter of planning judgement informed by case law and previous appeal decisions.",
+      true
+     ],
+     [
+      "What does ‘limited infilling’ mean?",
+      false
+     ]
+    ]
+   }
+  ]
+ },
+ "tcpa-nppf-hooks-progressive-outcomes-vision": {
+  "has_text": true,
+  "summary": [
+   [
+    "new presumptions in favour of development",
+    true
+   ],
+   [
+    "more robust transport impact and refusal test",
+    true
+   ]
+  ],
+  "positions": [
+   {
+    "prop": "TR",
+    "stance": "agrees",
+    "quotes": [
+     [
+      "development which prioritises walking and wheeling, explicitly references women and girls in street design and crucially introduces a more robust transport impact and refusal test",
+      true
+     ]
+    ]
+   }
+  ]
+ },
+ "tcpa-response-proposed-nppf-reforms": {
+  "has_text": false,
+  "summary": [],
+  "positions": []
+ },
+ "tetlow-king-cross-subsidy-rural-exception": {
+  "has_text": false,
+  "summary": [
+   [
+    "404 Not Found | Tetlowking",
+    false
+   ]
+  ],
+  "positions": []
+ },
+ "the-lawyer-shoosmiths-nppf-2026-beyond-housing": {
+  "has_text": false,
+  "summary": [],
+  "positions": []
+ },
+ "theplanner-cpre-nppf-warning": {
+  "has_text": false,
+  "summary": [],
+  "positions": []
+ },
+ "three-rivers-lpa-response-nppf-2026-oxhey-lane": {
+  "has_text": true,
+  "summary": [],
+  "positions": [
+   {
+    "prop": "TR",
+    "stance": "agrees",
+    "quotes": [
+     [
+      "given the topography of the site, taken alongside comments from local",
+      true
+     ],
+     [
+      "it is not considered that the site falls within",
+      true
+     ],
+     [
+      "The scheme lacks any robust alternative to walking and",
+      true
+     ]
+    ]
+   },
+   {
+    "prop": "GB",
+    "stance": "agrees",
+    "quotes": [
+     [
+      "If the Secretary of State concludes that the Scheme is not inappropriate development,",
+      true
+     ],
+     [
+      "the Council’s position is that the benefits of approving the Scheme would be substantially",
+      true
+     ]
+    ]
+   }
+  ]
+ },
+ "thrings-nppf-2026-sme-developers": {
+  "has_text": true,
+  "summary": [
+   [
+    "material consideration of critical importance",
+    true
+   ],
+   [
+    "grey belt status doesn't guarantee permission",
+    true
+   ]
+  ],
+  "positions": [
+   {
+    "prop": "SUP",
+    "stance": "agrees",
+    "quotes": [
+     [
+      "evidencing an unmet need (e.g. where there isn’t a five-year housing land supply) where the site is physically well-related to an existing settlement (unless the nature of the development would make this inappropriate) and where of a suitable scale;",
+      true
+     ]
+    ]
+   },
+   {
+    "prop": "GB",
+    "stance": "agrees",
+    "quotes": [
+     [
+      "But ministers have been clear that grey belt status doesn't guarantee permission.",
+      true
+     ],
+     [
+      "Green belt and grey belt policy remains intact",
+      true
+     ]
+    ]
+   }
+  ]
+ },
+ "townlegal-transport-led-placemaking": {
+  "has_text": true,
+  "summary": [
+   [
+    "including for development outside of settlement boundaries",
+    true
+   ]
+  ],
+  "positions": []
+ },
+ "turley-green-belt-grey-belt": {
+  "has_text": true,
+  "summary": [],
+  "positions": [
+   {
+    "prop": "GB",
+    "stance": "agrees",
+    "quotes": [
+     [
+      "it clarifies that protections are not relevant to whether or not land is grey belt but will remain important considerations in whether development of that grey belt should be approved.",
+      true
+     ],
+     [
+      "What else has changed in respect of Green Belt?",
+      true
+     ]
+    ]
+   }
+  ]
+ },
+ "turley-housing-growth-plan-making": {
+  "has_text": true,
+  "summary": [],
+  "positions": [
+   {
+    "prop": "S5",
+    "stance": "agrees",
+    "quotes": [
+     [
+      "where they don’t there is a strengthening of the presumption against",
+      true
+     ]
+    ]
+   }
+  ]
+ },
+ "turley-nppf-2026-heritage": {
+  "has_text": true,
+  "summary": [
+   [
+    "Less than substantial harm",
+    true
+   ]
+  ],
+  "positions": [
+   {
+    "prop": "A2",
+    "stance": "agrees",
+    "quotes": [
+     [
+      "For the first time, the revised NPPF expressly confirms that it does not displace the statutory obligations placed on decision-makers by this and other legislation.",
+      true
+     ],
+     [
+      "Alignment with legislation and established heritage practice",
+      true
+     ]
+    ]
+   },
+   {
+    "prop": "GB",
+    "stance": "agrees",
+    "quotes": [
+     [
+      "passing GB7 is not approval",
+      false
+     ],
+     [
+      "However, this remains a significant policy test through other NPPF policy (Chapter 20) and relevant statutory duties and may be considered as part of the purpose (d) analysis.",
+      true
+     ],
+     [
+      "Grey belt and heritage considerations",
+      true
+     ]
+    ]
+   }
+  ]
+ },
+ "tyler-parkes-august-2026-nppf-what-has-changed": {
+  "has_text": true,
+  "summary": [],
+  "positions": []
+ },
+ "urbanist-architecture-nppf-2026-in-practice": {
+  "has_text": true,
+  "summary": [
+   [
+    "Green Light to Green Belt Developments",
+    true
+   ],
+   [
+    "illustrative ... rather than binding precedent",
+    true
+   ]
+  ],
+  "positions": [
+   {
+    "prop": "SH2",
+    "stance": "agrees",
+    "quotes": [
+     [
+      "Villages which lie within, and are defined as part of, the Green Belt are also excluded for this purpose.",
+      true
+     ],
+     [
+      "Where the answer is unclear, build the application around the S5 or Green Belt route that may apply instead.",
+      true
+     ],
+     [
+      "How does the presumption in favour of sustainable development now work?",
+      true
+     ]
+    ]
+   },
+   {
+    "prop": "S5",
+    "stance": "agrees",
+    "quotes": [
+     [
+      "Outside those categories, approval requires exceptional circumstances and benefits that substantially outweigh the adverse effects, including harm to the countryside and sustainable patterns of movement.",
+      true
+     ],
+     [
+      "That review should examine how “materially inconsistent”, “reasonable prospect”, “physically well-related” and “reasonable walking distance” are being interpreted",
+      true
+     ]
+    ]
+   },
+   {
+    "prop": "SUP",
+    "stance": "agrees",
+    "quotes": [
+     [
+      "A HDT result below 75% does not make every local policy out of date or establish that a particular site is suitable.",
+      true
+     ],
+     [
+      "a missed gateway cannot be rescued later by pointing only to housing need.",
+      true
+     ]
+    ]
+   },
+   {
+    "prop": "GB",
+    "stance": "agrees",
+    "quotes": [
+     [
+      "S5 does not override Green Belt or Local Green Space policy.",
+      true
+     ],
+     [
+      "If the Green Belt applies, use GB7 and GB8 rather than relying on the general unmet-need route.",
+      true
+     ],
+     [
+      "What should applicants, landowners and local authorities do now?",
+      true
+     ],
+     [
+      "It should nevertheless be treated as a demanding route, not as discounted Green Belt consent.",
+      true
+     ]
+    ]
+   },
+   {
+    "prop": "TR",
+    "stance": "agrees",
+    "quotes": [
+     [
+      "A timetable and an 800-metre catchment do not prove that a site is genuinely accessible.",
+      true
+     ],
+     [
+      "A straight-line radius may help with initial screening, but it is not a final accessibility assessment.",
+      true
+     ]
+    ]
+   },
+   {
+    "prop": "A2",
+    "stance": "agrees",
+    "quotes": [
+     [
+      "The relevant question is not whether a local policy differs from the national wording, but whether it would lead to a materially different decision.",
+      true
+     ],
+     [
+      "Asking an inspector to discount an entire plan is weaker than showing why a specific policy produces a result inconsistent with the national rules.",
+      true
+     ]
+    ]
+   },
+   {
+    "prop": "DIV",
+    "stance": "qualifies",
+    "quotes": [
+     [
+      "A growing number of Grey Belt applications initially refused by local planning authorities have subsequently been allowed by the Planning Inspectorate where the evidence demonstrated that the site and scheme satisfied the relevant policy tests.",
+      true
+     ],
+     [
+      "Unless officers apply that discipline consistently, applicants will continue to look to appeal for the clarity and judgement that should have been provided at application stage.",
+      true
+     ]
+    ]
+   },
+   {
+    "prop": "METH",
+    "stance": "agrees",
+    "quotes": [
+     [
+      "Our analysis of Grey Belt appeal decisions since the route was introduced in December 2024 shows inspectors working through each limb in sequence rather than reaching a general conclusion about housing need. I expect the same discipline under the renumbered tests, and appeal decisions remain illustrative of that approach rather than binding precedent.",
+      true
+     ]
+    ]
+   }
+  ]
+ },
+ "urbanist-architecture-nppf-2026-pending-applications": {
+  "has_text": true,
+  "summary": [],
+  "positions": [
+   {
+    "prop": "A2",
+    "stance": "agrees",
+    "quotes": [
+     [
+      "The decisive issue is therefore the extent of the inconsistency, not simply the age of the policy.",
+      true
+     ],
+     [
+      "Does the NPPF 2026 apply to a planning application already submitted?",
+      true
+     ],
+     [
+      "Technical or design-led: It continues unless your architect can show that the scheme or evidence resolves it.",
+      true
+     ]
+    ]
+   },
+   {
+    "prop": "GB",
+    "stance": "agrees",
+    "quotes": [
+     [
+      "Local Green Space, heritage, habitats, flood risk and Green Belt have their own tests, which a favourable policy elsewhere in the NPPF 2026 does not override.",
+      true
+     ]
+    ]
+   }
+  ]
+ },
+ "urbanist-green-belt-rules-nppf": {
+  "has_text": true,
+  "summary": [
+   [
+    "limited infilling in villages",
+    true
+   ]
+  ],
+  "positions": []
+ },
+ "urbanist-grey-belt-appeal-decisions": {
+  "has_text": true,
+  "summary": [
+   [
+    "not a carte blanche",
+    true
+   ]
+  ],
+  "positions": [
+   {
+    "prop": "GB",
+    "stance": "agrees",
+    "quotes": [
+     [
+      "housing supply, the inspector concluded that this did not outweigh the harm to the Green Belt.",
+      true
+     ],
+     [
+      "Grey Belt classification alone is insufficient for approval; developments must meet the Golden Rules for affordable housing, provide significant public benefits, and be located in a sustainable location with strong infrastructure and transport connections.",
+      true
+     ],
+     [
+      "Where a site clearly satisfies the criteria - particularly adjoining a village, delivering affordable housing, and addressing local need - it can be approved without resorting to the tilted balance, even in Green Belt locations.",
+      true
+     ]
+    ]
+   },
+   {
+    "prop": "SUP",
+    "stance": "agrees",
+    "quotes": [
+     [
+      "Grey Belt status and housing need may open the door to development, but do not override poor design or landscape harm.",
+      true
+     ]
+    ]
+   },
+   {
+    "prop": "METH",
+    "stance": "agrees",
+    "quotes": [
+     [
+      "inspectors are applying the Grey Belt policy with growing consistency",
+      true
+     ]
+    ]
+   }
+  ]
+ },
+ "urbanist-sustainable-location-grey-belt": {
+  "has_text": true,
+  "summary": [],
+  "positions": [
+   {
+    "prop": "TR",
+    "stance": "qualifies",
+    "quotes": [
+     [
+      "Appeal evidence points to a working threshold of approximately 500 to 550 metres to a bus stop via a safe route, even with infrequent services and no Sunday provision. However, route quality matters as much as distance.",
+      true
+     ],
+     [
+      "Walkability and public transport access",
+      true
+     ]
+    ]
+   },
+   {
+    "prop": "TR",
+    "stance": "agrees",
+    "quotes": [
+     [
+      "Well-lit roads and pedestrian paths that enable residents to walk and cycle with reasonable confidence at all times of day are essential.",
+      true
+     ],
+     [
+      "modest lighting limitations were accepted where trip generation from a single dwelling was negligible, confirming that the test is applied proportionately",
+      true
+     ],
+     [
+      "unlit roads without footways",
+      true
+     ]
+    ]
+   },
+   {
+    "prop": "TR",
+    "stance": "agrees",
+    "quotes": [
+     [
+      "Evidence must address the quality of routes and the actual pattern of daily trips, not simply the presence of a pavement on a map.",
+      true
+     ],
+     [
+      "access is along an unlit country road with no demarcated footway",
+      true
+     ]
+    ]
+   },
+   {
+    "prop": "SUP",
+    "stance": "agrees",
+    "quotes": [
+     [
+      "Get it wrong and even a 0.91-year housing supply won't save you.",
+      true
+     ],
+     [
+      "Why sustainable location matters for Grey Belt developments?",
+      true
+     ]
+    ]
+   },
+   {
+    "prop": "GB",
+    "stance": "agrees",
+    "quotes": [
+     [
+      "The inspector gave significant weight to housing delivery benefits given the acute shortfall, but found these did not clearly outweigh the Green Belt harm. Very special circumstances did not exist.",
+      true
+     ],
+     [
+      "satisfying criterion 155(c) alone is insufficient. Character and appearance harm can still tip the planning balance against approval, even where Grey Belt policy tests are met and housing need is acute.",
+      true
+     ]
+    ]
+   },
+   {
+    "prop": "DIV",
+    "stance": "qualifies",
+    "quotes": [
+     [
+      "planning officers and committees have been applying an inappropriately urban lens to inherently rural places",
+      true
+     ],
+     [
+      "Villages don't need to perform like Canary Wharf",
+      true
+     ]
+    ]
+   },
+   {
+    "prop": "METH",
+    "stance": "agrees",
+    "quotes": [
+     [
+      "After analysing every Grey Belt appeal decision since December 2024, one truth emerges with absolute clarity",
+      true
+     ],
+     [
+      "Why sustainable location matters...",
+      true
+     ]
+    ]
+   }
+  ]
+ },
+ "vailwilliams-nppf-2026-planning-reforms": {
+  "has_text": false,
+  "summary": [],
+  "positions": []
+ },
+ "walker-morris-nppf-2026-at-a-glance": {
+  "has_text": true,
+  "summary": [],
+  "positions": [
+   {
+    "prop": "S5",
+    "stance": "agrees",
+    "quotes": [
+     [
+      "Policy S5, concerning development outside settlements, provides categories where the same strong presumption in favour of development applies.",
+      true
+     ],
+     [
+      "One of these is where the development will address unmet housing need and is physically well-related to the relevant settlement in question as well as at an appropriate scale.",
+      true
+     ]
+    ]
+   }
+  ]
+ },
+ "waypoint-planning-nppf-rural-landowners": {
+  "has_text": true,
+  "summary": [],
+  "positions": []
+ },
+ "wildlife-trusts-response-nppf": {
+  "has_text": false,
+  "summary": [],
+  "positions": []
+ },
+ "worcscalc-new-nppf-what-councils-need-to-know": {
+  "has_text": true,
+  "summary": [
+   [
+    "the most substantial rewrite of planning rules in at least a decade",
+    true
+   ],
+   [
+    "explain the main changes",
+    true
+   ]
+  ],
+  "positions": []
+ },
+ "wotton-donoghue-new-2026-nppf": {
+  "has_text": true,
+  "summary": [],
+  "positions": []
+ },
+ "york-pplpag-planning-reform-scoping-jun-2026": {
+  "has_text": true,
+  "summary": [
+   [
+    "revised presumption in favour of development in suitable locations",
+    true
+   ],
+   [
+    "a more selective approach in the countryside",
+    true
+   ],
+   [
+    "more clearly defined policies for decision-taking",
+    true
+   ]
+  ],
+  "positions": []
+ }
+}

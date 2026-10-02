@@ -1,0 +1,113 @@
+case_id	date	outcome	issue3_verdict	policy_class	result	note	para
+PINS-6006986	2026-08-17	dismissed	correct	heritage-design-amenity	kept		¶16
+PINS-6007179	2026-08-17	dismissed	differs	spatial	cut-supply	2024-transitional letter	¶17
+PINS-6009745	2026-08-17	dismissed	differs	spatial	cut-supply	2024-transitional letter	¶11
+PINS-6010426	2026-08-17	dismissed	correct	access	kept		¶17
+PINS-6005664	2026-08-18	allowed	differs	spatial	cut-supply	out-of-date: plan requirement below standard method	¶58
+PINS-6008189	2026-08-19	allowed	correct	other	kept	policies not specified by type	¶23
+PINS-6007104	2026-08-24	allowed	differs	spatial	cut-whole-other	degree of consistency, no part named	¶27
+PINS-6005528	2026-08-27	dismissed	correct	access	kept	location criteria	¶20
+PINS-6004449	2026-08-28	dismissed	correct	other	kept	town centre	¶18
+PINS-6006162	2026-08-28	dismissed	correct	heritage-design-amenity	kept		¶39
+APP-B1550-C-25-3372995	2026-09-02	dismissed	differs	green-belt	cut-whole-other	set aside wholesale, no part named	¶22
+PINS-6009103	2026-09-02	dismissed	correct	other	kept	policy types mixed	¶36
+APP-T2350-C-25-3374492	2026-09-03	dismissed	correct	green-belt	kept		¶15
+PINS-6008569	2026-09-04	dismissed	correct	spatial	cut-conflict-whole	SD10 v S5(1)	¶28
+PINS-6009886	2026-09-04	dismissed	correct	access	kept		¶33
+PINS-6010822	2026-09-04	dismissed	correct	other	kept	policy types not stated	¶54
+PINS-6005855	2026-09-07	dismissed	correct	access	kept	PTAL	¶18
+PINS-6008359	2026-09-07	dismissed	correct	heritage-design-amenity	kept		¶23
+PINS-6010701	2026-09-07	dismissed	correct	heritage-design-amenity	kept		¶29
+PINS-6007466	2026-09-08	dismissed	differs	spatial	cut-supply		¶25
+PINS-6007466	2026-09-08	dismissed	differs	heritage-design-amenity	cut-whole-other	consistent design policies cut to limited weight	¶25
+PINS-6007705	2026-09-09	allowed	correct	other	kept	employment safeguarding	¶49
+PINS-6010783	2026-09-09	dismissed	correct	heritage-design-amenity	kept		¶16
+PINS-6009042	2026-09-10	dismissed	correct	spatial	kept	countryside conversions	¶38
+PINS-6009303	2026-09-10	dismissed	correct	spatial	kept	not materially inconsistent in context: S5(1)(j) failed	¶23
+PINS-6001260	2026-09-14	allowed	correct	spatial	cut-conflict-part	boundary restriction v S5	¶28
+PINS-6005809	2026-09-14	allowed	correct	spatial	cut-conflict-part	restrictive elements v S5; other parts great weight	¶76
+PINS-6008803	2026-09-14	dismissed	differs	other	cut-whole-other	garden-land DMD7 v L2(1)(d), no part named	¶9
+PINS-6010442	2026-09-14	dismissed	differs	spatial	cut-supply		¶16
+PINS-6011872	2026-09-15	dismissed	correct	spatial	kept	in context	¶27
+PINS-6009632	2026-09-16	allowed	correct	spatial	cut-conflict-part	ST07 infill exclusion v S5	¶24
+APP-E3335-W-25-3375062	2026-09-18	allowed	correct	spatial	cut-conflict-part	development-limits restriction; no Annex A citation	¶30 fn3
+PINS-6009474	2026-09-18	dismissed	differs	spatial	cut-supply	BUAB out of date	¶52
+PINS-6009598	2026-09-18	dismissed	correct	spatial	cut-conflict-part	merit requirement v S5(1)(c)	¶12
+PINS-6010348	2026-09-18	dismissed	correct	spatial	kept		¶6
+PINS-6010848	2026-09-18	dismissed	correct	spatial	cut-conflict-whole	omit S5(1)(j)(i) support; +supply	¶31
+PINS-6010848	2026-09-18	dismissed	correct	heritage-design-amenity	kept	NE1	¶31
+PINS-6008115	2026-09-21	dismissed	correct	spatial	cut-conflict-whole	DM20 narrower than S5; +supply	¶21
+PINS-6008115	2026-09-21	dismissed	correct	heritage-design-amenity	kept	design/landscape	¶21
+PINS-6008548	2026-09-21	allowed	differs	spatial	kept-unassessed	boundary kept though S5(1)(j) met	¶25
+PINS-6006078	2026-09-22	dismissed	correct	other	kept	rural business	¶11
+PINS-6008634	2026-09-22	dismissed	correct	other	kept	tourism/economy	¶15
+PINS-6008785	2026-09-22	dismissed	differs	spatial	cut-supply		¶38
+PINS-6008785	2026-09-22	dismissed	differs	heritage-design-amenity	kept		¶38
+PINS-6008970	2026-09-23	dismissed	differs	spatial	kept-unassessed		¶27
+PINS-6009097	2026-09-23	dismissed	correct	heritage-design-amenity	kept		¶24
+PINS-6009857	2026-09-23	dismissed	correct	other	kept	policy types not stated	¶30
+PINS-6011235	2026-09-23	dismissed	differs	spatial	kept-unassessed	Elsewhere restriction though PDL	¶11
+PINS-6012985	2026-09-23	dismissed	correct	spatial	kept	only self-build eligibility clause discounted	¶8
+PINS-6007434	2026-09-24	dismissed	correct	heritage-design-amenity	kept		¶32
+PINS-6007772	2026-09-24	allowed	correct	spatial	cut-conflict-part	insofar as restricting housing outside boundaries; Annex A not named	¶36
+PINS-6008238	2026-09-24	allowed	correct	spatial	cut-conflict-whole	v S5, limited weight; +supply	¶29
+PINS-6008253	2026-09-24	allowed	differs	spatial	cut-supply	S1 out of date for 5YHLS	¶39
+PINS-6008253	2026-09-24	allowed	differs	heritage-design-amenity	kept	landscape conflict full weight	¶39
+PINS-6008693	2026-09-24	dismissed	differs	spatial	kept	SS3; NP weight wrongly cut by age under S6	¶23
+PINS-6009621	2026-09-24	dismissed	correct	green-belt	cut-conflict-part	openness clause v GB7(1)(e)	¶9
+PINS-6009844	2026-09-24	dismissed	correct	spatial	kept	in context	¶36
+PINS-6010198	2026-09-24	allowed	differs	green-belt	kept	size clause; borderline	¶7
+PINS-6011585	2026-09-24	dismissed	differs	spatial	kept-unassessed		¶29
+PINS-6012293	2026-09-24	dismissed	correct	heritage-design-amenity	kept		¶22
+PINS-6006497	2026-09-25	allowed	correct	green-belt	cut-conflict-part	exceptions part blind to grey belt	¶17
+PINS-6007133	2026-09-25	dismissed	correct	heritage-design-amenity	kept	CDMP3	¶57
+PINS-6007133	2026-09-25	dismissed	correct	spatial	kept	tempered by unmet need as material consideration, not cut	¶57
+PINS-6007335	2026-09-25	allowed	correct	green-belt	cut-conflict-part	barring clause v GB7(1)(e)	¶9
+PINS-6009076	2026-09-25	dismissed	correct	other	kept	affordable housing, employment	¶26
+PINS-6010408	2026-09-25	dismissed	correct	other	kept	rural business v S5(1)(b)	¶8
+PINS-6010537	2026-09-25	allowed	differs	spatial	cut-supply	partly supply, part not named	¶44
+PINS-6010537	2026-09-25	allowed	differs	green-belt	kept	GB1 partly consistent	¶44
+PINS-6010709	2026-09-25	dismissed	correct	green-belt	kept	infill exception	¶7
+PINS-6010911	2026-09-25	dismissed	correct	spatial	cut-conflict-part	infill restriction v S5(1)(e)	¶31
+PINS-6011227	2026-09-25	dismissed	correct	spatial	cut-conflict-part	location criteria v S4	¶24
+PINS-6011227	2026-09-25	dismissed	correct	heritage-design-amenity	kept	character requirement	¶24
+PINS-6006224	2026-09-28	dismissed	correct	spatial	kept	location and Green Belt policies	¶19
+PINS-6007410	2026-09-28	allowed	correct	other	kept	community facility	¶9
+PINS-6008762	2026-09-28	dismissed	correct	other	cut-conflict-part	20% BNG clause v N1(2)	¶31
+PINS-6009669	2026-09-28	dismissed	correct	heritage-design-amenity	kept		¶13
+PINS-6009849	2026-09-28	allowed	differs	spatial	cut-supply		¶37
+PINS-6010253	2026-09-28	dismissed	correct	access	kept	SD1/SD2	¶14
+PINS-6010253	2026-09-28	dismissed	correct	green-belt	kept	PG3; Framework preferred on grey belt	¶14
+PINS-6010642	2026-09-28	dismissed	correct	access	kept	STRAT1	¶11
+PINS-6010642	2026-09-28	dismissed	correct	spatial	kept	countryside	¶11
+PINS-6012304	2026-09-28	dismissed	correct	access	kept	STRAT1	¶8
+PINS-6012304	2026-09-28	dismissed	correct	spatial	kept	countryside	¶8
+PINS-6012885	2026-09-28	dismissed	correct	heritage-design-amenity	kept		¶30
+PINS-6005652	2026-09-29	dismissed	differs	spatial	cut-supply	3.2-year supply	¶28
+PINS-6005652	2026-09-29	dismissed	differs	heritage-design-amenity	kept	CP14/ES7	¶28
+PINS-6006541	2026-09-29	dismissed	correct	heritage-design-amenity	kept		¶25
+PINS-6006725	2026-09-29	dismissed	correct	heritage-design-amenity	kept		¶24
+PINS-6007668	2026-09-29	dismissed	correct	green-belt	kept	new plan	¶39
+PINS-6007668	2026-09-29	dismissed	correct	heritage-design-amenity	kept	NDP design	¶39
+PINS-6008773	2026-09-29	dismissed	correct	spatial	cut-conflict-whole	S1-S3 v S5(1)(e)	¶27
+PINS-6008987	2026-09-29	dismissed	differs	spatial	cut-supply		¶38
+PINS-6009141	2026-09-29	dismissed	correct	heritage-design-amenity	kept		¶22
+PINS-6009919	2026-09-29	dismissed	correct	green-belt	kept	conflict with both plan and Framework	¶47
+PINS-6011131	2026-09-29	dismissed	correct	heritage-design-amenity	kept		¶28
+PINS-6013087	2026-09-29	allowed	correct	access	kept	ST4	¶10
+PINS-6013087	2026-09-29	allowed	correct	heritage-design-amenity	kept	CS6/BNE1	¶10
+PINS-6004363	2026-09-30	dismissed	correct	heritage-design-amenity	kept		¶26
+PINS-6004952	2026-09-30	dismissed	correct	other	kept	flood	¶5
+PINS-6005822	2026-09-30	dismissed	correct	other	kept	town-centre sequential	¶96
+PINS-6007352	2026-09-30	dismissed	differs	spatial	cut-conflict-whole	v S5 but moderate weight	¶25
+PINS-6007677	2026-09-30	dismissed	differs	spatial	cut-supply	insofar restrictive but reasoned from supply	¶20
+PINS-6007677	2026-09-30	dismissed	differs	heritage-design-amenity	kept	HB1/NE3	¶20
+PINS-6007924	2026-09-30	allowed	differs	spatial	cut-conflict-whole	CP1/CP2 v S5(1)(j), part not named	¶44
+PINS-6008176	2026-09-30	allowed	correct	green-belt	cut-conflict-part	size limb v GB7(1)(e)	¶17
+PINS-6008176	2026-09-30	allowed	correct	heritage-design-amenity	kept	character limb	¶17
+PINS-6008855	2026-09-30	dismissed	correct	heritage-design-amenity	kept		¶24
+PINS-6009410	2026-09-30	allowed	correct	spatial	cut-conflict-part	extra agricultural-enterprise requirement v S5(1)(a); borderline	¶22
+PINS-6010213	2026-09-30	dismissed	correct	green-belt	kept	PG3 broadly aligned	¶8
+PINS-6010706	2026-09-30	allowed	correct	access	kept	ST10	¶5
+PINS-6012279	2026-09-30	dismissed	correct	heritage-design-amenity	kept		¶33
+PINS-6012886	2026-09-30	dismissed	correct	heritage-design-amenity	kept	amenity, parking	¶6

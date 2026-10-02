@@ -1,0 +1,292 @@
+Appeal Decision
+Site visit made on 10 July 2026
+by Mr D Szymanski BSc (Hons) MA MRTPI
+an Inspector appointed by the Secretary of State
+Decision date: 15th September 2026
+
+
+Appeal Ref: 6007334
+Hillcrest, Chalton, Luton LU4 9UB
+• The appeal is made under section 78 of the Town and Country Planning Act 1990 (as amended)
+  against a refusal to grant permission in principle.
+• The appeal is made by Hillcrest Homes (BEDS) Ltd against the decision of Central Bedfordshire
+  Council.
+• The application Ref is CB/25/03867/PIP.
+• The development proposed is residential development comprising a minimum of 1 and a maximum of
+  9 dwellings.
+
+Decision
+1.     The appeal is dismissed.
+Applications for costs
+2.     An application for costs is made by Hillcrest Homes (BEDS) Ltd against Central
+       Bedfordshire Council. This application is the subject of a separate decision.
+Preliminary Matters
+3.     The Planning Practice Guidance (PPG) advises that permission in principle is an
+       alternative way of obtaining planning permission for housing-led development.
+       This consent route has 2 stages: the first stage (or permission in principle (PIP)
+       stage) establishes whether a site is suitable in-principle and the second (technical
+       details consent (TDC)) stage is when detailed development proposals are
+       assessed. This appeal relates to the first of these 2 stages.
+4.     The scope of the considerations for PIP is limited to location, land use and the
+       amount of development. All other matters are considered as part of a subsequent
+       TDC application if permission in principle is granted. I have determined the appeal
+       accordingly. The application is for a range of between 1 – 9 dwellings which I
+       have had regard to in determining the appeal.
+5.     Since the appeal was lodged the Government has published the revised National
+       Planning Policy Framework (2026) (the Framework) and the 2024 and 2025
+       Housing Delivery Test (HDT) results, which I have given the Council and the
+       appellant the opportunity to comment upon, and taken into consideration in the
+       determination of this appeal.
+Main Issues
+6.     The main issues are whether or not the location, land use and amount of
+       development would be acceptable with particular reference to:
+
+
+https://www.gov.uk/planning-inspectorate
+Appeal Decision 6007334
+
+
+       • designated habitats sites; and,
+       • policies for development in the Green Belt.
+Reasons
+Designated habitats sites
+7.     The appeal site is within a 12.6km zone of influence (ZoI) of the Chilterns
+       Beechwoods Special Area of Conservation (SAC), as a designated habitats site
+       under the Conservation of Habitats and Species Regulations 2017 (as amended)
+       (the Regulations). The Regulations require where a project may result in likely
+       significant effects (LSEs) upon a habitats site, the competent authority shall make
+       an Appropriate Assessment (AA) of its implications on the site’s integrity in view of
+       its conservation objectives. Any LSEs need to be considered alone and in
+       combination with other development, adopting the precautionary principle.
+8.     The SAC’s qualifying features are its beech forests on neutral to rich soils, semi-
+       natural dry grasslands and scrubland facies on calcareous substrates, and the
+       stag beetle. Its conservation objectives are to maintain and restore the extent and
+       distribution of the natural qualifying habitats and habitats of the qualifying features,
+       the structure, function and supporting processes of the qualifying natural habitats
+       and habitats of the qualifying species, and the populations and distribution of the
+       qualifying species within the site.
+9.     Evidence shows that recreational visits to the SAC result in disturbance with
+       adverse effects that affect its integrity, such as trampling damage, erosion, tree
+       root damage, and eutrophication from dog fouling1. Advice from Natural England
+       (NE) as set out in the Council’s Mitigation Strategy2 (MS), confirms that any net
+       increase in dwellings in the ZoI would be likely to result in more recreational visits
+       with consequential damage and LSEs, so need to provide adequate mitigation and
+       avoidance measures to rule out LSEs, and maintain the integrity of the SAC.
+10. Measures in the MS comprise Strategic Access Management and Monitoring
+    (SAMMS) and Suitable Alternative Natural Greenspaces (SANGS). SAMMS
+    directly manage and avoid impacts at the SAC and SANGS are alternative
+    greenspaces created or enhanced to absorb recreational pressure that would
+    otherwise occur at the SAC. These can be funded by a per dwelling contribution
+    based upon published costings to ensure the level of contribution delivers all
+    necessary mitigation to prevent LSEs upon the SAC. Therefore, securing SAMMS
+    and SANGS are important to offset LSEs from each new dwelling.
+11. The appellant considered a Unilateral Undertaking (UU) was not necessary, given
+    the statutory structure of PIP, advice in the PPG, the absence of caselaw,
+    reference to a judgement3, and the Council’s MS anticipating mitigation at the TDC
+    stage. The PPG is policy and, like the MS, does not prevent mitigation being
+    secured at the PIP stage.
+12. The legislation is that PIP cannot be granted for ‘habitats development’ under the
+    Order4, which is defined as development which is likely to have a significant effect
+
+1
+  Visitor survey, recreation impact and mitigation assessment requirements for the Chilterns Beechwoods SAC and the Dacorum
+Local Plan by Footprint Ecology (2022).
+2
+  Central Bedfordshire Council Mitigation Strategy for Ashridge Commons and Woods SSSI (2022).
+3
+  C.G. Fry & Son Limited v Secretary of State for Levelling Up, Housing and Communities & Somerset Council [2025] UKSC 35.
+4
+  The Town and Country Planning (Permission in Principle) Order 2017 (as Amended).
+
+
+https://www.gov.uk/planning-inspectorate               2
+Appeal Decision 6007334
+
+
+       upon a designated habitats site. Moreover, the Regulations apply to the consent
+       of projects and not just development, and they impose a duty on the maker of that
+       decision to only permit the plan or project if LSEs upon a designated habitats site
+       can be ruled out. Therefore, necessary and adequate mitigation to prevent LSEs
+       must be secured at the PIP stage, for it to be approved.
+13. NE has been consulted upon the appeal proposal and is satisfied the SANGS and
+    SAMMS contributions proposed would be sufficient to mitigate the LSEs.
+    However, the appellant’s UU proposes contributions for the SANGS and SAMMS
+    that are lower than the current costed per dwelling tariff.
+14. To secure the fully necessary mitigation, for SAMMS the contribution is £202.54
+    per dwelling and for the SANGS it is £3,565 (1-bedroom/studios) or £4,750 (2+
+    bedrooms). However, the UU defines the contributions as £182.49 for SAMMS
+    and £3,205 (1-bedroom/studios) or £4,273 (2+ bedrooms) for SANGS. Therefore,
+    the UU does not secure full adequate mitigation for each dwelling to ensure there
+    would be no LSEs. The UU definition of planning permission, its implications for
+    legally securing correct contributions for the number of permitted dwellings, and
+    the red line on title plan differing from the application plan add to my concerns.
+15. The appellant does not dispute the figures are incorrect and considers they should
+    be indicative. However, given the duties under Regulation 63(5) of the
+    Regulations, it is of fundamental importance the UU legally secures the correct
+    adequate contribution before a PIP is consented, otherwise the legal duty is not
+    met. Therefore, I simply do not have a UU before me securing full, adequate
+    mitigation. The appeal scheme makes no other provision to adequately mitigate
+    the LSEs and thus maintain a favourable condition and the integrity of the SAC.
+    Applying the precautionary principle and in the absence of full and adequate
+    mitigation, I cannot be certain the appeal scheme would not have LSEs on the
+    integrity of the SAC, so would fail to adhere to its conservation objectives.
+16. The scheme comprises habitats development excluded from a grant of permission
+    under Article 5B of the Order. Section 63(5) of the Regulations states the
+    competent authority may agree to a plan or project, only after having ascertained
+    that it will not adversely affect the integrity of a habitats site. Therefore, I cannot
+    allow the appeal. The appellant has not demonstrated there are no alternative
+    solutions to providing inadequately mitigated housing at the appeal site.
+    Imperative reasons of overriding public interest do not exist and there are no other
+    considerations that clearly outweigh the harm to the SAC.
+17. Therefore, for the reasons set out, I cannot be certain the location, land use and
+    amount of development would not adversely affect the SAC. It conflicts with the
+    Regulations, the Order, and Policy EE3 of the Central Bedfordshire Local Plan
+    (2021) (the LP) which requires proposals that affect designated habitats sites must
+    satisfy the Regulations. It conflicts with policy N6 1) a) of the Framework which
+    states that if proposals result in harm to habitats sites they should be refused
+    unless an AA concludes it would not adversely affect the integrity of the site, they
+    satisfy derogation tests, or it is addressed through an Environmental Delivery Plan.
+Green Belt
+18. Policy SP4 of the LP states that within the Green Belt there is a general
+    presumption against inappropriate development, and proposals will be assessed in
+    accordance with government guidance within the Framework and PPG.
+
+https://www.gov.uk/planning-inspectorate   3
+Appeal Decision 6007334
+
+
+         Framework paragraph GB6(2) explains that inappropriate development is, by
+         definition, harmful to the Green Belt and should not be approved except in very
+         special circumstances. Development in the Green Belt is inappropriate unless it
+         falls within one of the categories in policy GB7.
+19. One of the exceptions at GB7 g) is for Grey Belt land, subject to various criteria
+    being met. Initially, to qualify as Grey Belt land, the proposal should be on land
+    that does not strongly contribute to Green Belt purposes a), b) or d) in GB2. There
+    is no dispute the land does not strongly contribute to towards purposes b) and d).
+    Purpose a) is to check the unrestricted sprawl of large built-up areas.
+20. The Council’s Green Belt Study (2017) shows the site being within wider parcel
+    (HR2) considered to make a strong contribution to purpose a). I am informed the
+    site is approximately 250m north of the boundary of Houghton Regis (HR) North
+    (HRN), which is an urban extension to HR, which is a large built-up area.
+21. The site comprises land around a bungalow including garden, landscaping and
+    outbuildings well contained by surrounding by trees and bunding, beyond which it
+    is strongly enclosed by the B579 Luton Road on two sides, the access road off it,
+    and the M1. Given the distance to the edge of the HRN urban extension
+    development, housing at the site would not be viewed as a continuum of the urban
+    extension, but as a modest separate discrete scheme.
+22. Having regard to the guidance upon purpose a) in Framework Annex E, the
+    distance means the site is not near to a built-up area or would result in an
+    incongruous pattern of development, the latter of which could be secured at the
+    TDC stage. In my judgement, I consider the highways, and vegetation on and
+    surrounding the site, would restrict development. Such is the width and
+    engineered developed nature of these in my judgement they strongly contain and
+    enclose the site. The highways, noise and associated infrastructure such as street
+    lighting, fencing, and hardstandings are urbanising influences.
+23. It is not demonstrated, and I do not believe its containment, shape, extent and
+    some built development comprising dwellings at the lower to middle of the range
+    proposed, would result in there being a compelling case for land to the south or
+    west of the appeal site to be developed. In my judgement, the land makes a weak
+    to moderate contribution to purpose a).
+24. I note the main parties’ commentary of a recent judgement5, to which I have had
+    regard. Given its limited scale, its degree of containment, and distance to and
+    relationship with development I was able to see and referred to, and the level of
+    housing need in the Council area, consenting to the site being developed with a
+    limited number of dwellings would not fundamentally undermine any of the
+    purposes a) – e), of the remaining Green Belt across the area of the plan.
+    Therefore, the proposal meets GB7 g) i).
+25. The Council cannot demonstrate a deliverable 5-year housing land supply (HLS),
+    which is a test referenced in footnote 41 for GB7 g) ii) as evidencing unmet need
+    for this type of development. There is a lit footway to Chalton a modest distance
+    away where there are a small range of facilities and bus stops to larger
+    settlements. The site is also within a reasonable walking distance of part of HR
+    which has some services and facilities to meet day to day needs. This limits the
+
+5
+    Referred to at Appendix 5 of the Appellant’s Appeal Statement.
+
+
+https://www.gov.uk/planning-inspectorate                   4
+Appeal Decision 6007334
+
+
+       need to travel, particularly by private car, and offers a genuine choice of transport
+       modes for residents.
+26. The scheme could support improved sustainable transport use and patterns of
+    movement and enable access for different users. I see no reason why it could not
+    comply with objectives in respect of mitigating or avoiding adverse environmental
+    effects of traffic and transport infrastructure. Highway Authority consultation
+    responses indicate access for a development of up to 5 dwellings could be
+    adequately catered for within land under the appellant’s control, so I can be
+    satisfied there would not be significant adverse effects upon the transport network
+    upon this basis. Therefore, I consider TR3 and GB7g) iii) would be met. As it
+    would not be major development, it is unnecessary to satisfy GB7 g) iv).
+27. From what I saw and the substantive evidence before me, I find the appeal
+    scheme based upon an amount of housing at the lower to middle of the amount
+    proposed would meet the exception at Framework policy GB7g) and not constitute
+    inappropriate development. In-light of this finding, there is no need to assess the
+    effect upon openness, which is implicitly taken into account in this exception, or,
+    whether or not there are other considerations and whether they amount to very
+    special circumstances.
+28. Therefore, for the reasons set out above, the proposal would not be inappropriate
+    development in the Green Belt. It would be compliant with Policy SP4 of the LP,
+    and GB7 of the Framework, the relevant provisions of which I have set out above.
+Planning Balance
+29. At the upper end of the number of dwellings, the proposal could result in moderate
+    temporary economic benefits during TDC submission, design and construction,
+    and once complete some on-going benefits such as support to local services and
+    facilities, contributing to the vitality of the area. It would contribute to meeting
+    demand for local housing needs and could be designed to meet a range of
+    differing access needs. I am informed the Council can demonstrate a HLS of the
+    order of 3.93 years.
+30. Policy HO7 requires that substantial weight should be given to the benefits of
+    providing homes which will contribute towards meeting the evidenced needs of the
+    community. Were I to agree the appeal scheme falls within the definition of Policy
+    S5 1) h) or j) it should be approved, unless the benefits of doing so would be
+    substantially outweighed by any adverse effects, when assessed against the
+    national decision-making policies in the Framework.
+31. It is possible that through carefully designed schemes at the TDC stage, the
+    appeal scheme could secure small beneficial overall effects in respect of matters
+    such as landscaping and biodiversity, and a largely neutral effect upon the
+    character and appearance of the area. Were I to agree the appeal scheme would
+    or subject to suitable schemes at the TDC stage could be made compliant with
+    policies and standards in respect of matters such as highway and access matters,
+    access to services and facilities, the living conditions of future and neighbouring
+    occupiers, resource and energy efficient design and construction, and ensuring an
+    adequate assessment of the effect upon and mitigation for any protected species,
+    these would be neutral matters in the balance.
+
+
+
+https://www.gov.uk/planning-inspectorate   5
+Appeal Decision 6007334
+
+
+32. The appeal scheme would provide a number of important benefits attracting full
+    weight in its favour. However, the proposal would not adequately secure full
+    mitigation for LSEs upon the SAC, so Regulation 63(5) of the Regulations, and the
+    Order, both preclude the proposal from proceeding. While not appearing to
+    specifically be a national decision-making policy, the breach of this legislation are
+    matters of fundamental importance and attract weight of a very high order against
+    the scheme. Harm to a designated habitats site provides a strong reason for
+    restricting the overall scale, type or distribution of development. The harm and
+    legislative and policy conflicts substantially outweigh the benefits of the proposal
+    for any number of dwellings in the range proposed. Therefore, for the reasons
+    given, the appeal should not succeed.
+Conclusion
+33. The proposal conflicts with the development plan read as a whole, the Framework
+    read as a whole, the Regulations and the Order. There are no material
+    considerations advanced, including the policies of the Framework, which indicate
+    the decision should be made other than in accordance with the development plan,
+    the Order and the Regulations. Therefore, for the reasons given, the appeal
+    should not succeed.
+
+
+
+Dan Szymanski
+INSPECTOR
+
+
+
+
+https://www.gov.uk/planning-inspectorate   6
+

@@ -1,0 +1,180 @@
+Appeal Decision
+Site visit made on 4 August 2026
+by Gary Deane BSc (Hons) DipTP MRTPI
+an Inspector appointed by the Secretary of State
+Decision date: 17 August 2026
+
+
+Appeal Ref: 6005849
+17 Allesley Old Road, Coventry CV5 6QR
+•   The appeal is made under section 78 of the Town and Country Planning Act 1990 (as amended)
+    against a refusal to grant planning permission.
+•   The appeal is made by Nafisa Akhtar against the decision of Coventry City Council.
+•   The application reference is PL/2025/0001016/FUL.
+•   The development proposed is the change of use from E class to C3 to consist 3 no one bedroom
+    studio flat and 1 no 2 bedroom flat at 17 Allesley Old Road, Coventry.
+
+Decision
+1. The appeal is dismissed.
+Procedural matters
+2. While the description of development given in the above heading refers to the
+   proposed change of use, the submitted plans additionally show various internal and
+   external alterations to the appeal building and associated works within the site. I
+   have assessed the proposed development on that basis.
+3. The appellant is critical of the Council for determining the application before the
+   expiry of an agreed time-period to allow for the submission and consideration of
+   further acoustic information. My assessment is based on all the submitted
+   evidence at both the application and appeal stages, which includes the appellant’s
+   Environmental Noise Survey, dated 30 June 2025 (ENS), and the Internal Noise
+   Survey, dated 2 January 2026 (INS). While I have had regard to the circumstances
+   relating to the timing of the Council's decision, I have assessed the proposal on its
+   own planning merits.
+Main issues
+4. The main issues are whether the proposed development would provide satisfactory
+   living conditions for future occupiers, with particular regard to noise; and the effect
+   of the proposal on the continued operation of The Four Provinces public house.
+Reasons
+Living conditions
+5. The proposal is primarily to convert and alter the appeal property, which is a
+   mid-terrace building, to form four self-contained flats. It adjoins The Four Provinces
+   public house, which has an entertainment licence for live music, and faces a busy
+   road near a junction. Given the potential for noise to disturb future occupiers, the
+
+
+https://www.gov.uk/planning-inspectorate
+Appeal Decision 6005849
+
+
+     Council is concerned that the submitted acoustic information does not adequately
+     demonstrate that satisfactory living conditions would be achieved.
+6. The INS addresses sound transmission from the adjoining public house using
+   measurements undertaken when a DJ was operating. It considers a range of
+   frequencies, including the lower frequencies associated with amplified music, and
+   identifies additional treatment to the separating wall. With that treatment, the INS
+   predicts an internal sound pressure level of about 21 dB(A) from the assessed
+   source. It concludes that the resulting internal noise levels would be significantly
+   below the relevant night-time guideline. I am therefore satisfied that noise
+   transmission through the separating wall has been adequately addressed and
+   could be covered by conditions.
+7. The ENS also specifies mitigation measures including acoustic glazing and
+   acoustic ventilators designed to achieve the required acoustic performance. Taken
+   together with the treatment to the separating wall with the public house, I am
+   satisfied that satisfactory internal living conditions can be achieved without reliance
+   on a ventilation arrangement that could result in an oppressive internal environment
+   for future occupiers.
+8. However, the position in relation to the external amenity space at the side and rear
+   of the appeal building is different. The INS identifies the monitoring position on the
+   north-east façade of the building that overlooks that area and records a daytime
+   noise level of 68.4 dB LAeq,16hr. This is substantially above the desirable value of
+   50 dB and the upper guideline value of 55 dB for external amenity space that is
+   referred to in the submitted acoustic evidence.
+9. These values are guidelines rather than absolute limits. BS 8233:2014 "Guidance
+   on sound insulation and noise reduction for buildings" acknowledges that the
+   guidelines will not be achievable in all circumstances, and that development may
+   nevertheless be desirable. In such cases, the objective is to achieve the lowest
+   practicable noise levels within external amenity areas rather than necessarily
+   preventing development.
+10. In that regard, the appellant places some reliance on the ENS, which recommends
+    a 1.8 metre close-boarded acoustic barrier and predicts that this would reduce
+    garden noise to between 47.8 and 52.8 dB LAeq,T. That prediction is based on a
+    daytime level of 57.8 dB and assumed attenuation from the proposed barrier of
+    between 5 and 10 dB. However, I am not satisfied that the 57.8 dB baseline
+    provides a sufficiently reliable basis for assessing the proposed garden.
+11. Specifically, the ENS's tabulated results attribute 57.8 dB to Position 1, while
+    Position 2 records 67.3 dB during the daytime. Nevertheless, its external amenity
+    assessment attributes the 57.8 dB figure to Position 2 when deriving the predicted
+    post-mitigation garden levels. This inconsistency reduces the weight I can attach to
+    the resulting prediction.
+12. The INS provides a clearer basis for considering this matter. It records a daytime
+    level of 68.4 dB LAeq,16hr at the garden-facing location. Even applying the
+    maximum claimed attenuation of 10 dB to this measurement, the resultant level of
+    58.4 dB would remain above the upper guideline value of 55 dB. I am therefore not
+    satisfied that the appellant’s earlier prediction of 47.8–52.8 dB represents the
+    conditions likely to be experienced within the proposed garden.
+
+
+https://www.gov.uk/planning-inspectorate       2
+Appeal Decision 6005849
+
+
+13. I have carefully considered whether the flexibility recognised by BS8233 would
+    nevertheless justify the proposed development. However, the residual exceedance
+    would not be marginal. Furthermore, there is no evidence before me of further
+    practicable mitigation or alternative amenity provision that would satisfactorily
+    address it. I am therefore not satisfied that the proposal demonstrates that the
+    lowest practicable noise levels would be achieved within the proposed external
+    amenity area or that it would provide satisfactory conditions for future occupiers.
+14. A condition requiring the proposed fence as a barrier would secure the mitigation
+    already assessed, but it would not overcome this shortfall. Similarly, post-
+    completion verification would establish the performance of the completed scheme
+    rather than demonstrate that an acceptable external environment is capable of
+    being achieved. Consequently, this is not a matter that could be left to conditions.
+15. On the first main issue, I conclude that, notwithstanding that satisfactory internal
+    conditions could be achieved, the proposed development would not provide
+    satisfactory living conditions for future occupiers with regard to external noise. It
+    therefore conflicts with Policies DS3 and H3 of the Coventry Local Plan insofar as
+    they seek to secure a satisfactory residential environment. It is also contrary to the
+    relevant provisions of the National Planning Policy Framework (the Framework)
+    that concern the effects of noise on health and quality of life.
+The adjoining public house
+16. The proposal would introduce a noise-sensitive use adjoining the public house,
+    which is an established use. The responsibility for mitigating the potential effects
+    on the operation of the existing business therefore rests with the new development.
+17. The proposed internal acoustic measures do not depend upon restrictions to the
+    operation of the public house. Although the possibility of future complaints from
+    occupiers of the appeal building cannot be ruled out, the evidence does not
+    demonstrate that unreasonable restrictions upon the business would be likely.
+18. On the second main issue, I conclude that the proposal would be compatible with
+    the continued operation of the adjoining public house. It is therefore consistent with
+    Policy EM15 of the emerging Coventry Local Plan Review (Regulation 19 Proposed
+    Submission) and the Framework concerning the relationship between noise-
+    sensitive development and existing businesses. This favourable finding does not
+    overcome the harm that I have identified in relation to the first main issue.
+Other matters
+19. The appeal property lies within the Chapel Fields Conservation Area (CA) and
+    forms part of a row of former watchmakers' dwellings, which contribute positively to
+    its established character. I have paid special attention to the desirability of
+    preserving or enhancing the character or appearance of the CA, as required by
+    section 72(1) of the Planning (Listed Buildings and Conservation Areas) Act 1990.
+20. Few changes are sought to the front façade, with alterations to the fenestration at
+    the side and rear and a small new dormer and roof light within the main rear roof
+    slope. Given the modest scale and position of these alterations, which are largely
+    away from the road, the character and appearance of the CA would be preserved.
+    The related site works, including bicycle and bin storage, boundary treatment and
+    pedestrian access, would also be limited in nature and scale. Nothing before me
+
+
+https://www.gov.uk/planning-inspectorate       3
+Appeal Decision 6005849
+
+
+     indicates that they would result in an unacceptable effect upon neighbouring
+     occupiers or otherwise justify withholding planning permission.
+21. The Council found the principle of residential development acceptable and
+    identified no unacceptable effects in relation to highway safety, internal space
+    standards or the living conditions of neighbouring occupiers. From the submitted
+    evidence, I have no reason to reach a different conclusion on these matters.
+Planning balance
+22. I have found that satisfactory internal living conditions can be achieved, and that
+    the proposal would be compatible with the continued operation of the adjoining
+    public house. The character and appearance of the CA would also be preserved;
+    this is a neutral matter in the planning balance. The proposal would bring a vacant
+    building in disrepair back into use and would also provide four additional dwellings.
+    I attach moderate weight to these benefits.
+23. However, the evidence does not demonstrate that satisfactory conditions for future
+    occupiers would be achieved within the proposed external amenity space. I attach
+    substantial weight to this harm and the resulting conflict with the development plan.
+    The benefits of the proposal do not outweigh it.
+Conclusion
+24. I therefore conclude that the proposal would conflict with the development plan
+    when read as a whole. There are no material considerations which indicate that the
+    appeal should be determined otherwise. The appeal is therefore dismissed.
+
+Gary Deane
+INSPECTOR
+
+
+
+
+https://www.gov.uk/planning-inspectorate       4
+

@@ -1,0 +1,400 @@
+Appeal Decision
+Site visit made on 14 August 2026
+by MG Garrard LLB (Hons), PGDip.LP, Solicitor
+an Inspector appointed by the Secretary of State
+Decision date: 17 September 2026
+
+
+Appeal Ref: 6008404
+Pinfield House, Brown Heath Lane, Martin Hussingtree, Worcestershire WR9 7JF
+•    The appeal is made under section 78 of the Town and Country Planning Act 1990 (as amended)
+     against a refusal to grant planning permission.
+•    The appeal is made by Mr & Mrs Kernaghan against the decision of Wychavon District Council.
+•    The application Ref is W/25/00931/FUL.
+•    The development proposed is demolition of existing dwelling and replacement of 1 no. new dwelling
+     and associated external works.
+
+Decision
+1.    The appeal is dismissed.
+Preliminary Matters
+2.    Since the application was determined, the Council adopted the South
+      Worcestershire Development Plan Review 2021-2041 (2026) (SWDPR), which
+      superseded the policies against which the Council had determined the appeal
+      proposal. The main parties addressed this in their appeal statements. I have taken
+      the updated policies into account in making my decision.
+3.    Upon adoption of the SWDPR, the Council was able to demonstrate a five-year
+      supply of deliverable housing with the required buffer. During the appeal, the
+      Council has provided further evidence about its housing land supply, which the
+      appellant had opportunity to comment on during the appeal.
+4.    During the course of the appeal, a revised National Planning Policy Framework
+      (the Framework) was published on 17 August 2026. The main parties were given
+      an opportunity to comment on the implications of the revised Framework for the
+      appeal, and I have taken those comments into account in reaching my decision.
+      References to the Framework in my decision are to the August 2026 version.
+5.    The appellant submitted a draft unilateral undertaking during the appeal. Following
+      revisions and comments from the parties, an executed version was provided. I
+      consider its effect in relation to biodiversity net gain (BNG) below.
+Main Issues
+6.    The main issues are:
+           •    whether the proposal is inappropriate development in the Green Belt for the
+                purposes of the development plan and the Framework, including the effect
+                on openness;
+
+
+
+https://www.gov.uk/planning-inspectorate
+Appeal Decision 6008404
+
+
+            •   whether the replacement dwelling would be disproportionately larger than
+                the existing dwelling;
+            •   the effect of the proposal on protected species; and
+            •   whether the proposal would satisfy the requirements of the statutory
+                framework for BNG.
+Reasons
+Inappropriate development and openness
+7.      The appeal site lies in the Green Belt and comprises Pinfield House, associated
+        outbuildings and garden land. The proposal would replace the existing dwelling
+        and some of the outbuildings with a larger dwelling on a revised footprint.
+8.      The fundamental aim of Green Belt policy is to prevent urban sprawl by keeping
+        land permanently open. Development in the Green Belt is inappropriate and by
+        definition harmful unless it falls within a category in Policy GB7 of the Framework
+        that is not to be regarded as inappropriate.
+9.      The categories in Policy GB7 relevant to the proposal are GB7:1.b, which includes
+        the replacement of an existing building where it is in the same use and not
+        materially larger than the one it replaces, and GB7:1.e, which refers to the
+        redevelopment of previously developed land where this would not cause
+        substantial harm to the openness of the Green Belt.
+10. Turning first to GB7:1.b, the proposed replacement dwelling would be more than
+    double the width of the existing dwelling whether measured at ground or first floor.
+    It would also be higher and slightly deeper. The gross internal area would
+    approximately double and, as a significant part would be single storey, the footprint
+    would almost triple.
+11. The appellant argues that, when considered alongside the recently approved
+    certificate of lawfulness for an ancillary building1, the replacement dwelling would
+    not be materially larger. However, GB7:1.b refers to the replacement of an existing
+    building, and the proposed ancillary building has not been constructed. Whilst it
+    may be relevant as a potential fallback position, a matter to which I return later in
+    my decision, it does not form part of the existing development against which the
+    proposal is to be assessed for the purposes of this exception. Even taking account
+    of the removal of existing outbuildings apart from the double garage and carport,
+    the replacement building would be materially larger. Therefore, GB7:1.b does not
+    apply and the proposal would, in terms of this criterion, form inappropriate
+    development.
+12. The appellant contends that the site forms previously developed land and
+    therefore Framework Policy GB7:1.e applies. This identifies the redevelopment of
+    previously developed land that would not cause substantial harm to openness as
+    not inappropriate development. The appeal site has been lawfully developed and
+    is occupied by permanent structures. It therefore falls within the definition of
+    previously developed land in Annex B to the Framework. By demolishing the
+    existing dwelling and some associated outbuildings and building a replacement
+    dwelling, the proposal would amount to redevelopment of the appeal site.
+
+1
+    W/26/00474/CLPU
+
+
+https://www.gov.uk/planning-inspectorate   2
+Appeal Decision 6008404
+
+
+         Accordingly, the proposal would fall to be considered under Policy GB7.1e, subject
+         to consideration of openness which I address below.
+13. The Planning Practice Guidance2 explains that assessing impacts on openness
+    requires a judgement based on the circumstances of the case considering factors
+    including spatial and visual aspects, the duration of the development, and the
+    degree of activity likely to be generated such as traffic.
+14. As discussed above, the proposed dwelling would be materially larger than the
+    buildings it would replace and, in any event, would be a substantial structure. Even
+    taking account of the recently granted certificate of proposed lawfulness for an
+    outbuilding to provide a home office, gym, sauna and wet room, the increased
+    mass and bulk of the replacement dwelling would reduce openness spatially.
+15. Turning to the visual aspects of openness, the proposal would sit at the end of the
+    driveway off Brown Heath Lane within extensive garden land with mature trees
+    and vegetation which would filter views from the road. It would be well screened
+    from the nearby public right of way by established hedging. Its size and
+    contemporary design would give it a strong visual presence, but the existing
+    planting and being set further back from the road than the current dwelling, would
+    limit its visual effect.
+16. From the rear, the visual prominence of the existing dwelling is reduced by the
+    mono-pitched roof and limited first floor glazing. The proposal would have a taller
+    eaves height and include large full-height areas of glazing, which would give it a
+    prominent appearance to the rear. As I noted from my site visit, views of the rear of
+    appeal site are possible looking back from the public right of way, but they are
+    reduced as a result of the topography of the land at that point.
+17. The proposal would continue the existing use of the site as a single dwellinghouse.
+    Whilst the replacement dwelling would be larger, there is little to indicate that it
+    would result in a material increase in parked vehicles, domestic paraphernalia or
+    similar features that could affect openness. Accordingly, it would not materially
+    increase the spatial or visual effects arising from the appeal site's residential use.
+18. Noting the increase in the size, footprint and volume of the replacement dwelling,
+    the effect on openness is not determined solely by a quantitative comparison of
+    built form. The appeal site is already occupied by a detached dwelling and
+    associated buildings within substantial grounds. The proposal’s increased scale
+    would reduce openness, but it would be contained within the existing residential
+    curtilage, and would remove the majority of the outbuildings, consolidating the built
+    form into a more coherent arrangement centred on the replacement dwelling.
+19. Bringing all the above together, taking account of the existing character of the site,
+    the contained nature of the proposal, the limited spatial and visual effects identified
+    above, and the absence of any material increase in activity, the harm to openness
+    which would occur would fall well short of substantial harm. The proposal therefore
+    falls within Policy GB7:1.e and is not inappropriate development in the Green Belt
+    for the purposes of the development plan and the Framework, including the effect
+    on openness.
+
+
+
+2
+    Paragraph: 013 Reference ID: 64-013-20250225
+
+
+https://www.gov.uk/planning-inspectorate           3
+Appeal Decision 6008404
+
+
+20. Policy SWDPR 04 of the SWDPR requires substantial weight to be given to any
+    harm to the Green Belt and states that Green Belt proposals will be determined in
+    accordance with the Framework. However, the Framework directs that
+    development which is not inappropriate should not be regarded as harmful to the
+    Green Belt. Accordingly, applying the more recent Framework, I conclude the
+    proposal would not conflict with SWDPR 04 read as a whole.
+Principle of replacement dwelling
+21. The appeal site is outside any defined development boundary. The main parties
+    accept it is therefore in open countryside, where development will be strictly
+    controlled in accordance with the spatial strategy in Policy SWDPR 03, subject to
+    other policies within the SWDPR. Policy SWDPR 23 states that the replacement of
+    an existing dwelling in the countryside with another single dwelling will be
+    permitted subject to the criteria set out in the policy.
+22. The Council raises concern about only one of the criteria in SWDPR 23. Criterion
+    A.iii. requires that the replacement dwelling is not disproportionately larger than the
+    existing dwelling and will not exceed the existing gross internal floorspace by more
+    than 30%.
+23. As measured by the appellant’s architects, the existing dwelling has a footprint of
+    112 m² and a gross internal floor area of 143.2 m², while the proposed dwelling
+    would have a gross internal floor area of 345 m². Policy SWDPR 23 expects
+    proposals to be measured against the existing dwelling, with any extension within
+    the previous five years counting towards the 30% increase in gross internal
+    floorspace.
+24. If implemented, the detached ancillary outbuilding recently granted a certificate of
+    lawfulness would provide 113 m² of space, including facilities similar to some of
+    those proposed at ground floor level within the replacement dwelling.
+    Notwithstanding the appellant’s intention to construct the ancillary outbuilding if
+    permission is not granted for the proposal, it would not count towards the baseline
+    against which the proposal should be measured under Policy SWDPR 23.
+25. The reasoned justification for Policy SWDPR 23 seeks to retain existing dwellings
+    where possible. It indicates that the main justification for retaining small dwellings
+    is design related because larger new properties can adversely affect the character
+    of the area. The maximum percentage increase is intended to ensure any increase
+    is proportionate. The Council has not objected to the proposal’s design beyond its
+    size relative to the existing dwelling, and I have no reason to disagree with its
+    conclusion that the scheme would be high-quality and would complement the
+    locality.
+26. Nevertheless, the proposal would significantly exceed the size limitations in Policy
+    SWDPR 23 and would be disproportionately larger than the dwelling it would
+    replace. Consequently, it would not satisfy the policy requirements for replacement
+    dwellings in the countryside and would not be one of the forms of development
+    supported in the open countryside by the development plan’s spatial strategy.
+    Therefore, I conclude that the proposed replacement dwelling would not be
+    acceptable in this countryside location having regard to relevant development plan
+    policies.
+
+
+
+https://www.gov.uk/planning-inspectorate   4
+Appeal Decision 6008404
+
+
+27. Accordingly, it would conflict with Policies SWDPR 03 and SWDPR 23 of the
+    SWDPR with regard to their expectation that development in the open countryside
+    will be strictly controlled while allowing the replacement of an existing dwelling
+    subject to the criteria set out.
+Protected Species
+28. The Conservation of Habitats and Species Regulations 2017 (Habitats
+    Regulations) require me to have regard to the potential effects of the development
+    on protected species. Circular 06/2005 also advises that the presence or absence
+    of protected species, and the extent to which they may be affected, should be
+    established before planning permission is granted and that ecological surveys
+    should be deferred to planning conditions only in exceptional circumstances.
+29. A Preliminary Ecological Assessment (PEA) undertaken in August 2024 identified
+    a bat roost within the existing dwelling and recommended further surveys. Those
+    surveys confirmed a day roost and established that a Natural England licence
+    would be required before demolition could take place. Having had regard to
+    Regulations 9(1) and 9(3) of the Habitats Regulations and noting that there is no
+    dispute between the parties on this matter, I have no reason to conclude that the
+    necessary licence would be unlikely to be granted in respect of the dwelling.
+    Accordingly, this aspect of the proposal does not weigh against the development.
+30. The PEA was prepared on the basis that the outbuildings would be retained.
+    However, the proposal subsequently evolved to include the demolition of all
+    outbuildings other than the wooden garage and carport. No bat survey information
+    has been provided in respect of the brick-built garage, which the Council considers
+    could provide opportunities for bat roosting, and which the PEA classified as
+    having moderate suitability for roosting bats.
+31. The appellant argues that the removal of roof tiles, said to be following storm
+    damage, has left the building exposed to the elements and therefore unsuitable for
+    bats. However, there is no substantive evidence before me regarding when the
+    tiles were lost or the resultant impact on the suitability of the structure for roosting
+    bats. Moreover, the appellant’s own ecological evidence advised that further
+    survey work would be required if demolition of the outbuildings is proposed.
+32. In the absence of that survey work, I cannot be satisfied that demolition of the
+    brick-built garage would not harm legally protected bat species, nor can I conclude
+    that the proposal would be capable of being licensed if required.
+33. With regard to great-crested newts (GCN), the PEA identified a man-made pond
+    (P1) within the appellant’s ownership adjacent to the appeal site which was
+    assessed as having good suitability to support GCN. A further pond nearby (P2)
+    was dry at the time of the survey, and ten additional ponds were identified within
+    500 metres of the site. The PEA advises that GCN surveys would be required if
+    more than 100 m² of suitable terrestrial habitat would be lost, subject to ponds
+    within the area of influence containing water.
+34. No GCN surveys have been submitted. The appellant states that the ornamental
+    pond (P1) is fed by a pump which has since been switched off, leaving the pond
+    dry and unsuitable for GCN. However, Natural England’s standing advice indicates
+    that surveys may be required where there is a suitable waterbody within 500
+    metres of the development site, including where ponds hold water only seasonally.
+
+https://www.gov.uk/planning-inspectorate   5
+Appeal Decision 6008404
+
+
+      Moreover, the evidence before me does not establish whether the proposal would
+      result in the loss of more than 100 m² of suitable terrestrial habitat, a circumstance
+      which the appellant’s own ecological assessment identifies as necessitating further
+      survey work.
+35. Whilst neither pond close to the site contained water at the time of my visit, this
+    occurred during a period of exceptionally dry weather and does not demonstrate
+    that they are permanently incapable of supporting GCN. Taking these matters
+    together, I do not have sufficient information before me to exclude the possibility of
+    adverse effects on GCN or their habitat.
+36. The submitted evidence demonstrates that the effects of demolishing the existing
+    dwelling on bats could be addressed through mitigation and licensing. However,
+    insufficient survey information has been provided in relation to the brick-built
+    garage and the potential effects of the proposal on GCN. In accordance with
+    Circular 06/2005, these matters should ordinarily be resolved before planning
+    permission is granted and I have seen no exceptional circumstances that would
+    justify a different approach. Consequently, it has not been demonstrated that the
+    proposal would avoid unacceptable effects on protected species or that any
+    necessary mitigation and licensing measures could be secured.
+37. The proposal therefore conflicts with Policy SWDPR 29 of the SWDPR insofar as it
+    advises that proposals that would compromise the favourable condition of,
+    amongst other things, species or habitats of principal importance recognised in the
+    Worcestershire Biodiversity Action Plan or listed under section 41 of the Natural
+    Environment and Rural Communities Act 2006, will only be supported if the need
+    for and the public benefits of the proposed development significantly outweigh the
+    loss.
+38. Additionally, this would be contrary to Policy N2 of the Framework and the
+    precautionary approach set out in Circular 06/2005.
+Biodiversity net gain
+39. BNG is a statutory requirement introduced by the Environment Act 2021. Where
+    applicable, it is secured through a statutory planning condition intended to ensure
+    a minimum 10% increase in biodiversity value. Article 7 of the Town and Country
+    Planning (Development Management Procedure) (England) Order 2015 requires
+    an application for planning permission to be accompanied by a statement
+    confirming whether the development would be subject to the statutory BNG
+    condition and if not the reasons for that. If BNG is applicable, further information is
+    required so the statutory BNG condition can be applied and discharged.
+40. The proposal includes substantial biodiversity enhancements, but they are not
+    secured by a planning obligation or any other mechanism before me, which
+    reduces the weight that could be placed on them. The appellant instead relies on
+    the proposal being exempt from the BNG regime as a self-build dwelling. Whether
+    that exemption applies depends on the dwelling being properly secured as a self-
+    build dwelling.
+41. No legal mechanism, such as a planning obligation under section 106 of the Town
+    and Country Planning Act 1990 (1990 Act), to secure the proposal as self-build
+    development was submitted to the Council prior to its determination of the
+    proposal. However, an executed unilateral undertaking dated 25 August 2026 has
+
+https://www.gov.uk/planning-inspectorate   6
+Appeal Decision 6008404
+
+
+      been submitted in support of the appeal. It has been executed by the owners as a
+      deed and is expressed to take effect as a planning obligation under section 106 of
+      the 1990 Act. It secures the dwelling as a self-build dwelling and requires evidence
+      of compliance to be provided following completion and occupation.
+42. I am satisfied that this provides sufficient certainty that the dwelling would be
+    delivered and occupied as self-build development for the purposes of the
+    exemption relied upon. Therefore, I conclude that the proposal would satisfy the
+    requirements of the statutory framework for BNG. Consequently, the proposal
+    would not conflict with Policy SWDPR 30 insofar as it requires that all qualifying
+    development proposals must deliver the statutory minimum measurable BNG
+    attributable to the development in line with legislation.
+Other Matters
+43. The recently granted certificate of lawful proposed use or development for an
+    ancillary building represents a fallback position that could be implemented if the
+    appeal were to fail. The building would provide some of the accommodation
+    facilities sought within the replacement dwelling. Although less substantial than the
+    appeal proposal, it would add to the dispersed built form on the site rather than
+    consolidate the development as proposed. Given the realistic prospect of
+    implementation, I afford the fallback moderate weight in favour of the proposal.
+44. The proposal would deliver an energy-efficient dwelling designed to Passivhaus
+    standards. The Council accepts it would reduce operational carbon emissions and
+    represent a benefit of the scheme. The proposal would also achieve a high-quality
+    contemporary design. Although these sustainability and design credentials are
+    commendable, they rely on established principles rather than anything particularly
+    innovative or exceptional. I therefore attach moderate weight to these factors in
+    favour of the proposal.
+45. The Council accepts that, in accordance with Annex D, paragraph 9 of the
+    Framework, it is now required to demonstrate a five-year supply of deliverable
+    housing sites, including a 20% buffer. It has confirmed that the South
+    Worcestershire Councils' Five Year Housing Land Supply Report, published in
+    June 2026, demonstrates a 5.48-year housing land supply. There is no substantive
+    evidence before me that leads to a different conclusion. In any event, as the
+    proposal is for a replacement dwelling, it would not add to the overall housing
+    stock, and this matter carries limited weight in my determination.
+46. I have had regard to the representations made in support of the proposal, including
+    its design, sustainability and perceived benefits to the character of the area. Those
+    matters have been considered against the evidence and the relevant planning
+    policies and are reflected in my conclusions elsewhere in this decision.
+Planning Balance
+47. The proposal would not constitute inappropriate development in the Green Belt,
+    and I have found no conflict in relation to the statutory framework for BNG.
+    However, it would conflict with Policy SWDPR 23 because the replacement
+    dwelling would be disproportionately larger than the dwelling it would replace and,
+    consequently, it would conflict with the spatial strategy in Policy SWDPR 03. I have
+    also found that it has not been demonstrated that the proposal would avoid
+
+
+https://www.gov.uk/planning-inspectorate   7
+Appeal Decision 6008404
+
+
+      unacceptable effects on protected species, contrary to Policy SWDPR 29. The
+      proposal therefore conflicts with the development plan when read as a whole.
+48. The proposal would replace a dwelling that needs modernisation with a dwelling
+    that meets modern standards and a more coherent development than could arise
+    from the fallback position represented by the lawful ancillary building. It would also
+    deliver environmental benefits through its Passivhaus-led design. In addition, the
+    proposal includes biodiversity enhancements which, if delivered, would provide
+    ecological benefits. There would also be modest temporary economic benefits
+    arising from construction activity.
+49. Policy S5 of the Framework sets out how the presumption in favour of sustainable
+    development should be applied to development outside settlements. It also
+    indicates that development in the Green Belt should be determined in accordance
+    with the relevant Green Belt policies. In this case, as I have found that the
+    proposal would not be inappropriate development in the Green Belt, the proposal
+    should be approved unless the benefits of doing so would be substantially
+    outweighed by any adverse effects when assessed against the national decision-
+    making policies of the Framework taken as a whole.
+50. Policy S5:2 indicates that adverse effects are likely to substantially outweigh
+    benefits where a proposal fails to comply with a national decision-making policy
+    requiring refusal in particular circumstances. Policy N2 states that development
+    should be refused where significant harm to biodiversity cannot be avoided,
+    adequately mitigated or, as a last resort, compensated for. As the evidence does
+    not establish the likely effects on protected species, or whether any necessary
+    mitigation and licensing could be secured, that harm has not been satisfactorily
+    addressed. Alongside the conflict with Policies SWDPR 03 and SWDPR 23, the
+    adverse effects would substantially outweigh the benefits when assessed against
+    the Framework taken as a whole.
+Conclusion
+51. The proposal would conflict with the development plan read as a whole and there
+    are no material considerations of sufficient weight to indicate that a decision
+    should be taken other than in accordance with it. The appeal is therefore
+    dismissed.
+
+MG Garrard
+INSPECTOR
+
+
+
+
+https://www.gov.uk/planning-inspectorate   8
+

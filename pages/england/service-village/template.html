@@ -1,0 +1,239 @@
+<title>Service Village Does Not Mean Sustainable</title>
+<meta name="description" content="A settlement hierarchy ranks villages for the plan. Under the August 2026 NPPF it cannot on its own decide whether a site is sustainable; the route does.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Source+Serif+4:opsz,wght@8..60,400;8..60,600;8..60,700&family=Public+Sans:ital,wght@0,400;0,500;0,600;1,400&family=IBM+Plex+Mono:wght@400;500;600&display=swap">
+<style>
+/* Layout: one reading column; a three-step "then → now" strip, a weight ledger, a score card, then the evidence. */
+:root{
+  --ground:#f3f4f1; --surface:#ffffff; --surface-2:#eef1ec; --ink:#1a231f; --muted:#59635d;
+  --line:#d7dcd4; --accent:#2f6a4f; --accent-soft:#e2ede7; --accent-ink:#173a2c;
+  --refuse:#9e3628; --refuse-soft:#f4e4e1; --gold:#8a6a1a; --gold-soft:#f3ecd7;
+  --serif:"Source Serif 4","Iowan Old Style",Georgia,serif;
+  --sans:"Public Sans",-apple-system,"Segoe UI",system-ui,sans-serif;
+  --mono:"IBM Plex Mono",ui-monospace,Menlo,monospace;
+}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){
+  color-scheme:dark;
+  --ground:#11150f; --surface:#191e17; --surface-2:#1f261d; --ink:#e4e9e2; --muted:#9aa69d;
+  --line:#2d362a; --accent:#7fc0a2; --accent-soft:#1d3327; --accent-ink:#cfeadd;
+  --refuse:#e08a7c; --refuse-soft:#331e1a; --gold:#d6b25a; --gold-soft:#332a13;
+}}
+:root[data-theme="dark"]{
+  color-scheme:dark;
+  --ground:#11150f; --surface:#191e17; --surface-2:#1f261d; --ink:#e4e9e2; --muted:#9aa69d;
+  --line:#2d362a; --accent:#7fc0a2; --accent-soft:#1d3327; --accent-ink:#cfeadd;
+  --refuse:#e08a7c; --refuse-soft:#331e1a; --gold:#d6b25a; --gold-soft:#332a13;
+}
+*{box-sizing:border-box}
+body{background:var(--ground);color:var(--ink);font:17px/1.6 var(--sans);margin:0;padding-inline:16px;padding-block:0 64px}
+.wrap{max-width:820px;margin:0 auto}
+a{color:var(--accent)}
+h1,h2,h3{text-wrap:balance;margin:0}
+p{margin:0 0 12px}
+.eyebrow{font:500 12.5px/1.4 var(--mono);letter-spacing:.05em;text-transform:uppercase;color:var(--muted)}
+header{padding-block:40px 14px}
+h1{font:700 clamp(32px,6.4vw,50px)/1.05 var(--serif);letter-spacing:-.01em;margin:12px 0 14px}
+.dek{font:400 20px/1.45 var(--serif);max-width:none;margin:0}
+.dek b{font-weight:700}
+h2{font:600 25px/1.2 var(--serif);margin:48px 0 8px}
+.lede{max-width:62ch;color:var(--ink)}
+.fine{font-size:13.5px;color:var(--muted)}
+.ref{font-family:var(--mono);font-size:12.5px;color:var(--accent)}
+q{font-style:italic}
+
+/* Then → now strip */
+.shift{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:12px;margin-top:26px;counter-reset:step}
+@media (max-width:700px){.shift{grid-template-columns:1fr}}
+.step{background:var(--surface);border:1px solid var(--line);border-radius:10px;padding:16px 16px 14px;display:flex;flex-direction:column;gap:8px;min-width:0}
+.step .when{font:600 11.5px/1.3 var(--mono);letter-spacing:.06em;text-transform:uppercase;color:var(--muted)}
+.step h3{font:700 22px/1.15 var(--serif)}
+.step p{font-size:15px;line-height:1.5;margin:0}
+.step blockquote{margin:0;font:400 14.5px/1.45 var(--serif);background:var(--surface-2);border-radius:6px;padding:9px 11px}
+.step blockquote cite{display:block;font:500 11.5px/1.3 var(--mono);font-style:normal;color:var(--muted);margin-top:6px}
+.step.now{border:2px solid var(--refuse);background:var(--refuse-soft)}
+.step.now h3{color:var(--refuse)}
+.step.now blockquote{background:var(--surface)}
+
+/* Weight ledger */
+.ledger{border:1px solid var(--line);border-radius:12px;background:var(--surface);overflow:hidden;margin-top:14px}
+.row{display:grid;grid-template-columns:minmax(0,1.1fr) auto minmax(0,2fr);gap:8px 18px;align-items:start;padding:14px 18px;border-top:1px solid var(--line)}
+.row:first-child{border-top:0}
+.row .where{font:600 16px/1.35 var(--serif)}
+.row .where small{display:block;font:400 12.5px/1.4 var(--mono);color:var(--muted);margin-top:3px}
+.row .why{font-size:15px;line-height:1.5;min-width:0}
+.row .why q{font-style:normal}
+@media (max-width:640px){.row{grid-template-columns:1fr auto}.row .why{grid-column:1 / -1}}
+.pill{font:600 11.5px/1 var(--mono);letter-spacing:.05em;text-transform:uppercase;padding:6px 9px;border-radius:999px;white-space:nowrap;justify-self:start}
+.pill.none{background:var(--refuse-soft);color:var(--refuse);border:1px solid var(--refuse)}
+.pill.low{background:var(--gold-soft);color:var(--gold);border:1px solid var(--gold)}
+.verdict{background:var(--ink);color:var(--ground);padding:16px 18px;font:600 18px/1.4 var(--serif)}
+
+/* Score card */
+.score{display:grid;grid-template-columns:minmax(0,1fr) minmax(0,1fr);gap:22px;align-items:start;margin-top:14px}
+@media (max-width:640px){.score{grid-template-columns:1fr}}
+.bars{background:var(--surface);border:1px solid var(--line);border-radius:12px;padding:16px 18px;display:grid;gap:12px}
+.bar{display:grid;grid-template-columns:8.5em 1fr 2.2em;gap:10px;align-items:center;font-size:14.5px}
+.track{display:grid;grid-template-columns:repeat(3,1fr);gap:3px;height:14px}
+.track i{background:var(--surface-2);border:1px solid var(--line);border-radius:3px}
+.track i.on{background:var(--accent);border-color:var(--accent)}
+.bar .n{font:600 14px/1 var(--mono);text-align:right;font-variant-numeric:tabular-nums}
+.bar.zero .n,.bar.zero .label{color:var(--refuse);font-weight:600}
+.bar.zero .track i{border-color:var(--refuse);border-style:dashed}
+.total{border-top:1px solid var(--line);padding-top:10px;display:flex;justify-content:space-between;font:600 14px/1.3 var(--mono)}
+.score-copy p{font-size:16px}
+.callout{border-left:4px solid var(--refuse);padding:4px 0 4px 14px;font:600 18px/1.4 var(--serif);margin:6px 0 12px}
+
+/* Evidence */
+.cases{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:12px;margin-top:12px}
+@media (max-width:640px){.cases{grid-template-columns:1fr}}
+.case{background:var(--surface);border:1px solid var(--line);border-radius:10px;padding:14px 16px;display:flex;flex-direction:column;gap:8px;min-width:0}
+.case .place{font:600 17px/1.25 var(--serif)}
+.case .meta{display:flex;justify-content:space-between;gap:8px;align-items:baseline}
+.badge{font:600 10.5px/1 var(--mono);letter-spacing:.05em;text-transform:uppercase;padding:4px 6px;border-radius:4px;background:var(--refuse-soft);color:var(--refuse)}
+.case blockquote{margin:0;font:400 15px/1.45 var(--serif)}
+.also{margin-top:10px;font-size:14px;color:var(--muted)}
+
+.tablewrap{overflow-x:auto;margin-top:10px}
+table.route{width:100%;border-collapse:collapse;font-size:15px;background:var(--surface);border:1px solid var(--line);border-radius:10px}
+.route th,.route td{text-align:left;padding:9px 12px;border-bottom:1px solid var(--line);vertical-align:top}
+.route tr:last-child td{border-bottom:0}
+.route th{font:600 11.5px/1.3 var(--mono);text-transform:uppercase;letter-spacing:.05em;color:var(--muted)}
+.route td:first-child{font-weight:600;white-space:nowrap}
+
+.disclaimer{background:var(--surface-2);border:1px solid var(--line);border-radius:8px;padding:12px 15px;font-size:13.5px;color:var(--muted);margin-top:40px}
+footer{margin-top:18px;padding-top:14px;border-top:1px solid var(--line);color:var(--muted);font-size:13px;line-height:1.55}
+</style>
+
+<div class="wrap">
+<header>
+  <p class="eyebrow">Settlement hierarchy · National Planning Policy Framework (NPPF), August 2026</p>
+  <h1>Service Village Does Not Mean Sustainable</h1>
+  <p class="dek">A settlement hierarchy is a <b>ranking</b> of villages, made for the local plan. Under the 2024 NPPF it was a fair stand-in for "sustainable location". Under the <b>August 2026</b> NPPF it cannot carry the point on its own. Whether a site is sustainable is decided on the route, under Policy <b>TR3</b>.</p>
+</header>
+
+<section aria-label="How the role changed">
+  <div class="shift">
+    <article class="step">
+      <span class="when">What it is</span>
+      <h3>A ranking</h3>
+      <p>The council scores its villages on size and a few services, then ranks them so the plan can send more housing to the better-served ones.</p>
+      <blockquote>"It effectively ranks them so that housing is directed to the largest settlements with facilities…"<cite>Stratford Core Strategy Inspector, 2016, ¶271</cite></blockquote>
+    </article>
+    <article class="step">
+      <span class="when">NPPF, December 2024</span>
+      <h3>A fair proxy</h3>
+      <p>The Framework backed village growth and told decision-makers to allow for rural transport. A village's tier was a reasonable shorthand.</p>
+      <blockquote>"opportunities to maximise sustainable transport solutions will vary between urban and rural areas, and this should be taken into account in both plan-making and decision-making."<cite>NPPF 2024, ¶110</cite></blockquote>
+    </article>
+    <article class="step now">
+      <span class="when">NPPF, August 2026</span>
+      <h3>Little weight on its own</h3>
+      <p>That sentence is gone. Each site now gets a route test, and the tier cannot answer it by itself. The one rural clause left, TR3(1)(e), asks applicants to improve connectivity; it is not an allowance for car use.</p>
+      <blockquote>"limit the need to travel, particularly by private car, and offer a genuine choice of transport modes"<cite>NPPF 2026, TR3(1)(a)</cite></blockquote>
+    </article>
+  </div>
+</section>
+
+<section>
+  <h2>How much weight does the 2026 NPPF give the hierarchy?</h2>
+  <p class="lede">There are four ways the tier could enter a decision. It survives as plan policy, and as a label inspectors cite beside route evidence. It decides none of them on its own.</p>
+  <div class="ledger">
+    <div class="row">
+      <div class="where">In the Framework itself<small>whole text</small></div>
+      <span class="pill none">None</span>
+      <div class="why">"Settlement hierarchy", "service village" and "service centre" never appear. The village-growth policy HO6(1)(b) is a plan-making policy, and ¶8 says <q>"the plan-making policies should not be used when making decisions on development proposals."</q></div>
+    </div>
+    <div class="row">
+      <div class="where">As local plan policy<small>s.38(6), Annex A(2)</small></div>
+      <span class="pill low">Plan accordance</span>
+      <div class="why">A site inside a service village's boundary accords with the plan's spatial strategy, and that counts under s.38(6). The weight is the plan's, not the tier's: parts of a policy <q>"which are materially inconsistent with national decision-making policies in this Framework should be given very limited weight."</q> Stratford decisions under the 2026 Framework now treat Core Strategy policies CS.15, CS.16 and AS.10 in exactly that way.</div>
+    </div>
+    <div class="row">
+      <div class="where">Inside or outside a "settlement"<small>Annex B → S4 or S5</small></div>
+      <span class="pill none">Not the tier</span>
+      <div class="why">Plan <em>boundaries</em> can count; the tier does not. And the definition <q>"exclude[s] villages which lie within and are defined as part of the Green Belt"</q>, whatever their tier.</div>
+    </div>
+    <div class="row">
+      <div class="where">Sustainable location<small>TR3, and GB7(1)(g)(iii) in the Green Belt</small></div>
+      <span class="pill low">Not on its own</span>
+      <div class="why">TR3 asks about a genuine choice of transport modes on the actual journey, and TR3(2) says the government's Connectivity Tool should be used. Inspectors do cite a village's tier when they find a location sustainable, but in every allowed case they also had a bus service, lit footways or an urban setting to point to. Where the route was poor, as at Findon and Welland, the tier did not save the site.</div>
+    </div>
+    <div class="verdict">On the question that matters most, whether this site is sustainable, the hierarchy cannot carry the answer. The route has to.</div>
+  </div>
+</section>
+
+<section>
+  <h2>What "Category 3" actually measured</h2>
+  <div class="score">
+    <div class="bars" role="img" aria-label="Claverdon 2014 Local Service Village score: size 2 of 3, shop 1 of 3, school 3 of 3, public transport 0 of 3, total 6">
+      <span class="eyebrow">Claverdon · Stratford's 2014 scoring</span>
+      <div class="bar"><span class="label">Size</span><span class="track"><i class="on"></i><i class="on"></i><i></i></span><span class="n">2</span></div>
+      <div class="bar"><span class="label">Shop</span><span class="track"><i class="on"></i><i></i><i></i></span><span class="n">1</span></div>
+      <div class="bar"><span class="label">Primary school</span><span class="track"><i class="on"></i><i class="on"></i><i class="on"></i></span><span class="n">3</span></div>
+      <div class="bar zero"><span class="label">Public transport</span><span class="track"><i></i><i></i><i></i></span><span class="n">0</span></div>
+      <div class="total"><span>Total 6 → Category 3 (5–7)</span><span>of 12</span></div>
+    </div>
+    <div class="score-copy">
+      <p>Stratford's Local Service Villages (LSVs) are scored on four things: size, a shop, a primary school and public transport. Claverdon reached Category 3 on its school and its size.</p>
+      <p class="callout">On public transport it scored zero.</p>
+      <p>TR3 applies to every site, whatever the tier. But the lower the tier, the less the label says about getting around without a car. At Category 3 in Claverdon it says nothing, so the answer has to come from the route.</p>
+    </div>
+  </div>
+</section>
+
+<section>
+  <h2>Inspectors decide on the route</h2>
+  <p class="lede">Appeals under the 2026 Framework, dismissed because the walk failed. A named service village, a Category 1 village, or a station close by, did not save them.</p>
+  <div class="cases">
+    <article class="case">
+      <div class="meta"><span class="place">Welland</span><span class="badge">Dismissed</span></div>
+      <blockquote>"The village is a Category 1 settlement, with a range of services and public transport connections" … "I crossed the 30mph carriageway and walked along the unlit footpath (on the opposite side of the street) to the village centre" … "heavily reliant upon the private car".</blockquote>
+      <span class="ref">6006722 · Malvern Hills</span>
+    </article>
+    <article class="case">
+      <div class="meta"><span class="place">Findon</span><span class="badge">Dismissed</span></div>
+      <blockquote>"The nearest settlement to the appeal site is Findon which is a service village … future occupiers would have a reliance on the private car."</blockquote>
+      <span class="ref">6006900 · South Downs</span>
+    </article>
+    <article class="case">
+      <div class="meta"><span class="place">Hatton Station</span><span class="badge">Dismissed</span></div>
+      <blockquote>About 350 m to the station, but "no meaningful dedicated facilities for either pedestrians or cyclists".</blockquote>
+      <span class="ref">6006637 · Warwick</span>
+    </article>
+    <article class="case">
+      <div class="meta"><span class="place">Halsall</span><span class="badge">Dismissed</span></div>
+      <blockquote>"the quality and safety of the route materially limit its usefulness."</blockquote>
+      <span class="ref">6007428 · West Lancashire</span>
+    </article>
+  </div>
+  <p class="also">Also dismissed on the route: <span class="ref">6011736</span> Copthorne, <span class="ref">6009966</span> South Nutfield, <span class="ref">6010313</span> Newchapel, <span class="ref">6008528</span> Beare Green, <span class="ref">6003001</span> Kingswood, <span class="ref">6012481</span> Well Hill.</p>
+  <p class="also">The other side of the ledger. The tier was cited in favour in allowed appeals too, and the route evidence beside it is the tell: <a class="ref" href="case-6010973.html">6010973</a> Broadwas (Category 2, a daily bus; car reliance "no different for the residents of the appeal site and the residents of existing housing in the village"), <a class="ref" href="case-6011103.html">6011103</a> Biddulph Moor (larger village, lit footways), <a class="ref" href="case-6006497.html">6006497</a> Chaldon (Connectivity Tool band A, benchmarked against Category 2 settlements), <a class="ref" href="case-6008253.html">6008253</a> Aston Clinton (location agreed on a Transport Assessment; the highway authority called the 840 m walk to the bus stops "excessive" and took a bus contribution and a new footway). One Green Belt case passed GB7(1)(g)(iii) with no route facts at all: <a class="ref" href="case-6007484.html">6007484</a> Tarleton, where car reliance was "not unusual in a rural context". That inspector quoted the deleted 2024 sentence as if it were still in the Framework; nothing in TR3 says it. The 2026 rural wording cuts the other way. TR3(1)(e) says that "In rural areas, opportunities to improve walking, wheeling, cycling and public transport and enhance the connectivity of an area should be taken where they exist and can be supported by the development proposed", and at <a class="ref" href="case-6000903.html">6000903</a> Trewarmett the inspector held that TR3(1)(e) expects proposals "to take opportunities to improve rural connectivity" and that the scheme "has not been shown to do so". Expect the Tarleton argument at Claverdon; the answers are the route table below and a scheme that offers no footway, crossing or lighting.</p>
+</section>
+
+<section>
+  <h2>Claverdon, 26/01470/FUL</h2>
+  <p class="lede">Claverdon is a Category 3 Local Service Village in Stratford's Core Strategy and is washed over by the Green Belt, so it is not a <em>settlement</em> as the NPPF defines it (Annex B). The site is outside the village's built-up area boundary, so the tier gives it no plan support either. Five houses north of Station Road stand or fall on the route east to the services and the station:</p>
+  <div class="tablewrap">
+    <table class="route">
+      <thead><tr><th>On the route</th><th>What is there</th></tr></thead>
+      <tbody>
+        <tr><td>Footway</td><td>None on the site side of Station Road</td></tr>
+        <tr><td>Lighting</td><td>None on the eastward route</td></tr>
+        <tr><td>Traffic</td><td>40 mph limit from the village edge</td></tr>
+        <tr><td>Crossing</td><td>No formal crossing. The scheme offers a dropped kerb with tactile paving at the site frontage</td></tr>
+        <tr><td>Bus</td><td>Flexibus 510: one return journey, Wednesdays, on request</td></tr>
+        <tr><td>Train</td><td>Unstaffed request stop, no Sunday service</td></tr>
+      </tbody>
+    </table>
+  </div>
+  <p style="margin-top:12px">On the reasoning of Findon and Hatton Station, that is a car-reliant location, whatever Claverdon's place in the hierarchy. None of the allowed cases above had transport this thin: a Wednesday-only request bus and a request-stop station are nothing like the lit footways, secured off-site works and bus contribution at Aston Clinton.</p>
+  <p>Expect the dropped kerb to be offered as the "planned improvement" that makes the location sustainable under TR3(1)(a), or as the connectivity enhancement TR3(1)(e) asks for. It is neither. It is access for the five dwellings: it serves no existing movement, so it enhances nothing for the area, and it leaves every deficiency on the route beyond it untouched. What inspectors have accepted under (e) is of a different order, such as the 20 mph order, traffic calming, bus shelters and crossing points secured at Chaldon. The kerb also tells against the scheme. It admits that every walk from the site begins by crossing an unlit 40 mph road, and the highway authority's audit review (8 September 2026, item 5.1) recommends "sufficient lighting be provided in this area to remove the dark spot around the pedestrian crossing point", while the ecology consultee asks that boundary hedgerows are "not illuminated (as far as possible)". The one improvement on offer needs a further improvement to be safe, and no document reconciles the two.</p>
+</section>
+
+<div class="disclaimer">A plain-English note on planning policy and public appeal decisions, not legal advice. Quotations are checked against the source documents. &copy; Planning Distilled. Text, data and images on this page are released under the <a rel="license" href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 licence</a>: share and adapt them freely, with credit to Planning Distilled. Quotations from decision letters, plans and the Framework remain the copyright of their publishers.</div>
+
+<footer>
+  <strong>Sources.</strong> NPPF, August 2026: ¶8, Policies S3–S5, TR3, HO6(1)(b), GB7, Annex A(2), and Annex B, "Settlement". NPPF, December 2024: ¶83 and ¶110. Stratford-on-Avon Core Strategy 2011–2031 (July 2016): Policies CS.15 and CS.16 and Appendix 1; <em>Local Service Villages: Revised Categories</em> (2014); Core Strategy Inspector's Report (June 2016), ¶271. 26/01470/FUL consultation file: WCC Stage 1 Road Safety Audit review (8 September 2026), item 5.1; WCC Ecology response (24 August 2026). Planning Inspectorate appeal decisions, August to September 2026: 6006900, 6006637, 6007428, 6011736, 6009966, 6010313, 6008528, 6003001, 6012481; and, cited the other way, 6010973, 6011103, 6006497, 6008253, 6007484, 6000903, 6006722.
+</footer>
+</div>

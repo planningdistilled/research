@@ -1,0 +1,614 @@
+Appeal Decision
+Site visit made on 12 August 2026
+by Ann Veevers BA(Hons) PGDip(BCon) MRTPI
+an Inspector appointed by the Secretary of State
+Decision date: 22 September 2026
+
+
+Appeal Ref: 6007422
+Brookfields Farm, Longhill Lane, Hankelow CW3 0JQ
+•      The appeal is made under section 78 of the Town and Country Planning Act 1990 (as amended)
+       against a refusal to grant approval required under Article 3(1) and Schedule 2, Part 3, Class Q of the
+       Town and Country Planning (General Permitted Development) (England) Order 2015 (as amended).
+•      The appeal is made by Mr Ian Reade against the decision of Cheshire East Council.
+•      The application Ref is 25/3355/PRIOR-3Q.
+•      The development proposed is the conversion of an agricultural building into two single storey
+       dwellings.
+
+Decision
+1.       The appeal is allowed and prior approval is granted under the provisions of Article
+         3(1) and Schedule 2, Part 3, Class Q of the Town and Country Planning (General
+         Permitted Development) (England) Order 2015 (as amended) for prior approval for
+         the conversion of an agricultural building into two single storey dwellings at
+         Brookfields Farm, Longhill Lane, Hankelow CW3 0JQ in accordance with the
+         application 25/3355/PRIOR-3Q and the details submitted with it, including Drawing
+         No’s 200_01; 200_03 and 200_04 and subject to the additional conditions in the
+         schedule at the end of this decision:
+Procedural Matters
+2.       I have taken the description of development from the application form and
+         removed superfluous wording for conciseness.
+3.       During the course of the appeal the revised National Planning Policy Framework
+         (the Framework) was published. There are no substantive changes relevant to the
+         matters upon which prior approval is sought in the appeal before me and therefore
+         no interested parties would be prejudiced by my consideration of the 2026 version
+         of the Framework.
+4.       The appellant’s appeal submission includes a Schedule of Works1 (SoW) which
+         did not accompany the application to the Council, even though it is referred to in
+         other application documents2. The SoW provides further evidence in relation to the
+         Council’s reasons for refusal, rather than a fundamental change to the application.
+         Furthermore, through the appeal process, the Council and interested parties have
+         been provided with an opportunity to comment upon them. I therefore find that no
+         one involved in the appeal has been subjected to any substantive or procedural
+         unfairness as a result of their submission. Accordingly, I have had regard to the
+         SoW in my decision.
+
+1
+    Acorus, ‘Schedule of Works Conversion of Agricultural Building to Form Dwelling’, Barn B, dated August 2025.
+2
+    Acorus ‘Notification of a Proposed Change of Use of an Agricultural Building to a Dwelling’, dated August 2025.
+
+https://www.gov.uk/planning-inspectorate
+Appeal Decision 6007422
+
+
+5.       The appeal building forms part of a wider agricultural enterprise. A separate
+         application for approval under Article 3(1) and Schedule 2, Part 3, Class Q of the
+         Town and Country Planning (General Permitted Development) (England) Order
+         2015 (as amended) (the GPDO) for the change of use of a different building on the
+         agricultural enterprise to form four dwellings has also been refused by the
+         Council3. This is the subject of a separate appeal4 (the other appeal).
+Background
+6.       Under Class Q(c) of the GPDO, development is permitted for the change of use of
+         a building that is part of an established agricultural unit and any land within its
+         curtilage, together with building operations reasonably necessary to convert the
+         building, to a use falling within Class C3 (dwellinghouses) or to extend that
+         building, subject to limitations and conditions.
+7.       The Council may refuse the application where it considers that the proposed
+         development would not comply with, or that the developer has provided insufficient
+         information to enable the Council to establish whether the proposed development
+         complies with, the conditions, limitations or restrictions set out in Q1 and Q2.
+8.       The Council’s first reason for refusal relates to the extent of the works that would
+         be required to enable the building to function as a dwelling, which are perceived to
+         go beyond works that would reasonably be described as a conversion. While the
+         decision notice only refers to paragraph Q1.(j), the Council’s delegated officer
+         report also includes an assessment under Class Q(c), which similarly permits
+         building operations reasonably necessary to convert the building. The appellant
+         has addressed this matter in their appeal submissions. Therefore, I am satisfied no
+         party would be prejudiced by my proceeding to determine the appeal on the basis
+         of the requirements of both Q(c) and Q1.(j).
+9.       The Council’s second and third reasons for refusal refer to prior approval matters
+         relating to the location and siting of the building in proximity to other agricultural
+         buildings and land; and the transport and highway impacts of the proposal insofar
+         as they relate to parking provision and the effect on a Public Right of Way.
+10. Neither of these reasons for refusal refer to specific paragraphs of the GPDO.
+    However, the Council’s delegated officer report confirms that the relevant
+    paragraphs are those set out at Q2(1)(e) regarding the location or siting of the
+    building and Q2(1)(a) regarding the transport and highway impacts of the proposal.
+    The appellant and interested parties have addressed these paragraphs in their
+    appeal submissions. Therefore, I am satisfied that no interested party would be
+    prejudiced by my proceeding to determine the appeal on this basis.
+11. There is no dispute between the main parties about compliance with the remaining
+    paragraphs of Q1 or Q2(1). Based on the evidence before me and observations I
+    made at my site visit, I have no reason to take a different view.
+Main Issues
+12. Against the above background and the submitted evidence, the main issues are:
+
+
+
+3
+    LPA Ref: 25/3358/PRIOR-3Q, refused 28 October 2025.
+4
+    Appeal Ref: 6007456
+
+
+https://www.gov.uk/planning-inspectorate              2
+Appeal Decision 6007422
+
+
+         • whether the proposal would be permitted development, with particular regard to
+           paragraphs Q(c) and Q1.(j) and the extent of the building works; and, if it is
+           permitted development:
+         • whether, under the provisions of Q2(1)(a), the proposal would be acceptable in
+           relation to its transport and highways impacts, with particular regard to parking
+           and the effect on Public Right of Way 33 (PROW); and,
+         • whether, under the provisions of paragraph Q2(1)(e), the location or siting of
+           the building would make it impractical or undesirable for it to change to a use
+           falling within Class C3 (dwellinghouses) of the GPDO in terms of whether the
+           proposal would provide satisfactory living conditions for future occupiers, with
+           regard to disturbance and odours.
+Reasons
+Whether permitted development
+13. Permitted development rights under Class Q of the GPDO are a grant of planning
+    permission, subject to the prior approval requirements. Therefore, insofar as
+    relevant to this appeal, it is necessary in the first instance to determine whether the
+    proposal falls within the scope of permitted development.
+14. Paragraph Q1.(j) specifies that development is not permitted by Class Q if it would
+    consist of building operations other than (i) the installation or replacement of
+    windows, doors, roofs, exterior walls, or water, drainage, electricity, gas or other
+    services to the extent reasonably necessary for the building to function as a
+    dwellinghouse; and (ii) partial demolition to the extent reasonably necessary to
+    carry out building operations allowed by paragraph Q1.(j)(i).
+15. The operative part of criterion (i) is that those building operations would be
+    ‘reasonably necessaryt’, which also reflects the wording of Class Q(c). This is
+    expanded on in Planning Practice Guidance (PPG)5 which states the Class Q
+    permitted development right assumes that the agricultural building is capable of
+    functioning as a dwelling, and that it is only where the building is already suitable
+    for conversion to residential use that the building would be considered to have the
+    permitted development right.
+16. The appeal site includes a mono-pitch roof barn used for the storage of agricultural
+    and other equipment together with an area of land immediately to the rear (south).
+    The building is low in height, steel and timber framed, has a fibre-cement sheet
+    roof and a concrete floor which steps between bays to accommodate changing
+    levels on the site. The walls on three sides consist of single-skin blockwork, above
+    which is a mix of profiled metal sheeting or timber boarding. The remaining side is
+    partially open below a strip of timber boarding and partially enclosed by large
+    metal sheet doors. At the time of my visit the building appeared to be structurally
+    sound and in an overall good condition.
+17. The building would be converted to two dwellings. The existing structural frame
+    would remain to provide the main load-bearing element of the building. The
+    submitted SoW and accompanying application plans clearly identify how much of
+    the external envelope of the building would be retained. Aside from potentially
+
+5
+    Paragraph: 105 Reference ID: 13-105-20180615
+
+
+https://www.gov.uk/planning-inspectorate           3
+Appeal Decision 6007422
+
+
+         small areas of patch replacement between the existing large steel clad doors on
+         the front (north) elevation and the provision of new cladding to the front of bays G
+         and H, all the existing external metal and timber roof and wall cladding would be
+         retained.
+18. In terms of new works, the SoW identifies that an internal timber frame and internal
+    perimeter walls would be constructed to incorporate insulation and an airtight
+    membrane. A new loadbearing internal central party wall would be constructed in
+    studwork to separate the two dwellings. The two open-fronted bays would be
+    enclosed externally with metal sheeting and insulation would be provided beneath
+    the existing roof covering. Openings for the existing rooflights on the rear roof-
+    slope would be utilised to provide additional light into the building.
+19. No significant increase in loading is envisaged to the roof, which the SoW notes
+    would satisfy the relevant part of Building Regulations. No openings are proposed
+    to the east and west (side) elevations. Numerous door and window openings are
+    proposed to the north and south elevations, but there is nothing in the SoW to
+    suggest that the structural integrity of the existing external facing material would be
+    compromised as a result of creating these openings, particularly since the Council
+    acknowledge that the internal insulated structure would accommodate the load of
+    the windows. Although new cladding would be installed to the front of bays G and
+    H, this would comprise relatively small proportion of new external walls in the
+    context of the building as a whole.
+20. Internally, the Council is concerned that excavations, load-bearing bases and
+    footings would be required to support new walls, which would exceed what could
+    reasonably be described as a conversion. The PPG states that internal works do
+    not generally constitute development and, where necessary to enable a building to
+    function as a dwelling, internal works, including the installation of internal walls,
+    may be undertaken and are not prohibited under Class Q.
+21. Information in the SoW suggests that, with the exception of the party wall to
+    separate the two dwellings, internal walls would be self-supporting and constructed
+    in non-load bearing timber studwork constructed directly off the floor slab, which
+    would not require additional footings. Based on the information available, there is
+    no evidence to indicate that the condition of the existing floor slab would prevent
+    the proposed internal walls from being constructed or affect its stability once built.
+    However, the proposed party wall separating the two dwellings would be
+    constructed in load bearing studwork and would require the excavation of an
+    approximate 6.5m strip footing. Even though the excavation of footing is not listed
+    in paragraph Q1(j), such works would be internal and not relate to the
+    underpinning or support of the main structure of the building. The creation of a
+    party wall within the building would be negligible in the context of the proposed
+    works to the building as a whole, being mindful of the considerable amount of
+    existing external and structural framing material that would be retained.
+22. In this regard, the proposal differs from the appeal example provided by the
+    Council to support their case6. In that case, it is clear that substantial works to
+    excavate, underpin and provide new footings, as well as replace the existing floor
+    slab would be likely to be required. This is not comparable to the limited amount of
+    works envisaged in this case.
+
+6
+    Appeal Ref: PP/H4505/W/25/3363090
+
+
+https://www.gov.uk/planning-inspectorate   4
+Appeal Decision 6007422
+
+
+23. Neither the GPDO nor the PPG define the term ‘reasonably necessary’.
+    Consequently, this is a matter of planning judgement based on the nature and
+    extent of the proposed building operations. Although the totality of works required
+    to enable the building's conversion to residential use would be considerable, they
+    would not involve the substantial replacement of the building’s external fabric, and
+    the primary structural elements of the building would be retained.
+24. Consequently, I find that the cumulative extent of the works to facilitate the
+    proposed conversion of the agricultural building to residential use would fall within
+    the scope of operations reasonably necessary for the building to function as
+    dwellinghouses, in compliance with paragraphs Q(c) and Q1.(j). As there is no
+    dispute about paragraph Q1.(j)(ii) or any other part of paragraph Q1, the proposal
+    would be permitted development.
+Prior approval - transport and highway impacts
+25. The appeal building is located at the end of a long private access track from
+    Longhill Lane. The unmade track currently provides access to four dwellings and
+    agricultural land. It is also a PROW, which is not uncommon in rural areas. I note
+    comments from interested parties about the condition, length and width of the track
+    and that there are no passing places. However, in view of the limited number of
+    dwellings proposed in this appeal, and even if cumulatively taken with the four
+    additional dwellings proposed in the other appeal on the farmstead in the event
+    that appeal was allowed, I am satisfied there would not be an unacceptable
+    increase in the amount of traffic using the track or Longhill Lane.
+26. In reaching this conclusion, I have taken into account that any potential increase in
+    traffic movements from the proposed dwellings would be likely to be offset to a
+    certain extent by the potential reduction in traffic associated with the buildings’
+    agricultural use. Furthermore, the junction of the track with Longhill Lane is wide
+    and has adequate visibility and, due to the condition of the track, traffic speeds
+    would be low and the frequency of two vehicles passing would be very limited.
+    Additionally, in a rural area such as this I would anticipate that the occupiers of any
+    residential properties would be alert to the possibility of encountering some farm
+    traffic in the vicinity. The track is relatively straight, thus there would be clear
+    visibility for drivers of vehicles to see pedestrians using the PROW.
+27. While there would be construction traffic along the track during any conversion
+    works, given the scale of the proposal and that much of the building would be
+    retained, it would be unlikely to be significant and would be time-limited.
+28. I acknowledge there is no footway or lighting along the track, or Longhill Lane.
+    However, the GPDO, through the provisions of Class Q, anticipates that new
+    dwellings will be established in rural areas. As such, it would be unreasonable to
+    preclude development in every location where street lighting and footways are
+    absent. For the reasons given above, I therefore find that there would be no
+    unacceptable increase in the risk to highway safety as a result of the proposal.
+29. In relation to the Council’s concern about parking, the Site Location and Block
+    Plan7 submitted with the application shows the site edged red including the access
+    and drawn closely around the appeal building, encompassing part of the field to
+    the south, at the rear of the building. It would be an area of land, whether closed or
+
+7
+    Drawing No. 200-01
+
+
+https://www.gov.uk/planning-inspectorate   5
+Appeal Decision 6007422
+
+
+         unenclosed, immediately beside or around the building on an established
+         agricultural unit, closely associated with and serving the purposes of that building
+         and would be no larger than the area occupied by the appeal building. As such, it
+         would comply with the interpretation of curtilage at paragraph Q3 of Schedule 2,
+         Part 3 of the GPDO and would be the extent of the land that would be subject to
+         the change of use, were I to allow the appeal.
+30. From the proposed layout of the dwellings and information in the appellant’s
+    submissions, the land within this curtilage would be used as a garden for each
+    dwelling. This would be the area subject to the change of use, rather than, as
+    suggested by the Council, for parking associated with the proposed residential
+    use. This means that there would be no defined curtilage for the parking of
+    vehicles associated with the dwellings.
+31. Nevertheless, there is nothing in the GPDO which stipulates that the access to the
+    site and the areas of parking must be included within the curtilage. It should be
+    noted that curtilage can differ from the site edged red, indeed, there is no
+    requirement for a development proposed under Part 3 to include a curtilage. Thus,
+    a proposal can be determined within the terms of the GPDO and without the need
+    for reference to a curtilage. The procedure for applications for prior approval made
+    under Part 3 of the GPDO is set out in paragraph W and part (2)(b) of paragraph
+    W only requires the provision of a plan indicating the site and showing the
+    proposed development.
+32. It is important to note however, that development is not permitted under Class Q
+    where it would involve the change of use of land beyond the area defined as
+    curtilage, which in this case is clearly denoted by the hatched area within the site
+    edged red in the submitted plans. Development outside this area would require a
+    separate application for planning permission where its lawful use differs from that
+    proposed.
+33. In this respect, I saw at my site visit that the large area of hard standing fronting
+    the appeal building is already used for the shared parking of vehicles associated
+    with The Sycamores and Brookfields Farmhouse. It is of a sufficient size to
+    accommodate the parking of vehicles associated with these dwellings and the
+    proposed dwellings, and to allow for turning and manoeuvring. The area of
+    hardstanding is also gated and accessed separately from the wider agricultural
+    operation on the site. Consequently, I consider adequate parking facilities could be
+    provided for future occupants of the appeal building. Whether or not this would
+    require a separate permission is not an issue for me to determine in the context of
+    this prior approval application and, if required, is capable of being dealt with by the
+    parties outside the scope of this appeal.
+34. The Council refers to an appeal decision for a similar proposal under Class Q
+    where the Inspector in that case imposed a condition requiring the provision of
+    parking within the curtilage of the site8. However, that example is not the same as
+    the appeal before me insofar as the curtilage in this case would be used as private
+    outdoor amenity rather than for parking, thus, any parking provided to the front of
+    the building for occupants of the dwellings or their visitors would be outside the
+    defined curtilage.
+
+
+8
+    Appeal Ref: PP/J1869/W/25/3364410
+
+
+https://www.gov.uk/planning-inspectorate   6
+Appeal Decision 6007422
+
+
+35. Turning to matters concerning the PROW, on the basis of the evidence, a small
+    section of PROW would cross the south-west corner of the proposed curtilage. I
+    note the site edged red plan was amended to exclude the PROW during the
+    processing of the application, but this was not accepted by the Council. The
+    amended plan has not been submitted with the appeal. Regardless, it is not
+    unusual for PROW to cross private land. The key issue is that there is no
+    interference with the ability for members of the public to use the PROW and that
+    there is no diminution in its width, noting the comments of the Council’s Public
+    Rights of Way team in this regard. The identification of a curtilage in association
+    with the prior approval process would not, in itself, prevent the continued use of
+    the PROW.
+36. It may not be desirable for future occupants of the dwelling affected to have a
+    PROW in the garden, but I am mindful that the appellant has indicated a
+    willingness to reduce to size of the curtilage to avoid the PROW crossing through
+    it. Even though the curtilage is identified as that in the submitted site edge red plan
+    in this case, Paragraph W(13) of the GPDO enables prior approval to be granted
+    subject to conditions that are reasonably related to the matters requiring prior
+    approval. In this case, conditions could secure the submission and approval of
+    details of all boundary treatments. This could ensure that the PROW is excluded
+    from the area of land enclosed for residential use.
+37. Drawing the above together, from the evidence before me, I find the proposal
+    would provide adequate parking for future residents whom could safely access the
+    appeal site from the existing access track. It would also not lead to the loss or
+    degradation of a PROW. It would therefore satisfy paragraph Q2(1)(a) of Schedule
+    2, Part 3 of the GPDO and the provisions of paragraph W(10)(b), in relation to the
+    transport and highways impacts of the development.
+Prior approval - location and siting
+38. The appeal building is located within a wider agricultural enterprise. Two existing
+    dwellings associated with the unit lie to the north, beyond which is a large, open-
+    sided agricultural storage building. To the south of the building is a field, shortly
+    beyond which are two further dwellings that are not associated with the agricultural
+    enterprise; and to the west is the access track to the building. To the east is an
+    agricultural building which, at the time of my site visit, accommodated a few
+    calves, hay and agricultural equipment. This building is subject to the other appeal.
+39. The Council argues that the proximity of the appeal building and its garden area to
+    other buildings on the agricultural unit, which are predominantly for use in relation
+    to dairy farming, would be undesirable or impracticable for future occupants of the
+    building. However, the Council do not identify the nature of any potential harm.
+40. Impractical or undesirable are not defined in the GPDO. The PPG states that
+    impractical reflects that the location and siting would “not be sensible or realistic”,
+    and undesirable reflects that it would be “harmful or objectionable”. It goes on to
+    confirm that the decision maker should start from the premise that the permitted
+    development right grants planning permission, subject to the prior approval
+    requirements. That an agricultural building is in a location where planning
+    permission would not normally be granted for a new dwelling is not a sufficient
+    reason for refusing prior approval. Amongst other instances, the example of an
+    undesirable location would be where a building would be located adjacent to uses
+
+
+https://www.gov.uk/planning-inspectorate   7
+Appeal Decision 6007422
+
+
+         such as intensive poultry farming buildings, silage storage or building with
+         dangerous machines or chemicals9.
+41. Paragraph W(10)(b) of Schedule 2, Part 3 of the GPDO requires that regard be
+    had to the Framework so far as relevant to the subject matter of the prior approval
+    as if considering a planning application. Policy P3 of the Framework, amongst
+    other things, states that development proposals should provide healthy living
+    conditions for occupiers including in terms of avoiding exposure to levels of air,
+    noise, light or other sources of pollution which could have an unacceptable
+    adverse effect on health and the quality of life.
+42. The current lawful use of the appeal site and the surrounding land and buildings is
+    for agriculture, although I note the evidence indicates that the land surrounding the
+    buildings is part of a Biodiversity Net Gain (BNG) habitat bank through a BNG
+    registered conservation covenant. As such, the level of agricultural activity taking
+    place on this land would be limited for at least 30 years. However, this would not
+    prohibit all agricultural activity. Livestock grazing and hay cutting could typically still
+    take place on land subject to a BNG habitat bank.
+43. Therefore, even though I accept that the current farming enterprise is very limited
+    in scale and I do not doubt, from observations at my site visit, that the site as an
+    active farm operated by the appellant is ‘winding down’, it could be used more
+    intensively in future. Even as part of a BNG habitat bank, I see no compelling
+    reason why the modern, large open-sided building, the building subject of the other
+    appeal, yard areas and land could not potentially accommodate a considerable
+    number of livestock, farm vehicles and machinery, given the approximate 40
+    hectare extent of the land indicated in the appellant’s information.
+44. As such planning judgement is required as to the nature and intensity of activities
+    that could reasonably occur given the land-use, as well as the character of the
+    disturbance and odour likely to be generated by them. These could include from
+    the keeping of livestock, storage of equipment, chemicals, movements associated
+    with agricultural vehicles and other general agricultural practices. Such activities
+    are likely to take place at any time of the day or night and for 7 days a week.
+45. Despite this, given the distance between the other agricultural buildings and the
+    appeal building, together with the intervening dwellings, there would be sufficient
+    separation between these buildings and the agricultural activities that could take
+    place in and around them and the appeal building. Moreover, no windows are
+    proposed on the side (east) elevation that would face the building subject of the
+    other appeal. Access to the other agricultural buildings and much of the land is
+    separated from the hardstanding area immediately fronting the appeal building,
+    thus avoiding vehicular movements associated with the agricultural enterprise.
+46. I do not have the full details and circumstance of the case referred to by the
+    Council pertaining to Friths Farm10 to make a robust comparison with the appeal
+    before me, including where the building proposed for conversion is located in
+    relation to other buildings and the distances between them. Even so, I recognise
+    that the agricultural sector is dynamic and could be subject to change at any time,
+    with limited recourse to planning matters. This is already evident in relation to the
+    enterprise associated with the appeal before me insofar as land has been set
+
+9
+    Paragraph: 109 Reference ID: 13-109-20150305
+10
+     Appeal Ref: APP/Z2505/W/25/3367067
+
+
+https://www.gov.uk/planning-inspectorate           8
+Appeal Decision 6007422
+
+
+         aside as part of a BNG habitat bank. I am also mindful of the ‘agent of change’
+         principle referenced in Policy P4 of the Framework and the potential for tensions to
+         arise between agricultural operations taking place on the wider site and occupants
+         of the appeal building, who would be unlikely to be associated with those
+         operations.
+47. Nonetheless, even if the use of the remaining agricultural buildings and land on the
+    enterprise becomes more intensive in future, the appeal building sits between the
+    two dwellings associated with the agricultural enterprise and two separate
+    dwellings to the south, in a discrete and sloping corner of the wider site. Moreover,
+    I consider it very unlikely that large agricultural vehicles and machinery would use
+    the gated yard area in front of the appeal building and The Sycamores, or the field
+    access to the west side of the appeal building, to access the existing agricultural
+    buildings and land when there is a clear and more direct access to them.
+48. I therefore conclude, for the reasons given above, the location or siting of the
+    building would not make it otherwise impractical or undesirable for it to change
+    from agricultural use to a use falling within Class C3 (dwellinghouses), with
+    particular regard to the building’s proximity to other buildings used for agricultural
+    purposes, including for livestock. The proposal would therefore satisfy paragraph
+    Q2(1)(e) of Schedule 2, Part 3 of the GPDO and the provisions of paragraph
+    W(10)(b) in this regard.
+Other Matters
+49. In addition to the main issues I have addressed above, Hankelow Parish Council
+    and a neighbouring resident have raised several concerns, including the
+    agricultural operations and agricultural integrity; the potential for pollution to nearby
+    Birchall Brook; land contamination; the effect on the character of the area; historic
+    planning context of the site; utility supply; flooding and drainage; heating provision
+    and oil tanks; effect on national fuel line; infrastructure requirements; and the size
+    of outdoor amenity space.
+50. The application is not for planning permission and therefore not subject to the
+    policy in the Hankelow Neighbourhood Plan that requires a replacement building.
+    While paragraph W(10)(b) of the GPDO does make reference to having regard to
+    the Framework so far as relevant to the subject matter of the prior approval, as if
+    the application were a planning application, this does not require regard to the
+    Framework as a whole, only insofar as it is relevant to the subject matter of the
+    prior approval.
+51. PPG11 advises that the statutory requirements relating to prior approval are much
+    less prescriptive that those relating to planning applications. It goes on to say that
+    this is deliberate, as prior approval is a light-touch process, and it is important that
+    a local planning authority does not impose unnecessary onerous requirements on
+    developers nor seek to replicate the planning application system.
+52. I saw at my site visit that the site is in active agricultural use, albeit in a limited
+    capacity. I am also aware, from the appeal documentation, of the BNG habitat
+    bank pertaining to some of the wider site. Nevertheless, agricultural activities could
+    increase at the site, but I have taken this into account in my assessment of the
+    relevant prior approval matters.
+
+11
+     Paragraph: 028 Reference ID: 13-028-20140306
+
+
+https://www.gov.uk/planning-inspectorate            9
+Appeal Decision 6007422
+
+
+53. Matters relating to the appearance of the building, contamination and flood risk, as
+    matters relating to prior approval, have been considered by the Council and found
+    to be acceptable subject to conditions. I have no substantive evidence before me
+    to disagree.
+54. The appeal building is sited in close proximity to existing dwellings. I have no
+    evidence to suggest that any issues would occur in ensuring that the proposed
+    dwellings had access to utility services, including heating provision. Evidence
+    indicates the site is located within Flood Zone 1 and an area with a low likelihood
+    of surface water flooding. Concerns relating to surface water management and
+    treatment of foul water relating to the residential use of the building are necessary
+    and could be dealt with by conditions. There is no substantive evidence before me
+    to demonstrate that the proximity of a national fuel line below the access track
+    should render the conversion of the appeal building as unacceptable in relation to
+    the prior approval matters. The amount of outdoor space that can be provided for
+    dwellings created under Class Q is specifically limited by paragraph X of the
+    GPDO.
+55. I have not been provided with the details of the previous application on the site
+    referred to by the Parish Council12, nor of the, now closed, golf course. In any
+    event, the land remains in agricultural use. Any breach of covenant relating to the
+    building and land subject of this appeal would be a separate legal matter outside
+    the scope of the appeal.
+Conditions
+56. Paragraph W (13) of Schedule 2, Part 3 of the GPDO sets out that prior approval
+    may be granted subject to conditions reasonably related to the subject matter of
+    the prior approval. While the Council have suggested only one condition, I note
+    that other conditions have been suggested by the Council’s Regulatory Services
+    and Health team (RSH) and the Lead Local Flood Authority (LLFA). Therefore, I
+    sought the views of the main parties on suggested conditions. The Council did not
+    provide a response but I have taken the views of the appellant into account and
+    have had regard to the relevant tests in the Framework and the PPG in doing so.
+57. Paragraph Q.2(4) of Schedule 2, Part 3, Class Q of the GPDO states that
+    development under Class Q is permitted subject to the condition that it must be
+    completed within a period of 3 years starting with the prior approval date. It is
+    therefore not necessary to impose a separate time limit condition.
+58. Paragraph W (12) of Schedule 2, Part 3 of the GPDO requires the development to
+    be carried out in accordance with the approved details. As such I have listed the
+    plans in my formal decision for certainty. As these plans identify the materials for
+    the external surfaces, a condition relating to materials is not necessary.
+59. To ensure the PROW is not obstructed, and in the interests of the external
+    appearance of the proposal, and as highways and external appearance are
+    matters for prior approval, details of boundary treatment are reasonable and
+    necessary.
+60. The RSH team had no objection to the proposal subject to conditions regarding
+    contaminated land. There is no evidence to suggest that contaminated soil would
+
+12
+     LPA Ref: 23/4302N
+
+
+https://www.gov.uk/planning-inspectorate   10
+Appeal Decision 6007422
+
+
+       be brought onto the site, therefore a condition in relation to the importation of soils
+       is unreasonable and unnecessary. However, the details of the past use of the
+       building are unknown. Given land contamination is a prior approval matter, and
+       that there is the potential for contamination from the storage of building and
+       agricultural materials, a condition is proportionate, reasonable and necessary to
+       ensure that, should any contamination be identified within the site, this is fully
+       investigated and managed appropriately to protect surrounding and future
+       occupiers. I have re-worded the RSH condition in this regard for precision.
+61. To ensure satisfactory foul and surface water drainage is provided for future
+    occupants a condition is necessary to prevent harmful environmental effects and
+    to provide satisfactory living conditions for future occupiers.
+62. The RSH team’s suggested noise condition during construction works would not
+    be reasonable or necessary given the scale of the proposal, its time-limited nature
+    and that other legislation could address any concerns in this regard.
+63. The Council requested a condition requiring parking facilities for future residents.
+    However, this would fall outside the scope of this application.
+Conclusion
+64. As the proposal meets the requirements for prior approval and is permitted
+    development under Schedule 2, Part 3, Class Q of the GDPO, I therefore conclude
+    that the appeal should be allowed, and prior approval is granted, subject to the
+    standard conditions set out in paragraph Q.2 of Class Q and to the additional
+    conditions specified above.
+
+
+
+Ann Veevers
+INSPECTOR
+
+
+
+
+https://www.gov.uk/planning-inspectorate   11
+Appeal Decision 6007422
+
+
+
+  Schedule of Conditions, Prior Approval Ref:25/3355/PRIOR-3Q
+
+1. Prior to first occupation of the dwellings hereby permitted, details of the positions,
+   height, design, materials and type of boundary treatment to be erected shall be
+   submitted to and approved in writing by the local planning authority. The boundary
+   treatment shall be completed in accordance with the approved details before any
+   dwelling is first occupied and thereafter retained.
+2. Any contamination that is found during the course of the conversion of the
+   development hereby permitted not previously identified shall be reported
+   immediately to the local planning authority. Development on the part of the site
+   affected shall be suspended until a risk assessment has been carried out and
+   submitted to and approved in writing by the local planning authority. Where
+   unacceptable risks are found, the development shall not resume or continue until
+   remediation and verification schemes have been carried out in accordance with
+   details that shall first have been submitted to and approved in writing by the local
+   planning authority.
+3. Prior to occupation of the building as a dwelling a drainage scheme for the site,
+   based on sustainable drainage principles has been submitted to and approved in
+   writing by the local planning authority. The submitted details shall:
+     i) provide information about the method employed to delay and control the surface
+     water discharged from the building and the measures taken to prevent pollution of
+     the receiving groundwater and/or surface waters;
+     ii) include details how foul and surface water will drain on separate systems;
+     iii) include details of rainwater harvesting butts;
+     iv) include a timetable for its implementation; and,
+     v) provide, a management and maintenance plan for the lifetime of the
+     development.
+     The development shall be carried out in accordance with the approved details. The
+     foul and surface water drainage system shall be managed and maintained
+     thereafter in accordance with the approved management and maintenance plan.
+
+
+                                                END
+
+
+
+
+https://www.gov.uk/planning-inspectorate   12
+

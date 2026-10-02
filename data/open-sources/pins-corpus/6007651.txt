@@ -1,0 +1,536 @@
+Appeal Decision
+Inquiry held on 11 August 2026
+Site visit made on 10 August 2026
+by Bhupinder Thandi BA (Hons) MA MRTPI
+an Inspector appointed by the Secretary of State
+Decision date: 2nd September 2026
+Appeal Ref: 6007651
+Land to the south of Harbury Lane and east of Vickers Way
+•   The appeal is made under section 78 of the Town and Country Planning Act 1990 (as amended)
+    against a refusal to grant planning permission.
+•   The appeal is made by McCarthy and Stone Retirement Lifestyles Ltd against the decision of
+    Warwick District Council.
+•   The application Ref is W24/1099.
+•   The development proposed is erection of retirement living apartments with associated access, car
+    parking, landscaping, ancillary facilities and associated works.
+
+Decision
+1. The appeal is allowed and planning permission is granted for the erection of
+   retirement living apartments with associated access, car parking, landscaping,
+   ancillary facilities and associated works at land to the south of Harbury Lane and
+   east of Vickers Way in accordance with the application W24/1099 subject to the
+   conditions set out in the schedule to this decision.
+Preliminary Matters
+2. Following determination of the planning application the appellant has produced
+   additional information in the form of an updated Financial Viability Assessment
+   (FVA) and a Technical Memorandum on Noise (TMN). In my judgement this
+   information does not represent a substantial difference or a fundamental change to
+   the scheme. I have, therefore, paid regard to this information in assessment of the
+   appeal. Having regard to the Holborn Studios judgement1 which follows on from
+   Wheatcroft2 I am satisfied that no interested parties have been prejudiced by my
+   approach.
+3. Upon receipt of this information and following a review of their case Warwick
+   District Council (WDC) confirmed that viability matters had been addressed and
+   noise risk reduced such that they no longer wish to defend the reasons for refusal3.
+   I have borne this in mind in coming to my decision.
+4. Following conclusion of the Inquiry a new National Planning Policy Framework (the
+   Framework) was published. My decision is made in the context of this revised
+   Framework, and I am satisfied that no interested party has been prejudiced by my
+   approach.
+
+
+
+1
+  Holborn Studios Ltd v The Council of the London Borough of Hackney [2017] EWHC 2823 (Admin)
+2
+  Bernard Wheatcroft Ltd v Secretary of State for the Environment [JPL, 1982, P37]
+3
+  Warwick District Council Addendum to Statement of Case (CD-B6a)
+
+https://www.gov.uk/planning-inspectorate
+Appeal Decision 6007651
+
+
+Main Issues
+5. The main issues are:
+         •    Whether the proposal makes adequate provision for infrastructure contributions
+              arising from the development; and
+         •    Whether the proposed development would provide satisfactory living conditions
+              for future occupiers with regard to noise.
+Reasons
+Infrastructure contributions
+6. The Warwick District Local Plan (2017) (WDLP) sets out that new development
+   places pressure on existing infrastructure and therefore it is important that
+   proposals provide for, or contribute towards investment in infrastructure including
+   schools, open space, health and community facilities.
+7. WDLP Policy DM2 states that developments will be expected to comply with other
+   policies in the local plan, including policies that refer to the provision and funding of
+   infrastructure, unless it can be demonstrated that the policies will result in the
+   development being unviable. In order to do so proposals must be accompanied by
+   a viability assessment which will be independently reviewed.
+8. In simple terms, viability is assessed by comparing the Residual Land Value (RLV)
+   with the Benchmark Land Value (BLV). Where the RLV exceeds the BLV, the
+   scheme generates a surplus and is considered viable. Where the RLV is lower than
+   the BLV, the scheme shows a deficit and is considered unviable.
+9. The RLV is calculated by taking the Gross Development Value and deducting
+   development costs, including developer profit and any planning obligations. The
+   BLV is established by reference to the site’s Existing Use Value, together with an
+   appropriate return to the landowner, or by reference to a policy-compliant
+   Alternative Use Value scheme.
+10. The appellant’s FVA identifies a RLV of around £0.168 million. After allowing for a
+    BLV of around £0.435 million, the scheme would show a deficit of around £0.267
+    million. On that basis, the FVA concludes that the proposed development is not
+    viable and could not support contributions towards affordable housing or other
+    infrastructure as required by the WDLP.
+11. WDC commissioned an independent review of the appellant’s FVA. That review
+    confirms that the appeal scheme would not generate a surplus from which planning
+    contributions could be funded. WDC has stated that it is therefore satisfied that the
+    absence of planning contributions has been justified4.
+12. Although there are some differences in professional opinion between the
+    appellant’s and WDC’s experts on sales assumptions, some construction costs and
+    the RLV, both the assessment and the independent review conclude that the
+    scheme is not viable. On the available evidence, I can only reach the same
+    conclusion. There is nothing before me that would lead me to reach a different one.
+
+
+
+4
+    Warwick District Council Planning Proof of Evidence (CD-E6)
+
+
+https://www.gov.uk/planning-inspectorate                  2
+Appeal Decision 6007651
+
+
+13. Accordingly, it has been satisfactorily demonstrated that the development as
+    proposed is not viable and cannot provide for, or contribute towards affordable
+    housing or other infrastructure in the district.
+14. As such, there would be no conflict with WDLP Policies DM1 and DM2 which,
+    amongst other things, require contributions towards measures to make
+    development acceptable in planning terms or infrastructure unless it can be
+    adequately demonstrated that they would make the scheme unviable.
+Living conditions for future occupiers
+15. The appeal site forms part of the Heathcote urban extension. It lies between
+    Harbury Lane; a busy thoroughfare and a local centre containing retail and
+    commercial uses.
+16. The noise assessment submitted with the planning application was undertaken in
+    2024. Because the monitoring equipment was positioned along the perimeter, the
+    assessment used a conservative distance-loss methodology to predict noise levels
+    at the façade.
+17. At the Inquiry, I was advised that the gold standard is to position monitoring
+    equipment at the façade, as the distance-loss assumption methodology carries a
+    margin of error. I was also told that noise assessments of this type generally have a
+    shelf life of around 18 months.
+18. Given the length of time that has passed since the original assessment further
+    noise measurements were taken with the monitoring equipment positioned at the
+    proposed façade. Consistent with the earlier assessment, the TMN identifies road
+    traffic as the main source of noise, although at lower levels than previously
+    recorded. Even so, the measured levels would still exceed recommended
+    maximum noise levels published by the World Health Organization. In response,
+    the appellant proposes mitigation comprising an acoustic barrier along Harbury
+    Lane, to be positioned behind the proposed soft landscaping, together with acoustic
+    glazing and a Mechanical Ventilation with Heat Recovery (MVHR) system.
+19. Taking account of the most up-to-date measurements and the proposed mitigation,
+    acceptable noise levels for the outdoor amenity area and ground-floor apartments
+    would be achieved. Residents on the upper floors would experience higher noise
+    levels. However, the use of acoustic glazing and the MVHR system would mitigate
+    those effects to a degree.
+20. In this regard, residents of upper-floor apartments facing Harbury Lane may
+    experience higher noise levels at certain times of the day if windows are open.
+    However, that would not be particularly unusual for developments located close to
+    busy roads or commercial premises and would not amount to serious annoyance
+    based on the recorded measurements. Occupiers would also be able to choose
+    whether to use the MVHR system or open windows for ventilation or fresh air or to
+    control noise.
+21. In reaching my decision, I have had regard to WDC’s withdrawal of its objection to
+    the proposal in respect of noise citing that the most up-to-date evidence suggests
+    that the effects would be reduced from “significant adverse” to “adverse” subject to
+    the proposed mitigation being secured by condition.
+
+
+
+https://www.gov.uk/planning-inspectorate   3
+Appeal Decision 6007651
+
+
+22. As such, I am satisfied that the proposed development would provide adequate
+    living conditions for future occupiers with regard to noise. It would accord with
+    WDLP Policy BE3 which, amongst other things, requires development to provide
+    acceptable standards of amenity for future users and occupiers.
+Other Matters
+23. The appellant’s written evidence5 draws together information from the Coventry and
+    Warwickshire Joint Strategic Housing Market Assessment (2013) and the Coventry
+    and Warwickshire Housing and Economic Development Needs Assessment (2022)
+    and which indicate that at a local level there is an evidenced need for housing for
+    older people which is likely to become more acute given that Warwick has an
+    ageing population and which is projected to substantially increase in the future.
+24. This need is compounded by a shortfall of older persons housing and
+    notwithstanding the presence of other developments and unsold properties nearby I
+    am satisfied that demand for retirement apartments exists in the local area.
+25. Whilst comments have been made that the site should be preserved for
+    recreational, community or town centre uses my attention is focused upon the
+    development proposals before me. It is not for me to speculate on what alternative
+    uses may or may not be acceptable. In addition, I am not aware that there is an
+    obligation upon the appellant to promote or market the site for alternative uses.
+26. I understand that the extant planning permission for offices on the site was for a
+    specific end-user rather than a speculative development. They have since moved
+    into offices in Warwick and no longer require office space in this location.
+    Accordingly, there is no certainty that the site would come forward for an alternative
+    employment use. Furthermore, the proposed development would generate
+    temporary jobs during the construction phase and permanent employment
+    opportunities. Occupiers would also support local businesses through increased
+    expenditure. Therefore, there would be economic benefits resulting from the
+    proposal.
+27. Notwithstanding the comments received regarding its environmental impact the
+    appellant details6 that the proposed development has been designed to be net zero
+    in operation utilising a fabric first approach and green and renewable technologies
+    and water efficiency measures. In addition, it would result in a net gain in
+    biodiversity. Furthermore, the vegetation along Harbury Lane would be retained
+    and managed rather than removed.
+28. There is no substantive evidence before me to suggest that future residents would
+    be exposed to unacceptable levels of air pollution.
+Conditions
+29. In the event of the appeal being allowed, the Council suggested that 23 conditions
+    would be necessary to make the scheme acceptable. I have considered the
+    suggested conditions in light of the Framework and the Planning Practice
+    Guidance. In the interests of precision and clarity I have undertaken some
+    rewording of the conditions suggested.
+
+
+5
+    Housing for Older People: Needs and Supply Assessment (CD-A11)
+6
+    Energy Statement and Policy NZC3 Response (dated 23.07.2024) (CD-A9)
+
+
+https://www.gov.uk/planning-inspectorate              4
+Appeal Decision 6007651
+
+
+30. In addition to the standard time limit condition, I have imposed a condition
+    specifying the approved plans as this provides certainty. A condition restricting the
+    occupancy of the units to those aged 55 and over is necessary.
+31. To protect the living conditions of nearby occupiers and the safe and efficient
+    operation of the local highway network a condition for submission of a construction
+    management plan has been imposed.
+32. Conditions for samples of the external facing materials, hard and soft landscaping,
+    site levels, tree and hedgerow protection and external lighting have been imposed
+    so as to ensure the satisfactory appearance of the development.
+33. In the interests of minimising flood risk and promoting sustainability conditions for
+    details of a surface water drainage system, embodied carbon reduction, water
+    efficiency and electric vehicle charging points have been imposed.
+34. To ensure satisfactory living conditions for future occupiers and the safe operation
+    of the development, conditions are necessary in relation to refuse and recycling
+    storage, noise mitigation, limits on noise from the MVHR system, unexpected land
+    contamination, and adequate water supplies and hydrants for firefighting.
+35. Conditions for parking, turning areas and cycle storage are necessary in the
+    interests of the safe and efficient operation of the local highway network.
+Conclusion
+36. For the reasons set out above the appeal succeeds.
+
+
+
+B Thandi
+INSPECTOR
+
+
+
+
+https://www.gov.uk/planning-inspectorate   5
+Appeal Decision 6007651
+
+
+APPEARANCES
+FOR THE APPELLANT:
+John Barrett of Counsel instructed by Carla Fulgoni-Rowe
+Christopher Butt                       The Planning Bureau
+Stephen Gosling                        24 Acoustics
+Andrew Murphy                          Atitlan Consulting
+
+
+FOR THE LOCAL PLANNING AUTHORITY:
+Sioned Davies of Counsel instructed by Uraw Matloob
+Matthew Shirley                        Environmental Health Officer
+Erin Weatherstone                      Principal Planning Officer
+
+
+
+
+https://www.gov.uk/planning-inspectorate          6
+Appeal Decision 6007651
+
+
+Schedule of Conditions
+     1)       The development hereby permitted shall begin not later than 3 years from the
+              date of this decision.
+     2)       The development hereby permitted shall be carried out in accordance with
+              the following approved plans:
+
+
+           MI-2895-02-AC-001                   Location Plan
+           MI-2895-02-AC-003 Rev A*            Site Plan
+           MI-2895-02-AC-004 Rev A*            Ground Floor Plan
+           MI-2895-02-AC-005 Rev A*            First Floor Plan
+           MI-2895-02-AC-006 Rev A*            Second Floor Plan
+           MI-2895-03-AC-007 Rev A             Roof Plan
+           MI-2895-02-AC-008 Rev A*            Material Elevations 1 of 2
+           MI-2895-02-AC-009 Rev A*            Elevations 2 of 2
+           MI-2895-03-AC-0010 Rev A*           Proposed Street Scene
+           MI-2895-03-LS-001 101 Rev           Landscape Layout
+           A*
+           MI-2895-03-LS-002 201 Rev A         Planting Plan
+           2084-KC-XX-YTREE TCP01              Tree Constraints Plan
+           Rev 0
+           2084-KC-XX-YTREE-TPP01              Tree Protection Plan
+           Rev 0
+           MI-2895-03-EN-001-P02               Finished Levels and Retaining Walls
+           MI-2895-03-EN-002-P02               Outline Drainage Strategy
+           MI-2895-03-EN-004-P02               Exceedance Flow Paths
+           MI-2895-03-EN-005-P02               Proposed Surface Water Catchment
+                                               Areas
+           EV - 5814 - 04 - AC - 9109 -        Refuse Store Plans
+           C01 -G Rev C01
+                                               Mobility Scooter Store Plans (Store
+                                               PS48.50 model)
+
+
+     3)       Before any development takes place, and before any equipment, machinery
+              or materials are brought on to the site, the tree and hedgerow protection
+              scheme as shown on the Tree Protection Plan (TPP) Drawing number: 2084-
+              KC-XX-YTREE-TPP01 Rev0 shall be established in accordance with the
+              details shown on the TPP. The scheme of tree and hedgerow protection shall
+              remain in place until completion of the development. Nothing shall be stored
+              or placed in any area fenced in accordance with this condition, and the
+              ground levels within those areas shall not be altered, nor shall any
+              excavation be made.
+
+https://www.gov.uk/planning-inspectorate   7
+Appeal Decision 6007651
+
+
+     4)       No development shall take place until a Construction Management Plan
+              (CMP) has been submitted to and approved in writing by the local planning
+              authority. The CMP shall provide for: the parking of vehicles of site
+              operatives and visitors; site working hours and delivery times; the loading
+              and unloading of plant and materials; the storage of plant and materials used
+              in constructing the development; the erection and maintenance of a security
+              hoarding including decorative displays and facilities for public viewing where
+              appropriate; wheel washing facilities and other measures to ensure that any
+              vehicle, plant or equipment leaving the site does not carry mud or deposit
+              other materials onto the public highway; measures to control the emission of
+              dust and dirt during construction, together with any details in relation to noise
+              and vibration; and a scheme for recycling / disposing of waste resulting from
+              demolition and construction works. The development shall be carried out in
+              accordance with the approved CMP.
+     5)       No development shall take place until a hard and soft landscaping scheme
+              has been submitted to and approved in writing by the local planning authority.
+              Details of hard landscaping works shall include boundary treatment, including
+              full details of the proposed boundary walls, railings and gates to be erected,
+              specifying the colour of the railings and gates; footpaths; and hard surfacing,
+              which shall be made of porous materials or provision shall be made for direct
+              run-off of water from the hard surface to a permeable or porous area. The
+              hard landscaping works shall be completed in accordance with the approved
+              details within three months of the first occupation of the development hereby
+              permitted; and all planting shall be carried out in accordance with the
+              approved details in the first planting and seeding seasons following first
+              occupation. The soft landscaping scheme shall identify the full species, size
+              and location of any soft landscaping.
+              Any tree(s) or shrub(s) which within a period of five years from the
+              completion of the development dies, is removed or becomes in the opinion of
+              the local planning authority seriously damaged, defective or diseased shall
+              be replaced in the next planting season with another of the same size and
+              species as that originally planted. All hedging, tree(s) and shrub(s) shall be
+              planted in accordance with British Standard BS4043 - Transplanting Root-
+              balled Trees and BS4428 - Code of Practice for General Landscape
+              Operations.
+     6)       No development shall take place until a detailed surface water drainage
+              scheme for the site, based on sustainable drainage principles has been
+              submitted to and approved in writing by the local planning authority. The
+              scheme shall subsequently be implemented in accordance with the approved
+              details before the development is first occupied. The scheme to be submitted
+              shall:
+              Limit the discharge rate generated by all rainfall events up to and including
+              the 1 in 100 year (plus an allowance for climate change) critical rain storm to
+              the QBar Greenfield runoff rate of 2l/s for the site in line with the approved
+              surface water drainage strategy (ref: MI-2895-03-EN-002, revision P01,
+              dated 12/12/24).
+              Where the drainage scheme proposes to connect into a third party asset, for
+              example a public sewer, further information should be provided regarding the
+              ownership, purpose, location and condition of this asset along with
+
+https://www.gov.uk/planning-inspectorate   8
+Appeal Decision 6007651
+
+
+              confirmation of the right to connect into it. This could take the form of land
+              ownership plans showing riparian ownership, land drainage consent, flood
+              risk activity permit or agreement under Section 106 of the Water Industry Act
+              (1991). Evidence of a CCTV survey should be submitted demonstrating the
+              condition/exact location of the existing public sewers and the drainage to the
+              south of the site.
+              Provide drawings / plans illustrating the proposed sustainable surface water
+              drainage scheme. The strategy agreed to date may be treated as a minimum
+              and further source control SuDS should be considered during the detailed
+              design stages as part of a ‘SuDS management train’ approach to provide
+              additional benefits and resilience within the design.
+              Provide detail drawings including cross sections, of proposed features such
+              as attenuation features, flow controls and outfall structures. These should be
+              feature-specific demonstrating that such the surface water drainage
+              system(s) are designed in accordance with ‘The SuDS Manual’, CIRIA
+              Report C753.
+              Provide detailed, network level calculations demonstrating the performance
+              of the proposed system. This should include: Suitable representation of the
+              proposed drainage scheme, details of design criteria used (incl. consideration
+              of a surcharged outfall), and justification of such criteria where relevant.
+              Simulation of the network for a range of durations and return periods
+              including the 1 in 2 year, 1 in 30 year and 1 in 100 year plus 40% climate
+              change events
+              Results should demonstrate the performance of the drainage scheme
+              including attenuation storage, flows in line with agreed discharge rates,
+              potential flood volumes and network status. Results should be provided as a
+              summary for each return period.
+              Evidence should be supported by a suitably labelled plan/schematic
+              (including contributing areas) to allow suitable cross checking of calculations
+              and the proposals.
+              Provide plans such as external levels plans, supporting the exceedance and
+              overland flow routeing provided to date. Such overland flow routing should:
+              Demonstrate how runoff will be directed through the development without
+              exposing properties to flood risk.
+              Consider property finished floor levels and thresholds in relation to
+              exceedance flows. The LLFA recommend FFLs are set to a minimum of
+              150mm above surrounding ground levels.
+              Recognise that exceedance can occur during any storm event due to a
+              number of factors therefore exceedance management should not rely on
+              calculations demonstrating no flooding.
+     7)       No development shall take place until a further Energy Statement which
+              addresses the requirements of Policy NZC3 has been submitted to and
+              approved in writing by the local planning authority. The statement shall
+              demonstrate how the embodied carbon of the proposed materials to be used
+              in the development has been considered and reduced where possible,
+              including with regard to the type, life cycle and source of materials to be
+
+
+https://www.gov.uk/planning-inspectorate   9
+Appeal Decision 6007651
+
+
+              used. The development shall be carried out in accordance with the approved
+              details.
+     8)       No development shall be carried out above slab level until details of the
+              finished floor levels of all buildings, together with details of existing and
+              proposed site levels on the site and the relationship with adjacent land and
+              buildings, have been submitted to and approved in writing by the local
+              planning authority. The development shall be carried out in accordance with
+              the approved details.
+     9)       No development shall be carried out above slab level until samples of the
+              materials to be used in the construction of the external surfaces of the
+              development hereby permitted have been submitted to and approved in
+              writing by the local planning authority. The development shall be carried out
+              in accordance with the approved samples.
+     10)      The development hereby permitted shall not be occupied until the car parking
+              and manoeuvring areas indicated on the approved drawings have been laid
+              out and thereafter those areas shall be kept marked out and available for
+              such use at all times.
+     11)      The development hereby permitted shall not be occupied until details of cycle
+              parking facilities have been submitted to and approved in writing by the local
+              planning authority. The cycle parking facilities shall be implemented prior to
+              first occupation and made available for use in accordance with the approved
+              details and thereafter those facilities shall remain available for use at all
+              times.
+     12)      The development hereby permitted shall not be occupied until a scheme for
+              the provision of adequate water supplies and fire hydrants necessary for
+              firefighting purposes at the site, has been submitted to and approved in
+              writing by the local planning authority. The approved scheme shall be
+              implemented prior to first occupation and maintained thereafter for the
+              lifetime of the development.
+     13)      The development hereby permitted shall not be occupied until a Verification
+              Report for the installed surface water drainage system for the site based on
+              the approved Drainage Strategy Report (HLW-AJP-XX-XX-RP-C-0900, dated
+              25/2/25) has been submitted in writing by a suitably qualified independent
+              drainage engineer and approved in writing by the local planning authority.
+     14)      The development hereby permitted shall not be occupied until a detailed, site
+              specific drainage maintenance plan has been submitted to and approved in
+              writing by the local planning authority, The development shall be carried out
+              in accordance with the approved details.
+     15)      The development hereby permitted shall not be occupied until three 7kWh
+              (minimum) electric vehicle recharging points have been installed in
+              accordance with details first submitted to and approved in writing by the local
+              planning authority. Once the electric vehicle recharging points have been
+              installed, the following verification details shall be submitted to and approved
+              in writing by the local planning authority: (1). Plan(s)/ photograph(s) showing
+              the location of the electric vehicle recharging points; (2). A technical data
+              sheet for the electric vehicle recharging point infrastructure; and (3).
+              Confirmation of the charging speed in kWh. The electric vehicle recharging
+
+
+https://www.gov.uk/planning-inspectorate   10
+Appeal Decision 6007651
+
+
+              points shall be thereafter retained in accordance with the approved details for
+              the lifetime of the development unless being upgraded.
+     16)      The development hereby permitted shall not be occupied until details of
+              refuse and recycling storage areas for the development including, the size,
+              location and the materials and heights of any enclosures have been
+              submitted to an approved in writing by the local planning authority. The
+              refuse and recycling storage areas shall be constructed in accordance with
+              the approved details and made available for use by the occupants of the
+              development. Thereafter those areas shall be kept free of obstruction and be
+              available at all times for the storage of refuse and recycling associated with
+              the development. Refuse and recycling storage containers must be stored
+              within the refuse and recycling storage area shown on the approved plans,
+              unless when being presented on street for collection.
+     17)      The development hereby permitted shall not be occupied until a scheme
+              showing how a water efficiency standard of 110 litres per person per day
+              based on an assumed occupancy rate of 2.4 people per household (or higher
+              where appropriate) will be achieved has been submitted to and approved in
+              writing by the local planning authority. No unit shall be first occupied until the
+              works within the approved scheme have been completed in accordance with
+              the approved details and thereafter retained and maintained in accordance
+              with manufacturer's specifications.
+     18)      The development hereby permitted shall not be occupied until the scheme to
+              protect residents of the development from road traffic noise entering
+              habitable rooms, as detailed in 24 Acoustics technical report R10673-1 Rev 3
+              dated 8th August 2024 (glazing and MVHR ventilation) and technical memo
+              R10673-2 Rev 0 dated 2nd July 2026 (noise barrier) has been implemented.
+              The measures shall be retained and maintained thereafter for the lifetime of
+              the development.
+     19)      In the event that contamination is found at any time when carrying out the
+              approved development that was not previously identified it must be reported
+              in writing immediately to the local planning authority. An investigation and risk
+              assessment must be undertaken, and where remediation is necessary, a
+              remediation scheme must be submitted to and approved in writing by the
+              local planning authority. Following completion of measures identified in the
+              approved remediation scheme a verification report must be prepared, which
+              is subject to the approval in writing of the local planning authority.
+     20)      No external lighting or illumination of any part of the building or the site shall
+              be installed or operated until details of such measures shall have been first
+              submitted to and approved in writing by the local planning authority. Such
+              works, and use of that lighting and/or illumination, shall be carried out and
+              operated only in accordance with the approved details.
+     21)      Apart from the requirements of Policy NZC3 which are secured by condition
+              8, the development hereby permitted shall be carried out in accordance with
+              the details set out in the approved Energy Statement by Focus dated October
+              2025.
+     22)      Each apartment hereby permitted shall only be used and occupied as
+              independent self-contained C3 use retirement accommodation for a person
+              or persons who have a minimum age of 55 years of age
+
+
+https://www.gov.uk/planning-inspectorate    11
+Appeal Decision 6007651
+
+
+     23)      Noise from the mechanical ventilation system installed pursuant to this
+              planning permission shall not exceed Noise Rating NR25 in any non-
+              communal habitable room, as measured using the procedures in the ANC
+              guideline document “Measurement of Sound in Buildings” dated June 2020.
+
+
+                                           END OF SCHEDULE
+
+
+
+
+https://www.gov.uk/planning-inspectorate   12
+

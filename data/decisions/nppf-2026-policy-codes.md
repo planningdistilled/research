@@ -1,0 +1,135 @@
+# NPPF August 2026 — policy code list
+
+Extracted from open:nppf/NPPF-August-2026.pdf. Use these codes (with paragraph/limb suffixes, e.g. GB7(1)(g)(iii)) in case frontmatter. Full text: run pdftotext on the PDF.
+
+- PM1: Spatial development strategies
+- PM2: Local plans
+- PM3: Minerals and waste plans
+- PM4: Supplementary plans
+- PM5: Neighbourhood plans
+- PM6: General principles for plan-making
+- PM7: Initiating plan-making for local plans and minerals and waste plans
+- PM8: Evidence for plan-making
+- PM9: Identifying and assessing land for development
+- PM11: Demonstrating cooperation between plan-making authorities
+- PM12: Developer contributions
+- PM13: Setting standards
+- PM14: Examining spatial development strategies
+- PM15: Examining local plans and minerals and waste plans
+- PM17: Examining neighbourhood plans
+- DM1: Preparing development proposals
+- DM2: Information requirements
+- DM3: Determining development proposals
+- DM4: Emerging development plan proposals
+- DM5: Development viability
+- DM6: Use of planning conditions and obligations
+- DM7: Relationship with other regulatory regimes
+- DM8: Unauthorised development and enforcement
+- DM9: Use of development orders
+- DM10: Removal of national permitted development rights
+- S1: Positive plan-making
+- S2: Producing a spatial strategy
+- S3: Presumption in favour of sustainable development
+- S4: Principle of development within settlements
+- S5: Principle of development outside settlements
+- S6: Neighbourhood plans and the presumption
+- CC1: Planning for climate change
+- CC2: Mitigation of climate change
+- CC3: Adaptation to climate change
+- HO1: Assessing the need for homes
+- HO3: Providing land for homes
+- HO4: Land for strategic site development
+- HO5: Meeting the needs of different groups
+- HO6: Planning for a diverse mix of sites
+- HO7: Meeting the need for homes
+- HO8: Providing affordable homes
+- HO9: Specialist forms of accommodation
+- HO10: Exception sites
+- HO11: Isolated homes in the countryside
+- HO12: Traveller sites
+- HO13: Build out of residential and strategic sites
+- E1: Providing the conditions for long-term economic growth
+- E2: Meeting the need for business land and premises
+- E3: Freight and logistics
+- E4: Rural business development
+- TC1: Planning for town centres
+- TC2: Development in town centres
+- TC3: Main town centre uses outside town centres
+- TC4: Assessing the impact of development on town centres
+- CO1: Proposals for telecommunications infrastructure
+- CO2: Supporting information for telecommunications infrastructure proposals
+- W1: Planning for energy and water
+- W2: Securing renewable and low carbon energy and electricity network infrastructure
+- W3: Renewable and low carbon energy development and electricity network
+- W4: Water infrastructure
+- M1: Planning for a sufficient supply of minerals
+- M2: Safeguarding mineral resources and infrastructure through plan-making
+- M3: Assessing the benefits of mineral development
+- M4: Considering the impacts of mineral development
+- M5: Development involving peat, coal or onshore oil and gas
+- M6: Safeguarding mineral resources and infrastructure through decision-making
+- L1: Planning for an effective use of land
+- L2: Making effective use of land
+- L3: Achieving appropriate densities
+- GB1: Establishing new Green Belts
+- GB2: Assessing existing Green Belt land
+- GB4: Defining Green Belt boundaries
+- GB5: Beneficial uses of Green Belt land
+- GB6: Control of development in the Green Belt
+- GB7: Development which is not inappropriate in the Green Belt
+- GB8: The Golden Rules
+- DP1: A strategy for design
+- DP2: Local design guides, design codes and masterplans
+- DP3: Key principles for well-designed places
+- DP4: The design process
+- TR1: Vision-led approach to planning for transport
+- TR2: Local parking standards
+- TR3: Locating development in sustainable locations
+- TR4: Street design, access and parking
+- TR5: Roadside facilities
+- TR6: Assessing transport impacts
+- TR7: Marine ports, airports and other aviation facilities
+- TR8: Public rights of way
+- HC1: Planning for healthy communities
+- HC2: Local Green Space
+- HC3: Community facilities and public service infrastructure serving new development
+- HC4: Proposals for new and improved community facilities, public service
+- HC5: Hot food takeaways
+- HC6: Retention of key community facilities and public service infrastructure
+- HC7: Development affecting existing recreational land and facilities
+- HC8: Development affecting Local Green Space
+- P1: Planning for clean and safe places
+- P2: Ground conditions
+- P3: Living conditions and pollution
+- P4: Impact of development on existing activities
+- P5: Maintaining public safety and security
+- P6: Land and operations for defence and public safety
+- F1: Assessing flood risk for plan-making
+- F2: Planning for effective flood risk management
+- F3: Managing coastal change
+- F4: Assessing flood risk for decision-making
+- F5: The sequential test
+- F6: Development in areas at risk of flooding from rivers or the sea
+- F7: Ensuring development is safe from flooding
+- F8: Sustainable drainage systems and watercourses
+- F9: Development in Coastal Change Management Areas
+- N1: Identifying environmental opportunities and safeguards
+- N2: Improving the natural environment
+- N3: Trees in new development
+- N4: Protected Landscapes
+- N5: Maintaining the character of the coast
+- N6: Areas of particular importance for biodiversity and geodiversity
+- HE1: Planning for the historic environment
+- HE2: Conservation Areas and World Heritage Sites
+- HE3: Historic Environment Records
+- HE4: Securing the conservation of heritage assets
+- HE5: Assessing effects on heritage assets
+- HE6: Proposals affecting designated heritage assets
+- HE7: Decisions on non-designated heritage assets
+- HE8: World Heritage Sites
+- HE9: Conservation areas
+- HE10: Loss or removal of heritage assets
+- Annex B (glossary definitions — cite as 'AnnexB:<term>', e.g. AnnexB:grey-belt)
+- Annex D (housing supply — cite as 'AnnexD(12)(c)')
+- Transitional(1), Transitional(2), Transitional(3)
+- fn41 etc. for footnotes

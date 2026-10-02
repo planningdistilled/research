@@ -1,0 +1,881 @@
+Appeal Decision
+Inquiry held on 4 -7 August and (online) on 14 August 2026
+Site visits made on 3 – 7 August 2026
+by H Nicholls MSc MRTPI
+an Inspector appointed by the Secretary of State
+Decision date: 15 September 2026
+
+
+Appeal Ref: 6006893
+Land to East of Bere Hill, Whitchurch, RG28 7EB
+•    The appeal is made under section 78 of the Town and Country Planning Act 1990 (as amended)
+     against a failure to give notice within the prescribed period of a decision on an application for
+     planning permission
+•    The appeal is made by Genko Holdings Ltd against Basingstoke and Deane Borough Council.
+•    The application Ref is 24/01949/FUL.
+•    The development proposed is erection of 115 dwellings (including 40% affordable housing) and
+     associated parking; public house (Use Class Sui Generis), employment units (Use Class E(g));
+     provision of public open space; installation of sustainable urban drainage system; pumping station;
+     provision of local play areas; soft and hard landscaping; landscape buffer and associated works.
+
+Decision
+1.     The appeal is dismissed.
+Preliminary Matters
+2.     The appeal, relating to a scheme for detailed permission, was submitted against
+       the failure of the Council to determine the application within the prescribed period.
+       Since the appeal was lodged, the Council has indicated that, had it been in a
+       position to determine the application, it would have refused it for eight reasons
+       respectively relating to: (1) insufficient information concerning the need for the
+       public house; (2) the effects on the character and appearance of the area,
+       including on the setting of the North Wessex Downs National Landscape
+       (NWDNL); (3) whether the proposal would be of an acceptable quality of design;
+       (4) insufficient information in relation to the adequacy of green infrastructure
+       requirements; (5) harm to biodiversity from the loss of hedgerows; (6) insufficient
+       information in relation to nutrient neutrality measures; (7) whether future occupiers
+       would be adequately protected from odour; and, (8) the absence of a legal
+       agreement for necessary affordable housing and community infrastructure.
+3.     The appeal was lodged with additional and/or amended information covering a
+       range of aspects, including changes to the site layout to increase retention of
+       existing hedgerows (with related implications for other drawings and documents);
+       further landscape drawings regarding green/play space; revised odour dispersion
+       modelling report; and report on the need for a new public house. These
+       amended/additional documents were consulted upon prior to the opening of the
+       Inquiry. Since then, any updates to plans have been of a minor nature to ensure
+       consistency across the plans and my taking them into account does not prejudice
+       any interests having regard to the principles established in Wheatcroft V SSE
+       [1982] and Holborn Studios v CLBH [2017] EWHC 2823.
+
+https://www.gov.uk/planning-inspectorate
+Appeal Decision 6006893
+
+
+4.       The main parties have produced a number of statements of common ground
+         (SOCGs) to set out the areas of agreement and narrowed areas of dispute. The
+         effect of the SOCGs, taken together, are that, subject to conditions and a legal
+         agreement, the Council seeks only to defend putative reasons for refusal 2 and 3
+         relating to character, appearance, effects on the NWDNL and design.
+5.       A case management conference (CMC) was held on 19 May 2026 with
+         representatives of the appellant and the Council. The CMC was used to agree on
+         procedural matters and the format of the Inquiry, but the merits of the proposal
+         were not discussed.
+6.       I undertook a site familiarisation visit prior to the opening of the Inquiry and visited
+         the site and its surroundings on an unaccompanied basis following an agreed
+         route. I also visited various surrounding areas over the course of the Inquiry,
+         including other development sites mentioned by the parties and viewpoints
+         identified in the landscape evidence.
+7.       The appeal proposal is accompanied by an Environmental Statement (ES)
+         prepared in accordance with the Town and Country Planning (Environmental
+         Impact Assessment) Regulations 2017 (EIA Regulations). I am satisfied that the
+         totality of the information provided is sufficient to meet the requirements of
+         Schedule 4 of the EIA Regulations and this information has been taken into
+         account in reaching a decision.
+8.       By way of clarification, the NWDNL was formerly called the North Wessex Area of
+         Outstanding Natural Beauty. Where referring to the specific title or wording of
+         relevant policies or documents, the abbreviation AONB is used in place of NL.
+9.       A draft legal agreement made under section 106 of the Town and Country
+         Planning Act 1990 (S106) was provided before the opening day and was updated
+         during the Inquiry itself. A completed S106, dated 2 September 2026 was
+         submitted on 3 September 2026. The S106 includes provisions relating to
+         affordable housing; public open spaces; and various financial contributions. I
+         return to this below.
+10. A revised National Planning Policy Framework (the 2026 Framework) was issued
+    on 17 August 2026 and forms a material consideration for decision making
+    purposes from the date of its publication. The main parties have commented on
+    the relevance of the 2026 Framework policies to the appeal scheme to avoid any
+    prejudice and I have taken the comments into account in reaching my decision.
+11. Having regard to the requirement set by the Framework1 for Councils to
+    demonstrate a minimum supply of housing land equivalent to five years’ worth with
+    relevant buffer, the main parties have agreed on a relevant range for consideration
+    as from the base date of 1 April 2025. The Council indicates that it can
+    demonstrate a supply of 3,814 homes relative to the five year requirement with 5%
+    buffer of 5,830 homes. This equates to 3.1 years’ worth. Due to some disputed
+    sites, the appellant indicates that the Council can only demonstrate a supply of
+    2,752 homes, equivalent to 2.2 years’ worth. On the basis of the agreed range, the
+    disputed sites were not further tested and the related shortfall has been treated as
+    being between a range of around 2,000 – 3,000 homes.
+
+
+1
+    2026 and previous versions of the Framework
+
+
+https://www.gov.uk/planning-inspectorate          2
+Appeal Decision 6006893
+
+
+Main Issues
+12. In light of the above, the main issues in the appeal are:
+          •    the effects of the proposal on the character and appearance of the area,
+               including the effects on the setting of the NWDNL; and
+          •    whether, through scale, layout, density, landscaping and appearance, the
+               proposal would be of an acceptable quality of design.
+Reasons
+13. The appeal site sits to the north-eastern side of the town of Whitchurch and
+    broadly comprises 8.8 hectares of pasture land, extending over the upper parts of
+    three fields that adjoin existing dwellings in Whitchurch (on Bere Hill, Bere Hill
+    Caravan Park, Burgage Field and Lynch Hill Park). A railway line sits atop an
+    embankment which adjoins the site to the north. This feature demarks the
+    approximate boundary of the NWDNL. Agricultural land descends away from the
+    site in an easterly direction.
+14. The appeal proposal would deliver 115 dwellings, ranging from flatted units in
+    small blocks to houses of largely either 2 or 2.5 storeys, either detached, semi-
+    detached or in short terraces. Houses would largely face out to the street with
+    parking alongside, built in back-to-back arrangements. The public house would be
+    a relatively central component in the lower part of the site, beyond the ‘village
+    green’ area of public open space (POS). An employment unit would be situated to
+    the north of the scheme offering shared desk space. It would adjoin a more
+    formalised kick-about area of POS. A landscaped buffer would be situated along
+    the new eastern boundary, also containing the sustainable urban drainage system
+    (SUDS), including a swale and attenuation ponds. The largest area of POS would
+    be situated in the lower south-eastern corner of the site.
+Landscape character and appearance
+15. The ES contains a Landscape and Visual Impact Assessment (LVIA) undertaken
+    in accordance with Guidelines for Landscape and Visual Impact Assessment (3rd
+    Edition)2 to which I have had regard, in addition to the landscape proofs of
+    evidence of the main parties which also consider the conclusions of the same.
+16. There are a number of assessments of landscape character and sensitivity that
+    relate to the site and surrounding area. The Basingstoke and Deane Landscape
+    Character Assessment (May 2021) places the site within the Test and Bourne
+    Valley Landscape Character Area (LCA12). The characteristics of relevance to the
+    appeal site include its mixed area of valley floor, slopes, parkland and built form;
+    distinct landform which forms the Test and Bourne valley system; mosaic of
+    pasture and arable farmland on valley sides, interspersed with small woodland
+    blocks; strong hedgerow structure.
+17. The adjoining character area within the NWDNL characterised within the North
+    Wessex Downs Landscape Character Assessment (July 2025) is the Litchfield
+    Downs LCA type 2F which forms part of the broader Landscape Character Type
+    2F, Downland with Woodland. This LCA is distinctive for its strong sweeping chalk
+    topography with smooth summits, dissected by dry valleys; scattered woodlands;
+
+2
+    Published by the Landscape Institute and IEMA
+
+
+https://www.gov.uk/planning-inspectorate            3
+Appeal Decision 6006893
+
+
+       linear planting along the Portway Roman Road and historic Harroway Belt;
+       sparsely populated; quiet, rural character with high levels of dark night skies;
+       contrast between generally enclosed and intimate views due to woodland cover,
+       with panoramic longer distance views to the east. The pressure for new
+       developments at Whitchurch, immediately south of the NWDNL are noted as
+       threats to the Litchfield Downs LCA, including new residential development and a
+       new railway station car park.
+18. Additionally, the Basingstoke and Deane Landscape Sensitivity Study (April 2021)
+    considered the appeal site as part of a substantially larger land parcel named
+    WHIT014. The finding in relation to this parcel of land was that it was generally
+    unsuited to larger development with any development needing to be on a small
+    scale related to the existing settlement edge, provided it achieves consistency with
+    the settlement pattern, capable of avoiding impacts on the conservation area and
+    supported by further detailed assessment.
+19. Owing to its current agricultural, the absence of buildings and its longer views of
+    the rural valley landscape in an arc from the north-east to south-east, the appeal
+    site has a pleasant rural character and the transition from settlement edge into this
+    rural scene is relatively abrupt. This can be appreciated when passing along
+    Footpath 248/3a/1 which runs diagonally across the northernmost field and which
+    would be re-routed through part of the development.
+20. The highest parts of the site are in the west where the appeal site adjoins the
+    existing settlement of Whitchurch though much of these higher areas contain
+    established native trees and vegetated hedgerows. The three parts of fields
+    making up the appeal site currently have limited visual connectivity with one
+    another due to the existence of the hedgerows and are only modestly influenced
+    by adjoining residential development on their western edge. A small number of
+    houses partially protrude from within the wooded high points, particularly where
+    their garden boundaries with the appeal site are relatively open. However, as
+    much of Whitchurch is on a west-facing rather than east-facing slope, it is hard to
+    detect the presence and scale of the settlement beyond this small number of
+    dwellings, particularly when viewed from a longer distance.
+21. The appeal scheme would introduce a large extent of urban development,
+    including around a third of the dwellings of 2.5 storeys, onto the 8.8 hectare site on
+    a largely exposed eastern slope which is presently influenced very little by the
+    adjoining urban area. Whilst the appeal scheme would leave the wooded ridge
+    intact and retain much of the dividing hedgerows, it would result in a significant
+    change in landscape character of the site and its context. Whilst it is said that
+    similar landscape effects would result from the development of any greenfield site,
+    the sensitivity of the appeal site is heightened by the orientation of its slope, the
+    relatively limited visual connection with the settlement of Whitchurch from
+    surrounding countryside views and the absence of existing containing landscaping
+    features on the eastern edge of the site. Its sensitivity is also influenced by the
+    longer views it currently offers over surrounding high quality rural landscapes, the
+    route of Footpath 248/3a/1 and its connectivity to other footpaths that offer a
+    continued scenic route through surrounding countryside.
+22. Policy GD1 of the Whitchurch Neighbourhood Development Plan (adopted 2017)
+    (WNDP) promotes adherence to the design guidelines set out in the Whitchurch
+    Design Statement (WDS) (2004). Guidelines 6 and 7 of the WDS recognise the
+
+https://www.gov.uk/planning-inspectorate   4
+Appeal Decision 6006893
+
+
+     importance of the relative containment of the town and its rural character through
+     the preservation of its recognised man-made and natural boundaries and the need
+     to avoid making changes to the height or shape of these features, particularly the
+     Lynch Hill Park and Gables ridges. The development would materially alter the
+     height and shape of development by extending it over the ridge and onto the lower
+     slopes. It is also stated in the WDS that where an overriding and essential public
+     need is identified that may extend development beyond these boundaries,
+     substantial new planting should be provided to screen the development. I return to
+     these aspects below.
+23. In terms of tranquillity, despite the relatively frequent passing of trains along the
+    lines, this feature does not overly urbanise the character of the area and the visual
+    and noise intrusions detract only modestly from the ambience of the area. Overall,
+    the area possesses a rural tranquillity and on my visit that extended until after
+    sunset, the relative absence of light intrusion was also apparent. These aspects
+    would also be materially changed by the appeal scheme.
+24. At the Inquiry, it was suggested that visibility of the site is relatively constrained
+    and that there are many areas from where the site cannot be viewed. However, it
+    is clear that the viewpoints from where change would be experienced are largely
+    set along footpaths in areas of the surroundings which are high quality, even
+    where not physically within the NWDNL, and from where the urban extent of
+    Whitchurch is, at most, a barely perceptible feature. There would be many areas
+    from where there would be adverse change to the visual quality of the area. From
+    this I exclude assessed viewpoint (VP) 1 and VP2 which lie to the far west and
+    north respectively. No assessed viewpoints lie within the built area of Whitchurch
+    and visibility from such areas would be limited by topography, landscape features
+    and buildings. The effects on users of the footpath through the site would be most
+    harmed (VP6A and 6B), given the rural experience currently afforded to users
+    which would contrast greatly with the urban context with the development in situ
+    and the foreshortened views of the surrounding countryside.
+25. VP10 is also a longer view from Footpath 248/5/1 outside of the NWDNL looking
+    over to the appeal site. The development would be very clearly visible on the east-
+    facing slope, extending down from the wooded ridge with scattered dwellings to a
+    mid-point of the slope. The landscaped buffer would commence at a height similar
+    to the adjoining road and floor level of the outermost dwellings but would then take
+    the form of an embankment sloping down to the east, before opening up to provide
+    a channel for the development’s main drainage swale. A separate narrower strip of
+    buffer planting would be planted on the outer edge of the swale.
+26. As much of the native woodland planting on this embankment would be at a lower
+    elevation than the proposed buildings, it could establish to provide a green
+    foreground element but would not conceal much of the extent of the development’s
+    roofscape which would instead appear layered above it. The largely ornamental
+    trees within the internal landscaping would not materially break up the collective
+    mass of the roofscape either. The engineered embankment would add a notable
+    topographical alteration to the site and the two separated bands of woodland
+    separated by the swale channel would not appear to be accurately depicted in the
+    photomontages. Similarly, the photomontages appear to insert hard boundary
+    walls around the development edge, including the public open space, which do not
+    appear on any related landscaping plans. It is however clear that the development
+    would be a significantly urbanising and strident intervention into the countryside.
+
+https://www.gov.uk/planning-inspectorate   5
+Appeal Decision 6006893
+
+
+27. VPs 12, 13, 14 and 15 are from more peripheral countryside views set along paths
+    within the Laverstoke and Freefolk Conservation Area where only scattered, small
+    scale development appears and where in summer, the settlement of Whitchurch is
+    concealed. The introduction of the development in these views would add a
+    substantial scale of development at a high point in the landscape without the
+    benefit of much established landscaping to enclose its lower parts. The partial
+    screening of the development would heavily rely on the establishment of the
+    proposed landscaping to the south and eastern boundaries, at least by year 15.
+    However, the photomontages underplay the sensitivity of receptors and magnitude
+    of effects at year 1 and overstate the effectiveness of the established landscaping
+    over the engineered downward slope.
+28. The visual harms experienced at VP10 would be similar to those experienced in
+    VP9, albeit that VP9 is within the NWDNL on one side of the railway bridge, taking
+    in more of the surroundings within the NWDNL and VP10 is on the other side and
+    thus, outside of the NWDNL, looking more directly at land technically outside of the
+    NWDNL but within its setting. Despite the anomaly of the water tower, the existing
+    settlement edge is relatively unobtrusive in this view and there is little difference
+    evident between the NWDNL and adjoining landscape. The largescale appeal
+    scheme would appear insensitively sited and visually jarring, particularly at Year 1
+    but would still remain at the higher end of adverse harm by year 15 after the
+    eventual establishment of landscaping on the downward sloping embankment.
+29. VPs 4 and 5 are within the NWDNL and are along the same footpath as VP6. The
+    effects of the development would be largely screened by topography and the
+    railway embankment from these viewpoints. However, VP3A/B as a more distant
+    NWDNL viewpoint receptor would offer views of the development extending across
+    one side of the elevated part of the landscape. The existence of the water tower is
+    a detracting feature from the quality and experience of the landscape from these
+    views, less so the nearby large farm which has a functional and visual link with the
+    patchwork of surrounding agricultural land. However, the development would
+    markedly erode the visual quality of the area, thus resulting in a highly adverse
+    change.
+30. In view of the above, the proposal would cause serious harm to the landscape
+    character and appearance of the area. It would thus conflict with, in particular,
+    Policies EM1 and EM10 of the Basingstoke and Deane Local Plan (adopted 2016)
+    (Local Plan). These policies collectively seek to ensure that development
+    proposals must respect, enhance and not be detrimental to the character or visual
+    amenity of the landscape, respect the quiet enjoyment of the landscape from
+    public rights of way and have due regard to the density, scale, layout, appearance,
+    architectural detailing, materials and history of the surrounding area, and the
+    relationship to neighbouring buildings, landscape features and heritage assets.
+31. For similar reasons, the proposal would conflict with 2026 Framework Policy N2
+    (1)(a) and (d) which seek for development to contribute positively to the natural
+    environment with consideration to the environmental qualities of land, including
+    habitats, landscape character and the natural beauty of the countryside, and
+    conserve and enhance existing natural features of visual, historic or nature
+    conservation value and use appropriate landscaping to help create a well-
+    designed place and integrate developments into their surroundings.
+
+
+
+https://www.gov.uk/planning-inspectorate   6
+Appeal Decision 6006893
+
+
+Setting of the NWDNL
+32. Section 85 of the Countryside and Rights of Way Act 2000 places a duty on
+    decision makers to seek to further the statutory purposes of protected landscapes.
+    S245 of the Levelling Up and Regeneration Act amends the CROW Act and
+    requires that relevant authorities “… must seek to further the purpose of
+    conserving and enhancing the natural beauty of the area of outstanding natural
+    beauty [National Landscape]”.
+33. The proposed development is not within the NWDNL as its closest boundary
+    terminates north of the railway line to the north of the appeal site. However, in
+    respect of setting, Policy N4 (4) of the 2026 Framework sets out that development
+    proposals within the setting of Protected Landscapes (i.e. National Landscapes)
+    should be sensitively located and designed to avoid or minimise adverse impacts
+    on the Protected Landscape. The NWD [AONB] Position Statement on Setting
+    (2019) also highlights the importance of setting to the NWDNL owing to the
+    visually and functionally linked landscape and landforms.
+34. The railway line, whilst an obvious physical boundary, is narrower, generally lower
+    and a less dominant boundary than the A34 which bounds parts of the west of
+    Whitchurch. Whilst the NWDNL generally has a more open, expansive downland
+    landscape and land south of the railway has more of a valley landscape character,
+    there is, nonetheless, a high degree of continuity of landscape character and
+    visual quality across the component parts of the landscape.
+35. It is highlighted in the appellant’s evidence that the settlement of Whitchurch is
+    also within the setting of the NWDNL, but this conceals the essential point that the
+    landform and features significantly limit intervisibility between them. As an addition
+    to Whitchurch, the appeal scheme would have far greater potential of being visible
+    within the context of the NWDNL owing to scale, proximity and siting and the site’s
+    orientation and features.
+36. The North Wessex Downs National Landscape Management Plan (2025)
+    (Management Plan) does not specifically define the special qualities of the
+    NWDNL but refers to valued qualities instead. Reading this document as a whole,
+    it is clear that relevant valued elements of the NWDNL include its obvious natural
+    beauty and scenic quality owing, in part to its rurality, distinctive settlement pattern,
+    varied field pattern, distinctive geology, seasonal winterbourne flows, its cultural
+    richness, remoteness and tranquillity and night skies. The Management Plan also
+    mentions views towards the dramatic scarps both within and out of the NWDNL.
+    Many of these valued qualities are shared both within the appeal site, its
+    immediate surroundings and within the NWDNL from where changes on the
+    appeal site would be visible and perceptible.
+37. From certain VPs, including VP3A/3B, VP8 and VP10, the railway line is not an
+    overly high, wide or visually segregating feature and it is possible to appreciate the
+    appeal site as a part of the landscape in the setting of the NWDNL, it shares some
+    of its naturally beautiful qualities. VP6 is also a gateway from Whitchurch into the
+    NL and views over the landscape from it, of landscape both within and outside of
+    the NL, highlight the continuity of the rural scenic and tranquil landscape character.
+    The effects of the scheme from VP9 which looks across both the NWDNL and
+    adjoining landscape highlight the harm that would occur, even beyond the
+    establishment of landscaping. The eye of visual receptors would still continue to be
+
+
+https://www.gov.uk/planning-inspectorate   7
+Appeal Decision 6006893
+
+
+        drawn to such an obvious built mass at an elevated point in the landscape. Thus,
+        owing to the location, scale and nature of the development, it would not avoid
+        adverse impacts on the special qualities or natural beauty of the NWDNL. Despite
+        the presence of woodland belts within the NWDNL and wider surrounding
+        landscape, the deliberate introduction of such a feature in an attempt to screen the
+        development would only go so far once eventually established. The upper parts of
+        dwellings/buildings and layered roofscape would be a permanent feature of the
+        setting of the NWDNL thereafter, so too would the effects on the tranquillity and
+        night skies. The effects on the special qualities and natural beauty of the NWDNL
+        would not be minimised through the location, scale and nature of the development
+        either.
+38. The permission granted for the train station car park was discussed at the Inquiry.
+    As such, I have considered how it, and the Bloswood housing schemes3 within the
+    NWDNL are relevant to the appeal scheme.
+39. The train station car park has a far more specific locational requirement than a
+    scheme that would provide general housing and other mixed uses. A train station
+    car park would have a very different functional appearance to the appeal scheme
+    in terms of extent, massing and degree of visual effects following the
+    establishment of landscaping. I have noted the conclusions of the ES that
+    concludes that there would be no intervisibility and thus, no cumulative impacts
+    with the appeal scheme which would be a neutral outcome. However, the car park
+    is not sufficiently comparable in terms of the assessment of the appeal scheme. I
+    do note that the inclusion of a woodland buffer was a feature of that particular
+    scheme which forms a significant part of the mitigation for its character and visual
+    effects but that was at a comparable level to the surface level car park with limited
+    built features.
+40. The provision of the housing at Bloswood entirely within the NWDNL cannot have
+    entirely avoided effects on the special qualities or natural beauty of the NWDNL.
+    However, having seen the A34 road and the extent to which it more definitively
+    physically and visually separates Whitchurch from the rest of the NWDNL, it is
+    clearly a substantial hard boundary, against which a treed buffer and generous
+    open space have been placed to provide even greater visual severance from the
+    NWDNL landscape on the other side. Though the urban extent of Whitchurch
+    would clearly go no further in a westerly direction in the future, I understand the
+    logic in having extended up to the A34 boundary in the way that it has, despite the
+    protected landscape designation.
+41. For the purposes of concluding on this main issue, despite some limited
+    landscaping-based mitigation in the long term, the proposed development would
+    introduce a greatly urbanising scheme that neither avoids nor minimises adverse
+    impacts on the NWDNL though development in its setting. Thus, I find that the
+    proposed development would have a harmful effect on the setting of the NWDNL
+    and conflicts with policies EM1 and EM10 of the Local Plan, the purposes of which
+    have been detailed above. However, specific to this issue, these policies also
+    require that development proposals in the NWDNL or its setting will also be
+    determined in accordance with national planning policy and criteria set out in the
+    Management Plan. Furthermore, as I do not find that the proposals would be
+    sensitively located and designed to avoid or minimise adverse impacts on the
+
+3
+    CD09.11 and CD09.12
+
+
+https://www.gov.uk/planning-inspectorate   8
+Appeal Decision 6006893
+
+
+         Protected Landscape, the proposal also fails to accord to Policy N4 (4) of the 2026
+         Framework and guidance in the Management Plan.
+42. Having considered the appeal decisions put to me by the appellant’s relevant to
+    this particular topic4, I do not reach an alternative view in this regard.
+Design
+43. The claim from the appellant’s team that the scheme has been landscape-led and
+    that has evolved following receipt of consultee feedback, including the Design
+    Review Panel, are not entirely apparent from a review of the various plans since
+    the scheme’s initial inception in 2022 to those before the Inquiry. The appellant
+    team’s challenge to this point was not persuasive, though the belief that
+    Whitchurch as limited other options for expansion appears to underline the
+    insistence that the scheme is irresistible in any event.
+44. The northernmost strip of the appeal site would be taken up by the employment
+    units, the kickabout area of POS and the pumping station within its enclosure.
+    Notwithstanding their individual contributions to the balance of public benefits and
+    creation of a mixed use community to which I return further below, these aspects
+    largely serve a role as a buffer between new dwellings and the potential effects of
+    railway noise. Whilst the employment units could be better co-located close to the
+    public house in terms of making a small local centre area, particularly given the
+    location of the nearby nursery and scout hut, the kickabout area also seems
+    peripherally sited near to the railway and without much opportunity for incidental
+    surveillance given the low number of dwellings proposed near to it. Despite
+    indications that this would be fenced to avoid balls and children straying closer to
+    the railway line, detail of such an enclosure is absent from the proposed plans.
+45. The village green would appear modestly scaled and would have a relatively
+    enclosed siting, fronted by the public house and a small number of dwellings. The
+    largest area of POS would be situated in the south-east of the site, which similarly
+    appears peripheral to the scheme and would be sloping away from the
+    development towards its outer edges.
+46. The eastern boundary would be a relatively steep embankment, descending
+    around 4 metres from the development edge down to the channel containing the
+    swale, with additional landscaping on the lower eastern side of the swale. Despite
+    the intention to plant it to form a dense woodland belt, the orientation of its slope
+    would place it at a disadvantage in forming a robust screening feature as the trees
+    on the lower part of the slope would need to establish to even higher heights to
+    offset the level changes. The engineered nature of the embankment would also be
+    apparent in longer distances towards the development from viewpoints including
+    VP9 and VP10, including the deliberate separation between the bands of trees to
+    provide the swale and its maintenance area.
+47. Whilst the open spaces intended for public use would be technically acceptable
+    from a quantitative perspective, a qualitative drawback is that the areas of open
+    space would be fragmented across the site rather than consolidated or linked to
+    provide a coherent network of multifunctional green spaces. Focussing on the
+    eastern buffer, alternatively referred to as a woodland belt, its coherence would be
+    undermined by the variable widths of tree cover planted over sloping ground which
+
+4
+    Including Nutbourne CD9.01, the Train Station Car Park CD9.05, Dursley CD9.13 and others
+
+
+https://www.gov.uk/planning-inspectorate                 9
+Appeal Decision 6006893
+
+
+         would be deliberately spaced around drainage features and respective
+         maintenance accesses. Nothing I have seen of this feature in the visualisations or
+         plans leads me to think that its role as an area for informal recreation would be
+         other than very limited.
+48. The public house would occupy a position immediately beyond the village green
+    and would therefore be a focal point, obvious to all arriving at the development.
+    Whilst the specific design of the building would be unobjectionable, the central
+    position of the public house within the scheme would be of concern given that this
+    aspect is speculative and in relation to which market considerations will clearly yet
+    be a factor for any potential purchaser/lessee. Whilst it was suggested during the
+    Inquiry that a former public house adjoining the Station has closed and that the
+    proposal could attempt to replace it, it would not have the benefit of being co-
+    located or visually connected in such an obvious way.
+49. Furthermore, whilst the Council’s acceptance of the Need Assessment5 is not
+    disputed, it is concerning that this aspect has influenced the overall scale and
+    format of the scheme in such a way, given the reduced degree of certainty over its
+    delivery when compared with the housing component. Were market forces to
+    prevent this aspect being realised at all, the coherence of the scheme in design
+    terms could also be undermined by a less logical alternative land use or building
+    being so centrally positioned within the scheme6.
+50. In terms of density and massing, there is a real variety in densities between
+    adjoining schemes including the close-knit Burgage Fields to the very low density
+    Lynch Hill Park, but there are also differences in the degree of tree cover,
+    enclosure and interspersed established planting that affect the integration of those
+    developments with the townscape. The appeal scheme would be a sizeable
+    development, materially extending Whitchurch over onto the east-facing slopes for
+    the first time from where the most affected visual locations are within high quality
+    areas of countryside, including the NWDNL.
+51. Whilst it was agreed during the Inquiry that it would be immaterial whether the
+    scheme is taken as 21 dwellings per hectare (dph) or 23 dph, taken with the
+    concentration of larger house types and other buildings, the development would be
+    intense for such an elevated, edge of settlement site, particularly owing to the
+    absence of an established enclosing landscape feature on its eastern side. I
+    appreciate that there may be a difference in the way that the appeal scheme
+    density is being treated when compared to other recent edge-of-settlement
+    schemes achieving higher densities of around 30dph. Whilst the emphasis on the
+    efficient of the use of land is entirely logical and receives greater emphasis in the
+    2026 Framework, the context of sites should also be a relevant factor.
+52. The scale of individual buildings at 2 storeys and their pairing or grouping in short
+    terraces would not be uncharacteristic of the area. Similarly, the roads running
+    along the contours is an understandable approach. However, the large extent of 2.5
+    storey dwellings (amounting to around 35% of the scheme) and urbanised qualities
+    of the layout which would not be capable of being broken up internally by trees or
+    vegetation would be a strident intervention for the largescale scheme which would
+    increase the role that landscape screening would need to play to minimise its
+    overall effects.
+5
+    Assessment of Need for the Public House Prepared by Sam Specer MRICS of Bruton Knowles, Appx 3 of CD5.01
+6
+    Subject of a separate future planning application
+
+
+https://www.gov.uk/planning-inspectorate               10
+Appeal Decision 6006893
+
+
+53. On the subject of the appearance of the scheme, I have considered the variety of
+    house types, the differentiation within the house types, the use of materials and
+    boundary treatment variations. I have also visited other recent developments in
+    Whitchurch to provide a basis for comparison. As a very generalised principle, the
+    developments built within recent years have house types which are generally
+    larger and are more likely to be detached, semi-detached or in smaller terraces
+    than earlier developments where smaller house types and greater lengths of
+    terracing or higher densities are more prevalent. The more recent developments
+    contain a greater range of house types and more diversity in materials, including
+    flint, which are used on key elevations and elsewhere to add variety. The higher
+    quality materials are distinguishable for their variations in colour and texture than
+    those of a lower quality.
+54. Notwithstanding the more subtle variations that may exist, over half of the scheme
+    would be formed from two house types (types 84 and 93). Though they have
+    porches and window head detailing, they are relatively plain house types and red
+    brick would be the predominant walling material for these house types. In
+    combination with the extensive use of brick elsewhere, including on other house
+    types and in many public-facing boundary walls, the scheme would appear rather
+    hard, heavy and repetitive. These qualities would not be remedied by the relatively
+    limited extents of flint panelling between bricks, occasional use of render and even
+    more limited use of timber. Adding to its overall appearance, the internal
+    landscaping would be relatively ornamental in nature and would not meaningfully
+    visually disintegrate the overall built form as suggested in the LVIA.
+55. Overall, the scheme has some neutral factors, some acceptable qualities and
+    would meet many technical standards, but would fail to deliver on the policy
+    expectations of high quality design. As such, the combination of the scale, layout,
+    density and appearance of the scheme would not amount to an acceptable quality
+    of design. It would therefore conflict with policies EM1 and EM10 of the Local Plan
+    and policy GD1 of the WNDP. These policies specifically require that development
+    proposals should be of high quality, based upon a robust design-led approach,
+    have due regard to the density, scale, layout, appearance, architectural detailing,
+    materials and history, and the relationship to neighbouring buildings, landscape
+    features and heritage assets. Policy GD1 also specifically encourages adherence
+    to guidelines set out in the WDS, including where the development reinforces the
+    character of the Town and is positively integrated into its existing grain.
+56. For similar reasons, the scheme conflicts with Policy DP3 (1) and (2) of the 2026
+    Framework which requires that proposals should respond to their context (the
+    history, character and features of their site and its setting), so that they integrate
+    with and enhance their surroundings and are appropriate in terms of, amongst
+    other things, nature, built form and identity.
+Other Considerations
+57. The submitted S106 provides for policy-compliant levels of affordable housing
+    (40%); contributions towards allotments, public art, extension of a Traffic
+    Regulation Order and pedestrian/cycle improvements; provision and management
+    of public open spaces, including equipped areas of play; provisions to allow for
+    marketing and sale/lease of the land for the public house and employment
+    building; travel plan provisions; requirements in relation to Biodiversity Net Gain
+    (BNG), an employment/skills plan, and obligations in relation to delivery of the
+
+https://www.gov.uk/planning-inspectorate   11
+Appeal Decision 6006893
+
+
+         highway works (under a separate agreement under The Highways Act). If the
+         development were acceptable in all other respects, the components of the S106
+         would be necessary to make the development acceptable in planning terms and
+         would meet the tests under the 2026 Framework and Community Infrastructure
+         Levy Regulations (2010)7 such that it could be taken into account.
+Effects on Habitat Sites
+58. The above appeal scheme would discharge to the Test (Upper) Water Body’
+    hydrological catchment. An increase in wastewater from new housing development
+    within the River Test and Itchen catchment areas could have potential significant
+    effects on the water quality of downstream receptors within the Solent: Solent and
+    Dorset Coast Special Protection Area (SPA); Portsmouth Harbour SPA and
+    Ramsar Site; Chichester and Langstone Harbours SPA; Solent Maritime Special
+    Area of Conservation (SAC) and Solent and Southampton Water SPA (collectively
+    referred to as the Habitat Sites).
+59. In brief, whilst the respective Habitat Sites are protected for different qualifying
+    habitats and species under the Conservation of Habitats and Species Regulations
+    2017 (the Habitats Regulations) they are essentially linked waterbodies and
+    estuarine environments which support a variety of internationally important bird
+    species, aquatic flora, fauna and other species and habitats which are highly
+    sensitive to deteriorations in water conditions. The conservation objectives also
+    differ to an extent for each respective habitat site, but it is necessary to maintain
+    the integrity of the relevant site and ensure the favourable conservation status of
+    their individual qualifying habitats and species.
+60. The appeal scheme would generate additional wastewater through the
+    construction of the 115 dwellings which would add to the nutrient burden within the
+    water discharged to the hydrological catchment area. Thus, it would have
+    significant effects on its own and when taken cumulatively with other
+    developments and an appropriate assessment under the Habitats Regulations is
+    necessary.
+61. In the absence of mitigation, nitrogen levels would be likely to increase at the
+    Habitat Sites and this would harm their respective integrity. The calculation of the
+    total load to mitigate using Natural England’s (NE) Solent Maritime Nutrient
+    Calculator is 109.72 kg TN/yr (NE Calculator)8. The appellant has also produced a
+    bespoke calculation using a tool based on the NE calculator. The figure derived
+    using the Natural England Calculator is the figure I prefer as the better established,
+    scientifically formulated approach to calculating the total nitrogen budget.
+62. In the absence of a site-specific nitrogen offsetting solution which is not proposed
+    in this instance, in order to maintain the integrity of the aforementioned Habitat
+    Sites, it would be necessary to secure nutrient neutrality to offset this increased
+    nitrogen level being discharged. The appellant seeks to do this by way of offsetting
+    credits purchased through an NE-approved credit provider and has provisionally
+    secured credits to offset the 109.72 kg TN/yr figure derived using the NE
+    Calculator. The appellant is proposing to accept a pre-commencement planning
+    condition to confirm that the mitigation package has been secured in a timely
+    manner and for the lifetime of the development, over which the Council would have
+
+7
+    Regulation 122
+8
+    Solent Maritime Nutrient Calculator V03.01.3,03/06/2026 and Whitchurch Bere Hill - Nutrient Neutrality Calculations, 03/06/2026
+
+
+https://www.gov.uk/planning-inspectorate                   12
+Appeal Decision 6006893
+
+
+        control of approval. Given that this issue could be resolved satisfactorily, it does
+        not conflict with the Local Plan, WNDP or the 2026 Framework.
+Emerging Local Plan (eLP)
+63. Neither party was seeking for more than limited weight to be attributed to the eLP
+    and little reference was made to its policies. However, the appellant’s evidence
+    included an update to the effect that the Council will fail to meet the necessary
+    deadlines and will have to submit a new Local Plan under the new regulations
+    instead. The consequence of this change in the legislative framework for plan
+    making and delays in progressing the eLP to date mean that the new Local Plan is
+    not expected to be adopted until around at least Autumn 2029. The Overton
+    appeal case9 is one example where an Inspector noted that the solution to such a
+    persistent housing supply shortfall would be some way off and the situation has
+    clearly worsened since that decision.
+64. Thus, with a housing land supply shortfall, an absence of a definitive action plan
+    and the potential plan-led solution being delayed in the medium term, additional
+    sites need to be identified now in order to help meet the shortfall and the Council
+    should be taking a proactive approach to help rectify this. Absent of this, it is likely
+    that choices about where and how many houses should be built will be taken
+    through decision making processes on a large number of speculative individual
+    proposals.
+65. In addition to the above, the relatively constrained nature of the Borough has also
+    been highlighted. The NWDNL is reported to account for around a third of the total
+    area of the Borough, with other constraints such as Country Parks and Strategic
+    Gaps also limiting further opportunities for urban expansion.
+66. The appeal proposal is also promoted as an obvious and one of a very limited
+    number of options for further expansion in Whitchurch, given that, bar a few small,
+    previously developed sites within the urban area, it has limited ability to expand
+    further west, north (into the NWDNL) or directly south. The recent and ongoing
+    expansions to the south-west are also surrounded by land which may have future
+    development potential. I have limited details about the specific location or capacity
+    of such, but I have been invited to reach the general view that such a solution
+    would be less preferrable than the appeal site specifically owing to the greater
+    distance from the train station. Whilst these are largely issues for the Council to
+    grapple with through the eLP process, I have nevertheless taken account of these
+    considerations in reaching my overall decision.
+Planning Balance and Conclusion
+67. Though capable of attracting limited weight in light of the Council’s housing land
+    supply position and material inconsistency with the 2026 Framework, the scheme
+    conflicts with the settlement strategy of the Local Plan, expressed through, in
+    particular, Local Plan Policies SS1 and SS6. Similarly, limited weight is attached to
+    the policy conflict arising from the loss of Best and Most Versatile agricultural land.
+68. However, principally owing to its harm to the character and appearance of the
+    area, harm to the setting of the NWDNL and inadequate quality of design, the
+
+
+9
+    CD9.03
+
+
+https://www.gov.uk/planning-inspectorate   13
+Appeal Decision 6006893
+
+
+       appeal proposal conflicts with the development plan when taken as a whole.
+       These particular harms attract substantial adverse weight against the scheme.
+69. The scheme would help to address an evidenced unmet need for housing under
+    the terms of Policy S5(1)(j) of the 2026 Framework. In physical connectivity, rather
+    than landscape and visual terms, it would be sufficiently well related to the existing
+    settlement and it would be of a scale that could be accommodated taking account
+    the existing and proposed availability of infrastructure. In such circumstances, the
+    2026 Framework sets out that such developments should be approved, unless the
+    benefits of doing so would be substantially outweighed by any adverse effects,
+    when assessed against the national decision-making policies in the Framework.
+70. The benefits of granting permission in this case would include the delivery of up to
+    115 dwellings to meet local housing needs in the context of a serious and
+    significant shortfall on whichever supply position is adopted and which would be
+    likely to last for some time into the future given the delayed progress with the eLP.
+    The site is promoted as available and deliverable and I have no cogent evidence
+    to the contrary. As such, this benefit attracts substantial weight. Of the 115
+    dwellings, 40%, i.e. 46 dwellings, would be affordable housing to meet local needs.
+    This is also a significant benefit of the scheme.
+71. There would be additional open space delivered within the scheme. Owing to the
+    peripheral location of both the site and the main area of open space within the
+    scheme, and the fragmentation of spaces across the scheme, these aspects
+    attract modest weight.
+72. Policy HC4 of the 2026 Framework sets out that substantial weight should be
+    given to the benefits of delivering new community facilities and where the
+    proposals would make a demonstrable contribution towards supporting social
+    interaction in the local community. A public house falls into the definition of a
+    community facility and, despite suggestions that it would likely be a food-led
+    establishment, it could support enhanced social interaction and create employment
+    opportunities. However, in my view, there is reason to depart from the substantial
+    weight suggested as the scheme would not necessarily deliver the public house. A
+    separate operator would yet need to decide whether there is sufficient market
+    demand for such and acquire this part of the site to deliver this component of the
+    scheme prior to the expiration of the trigger dates in the S106. The scheme would
+    facilitate a public house being provided under positive market conditions and
+    agreement to its acquisition but would not be certain to provide it. As such, I
+    attribute this element modest weight in favour of the scheme.
+73. The provision of flexible employment units would also contribute towards meeting
+    local employment needs. Whilst the aspiration to deliver a mixed-use scheme is
+    laudable and the creation of employment opportunities positive, the scheme would
+    facilitate the provision of such under adequate market conditions and is similarly
+    incapable of guaranteeing delivery. Whilst the Council offer a revised substantial
+    weighting to this aspect of the scheme on the basis that delivery would likely be
+    secured, the evidence to support such an assumption is lacking and the terms in
+    the S106 are similar to those in respect of the public house. As such, I find that this
+    aspect attracts weight in favour of the scheme, tempered again by the degree of
+    uncertainty surrounding delivery which is less certain than the housing element.
+
+
+
+
+https://www.gov.uk/planning-inspectorate   14
+Appeal Decision 6006893
+
+
+74. The site is relatively sustainably located for facilities in Whitchurch despite the
+    incline along the journey from the town centre. It also benefits from convenient
+    proximity for Whitchurch Train Station for walking or cycling. This aspect would
+    help to reduce residents to reduce the need to travel by car and attracts moderate
+    weight in favour of the scheme.
+75. There would be economic benefits from the construction phase which would be
+    short-term in nature but would be more locally relevant through the securing of an
+    employment skills plan. There would be some additional economic benefit to
+    facilities in Whitchurch from future residents as well, potentially tempered to a
+    minor extent by the proposed public house which, if delivered, would detract from
+    existing establishments in the area, such as within the town centre. These aspects
+    attract modest weight.
+76. I have also considered the sustainable design and efficiency credentials of the
+    proposed houses, including the provision of solar photovoltaic panels, which would
+    weigh heavily in favour of the scheme. The inclusion of electric vehicle charging
+    points comes under a similar bracket. Similarly, the enhancements to sustainable
+    transport infrastructure would have a wider public benefit to enhance walking and
+    non-car modes of travel around the town which would add to the travel plan
+    incentives for future residents. I collectively attach modest weight to these aspects
+    relative to their scale and contribution as part of the scheme taken as a whole.
+77. I note the degree to which the scheme would exceed the 10% BNG requirement.
+    In respect of habitat units, the overprovision would be modest, whereas in respect
+    of hedgerow units, overprovision would be more significant. The inclusion of the
+    BNG and other biodiversity enhancements and a contribution towards the
+    enhancement of allotments also attract great weight in favour of the scheme.
+78. The other aspects on which there is agreement between the parties and a lack of
+    technical objection amount to neutral factors in the overall planning balance.
+    Similarly, I attach no weight to the contribution towards CIL as this is intended to
+    offset the increased demand for infrastructure generated by the scheme.
+79. The 2026 Framework, under Policy S5 (2) indicates that circumstances in which the
+    benefits of approving development proposals are likely to be substantially
+    outweighed by adverse effects include situations where the development proposal
+    would fail to comply with one of the national decision-making policies which state
+    that development proposals should be refused in specific circumstances. I have
+    found a number of conflicts with national decision-making policies, including
+    Policies N4 (4), DP3 (1) and (2) and N2 (1)(a) and (d). Taking these conflicts
+    collectively, there would be substantial adverse effects from approving the
+    proposals that outweigh the collective benefits of the scheme. As such, the
+    proposal does not accord with the 2026 Framework such as to justify granting
+    permission.
+80. In conclusion, the appeal scheme conflicts with the development plan and there are
+    no material considerations, including the provisions of the 2026 Framework or
+    totality of public benefits, that indicate that permission should be granted other than
+    in accordance therewith. Accordingly, the appeal should fail.
+
+H Nicholls
+INSPECTOR
+
+https://www.gov.uk/planning-inspectorate   15
+Appeal Decision 6006893
+
+
+APPEARANCES
+
+FOR THE APPELLANT:
+Sasha White K.C. and Poppy Kemp of Landmark Chambers
+They called:
+Stephanie Brooks, BArch RIBA                   Brooks Murray – Design;
+Clare Brockhurst, BSc (Hons), FLI, Dip LA      Leyton Place Ltd - Landscape
+Chris Pattison, BA (Hons), BPl, MRTPI          Bidwells LLP – Planning
+Also appearing:
+Billy Palmer                                   Bidwells LLP
+Tim Johnson                                    Solicitor
+
+FOR THE LOCAL PLANNING AUTHORITY:
+Michael Rhimes                                                   Counsel
+He called:
+Anne Priscott, CMLI                                              Anne Priscott Associates Ltd -
+                                                                 Landscape
+Jody Slater, MRTPI                                               Design
+Emily Temple, MRTPI                                              ET Planning
+Also appearing:
+Bethan Wallington                                                Principal Planning Officer;
+Nicola Williams                                                  Principal Planning Officer
+Tola Otudeko                                                     Principal Legal Officer
+
+INTERESTED PARTIES:
+Chloe Ashfield                                            Whitchurch, Overton and Laverstoke
+                                                          Ward Councillor
+Tracy Woodruff                                            Whitchurch Town Council
+Jacqueline Brown                                          Whitchurch resident
+David George                                              Local resident
+Isabelle Mundy                                            Local resident
+Rupert Navaro                                             Local resident
+
+INQUIRY DOCUMENTS:
+ID1                                    Appellant opening statement
+ID2                                    Council opening statement
+ID3                                    Additional submission of David George
+ID4                                    Statement of Whitchurch Town Council
+ID5                                    Written submission of Jacqueline Brown
+ID6                                    Written submission on behalf of Steve Jones
+
+
+https://www.gov.uk/planning-inspectorate         16
+Appeal Decision 6006893
+
+
+ID7                                    Written submission of Isabelle Mundy
+ID8                                    Written submission of Rupert Navaro
+ID9                                    Errata sheet relating to CD6.06A
+ID10                                   Laverstoke & Freefolk Conservation Area Appraisal & map
+ID11                                   Plan showing annotation of informal path
+ID12                                   Plan showing additional details in relation to ID11
+ID13                                   Updated draft agreed planning conditions
+ID14                                   Updated draft S106 06.08.26
+ID15                                   Updated draft agreed planning conditions 120826
+ID16                                   Letter from Natural England
+ID17                                   Response from appellant to ID4
+ID18                                   Updated draft S106 with appendices 130826
+ID19                                   Plan for information showing section through eastern buffer
+ID20                                   Council response to S106 questions (without prejudice)
+ID21                                   Council closing statement
+ID22                                   Appellant closing statement
+
+DOCUMENTS RECEIVED AFTER CLOSE OF INQUIRY:
+
+ID23                                   Final amendments to planning conditions dated 180826
+ID24                                   Appellant 2026 Framework comments
+ID25                                   Council 2026 Framework comments
+ID26                                   Update communication on S106
+ID25                                   Final S106 dated 2 September 2026
+
+
+
+
+https://www.gov.uk/planning-inspectorate          17
+

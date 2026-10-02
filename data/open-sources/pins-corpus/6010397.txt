@@ -1,0 +1,242 @@
+Appeal Decision
+Site visit made on 6 August 2026
+by R Gravett BA(Hons) DipTP MRTPI
+an Inspector appointed by the Secretary of State
+Decision date: 1 September 2026
+
+
+Appeal Ref: 6010397
+41a Liverpool Road, Birkdale, Southport, Merseyside PR8 4AG
+•      The appeal is made under section 78 of the Town and Country Planning Act 1990 (as amended)
+       against a refusal to grant planning permission.
+•      The appeal is made by Mr Kelvin Bacon against the decision of Sefton Metropolitan Borough
+       Council.
+•      The application Ref is DC/2025/01256.
+•      The development proposed is two bedroomed flat above existing retailing property – hairdresser’s.
+
+Decision
+1.       The appeal is allowed and planning permission is granted for a two bedroomed flat
+         above existing retailing property – hairdresser’s at 41a Liverpool Road, Birkdale
+         Southport, Merseyside PR8 4AG in accordance with the terms of the application,
+         DC/2025/01256, and the plans submitted with it, subject to the following
+         conditions:
+        1)       The development hereby permitted shall begin not later than 3 years from the
+                 date of this decision.
+        2)       The development hereby permitted shall be carried out in accordance with
+                 the following approved plans:
+                 •    LR/ADA/01/A Rev A Existing Building Elevation, Layout & Location Plans
+                 •    LR/ADA/02/A Rev G Proposed Building Layout Plans
+                 •    LR/ADA/03/A Rev D Proposed Building Elevations
+        3)       The private outdoor amenity space shall be implemented in full, and the
+                 privacy glass screen installed prior to the first occupation of the dwelling and
+                 shall thereafter be retained as such.
+Preliminary Matters
+2.       A new National Planning Policy Framework (‘the Framework’) was published in
+         August 2026. The Framework is a material consideration of critical importance
+         which should be taken into account from the day of publication. Both main parties
+         had the opportunity to comment on any implications for the appeal.
+3.       The ‘Procedural Guide – Planning Appeals – England’1 advises that if an appeal is
+         made the appeal process should not be used to evolve a scheme. It is important
+         that what is considered by an Inspector at appeal is essentially the same scheme
+         that was considered by the Local Planning Authority and by interested parties at
+         the application stage. To seek to address the Council’s reason for refusal, the
+
+1
+    For appeals relating to applications dated on or before 31 March 2026. Updated 16 July 2026
+
+https://www.gov.uk/planning-inspectorate
+Appeal Decision 6010397
+
+
+         appellant has submitted an ‘Expert Review Report’ and solar shadow drawings.
+         These do not involve a substantial difference or a fundamental change to the
+         proposed development, and the Council has had the opportunity to comment on
+         them as part of the appeal process.
+4.       However, although neighbours were notified that an appeal had been lodged, I am
+         not confident that this additional information has been seen, particularly by the
+         neighbour at 41 Liverpool Road. The correspondence received from interested
+         parties in respect of the appeal refers only to the report prepared by Dr Jack
+         Rostron (of October 2025) submitted with the planning application. Therefore, I
+         cannot be certain that accepting the information would not deprive those who
+         should have been consulted of the opportunity of such consultation. I have
+         therefore based my decision on the information submitted to the Council with the
+         planning application, and on which the decision was made.
+Main Issue
+5.       The main issue is the effect of the proposed development on the operation of solar
+         panels on the neighbouring property at 41 Liverpool Road (No 41).
+Reasons
+6.       41a Liverpool Road (No 41a) is a single-storey commercial building which is at one
+         end of a short part two-storey terrace along the eastern side of Liverpool Road.
+         The proposed first-floor extension and roof dormer would not extend in depth
+         beyond the existing solar panels, which generate electricity for the Post Office, and
+         are located on the south facing roof slope of No 41’s rear outrigger.
+7.       I appreciate that the appellant has tried to ascertain details, but very little
+         information has been provided as to the actual performance specification or
+         technical characteristics of these solar panels. The JEL Renewables Ltd (JEL)
+         information submitted with the application assumes a 13-panel row which it
+         assesses as having a shade factor of 0.833. However, it is unclear whether this
+         means that the panels would receive 83.3% of the unshaded solar irradiance now,
+         or after the proposed extension to No 41a is built, and if the latter, what the
+         percentage increase in shading would be.
+8.       Based on the positioning shown on the plans in the Solar Path Analysis, 2 a small
+         part of the row of solar panels (closest to the principal rear elevation of No 41)
+         appears to be outside the ‘minimum unobstructed sunlight path’ shown in the
+         horizontal axis, but the degree to which the proposal obstructs this sunlight path (in
+         both the vertical and horizontal axis) is not known.
+9.       JEL suggest that the panels would incur shading from the proposal but only at later
+         times in the day. However, I have insufficient information before me, including
+         dates and times of assessment, duration of shading throughout the day and year,
+         and the predicted effect on annual solar irradiation to be able to ascertain the full
+         effect on the operation of the solar panels. I note the appellant refers to the
+         proposal maintaining a 90% ‘level of performance efficiency’ (kWh) for the existing
+         solar panels, but I have little evidence in respect of how this has been calculated.
+         Whilst the appellant suggests that the assessment adopts a recognised technique,
+         it does not rely on Building Research Establishment guidance in respect of the
+
+2
+    Drawing ref 1213-05
+
+
+https://www.gov.uk/planning-inspectorate   2
+Appeal Decision 6010397
+
+
+      calculation of loss of solar radiation to solar panels. Nor has any other specific
+      guidance been referred to.
+10. However, I am mindful that Policy DM2 of the Framework states that additional
+    information required in determining development proposals should be
+    proportionate to the scale of the development and its potential impact. Based on
+    the evidence before me, there would be some shading and loss of solar irradiation
+    but given the relative siting of the proposed extension and the length and position
+    of the solar panels on No 41’s first-floor south facing roofslope, there would
+    unlikely be a total, or even significant, loss in operation or performance.
+11. Nevertheless, I conclude that the proposed development would have a moderate
+    harmful effect on the operation of solar panels on the neighbouring property at 41
+    Liverpool Road. It would conflict with Policy SD2 of ‘A Local Plan for Sefton’ (2017)
+    which states that development proposals will be assessed against several
+    sustainable development principles, which includes responding to the challenge of
+    climate change and encouraging best use of resources and assets.
+Other Matters
+12. The appeal property is within the Birkdale Village Conservation Area (‘the CA’),
+    which encompasses the local centre of Birkdale and extends along Liverpool Road
+    broadly between the junction with Crosby Road and St Peters Road in the south
+    and Weld Parade in the north. In so far as relevant to this appeal, the CA is
+    significant as an example of a mid-Victorian residential suburb. It is characterised
+    by semi-detached and detached villas, with later-Victorian commercial properties
+    close to the station typically terraced and more tightly developed, with a limited
+    material palette including red brick, white render and Welsh slate.
+13. The appeal property forms part of a short commercial terrace which the Council
+    suggest may have originated as a mid to late C19 pair of semi-detached dwellings,
+    with extensions added to the front and side to create shop units in the mid C20. It
+    is identified in the Birkdale Village Conservation Area Appraisal (2011) as being a
+    building that contributes to the character of the area.
+14. The proposed first-floor extension has been designed to closely match the
+    adjoining property at No. 41 in respect of its front building line, ridge height and
+    roof form, fenestration details and proportions, and materiality. Whilst it would alter
+    the historic plan and symmetry of the original semi-detached pair, it would
+    nonetheless appear a modest and sympathetic addition to the terrace.
+    Accordingly, I am satisfied that the proposal would preserve the character and
+    appearance of the CA. This would meet the requirements of Section 72(1) of the
+    Planning (Listed Buildings and Conservation Areas) Act 1990, and I note that the
+    Council raised no concerns in this respect either.
+15. In addition to the matters dealt with above, issues have been raised regarding
+    parking and highway safety impacts. Whilst I can understand the concerns, there
+    is no compelling evidence before me that the proposal would exacerbate parking
+    demands or problems, particularly given the accessibility of the location to public
+    transport and local services. Accordingly, I have no reason to take a different view
+    to the Council’s Highways Officer on this matter.
+16. The proposed first-floor terrace would meet the Council’s minimum amenity space
+    standards. To each side of the roof terrace would be a 1.8m privacy glass screen
+
+https://www.gov.uk/planning-inspectorate   3
+Appeal Decision 6010397
+
+
+      which would ensure there would be no overlooking towards the terrace or windows
+      of No 41. The screen would be set off the boundary with No.41 so that it would not
+      appear overbearing when viewed from the facing windows on the south elevation
+      of the outrigger. Moreover, the proposed terrace and rear dormer window would be
+      at an oblique angle to the nearest dwelling on Bolton Road and would be sufficient
+      distance away to prevent any overlooking and therein loss of privacy to its garden
+      or rear windows.
+17. Noise, disturbance and disruption associated with the construction of the
+    development itself would be for a finite period and would not in itself justify refusal
+    of the appeal. Matters relating to fire escapes or access would be controlled by
+    separate regulatory regimes. Issues relating to land ownership, rights of way,
+    rights of access, party wall agreements or easements are civil matters outside of
+    the planning process. It is not therefore necessary or appropriate for me to
+    consider these matters further.
+18. Finally, any effect of the proposal on property values is not a matter for me to
+    consider, as the planning system operates in the public interest and does not seek
+    to protect private interests.
+The Planning Balance
+19. The appeal property is within Southport, an identified settlement. Policy S4 of the
+    Framework states that in such circumstances development proposals should be
+    approved unless the benefits of doing so would be substantially outweighed by any
+    adverse effects, when assessed against the national decision-making policies.
+20. For the reasons I have given above, the proposal would have a harmful effect on
+    the operation of solar panels on the neighbouring property at 41 Liverpool Road,
+    but I have found the harm to be moderate. In this regard, it would fail to accord
+    with Policy CC2 paragraph 2 of the Framework which requires that substantial
+    weight be given to the benefits of improving the energy efficiency of existing
+    buildings, including through the installation of solar panels.
+21. I understand that a harmful effect (whether significant or not) on the operation of
+    the solar panels would increase the electricity costs associated with running the
+    Post Office, which provides a valuable service to the community. However, I have
+    little compelling evidence before me that the proposal would result in the closure of
+    the Post Office, or cause harm to the vitality and viability of the wider local centre.
+    In giving substantial weight to supporting the overall vitality and viability of centres,
+    Policy TC2 of the Framework also recognises that this can be achieved through
+    the diversification of uses, intensification and provision of residential
+    accommodation. Together these would likely drive footfall and custom.
+22. Furthermore, the proposal would accord with Policy L2 of the Framework which
+    gives substantial weight to the benefits of creating additional homes within
+    settlements by using the airspace above existing commercial premises, and where
+    they would be consistent with the overall street scene, maintain safe access and
+    egress for occupiers and acceptable living standards for residents and neighbours.
+23. On balance, I find that the benefit of creating an additional home in this location
+    would not be substantially outweighed by the harmful effect on the operation of the
+    solar panels. Therefore, although I have found conflict with the development plan,
+    the Framework is a material consideration of critical importance which indicates
+
+https://www.gov.uk/planning-inspectorate   4
+Appeal Decision 6010397
+
+
+      planning permission should be granted in this instance, and my decision should be
+      made other than in accordance with the development plan.
+Conditions
+24. I have considered the suggested conditions from the Council and have had regard
+    to Policy DM6 of the Framework and the Planning Practice Guidance in terms of
+    the use of conditions.
+25. In the interests of certainty, I have imposed a condition that specifies that the
+    development is carried out in accordance with the approved plans. These specify
+    the materials, so it is not necessary to impose a further condition requiring the new
+    windows to be a timber finish.
+26. To ensure satisfactory living conditions, it is necessary to impose a condition which
+    requires that the private outdoor amenity space has been implemented in full prior
+    to occupation of the dwelling. To protect the living conditions of neighbouring
+    residential properties, it is also necessary to impose a condition requiring the
+    privacy glass screen shown around the outdoor amenity space to be installed prior
+    to occupation and thereafter retained as such. I have combined these conditions in
+    the interests of precision.
+27. Policy DM7 of the Framework is clear than planning decisions should not seek to
+    duplicate or extend controls imposed by separate regulatory regimes other than
+    where there is a development plan policy in place applying optional technical
+    standards for the development proposed. In the absence of evidence of such a
+    policy, I have not imposed a condition requiring a scheme of sound insulation as
+    this would be controlled by Building Regulations.
+Conclusion
+28. For the reasons given above, whilst the proposal would conflict with the
+    development plan, material considerations – particularly the Framework - indicate
+    that the appeal should be decided other than in accordance with it. Therefore, I
+    conclude that the appeal should be allowed.
+
+R Gravett
+INSPECTOR
+
+
+
+
+https://www.gov.uk/planning-inspectorate   5
+

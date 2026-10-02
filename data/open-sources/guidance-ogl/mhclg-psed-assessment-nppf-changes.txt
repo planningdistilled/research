@@ -1,0 +1,2214 @@
+Equality analysis for MHCLG Changes to the
+National Planning Policy Framework
+This document records the ongoing analysis undertaken by the Ministry of Housing,
+Communities and Local Government (MHCLG) to fulfil the requirements of the Public Sector
+Equality Duty (PSED) as set out in section 149 of the Equality Act 2010. This requires the
+department to pay due regard to the need to:
+   1. eliminate discrimination, harassment and victimisation and any other conduct prohibited
+       by the Act
+   2. advance equality of opportunity between people who share a relevant protected
+       characteristic and those who do not
+   3. foster good relations between people who share a relevant protected characteristic and
+       those who do not
+
+The protected characteristics which should be considered are:
+
+   •   age
+   •   disability
+   •   sex
+   •   gender reassignment
+   •   marriage and civil partnership
+   •   pregnancy and maternity
+   •   race
+   •   religion or belief
+   •   sexual orientation.
+
+Please note that in relation to the protected characteristic of marriage and civil partnerships, the
+department is required to have due regard to this only in relation to the first point in the first
+paragraph above.
+
+
+
+
+Public Sector Equality Duty: Changes to the NPPF
+                                                                                                       1
+SECTION 1
+1.1 Policy/Service
+
+   New National Planning Policy Framework - context
+
+
+   The National Planning Policy Framework (NPPF) was introduced in 2012 to consolidate the
+   government’s planning policies for England. It provides a framework within which locally
+   prepared plans are produced and contains national policies to be considered when dealing
+   with planning decisions and particularly applications for planning permission. When a local
+   authority brings forward a plan, they have a statutory duty to have regard to national
+   policies and the NPPF is therefore drafted with the expectation that plans will be consistent
+   with the policies contained within it. This new NPPF incorporates policies currently set out
+   in the government’s Planning Policy for Traveller Sites (PPTS) into the NPPF, to increase
+   clarity and consistency in the planning system. The government’s aims in respect of
+   traveller sites, previously set out in the PPTS, have not changed. National Planning Policy
+   for Waste has not changed and is therefore not considered in this assessment. When
+   preparing plans or making decisions on applications relating to waste development, regard
+   should also be had to the policies in the NPPF, where relevant.
+
+   The NPPF and PPTS were last updated in December 2024.
+
+   This new NPPF sets out a clearer set of policies for both plan-making and decision-making.
+   While many policies reflect the general position in the NPPF 2024, re-drafts have been
+   made to improve clarity and usability. This approach is intended to make national policy
+   easier to understand and apply, rather than to signal a fundamental shift in direction. By
+   presenting policies in a more accessible form, we aim to reduce ambiguity and avoid
+   unnecessary duplication in local plans, while ensuring that national priorities are
+   consistently embedded in decision-making.
+
+   A key objective of this revision is to provide a distinct set of national decision-making
+   policies that can be relied upon without repetition in development plans. This clarity will
+   help streamline processes and support delivery. It is proposed that these new decision-
+   making policies will apply on the day of publication of the new NPPF. The new plan-making
+   policies would apply to local plans prepared in the new system which commenced in March
+   2026. For spatial development strategies the NPPF will apply from the day of publication.
+   For neighbourhood plans the new NPPF will apply to plans submitted to the local planning
+   authority under regulation 15 on or after the date of publication of the final NPPF. The
+   qualifying body may choose to withdraw a neighbourhood plan that has already been
+   submitted and update it to take into account the new NPPF.
+
+   The NPPF has been re-structured starting with an introduction followed by procedural
+   policies relating to plan-making and decision-making. This is followed by chapters on
+
+
+Public Sector Equality Duty: Changes to the NPPF
+                                                                                                   2
+   thematic topics containing both plan-making policies and national decision-making policies.
+   The introduction itself has been redrafted to reflect the structure of the NPPF (i.e. the new
+   style plan-making and decision-making policies) and to be clear on the purpose of plan-
+   making policies to inform the preparation of development plans and of decision-making
+   policies as a material consideration in decision-making. These changes are intended to
+   improve the usability of the NPPF overall. The policies in the NPPF apply across England,
+   and the NPPF makes clear that the plan-making policies should be read as a whole in the
+   preparation of plans and that the decision-making policies should be read as a whole. As
+   the NPPF is implemented locally, it is through the application of the NPPF that any impact
+   will be realised and the weight afforded to individual policies may result in a different on-
+   the-ground impact from that set out in this assessment.
+
+   In addition to structural improvements, the NPPF includes policy changes to better support
+   sustainable growth through plan-making and decision-making.
+
+   Specifically, these include, but are not limited to, changes on:
+       a) A permanent presumption in favour of suitably located development. The policy
+          makes clear what forms of development are acceptable in principle in different
+          locations as part of creating a more rules-based approach to development.
+       b) Building homes around stations. The policy establishes ‘in principle’ support for
+          suitable proposals – a “default yes” – for developing land around rail stations within
+          existing settlements, and around ‘well-connected’ train stations outside settlements,
+          including on Green Belt land. We are also proposing a minimum density of 45
+          dwellings per hectare around ‘well-connected’ stations with a service frequency of
+          8+ trains per hour and 35 dwellings per hectare around ‘well-connected’ stations
+          with a service frequency of 4 trains per hour, subject to limited exceptions.
+       c) Driving urban and suburban densification. We want to get the most use out of
+          suitable land in urban and suburban areas, including through the redevelopment of
+          corner and other low-density plots, upward extensions and infill development –
+          including within residential curtilages. These changes will support higher density
+          development in sustainable locations, with good access to services.
+       d) Securing a diverse mix of homes. We want to better support the needs of different
+          groups through the planning system. This includes stronger support for rural social
+          and affordable housing, and setting clearer expectations for accessible housing to
+          meet the needs of older and disabled people. It also means providing more flexibility
+          on the unit mix of housing for market sale, where local requirements have been met
+          for the mix of affordable homes.
+       e) Supporting small and medium sites. We want to make it easier to bring forward
+          small sites, through clear support for the principle of development in different
+          locations, the policies on building more densely in settlements and strengthened
+          support for mixed tenure development. We are also introducing a category of
+          ‘medium’ development (as a subset of major development) linked to a range of
+          policy and regulatory easements, to support a more streamlined and proportionate
+
+Public Sector Equality Duty: Changes to the NPPF
+                                                                                                   3
+          planning system.
+       f) Streamlining local standards. We want to promote certainty for applicants and speed
+          up local plan production by limiting quantitative standards in development plans to
+          only those where they provide clarity and certainty, are justified by proportionate
+          evidence of local characteristics and needs, and do not duplicate matters already
+          addressed through national standards or other regulatory regimes, except where
+          specific exceptions apply.
+       g) Boosting local and regional economies. We want to encourage economic growth by
+          giving substantial weight to the benefits of supporting business growth, and to
+          particular areas and sectors - including those named in the Industrial Strategy, AI
+          Growth Zones, logistics, town centres and agricultural and rural development.
+       h) Supporting critical and growth minerals. We want to ensure that adequate provision
+          is made for their extraction, recognising their economic importance. In parallel, and
+          in view of the government’s mission to achieve clean power by 2030, we want to
+          restrict further the extraction of coal.
+       i) Embedding a vision-led approach to transport. We want to further embed the
+          changes made in December 2024, which signalled the importance of moving away
+          from a ‘predict and provide’ approach to transport planning that can create
+          unattractive environments dominated by cars.
+       j) Better addressing climate change. We set out how decisions can take a proactive
+          approach to both mitigation and adaptation in relation to climate change, in a way
+          that links to other relevant policies in the NPPF.
+       k) Conserving and enhancing the natural environment. We are making a number of
+          changes, including to reflect Local Nature Recovery Strategies, to recognise
+          landscape character and conserve and enhance existing natural features, to
+          incorporate swift bricks and to provide guidance on sites of local importance for
+          nature.
+       l) Taking a more positive approach to the use of heritage assets. We want a clearer
+          and more positive approach which can better support suitable heritage-related
+          development, replacing the current policies that are difficult to navigate.
+       m) Incorporating relevant policies from PPTS into the NPPF.
+
+
+
+
+SECTION 2
+2.1 Summary of the evidence considered in demonstrating due regard to PSED
+
+   For the purposes of this NPPF PSED assessment, the data the government has collected,
+   over a period, on the housing experience of different households is most relevant here, given
+   planning is a factor affecting different households. In the most up to date English Housing
+   Survey published to date (2024-25 or 2023-24 where more recent data is not yet available),
+   the headline findings on different characteristics were as follows:
+
+
+Public Sector Equality Duty: Changes to the NPPF
+                                                                                                   4
+         •    In 2024-25, there were an estimated 25.0 million households in England. Owner
+              occupation is the largest tenure group, with 16.2 million households, representing 65%
+              of all households. The private rented sector accounts for 4.7 million or 19% of
+              households. The social rented sector remains the smallest since 2013-14. It accounts
+              for 4.1 million households (16%).1
+         •    In 2024-25, 16% of all households had a HRP from an ethnic minority background, a
+              significant increase from 13% five years ago (2019-20). The private rented sector had
+              the largest increase across tenures from 18% in 2019-20 to 30% in 2024-25, followed
+              by the social rented sector from 19% in 2019-20 to 22% in 2024-25). There was no
+              significant increase in the owner-occupied sector (10% in both 2019-20 and 2024-25).
+              Within the social rented sector, in 2024-25 households renting from local authorities
+              were more likely to have a HRP from an ethnic minority background than those renting
+              from a housing association (27% compared to 19%). 2
+         •    In 2023-24, there were 1.5 million households in England that contained a concealed
+              household (defined as having at least one additional adult present who would like to
+              buy or rent their own accommodation but could not afford to do so). This represents
+              6% of households in England. Overall, just over half (54%) of people who were living in
+              a concealed household were aged 16 to 24. 8% of households with an ethnic minority
+              HRP contained at least one adult who was living there because they could not afford to
+              rent or buy elsewhere.
+         •    In 2023-24, households who were the most likely to report difficulties affording their
+              housing costs were in the lower income quintiles, those with dependent children and
+              those based in London. 3
+         •    In 2023-24, there were 9.6 million households containing at least one person with a
+              health condition. The proportion of households where at least one person had a health
+              condition increased over the last decade from just under a third of households (32%) in
+              2013-14 to 35% of households in 2018-19 and then around four in ten households
+              (39%) in 2023-24.4
+         •    Overall, households living in a poor-quality home are more likely to contain at least one
+              member with a long-term illness or health condition. Among those living in damp
+              homes, the proportion with an occupant suffering from a health condition increased
+              from around a third (33%) in 2013-14 to just under half (47%) in 2023-24.5
+         •    In 2024-25, owner occupiers reported higher scores for life satisfaction (mean of 7.8)
+              than the private rented sector (7.1) and social rented sector (6.8). 6
+         •    Among outright owners, female single person households were more common than
+              male (25% female compared to 17% male) in 2024-25. The opposite was true for those
+
+
+1 English Housing Survey 2024 to 2025:  Chapter 1: Profile of households and dwellings - GOV.UK
+2 English Housing Survey 2024 to 2025: Chapter 1: Profile of households and dwellings - GOV.UK
+3 English Housing Survey 2023 to 2024: Experiences of the 'housing crisis' - GOV.UK
+4 English Housing Survey 2023 to 2024: health and housing - fact sheet - GOV.UK
+5 English Housing Survey 2023 to 2024: health and housing - fact sheet - GOV.UK
+6 English Housing Survey 2024 to 2025: Chapter 4: Well-being and loneliness - GOV.UK
+
+
+
+
+Public Sector Equality Duty: Changes to the NPPF
+                                                                                                          5
+                in the private rented sectors (18% single male, 15% single female) and those buying
+                with a mortgage (11% male, 9% female). 7
+           •    Traveller caravan count: January 2026 - GOV.UK The total number of traveller
+                caravans in England on the count date in January 2026 was 29,402, an increase of
+                2,109 (8 %) in comparison with the 27,293 caravans reported in the January 2025
+                count. Overall, the January 2026 count indicated that 83 % of traveller caravans in
+                England were on authorised land and that 17 % were on unauthorised land.
+           •    There were 4,950 unauthorised caravans, an increase of 934 (23 %) since January
+                2025. The number of caravans on authorised socially rented sites was 6,479, an
+                increase of 142 (2 %). People who identified as Gypsy or Irish Traveller are over three
+                times more likely to live in overcrowded accommodation than the England and Wales
+                population (26.5% compared with 8.4%) .
+       The Annual Fuel Poverty Statistics Report (2026, DESNZ) found that in 2025, there were an
+       estimated 9.4% of households (2.36 million) in fuel poverty in England under the Low Income
+       Low Energy Efficiency (LILEE) metric. This is a reduction from 9.9% of households (2.47
+       million) in 2024. The findings on different characteristics were as follows:
+           •    Ethnicity; The rate of fuel poverty (Household Reference Person (HRP) for ethnicity:
+                     o Black HRP: 11.8%
+                     o Asian HRP: 12.0%
+                     o White HRP: 8.9%
+                     o Other ethnicity: 13.9%
+           •    Age; Households where the oldest member was aged 16 to 24 years had the highest
+                fuel poverty rate (18.6%) and households with children typically had higher rates of fuel
+                poverty.
+           •    Disability: Income from disability benefits (Attendance Allowance, Disability Living
+                Allowance and Personal Independence Payment) are not included in the fuel poverty
+                income calculation. This reflects that these benefits were specifically given to manage
+                living with a disability. The analysis does not count households as receiving benefits
+                unless they received another benefit in addition to a disability benefit. The share of fuel
+                poor households receiving benefits rises to 67.3% (from 57.6%) if disability benefits are
+                included.
+       We do not have comparable evidence on gender reassignment, marriage or civil partnership,
+       pregnancy and maternity, religion or belief and sexual orientation in relation to the topics listed
+       above.
+       The equality analysis has been informed by evidence gathered through the public consultation
+       and related stakeholder engagement, alongside the published data set out above. The
+       consultation specifically invited views on equalities impacts through questions 224, 224a and
+       225, which asked respondents to identify any potential impacts of the proposals on
+       businesses, any differential impacts on people with relevant protected characteristics under
+
+7   English Housing Survey 2024 to 2025: Chapter 1: Profile of households and dwellings - GOV.UK
+
+
+
+Public Sector Equality Duty: Changes to the NPPF
+                                                                                                              6
+   the Equality Act 2010, and any appropriate mitigation measures that could inform final policy
+   decisions. Equivalent questions were included in the easy-read version of the consultation at
+   questions 27, 27a and 27b. In total, 399 respondents answered question 224 and 325
+   respondents answered question 225. Eight responses were received to the easy-read
+   consultation, with four respondents answering question 27, five answering question 27a and
+   five answering question 27b. This evidence has been considered alongside engagement with
+   stakeholders, including where respondents raised specific concerns about potential impacts
+   on protected groups, to inform the assessment of likely impacts and any mitigations reflected
+   in this analysis.
+
+
+
+2.2 Assess the impact
+
+   This assessment considers evidence set out in section 2.1 on experiences of different
+   households in relation to age, disability, age, race, alongside the proposed policies in the
+   updated NPPF. Where there are data gaps, we have also considered likely impacts from
+   further information and feedback during the consultation stage.
+
+   Whilst the general intent of most policies in the NPPF remains unchanged, we are making
+   some policy changes and additions where these can support growth and/or fill gaps in
+   national policy where this can address generic planning issues, to support shorter and
+   locally-focussed development plans. The overall aims of updating the NPPF are intended
+   to achieve a number of objectives, including to make national planning policy, and in turn
+   development plans, more accessible, understandable and clear for everyone who uses
+   them and to support timely and consistent planning decisions. This will in turn have
+   equalities benefits, through making it easier for all interested parties to engage effectively.
+
+   There are likely to be neutral to positive impacts on people with protected characteristics as
+   a result of measures in the new NPPF, which are set out in this section. For example,
+   changes to policies that support increased housing delivery may particularly benefit those
+   finding it difficult to access the housing market, including young adults, older people and
+   some ethnic minority groups.
+
+   In some instances, however, the proposed changes may lead to adverse impacts on
+   those with protected characteristics. For example, there may be inadvertent discrimination
+   on certain groups, such as older people and those with disabilities, as a result of the move
+   towards the use of digital tools in planning, particularly for those with limited digital access
+   or skills. There also remain some ongoing potential risks of differential treatment relating
+   to traveller sites, which have been raised through the public consultation and engagement
+   with traveller groups. The likely impacts and mitigations of the specific policies that pertain
+   to Gypsies and Travellers are set out below.
+
+   Through the mitigations identified in this PSED assessment, and in considering the NPPF
+
+
+Public Sector Equality Duty: Changes to the NPPF
+                                                                                                      7
+   as a whole, it is considered that, on balance, these policies deliver more positive benefits
+   for individuals with protected characteristics and for society overall.
+
+   The impact of specific policy changes for each chapter of the NPPF is outlined in detail
+   below, based on the three aims:
+       1. Eliminate unlawful discrimination, harassment, victimisation and any other conduct
+          prohibited by the 2010 Act
+       2. Advance equality of opportunity between people who share a particular protected
+          characteristic and people who do not share it
+       3. Foster good relations between the persons who share a relevant protected
+          characteristic and persons who don’t share it.
+   Areas where there are no differential impacts on people with protected characteristics
+   expected as part of these policy changes are also outlined in this section.
+
+
+   Providing access to homes which people can afford, and a range of suitable employment
+   and services, is central to providing opportunities for all and avoiding disadvantage for
+   groups with protected characteristics. Reflecting this, the assessment starts by reviewing the
+   proposed policies for promoting sustainable development, delivering homes and supporting
+   growth, before moving to those designed to support the creation of high quality, sustainable
+   places.
+
+
+   It then moves to the policies for conserving and enhancing the natural environment, as this
+   also matters for everyone, especially as some groups with protected characteristics may
+   have less access to nature than others, or have homes which may be particularly vulnerable
+   to flood risk. The assessment concludes with the procedural policies for plan and decision-
+   making, which are the key transmission mechanisms through which the policies in the NPPF
+   are given effect.
+
+
+   Achieving sustainable development
+   The aim of these policies is to ensure that the planning system contributes to the
+   achievement of sustainable development. This is a principle that that applies across the
+   NPPF, and should be delivered through plan-making and decision-making. There are three
+   overarching objectives to achieving sustainable development, which are economic, social
+   and environmental. The economic objective is to help build a strong, responsive and
+   competitive economy, by ensuring that sufficient land of the right types is available in the
+   right places and at the right time to support growth, innovation and improved productivity;
+   and by identifying and coordinating the provision of infrastructure, and the social objective is
+   to support strong, vibrant and healthy communities, by ensuring that a sufficient number and
+   range of homes can be provided to meet the needs of present and future generations; and
+   by fostering well-designed, beautiful and safe places, with accessible services and open
+   spaces that reflect current and future needs and support communities’ health, social and
+
+
+Public Sector Equality Duty: Changes to the NPPF
+                                                                                                      8
+   cultural well-being.
+   Generally, it is expected that the proposed policies will have a positive impact on people with
+   protected characteristics. Evidence on likely impacts will be kept under review.
+   1. Eliminate unlawful discrimination, harassment, victimisation and any other conduct
+      prohibited by the 2010 Act.
+       The proposals are likely to generally benefit all groups, and have a positive impact on
+       people with protected characteristic, given they are likely to be disproportionately
+       impacted by inadequate economic opportunities and insufficient housing or services.
+       For example, policies S1 and S2 should ensure that development plans (including by
+       identifying site allocations in a spatial strategy) meet needs of their areas, including
+       objectively assessed needs for housing and other uses. This may have significant
+       positive impacts in terms of housing accessibility, for example older people, young adults
+       and some ethnic minority groups.
+
+
+       Policy S5 seeks to approve certain forms of development outside of settlements where
+       sustainable, that may positively impact people with protected characteristics who may
+       benefit from; increased access to affordable housing, such as those who find it difficult to
+       enter the housing market which could likely include young adults, older people and some
+       ethic minority groups; housing which is located close to railway stations, businesses and
+       facilities in rural areas, such as disabled and older people. Consultation responses raised
+       concerns that policy S5 requires traveller sites to demonstrate unmet need outside of
+       settlements, which was considered to be overly restrictive and could lead to differential
+       outcomes. Concerns were raised about the difficulties of assessing traveller need and the
+       cumulative impacts on site provision, arising from the policies across the Framework. In
+       response to the concerns raised through the consultation, changes to policy HO12 have
+       been made to clarify the demonstration of unmet needs, alongside a commitment to
+       publish guidance on assessing traveller needs. It is intended that this guidance will assist
+       with the demonstration of unmet needs against pitch and plot requirements.
+
+
+   2. Advance equality of opportunity between people who share a particular protected
+      characteristic and people who do not share it.
+       Broadly these policies look to encourage sustainable development, which includes
+       economic objectives (to help build the economy and infrastructure) and social objectives
+       (ensuring a sufficient number and range of homes, accessible services and open
+       spaces). This is likely to have positive impacts on advancing equality of opportunity.
+       Policy SD5 provides ‘in principle’ support to suitable development around well-connected
+       stations. The objective of this policy is to support high density development in sustainable
+       locations, in line with the density requirements set out in policy L3.
+       It is recognised that minimum density requirements, and higher densities more broadly,
+       are unlikely to be suitable for traveller sites and other lower density forms of
+       accommodation. In recognition of this, Policy L3 has been amended to remove minimum
+
+Public Sector Equality Duty: Changes to the NPPF
+                                                                                                      9
+       density requirements for Gypsy and Traveller sites. Further guidance on how the
+       effective use of land for traveller sites can be appropriately achieved will be considered.
+       Policies to support the appropriate provision of traveller sites have also been
+       strengthened – making clear that the development of traveller sites in order to meet
+       evidenced needs will be supported in a range of locations, including outside of
+       settlements and in areas that may not be well related to existing settlements.
+   3. Foster good relations between people who share a particular protected characteristic
+      and people who do not share it.
+       Broadly these policies look to encourage sustainable development, which includes
+       economic objectives (to help build the economy and infrastructure) and social objectives
+       (ensuring a sufficient number and range of homes, accessible services and open
+       spaces). This is likely to have positive impacts on fostering good relations.
+
+   Meeting the challenge of climate change
+   Climate change presents an urgent and far-reaching challenge, with wide-ranging
+   implications for communities, ecosystems, and the economy. The planning system has a
+   vital role to play in reducing emissions and building resilience to its impacts. Policy changes
+   are proposed to support the transition to net zero by 2050 and to help communities adapt to
+   a changing climate, recognising the cross-cutting nature of climate change. These policies
+   aim to ensure that both climate change mitigation and adaptation are appropriately
+   considered in both plan-making and decision-making.
+   4. Eliminate unlawful discrimination, harassment, victimisation and any other conduct
+      prohibited by the 2010 Act.
+       No forms of unlawful discrimination are considered to arise from the policies in the
+       chapter. However, there are several positive impacts arising from the combination of
+       reframing of existing policies, the new approach to signposting policies across the NPPF
+       to ensure a holistic approach to climate change and the introduction of new policies such
+       as those on wildfire risks, which as a whole create a more comprehensive approach to
+       both climate adaptation and mitigation through the planning system. These policies seek
+       to support mitigation and adaptation to climate change by establishing requirements for
+       plan-making and decision-making to reduce emissions, conserve resources, assess
+       current and future climate risks, and improve the resilience of new development,
+       including for those who may be particularly vulnerable to the impacts of a changing
+       climate.
+   5. Advance equality of opportunity between people who share a particular protected
+      characteristic and people who do not share it.
+       The combination of new and reframed policies, alongside signposting to other relevant
+       policies within the NPPF, create a more cohesive approach to mitigating and adapting to
+       climate change through planning. This will have a positive impact on improving resilience
+       to the impacts of climate change, including extreme weather events such as overheating,
+       which can disproportionately affect children and older adults, those with underlying health
+
+Public Sector Equality Duty: Changes to the NPPF
+                                                                                                     10
+       conditions, pregnant people, and those undertaking periods of fasting due to religious
+       beliefs. They also seek to improve resilience to climate related emergencies such as
+       floods and wildfires, which can present additional and disproportionate challenges for
+       some groups, such as some elderly or disabled persons, to receive timely and
+       appropriate assistance, evacuation or relocation.
+       The policies also have a positive effect on mitigating climate change by seeking
+       reductions in greenhouse gas emissions and the conservation of resources. By
+       contributing to wider climate change mitigation efforts, the policies may help reduce
+       longer-term climate-related pressures on food production and water resources, which
+       could otherwise affect the affordability of essential goods and services. This may
+       particularly benefit those more likely to experience disproportionate impacts from rising
+       food and water costs including those who may be more likely to be on lower incomes
+       such as the young and elderly, those with disabilities, pregnancy and maternity, and
+       those from ethnic minorities, and on those that may be follow a more restricted diet due
+       to their religion or beliefs. Any such effects are expected to be indirect, cumulative and
+       long term in nature.
+
+
+   6. Foster good relations between people who share a particular protected characteristic
+      and people who do not share it.
+       There are no clear links between this chapter and fostering good relations.
+
+   Delivering a sufficient supply of homes
+   This chapter sets out how authorities should plan for and support the delivery of housing,
+   including traveller sites and the provision of housing for particular groups. It includes
+   changes to give clearer support for the delivery of housing and traveller sites where there
+   are evidenced unmet needs.
+   7. Eliminate unlawful discrimination, harassment, victimisation and any other conduct
+      prohibited by the 2010 Act.
+       This chapter includes a range of policies that will promote a more strategic approach to
+       the planning for and delivery of housing, boost housing supply, and give clear weight to
+       development proposals that will address unmet needs, including needs for affordable
+       housing and social rent. We have also committed to publishing new guidance on the use
+       of cash payments received in lieu of onsite affordable homes (‘commuted sums’), to
+       provide further clarity on their deployment and calculation. Taken together, these policies
+       will have a positive impact on housing affordability, which will likely benefit those groups
+       who may find it more difficult to enter the housing market by renting or purchasing. This
+       would be likely to include young people, those with disabilities, older people, and those
+       from some ethnic minority groups. With regards to guidance on commuted sums, this
+       may likely improve the delivery of affordable housing where on-site affordable housing
+       provision may be less viable.
+       On accessible housing, our proposals expect authorities to set policies to meet or exceed
+       identified need for M4(2) and M4(3) accessible housing on major development, and
+
+Public Sector Equality Duty: Changes to the NPPF
+                                                                                                      11
+       specify a minimum proportion of at least 40% of major development to be delivered to t he
+       M4(2) standard. These changes are expected to have a positive impact on older and
+       disabled people by driving up the provision of accessible and adaptable, as well as
+       wheelchair accessible, housing. Increasing the housing options available to these groups
+       will help to ensure they do not face discrimination and disadvantage in accessing housing
+       that is suitable to their needs. We have made changes to the policy to make clear that
+       authorities should set out requirements for major development, as opposed to over the
+       plan period. This could reduce the level of homes this applies to, compared to proposals
+       at consultation, given this may not apply to minor development. However, this change will
+       also increase the consistency with which policies apply across the duration and area of
+       the plan, which would prevent the risk that M4(2) requirements are backloaded to later
+       stages of plan delivery, reducing the change of M4(2) developments coming forward.
+       This will also maintain proportionate requirements on small sites, to limit viability impacts
+       and support SME housebuilders. Given that, in the year ending September 2025, over
+       90% of the housing units granted permission were on major development sites, this
+       approach will apply to the majority of new housing.
+       Our proposals more clearly require traveller sites needs to be assessed and targets set,
+       at a strategic level. This will help to ensure traveller site need is addressed appropriately,
+       and is expected to support the provision of greater numbers of traveller sites, in line with
+       local needs. These benefits are likely to be delivered in the medium term, as spatial
+       development strategies are developed and local plans implemented.
+       We have also committed to producing further guidance to assist local authorities in
+       assessing the housing needs of different groups, including for Gypsies and Travellers
+       and older and disabled people, which will help to ensure that housing needs are
+       assessed more accurately and consistently across local areas.
+   8. Advance equality of opportunity between people who share a particular protected
+      characteristic and people who do not share it.
+       This chapter includes new requirements that will help to advance equality of opportunity,
+       by requiring specific provision for the needs of particular groups. This will ensure a
+       greater range of appropriate accommodation choices for those currently underserved by
+       the market. The substantial weight we are applying to unmet needs, including unmet
+       needs for social rent homes should improve access to housing, including for younger
+       people and families, and ensure those most reliant on social rent housing can benefit
+       from the stability that a social home can provide.
+       The consultation explored the benefits and drawbacks of allowing applicants of medium
+       sites to make a financial contribution in lieu of providing onsite affordable homes. The
+       Government has decided not to take the policy forward.
+       The consultation also sought views on applying a minimum proportion of social rent that
+       should be delivered on new developments, unless otherwise specified in the plan. We
+       are not making changes to the NPPF to introduce this policy at this time, following
+       concerns raised through the consultation that this could have an adverse impact on
+       overall numbers of affordable and social housing, and undermines local flexibility.
+       National requirements also risk duplicating requirements introduced, in 2024, for local
+       plans to set out minimum proportions of social rent to be achieved on major
+
+
+Public Sector Equality Duty: Changes to the NPPF
+                                                                                                        12
+       development. These existing requirements for plans to set out the minimum proportion of
+       social rent that should be achieved should still support the government’s ambition to
+       boost the supply of social rent housing, in line with local needs. We will also consider
+       what additional guidance we can provide to assist local authorities in the process of
+       assessing need for social and affordable housing.
+       We have also reintroduced the Vacant Building Credit, which was removed in error in the
+       consultation draft. Maintaining this policy will continue to allow for reductions in affordable
+       housing to be secured where vacant buildings are being reintroduced, which can reduce
+       the amount of affordable housing required on certain sites. However, the policy helps to
+       encourage development on brownfield sites and support bringing vacant buildings back
+       into reuse, whilst maintaining a proportionate approach to delivering affordable housing
+       on these sites.
+       Our changes to accessible housing are also expected to advance equality of opportunity
+       by ensuring a greater range of more appropriate accommodation choices for older and
+       disabled people. This includes new requirements for authorities to set out minimum
+       accessibility standards for new development on major sites to meet or exceed identified
+       need, identify sites suitable for providing specialist older persons’ housing, and setting
+       policies supporting a more diverse tenure mix. In setting an M4(2) minimum floor,
+       consultation responses raised that there is a risk that the figure will be treated as a target,
+       and a number of respondents have also argued for all new housing to be built to this
+       standard. However, we have been clear that the 40% figure is intended to act as a
+       backstop; the majority of local plans do, and should continue to, set higher targets where
+       necessary to meet identified need. As set out in the consultation response, we have also
+       committed to publish further guidance on assessing older persons’ and disabled persons’
+       needs, to ensure that needs assessments are robust.
+       We have also not proposed requiring a minimum national proportion of M4(3) housing,
+       however plan policies will be required to set their own minimum proportions, based on
+       levels of need, which act to secure these benefits in appropriate ways for different areas.
+       It is considered that the proposals in the revised NPPF strike the appropriate balance
+       between providing a backstop in areas without clear requirements, whilst meeting our
+       overall housebuilding ambitions. We also received many representations in the
+       consultation about the additional costs and challenges of providing M4(3) housing,
+       particularly in certain sites with topographical issues, making it particularly important to
+       maintain flexibility here.
+
+
+       We are removing first homes exception sites as a bespoke form of exception site. This
+       can provide greater incentive for the delivery of affordable homes via rural and
+       community led exception sites, which can support those groups more reliant on
+       affordable homes, and ensure that the mix of affordable housing delivered on exception
+       sites better delivers local needs. Where there is a need for affordable home ownership
+       products, such as discounted market sales housing, these will continue to be able to
+       come forward where this meets local need.
+
+Public Sector Equality Duty: Changes to the NPPF
+                                                                                                         13
+   9. Foster good relations between people who share a particular protected characteristic
+      and people who do not share it.
+       Policies to encourage more diverse sites and ensure housing for particular groups is
+       located appropriately could help to foster good relations between different communities.
+       For example, the support for setting proportionate requirements for major development
+       sites can aid in ensuring new developments provide for intergenerational communities,
+       with a mixture of housing types aimed at to provide for the needs of different groups. We
+       have not proceeded with the proposal to set out tenure mixes for sites of 150 units or
+       more, in order to allow for the appropriate mix of tenures required to be considered more
+       flexibly on a site by site basis. We have also introduced new requirements for specialist
+       housing to ensure these come forward in the right locations and with the right access to
+       services, which will help to ensure integration of this accommodation within communities.
+
+
+       The new NPPF (policy HO8) allows applicants to provide affordable homes off-site on an
+       alternative nearby site where this would optimise the quality or quantity of affordable
+       homes built. Some consultation respondents expressed concern that this policy could
+       negatively impact mixed communities, rural and coastal sites. Some pointed out how the
+       shortage of affordable homes in some areas will not be resolved if developers are able to
+       provide the housing too far away from the site. However, it was considered that this could
+       be prevented through provision of sufficient evidence to decision-makers. The policy
+       requirement as consulted on – that affordable homes should be provided onsite unless
+       offsite provision on an alternative nearby site would optimise the quality or quantity of
+       homes built – has been retained.
+
+
+       It is recognised that in relation to medium sites, there could be a higher proportion of
+       single-tenure or fewer mixed-tenure schemes, which may have implications for the
+       development of mixed and integrated communities. However, this risk is considered
+       proportionate and justified, on the basis that such schemes are likely to represent
+       developments that would not otherwise come forward, and therefore support the overall
+       objective of increasing housing supply and access to housing for a wider range of
+       households.
+
+   Planning Policy for Traveller Sites
+   Policies relating to traveller sites are not based on ethnicity. The definition of “Gypsies and
+   Travellers” and “Travelling Show-people” in the NPPF encompass a broad range of groups
+   covering specialist accommodation needs. It is recognised that the policies will mostly
+   impact on Romani Gypsies and Irish Travellers who are recognised as an ethnic group
+   protected under the Equality Act 2010. There is also a positive duty to facilitate the Gypsy
+   way of life.
+
+
+Public Sector Equality Duty: Changes to the NPPF
+                                                                                                     14
+   Policy in relation to the provision of traveller sites was previously set out in Planning Policy
+   for Traveller Sites (PPTS). Following consultation, the new NPPF incorporates the specific
+   policies that relate to the provision of traveller sites in accordance with its overall aims to
+   support the delivery of a substantial increase in the supply of homes and traveller sites, by
+   ensuring that a sufficient amount and variety of land can come forward where needed.
+   These aims are to be considered in light of the government’s wider aim which is to ensure
+   fair and equal treatment for travellers, in a way that facilitates the traditional and nomadic
+   habit of life of travellers while respecting the interest of the settled community.
+   These aims are reflected through the objectives and specific plan making and national
+   decision-making policies in the NPPF. We sought views through the consultation on whether
+   the incorporation of the policies have addressed these aims more generally. Impacts arising
+   from specific housing and accommodation policies are set out below.
+   10. Eliminate unlawful discrimination, harassment, victimisation and any other conduct
+       prohibited by the 2010 Act.
+       Changes have been made to the policy to ensure that traveller site need is assessed,
+       and targets set, at a strategic level, in line with other more general housing. Other
+       changes have been made in the NPPF to ensure that traveller provision is included,
+       where relevant and in light of the consultation responses. The majority of respondents
+       supported the merging of the PPTS in this way, with some arguing that the embedding of
+       Traveller policy could support equitable outcomes. Concerns were however also raised
+       about the likely adverse impacts of settlement policies, those relating to density
+       requirements and the policy on intentional unauthorised development on the Gypsy way
+       of life.
+       Consultation responses have highlighted concerns over the extent to which assessments
+       of traveller need allow for unmet need to be demonstrated, which could impact on the
+       ability of traveller sites to come forward. 2020 research from Friends, Families and
+       Travellers shows that only 8 out of 68 local authorities in the South East of England
+       identified a 5-year supply of deliverable Traveller sites, which supports claims that the
+       current system creates challenges for assessing and meeting need. Respondents also
+       raised the need for further guidance on how traveller accommodation needs
+       assessments should be undertaken, to ensure needs are not underestimated. To
+       address these concerns, the government has committed to publishing Planning Practice
+       Guidance which will set out in greater detail how authorities should assess and plan to
+       meet need for traveller sites.
+       A number of respondents have also raised concerns regarding the impact of density
+       requirements around well-connected stations. As discussed above, we have exempted
+       traveller sites from meeting minimum density requirements. As part of our planned
+       update to guidance on traveller sites, we will consider what further guidance may be
+       needed on how traveller sites can make efficient use of land. Together, we believe the
+       combination of guidance on assessments of need as well as the density exemptions will
+       help address the concerns raised by consultees and align, where appropriate, traveller
+       planning policy with that of bricks and mortar housing.
+
+Public Sector Equality Duty: Changes to the NPPF
+                                                                                                      15
+       We have also made some changes to the criteria in Policy HO12 in response to feedback
+       at consultation. Some elements of these, such as criteria regarding the impacts of
+       environmental quality on the health and well-being of travellers, risked suggesting
+       different policies applied to traveller sites as opposed to bricks and mortar. We have
+       removed these references to make clear that wider policies regarding ensuring healthy,
+       safe environments for residents will apply to traveller sites. Responses also suggested
+       that clauses referring to not enclosing the site, and providing adequate play areas, would
+       be better considered as part of design guidance. As part of our proposals for guidance on
+       traveller sites, we intend to produce guidance on the design of traveller sites, reflecting
+       the concerns raised through the consultation. We have also removed references to
+       limiting the need for long distance travelling from the policy in response to the
+       consultation.
+
+
+   11. Advance equality of opportunity between people who share a particular protected
+       characteristic and people who do not share it.
+       Our changes will help to support better and more accurate assessments of traveller
+       need, which can support the provision of traveller sites. This can help to address issues
+       with under provision of traveller sites and reduce the reliance on unauthorised
+       developments and encampments. We have also set clear criteria for how traveller sites
+       should be identified in policy HO12. This responds to feedback from traveller
+       stakeholders that the criteria currently set by local authorities are too restrictive, by
+       replacing these with consistent national criteria. For instance, we have removed
+       references that allow authorities to set policies requiring travellers to demonstrate a lack
+       of alternative accommodation, which do not apply to bricks and mortar development. It
+       also responds to concerns about traveller sites being located in areas of poor
+       environmental quality.
+       There remain some ongoing risks of potential differential treatment relating to the
+       approach to assessing need for traveller sites, and the lack of supply buffers or delivery
+       tests relating to traveller sites. There are no buffers or Housing Delivery Test (HDT)
+       consequences that are applied to the pitch and plot requirements in the same way as for
+       brick and mortar housing, due to the way in which land comes forward for traveller sites.
+       As highlighted above, additional guidance on this matter should lead to improvements in
+       how need is assessed for Traveller sites, therefore advancing equality of opportunity.
+   12. Foster good relations between people who share a particular protected characteristic
+       and people who do not share it.
+       Reliance on unauthorised developments and encampments may increase community
+       tensions. Our changes to better support the delivery of sufficient traveller sites to meet
+       need, including through additional guidance on assessing need, can help to foster good
+       relations by reducing the reliance on unauthorised sites. The presumption of
+       development within settlements could also lead to better integration of traveller sites
+       within existing communities.
+
+
+
+Public Sector Equality Duty: Changes to the NPPF
+                                                                                                      16
+   Building a strong, effective economy
+   These policies aim to support businesses and long-term economic growth to bring positive
+   local and national economic impacts which could impact those with the following protected
+   characteristics:
+   Age and Disability:
+       •   Policy E4 encourages the sustainable growth of businesses, including through
+           measures to retain and expand accessible shops and services. This could have a
+           positive impact on both people with disabilities and elderly people living in rural areas
+           who may be less mobile and are more likely to benefit from services provided by local
+           shops and services.
+       •   Policy E3 sets out that development proposals for freight and logistics should have
+           acceptable impacts on local residents. This is an important safeguard on
+           neighbouring residential uses, particularly for people with protected characteristics as
+           any impacts could have a disproportionate impact on elderly and disabled people who
+           may be more restricted at home because of limited mobility and/or they are unable to
+           work.
+   13. Eliminate unlawful discrimination, harassment, victimisation and any other conduct
+       prohibited by the 2010 Act.
+       It is not considered that the policies will have a negative impact on the duty to have
+       regard to the elimination of unlawful discrimination. The plan-making policy (E1) sets out
+       that development plans should seek to address potential barriers to investment, such as
+       inadequate infrastructure, services or housing. This would generally benefit all groups,
+       and have a positive impact on people with protected characteristics as they are likely to
+       be disproportionately impacted by inadequate infrastructure and housing.
+   14. Advance equality of opportunity between people who share a particular protected
+       characteristic and people who do not share it.
+       It is not considered that the policies will have a negative impact on the duty to have
+       regard to advance equality of opportunity. Broadly these policies look to support
+       businesses and encourage long-term economic growth, this is likely to have positive
+       impacts through new opportunities for employment on people with protected
+       characteristics who are disproportionately likely to have low incomes. The policies also
+       aim to support and expand accessible shops and local services which would likely have
+       positive impacts on people with protected characteristics who may have limited mobility
+       (e.g. older people or people with disabilities).
+   15. Foster good relations between people who share a particular protected characteristic
+       and people who do not share it.
+       It is not considered that the policies will have a negative impact on the duty to have
+       regard to fostering good relationships. The policy for freight and logistics sets out that the
+       impacts of proposals on local residents should be acceptable. This is an important
+       safeguard on neighbouring residential uses, particularly for people with protected
+       characteristics as any impacts could have a disproportionate impact on elderly and
+
+Public Sector Equality Duty: Changes to the NPPF
+                                                                                                        17
+       disabled people who may be more restricted at home because of restricted mobility
+       and/or they are unable to work. The policies also seek to support rural leisure, tourism
+       and local services which would benefit the local economy and could also give rise to
+       positive impacts on fostering good relations in local areas.
+
+
+   Ensuring the vitality of town centres
+   We are making changes to the NPPF to boost the vitality and viability of our town centres –
+   policies focus on encouraging mix use development.
+   16. Eliminate unlawful discrimination, harassment, victimisation and any other conduct
+       prohibited by the 2010 Act.
+       The policies aim to promote a town centre-first approach to the delivery of main town
+       centre uses. This includes encouraging and giving substantial weight in decision making
+       to the intensification of use, including through residential development. The policy
+       changes could therefore have a positive impact on people's access to community
+       facilities. This may positively affect people with protected characteristics. Further,
+       detailed consideration of specific protected characteristics are outlined below:
+         •   Age: Provision of more walkable and accessible services and encouraging
+             intensification of use in town centres will increase access to vital services for the
+             elderly and young. In addition to this the expansion of the definition of main town
+             centre uses to include banking and professional services is intended to increase
+             access to in person banking services, which have been in significant decline. The
+             loss of in person banking disproportionately affects the elderly who may struggle to
+             interact with online banking offers.
+         •   Disability: The provision of more accessible community services as advocated for
+             by these policies will benefit individuals with a disability. By prioritising the location
+             of main town centre uses within town centres this reduces the need for car use,
+             which would both reduce air pollution which may disproportionately affect those with
+             a disability and, coupled with policies in the Transport chapter promoting
+             accessibility the NPPF will increase equal access to services for individuals with a
+             disability. Encouraging intensification of residential use in town centre locations will
+             also positively impact those with disabilities who will have greater opportunity to live
+             in these areas and increase their access to services.
+         •   Sex & gender reassignment: Improving access for all individuals to community
+             services will equally benefit those undergoing sex and gender reassignment.
+         •   Pregnancy and maternity: Similarly to those with disabilities, focusing town centre
+             development within town centres will support the consideration of those with limited
+             mobility during pregnancy, postpartum and for those with strollers/carriers for their
+             children in new development proposals.
+         •   Race, religion or belief & sexual orientation: Improving access will benefit all
+             individuals, including those looking to access community services such as places of
+
+
+Public Sector Equality Duty: Changes to the NPPF
+                                                                                                          18
+            worship.
+   17. Advance equality of opportunity between people who share a particular protected
+       characteristic and people who do not share it.
+       This chapter will have a positive impact on advancing equality by improving access to
+       community services for those with protected characteristics.
+   18. Foster good relations between people who share a particular protected characteristic
+       and people who do not share it.
+       The policies in this chapter will have a positive impact on communities. Improving access
+       to community services within town centres will encourage the integration of those with
+       protected characteristics.
+
+
+   Supporting high quality communications
+   The amendments to Policies CO1 and CO2 aim to enable the expansion and upgrading of
+   telecommunications networks, including 5G and gigabit-capable broadband, while
+   maintaining safeguards and clarifying the supportive information required. These changes
+   are intended to accelerate delivery and improve digital connectivity across the UK.
+   The changes are not considered to have a negative impact directly or indirectly on any
+   protected group or those who share protected characteristics or impact on them in different
+   ways from people who are not in any Group or do not share those protected characteristics.
+   Improved infrastructure delivery should benefit communities as a whole, including protected
+   groups within those communities.
+   19. Eliminate unlawful discrimination, harassment, victimisation and any other conduct
+       prohibited by the 2010 Act.
+       It is not considered that the policies will have a negative impact on the duty to have
+       regard to the elimination of unlawful discrimination.
+   20. Advance equality of opportunity between people who share a particular protected
+       characteristic and people who do not share it.
+       The policy could have a positive impact on those with protected characteristics by
+       reducing disadvantages to those groups through greater digital inclusion, improved
+       connectivity and providing equitable access to digital services – particularly for those
+       living and working in more rural areas where mobile coverage tends to lag behind more
+       urban areas.
+   21. Foster good relations between people who share a particular protected characteristic
+       and people who do not share it.
+       The telecommunication infrastructure policies aim to improve connectivity which could
+       have a positive impact fostering good relationships.
+
+   Securing clean energy and water
+   Policies are proposed that recognise the importance of energy and water infrastructure,
+   bringing together amended policies on renewable and low carbon energy with two new
+
+Public Sector Equality Duty: Changes to the NPPF
+                                                                                                   19
+     policies on planning for energy and water, and on decision-making for water infrastructure.
+     22. Eliminate unlawful discrimination, harassment, victimisation and any other conduct
+         prohibited by the 2010 Act.
+          No forms of unlawful discrimination are considered to arise from the policies on water
+          and energy.
+          The introduction of new plan-making policy for energy and water will ensure that
+          development plans are aligned with the capacity and future requirements of energy and
+          water infrastructure, taking into consideration the implications of planned growth,
+          changing consumption patterns, and the impacts of climate change. New decision-
+          making policy for water infrastructure will positively impact on the delivery of water
+          supply, drainage and wastewater infrastructure.
+          In addition, there are also positive impacts arising from the reframing of the existing
+          energy polices and alongside the introduction of new elements, such as specific
+          references to electricity network infrastructure, as these policies will facilitate the delivery
+          of renewable and low carbon energy developments and electricity network infrastructure.
+          In combination, it is anticipated that the policies in this chapter will improve energy
+          security, support economic development, contribute towards a net zero future and
+          facilitate the delivery of water infrastructure.
+          These benefits will have a positive impact on those who may be particularly vulnerable to
+          the impacts of a changing climate and to fluctuations in utility prices and supply.
+     23. Advance equality of opportunity between people who share a particular protected
+         characteristic and people who do not share it.
+          The new and reframed policies facilitating the development of energy and water
+          infrastructure will strengthen energy security, support economic growth, and create jobs
+          by enabling investment in clean technologies and resilient networks.
+          This will have a positive impact on those more likely to experience fuel poverty or to be
+          affected by rising utility prices or supply impacts. This includes those who may be more
+          likely to be on lower incomes, such as the young and elderly, those with disabilities,
+          those who are pregnant or on pregnancy and maternity leave, and those from ethnic
+          minorities8.
+     24. Foster good relations between people who share a particular protected characteristic
+         and people who do not share it.
+          There are no clear links between this chapter and fostering good relations.
+
+     Facilitating the sustainable use of minerals
+     The policies in this chapter seek to ensure that a sufficient supply of minerals is provided to
+     meet society’s needs, while ensuring this is delivered in a manner that does not give rise to
+
+
+8 Department for Energy, Security and Net Zero, Annual Fuel Poverty Statistics report 2025,
+
+
+
+
+Public Sector Equality Duty: Changes to the NPPF
+                                                                                                             20
+   unacceptable environmental impacts.
+
+
+   The policy changes support the supply of critical and growth minerals to support economic
+   growth and the transition to a low-carbon economy, recognising their increasing importance
+   in supporting the delivery of green energy, achieving net zero and maintaining national
+   security. Policies also introduce a more restrictive approach to fossil fuel extraction.
+   Supporting the exploration, extraction and processing of critical minerals may lead to an
+   increase in mineral development activity. Conversely, the transition away from fossil fuels to
+   prevent the risk of negative environmental impacts may lead to a reduction in activity within
+   the coal and onshore oil and gas sectors.
+
+
+   Mineral resources are inherently constrained by geology, and therefore mineral development
+   is often concentrated in particular locations and around specific communities, such as rural
+   villages, market towns and areas with an established history of mineral extraction. This can
+   result in localised environmental effects, including noise, dust and traffic movements, which
+   may affect nearby residents, businesses and local services, particularly where communities
+   are located in close proximity to mineral sites.
+
+
+   Increased mineral activity in an area may give rise to indirect impacts, particularly for people
+   with protected characteristics of age, disability and potentially pregnancy and maternity.
+   These groups may be more sensitive to changes in the local environment, including noise,
+   dust, traffic and impacts on accessibility.
+
+
+   The NPPF addresses these risks through requirements for robust and proportionate
+   assessment, including the consideration of cumulative impacts. It also requires that
+   development does not give rise to unacceptable adverse effects on human health or the
+   environment. This approach, alongside other regulatory regimes, provides appropriate
+   safeguards to manage potential inequalities in impacts while supporting the delivery of
+   minerals.
+
+
+   25. Eliminate unlawful discrimination, harassment, victimisation and any other conduct
+       prohibited by the 2010 Act.
+       There are no clear links between this chapter and the elimination of unlawful
+       discrimination.
+   26. Advance equality of opportunity between people who share a particular protected
+       characteristic and people who do not share it.
+       The policies in this chapter seek to ensure the sufficient supply of minerals to provide the
+       infrastructure, buildings, green energy and goods that the country needs. As such, these
+       policies are vital to support increased housing delivery which will benefit young adults
+       who are often disproportionately affected by the housing crisis. People with disabilities
+       may also benefit as more accessible homes are provided.
+
+Public Sector Equality Duty: Changes to the NPPF
+                                                                                                      21
+     27. Foster good relations between people who share a particular protected characteristic
+         and people who do not share it.
+          There are no clear links between this chapter and fostering good relations.
+
+
+     Making effective use of land
+     Making best use of land is fundamental to the planning system – it allows needs for
+     development to be met efficiently, while safeguarding and improving the environment. Many
+     urban areas in England have been developed at relatively low densities, particularly when
+     compared to continental Europe9. In many places, there is potential for higher densities, to
+     better support thriving neighbourhoods, improve access to jobs and services, and make the
+     best use of land within our towns and cities. The policy changes in this chapter seek to
+     capture this potential in two ways - by supporting intensification of land uses in urban areas
+     and setting clear expectations for minimum densities in locations with good transport
+     connectivity. This policy aims to support the government’s ambitions to deliver 1.5 million
+     homes and thereby improve access to housing.
+     Locations with good public transport connectivity can support residential and mixed-use
+     development at higher densities. This is because good connectivity reduces the need to
+     travel, less land is required for parking and road infrastructure, and opportunities for active
+     travel are maximised. As result, higher density development can create sustainable, well-
+     designed places, with good access to jobs and services.
+     Several amendments have been made to the proposals consulted upon. As updated, the
+     specific policies contained in the chapter include:
+          •    Policy L1: Planning for an effective use of land consolidates plan-making policy in the
+               existing NPPF. It also encourages development plans to identify specific areas
+               suitable for intensification and to set minimum density requirements in locations
+               capable of supporting more efficient use of land, going beyond the baseline
+               requirements of Policy L3.
+          •    Policy L2: Making effective use of land provides strengthened support for certain
+               types of development that support the intensification of built-up areas – including
+               corner plots, redeveloping low density plots, and infill development (including within
+               residential curtilages) and completing gaps in existing rooflines. The policy introduces
+               clear high-level design parameters for such development.
+          •    Policy L3: Achieving appropriate densities introduces an expectation that proposals
+               will contribute to an uplift in density unless there is a clear justification that this is
+               either inappropriate or not possible, and to this end sets minimum density
+               requirements for development around well-connected railway stations, which are
+               defined by a new glossary definition, with different minimum densities applying
+               depending on the frequency of train service. A new definition of ‘reasonable walking
+               distance’ has been introduced to provide greater clarity and to confirm that the
+
+
+9 https://www.centreforcities.org/reader/net-zero-decarbonising-the-city/cities-need-to-become-denser-to-achieve-net-zero/
+
+
+
+
+Public Sector Equality Duty: Changes to the NPPF
+                                                                                                                             22
+          minimum density requirements apply only to those parts of a site that fall within that
+          distance.
+   28. Eliminate unlawful discrimination, harassment, victimisation and any other conduct
+       prohibited by the 2010 Act.
+       In seeking to encourage local authorities to optimise the use of allocated sites to provide
+       community facilities that reduce the need to travel (Policy L1), the chapter may help to
+       eliminate unlawful discrimination against those communities which would not otherwise
+       have facilities of their own. This reinforces policies HC1 and HC3 which provides further
+       detail on how community facilities should be planned for.
+       Traveller sites are often developed at densities lower than those proposed in the policy
+       on land around stations – and these lower densities in many cases help these sites to
+       better accommodate a traveller way of life. To prevent minimum density standards
+       impeding suitable traveller accommodation coming forward (thereby risking indirect
+       discrimination), the government has introduced an exemption from the density standards
+       for traveller sites.
+       For other protected characteristics, there is much less clear evidence that the policies in
+       this chapter could risk preventing accommodation from being developed which meets the
+       needs of that group. For example, while density standards may impede the provision of
+       bungalows for older people, they bolster support for flatted and communal care older
+       people’s accommodation (and received support from providers of such accommodation
+       through the consultation process). In many cases, as covered below, the policies in this
+       chapter may in fact work to increase the supply of accommodation appropriate to specific
+       groups in a way which advances equality of opportunity and helps to eliminate
+       discrimination. Further, as covered below, we have introduced changes to the density
+       policies following consultation to allow flexibility to cater for the needs of these groups.
+      Policy L3, and related policies GB7 and S5, refer to land within reasonable walking
+      distance of stations. Partly to account for the fact that some groups (such as older and
+      disabled people) may face greater challenges with walking, the new definition of
+      ‘reasonable walking distance’ explicitly allows for route availability, quality and physical
+      barriers to be considered. The needs of those less able to walk are also supported by
+      other NPPF policy, as are the needs of those unable to walk. Policy HO5 requires local
+      authorities to have greater ambition in the provision of wheelchair-accessible housing,
+      while policies in the transport chapter – in particular TR4 – help to ensure that
+      developments’ access arrangements meet the needs of disabled and older people.
+       Regarding harassment and victimisation, the chapter contains safeguards which aim to
+       ensure that residents and neighbours can maintain acceptable living standards (L2),
+       including designing for factors such as privacy and overlooking which may lessen the
+       capacity for, and impact of, harassment and victimisation between neighbours.
+   29. Advance equality of opportunity between people who share a particular protected
+       characteristic and people who do not share it.
+       The overall aim of much of this chapter is to encourage more development, by supporting
+
+Public Sector Equality Duty: Changes to the NPPF
+                                                                                                      23
+         high density development in sustainable locations. If effective, this would expand access
+         to housing, and other infrastructure coming forward through mixed use development, with
+         the largest positive effects likely in those groups currently least able to afford or otherwise
+         access appropriate housing. This may help to reinforce the policies in the housing
+         chapter which seek to encourage local authorities to plan for housing for different groups,
+         including affordable provision.
+         Specific policies in the chapter may also advance equality of opportunity for groups with a
+         protected characteristic. Policy L3, which encourages densification around stations, may
+         advance equality of opportunity for groups who are less able or unable to drive (e.g.
+         children, older people, and those with certain disabilities) by encouraging more housing
+         to be provided in locations which facilitate easier access to public transport– and this is
+         reinforced by policy elsewhere in the NPPF to prioritise walking, wheeling, cycling and
+         public transport (TR1, TR3, CC2). The TTWA threshold which forms part of the criteria
+         for a ‘well connected’ station has increased from top 60 to top 80 TTWAs ranked by
+         economic gross value added. This means that the size of these effects could be greater
+         than what was previously consulted upon. Reductions in the proposed minimum densities
+         (when compared to the consultation draft) may lessen the size of these effects. However,
+         this may be counterbalanced by those reductions making development viable around
+         more stations then previously, which should increase the number of homes built and
+         therefore the effects of the policy.
+         The consultation also raised concerns that policy L3(2)(a), which states that development
+         proposals should contribute to an increase in the area’s density, could limit the flexibility
+         needed to meet the housing needs of different groups. In response, the government has
+         amended the policy to include a specific exception for sites where it can be demonstrated
+         that meeting the density requirements is either inappropriate or not possible. This change
+         acknowledges that in some circumstances, meeting specific housing needs (such as for
+         older people or families with children) may require development at lower densities. This
+         should broaden the types of housing which can be delivered in many areas, particularly
+         in areas of existing high densities, and better support the needs of groups with protected
+         characteristics.
+         Concerns were also raised through the consultation regarding the application of minimum
+         density requirements to traveller sites, which together with Policy S5, could give rise to
+         adverse impacts on traveller provision. Following consultation feedback, the revised
+         NPPF provides a specific exclusion for traveller sites (of all sizes) from the minimum
+         density requirements set out in Policy L3. We will also consider further guidance on how
+         the effective use of land for traveller sites can be appropriately achieved.
+         New policy on upward and other dwelling extensions (L2(1)(d)) may advance equality of
+         opportunity for religious or cultural groups who, in some cases, are more likely to have
+         larger families10.
+
+
+10 https://www.createstreets.com/wp-content/uploads/2021/12/Tottenham-Paper-1.9.pdf
+
+
+
+
+Public Sector Equality Duty: Changes to the NPPF
+                                                                                                           24
+   30. Foster good relations between people who share a particular protected characteristic
+       and people who do not share it.
+       The proposals may help to foster good relations between different groups through the
+       creation of higher density, well designed and sustainable communities. Improved access
+       to local services, facilities and employment opportunities could further support this
+       objective.
+       When combined with policies contained in the housing chapter and elsewhere (e.g. DP3
+       encouraging mixed communities, and HC1/HC3 encouraging community facilities), the
+       chapter (and particularly policies L1 and L3 which encourage higher densities) may help
+       to create mixed communities in which different groups encounter one another more
+       frequently, helping to foster good relations between them.
+      This is reinforced by policy L1’s encouragement to optimise allocated sites by securing
+      multiple benefits including community facilities; where these community facilities cater
+      primarily or partly to people with a particular protected characteristic (e.g. religion, age,
+      disability, race), this may help to foster good relations between the group sharing that
+      protected characteristic and others.
+
+   Protecting Green Belt land
+   Changes to Green Belt policy include changes to the definition of grey belt, to simplify the
+   process of identifying grey belt land, and other changes aimed at introducing further clarity.
+   These include clearer expectations of how authorities should review Green Belt land, plan
+   for the beneficial use of Green Belt land, and consider development which is not
+   inappropriate in the Green Belt. Changes will also help to support sustainable development
+   in well-connected locations.
+
+
+   The revised NPPF includes a policy to lift the current restriction on the use of site-specific
+   viability assessment on certain types of sites subject to the ‘Golden Rules’, namely where
+   the development proposal is:
+       (i)    On previously developed land and demonstrably burdened by costs associated
+              with that previous development which were not taken into account in the viability
+              assessment that informed the development plan;
+       (ii)   For a strategic site; or
+       (iii)  For a development which is of a wholly different type to that considered in the
+              viability assessment that informed the development plan.
+   Where development comes forward following viability assessment, negotiation over
+   developer contributions may affect the tenure and or quantum of affordable housing
+   delivered. However, without the use of viability assessment, schemes are less likely to be
+   delivered. The policy makes clear that significant reductions in affordable housing below
+   Golden Rules requirements will only be acceptable in exceptional cases where fully
+   evidenced and justified.
+   31. Eliminate unlawful discrimination, harassment, victimisation and any other conduct
+
+
+Public Sector Equality Duty: Changes to the NPPF
+                                                                                                      25
+       prohibited by the 2010 Act.
+       In making changes to the NPPF in 2024 we sought to ensure that its policies would be
+       applied equally to all those with protected characteristics. In particular we acted to
+       address concerns about the definition of ‘gypsies and travellers’, to align the NPPF more
+       closely with PPTS and facilitate the traditional and nomadic way of life for Gypsies and
+       Travellers. Changes made to this chapter will continue to support an equitable approach
+       to development in the Green Belt. We are incorporating policy from the PPTS, which
+       currently sets out specific policies relating to traveller sites in the Green Belt, into the
+       wider NPPF. This does not entail any major policy changes in relation to traveller sites in
+       the Green Belt, but incorporation within the wider NPPF could help to eliminate unlawful
+       discrimination. Following consultation feedback, we are ensuring policy GB7(1)(h) applies
+       to traveller sites, alongside bricks and mortar housing, and are making changes to policy
+       L3 to ensure traveller sites are not adversely impacted by proposed density
+       requirements.
+   32. Advance equality of opportunity between people who share a particular protected
+       characteristic and people who do not share it.
+       We do not expect the PSED impacts identified in our December 2024 changes to be
+       significantly altered. Our changes predominantly aim at setting out existing policy in a
+       clearer and more rules-based way. This would be expected to benefit all groups involved
+       in the planning system. Ensuring that policies around traveller sites are incorporated into
+       the Green Belt chapter may help to ensure equitable treatment of traveller sites in the
+       Green Belt, by reducing the risk of authorities applying Green Belt policies in differential
+       ways, and mitigating against associated adverse impacts. This can help to advance
+       equality of opportunity between people who share a protected characteristic and those
+       who don’t.
+       New policy making clear development near well-connected stations is not inappropriate
+       in the Green Belt will apply to traveller sites, as well as bricks and mortar. We have also
+       made changes to policy L3, following consultation feedback, to ensure that density
+       requirements in these locations do not adversely impact traveller site development.
+       Lifting the current restriction on the use of site-specific viability assessment on certain
+       types of sites subject to the ‘Golden Rules’ would likely enable more sites to come
+       forward, increasing the overall supply of homes, which may advance equality of
+       opportunity for any people who are more likely to benefit from additional housing supply.
+       Where sites come forward following a viability assessment, negotiation over developer
+       contributions is likely to reduce the proportion of affordable housing provided. Overall,
+       however, we expect the impact of increasing supply (including as much affordable
+       housing as is viable on site) to be more beneficial than sites not coming forward at all. In
+       addition, the policy makes clear that significant reductions in affordable housing below
+       Golden Rules requirements will only be acceptable in exceptional cases where fully
+       evidenced and justified.
+       In addition, the policy may support the provision of older people’s housing, and other
+       types of specialist or supported housing, which may advance equality of opportunity for
+
+Public Sector Equality Duty: Changes to the NPPF
+                                                                                                      26
+       people based on the protected characteristics of age and disability.
+   33. Foster good relations between people who share a particular protected characteristic
+       and people who do not share it.
+       Changes to allow spatial development strategies a clearer role in reviewing Green Belt
+       land could support a more strategic approach to the Green Belt, which could support
+       more strategic planning to meet the needs of underserved groups. Consultation feedback
+       also recognised that the incorporation of policy from PPTS into the NPPF, making
+       specific policies for traveller sites more visible, could also help to ensure all planning
+       needs are treated equitably. These could have an indirect effect on fostering good
+       relations between communities, by tackling prejudice and promoting understanding, if it
+       led to approaches that better supported planning to meet traveller site need.
+
+   Achieving well-designed places
+   The NPPF places emphasis on the planning and development process creating high-quality
+   buildings and places for all users.
+   The proposed policies are generally expected to have a positive impact on people with
+   protected characteristics, as they will together help provide clarity on how to achieve good
+   design holistically in the planning system and ensure communities benefit from well-
+   designed places that provide a variety of homes for all needs.
+   In particular, there will be positive impacts in relation to advancing equality of opportunities
+   for the following protected characteristics:
+       •   age
+       •   disability
+       •   sex
+   34. Eliminate unlawful discrimination, harassment, victimisation and any other conduct
+       prohibited by the 2010 Act.
+       No forms of unlawful discrimination are considered to arise from the policies in the
+       chapter. However, there are a number of positive impacts from the policies in terms of
+       the design of the built environment including supporting integrated communities,
+       promoting social interaction, providing accessible green infrastructure and inclusive
+       public spaces.
+   35. Advance equality of opportunity between people who share a particular protected
+       characteristic and people who do not share it.
+       There are a number of areas where the policies in this chapter advance equality of
+       opportunity between those who share a protected characteristic and those who do not
+       including:
+       •   age: the policies have a positive impact on the design of places to provide
+           opportunities for people irrespective of their age. This includes prioritising walking,
+           wheeling and cycling; and including safe, secure, inclusive and accessible public
+           spaces. This may have positive impacts for older people or children as the policies,
+
+
+Public Sector Equality Duty: Changes to the NPPF
+                                                                                                      27
+           such as DP3, support the creation of healthy, mixed, vibrant and integrated
+           communities that provide a range of uses and tenures, employing features which
+           promote social interaction, safe, secure, inclusive and accessible public spaces, and
+           provide recreational spaces and places to meet and participate in public life.
+       •   disability: The policies consider how places can provide opportunities for people with
+           different needs, including different types of disability, sensory impairments and
+           neurodivergence. For example, including safe, secure, inclusive and accessible public
+           spaces, and incorporating / connecting to accessible green infrastructure.
+       •   sex: The policies promote accessible and inclusive public spaces that can improve
+           safety, especially for women and girls. However, we heard through the consultation
+           that because the NPPF does not explicitly refer to the safety of women and girls in
+           line with the government VAWG Strategy there were concerns that this would have a
+           negative impact on this group. Respondents called for a reference to how design can
+           help prevent violence against women and girls in public spaces. We have therefore
+           added new text to policy DP3 to address this.
+       •   race: the policies, including DP3 and the supporting national design guidance
+           promote mixed and integrated communities that incorporate a range of uses and
+           tenures and should be considered when designing for all homes. This may have
+           positive impacts in advancing equality of opportunity for Gypsies and Travellers who
+           would benefit from the wider impacts of well-designed places, including greater
+           access to public spaces which will encourage social interaction. However, interest
+           groups representing Gypsies and Travellers raised concerns about the draft design
+           policies in relation to the absence of specific national design guidance on traveller
+           sites. Similar comments were received as part of the consultation on the draft Design
+           and Placemaking Planning Practice Guidance. We are therefore proposing to include
+           design guidance in any future PPG on traveller sites.
+
+
+   36. Foster good relations between people who share a particular protected characteristic
+       and people who do not share it.
+       The policies will support fostering good relations, for example through the safe, secure,
+       inclusive and accessible public spaces and through liveable places that promote social
+       interaction. This may help positively contribute to towards tackling prejudice and
+       promoting understanding between those who share a protected characteristic and those
+       who do not.
+   37. Advertisement consent
+       The current NPPF paragraph 141 on advertisements was removed from the consultation
+       version due to a desire to focus the NPPF on rules-based decision-making policies. A
+       number of respondents called for the inclusion of a policy requiring the cumulative impact
+       of advertisements to be considered by decision makers. They raised concerns about the
+       impact of outdoor adverts for unhealthy food promotions on those with low incomes and
+       referred to research from Adfree Cities which shows that 82% of outdoor advertising is
+       located in the poorest half of England and Wales.
+
+
+Public Sector Equality Duty: Changes to the NPPF
+                                                                                                    28
+   38. Eliminate unlawful discrimination, harassment, victimisation and any other conduct
+       prohibited by the 2010 Act.
+       We consider that some groups with protected characteristics such as the elderly or those
+       with disabilities, may be more likely to have low incomes and therefore, could be
+       disproportionately affected by the proliferation of outdoor advertisements for unhealthy
+       food in poorer areas. To mitigate this impact, we will amend PPG to ask decision makers
+       to consider the cumulative impact of multiple advertisements in considering applications
+       for advertisement consent.
+   39. Advance equality of opportunity between people who share a particular protected
+       characteristic and people who do not share it.
+       The absence of a policy on advertisements is not considered to contribute to this aim.
+   40. Foster good relations between people who share a particular protected characteristic
+       and people who do not share it.
+       The absence of a policy on advertisements is not considered to contribute to this aim.
+
+   Promoting sustainable transport
+   The policies on sustainable transport aim to ensure that transport considerations are fully
+   taken into account in the preparation of development plans, as well as the evolution and
+   assessment of development proposals. This includes a vision-led approach to transport to
+   help embed the role that sustainable transport can play in delivering homes and places are
+   well-connected, sustainable, accessible, inclusive and popular.
+   The policy will positively impact a number of protected characteristics:
+       •   age
+       •   disability
+       •   sex and gender reassignment
+       •   pregnancy and maternity
+       •   race, religion or belief & sexual orientation
+   For example, the policy TR4 specifically references older people, children, women and girls,
+   other vulnerable groups and those with limited mobility and the chapter specifically includes
+   new reference to wheeling within the definition of sustainable transport modes. The
+   assessment set out below considers the impact on each of the protected characteristics.
+   41. Eliminate unlawful discrimination, harassment, victimisation and any other conduct
+       prohibited by the 2010 Act.
+       The policies aim to further embed the 'vision-led' approach to transport planning. The
+       policy changes could therefore have a positive impact on people's health and wellbeing
+       (i.e. such as improving access to more active and sustainable transport choices for those
+       living in or near new development), which could positively affect people with protected
+       characteristics. It is acknowledged that while the policies in this chapter seek to promote
+       the provision of a range of sustainable transport modes and move away from private car
+       use, this could potentially impact on individuals and groups with protected characteristics
+       who rely on private transport modes. This has been taken into account and is reflected in
+
+Public Sector Equality Duty: Changes to the NPPF
+                                                                                                     29
+       changes to policy. Further, detailed consideration of specific protected characteristics are
+       outlined below:
+       •   Age: ‘Older people' and 'children' are explicitly mentioned in Policy TR4(1)(c), which
+           would ensure transport impacts of new development consider such groups and in
+           terms of scheme design. Generally, it is hoped the content of the ‘Sustainable
+           Transport’ chapter and specific sub polices which enable active and sustainable
+           transport modes would support a reduction in the number of cars or motor vehicles
+           associated with new development and in residential areas, making places safer for
+           younger people, children and the elderly.
+       •   Disability: Policy TR4 specifically mentions people with disabilities, in terms of
+           meeting their needs and in terms of scheme and street design. The focus in the
+           transport chapter on accessibility of sites/schemes, accessibility needs of different
+           users, and access to sustainable transport and to key facilities/services is likely to
+           encourage mobility considerations in plan making and decisions, which will positively
+           impact disabled people and those with specific mobility needs. The transport chapter
+           also includes specific policy on ‘wheeling’ at TR (1)(d), TR2 (3)(b), TR3 (1)(b) and (e),
+           whereas the current NPPF does not. Wheeling includes the use of wheelchairs,
+           mobility scooters and similar mobility aids as a means of travel. Following consultation
+           feedback we have also amended Policy TR4(1)(c) to specifically refer to ‘those with
+           limited mobility’, a change which supports the consideration of the needs of disabled
+           people.
+       •   Sex & gender reassignment: The inclusion of safety policy considerations throughout
+           the ‘Sustainable Transport’ chapter (such as TR4(1)(c), TR4(1)(c) as well as the
+           inclusion of driver welfare and security (as outlined within Policy TR5), would ensure
+           by effect that more vulnerable road and transport users are actively considered
+           through the planning process. Following consultation feedback, we have amended
+           Policy TR4(1)(c) to explicitly include women and girls in relation to arranging streets to
+           create places that are safe but also references other groups who may be vulnerable
+           to crime or the fear of crime which could include the trans community, or people with
+           disabilities, ethnic minority groups or those who may be marginalised due to their
+           sexual orientation (the latter three protected groups are covered by other sub
+           categories in this PSED assessment).
+       •   Marriage or civil partnership: – Based on PSED guidance, this characteristic is only to
+           be considered for policies relating to employment. The transport chapter does not
+           explicitly cover employment policy considerations.
+       •   Pregnancy and maternity - Similar to the impact on those with disabilities,
+           development built to maximise accessibility and connectivity by sustainable transport
+           modes, could support the consideration of those with limited mobility during
+           pregnancy, postpartum and for those with strollers/carriers for their children in new
+           development proposals. This approach could reduce the barriers faced by those who
+           are pregnant or postpartum in using sustainable transport modes and encourage
+
+
+Public Sector Equality Duty: Changes to the NPPF
+                                                                                                        30
+           greater participation in public life of these groups. The ‘wheeling’ policy considerations
+           could apply to prams and pushchairs, therefore, actively encouraging the
+           consideration of these in new development.
+       •   Race, religion or belief & sexual orientation - While the policy does not speak to these
+           protected characteristics directly, the focus on personal safety and security
+           considerations (as outlined in the ‘sex and gender reassignment’ subheading of this
+           PSED assessment) would encourage the issues of safety and perceptions of safety
+           for these protected groups to be considered in new development, thus aiming to
+           encourage these protected groups to have greater participation in public life.
+   42. Advance equality of opportunity between people who share a particular protected
+       characteristic and people who do not share it.
+       The objective for the sustainable transport policies specifically states that the vision-led
+       approach should be 'inclusive' and 'popular'. Policy TR1 also encourages early
+       engagement with local communities so that proposals reflect local views, which could
+       encourage improved opportunities in the plan making process for community views on
+       transport matters. More generally, the transport policies aim to support the transport
+       infrastructure needs of society and the creation of healthy places. It is likely that people
+       with a number of protected characteristics will experience a positive impact as a result as
+       they may be more likely to access sustainable transport infrastructure and facilities.
+   43. Foster good relations between people who share a particular protected characteristic
+       and people who do not share it.
+       It is not considered that the transport chapter will have a positive or negative impact on
+       the duty to have regard to the need to foster good relationships. However, more
+       generally, Policy TR8 includes that opportunities should be taken to extend, link or
+       improve the quality of existing public rights of way routes where this would improve
+       access to green spaces and the countryside. This could therefore encourage uptake of
+       access to places for outdoor recreation which could foster good relations between
+       different groups, including people with protected characteristics.
+
+
+   Promoting healthy communities
+   The policies seek to promote the creation of healthy and inclusive places and support the
+   provision of appropriate community facilities and public service infrastructure.
+   The policies are expected to have positive impacts on a range of groups with protected
+   characteristics, including age, disability, sex, pregnancy and maternity, race, religion or
+   belief and sexual orientation.
+   44. Eliminate unlawful discrimination, harassment, victimisation and any other conduct
+       prohibited by the 2010 Act.
+       These policies specifically seek to support the creation of healthy and inclusive places
+       and is therefore proactive in its approach to eliminate unlawful discrimination.
+
+
+
+Public Sector Equality Duty: Changes to the NPPF
+                                                                                                        31
+       Policy HC5 which looks to limit hot food takeaways where there is a particular
+       concentration of uses or near to schools, may limit the availability of and access to cheap
+       cooked food offered by hot food takeaways, which may impact certain people with
+       protected characteristics who are more likely to live in deprived areas and/or face poverty
+       and depend on access to cheaper foods. However, we do not have any evidence to
+       suggest that people with protected characteristics are more likely to live near to schools
+       or areas with a high concentration of hot food takeaways that would be disproportionately
+       affected by this policy. This potential effect can be justified as the policy aims to limit the
+       proliferation of hot food takeaways to support public health initiatives relating to obesity
+       and limit anti-social behaviour. In addition, this policy relates to new hot food takeaways –
+       rather than existing premises. We do not think that the recommendation to remove ‘fast
+       food outlets’ from the policy will have any impact on people with protected characteristics
+       as feedback to the consultation suggested that the policy creates uncertainty and is
+       difficult to apply consistently.
+       The glossary definition of community facilities has been amended to include “cemeteries
+       and burial grounds”. This is expected to have a positive impact in eliminating unlawful
+       discrimination for some groups with protected characteristics of religion or belief and
+       potentially race, where burial practices are connected to faith, cultural or ethnic identity.
+       For some faith and cultural groups burial is the preferred or only acceptable option
+       following death. Recognising cemeteries and burial grounds as community facilities in the
+       NPPF is intended to support their consideration within the planning system and may help
+       local planning authorities identify and plan for facilities that meet the differing needs of
+       local communities.
+   45. Advance equality of opportunity between people who share a particular protected
+       characteristic and people who do not share it.
+       There are a number of areas where the policies advance equality of opportunity across
+       protected characteristics as follows:
+       Age:
+       •   identifying deficits in community facilities and public service infrastructure can help
+           address gaps in services for older people and children, including play areas,
+           education facilities and healthcare
+       •   promotes inclusive and accessible recreational spaces for all ages, including informal
+           play and allotments
+       •   restricting hot food takeaways near schools, supporting healthier environments for
+           children and adolescents
+       Disability:
+       •   identifying needs for community facilities and public service infrastructure can
+           highlight accessibility gaps in services and infrastructure
+       •   emphasises inclusive design for play and recreation, supporting disabled users
+       •   requires early planning for accessible infrastructure in new developments
+       •   supports new or improved facilities that can be designed inclusively
+
+Public Sector Equality Duty: Changes to the NPPF
+                                                                                                         32
+       •   protects Local Green Spaces, which may be important for mental health and
+           accessible recreation
+       •   following consultation feedback, we have added the requirement for development
+           plans to identify wider opportunities to reduce health inequalities to policy HC1. We
+           have also added reference to ‘wheeling’ to HC1 to ensure consistency with other
+           references in the NPPF and this will also result in further inclusivity of the policy.
+       •   in addition, we have added a new criterion to policy HC4 which will require substantial
+           weight be given to the benefits where development proposals would be of particular
+           benefit in promoting good health, preventing ill-health, reducing health inequalities or
+           supporting social interaction in the local community.
+       Sex:
+       •   promotes walkable, mixed-use areas that can improve safety and reduce isolation,
+           especially for women
+       Pregnancy and maternity:
+       •   identifying service needs can support maternal health and early years provision
+       •   ensures timely delivery of health and childcare infrastructure in new developments
+       •   supports facilities like health centres and play areas that benefit new parents
+       Race:
+       •   identifying local health inequalities can help address disparities affecting ethnic
+           minority communities.
+       •   supports culturally specific venues (eg places of worship, cultural centres).
+       •   Supports consideration of culturally specific community needs, including burial
+           practices and access to appropriate cemetery or burial ground provision
+
+
+       Religion or belief:
+       •   explicitly supports places of worship and cultural venues
+       •   supports consideration of the needs of faith and cultural groups for whom burial is the
+           preferred or required practice, including through recognition of cemeteries and burial
+           grounds as community facilities
+
+
+       Sexual orientation:
+       •   new or improved community facilities could support inclusive spaces for LGBTQ+
+           individuals
+   46. Foster good relations between people who share a particular protected characteristic
+       and people who do not share it.
+       The policies seek to create inclusive places, which would assist in fostering good
+       relations between different parts of the community.
+
+
+   Pollution, public protection and security
+
+Public Sector Equality Duty: Changes to the NPPF
+                                                                                                      33
+   The pollution, public protection and security chapter seeks to ensure that development
+   proposals provide healthy, safe and clean living conditions for all different groups of people,
+   taking into account communities who may be particularly vulnerable to the effects of
+   pollution.
+   The policies in this chapter are likely to have a disproportionately positive effect on older
+   people, minority ethnic groups, and those with health conditions who are more vulnerable to
+   the effects of pollution.
+   47. Eliminate unlawful discrimination, harassment, victimisation and any other conduct
+       prohibited by the 2010 Act.
+       These policies seek to reduce discrimination by ensuring that new development provides
+       clean and healthy living conditions for occupiers and users, as well as existing occupiers
+       and residents, considering whether they have characteristics which may make them
+       particularly vulnerable to the impacts of pollution, such as children and older people.
+       Since the results of the consultation which highlighted concerns particularly for women
+       and girls in relation to crime and fear of crime, we have included consideration of this into
+       the policy. This should help to support those with vulnerable characteristics further.
+   48. Advance equality of opportunity between people who share a particular protected
+       characteristic and people who do not share it.
+       Minimising pollution and creating clean and healthy places to live, work and visit for
+       everyone, taking into account vulnerable communities, should help to advance equality of
+       opportunity. There are a number of groups with protected characteristics including older
+       people and minority ethnic groups who suffer disproportionately from the impacts of
+       pollution.
+       Expanded provisions on safety in relation to women and girls will also help to create safer
+       places for them to live, work and visit, increasing participation in public life and advancing
+       equality of opportunity.
+   49. Foster good relations between people who share a particular protected characteristic
+       and people who do not share it.
+       The agent of change policy which helps to ensure that new development is integrated
+       effectively with existing community facilities, will help to reduce tension and conflict
+       between different groups.
+
+
+   Managing flood risk and coastal change
+   Flood risk and coastal change is a prevalent and pressing issue, especially in light of a
+   changing climate, with significant implications for both people and property. The planning
+   system plays a crucial role in mitigating and adapting to the risk of flooding and coastal
+   change and building resilience to their impacts. It is, therefore, proposed that a
+   standalone chapter be dedicated to policies on this important and complex area.
+   50. Eliminate unlawful discrimination, harassment, victimisation and any other conduct
+       prohibited by the 2010 Act.
+
+
+Public Sector Equality Duty: Changes to the NPPF
+                                                                                                        34
+          There is no clear evidence to suggest that this chapter is likely to directly or indirectly
+          cause unlawful discrimination. The policies seek to support the management of flood risk
+          and coastal change by establishing standard requirements for both plan-making and
+          decision-making which: direct development to areas of lowest flood and coastal change
+          risk; prevent new development from increasing flood risk in other locations; safeguard
+          land for flood and coastal erosion management; implement natural flood management
+          techniques and sustainable drainage systems where needed; assess and adapt to the
+          current and future risks posed by climate change; and generally improve the resilience of
+          new development, including for those who may be particularly vulnerable to the impacts
+          of flooding or coastal change. This includes travellers living in caravans, who may be
+          more vulnerable to such impacts, and as such the policy on flooding in PPTS 13(g) has
+          been carried over in policy HO12(c) to specify that proposed traveller sites should not be
+          located in areas of high flood risk.
+     51. Advance equality of opportunity between people who share a particular protected
+         characteristic and people who do not share it.
+          The policies should have a positive impact on resilience to more severe and frequent
+          flooding as a result of climate change; the provision of sustainable drainage systems and
+          the resulting green and blue recreational spaces and improved water storage capacity
+          and quality; and the speed of the planning system and availability of land for
+          development, which can result in increased housing supply and lower accommodation
+          costs. These factors can disproportionately affect those living in lower income
+          households; poor quality housing; temporary accommodation; and/or overcrowded areas;
+          more likely consisting of children, households where the oldest member is aged 16-24,
+          and the elderly; mentally or physically disabled people; single parent households that are
+          predominately headed by women; and some minority ethnic groups. Improved resilience
+          to flooding should also reduce risks to those groups, such as some elderly or disabled
+          persons, who may face additional and disproportionate challenges in receiving timely and
+          appropriate assistance, evacuation, or relocation in the event of a flood11, 12.
+          The policies are also envisaged to have a positive impact on managing development in
+          areas at risk of coastal change, and safeguarding land to deliver coastal management
+          measures, with coastal communities having disproportionately large numbers of elderly
+          people, who may also face additional challenges in the event of evacuation or relocation.
+          We do not anticipate the policies will impact the current standards around evacuation
+
+
+11 Disabled people in the UK face accessibility issues by way of transport, digital exclusion etc., which impacts evacuations, access to
+
+emergency information etc. (Gov.uk, Disability Unit & Office for Equality and Opportunity. The lived experience of disabled people in the UK: a
+review of evidence [Internet]. 17 July 2025. Available from: https://www.gov.uk/government/publications/the-lived-experience-of-disabled-people-
+in-the-uk-a-review-of-evidence/the-lived-experience-of-disabled-people-in-the-uk-a-review-of-evidence ).
+12 The elderly and disabled are amongst the worst affected by flooding, facing risks such as disruption to routine needs like medical
+
+appointments and access to medication; limited ability to cope with a flooded home due to a shortage of suitable disability-accessible housing;
+higher likelihood of being impacted by coastal flooding as coastal communities have larger populations of the elderly; and inaccessible
+communication for people who are hearing-, vision-, or cognitively-impaired. (New Philanthropy Capital, Disability Rights UK, and Re-engage.
+How will the climate and nature crises impact older people and disabled people [Internet]? 21 June 2023. Available from:
+https://www.thinknpc.org/resource-hub/everyones-environment-older-people-and-disabled-people/ )
+
+
+Public Sector Equality Duty: Changes to the NPPF
+                                                                                                                                            35
+       plans and egress routes in relation to flood events, which can disproportionately impact
+       those with restricted mobility or those who have difficulty understanding and retaining
+       information/instructions, such as the elderly, young children, or parents of young children
+       (particularly those from single parent households which are predominantly headed by
+       women); pregnant people who are most commonly women; and mentally or physically
+       disabled people.
+   52. Foster good relations between people who share a particular protected characteristic
+       and people who do not share it.
+       Opportunity may arise for the fostering of good relations between those with and without
+       protected characteristics through their shared use of green and blue recreational spaces
+       resulting from the incorporation of more nature-based sustainable drainage systems
+       within development.
+
+   Conserving and enhancing the natural environment
+   Natural environment policies seek to influence the design and location of new development
+   to help drive nature’s recovery and contribute to wider environmental outcomes,
+   safeguarding our most important habitats, species and landscapes and recognising the
+   centrality of natural capital to delivering sustainable growth. These measures reflect the
+   government’s ambition to build homes and infrastructure, while also conserving and
+   enhancing the environment for future generations.
+   Although policies are unlikely to have a direct impact on individual protected characteristics,
+   there are some ways that people with protected characteristics of age, disability and race
+   could be indirectly affected.
+   53. Eliminate unlawful discrimination, harassment, victimisation and any other conduct
+       prohibited by the 2010 Act.
+       There are no clear links between these policies and the elimination of unlawful
+       discrimination.
+   54. Advance equality of opportunity between people who share a particular protected
+       characteristic and people who do not share it.
+       Age:
+       •   Natural Environment policies seek to increase green infrastructure provision and
+           embed nature recovery through Local Nature Recovery Strategies (LNRS). This will
+           increase access to nature through the application of accessible green standards
+           across all new local plan policies, which evidence has shown can be key to health
+           and wellbeing across all age groups. Furthermore, delivering new homes and
+           infrastructure alongside nature restoration will improve the life chances of younger
+           generations, ensuring development is truly sustainable.
+       Disability:
+       •   safeguarding current important habitats while also influencing the design and location
+           of new development to drive nature’s recovery will present more opportunities for
+           people with disabilities, as well as older age groups with lower mobility, to access
+
+Public Sector Equality Duty: Changes to the NPPF
+                                                                                                     36
+          nature closer to their homes.
+       Race:
+       • improved access to nature and green infrastructure will also benefit people from
+         ethnic minority backgrounds as evidence shows that they are less likely to have
+         sufficient green infrastructure near their homes, and can suffer disproportionately from
+         negative impacts on health and wellbeing, or a lack of climate resilience.
+       Increased access to nature through policies in the natural environment chapter set out
+       above may be more limited in certain areas because of the new policy on Biodiversity Net
+       Gain (BNG) (which will limit BNG enhancements beyond the statutory net gain objective
+       to specific site allocations set out in up-to-date development plans and not for sites which
+       are exempt under the statutory BNG regime.
+       While the BNG policy provides a clearer position on when biodiversity enhancements
+       above the statutory minimum should be sought, some respondents were concerned that
+       this approach may reduce the scale of additional biodiversity enhancements in certain
+       locations. We note that this could have potential to reduce opportunities to target
+       enhanced provision in areas with the greatest need, including locations where
+       communities with protected characteristics currently experience poorer access to nature
+   55. Foster good relations between people who share a particular protected characteristic
+       and people who do not share it.
+       Protected Landscapes provide great opportunities for people who share, or do not share,
+       a particular protected characteristic. Natural environment policies seek to safeguard and
+       protect these landscapes and assist decision makers in complying with the Protected
+       Landscapes duty which asks relevant authorities to ‘seek to further’ the statutory
+       purposes of these areas – including by increasing/promoting opportunities for the
+       understanding and enjoyment by the public of the special qualities of the area.
+       More broadly, other proposed policies, such as N1, N2, HC1, HC2, H8, GB5, GB8, TR8
+       may lead to more accessible public green and blue space, which could help to foster
+       good relations by building social bonds and community cohesion.
+
+   Conserving and enhancing the historic environment
+   In respect of the policy goals behind the changes to the chapter, the intention is to shift the
+   emphasis of the chapter to the benefits of heritage-led redevelopment, rather than focusing
+   solely on harm. MHCLG are seeking, in particular, to frame consideration of ‘effects’ of
+   proposals on heritage assets, on a scale from positive to harm. The concept of ‘optimum
+   viable use’ has been removed, in an effort to lessen operational uncertainty and explicit
+   references to what we consider important public benefits have been introduced; these
+   changes are aimed at shifting the dial on the redevelopment of vacant listed buildings.
+   MHCLG are keen to ensure that in creating a more positive framing it remains the case that
+   if decision-makers are to follow these policies they would discharge the ‘special regard’
+   duties under the Planning (Listed Buildings and Conservation Areas) Act 1990.
+   We do not anticipate changes to this chapter will result in different outcomes for those with
+
+
+Public Sector Equality Duty: Changes to the NPPF
+                                                                                                      37
+   protected characteristics.
+   56. Eliminate unlawful discrimination, harassment, victimisation and any other conduct
+       prohibited by the 2010 Act.
+       Heritage planning policy is intended to ensure that the historic environment is
+       appropriately protected for this and future generations to enjoy. The policy will apply in
+       the same way to anyone bringing forward development proposals affecting heritage
+       assets.
+   57. Advance equality of opportunity between people who share a particular protected
+       characteristic and people who do not share it.
+       Heritage planning policy is intended to ensure that the historic environment is
+       appropriately protected for this and future generations to enjoy. As such it will benefit
+       everyone, including those with protected characteristics, by helping to create places
+       where people want to live and work.
+   58. Foster good relations between people who share a particular protected characteristic
+       and people who do not share it.
+       Heritage planning policy is intended to ensure that the historic environment is
+       appropriately protected for this and future generations to enjoy. As such it will benefit
+       everyone, including those with protected characteristics, by helping to shape the identity
+       of local places and promote community cohesion.
+
+
+   Plan-making policies
+   The policies within the plan-making chapter are collectively designed to make the plan-
+   making process quicker, more efficient, accessible and transparent. The policies also clarify
+   the role, purpose and content of the different plan types that form the overall development
+   plan for an area.
+   The policies seek to support the implementation the new plan-making system introduced
+   through the Levelling-up and Regeneration Act 2023, the Planning and Infrastructure Act
+   2025 (in relation to Spatial Development Strategies) and associated and forthcoming
+   secondary legislation. The government previously consulted on the principles of reform to
+   local plan-making through the ‘Consultation on implementation of plan-making reforms’ in
+   July-October 2023 and published its response to the consultation in February 2025. The
+   consultation and government response were both subject to consideration of the PSED,
+   meaning that the PSED has been integrated into the principles of plan-making reform and
+   the development of new local plan-making policies from an early stage.
+   The changes to the plan-making system, including the policies set out in the plan-making
+   chapter will not, in themselves, result in significant direct effects. The changes are primarily
+   focused on the process of preparing plans and their scope, as opposed to the specific policy
+   content of plans itself.
+   Plan-making policy does however seek to guide the content of plans by, for example, limiting
+   plan content to only matters that are necessary and relevant to the plans being prepared.
+
+
+Public Sector Equality Duty: Changes to the NPPF
+                                                                                                      38
+   Plan-making policy also seeks to minimise plans including policy that duplicates,
+   substantively restates or is inconsistent with the content of the national decision-making
+   policies set out in the NPPF. The policy aims to streamline and simplify local plan-making,
+   however it is recognised that as a result there may be reduced scope for plans to include
+   local decision-making policies, where the policy matter is fully or mainly addressed through
+   national decision-making policies. However, the NPPF does provide flexibility for plan
+   makers to include local context, where it can be demonstrated that it is not addressed
+   through national decision-making policies, and where it wouldn’t be inconsistent with national
+   policy. This would allow plans address specific local matters, minimising impacts on equality.
+   In addition, the national decision-making policies themselves have been subject to PSED to
+   assess their potential impact on groups with protected characteristics.
+   Specific plan making policies also seek to direct the content of particular types of plan – for
+   example policy on the role and content of local plans (PM2) sets out that local plans should
+   contain a vision, a spatial strategy and policies for development amongst other things.
+   While plan-making policy does seek to direct or guide the overall content and structure of
+   plans, it is the specific content that is determined locally within those plans that may have
+   direct impacts on groups with protected characteristics.
+   Therefore, the majority of effects will be secondary, resulting from the specific policies
+   included by planning authorities and plan makers in their development plans prepared under
+   the new process. It should also be noted that the preparation of plans that form the
+   development plan is also subject to the PSED requirements meaning that the impact of
+   individual plans will be subject to further scrutiny at a more local level. The changes to the
+   plan-making system process however may have some identifiable impacts as set out below.
+   Setting standards policy
+   PM13 aims to provide clarity on the circumstances in which it would be appropriate to set
+   local standards in development plans, balancing our overall aim to streamline and
+   standardise plan-making and decision-making whilst acknowledging that some locally-set
+   standards are appropriate, particularly to respond to relevant evidence of local
+   characteristics and needs. The policy sets out where local standards should not be set in
+   development plans, including in relation to matters already covered by Building Regulations.
+
+
+   59. Eliminate unlawful discrimination, harassment, victimisation and any other conduct
+       prohibited by the 2010 Act.
+       The plan-making policies aim to make, in particular, local plan-making faster, clearer,
+       more inclusive, and accessible. These changes aim to better reflect the needs of diverse
+       communities, including those with protected characteristics. Faster plan-making should
+       lead to more up-to-date policies and evidence, supported by meaningful public
+
+
+
+
+Public Sector Equality Duty: Changes to the NPPF
+                                                                                                     39
+         engagement.
+         Having more up-to-date plans in place could, for example, potentially help deliver more
+         homes13 and should provide greater certainty in planning for housing needs, including the
+         size, type and tenure of housing needed for different groups in the community. These
+         groups include (but are not limited to) those who require affordable housing (including
+         Social Rent); families with children; looked after children; older people (including those
+         who require retirement housing, housing-with-care and care homes); students; people
+         with disabilities; service families; travellers; people who rent their homes and people
+         wishing to commission or build their own homes. The plan-making reforms will support
+         getting more plans in place which provide for the needs of different groups. Plans are the
+         best way to appropriately allocate land to meet the needs of different groups in the
+         community, including traveller sites.
+         The policies will support the rollout of the new system of strategic plans which, in
+         particular, aim to help address cross-boundary strategic issues such as meeting unmet
+         housing need and ensuring better coordination between new development and the
+         delivery of infrastructure. These changes will help to address the needs of the community
+         and protected groups by, for example, supporting the faster delivery of new homes and
+         development and supporting infrastructure.
+         However, the shorter 30-month timeframe for local plan preparation could indirectly lead
+         to some planning authorities seeking to reduce the range and depth of engagement to
+         ensure the time expectations are met. Coupled with a move towards the use of more
+         digital tools in planning could inadvertently discriminate against certain groups,
+         particularly older individuals, those with disabilities, and people with limited digital access
+         or skills.
+         We heard specific concerns through the consultation that a faster, more streamlined
+         approach to plan-making could reduce scrutiny and undermine democratic input,
+         because of reduced opportunities to influence a plan during preparation. Respondents
+         noted this could, in particular, disadvantage older people and people with disabilities. We
+         also heard that faster, more frequent plan production could disadvantage those who rely
+         on longer term policy and environmental stability. This was with particular reference to
+         people who are neurodivergent and also people with poor mental health. Concerns were
+         also raised about SDSs taking decisions on development away from local communities.
+         New policies and guidance on effective and positive community engagement through a
+         range of methods, and on publishing accessible plan documents, along with the
+         introduction of standardised templates to support policies on plan preparation will help
+         mitigate those concerns. It should also be noted that mandatory periods of public
+         consultation on SDSs and local plans will continue to be set out in legislation, and that in
+         the new system of local plan-making the required amount of formal consultation has
+         increased, compared to the ‘legacy’ system. Furthermore, in the new system there is also
+
+
+13 DLUHC (2022) Levelling Up and Regeneration Bill Impact Assessment, LevellingUpandRegenerationBillImpactAssessment.pdf
+
+
+
+
+Public Sector Equality Duty: Changes to the NPPF
+                                                                                                                           40
+       a requirement for local planning authorities, at an early stage in plan-making, to
+       specifically consult stakeholders on how engagement during plan preparation should be
+       carried out. With regard to longer term policy and environmental stability, it is recognised
+       that more frequent plan preparation will mean more frequent changes to local planning
+       policy. However, the chapter notes that plan makers should identify what areas of
+       existing plans may be suitable to take forward for consideration in a new plan. This will
+       help support plan and policy continuity, where appropriate. Overall, it is considered that
+       the wider benefits of having plans prepared more frequently, and kept up to date, will
+       support a more responsive plan-making system that can best reflect the needs of local
+       people.
+       For spatial development strategies, there will be more limited opportunities for community
+       involvement, including protected groups, however, this is balanced by the fact that there
+       will be further opportunities to influence development during the preparation of local plans
+       which will allocate specific development sites and set out detailed policies, for example,
+       on affordable housing and other development requirements that have a wider community
+       benefit.
+       The policy option for relevant plan-making authorities to prepare supplementary plans
+       enables the plan-making system to be responsive where unanticipated changes require a
+       streamlined plan-led response, including for minerals and waste, whilst ensuring that the
+       area wide plan-led vision and spatial strategy are not undermined and provide
+       consistency.
+       For these reasons we do not anticipate that the plan-making policies would have
+       significant adverse effects on groups with protected characteristics, and that our changes
+       will help mitigate and potential concerns. Overall, the policies are likely to have a
+       generally positive impact on all groups.
+       Setting standards policy
+       Setting clearer expectations on local planning authorities with regard to accessibility
+       standards, and making clear that development plans can set higher standards in relation
+       to M4(2) (accessible and adaptable dwellings) and/or M4(3) (wheelchair user dwellings),
+       will allow local planning authorities to plan appropriately for new homes by requiring a
+       higher portion of adaptable homes to be delivered on major development where they are
+       needed to meet the needs of their local area. This could have a positive impact on people
+       with protected characteristics, including those with a disability or older people, who are
+       more likely to require an adaptable home.
+
+
+       We had proposed that local standards should not be set for matters relating to internal
+       layout or construction of buildings unless they are to implement the nationally described
+       space standards. However, in response to consultation feedback, the final version of the
+       policy deletes construction from PM13(1)(c) and allows standards relating to internal
+       layout provided they are justified and meet certain other tests. This ihas been
+       recommended in response to concerns from respondents that PM13 would limit
+       standards on matters like fire safety, flooding and overheating. Local standards on
+
+Public Sector Equality Duty: Changes to the NPPF
+                                                                                                      41
+       matters relating to public safety, would allow LPAs to consider whether certain local
+       standards are necessary to respond to particular local issues or circumstances in their
+       area, which could benefit people with protected characteristics. For example, a local
+       standard on fire safety, in an area of particular high-density development could set
+       expectations on evacuation lifts which would ensure safe egress of people with
+       disabilities or limited mobility (e.g. elderly people, pregnant people or children). Local
+       standards on internal layout can also help to maintain design quality and support amenity
+       and health. Whilst the proposed final policy would introduce new policy expectations on
+       authorities looking to introduce local standards on internal layout (compared to existing
+       policy), we think it strikes an appropriate balance and would have a more positive impact
+       on this principle compared to PM13 as consulted on.
+
+
+   60. Advance equality of opportunity between people who share a particular protected
+       characteristic and people who do not share it.
+       The chapter sets out policy on the importance of undertaking positive community
+       engagement in plan-making. Public engagement and influence in the preparation of plans
+       should generally allow for equality of opportunity across groups of people with and
+       without specific protected characteristics. The policy emphasises the importance of using
+       a range of methods when consulting with stakeholders. Up-to-date and regularly updated
+       spatial development strategies and local plans should also allow for policies to set
+       requirements for houses, facilities and infrastructure that better meet the needs of the
+       local community, based on more up-to-date and relevant evidence, compared to plans
+       that are out of date, less frequently updated and that often lead to more speculative
+       forms of development.
+       We heard through the consultation that the approach to identifying land for development
+       set out in policy PM9 will not help support the identification of sites for gypsy and traveller
+       accommodation. The reason given for this was that traditional approaches to land
+       identification, such as ‘call for sites’, are ineffective in identifying sites for Gypsies and
+       Travellers with more targeted approaches being more suitable. Respondents noted that
+       this could potentially discriminate against Gypsies and Travellers and that additional
+       policy or guidance should be provided to address this matter.
+       We have recently published new guidance for plan makers when assessing the suitability
+       of land for development. The guidance sets out that the specific accommodation needs of
+       Gypsies and Travellers should be taken into account when considering the suitability of
+       sites for development. We will consider the need for any further guidance on this matter
+       as part of any additional guidance for traveller sites.
+       With regard to developer contributions, the policy is intended to increase certainty at the
+       plan-making stage, raising the likelihood of infrastructure and affordable housing delivery.
+       Improved provision of infrastructure (e.g. schools and GP surgeries) and affordable
+       housing may advance equality of opportunity between people who share particular
+       protected characteristics, for instance any groups of people who are more likely to
+       require affordable housing (as set out above), or who may require access to (for
+
+Public Sector Equality Duty: Changes to the NPPF
+                                                                                                         42
+       example) healthcare infrastructure.
+       We consider the plan-making policies are generally likely to have positive impacts on
+       advancing equality of opportunity.
+       Setting standards policy
+       There are no clear links between this policy and advancing equality of opportunity. This
+       policy provides guidance to plan-makers on how local standards should be set in
+       development plans and it is neutral about advancing equality of opportunity.
+
+
+   61. Foster good relations between people who share a particular protected characteristic
+       and people who do not share it.
+       The chapter sets out that the preparation of plans allows local communities to influence
+       development in their area, including directing growth to the most appropriate locations,
+       supporting regeneration and conserving and enhancing the quality of the built and natural
+       environment. Whilst no specific direct impact on fostering good relations have been
+       identified, faster plan-making and coverage of up-to-date plans will support development
+       that meets the general needs of the wider local community. This could help support or
+       foster good relations across groups of people with and without specific protected
+       characteristics. Changes to the Neighbourhood Plan policy place greater emphasis on
+       the community’s role in positively shaping their area, reflecting local preferences,
+       priorities, and needs. By enhancing the voice of the community, the sources of
+       antagonism and contention in the planning system can be resolved in a way that has
+       cross community consent.
+       Setting standards policy
+       This policy provides guidance to plan-makers on how local standards should be set in
+       development plans and it is neutral about fostering good relations between people who
+       share a particular protected characteristic and people who do not share it.
+
+   Decision-making policies
+   The decision-making policies in this chapter cover a range of miscellaneous general policies
+   (the general approach to preparing and deciding planning decisions, information
+   requirements, use of planning conditions and obligations, prematurity of plans, relationship
+   with other regulatory regimes, development viability, enforcement, development orders, and
+   use of Article 4 directions). Many are restatements of existing policy with the NPPF and
+   reflect caselaw. For others where there is a substantive policy change (e.g. preparing and
+   decision planning applications, information requirements), a key underlying objective is to
+   ensure a more proportional and consistent approach is taken.
+   The potential impacts of the proposed decision-making impacts are considered below
+   against the three aims of this assessment below. This includes consideration of impacts on
+   Gypsies and Travellers.
+   62. Eliminate unlawful discrimination, harassment, victimisation and any other conduct
+
+Public Sector Equality Duty: Changes to the NPPF
+                                                                                                   43
+       prohibited by the 2010 Act.
+       Generally, these policies do not raise any unlawful discrimination issues. The possible
+       exception which we have considered in more detail in this assessment is policy DM8 on
+       unauthorised development and enforcement. The aim of this policy is to maintain public
+       trust and confidence in the planning system. It sets out factors for local planning
+       authorities’ consideration about whether enforcement action is expedient. In response to
+       calls from MPs, local planning authorities and members of the public for further action, it
+       also seeks to strengthen the existing policy on intentional unauthorised development by
+       making clear that where it is concluded, based on evidence, that unauthorised
+       development was intentional, that fact should be given substantial weight in considering
+       whether to grant planning permission.
+       In general, we do not collect data on types of unauthorised development or those who
+       undertake it, but we are aware from correspondence and engagement with local planning
+       authorities and others that there is a perception that Gypsies and Travellers are more
+       likely to undertake unauthorised development and so might be more impacted by
+       stronger enforcement powers.
+       From the Count of Traveller Caravans, January 2026, we know that there were 4,950
+       unauthorised caravans reported in the January 2026 count, an increase of 934 (23 %)
+       since January 2025. Of these, 4,335 were reported on unauthorised developments on
+       land owned by travellers, an increase of 659 (18%), and 615 were on unauthorised
+       encampments on land not owned by travellers, an increase of 275 caravans (81%) from
+       the low figure of 340 caravans recorded in January 2025. Overall, the January 2026
+       count indicated that 83 % of traveller caravans in England were on authorised land and
+       that 17 % were on unauthorised land.
+       In reaching decisions on individual cases (whether in relation to retrospective
+       applications or enforcement appeals), decision makers can currently take account of the
+       intentional unauthorised development as a material consideration (in line with the policy
+       contained in 2015 WMS). Other policies and material considerations may also be
+       relevant including for example, the best interests of children (which engages ECHR
+       issues and the UN Convention of the Rights of the Child) or personal circumstances.
+       The new policy will continue to apply to all types of unauthorised development regardless
+       of who undertakes it. The change to the policy is likely to make it more difficult for
+       planning permission to be obtained in cases where intentional unauthorised development
+       is evidenced and Gypsies and Travellers are likely to be disproportionately impacted from
+       the change. The likely impact of the policy on individual decisions will depend on the
+       facts of the case. Best interests of children will remain as a primary consideration for
+       decision makers as will the ability to weigh matters such as need for traveller sites, and
+       personal circumstances.
+       Stronger enforcement will benefit the wider community, including those with protected
+       characteristics some of whom, for example the elderly or those with disabilities, might be
+       more adversely affected by unauthorised development.
+
+
+Public Sector Equality Duty: Changes to the NPPF
+                                                                                                     44
+       The consultation sought views on equality impacts of the proposed changes. Responses
+       were received from individuals and organisations representing Gypsies and Travellers.
+       Respondents felt that this group was already disproportionately affected by the current
+       policy on intentional unauthorised development and that this would only
+       be exacerbated by the strengthened policy. They felt the revised policy would take away
+       decision makers’ ability to exercise their judgement to consider individual circumstances,
+       including situations of homelessness or lack of lawful alternative sites. Other views
+       included that removing discretion from planning decision-making in this way risks turning
+       planning enforcement into a mechanism of displacement rather than regulation and that
+       enforcement policy should prioritise corrective engagement rather than punitive action.
+       We have considered the views expressed through the consultation responses. We do not
+       agree that the new policy will take away the decision maker’s discretion to weigh matters
+       relating to provision of sites and personal circumstances. It will remain the case that this
+       policy is a material consideration in cases where it is concluded, based on evidence that
+       the unauthorised development was intentional, and will be weighted in the planning
+       balance amongst other material considerations and plan policies. Other factors such as
+       lack of authorised sites and/or personal circumstances will all remain factors which can
+       be taken into account. And where relevant, the best interests of the child will remain a
+       primary consideration. Authorities will have to make decisions in compliance with legal
+       duties that apply to Gypsy and Travellers including the PSED in section 149 of the
+       Equality Act 2010.
+       In view of this, we do not consider that any changes to the policy are needed [and that
+       action is needed to deal with intentional unauthorised development that undermines
+       confidence and trust in the planning system].
+   63. Advance equality of opportunity between people who share a particular protected
+       characteristic and people who do not share it.
+       As stated above, the decision-making policies in this chapter cover a range of
+       miscellaneous general policies, and generally these policies are neutral about
+       advancement of equality of opportunity, for example Policy DM1 which promotes pre-
+       application engagement with neighbours and the local community for major
+       developments. Policy DM8 on unauthorised development and enforcement is a general
+       policy but one in which Gypsies and Travellers could be disproportionately impacted
+       affecting site provision (see reasoning above).
+       Changes in policy DM10 relating to LPAs using Article 4 directions to prevent over
+       concentration of uses in certain areas, which could include HMOs, may have a
+       limited impact on those with a protected characteristic, who may be more likely to live in a
+       HMO. However, Article 4 directions should be restricted to the smallest geographical
+       area required to mitigate the evidenced harm, thereby limiting any impact.
+   Policy DM5: Development Viability acknowledges that there may be circumstances in which
+      a viability assessment demonstrates that it would not be possible for development to
+      proceed on a policy compliant basis. The policy clarifies that in such circumstances, the
+
+Public Sector Equality Duty: Changes to the NPPF
+                                                                                                      45
+       submission of a viability assessment as part of a development proposal may be justified
+       to ensure that the proposed development makes the maximum possible contribution to
+       affordable housing and other infrastructure.
+   64. Foster good relations between people who share a particular protected characteristic
+       and people who do not share it.
+       As stated above, the decision-making policies in this chapter cover a range of
+       miscellaneous general policies, and generally these policies are neutral about fostering
+       good relations. In relation to policy DM8, if this policy was consistently applied by local
+       planning authorities, it could help to foster good relations by helping to deter
+       unauthorised development and ensuring that where it happens it is remedied more
+       quickly, leading to fewer disputes between neighbours and promote community cohesion.
+
+   Transitional arrangements
+   Transitional arrangements will have an effect on the timing of the impacts of policy changes
+   assessed here.
+   For decision-making, the revised NPPF is proposed to apply from the date the new NPPF is
+   published. This means that the impact of changes on decision-making would be from the
+   date of publication. This is proposed to ensure that the policies in the NPPF, which are
+   reflective of the government’s ambitions for planning policy, have an impact in decision-
+   making quickly.
+   For plan-making, there are provisions made to allow development plans to continue to be
+   progressed on the current version of the NPPF. The balanced decision is based on ensuring
+   that plans that are significantly progressed already, do not have to make changes to reflect
+   the new NPPF, so that they can be adopted as quickly as possible. This reflects the
+   government’s position that the plan-led approach is, and must remain, the cornerstone of our
+   planning system. Local plans are the best way for communities to shape decisions about
+   how to deliver the housing and wider development their areas need. In the absence of an
+   up-to-date plan, there is a high likelihood that development will come forward on a piecemeal
+   and speculative basis, with reduced public engagement and fewer guarantees that it will
+   make the most of an area’s potential. This will help to ensure that communities can benefit
+   as soon as possible from up-to-date plans that support the delivery of housing, which for
+   some local authority areas, will have a beneficial impact on groups with protected
+   characteristics and the general public. For example, groups such as older people and
+   families with children and people disabilities will benefit through up to date plans and policies
+   providing greater certainty in planning for housing needs of the community, including the
+   size, type and tenure.
+   The impacts for individual policy proposals are assessed in the specific sections in this
+   PSED assessment and the direct effect of the transitional arrangements will be where these
+   impacts are felt.
+
+
+
+
+Public Sector Equality Duty: Changes to the NPPF
+                                                                                                       46
+.3 Summary of the Analysis
+
+   Considering the policy changes overall, there are three key effects which we consider will
+   have a positive impact on people with protected characteristics:
+       1. A range of changes to policies to support increased delivery of housing development,
+          in particular in well-connected areas - greater housing provision of this kind is
+          anticipated to particularly benefit those more likely to find difficulty accessing the
+          housing market, for example young adults, older people and some ethic minority
+          groups.
+       2. Incorporating policies for traveller sites into the NPPF – support the provision of
+          traveller sites.
+       3. Policy changes which seek to improve resilience to climate issues for example on
+          wildfires, flooding and the natural environment – improvements may disproportionately
+          impact those at greater risk of climate issues such as disabled people, older people
+          and some ethnic minority groups.
+
+   There remain some ongoing risks of differential treatment relating to traveller sites, as set out
+   in section 2.2, as well as some areas which may negatively impact older people or disabled
+   people, such as the digitisation of planning. Through the mitigations identified in this PSED
+   assessment and the aims of NPPF policies as read as a whole, we would assess that, on
+   balance, the planning system would deliver more positive benefits for individuals with
+   protected characteristics and on society overall.
+
+   The table below summarises where each NPPF policy is anticipated to impact (positively or
+   negatively) the individual protected characteristics, as identified in section 2.2 of this
+   assessment.
+                                                                                           Marriage    &
+                                                                                                                                  or
+
+
+
+                                                                                                           and maternity
+                                                                            Gender
+                                                                                           civil                                             Sexual
+
+                                                         Disability
+                                                                                                                                  Religion
+                                                   Age                Sex   reassignment   partnership
+                                                                                           Pregnancy                       Race   belief     orientation
+
+
+
+    Achieving sustainable development              Y     Y            Y     Y              N        Y                      Y      Y          Y
+    Plan-making policies                           Y     Y            Y     Y              N        Y                      Y      Y          Y
+    Decision-making policies                       N     N            N     N              N        N                      Y      N          N
+    Delivering a sufficient supply of homes        Y     Y            N     N              N        N                      Y      N          N
+    Building a strong, competitive economy         Y     Y            N     N              N        N                      N      N          N
+    Ensuing the vitality of town centres           Y     Y            Y     N              N        Y                      Y      N          Y
+    Promoting healthy communities                  Y     Y            Y     N              N        Y                      Y      Y          Y
+    Promoting sustainable transport                Y     Y            Y     Y              N        Y                      Y      Y          Y
+    Supporting high quality                        N     N            N     N              N        N                      N      N          N
+    communications
+    Making effective use of land                   Y     Y            N     N              N        Y                      Y      Y          N
+
+Public Sector Equality Duty: Changes to the NPPF
+                                                                                                                                                    47
+    Achieving well-designed places                 Y   Y     Y       Y   N    N    Y     Y    N
+    Protecting green belt land                     Y   Y     N       N   N    N    Y     N    N
+    Meeting the challenge of climate               Y   Y     N       N   N    Y    Y     Y    N
+    change
+    Managing flood risk and coastal                Y   Y     Y       N   N    Y    Y     N    N
+    change
+    Conserving and enhancing the natural           Y   Y     N       N   N    N    Y     N    N
+    environment
+    Pollution, public protection and security      Y   N     N       N   N    N    Y     N    N
+    Conserving and enhancing the historic          N   N     N       N   N    N    N     N    N
+    environment
+    Facilitating the sustainable use of            Y   Y     N       N   N    Y    N     N    N
+    minerals
+    PPTS                                           N   N     N       N   N    N    Y     N    N
+    Securing clean energy and water                Y   Y     N       N   N    Y    Y     N    N
+   NB: ‘Y[es]’ represents any type of impact, positive or negative
+
+
+
+
+SECTION 3
+3.1 Decision Making
+    The recommendation is to proceed as planned with the policy or service through
+    publishing the new NPPF.
+
+
+   We anticipate the changes will promote advancement of opportunity (e.g. through increased
+   home ownership, better environmental outcomes, the provision of infrastructure, and
+   improved opportunities for people across the country). We have determined that the proposed
+   policy changes may disproportionately impact those with protected characteristics. Where
+   potentially negative impacts on people with protected characteristics may arise, we are
+   satisfied with the mitigations which have been built into the policy during development.
+
+
+3.2 Monitoring arrangements
+
+   MHCLG will monitor progress on the reforms using a combination of: metrics already
+   gathered by the department; new metrics that are being created; and robust proxy
+   measures. Regular reports on progress will be submitted to senior officials on the individual
+   and combined impacts.
+
+   The equality impacts arising from the changes will be kept under review.
+
+
+
+Public Sector Equality Duty: Changes to the NPPF
+                                                                                                   48
+3.3 Sign-off by the decision-maker
+
+Name:
+Job Title:
+Date:
+
+
+
+
+Public Sector Equality Duty: Changes to the NPPF
+                                                   49
+

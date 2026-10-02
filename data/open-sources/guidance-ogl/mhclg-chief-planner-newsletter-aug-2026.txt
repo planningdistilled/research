@@ -1,0 +1,294 @@
+                                                                       PLANNING
+                                                                     NEWSLETTER
+
+BY EMAIL ONLY
+
+18 August 2026
+
+Message from the Chief Planner
+
+PUBLICATION OF THE NEW NATIONAL PLANNING POLICY FRAMEWORK AND
+WIDER PLANNING ANNOUNCEMENTS
+
+Dear Chief Planning Officer,
+
+I am writing to draw your attention to a number of important planning announcements and
+updates, including the new National Planning Policy Framework and the government’s
+response to the consultation launched in December 2025.
+
+This letter covers:
+
+•   the publication of the new National Planning Policy Framework, including the main
+    changes following consultation as well as the government’s response to the consultation;
+•   reforms to the statutory consultee system, including changes to the roles and
+    requirements of statutory consultees;
+•   publication of the 2024 and 2025 Housing Delivery Test results, alongside an updated
+    Rule Book;
+•   a consultation launched by DESNZ on permitted development rights, relating to ground
+    investigations for electricity network infrastructure;
+•   new digital planning tools and guidance, including the rollout of Extract to all local
+    planning authorities and new guidance on using digital tools for site identification and
+    assessment;
+•   new PropTech Innovation Fund pilots, testing digital solutions to persistent planning
+    challenges including plan-making and Section 106 negotiations;
+•   new Sustainable Drainage Systems resources, including national SuDS Strategy
+    Templates and new training for planners; and
+•   upcoming Green Infrastructure webinars, covering new evidence, mapping tools and
+    practical support for planners and other practitioners.
+
+                                                                                               1
+                                                                      PLANNING
+                                                                    NEWSLETTER
+
+National Planning Policy Framework
+
+The new Framework represents a significant restructuring of national planning policy, providing
+a clearer distinction between policies for plan-making and those which apply to decision-
+making. The new decision-making policies are intended to provide greater certainty and
+consistency, standardise policies which apply across England and reduce unnecessary
+duplication or unjustified local variation.
+
+The new decision-making policies in the Framework took effect on 17 August 2026.
+
+The Framework maintains many of the reforms proposed in the consultation published last
+December, while making a number of changes in response to consultation feedback. These
+include:
+
+•   Well-connected stations – the new ‘default yes’ approach to development around well-
+    connected stations has been expanded to apply within the top 80 Travel to Work Areas by
+    Gross Value Added, rather than the top 60 proposed at consultation.
+•   Density – policies have been refined to support more intensive use of land, including a
+    wider range of development within the curtilage of residential properties and increases in
+    floorspace as well as additional units. The approach to minimum densities around rail
+    stations has also been adjusted to ensure that densities are maximised where they can
+    appropriately be supported.
+•   Strategic sites – the Framework introduces a consistent and distinct category for strategic
+    sites of around 1,500 homes or more, with policies tailored to support their delivery where
+    relevant.
+•   Local standards – the Framework confirms that quantitative standards in development
+    plans should generally be limited to matters where local variation is justified, while
+    providing greater clarity on the circumstances in which local energy efficiency and internal
+    space standards may be appropriate.
+•   Retail and regeneration – greater flexibility is expected when applying parking standards
+    to the redevelopment of large retail and similar sites, helping support their regeneration.
+•   Telecommunications – clearer support is provided for telecommunications infrastructure
+    in appropriate locations, including development which can improve connectivity for rail
+    users.
+
+                                                                                                  2
+                                                                     PLANNING
+                                                                   NEWSLETTER
+
+•   Community facilities – policies protecting valued facilities have been strengthened,
+    including ensuring that public houses are not lost where this can reasonably be avoided.
+•   Protected Landscapes – the Framework makes clear that major development in Protected
+    Landscapes should be refused other than in exceptional circumstances, alongside the
+    existing statutory protection for their landscape and scenic beauty.
+
+The Framework also provides greater clarity across a number of other areas of decision-
+making, including the consideration of transport impacts, pollution, heritage, Protected
+Landscapes and the safety of women and girls.
+
+Following consultation feedback, the proposed specific reference to fast food outlets has not
+been taken forward. The government will instead consider whether other land-use planning
+approaches, including potential changes to the Use Classes Order, could help address the
+issues raised.
+
+The new National Planning Policy Framework and the government response to the
+consultation are available to view here: National Planning Policy Framework - GOV.UK
+
+
+Wider planning announcements
+
+A number of related measures have also been published as part of the government’s wider
+programme to create a clearer, rules-based planning system.
+
+Reforms to the statutory consultee system
+
+The government has published its response to the consultation on reform of the statutory
+consultee system (available here: Reforms to the statutory consultee system - GOV.UK). This
+confirms a package of changes intended to make consultation requirements more
+proportionate and reduce delays, including reforms affecting Active Travel England, National
+Highways, Historic England and the Mining Remediation Authority. Sport England will remain a
+statutory consultee, with its remit focused more closely on applications where its input adds
+most value. The statutory consultee status of The Gardens Trust and Theatres Trust will be
+removed, alongside a new notification requirement. Regulations to implement these reforms
+will follow in due course.
+
+
+
+
+                                                                                                3
+                                                                           PLANNING
+                                                                         NEWSLETTER
+
+Housing Delivery Test
+
+The 2024 and 2025 Housing Delivery Test results have been published, together with an
+updated Housing Delivery Test Rule Book. The 2025 Housing Delivery Test results should be
+used for the purposes of decision-making and are available to view here: Housing Delivery Test
+- GOV.UK.
+
+Permitted development rights for electricity network ground investigations
+
+The Department for Energy Security and Net Zero is inviting local planning authorities to
+engage with a consultation, published on 6 August, on proposed changes to permitted
+development rights (PDRs) for ground investigations and surveys to support the delivery of
+electricity network infrastructure projects in England.
+
+The consultation is seeking views on the introduction of a new PDR for certain temporary, low-
+impact ground investigations and surveys by electricity network developers (distribution and
+transmission network operators that are licensed to undertake works relating to electricity
+networks). The consultation is open until 4 September 2026 and is available to view here:
+Permitted development rights for electricity network ground investigations - GOV.UK.
+
+Extract – now live for all local planning authorities
+
+Extract, an AI-powered tool developed by MHCLG’s Digital Planning programme in partnership
+with the Incubator for AI (i.AI), is now live and free for every local planning authority to use. Visit
+https://provide.planning.data.gov.uk/extract
+
+The tool converts planning documents, including Conservation Areas, Article 4 Directions and
+Tree Preservation Orders, into structured, standardised data, cutting a process that can take
+up to 2 hours down to as little as 2 minutes for some document types. Users review and correct
+all outputs before exporting them into standardised formats for their own systems and the
+national Planning Data Platform.
+
+To get started, visit the platform and log in with your GOV.UK email address. Guidance and an
+introductory video are available to help you begin digitising your documents, and the team is
+on hand at extract@communities.gov.uk for any questions. There are also regular online drop-
+in sessions. For more information read our MHCLG Digital blog post.
+
+
+
+                                                                                                      4
+                                                                      PLANNING
+                                                                    NEWSLETTER
+
+Government have also started work with i.AI on a new AI prototype, in partnership with Google
+DeepMind and delivery partner Faculty, which aims to halve the time it takes to process
+householder planning applications.. For more information read our MHCLG Digital blog post.
+
+Using digital tools to support site identification and assessment
+
+New guidance on using digital tools to support site identification and assessment has been
+published. The guidance, which includes nine case studies, draws on the experiences of local
+planning authorities across the country, sharing practical advice on how digital tools can help
+identify potential development sites, improve assessment processes and make better use of
+planning data.
+
+Tackling planning delays
+
+A series of pilots have been selected to find digital solutions to some of the persistent
+challenges facing the planning system including cross-boundary and cross-tier plan-making
+and Section 106 negotiations. 11 consortia of technology companies working with local
+planning and combined authorities and other partners have been selected to take part in
+Round 6 of the Digital Planning programme’s PropTech Innovation Fund, sharing £2.4 million in
+funding. MHCLG is co-delivering Round 6 with PUBLIC. For more information read our MHCLG
+Digital blog post.
+
+New Sustainable Drainage Systems (SuDS) Strategy templates published
+
+The Environment Agency, working with CIRIA, the Association of SuDS Authorities, Arup and a
+working group of SuDS practitioners, has produced new SuDS Strategy Templates to help
+planning applicants submit the right information on SuDS first time. The templates should also
+make it easier for LPAs and LLFAs to check whether drainage systems, proposed as part of new
+development, have been designed in accordance with Defra’s National standards for
+sustainable drainage systems.
+
+To reflect the proportional approach advocated in the National Planning Policy Framework, two
+templates have been produced:
+
+   •   SuDS Strategy Template for Major Development
+
+   •   SuDS Strategy Template for Non-major Development.
+
+
+                                                                                                  5
+                                                                       PLANNING
+                                                                     NEWSLETTER
+
+Users should select the template that best fits the scale of their proposed development. The
+templates can be accessed from the Planning Portal or from the CIRIA website. Users should
+always access these versions to ensure the latest iteration is used.
+
+The Environment Agency encourages LPAs and LLFAs to adopt these national templates to
+improve consistency across the country and negate the need for local versions to be produced.
+If you would like to provide feedback on how the templates could be improved, please use
+fratemplatefeedback@environment-agency.gov.uk.
+
+New training for planners on SuDS
+
+SuDS are an increasingly important aspect of the design of urban areas and new
+developments. It is critical that planners, and flood risk practitioners working with the planning
+system, understand policy and best practice to support the implementation of SuDS through
+planning. The Environment Agency and the Town and Country Planning Association (TCPA)
+have teamed up with leading experts from the Association of SuDS Authorities (ASA), to
+develop an e-learning module covering key principles and practical advice for securing high-
+quality SuDS through planning.
+
+Further support and input has also been provided by CIRIA and CIWEM.
+
+The course is interactive, free of charge, and can be completed at your own pace. Register now
+to complete the course: https://learning.tcpa.org.uk/courses/intro-suds-for-planners
+
+Green Infrastructure webinars: new tools, evidence and mapping
+
+Natural England, the Environment Agency and the Forestry Commission are hosting two
+upcoming webinars to support the use of new green infrastructure evidence and mapping
+tools.
+
+Webinar | Better Evidence, Better Tools, Better Outcomes: Green Infrastructure
+Webinar at 10:00-11:30am on 29 September.
+
+Join Natural England and partners from the Environment Agency and the Forestry Commission
+for an update on a powerful new suite of green infrastructure tools designed to help planners,
+local authorities and policymakers deliver quality green infrastructure where it’s needed most.
+
+
+
+                                                                                                 6
+                                                                       PLANNING
+                                                                     NEWSLETTER
+
+Whether you are a planner, ecologist, public health professional, local authority officer,
+developer or have a wider interest in creating greener and healthier places, the webinar will
+provide an opportunity to explore the new tools and evidence available. For more information
+and to register, please click here.
+
+Webinar | Deep Dive into IMED, EEI Green Infrastructure Mapping Tools at 2:00-
+3:15pm on 6 October.
+
+Want to get more from the new environmental mapping tools? Join us on 6 October for a
+practical deep dive covering the latest improvements to the Green Infrastructure Mapping Tool,
+a walkthrough of Indices of Multiple Environmental Deprivation (IMED), and the Environmental
+Equity Index (EEI). Whether you're new to the tools or already exploring them, this is your
+opportunity to build confidence and ask questions. Click here to find out more and register.
+
+
+Closing remarks
+
+Further work will follow over the coming months to support implementation of the planning
+reforms set out above, including updates to relevant Planning Practice Guidance and
+implementation of provisions in the Planning and Infrastructure Act 2025.
+
+I recognise that publication of a substantially restructured Framework represents an important
+change for planning authorities and practitioners. I would encourage authorities to familiarise
+themselves with the new Framework, and in particular the decision-making policies which
+have applied since 17 August 2026.
+
+This letter, along with all previous Chief Planner Letters and Newsletters, is available on GOV.UK
+here.
+
+
+
+                                        Yours faithfully,
+
+                                        Joanna Averley
+                                         Chief Planner
+
+
+
+
+                                                                                                7
+

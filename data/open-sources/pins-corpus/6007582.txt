@@ -1,0 +1,428 @@
+Appeal Decision
+Site visit made on 22 July 2026
+by R J Redford MTCP MRTPI
+an Inspector appointed by the Secretary of State
+Decision date: 25 September 2026
+
+
+Appeal Ref: 6007582
+Former Revolution Bar, Maxwell Road, Beaconsfield, Buckinghamshire HP9 1QX
+•   The appeal is made under section 78 of the Town and Country Planning Act 1990 (as amended)
+     against a refusal to grant planning permission.
+•    The appeal is made by The Edward Gostling Foundation against the decision of Buckinghamshire
+     Council.
+•    The application Ref is PL/25/1579/FA.
+•    The development proposed is described as the demolition and construction of a part 3 – part 5
+     storey residential development (Use Class C3) with flexible Use Class E(a) (Retail), E(b) (Café),
+     E(c) (Professional Services), E(e) (Health Services), E(f) (Creche/nursery) and E(g)(i) (Office) at
+     ground floor level, with ancillary car parking, cycle parking, refuse and landscaping.
+
+Decision
+1. The appeal is dismissed.
+Applications for costs
+2. Applications for costs were made by The Edward Gostling Foundation against
+   Buckinghamshire Council as the Local Planning Authority and as the Local Lead
+   Flood Authority. These applications are the subject to separate decisions.
+Preliminary Matters
+3. For clarity, the description of development has been taken from the planning
+   application. During the application process the scheme was amended. This
+   reduced the number of proposed dwellings from 29 to 28, and indicatively showed
+   roof mounted photovoltaic arrays.
+4. The National Planning Policy Framework (the Framework) was updated in August
+   2026. The main parties have been given an opportunity to comment on this, so the
+   revised version has been referred to in this decision. The emerging
+   Buckinghamshire Council Local Plan (eLP) regulation 19 draft was also issued in
+   July 2026. However, the examining inspector has not provided any comment as to
+   the suitability of the eLP and its policies. Therefore, in accordance with Framework
+   Policy DM4, it is not found that the examination is at such an advanced stage to
+   attract anything more than limited weight.
+Background and Main Issues
+5. The Council has not raised an objection to the proposed mixed use of the site. It
+   considers that it would not prejudice the aims and objectives of South
+   Buckinghamshire District Local Plan (LP) Policies TC1 and S1, South
+   Buckinghamshire Core Strategy Development Plan Document (CS) Policy CP11,
+   and the eLP Policy SMA001, all of which deal with, amongst other things, the
+
+https://www.gov.uk/planning-inspectorate
+Appeal Decision 6007582
+
+
+     appropriate uses and sites to strengthen centres such as Beaconsfield New Town.
+     There is nothing before me to conclude otherwise.
+6. During the appeal process an engrossed section 106 agreement (s106) has been
+   submitted to secure obligations related to the Burnham Beeches Special Area of
+   Conservation, affordable housing, and primary health care facilities. However,
+   these obligations must be assessed to ensure they are necessary, relevant, and
+   reasonable.
+7. Therefore, the main issues are the effect of the proposed development on surface
+   water flooding, and the living conditions of the occupants of Elmers Court, with
+   specific regard to outlook, light and privacy, and the occupants of The Hollies, with
+   specific regard to outlook and privacy, and whether the proposal could secure
+   appropriate obligations.
+Reasons
+Surface water flooding
+8. The appellant has submitted a Flood Risk Assessment and Drainage Strategy
+   (FRAaDS)1 which seeks amongst other things, to provide a surface water drainage
+   system to reduce the risk of surface water flooding. This would include a deep
+   borehole soakaway with various Sustainable Drainage systems (SuDs) attenuation
+   measures to assist with storage, and in the event the capacity of this system is
+   exceeded or failure, excess water would flow overland into the proposed soft
+   landscaping and the private drainage system of the adjacent residential
+   development known as The Hollies.
+9. The British Geological Survey identifying the appeal site location as ‘high risk’ with
+   respect to potential solution features2. In this instance this relates to the underlying
+   chalk formation. As a soluble rock water soaking into the chalk could weaken it
+   structurally thus leading to its dissolution and the potential creation of cavities and
+   cave systems. These would reduce support to the ground above and could cause
+   localised collapse of the overlying rocks and deposits, thereby potentially affecting
+   the stability of any structure above it, including the proposed building. The
+   installation of structures that could affect the local groundwater flow or levels, such
+   as soakaways, could also affect these solution features3. As such the use of a deep
+   borehole is proposed
+10. CIRIA C574 guidance document sets out recommended buffer zones for deep
+    boreholes where foundation construction should not occur. As identified in the
+    supporting technical advice for the FRAaDS, there is a moderate hazard risk for the
+    appeal site4 from dissolution. Therefore, the recommended buffer zones are: 15m –
+    20m for areas with known dissolution features, 10m for areas where the chalk is
+    low density or the density is unknown; and 5m is permissible for where the chalk
+    density is medium or higher. The technical advice goes on to note that a 10m buffer
+    zone should be adopted as a risk management strategy due to the lack of chalk
+    density data5. From the information provided during the appeal process this would
+    appear an acceptable buffer zone and any larger would likely be overly
+1
+  By Mayer Brown and dated February 2026
+2
+  Paragraph 1.1 of the Dissolution Risk Assessment Feb 2026 by Subadra Consulting (FRAaDS Appendix E) (the DRA)
+3
+  Paragraph 2 of the DRA
+4
+  Paragraph 4 of the DRA
+5
+  Paragraph 3.4 of the Updated Borehole Infiltration Test Report Aug 2025 by Subadra Consulting (FRAaDS Appendix E and H)
+and Paragraph 5.5 of the DRA
+
+
+https://www.gov.uk/planning-inspectorate              2
+Appeal Decision 6007582
+
+
+     conservative as the technical data provided shows a lack of nearby known
+     dissolution features.
+11. It is, therefore, considered that a deep borehole with 10m buffer zone and SuDs
+    attenuation features, in all probability would be a viable method of surface water
+    drainage. Nevertheless, the proposal cannot achieve this as one corner of the new
+    building would have to be constructed within the 10m buffer zone, approximately
+    8.5m from the borehole6.
+12. The appellant proposes that this incursion into the buffer zone could be overcome
+    with the effected foundations being constructed using piles and / or foundation
+    bridging. This aligns with the technical recommendations from Subadra who also
+    proposed additional geotechnical investigation to ensure the foundations are
+    constructed in such a way to not be affected by the borehole and that the additional
+    investigations could be conditioned.
+13. It is also recognised within the technical data that the geotechnical investigations
+    may lead to the discovery of dissolution features and so require a larger buffer zone
+    to the borehole which may need a significant overhaul of the foundation design.
+    Nevertheless, the specifics and structural requirements of the foundations would be
+    controlled by separate regulatory regimes relating to safe construction practices,
+    and as set out in Framework Policy DM7, unless there is clear evidence to the
+    contrary, it should be assumed that those separate regimes will operate effectively.
+14. However, notwithstanding this, exceedance events must also be dealt with, and the
+    proposal method for this would be to use the drainage system which serves The
+    Hollies. There is nothing before me to show that there would be capacity within that
+    system, nor that the flow of water to it would not put the occupants of The Hollies at
+    risk. Therefore, taking account of the probability of extreme weather events
+    including heavy rain, increasing during the life of the proposed building it would be
+    necessary to demonstrate that in the event of a system exceedance or failure,
+    excess surface water can be appropriately managed on site without increasing
+    flood risk to occupants, or to adjacent or downstream sites. And there is nothing
+    before me to substantiate this would be the case.
+15. The Council has sought to deal with this via a condition clause requiring “Details of
+    proposed overland flood flow routes in the event of system exceedance or failure,
+    with demonstration that such flows can be appropriately managed on site without
+    increasing flood risk to occupants, or to adjacent or downstream sites”. However,
+    this would not be reasonable as the appellant has stated that the flows would not
+    be managed onsite but via The Hollies drainage system and this would require
+    potential third-party input and agreement.
+16. It is recognised via the decision notice that gave outline permission for The Hollies
+    (PL/20/4432/OA) specifics of the use of its exceedance flow disposal was
+    conditioned. However, in this instance there is simply not enough information
+    before me to ensure that the proposed method of dealing with excess water would
+    be appropriate or viable, therefore such a condition would not be precise or
+    reasonable.
+
+
+
+6
+ Paragraph 5.19 of the FRAaDS and the Proposed Drainage Strategy Plan – reference BPBEACONSFIELD.23.01 (FRAaDS
+Appendix J)
+
+
+https://www.gov.uk/planning-inspectorate          3
+Appeal Decision 6007582
+
+
+17. Therefore, it is found that in relation to exceedance events, it has not been shown
+    that the proposal would not increase the risk of surface water flooding with
+    particular regard to adjacent residential properties. As such it would fail to comply
+    with CS Policy CP13 as far as it seeks to ensure the risk of flooding is minimised.
+Living conditions of the occupants of Elmers Court
+18. Elmers Court is to the rear of the appeal site. It is a 5-storey residential block,
+    including under croft parking, comprising 48 units and is set back from the appeal
+    site boundary by a minimum of 2.5m7. The rear elevation of the proposed new
+    building would be positioned approximately 18.7m from the shared boundary and
+    would not be as wide as Elmers Court. The fenestration in the rear elevation would
+    relate to the main residential stairwell and 8 residential units across all 5 floors, as
+    well as part of the balcony related to a unit on the 5th floor.
+19. The appellant’s Daylight and Sunlight Amenity Study (DSAS)8 confirms that of the
+    windows in the Elmers Court which face the appeal site, 3 would have a reduction
+    in daylight of more than 20% but less than 30%. BRE guidelines confirm that a 20%
+    decrease would be acceptable when considering VSC9 calculations. Further in
+    relation to daylight distribution10 results, 14 rooms (some would have multiple
+    window) would fall short, with 7 in the minor category, 5 in the moderate loss
+    category, and 2 in the substantial loss category. The DSAS shows the windows and
+    rooms most effected are on the ground floor and would likely mean multiple rooms
+    in anyone unit would be impacted, thus compounding the effect of a reduced
+    access to light for the occupants of those units.
+20. Where multiple rooms are affected in a single unit, on the balance of probability the
+    occupants of those units would have their living conditions significantly and
+    detrimentally impacted by the reduction in access to natural light creating a dark
+    and gloomy interior requiring an over reliance on artificial lighting.
+21. It is recognised it would not be all the units in Elmers Court that would be affected,
+    nevertheless this does not negate the harm caused to those which would be
+    impacted.
+22. By using ‘mirror image’ modelling analysis the DSAS has sought to alter what
+    should be considered the baseline, and this would reduce the number of effected
+    rooms to 4. However, although it is recognised that BRE standards allow for mirror
+    image analysis in certain circumstances, it is not what is existing on site and
+    therefore the physical impact on the living conditions of the occupants of Elmers
+    Court with regard to access to light would be as previously identified.
+23. Due to the articulated nature of the elevation of Elmer Court which would face the
+    appeal site, the proposed separation between it and the proposed new building
+    would vary between approximately 18m and 28m. The Council’s Residential Design
+    Guide Supplementary Planning Document does not provide any minimum
+    separation distances for multi-storey buildings but does state it should be 21m for 2
+    storey buildings. It also confirms at paragraph 5.3.9 that this may be reduced in line
+    with the character of the area and where privacy of any existing properties is
+    already reduced. For example, where some overlooking already occurs.
+
+7
+  Paragraph 6.25 of the appellant’s Statement of Case.
+8
+  Daylight & Sunlight Amenity Study (Neighbouring) Report by Rapleys dated 9 December 2025, reference NBB/24-01504
+9
+  Virtual Sky Component
+10
+   Relating to how deep the light from a window can penetrate the room.
+
+
+https://www.gov.uk/planning-inspectorate             4
+Appeal Decision 6007582
+
+
+24. The appeal site and adjacent properties are within built up town centre
+    environment, where a level of intervisibility between buildings in not uncommon and
+    existing view have a very urban context. It was also observed on site that the
+    proximity between Elmers Court and other existing residential buildings is not
+    significantly different to that proposed. Further, due to the positioning of the
+    proposed new building, the windows in the section of the Elmers Court closest to
+    the appeal site would retain the existing oblique views out towards The Hollies, and
+    those windows that would directly face the proposed new building would be set the
+    furthest back. Finally, it was also observed that from Elmers Court the existing
+    views have very urban context. Therefore, although it is clear the outlook would
+    change from the effected windows, and that some of the views would be curtailed,
+    it is not considered that the quality of urban outlook would be so different as to
+    make living conditions untenable.
+25. Finally in relation to privacy, from the DSAS the windows that would be affected by
+    the proposal have been identified as kitchens and secondary windows into dual
+    aspect living rooms. In combination with the separation gaps proposed it is not,
+    therefore, found that the impact on privacy for the occupants of the effected units
+    would be so great as to render living conditions unacceptable.
+26. In summary, therefore it is found that the proposal would have a harmful impact on
+    the living conditions of a number the occupants within Elmers Court, but only in
+    regard to access to light would this be to such a level which could be considered
+    significantly detrimental. This, however, cannot be negated by the lack of harm
+    identified in relation to outlook and privacy. It would therefore fail to comply with LP
+    Policies EP3, EP5, and H9 insofar as they seek new development to not adversely
+    affect the amenities of neighbouring properties and not result in a significant loss of
+    daylight or sunlight to adjacent buildings.
+Living conditions of the occupants of The Hollies
+27. The Hollies is a 3-storey residential complex set back from the appeal site behind
+    its own private access road and a public footpath. It is recognised that the first 4
+    floors of the side elevation of the proposal would be less then 21m from the nearest
+    parts of The Hollies and would include 6 balconies. As such the only private
+    outdoor space and main living spaces of a number of units would have direct views
+    towards and over The Hollies.
+28. It is therefore found that in all probability the perception of privacy would be
+    reduced for those units in The Hollies on the upper floors which would directly face
+    the proposed new building, especially if the proposed balconies are in use. As with
+    the access to light in relation to Elmers Court, the quality of life of an individual can
+    be significantly impacted if there living conditions are impinged and in terms of
+    privacy perception is important. Therefore, again taking a precautionary approach
+    there is potential the proposal could have a detrimental impact on the privacy of the
+    occupants of the first and second floor units located directly opposite the proposed
+    new building.
+29. Turning to outlook the elevation of the proposed new building that would face The
+    Hollies would be a similar width, height, and proximity as that of Elmers Court.
+    Accordingly, a similar impact on outlook would be had, and this would be in keeping
+    with the urban character of the area. Therefore, although it would constitute
+
+
+
+https://www.gov.uk/planning-inspectorate   5
+Appeal Decision 6007582
+
+
+        change, it is not considered the impact on outlook would be so great as to be
+        detrimental to the living conditions of the occupants of The Hollies.
+30. However, a lack of harm in relation to outlook does not mitigate the harm identified
+    in relation to privacy. Therefore, as the proposal could have a detrimental impact on
+    the living conditions of some of the occupant of The Hollies with regard to privacy it
+    would again fail to comply with LP Policies EP3 and H9.
+Obligations
+31. The appeal site is in the recreation impact zone of influence for the Burnham
+    Beeches Special Area of Conservation (SAC). The SAC qualifies for protection due
+    to its rare Atlantic acidophilus beech forests with Ilex and Taxus in the shrub layer
+    (Quercion robori-petraeae or Ilici Fagenion); and Beech forests on acid soils
+    habitats. Regulation 63 of the Conservation of Habitats and Species Regulations
+    2017 require an appropriate assessment to ensure that the development would not
+    adversely affect the integrity of the SAC. This is echoed in CS Policy CP9, which
+    also seeks to ensure the integrity of the SAC is maintained, and appropriate
+    mitigation is secured when necessary.
+32. The Council’s SAC Strategic Access Management and Monitoring (SAMM)
+    Strategy11, the SAC it particularly sensitive to disturbance from recreational
+    pressures. The additional dwellings proposed would contribute to an increased
+    population. Given the proximity of the development to the SAC, it is likely that its
+    contribution to the increase in population could lead to an increase in visitor and
+    recreational pressure within the SAC. It cannot be concluded that the development
+    would not adversely affect the integrity of the protected sites in combination with
+    other projects and developments in the area.
+33. To mitigate recreational pressure on the SAC the Council requires contribution to
+    the SAMM to be secured by obligation. This is therefore considered necessary,
+    reasonable, and directly related to the development, and the submitted s106 would
+    secure the appropriate contributions in compliance with CS Policy CP9.
+34. CS Policy CP3 seeks at least 40% of dwellings in a scheme of 5 units or more to be
+    affordable, with 2 thirds of that provision being socially rented and the remainder as
+    intermediate affordable dwellings. For the proposal to comply with this, it would
+    require an obligation to secure the provision of 11.2 affordable dwellings. The s106
+    secures this in the form of 8 social rented units, 3 shared ownership units and a
+    commuted sum which would equate to 0.2 of an affordable dwelling, in accordance
+    with the South Buckinghamshire Affordable Housing Supplementary Planning
+    Document. It is therefore found that this obligation would be necessary, reasonable,
+    and directly related to the development in compliance with CS Policy CP3.
+35. CS Policy CP6 requires new development to provide for the necessary
+    infrastructure needs arising from that proposal. The local NHS board identified that
+    the number of proposed new residents would require additional clinical capacity at
+    the nearby Simpson Centre. It was calculated to require a contribution of £27,374.
+    The calculations provided by the Council within Appendix C of its Statement of
+    Case confirms this has been calculated on the presumption of 29. However, the
+    proposal is for 28 dwellings. Accordingly, although it is found that a contribution to
+    the Simpson Centre as part of the necessary infrastructure is necessary, would
+
+11
+     Developed in combination with Natural England
+
+
+https://www.gov.uk/planning-inspectorate             6
+Appeal Decision 6007582
+
+
+     relate to the development and would comply with the requirements of CS Core
+     Policy 6, it would not be seen as reasonable as the quantum of contribution would
+     be greater than the calculated impact of the proposal. However, this difference
+     would not be so significant when considering the overall obligations required by the
+     proposal, and the appellant has found it acceptable to agree to this amount within
+     the s106.
+36. Therefore, taken in the round it is found the proposal would secure appropriate
+    obligations, in compliance with CS Policies CP3, CP6 and CP9.
+Other Matters
+37. In respect to the Biodiversity Net Gain Regulations (BNGR), the main parties
+    consider that due to the previously developed nature of the appeal site the proposal
+    would not impact any priority habitats, and impact less than 25 square metres (e.g.
+    5m by 5m) of onsite habitat, and less than 5 metres of linear habitats. Therefore,
+    would comply with the de-minimus exemption of the BNGR. There is nothing before
+    me to conclude otherwise.
+38. It is recognised that the appellant considers the proposal would significantly exceed
+    the 10% BNG aspirations of the BNGR. As the proposal is exempt from these
+    Regulations the ecological benefits have been considered in their own right below
+    in the planning balance.
+39. Concerns have been raised in relation to character and appearance, the living
+    conditions of future occupants, highway safety, building sustainability,
+    contamination, noise, waste management, parking quantum, construction
+    disturbance, protected species, and childcare provision in the area. The Council
+    has not found harm in relation to these matters, though it is note in some cases it
+    would require additional information by condition. There is no substantive evidence
+    before me to conclude otherwise.
+40. That the Parish Council were not consulted on amendments during the application
+    process and that interested parties considered no meaningful public engagement
+    was undertaken, does not alter the planning merits of the case.
+Planning Balance
+41. Framework Policy S3:1.a sets a presumption in favour of sustainable development,
+    requiring the application of Framework Policy S4 for development proposals within
+    settlements. Policy S4:1 requires that development within settlements should be
+    approved unless the benefits of doing so would be substantially outweighed by any
+    adverse effects, when assessed against the decision-making policies in the
+    Framework.
+42. The Council cannot demonstrate a 5-year housing land supply, therefore
+    Framework Policy HO7 requires substantial weight to be given to the benefits of
+    providing homes which will contribute towards meeting the evidenced
+    accommodation needs of the community, and this includes the provision of
+    affordable housing. Framework Policy TC2 also gives substantial weight to
+    development which supports the overall vitality and viability of a town centre,
+    including through diversification and provision of residential accommodation as
+    proposed. As does Framework Policy L2:1.b for the better use of vacant or
+    underutilised land, such as the appeal site.
+
+
+https://www.gov.uk/planning-inspectorate   7
+Appeal Decision 6007582
+
+
+43. The proposed use of renewable / low carbon energy sources, energy efficient and
+    sustainable building methods, promotion of sustainable transport methods and
+    improved site biodiversity through landscaping and ecological features are given
+    moderate weight as these align with good design, ecological and construction
+    practices. Due to the location of the appeal site in the centre of a well provided for
+    town, the economic and social benefits a development of the size proposed would
+    provide for the surrounding area would be proportionally modest also. Whilst limited
+    weight is given to the financial contribution to the NHS board as this is required to
+    negate the additional pressure the increase in residents would have.
+44. The appellant has drawn my attention to Framework Policy L3, which deals with
+    appropriate densities. However, although an emerging policy document with little
+    weight, the new Local Plan proposes an allocation for the appeal site of more
+    residential dwellings than that the proposed, consequently I give compliance with
+    L3 limited weight. They have also drawn my attention to Framework Policy HC6,
+    which deals with the retention of key community facilities and public service
+    infrastructure. Again, this attracts limited weight as although the proposal would
+    replace a public house the main parties agree that in its current form it is not
+    commercially viable.
+45. The lack of harm identified in relation to the living conditions of the occupants of
+    Elmers Court and The Hollies in terms of privacy and outlook, and the SAC, and in
+    ‘other matters’, by definition, cannot weigh for or against the proposal.
+46. However, the proposal has not satisfactorily addressed surface water flood risk and
+    Framework Policy F7 requires amongst other things for development proposals to
+    not present a risk from flooding to potential occupiers and should not increase flood
+    risk elsewhere, otherwise they should be refused.
+47. Further, the proposal causes harm in relation to the living conditions of some
+    occupants of Elmers Court with regard to access to light, and some occupants of
+    The Hollies in regard to privacy. Framework Policies DP3.1 and P3 seek to ensure
+    living conditions are protected and new development integrates with its
+    surroundings. With Policy DP3.3 going as far as to state that proposals should be
+    refused if, without clear justification, they conflict with Policy DP3.1.
+48. Framework Policy S4:2.c clearly states that an adverse effect includes situations
+    where the proposal would fail to comply with one of the Framework decision-
+    making policies which state that the development proposal should be refused.
+    Therefore, although it is found the benefits of the proposal which are substantial,
+    they would not in this instance substantially outweigh the adverse effects of the
+    proposal which would fail to comply with 2 Framework policies that set out specific
+    circumstances for refusal.
+Conclusion
+49. For the reasons given above the appeal scheme would conflict with the
+    development plan when read as a whole and there are no sufficiently weighted
+    material considerations, including the Framework, which would indicate a decision
+    otherwise. The appeal is, therefore, dismissed.
+
+R J Redford
+INSPECTOR
+
+https://www.gov.uk/planning-inspectorate   8
+

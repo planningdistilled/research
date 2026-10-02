@@ -1,0 +1,15 @@
+case_id	date	place_lpa	outcome	verdict	reason	para	quote
+PINS-6010253	2026-09-28	Langley, Cheshire East	dismissed	correct	550 m to bus stop on an unlit, footway-free national-speed incline with little refuge; Connectivity Tool score 25 unexplained; small scale no answer	¶17	Beyond the edge of the village, the route lacks footways and street lighting, is subject to the national speed limit and is on an incline.
+PINS-6010642	2026-09-28	Sproston, Cheshire West and Chester	dismissed	correct	400 m to hourly bus but walking in the carriageway and an uncontrolled A54 crossing; route tested for parents and less mobile users; TR3 significant weight in S5(4)	¶13	the first part of the route requires walking within the road along Brereton Lane given the lack of a pavement or grass verge
+PINS-6010418	2026-09-24	Tibenham, South Norfolk	dismissed	correct	no footpaths or lighting, heavy car reliance; 2024 'vary between urban and rural areas' noted but not operative; TR3 not named	¶18	The absence of safe walking and cycling routes would not promote travelling by foot, cycling or wheeling.
+PINS-6007772	2026-09-24	Rusper, Horsham	allowed	differs	Borderline: allowed; heavy car reliance on unlit, footway-free lanes found (¶12) but TR3 not cited, weighed only as local-plan conflict in the S5(1)(d) balance (¶36); two dwellings	¶12	Future occupiers would therefore be likely to rely heavily on private cars for everyday needs.
+PINS-6009011	2026-09-29	Inkberrow, Wychavon	dismissed	differs	Borderline: TR3 not cited; limited footways and lighting and some car reliance accepted because live/work reduces trips and the fallback (¶26-28); dismissed on highway safety	¶28	I am satisfied that, taking into account both the nature and location of the proposal, it would minimise the need to travel by car.
+PINS-6010934	2026-09-30	Great Casterton, Rutland	dismissed	not-engaged	HO11(e) isolated-home design case; car reliance noted in passing (¶24, ¶47)		
+PINS-6007619	2026-09-25	Staines-upon-Thames, Spelthorne	allowed	not-engaged	parking; Connectivity Tool used to justify reduced parking		
+PINS-6006990	2026-09-28	Watford, Watford	dismissed	not-engaged	benefit in passing; parking CPZ		
+PINS-6010097	2026-09-30	Bledlow Ridge, Buckinghamshire	dismissed	not-engaged	benefit in passing		
+PINS-6009141	2026-09-29	Bridlington, East Riding of Yorkshire	dismissed	not-engaged	street hub/kiosk		
+PINS-6009569	2026-08-28	Seaview, Isle of Wight	allowed	not-engaged	site access safety		
+PINS-6012642	2026-09-28	Peterborough, Peterborough	dismissed	not-engaged	servicing and parking		
+PINS-6005590	2026-09-24	Highbury, Islington	dismissed	not-engaged	step-free access; public transport proximity held irrelevant		
+PINS-6011585	2026-09-24	Hough-on-the-Hill, South Kesteven	dismissed	not-engaged	location decided on spatial strategy only		

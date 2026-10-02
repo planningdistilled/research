@@ -1,0 +1,116 @@
+alc-trigger p.3
+alc-f7 p.9
+snit-charharm p.15
+snit-dp33 p.15
+snit-s55quote p.10
+snit-concl p.20
+snit-cs8 p.15
+snit-cs8-accord p.16
+snit-update p.5
+ff-statute p.8
+ff-harm p.7
+ff-balance-harm p.10
+ff-balance-benefit p.10
+ff-concl p.10
+ff-cs8 p.6
+ilm-supply p.5
+ilm-modest p.10
+ilm-balance p.11
+ilm-great p.10
+uq-cs8 p.4
+uq-energy p.3
+earl-buab p.9
+tan-wellrelated p.9
+cov-2024 p.2
+kin-11d p.11
+kin-note p.13
+oxh-note p.10
+cs8-b 
+cs8-lts 
+nppf-dp33 
+nppf-s55 
+nppf-s52 
+nppf-f7 
+nppf-he63 
+nppf-he64 
+nppf-he42 
+nppf-annexa2 
+nppf-annexa2b 
+nppf-he51 
+nppf-settlement 
+nppf-s5j 
+nppf-gb7g3 
+nppf-tr32 
+nppf-annexa1 
+kl-s55 ¶17
+kl-washed ¶18
+kl-dp33 ¶20
+kl-refused ¶20
+hg-consistent ¶39
+hg-outweighed ¶42
+ware-dp33 ¶21
+wg-treecover ¶23
+wg-s42c ¶30
+p7221-weights ¶34
+p7221-s4 ¶51
+bag-he6 ¶13
+bag-gb ¶15
+sm-cc ¶59
+sm-hou5 ¶66
+wa-full ¶4
+snit-highway p.9
+hg-s52 ¶39
+hg-s51j ¶37
+tan-pave p.9
+tan-short p.9
+tan-cope p.9
+hat-station ¶18
+hat-24 ¶24
+hat-26 ¶26
+hat-2 ¶2
+new-14a ¶14
+new-14b ¶14
+cop-7 ¶7
+poy-18 ¶18
+ilm-cs8 p.5
+ilm-cs8-refuse p.11
+snit-cs5 p.15
+earl-buab4 p.4
+hun-40 ¶40
+kl-dm1 ¶20
+hat-2b ¶2
+oxh-prior p.10
+kl-dp33b ¶20
+cs-413 ¶4.1.3
+ff-cs8fail p.8
+ff-design p.8
+snit-partj p.9
+snit-landscape p.20
+snit-parklane p.5
+alc-fz p.8
+earl-part p.4
+earl-majority p.5
+earl-conflicts p.9
+tan-lsv p.13
+tan-above p.13
+tan-partj p.8
+tan-conflicts p.13
+kin-prior p.12
+kin-aug p.2
+oxh-aug p.1
+cs-519 ¶5.1.9
+kl-agree ¶4
+kl-19 ¶19
+hat-content ¶2
+new-14loc ¶14
+hg-38 ¶38
+fin-15 ¶15
+fin-15b ¶15
+fin-17 ¶17
+bank-9 ¶9
+bank-14 ¶14
+
+pol-cj ¶43
+did-cj ¶22
+did-cj2 ¶22
+cop-slip ¶26

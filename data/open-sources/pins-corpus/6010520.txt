@@ -1,0 +1,376 @@
+Appeal Decision
+Site visit made on 24 August 2026
+by T Bennett BA(Hons) MSc MRTPI
+an Inspector appointed by the Secretary of State
+Decision date: 15 September 2026
+
+
+Appeal Ref: 6010520
+Harefield Grove, Rickmansworth Road, Harefield UB9 6JY
+•      The appeal is made under section 78 of the Town and Country Planning Act 1990 (as amended)
+       against a refusal to grant planning permission.
+•      The appeal is made by Mr and Mrs Stevens against the decision of the Council of the London
+       Borough of Hillingdon.
+•      The application Ref is 70328/APP/2023/1772.
+•      The development proposed is described as “Retrospective change of use from - This application
+       relates to three existing timber clad barns which were originally used as chicken sheds and for
+       storage and the change of use of the sheds for use as a dog training centre”.
+
+Decision
+1.       The appeal is dismissed.
+Preliminary Matters
+2.       The proposal is retrospective with the change of use having already commenced.
+3.       The appellant originally submitted a Noise Assessment as part of the original
+         application; however, concerns were raised regarding its robustness. In response,
+         as part of this appeal, the appellant has submitted a revised Noise Assessment1
+         (NA). The Council and interested parties have had the opportunity to comment on
+         this as part of the appeal process and I am satisfied accepting it would not result in
+         any prejudice to such parties. Consequently, and given it does not fundamentally
+         alter the appeal proposal, I have accepted the revised NA and determined the
+         appeal on this basis.
+4.       The description of development refers only to the change of use of the chicken
+         sheds. However, from the site block plan and submissions, it is apparent that the
+         change of use also relates to the material change of use of the fields to the north
+         and west of the chicken sheds for purposes associated with the dog training centre
+         through the subdivision into four smaller recreational plots, the erection of post and
+         mesh fencing and laying of hardstanding. I have determined the appeal on this
+         basis.
+5.       The appellants within their appeal statement refer to the neighbouring property as
+         Orchard Cottage. However, it is Cottage House that is detailed on the decision
+         notice and which is annotated on the site location plan and referred to within the
+         NA. I am therefore satisfied that this is an error within the appeal statement and I
+         have determined the appeal on the basis that the nearest neighbouring property is
+         Cottage House and refer to it as such in the decision.
+
+1
+    24 Acoustics Technical Report: R11754-1 Rev 0
+
+https://www.gov.uk/planning-inspectorate
+Appeal Decision 6010520
+
+
+6. On 17 August 2026, the Government published a revised National Planning Policy
+   Framework (the Framework). This latest version of the Framework has introduced
+   plan-making and national decision-making policies. It is effective from the day of
+   publication. The main parties have had an opportunity to consider the relevance of
+   the Framework to their case. I have considered any comments made in the
+   determination of this appeal.
+Main Issue
+7.       The main issue is the effect of the development on the living conditions of the
+         future occupiers of Cottage House with regard to any noise and disturbance.
+Reasons
+8.       The proposal seeks to use the site as a dog training and daycare facility. The
+         operating hours are stated to be between 7am – 6pm Monday to Friday with dog
+         training taking place on Saturdays between 10am – 2pm. A maximum of 60 dogs
+         are stated to be on site at any one time. Whilst the operating hours and numbers
+         of dogs differ from the information submitted on the application form, the hours and
+         dog numbers could be conditioned, in any approval.
+9.       The information suggests that up to 30 dogs are able to play outside between the
+         hours of 9am – 4pm in small groups, with a ratio of 10 dogs to 1 member of staff.
+         No dogs or staff remain overnight at the facility.
+10. The appeal site is discretely located, accessed via a gated track off
+    Rickmansworth Road, with limited visibility from public vantage points. The training
+    field is well contained, bound by mature trees on three sides with existing buildings
+    screening it to the south.
+11. The site is a former chicken farm and consists of a carpark, a large training field
+    split into 4 smaller training fields and three former chicken sheds, two of which
+    have been converted into dog care facilities.
+12. There are existing commercial uses nearby. The appellant is of the view that
+    noise emanating from these uses is not of a magnitude that causes disturbance.
+    Indeed, on my visit, whilst only a snapshot in time, I observed that the area was
+    relatively quiet.
+13. To the north of the appeal site, sitting within a rural woodland setting, is Harefield
+    Grove. This comprises a large Grade II manor house. It is not currently in
+    residential use, but there is an extant permission2 for its conversion into around 15
+    residential units and a live application awaiting determination for redevelopment
+    works and new dwellings. This property is set approximately 100 metres away
+    from the shared boundary with the appeal site. The Council consider that at this
+    distance, any noise emanating from the appeal site would not be of a level that
+    would cause disturbance to future occupiers.
+14. Also within the grounds of Harefield Grove is Cottage House. This property is
+    located approximately 8 metres from the boundary with the application site which
+    borders the field where dog training and daycare takes place. Cottage House is
+    currently derelict but has an existing lawful residential use and is to be retained as
+    part of the extant permission at Harefield Grove. Therefore, Cottage House could
+
+2
+    Ref: 28301/APP/2013/3104
+
+
+https://www.gov.uk/planning-inspectorate   2
+Appeal Decision 6010520
+
+
+       be occupied in the future and given the hours of operation and maximum number
+       of dogs that could be present, consideration must therefore be had to the impact of
+       the proposal on the living conditions of any future occupants.
+15. The primary concern is with regards to noise from the barking of dogs which could
+    occur in the former chicken sheds and in the training field.
+16. There is no recognised British Standard or other formal guidance for the
+    assessment of noise from barking dogs. The revised NA has been prepared by a
+    professional consultant and has adopted the widely used methodology advocated
+    by South Holland District Council Supplementary Planning Document (SHSPD)
+    which compares the average noise levels from dogs with existing background
+    noise levels at the nearest residential property. It is noted that the SHSPD is
+    intended for assessing noise from boarding and breeding kennels which are
+    considered to be typically louder than daycare facilities which only operate during
+    daytime hours. The guidance recommends that the noise level from dogs barking
+    does not exceed the background noise levels.
+17. The NA has calculated, using measured background and source noise levels, the
+    noise levels experienced at Cottage House from dogs barking in three different
+    scenarios, firstly noise from the barn building during a weekday daytime, secondly
+    noise from the training fields during a weekday daytime and lastly noise from the
+    training fields during a Saturday daytime. The table below shows the difference
+    between background noise and noise at the receptor.
+
+                                           Scenario                              Difference
+          Weekday Daytime Noise Level (07.00 to 18.00 hours) – Barn building      -16 dBA
+          Weekday Daytime Noise Level (07.00 to 18.00 hours) – Training field       0 dB
+          Saturday Daytime Noise Level (10.00 to 14.00 hours) – Training field     -5 dBA
+
+18. In determining the results, the NA explains that the calculations have factored in
+    acoustic screening in the form of a 1.8 metre timber fence along the northern
+    boundary between the training field and Cottage House, which is stated to provide
+    a 10dB reduction in noise.
+19. Based on the results, the NA concludes that with the mitigation, the noise arising
+    from the change of use would not have a significant observed adverse effect on
+    the living conditions of future occupiers at the nearest neighbouring property.
+    However, my attention has been drawn to an acoustic review of the submitted NA
+    by MZA Acoustics on behalf of Savills who are involved with the planning
+    applications at Harefield Grove.
+20. MZA Acoustics highlight that although the SHSPD is widely used, it uses the
+    average noise level from dogs and does not account for the inherent attention
+    catching nature of dog barking. They draw my attention to draft guidance produced
+    by the Association of Noise Consultants which recommends corrections for the
+    attention catching nature of dogs for impulsivity (between +3 and +9 dB) and for
+    intermittency (+3dB) and therefore the subjective impact could increase by up to
+    +12dB. Although this is a draft document and carries limited weight in itself, it
+    nevertheless raises pertinent matters.
+
+
+https://www.gov.uk/planning-inspectorate        3
+Appeal Decision 6010520
+
+
+21. I acknowledge that the dogs would be supervised in small groups and that the
+    appellant seeks to ensure barking is restricted. However, barking is a natural
+    display of emotion for dogs, and it would be expected to occur at times. Dogs can
+    be unpredictable, vary in nature, size and breed. Whilst a management plan and
+    staff could assist in keeping barking to a minimum there may be times when it is
+    difficult to prevent.
+22. The character of dog barking is unpredictable, typically comprising intermittent and
+    impulsive short bursts of noise that can vary in tone, pitch and volume. This would
+    have the potential to cause some noise disturbance. Given the close proximity of
+    the outdoor training area to the boundary with Cottage House, I find that material
+    noise disturbance is likely to occur when dogs are in the outside area rather than
+    when inside the former chicken sheds which are set further away from Cottage
+    House.
+23. Indeed, during my site visit, which I acknowledge represents only a snapshot in
+    time, I observed a couple of the dogs in the outdoor area barking briefly when I
+    was outside the site. The barking was clearly discernible and in stark contrast to
+    the general background noise levels in the locality. Therefore, given the nature of
+    dog barking, I consider it reasonable for acoustic feature corrections to be applied.
+24. Additionally, MZA Acoustics raise concerns regarding the effectiveness of the
+    proposed acoustic fence. They suggest that following a barrier correction
+    calculation undertaken in accordance with ISO 9613-2, given the overall size of the
+    training fields, the fence would likely achieve a noise reduction of around 5 to 6 dB,
+    rather than the 10dB cited. Whilst I note that the appellant states that an
+    attenuation of 10dB is consistent with the guidance in the SHSPD, this appears to
+    be based on there being no direct line of sight between the source and receiver.
+    However, Cottage House is two stories in height. Given its close proximity to the
+    boundary and the limited height of the proposed fence, there would likely be a
+    direct line of sight over the fence, particularly during periods of leaf fall.
+    Consequently, I cannot be satisfied that the level of attenuation suggested by the
+    appellant would be achieved.
+25. Whilst conditions could be imposed to ensure noise from the facility is
+    appropriately managed and controlled, given my concerns with the NA and that
+    there are areas which are close to the boundary with Cottage House I cannot be
+    certain, based on the information before me at this time, that when barking does
+    occur within the training fields, that the noise levels at Cottage House would be
+    below a Significant Observed Adverse Effect Level, irrespective of any conditions
+    being imposed.
+26. For the reasons above, at this stage and taking a precautionary approach, I cannot
+    be sufficiently satisfied that the development would not have a material adverse
+    effect on the living conditions of future occupiers of Cottage House with regard to
+    noise and disturbance. The proposal therefore conflicts with Polices EM8 of the
+    Hillingdon Local Plan: Part One - Strategic Policies (2012) (HLP1), DME 7 and
+    DMHB 11 of the Hillingdon Local Plan: Part Two Development Management
+    Policies (2020) (HLP2), D14 of the London Plan (2021) (LP) and the Framework.
+    Taken together, amongst other matters, these seek to ensure proposals do not
+    adversely affect the living conditions of neighbouring occupiers by virtue of noise
+    and that any impacts can be adequately controlled and mitigated.
+
+
+https://www.gov.uk/planning-inspectorate   4
+Appeal Decision 6010520
+
+
+Other matters
+Green Belt
+27. I am conscious that the Council did not refuse the scheme on Green Belt grounds.
+    However, given the location of the site in the Green Belt, I consider that it is
+    important I examine this matter. The change of use comprises several elements:
+    the change of use of the former chicken sheds which were in agricultural use to
+    facilities for dog training and daycare, a change of use of the fields to the north and
+    west of the sheds for use for dog training, the provision of a carpark and the
+    erection of post and mesh fencing.
+28. Policy GB6 of the Framework states that development in the Green Belt is
+    inappropriate unless it falls within one of the categories in Policy GB7.
+29. One such category outlined at paragraph 1.b.) of Policy GB7 is for the reuse,
+    extension, alteration or replacement of an existing building, provided that the
+    existing building is of permanent and substantial construction, is lawful in planning
+    terms, and any extension or alteration will not result in a disproportionate increase
+    in size compared to the original building. The Council consider that the change of
+    use of the chicken sheds to facilities for the dog training centre meets this criteria.
+    From the information before me and my observations on site, I have no reason to
+    take a different view on that matter. This aspect would not represent inappropriate
+    development in the Green Belt.
+30. Policy GB7, paragraph 1.f.) of the Framework also sets out that certain other forms
+    of development are not inappropriate in the Green Belt provided the impact on the
+    openness of the Green Belt is minimised, and there would not be a significant
+    conflict with the Green Belt purposes. Two such exceptions are set out at
+    paragraph 1.f.iii.) this being for the material change in the use of land (such as
+    changes of use for outdoor sport or recreation) and at paragraph 1.f.iv.) for the
+    provision of appropriate facilities (in connection with the existing use of land or a
+    change of use).
+31. I consider the change of use of the field for dog training facilities would be a form
+    of outdoor recreation and could be considered under criteria 1.f.iii.) with the car
+    park eligible for consideration under criteria 1.f.iv.) as, given its rural location, this
+    would be a necessary facility in order for the public to visit and bring their dogs. As
+    the material change of use involves dividing the field into four smaller recreational
+    plots I consider the low level post and mesh fencing to form part of the material
+    change of use. Whether these aspects accord with the relevant criteria requires
+    consideration of their effect on the openness and purposes of the Green Belt.
+32. The Framework states that the fundamental aim of Green Belt policy is to prevent
+    urban sprawl by keeping land permanently open and that the essential
+    characteristics of Green Belts are their openness and their permanence. Planning
+    Practice Guidance (PPG) provides advice on the factors that can be taken into
+    account when considering the potential impact of development on the openness of
+    the Green Belt, with openness being capable of having both spatial and visual
+    aspects.
+33. Given the site context that I have previously set out, the use of the field for dog
+    training purposes has a negligible impact on spatial and visual openness.
+
+
+https://www.gov.uk/planning-inspectorate   5
+Appeal Decision 6010520
+
+
+34. The post and mesh fencing is low level and visually permeable. Given its location
+    around the edge of, and within, the enclosed training field it does not appear as a
+    prominent feature and maintains views across the site.
+35. The scale of the carpark is very modest, is bound in a porous gravel which limits
+    any urbanising effect and is viewed against both existing buildings and areas of
+    hardstanding as well as a belt of mature trees immediately to the west which
+    screens it from views outside of the appeal site.
+36. The enclosed nature of the appeal site which includes the training field and
+    carpark means it does not appear to encroach into open countryside. The car park
+    and post and mesh fencing has a very limited impact on the spatial and visual
+    openness of the Green Belt. Considering these factors, I find the impact on the
+    openness of the Green Belt has been minimised and neither the carpark, post and
+    mesh fencing, nor the change of use of the field results in any significant conflict
+    with the five Green Belt purposes set out in Policy GB2 of the Framework.
+37. Consequently, the change of use of the field, post and mesh fencing and creation
+    of the car park accords with criteria 1.f.iii.) and 1.f.iv.) respectively and is not
+    inappropriate development in the Green Belt.
+38. The only other outstanding matter, which has been introduced at the appeal stage,
+    is the acoustic fence. The Council had indicated in the Officer Report that such
+    mitigation would be inappropriate development within the Green Belt due to the
+    scale and nature of such fencing. Having regard to the Framework, it is not clear
+    whether or not this would be inappropriate development or be considered as part
+    and parcel of the change of use. However, as the acoustic fencing did not form
+    part of the original application and given my concerns with noise and that I cannot
+    be certain, based on the information before me, that the acoustic fence would fully
+    address noise concerns, it is not necessary for me to consider this matter further
+    as it would not alter the outcome of the appeal.
+Interested parties
+39. I recognise and have taken into account the support from existing customers and
+    others, but this is not sufficient in itself to make the development acceptable in
+    planning terms and does not outweigh the policy conflict in this instance.
+Other issues
+40. I acknowledge the appellants’ frustration at the poor handling of the case by the
+    Council and that they have responded to all of the requests that were made of
+    them. However, this is not a matter which weighs in favour of the appeal which has
+    been determined on its planning merits.
+41. Although the appellants consider that no development has taken place within the
+    Green Belt, a material change of use of the land has taken place which is
+    development in planning terms.
+42. I note that parts of the grounds of Harfield Grove to the north of the appeal site are
+    used for filming purposes and that noise and disturbance may be generated whilst
+    that takes place. Be that as it may, that use is different in nature to the proposal
+    before me and is therefore not directly comparable. It therefore carries limited
+    weight in my overall assessment of the main issue in this appeal.
+
+
+https://www.gov.uk/planning-inspectorate   6
+Appeal Decision 6010520
+
+
+43. The appeal site is adjacent to Harefield Grove a Grade II listed early 19th century
+    building with Stucco features. Cottage House is a pre-1948 building and sits within
+    the grounds of Harefield Grove. It is therefore deemed to be curtilage listed.
+    Section 66 (1) of The Planning (Listed Buildings and Conservation Areas) Act
+    1990 requires me to have special regard to the desirability of preserving the
+    buildings or their setting.
+44. The significance of Harefield Grove appears to be derived, in part, from its
+    architectural detailing and its rural parkland setting. I am satisfied that the
+    proposed development would preserve the setting of Harefield Grove and would
+    not diminish the ability to appreciate the asset’s significance, with the Council also
+    considering that the ability to appreciate the assets significance would not be
+    unduly altered.
+Planning Balance & Conclusion
+45. Section 38(6) of the Planning and Compulsory Purchase Act 2004 requires that
+    applications for planning permission must be determined in accordance with the
+    development plan unless material considerations indicate otherwise.
+46. The Framework is a material consideration. Policy S3 of the Framework applies a
+    presumption in favour of sustainable development, where outside of settlements,
+    Policy S5 of the Framework is to be applied. Policy S5 permits certain forms of
+    development outside of settlements stating that these should be approved, unless
+    the benefits of doing so would be substantially outweighed by any adverse effects,
+    when assessed against the national decision-making policies in the Framework.
+47. Given the nature of the development, I find it would accord with the exception listed
+    at paragraph 1b) of Policy S5 which allows development for rural businesses and
+    services, where a location outside settlements is shown to be necessary. I also
+    note the Council recognise that a rural site is necessary.
+48. The proposal would not have an adverse effect on the character and appearance of
+    the area, including the setting of the Grade II listed building or highway safety.
+    However, a lack of harm carries neutral weight in the planning balance.
+49. There are several benefits that arise from the development. The business makes a
+    positive contribution to the area in economic terms by providing jobs. The
+    Framework directs that substantial weight is given to the economic benefits of
+    proposals for commercial development. It also provides a convenient and useful
+    facility for dog owners and I note the supportive comments made by many
+    interested parties. It would also reuse a rural building.
+50. However, Policy P3 of the Framework also requires that development proposals
+    do not give rise to, or contribute to, unacceptable levels of noise for neighbouring
+    occupiers with adverse impacts avoided or else mitigated to an acceptable degree.
+    As I have set out, on the basis from the information before me at the moment, I
+    cannot be certain this would be the case. I cannot rule out that the development
+    would not have material adverse effects on the living conditions of future
+    residential occupiers of Cottage House in terms of noise and disturbance, in
+    conflict with policies EM8 of HLP1, DM E7 and DMHB11 of HLP2 and D14 of the
+    LP. I thus find that the development is contrary to the development plan as a
+    whole. This is a matter to which I afford substantial weight against the
+    development.
+
+https://www.gov.uk/planning-inspectorate   7
+Appeal Decision 6010520
+
+
+51. Planning decisions often involve competing interests that must be weighed in the
+    balance by the decision maker. In the specific circumstances of this appeal, the
+    benefits of the proposed development would be substantially outweighed by the
+    identified adverse effects of the proposal, when assessed against the national-
+    decision making policies of the Framework as a whole.
+52. Accordingly, the identified conflicts with the development plan would not be
+    outweighed by the material considerations. I therefore conclude that the appeal
+    should be dismissed.
+
+T Bennett
+INSPECTOR
+
+
+
+
+https://www.gov.uk/planning-inspectorate   8
+

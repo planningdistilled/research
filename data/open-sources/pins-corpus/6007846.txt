@@ -1,0 +1,252 @@
+Appeal Decision
+Site visit made on 22 July 2026
+by P Storey BA (Hons) DipTP MRTPI
+an Inspector appointed by the Secretary of State
+Decision date: 7 September 2026
+
+
+Appeal Ref: 6007846
+106-110 Belgrave Road, London SW1V 2BJ
+•    The appeal is made under section 78 of the Town and Country Planning Act 1990 (as amended)
+     against a refusal to grant planning permission.
+•    The appeal is made by Ms M Boghani-Nathoo against the decision of City of Westminster Council.
+•    The application Ref is 25/04302/FULL.
+•    The development proposed is installation of three wall mounted condensers with an accompanying
+     acoustic wall to 110’s courtyard and one ground-level condenser contained within an acoustic
+     housing at 106 courtyard.
+
+Decision
+1.     The appeal is allowed and planning permission is granted for installation of three
+       wall mounted condensers with an accompanying acoustic wall to 110’s courtyard
+       and one ground-level condenser contained within an acoustic housing at 106
+       courtyard, at 106-110 Belgrave Road, London SW1V 2BJ, in accordance with the
+       terms of the application, Ref 25/04302/FULL, subject to the following conditions:
+       1)      The development hereby permitted shall begin not later than three years
+               from the date of this decision.
+       2)      The development hereby permitted shall be carried out in accordance with
+               the following approved plans:
+               OS Map and Block Plan – 6248-P-001
+               Proposed Basement Plan – 6248-P-020 Rev A
+               Proposed Rear Elevation – 6248-P-030 Rev A
+       3)      Prior to the approved condenser units being brought into use, all acoustic
+               mitigation measures identified within the ‘Noise Impact Assessment’
+               (Revision 02, 02/10/2025, prepared by Scotch Partners) and shown on the
+               approved plans, including any acoustic enclosures, acoustic screening,
+               acoustic absorbers and specified operating restrictions, shall be fully
+               installed. The approved mitigation measures shall thereafter be retained and
+               maintained for the lifetime of the development.
+       4)      The approved condenser units shall at all times be operated in accordance
+               with the operational recommendations set out in the ‘Noise Impact
+               Assessment’ (Revision 02, 02/10/2025, prepared by Scotch Partners).
+Preliminary Matters
+2.     Since the Council issued its decision, the Environmental Supplementary Planning
+       Document (ESPD) referred to in the reason for refusal has been superseded by
+       the Environment Supplementary Planning Document, Adoption Version, February
+
+https://www.gov.uk/planning-inspectorate
+Appeal Decision 6007846
+
+
+       2026. During the appeal the Council provided a copy of the updated ESPD and
+       was afforded the opportunity to comment on its implications. Whilst the
+       development plan remains unchanged, the updated ESPD does not materially
+       alter the relevant noise assessment criteria and is the relevant material
+       consideration for the purposes of my decision. Accordingly, references in this
+       decision to the ESPD are to the February 2026 version unless otherwise stated.
+3.     I have had regard to the updated version of the National Planning Policy
+       Framework (the Framework), which came into force on 17 August 2026. I am
+       satisfied that the revisions do not raise any new issues of relevance to the appeal,
+       alter the policy considerations material to my determination, or prejudice the
+       interests of any party. In those circumstances, I have not found it necessary to
+       invite further representations on the implications of the updated Framework.
+4.     For ease of reading, this decision refers to acoustic levels simply in decibels (dB).
+       The full acoustic descriptors used in the supporting technical evidence have been
+       omitted except where necessary to explain the matters in dispute.
+Main Issue
+5.     The main issue is the effect of the proposed development on the living conditions
+       of nearby occupiers, with particular regard to noise.
+Reasons
+6.     Policies 7 and 33 of Westminster City Plan 2019-2040 (the CP) collectively seek to
+       protect residential amenity and prevent adverse effects arising from noise. The
+       Environmental Supplementary Planning Document (ESPD) provides prescriptive
+       criteria against which proposals should be determined, underpinned by World
+       Health Organisation (WHO) figures and data. The ESPD is formally adopted
+       planning guidance, and in the absence of more specific criteria for assessing noise
+       impacts in the development plan, I afford it significant weight.
+7.     The planning application was accompanied by a Noise Impact Assessment (NIA)
+       based on measured background and ambient noise data collected over several
+       days at the site.
+8.     The highest mean daytime (07:00-23:00) ambient noise level recorded by the NIA
+       was 55 dB and the highest mean night-time (23:00-07:00) ambient noise level
+       recorded was 53 dB. The NIA concludes that daytime ambient noise levels do not
+       exceed the World Health Organisation (WHO) daytime guideline value of 55 dB,
+       whereas the WHO night-time guideline value of 45 dB is exceeded during that
+       period.
+9.     The ESPD prescribes separate requirements for assessing noise generated by
+       plant and machinery depending on whether the existing external ambient noise
+       climate exceeds the relevant WHO guideline values. The NIA adopts this approach
+       in determining the effects of the proposed condensers. During the daytime, the
+       NIA applies a plant noise limit of 34 dB, derived by applying a 10 dB reduction to
+       the minimum measured background sound level during periods when ambient
+       noise levels did not exceed the WHO daytime guideline value. During the night-
+       time, where the WHO guideline value was exceeded, a more stringent limit of 29
+       dB is applied, representing a 15 dB reduction from the same minimum measured
+       background sound level.
+
+
+https://www.gov.uk/planning-inspectorate   2
+Appeal Decision 6007846
+
+
+10. Taking account of the proposed mitigation measures, including acoustic
+    enclosures, acoustic treatment to the courtyard walls and restricted operating
+    modes, the NIA predicts that noise from the proposed plant would not breach
+    these limits at the nearest noise-sensitive receptors. The Council has not identified
+    any shortfall in the methodology of the NIA, the selection of receptors, the
+    background noise measurements or the prediction calculations.
+11. The Council's objection rests substantially on its interpretation that a daytime
+    ambient noise level of 55 dB should be treated as exceeding the WHO daytime
+    guideline value of 55 dB. However, the ESPD distinguishes between
+    circumstances where ambient noise "exceeds" WHO guideline levels and where it
+    "does not exceed" those levels. In the absence of any alternative definition being
+    provided, I am not persuaded that a value equal to a threshold can reasonably be
+    said to exceed it. A daytime ambient noise level of 55 dB is equal to, rather than
+    greater than, the 55 dB WHO guideline value.
+12. The Council's position is explained further within the accompanying informative on
+    the decision notice, which states that daytime ambient noise levels of 55 dB mean
+    that the WHO guideline levels are exceeded during both daytime and night-time
+    periods, such that the more onerous ESPD criterion of 15 dB below background
+    should apply throughout. On that basis the Council considers that the proposed
+    mitigation would be insufficient.
+13. Nevertheless, I am not persuaded that this assists the Council's case. The
+    evidence before me demonstrates that the daytime ambient noise environment
+    does not exceed the WHO daytime guideline value, while the night-time ambient
+    environment exceeds the corresponding night-time guideline value. Accordingly, I
+    find that the less onerous ESPD criterion should apply during the daytime period
+    and the more onerous criterion during the night-time period.
+14. Concerns were also raised by several nearby occupiers regarding the potential
+    noise impacts of the proposed condensers, particularly in relation to low-frequency
+    hum, tonal noise, vibration, sleep disturbance and the effect on the peaceful
+    enjoyment of neighbouring homes. Objectors also questioned the methodology
+    and conclusions of the NIA, arguing that it relied on assumed receptor locations,
+    failed to adequately assess the nearest residential properties, underestimated the
+    acoustic effects of the enclosed courtyard environment and allowed insufficient
+    margin between predicted noise levels and Westminster's guideline limits.
+    Concerns were additionally expressed regarding cumulative noise impacts, the
+    proposed operating modes and the experience of previous unauthorised plant at
+    the site.
+15. Whilst those concerns are noted, they are not supported by compelling evidence
+    that would lead me to depart from the findings of the NIA. The assessment has
+    been prepared by suitably qualified acoustic consultants, applies the methodology
+    prescribed by the ESPD, and reaches acceptable conclusions based on proposed
+    mitigation measures. In the absence of any substantive evidence contradicting the
+    findings of the NIA, I am not persuaded that the proposal would give rise to
+    unacceptable noise impacts or otherwise result in material harm to the living
+    conditions of neighbouring occupiers.
+16. Given my findings regarding the applicable criteria, I am satisfied that the
+    submitted acoustic evidence demonstrates that the proposed condenser units,
+
+
+https://www.gov.uk/planning-inspectorate   3
+Appeal Decision 6007846
+
+
+       subject to the mitigation measures identified within the NIA, would not result in
+       unacceptable noise impacts on the occupiers of neighbouring properties.
+       Accordingly, I conclude that the proposed development would safeguard the living
+       conditions of the occupiers of neighbouring properties and accord with the
+       objectives of Policies 7 and 33 of the CP, and the provisions of the ESPD, the
+       aims of which have previously been set out.
+Other Matters
+17. The appeal site lies within the Pimlico Conservation Area (the CA), which derives
+    its significance principally from its extensive survival as a planned mid-nineteenth
+    century residential district characterised by stucco-fronted classical terraces,
+    formal street layouts and a strong degree of architectural uniformity. Section 72(1)
+    of the Planning (Listed Buildings and Conservation Areas) Act 1990 requires that
+    special attention be paid to the desirability of preserving or enhancing the
+    character or appearance of the CA.
+18. The proposed equipment would be located within enclosed rear courtyard areas at
+    basement level. I have had regard to the Council's design and heritage
+    assessment within the officer report and the concerns raised in representations.
+    Owing to the positioning of the equipment within the utilitarian rear service
+    courtyard, its limited visibility and the absence of any significant effect on the
+    architectural qualities that contribute to the significance of the CA, I find that the
+    proposal would preserve the character and appearance of the CA. Accordingly, the
+    proposal would satisfy the statutory duty under section 72(1) of the Act.
+19. The appeal property forms part of 78-130 Belgrave Road, a Grade II listed mid-
+    nineteenth century stucco terrace (the LB). The list description identifies the
+    special interest of the building group as arising from its balanced terrace
+    composition, projecting bays, classical detailing, Doric porches, balconies,
+    cornices, sash windows and its contribution to the wider townscape of Belgrave
+    Road and St George's Square.
+20. Section 66(1) of the Planning (Listed Buildings and Conservation Areas) Act 1990
+    requires special regard to be had to the desirability of preserving a listed building
+    and its setting or any features of special architectural or historic interest which it
+    possesses.
+21. I note that listed building consent has already been granted for the works
+    proposed. Although that decision does not determine the outcome of this appeal, it
+    is nonetheless a material consideration and, having regard to the nature and
+    location of the proposed equipment, I have seen no substantive evidence to lead
+    me to a different conclusion concerning the effect of the development on the LB.
+    Consequently, I find that the proposal would preserve the LB and its setting, would
+    result in no harm to its significance, and would accord with the statutory duty under
+    section 66(1) of the Act.
+22. Several representations express concern regarding potential ground-borne
+    vibration from the equipment, heat emissions, energy use, carbon emissions, the
+    urban heat island effect and the absence of a thermal impact assessment.
+    However, there is insufficient substantive evidence before me to indicate that
+    these matters would give rise to unacceptable impacts.
+
+
+
+https://www.gov.uk/planning-inspectorate   4
+Appeal Decision 6007846
+
+
+23. Objectors further contend that alternative locations for the equipment, including
+    roof-level installations or internal plant rooms, have not been adequately
+    investigated and that the need for the equipment itself has not been demonstrated.
+    However, the purpose of this appeal is to determine the scheme before me, not to
+    identify or consider speculative alternatives.
+24. Representations also refer to alleged previous unauthorised works and concerns
+    regarding planning compliance history at the property, including existing rooftop
+    air-conditioning equipment. Any such matters would fall to be considered
+    separately under the Council's enforcement powers and do not affect my
+    assessment of the planning merits of the appeal proposal. Similarly, each proposal
+    must be determined on its own specific considerations, and the absence of
+    identified harm in this case does not lead me to find against the proposal.
+25. I have also taken account of concerns regarding maintenance activity, loss of
+    green space, biodiversity impacts, the relationship between the planning and listed
+    building applications and potential effects on property values. Property values are
+    not a material planning consideration and, in any event, none of the remaining
+    matters has been demonstrated to result in material planning harm.
+26. Taken together, these matters do not lead me to a different conclusion from that
+    reached on the main issue, nor to a different overall finding on the appeal.
+Conditions
+27. Neither main party has suggested any specific conditions to be imposed in the
+    event that the appeal succeeds. Nevertheless, having regard to the submitted
+    details and the tests set out in the Framework and the Planning Practice Guidance
+    (the PPG), I have considered what conditions are necessary and reasonable.
+28. Conditions relating to the statutory time limit and approved plans are necessary in
+    the interests of certainty.
+29. The NIA identifies a number of operational controls and mitigation measures that
+    are integral to its conclusions regarding the acceptability of the proposal in relation
+    to neighbouring living conditions. I shall therefore impose a condition requiring the
+    condenser units to be operated in accordance with the operational
+    recommendations set out in the approved NIA.
+30. A further condition requiring all acoustic mitigation measures identified within the
+    NIA and shown on the approved plans to be installed prior to the first operation of
+    the approved condenser units and retained thereafter is also necessary in the
+    interests of safeguarding the living conditions of nearby occupiers.
+Conclusion
+31. The proposed development would accord with the development plan and there are
+    no material considerations to indicate that the appeal should be determined other
+    than in accordance with the development plan. For the reasons given above, I
+    therefore conclude that the appeal should be allowed subject to the conditions
+    listed in my formal decision.
+
+P Storey
+INSPECTOR
+
+https://www.gov.uk/planning-inspectorate   5
+

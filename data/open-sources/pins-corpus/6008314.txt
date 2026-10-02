@@ -1,0 +1,1638 @@
+Appeal Decision
+Hearing held on 19 and 20 August 2026
+Site visit made on 19 August 2026
+by J Bowyer BSc(Hons) MSc MRTPI
+an Inspector appointed by the Secretary of State
+Decision date: 15th September 2026
+
+Appeal Ref: 6008314
+Land off Eastbourne Road, Polegate BN26 5DD
+•   The appeal is made under section 78 of the Town and Country Planning Act 1990 (as amended)
+    against a refusal to grant planning permission.
+•   The appeal is made by Aldi Stores Ltd against the decision of Wealden District Council.
+•   The application Ref is WD/2025/0904/MAJ.
+•   The development proposed is ‘hybrid planning application comprising: full application for the erection
+    of a foodstore (Use Class E(a)) with associated access roads, parking, servicing area, and
+    landscaping; and outline application (all matters reserved except for access) for the erection of a
+    care home (Class C2), with associated access roads, parking, servicing area, and landscaping’.
+
+Decision
+1. The appeal is allowed and planning permission is granted for a hybrid planning
+   application comprising: full application for the erection of a foodstore (Use Class
+   E(a)) with associated access roads, parking, servicing area, and landscaping; and
+   outline application (all matters reserved except for access) for the erection of a care
+   home (Class C2), with associated access roads, parking, servicing area, and
+   landscaping at Land off Eastbourne Road, Polegate BN26 5DD in accordance with
+   the terms of the application, Ref WD/2025/0904/MAJ, subject to the conditions in
+   the attached schedule.
+Preliminary Matters
+2. As set out in the banner heading above, the appeal relates to a ‘hybrid’ application
+   seeking full planning permission for a foodstore with associated access roads,
+   parking, servicing area, and landscaping; and outline planning permission for a
+   care home with associated access roads, parking, servicing area, and landscaping.
+3. In respect of the outline element, approval is sought for access, but all other
+   matters are reserved for future consideration. I have had regard to the submitted
+   plans. However, I have treated all details of the outline element apart from those
+   relating to access as illustrative.
+4. The Council’s decision notice included five reasons for refusal. However, the
+   agreed Statement of Common Ground confirms that the fifth of these which
+   comprised a statement referring to a requirement to work positively and proactively
+   with the applicant was an overarching note rather than a standalone reason for
+   refusal. I have determined the appeal accordingly.
+5. The appellant’s statement of case submitted as part of the appeal included updated
+   technical appendices in relation to transport, arboricultural, landscape and visual
+   impact assessment, ecology and biodiversity net gain (‘BNG’) and flooding and
+   drainage matters. It also referred to a requirement for additional removal of trees
+
+https://www.gov.uk/planning-inspectorate
+Appeal Decision 6008314
+
+
+     along the site frontage to accommodate access which had not been identified as
+     part of the proposal at the time of the Council’s decision and included revised plans
+     setting out an amended landscaping scheme, as well as a revised site access
+     arrangement plan within the transport appendix1.
+6. The appeal submissions including the revised plans represent a change to the
+   scheme that was before the Council and interested parties at the time of the
+   Council’s decision, but having regard to their nature, I am satisfied that there would
+   not be a fundamental change to the scheme. The Council and East Sussex County
+   Council (‘ESCC’) as the Local Highway Authority (‘LHA’) considered the updated
+   appeal evidence and revised plans within their appeal statements. At my request,
+   the Council also facilitated a further specific reconsultation with other consultees
+   and interested parties highlighting the appeal stage information. As a consequence,
+   I am satisfied that parties have had adequate opportunity to make representations
+   that they may have wanted to make on the scheme as amended and would not be
+   unfairly prejudiced by my consideration of the appeal submissions. I have therefore
+   determined the appeal on the basis of the amended plans and with regard to the
+   updated technical appendices.
+7. Prior to the opening of the Hearing, I was provided with various iterations of a draft
+   deed of agreement under the provisions of section 106 of the Town and Country
+   Planning Act 1990 (as amended) (‘the Act’). During the hearing, the appellant
+   advised that there remained some areas of disagreement between parties.
+   Accordingly, they proposed a bilateral agreement containing those obligations that
+   were agreed between the appellant, Council and ESCC (‘the Bilateral’), and a
+   separate unilateral undertaking in respect of disputed provisions (‘the UU’).
+   Obligations and undertakings within the Bilateral and UU were discussed at the
+   Hearing, and signed and completed versions of the agreements were submitted
+   shortly after the Hearing closed.
+8. The development plan currently includes the Wealden District Core Strategy Local
+   Plan 2013 (‘the CS’) and saved policies of the Wealden Local Plan 1998 (‘the LP’).
+9. The Council is preparing a new Local Plan for the period up to 2042. This is at a
+   relatively early stage having not yet been submitted for examination, but it includes
+   a proposed allocation of the appeal site for development with an indicative capacity
+   of 60 dwellings at emerging Policy POL4. Both main parties consider the emerging
+   new Local Plan to attract limited weight and given the stage reached and that it is
+   subject to change, I agree.
+10. Finally, the Government published a revised version of the National Planning Policy
+    Framework (‘the Framework’) very shortly before the Hearing opened. Both main
+    parties confirmed that they were able to address any implications of the Framework
+    during the Hearing and I have determined the appeal having regard to the
+    comments made and the updated Framework.
+Main Issues
+11. The main issues are:
+      i) whether or not there would be suitable access to the development including
+
+1
+ Plan nos 19355_SFW_XX_XX_DR_L_0001 Rev P06 (Landscape Plan – Option 1 (Aldi)), 19355_SFW_XX_XX_DR_L_0002
+Rev P06 (Outline Landscape Plan – Option 1 (Care Home)), 19355_SFW_XX_XX_DR_L_0003 Rev P02 (Landscape Masterplan)
+and 23071-010 Rev E (Proposed Site Access Arrangement Plan).
+
+
+https://www.gov.uk/planning-inspectorate              2
+Appeal Decision 6008314
+
+
+                 with particular regard to effects on highway safety;
+            ii) the effect of the proposal on the character and appearance of the area having
+                 particular regard to effects on trees and vegetation;
+            iii) the effect of the proposal on protected and priority species;
+            iv) whether or not there would be adequate provision for BNG; and
+            v) whether or not the proposal would make adequate provision for drainage.
+Reasons
+12. The appeal relates to a broadly rectangular parcel of land on the outskirts of
+    Polegate. I understand that the site was formerly used as playing fields, but that
+    this ceased over 20 years ago and it is now significantly overgrown. To the front of
+    the site is a steep embankment along the A2270 Eastbourne Road with a large
+    number of mature trees and understorey vegetation.
+Highway Safety
+13. As part of the proposal, a new vehicular access would be created between the site
+    and Eastbourne Road. In view of additional speed survey analysis, a visibility splay
+    survey and the updated site access arrangement plan submitted by the appellant
+    as part of the appeal, the Council and LHA have confirmed that they are now
+    satisfied that a technically acceptable highway access would be achievable such
+    that there would not be unacceptable risk to highway safety. I have no firm reason
+    to reach a different view.
+14. Achieving that access would require regrading works to the embankment along the
+    site frontage and the removal of trees and vegetation. The proposal also includes a
+    pedestrian footway along the frontage. The effect of these works on the character
+    and appearance of the area is considered under my second main issue.
+15. In principle however, I note that while the works associated with providing access
+    would in part affect land outside of the appeal site boundary, this land would be
+    within the highway extent where off-site highway works can be delivered through a
+    s278 agreement under the Highways Act 1980 (as amended) (‘the Highways Act’).
+16. This would require a separate approval process. I have also noted reference to the
+    duty under s96A of the Highways Act2 for the LHA to carry out public consultation
+    before felling a street tree which would apply where trees on highway land were
+    removed. The provisions of s96A of the Highways Act indicate that the duty to
+    consult does not apply in circumstances including where the felling of the tree is
+    required for the purpose of carrying out development authorised by planning
+    permission or outline planning permission granted under specified sections of the
+    Act, including sections that would apply to the current appeal. Even if the s96A duty
+    for public consultation did apply however, there is no firm evidence before me to
+    indicate that removal of highway trees could not or definitely would not then be
+    possible following consultation.
+17. I was also informed at the Hearing that the ESCC ‘Mitigation planting, commuted
+    sums, BNG (biodiversity net gain) and CAVAT3 for all tree removal’ note (‘the Tree
+    Removal Note’) is an informal guidance note which has not been subject to
+    consultation and which is not adopted as planning guidance by either the Council or
+
+2
+    Inserted by s115 of the Environment Act 2021
+3
+    Capital Asset Value for Amenity Trees
+
+
+https://www.gov.uk/planning-inspectorate           3
+Appeal Decision 6008314
+
+
+     ESCC. In view of this status, I afford very limited weight to the Tree Removal Note
+     in my determination of this appeal. There is further no firm evidence before me to
+     indicate that there would be no prospect of a s278 agreement providing for the
+     highway works and removal of trees should planning permission be granted, even if
+     measures including mitigation planting did not fully adhere to guidance in the Tree
+     Removal Note.
+18. Notwithstanding a need for separate approvals, I find no compelling evidence to
+    suggest that there would be no reasonable prospect of a technically suitable
+    highway access being delivered if the appeal were to be allowed. Planning
+    obligations would also require that details of the access were established through a
+    s278 agreement before development could commence and that the approved
+    access was then provided before the development was brought into use. This
+    would ensure that a suitable access would be provided for development to occur.
+19. In addition, the pedestrian footway along the frontage of the site would not be fully
+    within the highway. However, the main parties reached agreement during the
+    Hearing that provision for the footway to remain open and accessible would be
+    appropriately secured by planning obligations which appear in the UU. This would
+    ensure that safe pedestrian connections were appropriately maintained.
+20. Given the above, I am satisfied that the development could be carried out to ensure
+    safe and suitable access for all users and I conclude that there would not be
+    unacceptable harm to highway safety. I therefore find no conflict with saved Policy
+    TR3 of the LP which includes a requirement for provision of a satisfactory means of
+    vehicular, cycle and pedestrian access. The proposal would also accord with
+    requirements in the Framework broadly seeking safe routes that minimise scope for
+    conflict, mitigation of significant adverse impacts of development on highway safety
+    and to avoid unacceptable impact on highway safety.
+Character and Appearance
+21. The appeal site is currently undeveloped, but following recent and ongoing
+    development of the adjacent site referred to by the main parties as ‘Hindslands’, it
+    is now essentially surrounded by existing built form.
+22. The Council has not disputed the appellant’s assessment within its arboricultural
+    evidence that a number of the trees along the Eastbourne Road frontage of the site
+    are of low quality or poor condition. However, others are of higher quality and as a
+    group, the scale and density of the trees and lower level vegetation cover together
+    with similar features to the opposite side of Eastbourne Road provide for a strong
+    verdant quality and enclosure to this part of the road. That said, there are views of
+    the far more open backdrop of the main part of the site on the approach along
+    Eastbourne Road and in glimpses through the frontage that were possible even
+    when vegetation was in near full leaf as was the case at the time of my visit. The
+    relatively limited depth of the tree line along the frontage is therefore apparent and I
+    find that the trees here are consequently appreciated as a belt rather than a
+    woodland parcel.
+23. Moreover, the strong verdant quality and sense of enclosure provided by vegetation
+    is confined to a short stretch of Eastbourne Road past the site and from my
+    observations, is clearly appreciated as sitting between built development that lines
+    Eastbourne Road to either side. Given this context, I cannot agree with the Council
+    that there is a rural or semi-rural character to the area around the site. Nor that the
+
+https://www.gov.uk/planning-inspectorate    4
+Appeal Decision 6008314
+
+
+     site marks a particular gateway to the settlement. Instead I consider that it is
+     appreciated as part of the established Polegate/Willingdon urban area. Indeed,
+     while the Council refers to the Wealden Landscape Sensitivity Assessment to
+     Residential and Employment Development 2023 (‘the LSA’) as showing the site
+     lying within Landscape Character Area 1A: Pevensey Levels as defined by the
+     Landscape Character Assessment 2022 (‘the LCA’), the appellant highlights that
+     the LCA itself puts the site within the settlement rather than the wider landscape
+     setting of Polegate.
+24. Furthermore, other street-side vegetation in the vicinity of the site is typically
+    sparser and more limited. The belt of trees and vegetation along the site frontage is
+    a notable and undoubtedly attractive natural feature of this part of Eastbourne
+    Road, but it is not therefore a defining element of the character and appearance of
+    the wider area or settlement. From the evidence before me, it is also a
+    comparatively modern element which established in the latter part of the 20th
+    Century subsequent to realignment of the Eastbourne Road, rather than forming a
+    historic landscape feature.
+25. The site frontage vegetation is clearly visible from points around Eastbourne Road
+    near to the site, but topography and the presence of surrounding development and
+    vegetation cover notably reduce available public views beyond the very local area.
+    There are some longer-distance views including from elevated positions within the
+    South Downs National Park (‘the SDNP’), but the site makes up a very small
+    element of these views and from my observations, it appears as an unremarkable
+    and incidental element of the urban area.
+26. Having regard to these factors, I find that the site frontage contributes to the
+    character and appearance of the area. However, while the trees here do make a
+    valuable contribution to the character of the settlement in the terms of LP Policy
+    EN12, this contribution is very localised and the influence on the wider area beyond
+    the immediate vicinity of the site is limited.
+27. In itself, the Council does not raise concerns about development proposed within
+    the main part of the appeal site and I am also satisfied that this development would,
+    or in the case of the outline element could be designed at reserved matters stage
+    to, assimilate suitably with its surroundings.
+28. However, I have noted above that providing suitable highway access would require
+    regrading works and removal of vegetation and trees along the extent of the site
+    frontage. The appellant’s evidence indicates that this would include removal of one
+    Category A4 tree and a large number of Category B5 trees, as well as further
+    Category C6 and Category U7 trees and groups.
+29. The evidence before me does not indicate that trees to be removed are specifically
+    protected and I have noted above that the belt is not a historic landscape feature,
+    but the loss of trees and vegetation which contribute to the character and
+    appearance of the area is undoubtedly regrettable.
+30. I also acknowledge the Council’s suggestion that a development providing
+    dwellings on the site in accordance with Policy POL4 of the emerging new Local
+
+4
+  High quality and estimated remaining life expectancy of at least 40 years
+5
+  Moderate quality and estimated remaining life expectancy of at least 20 years
+6
+  Low quality with an estimated life expectancy of at least 10 years or young tree with a stem diameter below 150mm
+7
+  Poor condition with an estimated life expectancy of less than 10 years
+
+
+https://www.gov.uk/planning-inspectorate                      5
+Appeal Decision 6008314
+
+
+     Plan could be accessed from Courtland Road or the adjacent Hindslands
+     development, minimising loss of trees and vegetation on the Eastbourne Road
+     frontage. However, it is common ground that the emerging new Local Plan attracts
+     limited weight and while the proposal does not reflect the draft allocation, the
+     Council has not objected to the principle of the development that is now proposed
+     in itself. Nor has it disputed the appellant’s evidence that providing suitable
+     vehicular access to serve a foodstore would only be possible from this point on
+     Eastbourne Road necessitating the indicated removal of vegetation. On that basis,
+     there would appear no realistic alternative to the indicated access and associated
+     requirement for removal of trees to accommodate the development that is before
+     me to consider in this appeal.
+31. To mitigate the effects of tree losses, the appellant proposes a scheme of
+    replacement planting. Notwithstanding the landscaping scheme submitted as part
+    of the appeal, the main parties agreed during the Hearing that this would need to
+    be refined with an updated scheme secured by planning condition in the event that
+    the appeal was allowed.
+32. The precise details of new planting and landscaping are not therefore certain, but
+    the appellant indicates that landscaping would include extra heavy and
+    semi-mature standard specimens with a mix of native species including some
+    evergreens as well as understorey and hedgerow planting to create screening
+    beneath the canopies. Even so, I am in no doubt that replacement planting would
+    be unable to replicate the scale and density of the existing belt of vegetation and
+    mature trees, and the degree of enclosure that they provide. The effect would be
+    particularly pronounced early on before new planting established and matured. It
+    would then reduce somewhat over time as planting did mature, but the landscaping
+    would still need to be managed and maintained, including to retain adequate
+    visibility of the foodstore signage and access from the highway. Moreover, the
+    access itself would result in a distinct break in the landscaped frontage. The
+    change from the existing condition would accordingly be appreciable.
+33. That said, while the area available for planting means that it is unlikely that
+    replacement planting would comply with the Tree Removal Note, I have noted
+    above that this guidance attracts limited weight in my decision. Although the LHA
+    indicated a preference for mitigation planting for highway trees to be within the
+    highway extent, it also accepted that in principle, mitigation planting could be
+    provided on land outside of the highway extent.
+34. In this case, details of landscaping would be the subject of a planning condition, but
+    I am satisfied that there would be adequate space, both within the site and highway
+    extent, to accommodate planting of reasonable depth and scale to either side of the
+    access sufficient to maintain an impression of a strong landscaped corridor to this
+    part of Eastbourne Road and to limit views into the site. Although it may be reduced
+    from the existing situation, new planting would also provide screening of the
+    adjacent Hindslands development in views on the approach from Polegate which I
+    consider would be sufficient to soften its visual impact and avoid it becoming unduly
+    prominent. Moreover, the level and nature of planting would not stand out as
+    incongruous or uncharacteristic within the context of the surrounding built
+    development and landscaping, and suggested planning conditions and obligations
+    would provide for ongoing management and maintenance of planting to ensure its
+    continued longevity and contribution.
+
+
+https://www.gov.uk/planning-inspectorate   6
+Appeal Decision 6008314
+
+
+35. In addition, the appellant clarified during the Hearing that the only retaining walls
+    proposed would be to the foodstore car park. Some views of these walls would be
+    possible including particularly along the access, but their position set back from the
+    road and behind landscaping means that they would not be unduly prominent in the
+    street scene. Footways within the frontage would add hardsurfacinng, but they
+    would be relatively modest elements against the surrounding soft landscaping and
+    subject to careful consideration for the placement of species and construction
+    techniques to deflect root growth, I see no reason that the footway would be
+    damaged by or incompatible with tree growth leading to requirements to remove
+    trees in future. Noting too the built form which provides the surrounding context, I
+    am satisfied that the visual impact of engineered features at the site would be
+    limited and would not cause further meaningful detriment to the character and
+    appearance of Eastbourne Road.
+36. Balancing these factors, I find that the proposal would cause a reduction in the
+    sense of verdant enclosure to Eastbourne Road. This would be the case even once
+    planting had established in the longer term, with the difference even more marked
+    early on. Accordingly, new landscaping and replacement planting would not fully
+    mitigate for the loss of existing trees and vegetation which are an attractive feature
+    in the area. However, there would still be some sense of a landscaped corridor, and
+    the more urban quality of the site and mitigation planting would not in itself stand
+    out given the surrounding context of built form.
+37. In addition, the topography and presence of surrounding development and
+    vegetation cover mean that the change would be most clearly publicly appreciated
+    from relatively short sections of Eastbourne Road close to the site and the roads
+    and pathways that branch from it. These views would be localised and experienced
+    by passing motorists, pedestrians and cyclists who would have a lower sensitivity to
+    change. There would be some views from nearby dwellings, but having regard to
+    the potential for planting to maintain some sense of a landscaped corridor and to
+    provide screening of development which would be set back into the site, the
+    development would not appear significantly out of character and visual effects
+    would reduce in the longer term as new planting matured.
+38. Some longer distance views would be possible, including from Butts Brow which is
+    within the SDNP. In these views however, the site is clearly appreciated as sitting
+    within the established built-up area. Although there may be some appreciation of
+    the change in tree cover along the Eastbourne Road corridor if you were
+    specifically looking for it, the mitigation planting would still provide for a green fringe
+    to the site and mature planting to the west side of the road would also remain. The
+    site would not be unduly exposed and the level and nature of landscaping or
+    presence of built development on the site certainly would not stand out within the
+    surrounding built context.
+39. I note comment in the LSA suggesting retention, protection and enhancement of
+    mature hedgerows, trees and vegetation along Eastbourne Road to minimise
+    influence on landscape character and that development should minimise views
+    from the SDNP. Nevertheless, the site makes up only a very tiny part of the
+    expansive, panoramic views from the SDNP and I find given the above factors that
+    the appeal development would not be conspicuous within or detrimental to the
+    appreciation of longer distance views. I am further satisfied that it would not detract
+    from the wider Low Weald landscape, and that the natural beauty, wildlife and
+    cultural heritage of the SDNP would be conserved. The development would not
+
+https://www.gov.uk/planning-inspectorate     7
+Appeal Decision 6008314
+
+
+     therefore conflict with the duty set out in the National Parks and Access to the
+     Countryside Act 1949 (as amended) to seek to further the statutory purposes of
+     national parks.
+40. Drawing these matters together then, I find that the alterations to the site frontage
+    and removal of existing trees and vegetation here would detract from the character
+    and appearance of the area. However, the harm would reduce over time as new
+    landscaping established. It would also be localised with adverse visual effects
+    generally limited to an area around a relatively short section of Eastbourne Road
+    and experienced mainly by users of this road and the closest neighbouring
+    dwellings. These factors moderate the degree of harm that would be caused.
+41. Nevertheless, I conclude that the proposal would cause some harm to the
+    character and appearance of the area around the site. To that extent, there would
+    be conflict with Policies EN12 and EN27 of the LP insofar as they include
+    requirements seeking broadly to retain and enhance the contribution of trees and
+    woodland areas to the landscape character of the District; to resist loss of trees
+    which make a valuable contribution to the character of the landscape, a settlement
+    or its setting; and development and landscaping that respects the character of
+    adjoining development and promotes local distinctiveness.
+42. The loss of trees and vegetation which would not be fully mitigated would also be
+    contrary to guidance in the Wealden Design Guide 2008 (‘the WDG’) broadly
+    seeking the retention and enhancement of trees, hedgerows and wooded areas as
+    part of development and development that makes a positive contribution to local
+    distinctiveness and the character and identity of a place.
+43. Furthermore, the proposal would not fully accord with the Framework insofar as
+    Policy DP3 seeks development that integrates with and enhances its surroundings
+    and incorporates green infrastructure. However, while the loss of trees and
+    vegetation at the site is certainly regrettable, I am satisfied that it would be
+    necessary as part of the appeal development such that there would be clear
+    justification for the conflict with Framework Policy DP3 and design standards in the
+    development plan and WDG if I were to find the proposal otherwise acceptable. On
+    that basis, Policy DP3 (3.) of the Framework does not indicate that development
+    should necessarily be refused.
+44. Insofar as it would not be possible to conserve and enhance the trees which are
+    indicated to be removed as part of the development proposed, and the proposal
+    includes landscaping which I am satisfied would create a well-designed place and
+    integrate the development into its surroundings, even if it would not replicate the
+    existing landscaping, the proposal would further not result in unacceptable conflict
+    with Framework Policy N2. Subject to suggested conditions and planning
+    obligations, I also see no reason that new landscaping would be incompatible with
+    highways and other infrastructure requirements or the needs of users and there
+    would be provision for tree-lined streets and long-term maintenance of trees in
+    accordance with the requirements of Framework Policy N3.
+Protected and Priority Species
+45. Noting additional clarification and information provided by the appellant during the
+    appeal and subject to suggested planning conditions, the Council confirmed at the
+    Hearing that its only remaining concern in respect of effects on protected and
+    priority species was in relation to effects on Hazel Dormouse. From the evidence
+
+https://www.gov.uk/planning-inspectorate   8
+Appeal Decision 6008314
+
+
+     before me, I am also satisfied that there is now a sufficient basis to determine that
+     other protected and priority species including bats, great crested newts, reptiles
+     and badgers would not be harmed by the proposal.
+46. In considering effects on Hazel Dormouse, the appellant’s Ecological Impact
+    Assessment Revision B (‘the EcIA’) outlines that presence/absence surveys were
+    undertaken between September 2024 and July 2025 in accordance with the
+    methodology recommended in the Dormouse Conservation Handbook 2nd edition.
+    In essence, 30 artificial nest tubes and four nest boxes were deployed within areas
+    of scrub where dormice may naturally make nests and were checked throughout
+    the survey season until a survey effort score of 20 was achieved. The EcIA sets out
+    that no dormice were recorded within any of the devices on any occasion and that
+    with a minimum survey effort score of 20 achieved and no evidence of dormice, it
+    can reasonably be assumed that they are absent from the site.
+47. The Council does not contend that the survey would fail to accord with the
+    Dormouse Conservation Handbook 2nd edition. However, the 3rd edition was
+    published in March 2025. The Council argues that under the guidance in the
+    3rd edition, the survey effort score should be adjusted because only 34 devices
+    were deployed rather than 50 and that this would result in a score of approximately
+    13.6 points rather than the required 20.
+48. I acknowledge that the 3rd edition provides updated guidance on best practice and
+    its advice that assumed absence should not be based on a search effort score of
+    less than 20. Nevertheless, the guidance is just that. In this case, coverage of parts
+    of the site by dense bramble scrub would make placing additional nest tubes or
+    boxes to reach the recommended 50 devices at appropriate densities impractical.
+    The Council suggests that the survey period could instead be extended until a
+    survey score of 20 was achieved. However, while that may have been possible in
+    principle, I have no firm reason to doubt the appellant’s evidence that there was
+    appropriate coverage of surveyed habitat on the site. The habitat not covered
+    comprised dense, predominantly bramble, scrub, while surveyed areas also
+    included other species including Oak, Sycamore, Ash and Hawthorn which the
+    Council noted during the Hearing are identified within the Handbook along with
+    bramble as valuable to dormice. Given the wider range of valuable species present
+    within the surveyed areas, I agree with the appellant that it would be reasonable to
+    expect that if any dormice were present within the un-surveyed areas, they would
+    have extended out to utilise the resources within the surveyed areas and so would
+    have been detected there.
+49. Against that context and given the time period approaching a year that the survey
+    was carried out over, it seems to me having regard to the particular circumstances
+    and characteristics of the appeal site that extending the survey period would
+    realistically offer limited practical or useful benefit in detecting dormice.
+50. I also note that the 3rd edition of the Handbook was published only very shortly
+    before the appeal application was submitted to the Council. There is no dispute that
+    the survey effort was adequate in accordance with the guidance that was in place
+    at the time surveys commenced and for some months after and having regard to
+    my findings above, I consider in the very specific circumstances of this case that a
+    departure from the guidance in the 3rd edition of the Dormouse Conservation
+    Handbook is justified. Notwithstanding the failure to achieve a survey effort in
+    accordance with the 3rd edition of the Dormouse Conservation Handbook, there is
+
+https://www.gov.uk/planning-inspectorate    9
+Appeal Decision 6008314
+
+
+     in my judgement a sufficient basis to reasonably assume that dormice are absent
+     from the site and would not be adversely affected by the proposal.
+51. For these reasons and subject to the imposition of planning conditions, I conclude
+    that the proposal would not cause harm to protected or priority species and I find no
+    conflict with Policy WCS12 of the CS insofar as it seeks to prevent a net loss of
+    biodiversity. The proposal would also accord with the Framework insofar as it
+    includes requirements broadly to minimise any adverse impacts on biodiversity and
+    for significant harm to biodiversity to be avoided, adequately mitigated or as a last
+    resort compensated for.
+Biodiversity Net Gain
+52. Schedule 7A of the Act outlines a general biodiversity condition which is deemed to
+    apply to every planning permission granted and which effectively mandates a
+    requirement for 10% BNG, unless exemptions or transitional provisions apply.
+53. The proposal includes some on-site biodiversity enhancements, but given the site
+    constraints, the appellant confirms that biodiversity units would also be purchased
+    to achieve the required 10% BNG, with units for the required habitat types being
+    widely available.
+54. Following submission of further information as part of the appeal and the inclusion
+    of planning obligations within the Bilateral, the Council confirmed during the
+    Hearing that it was satisfied that the proposal would make adequate provision for
+    BNG. From the evidence before me, I have no firm reason to find differently or
+    consider that the statutory biodiversity gain condition could not be successfully
+    discharged.
+55. Accordingly, I conclude that the proposal could make adequate provision for BNG
+    to satisfy the requirements of Schedule 7A of the Act. It would also accord with
+    Policy WCS12 of the CS insofar as it seeks a net gain in biodiversity, and provision
+    in the Framework similarly outlining that proposals should contribute positively to
+    the natural environment including through considering requirements for BNG where
+    these apply.
+Drainage
+56. During the course of the appeal, the appellant produced a flood and drainage
+    technical note dated 20 July 2026 which included an updated overland flow route
+    drawing indicating that surface water would be captured on the appeal site. It also
+    included Southern Water’s response to a Level 1 Capacity Check Enquiry
+    confirming adequate capacity to accommodate anticipated foul and surface water
+    flows from the development.
+57. The Lead Local Flood Authority subsequently indicated that outstanding drainage
+    matters could be addressed through planning conditions, and on that basis, the
+    Council confirmed at the Hearing that its concerns in respect of drainage had been
+    addressed. There is no compelling evidence which would lead me to find otherwise.
+58. I therefore conclude that subject to suggested planning conditions to secure further
+    details of drainage design as well as verification of installation and provision for
+    ongoing management and maintenance, the proposal would make adequate
+    provision for drainage. Accordingly, I find no conflict with Policy CS2 of the LP
+    which includes a requirement that adequate provision is made for drainage. The
+
+https://www.gov.uk/planning-inspectorate   10
+Appeal Decision 6008314
+
+
+     proposal would also accord with the Framework insofar as it broadly seeks to
+     manage flood risk and the incorporation of suitable sustainable drainage systems.
+Other Matters
+     European Designated and Ramsar Sites
+59. The Conservation of Habitats and Species Regulations 2017 (as amended) provide
+    that before giving consent, permission or other authorisation for a plan or project
+    which is likely to have a significant effect on a European site or Ramsar site and is
+    not directly connected with or necessary to the management of that site, the
+    competent authority must make an appropriate assessment of the implications of
+    the plan or project for that site in view of that site's conservation objectives. That
+    duty would now fall to me.
+60. The appeal site is within the hydrological catchment area of the Pevensey Levels
+    Special Area of Conservation (‘SAC’) and Ramsar site. The SAC is designated for
+    the presence of Little whirlpool ram’s-horn snail, while the Ramsar site is listed for
+    the assemblage of wetland plants and invertebrates, and for aquatic plants,
+    freshwater molluscs, aquatic beetles and dragonflies. Conservation objectives for
+    the SAC seek broadly to ensure that the integrity of the site is maintained or
+    restored, including by maintaining or restoring the extent, distribution, structure and
+    function of the habitats of qualifying species; the supporting processes on which the
+    habitats rely; and the populations and distribution of qualifying species.
+61. The information before me identifies inappropriate water levels and water pollution
+    as threats to the Pevensey Levels sites. Given the hydrological linkage between the
+    appeal site and the Pevensey Levels, there would be potential for drainage from
+    the development to affect water levels or quality to the detriment of the SAC and
+    Ramsar site. A likely significant effect cannot therefore be ruled out.
+62. To ensure that the development would not adversely affect the SAC and Ramsar
+    site, the appellant refers to a comprehensive sustainable drainage system scheme
+    engineered to control runoff quality and quantity at source, ensuring that potential
+    pollutants generated during both the construction and operational phases are
+    appropriately treated prior to discharge. This would include provision for a
+    two-stage treatment system for surface water comprising permeable paving and an
+    interceptor prior to connecting to Southern Water infrastructure.
+63. Provision for drainage as outlined would be secured through suggested planning
+    conditions requiring details of construction management, detailed surface water
+    drainage schemes, a scheme for foul drainage, verification of surface water
+    drainage and the management and maintenance of surface water drainage. A
+    further condition would also ensure provision for foul drainage with necessary
+    capacity.
+64. I am satisfied that these measures would secure appropriate drainage to ensure
+    that the proposal would not lead to inappropriate water levels or pollution at the
+    SAC or Ramsar site. Natural England, the statutory nature conservation body, has
+    also confirmed that it is content that the mitigation measures would be adequately
+    secured and sufficient to avoid an adverse effect on the integrity of the sites.
+
+
+
+
+https://www.gov.uk/planning-inspectorate   11
+Appeal Decision 6008314
+
+
+65. I therefore find within the framework of an appropriate assessment that with
+    mitigation secured through suggested conditions, the development would not
+    adversely affect the integrity of the Pevensey Levels SAC or Ramsar site.
+     Heritage Assets
+66. Polegate Windmill near to the site is a Grade II* listed building. It would formerly
+    have stood in open countryside, but it is now surrounded by 20 th Century suburban
+    development and retains little of its original setting. Insofar as it relates to this
+    appeal, I consider its significance to derive largely from its historic and architectural
+    interest as a relatively intact and rare example of a tower mill dating to 1817.
+67. The appeal site is physically and visually separated from the listed building by
+    intervening development, and the evidence before me does not suggest any
+    historic functional or other associations between the site and the listed building.
+    Given these factors, I find the site to make no meaningful contribution to the
+    significance of the listed building as part of its setting. Having regard to the scale
+    and nature of the proposal and the relationship to the listed building, I agree with
+    the main parties that the setting and significance of the listed building would be
+    preserved.
+     Other matters
+68. While the appeal site was historically playing fields, this use ceased over 20 years
+    ago. The appellant’s Playing Fields and Sports Assessment highlights that the site
+    is recorded as ‘lapsed’ in the Council’s Playing Pitch Strategy 2022 (‘the PPS’) and
+    that reinstatement of playing field use is not recommended in the accompanying
+    action plan. Given identified requirements for sports provision and the nature of
+    recommended improvements in the PPS and new provision on the nearby
+    ‘Morningsmill’ development site, the Assessment concludes that the playing fields
+    at the site are surplus to requirements. The Council has not disputed this evidence
+    and I am satisfied on the basis of the evidence before me that there would not be
+    an unacceptable loss of sports facilities.
+69. I note comments referring to existing traffic and congestion in the locality and
+    difficulty experienced by residents of Hindslands in turning right onto Eastbourne
+    Road. However, the LHA is now satisfied that a technically acceptable vehicular
+    access for the development is achievable and has not raised concerns about
+    effects on traffic, congestion or vehicle movements. As the relevant statutory
+    consultee, I give significant weight to its position, and from the evidence before me
+    find no firm reason to disagree with its views nor to conclude that there would be
+    unacceptable impacts on highway or pedestrian safety, nor on the efficient
+    operation of the highway network. Given too the likely levels of vehicle movements
+    and the appellant’s evidence indicating that the proposal would be able to serve
+    needs for shopping that currently result in travel to destinations further afield, there
+    would not be unacceptable impacts on air pollution.
+70. Following amendments to the scheme made prior to the Council’s decision, there
+    would be step free access to the foodstore. The Council is satisfied that provision
+    for parking would accord with standards and there is no firm evidence that the
+    proposal would harmfully exacerbate any existing parking pressure in the local
+    area. I also have no firm reason to doubt the appellant’s retail evidence indicating
+    that the proposal would not adversely affect the vitality or viability of nearby town or
+    service centres.
+
+https://www.gov.uk/planning-inspectorate    12
+Appeal Decision 6008314
+
+
+71. The development would adjoin existing residential areas and would include both
+    retail and a care home element. However, subject to conditions including in relation
+    to delivery hours and operations, lighting design, details of plant and machinery and
+    noise assessment, I am satisfied that the relationship would not cause
+    unacceptable harm to residential living conditions.
+72. The appellant’s Flood Risk Assessment and Drainage Strategy identifies that the
+    appeal site is at low risk of flooding. Given my findings above in respect of drainage
+    and subject to conditions to require further details of provision for drainage and
+    ongoing management and maintenance, I am satisfied that the development would
+    not cause increased flood risk.
+73. There is no detailed evidence that infrastructure providers or other utility services
+    would be unable to make provision to adequately supply the development without
+    unacceptable impacts on existing provision in the area.
+74. I have taken into account representations made by interested parties including
+    Parish Councils, but I am satisfied that none of the other matters raised would
+    result in a level of harm that would justify dismissal of the appeal, either individually
+    or collectively, and they do not alter my findings on the main issues.
+Planning Obligations
+75. Tests within the Community Infrastructure Levy Regulations 2010 (as amended)
+    (‘the CIL Regulations’) provide that a planning obligation may only constitute a
+    reason for granting planning permission for a development if the obligation is
+    necessary to make the development acceptable in planning terms; directly related
+    to the development; and fairly and reasonably related in scale and kind to the
+    development. I have considered the obligations within the Bilateral and the UU in
+    light of these tests and the evidence before me which includes a CIL Infrastructure
+    Compliance Statement prepared by the Council.
+     Bilateral
+76. The Bilateral includes obligations providing for a travel plan and travel plan auditing
+    fee for each of the care home and foodstore elements of the proposal. These would
+    be necessary to encourage use of sustainable modes of transport in accordance
+    with requirements of the development plan and Framework, with the auditing fees
+    reflecting ESCC Travel Plan Guidance 2020.
+77. Further obligations would provide for approval and implementation of biodiversity
+    gain and habitat management and monitoring plans and payment of a biodiversity
+    gain monitoring fee for each of the care home and foodstore elements. These
+    would be necessary to properly secure the delivery and long-term management
+    and monitoring of habitats to provide biodiversity enhancements and BNG, with the
+    monitoring fee calculated according to the scale and complexity of the proposal.
+78. Additional obligations would restrict the works that may take place prior to the
+    submission and approval of details reserved by conditions in relation to an
+    arboricultural method statement, reptile mitigation strategy and construction
+    management. These are necessary to safeguard trees and ecology.
+79. The Bilateral also includes Council covenants in relation to the use and repayment
+    of contributions. This would ensure that they were used for the intended purposes
+    to make the development acceptable in planning terms and so would be necessary.
+
+https://www.gov.uk/planning-inspectorate    13
+Appeal Decision 6008314
+
+
+80. In light of the supporting information and evidence that is before me, I find that each
+    of these obligations would be necessary to make the development acceptable in
+    planning terms, directly related to the development, and fairly and reasonably
+    related in scale and kind to the development. They would therefore meet the tests
+    set out in the CIL Regulations and can be given weight, and I have taken them into
+    account.
+81. The Bilateral also includes provision for a monitoring fee. From the information
+    before me, I have no firm reason to doubt that this would be fairly and reasonably
+    related in scale and kind to the development and estimated costs of monitoring. On
+    that basis, the provision would accord with Regulation 122(2A) of the CIL
+    Regulations.
+     UU
+82. Parts 1 and 2 of Schedule 2 of the UU include obligations providing for highway
+    works as well as payment of a ‘Highways Contribution’, albeit that there is provision
+    for these requirements to be confirmed through my decision.
+83. The UU sets out that the Highways Contribution is either £74,000 or £270,000
+    towards the County Council Hailsham, Polegate and Eastbourne Movement and
+    Access Corridor (‘HPEMAC’) scheme until December 2029, after which it is to be
+    allocated to bus service improvements. From the information before me, I am
+    satisfied that such a contribution would in principle be necessary to support
+    sustainable travel and minimise congestion which could be exacerbated by the
+    development.
+84. The higher figure is as sought by ESCC according to a calculation based on the
+    development’s predicted peak traffic generation on a per dwelling equivalent level.
+    However, the appellant argues that a proportion of trips to the foodstore would
+    replace trips that would have been made anyway but to another store elsewhere, or
+    linked trips made by those who are within the area anyway. These would not
+    therefore be ‘new’ trips on the highway network generated by the development. The
+    appellant therefore proposes the lower Highways Contribution figure which they
+    indicate is calculated on the basis of net, rather than gross, peak trips.
+85. During the Hearing, the LHA advised that the methodology used to determine the
+    Highways Contribution was intended to capture the demand trip equivalent. Neither
+    the LHA nor the Council disputed the appellant’s evidence that there would be
+    replacement or linked trips to the development, nor the appellant’s assessment of
+    net vehicle trip generation levels. On that basis, it seems to me that the appellant’s
+    Highways Contribution figure would more appropriately represent the actual
+    demand trip equivalent generated by the development, at least in terms of vehicles.
+86. Moreover, the LHA highlighted that the proposal would result in new trips by
+    wheeling, cycling or on foot which may not otherwise have occurred in the local
+    area. Be that as it may, the proposal includes improvements to cycling
+    infrastructure on this part of Eastbourne Road as well as provision for new
+    pedestrian access along the site frontage which would also support trips by
+    wheeling. These measures would already enhance opportunities for travel by
+    sustainable modes, both for users of the development and the wider community in
+    accordance with the broad objectives of the HPEMAC scheme. Given the potential
+    for duplication, I am not therefore persuaded that it would be reasonable to require
+
+
+https://www.gov.uk/planning-inspectorate   14
+Appeal Decision 6008314
+
+
+     the Highways Contribution in this case to be calculated to reflect trips by wheeling,
+     cycling or on foot.
+87. In my judgement and on the basis of the evidence that is before me in this appeal, I
+    find that a Highways Contribution of £270,000 as sought by the LHA would not be
+    fairly and reasonably related in scale and kind to the development having regard to
+    the specific nature of the proposal. A Highways Contribution of £74,000 however
+    would be fairly and reasonably related in scale and kind to the development and in
+    my view is the appropriate level of contribution.
+88. For the avoidance of doubt, I therefore confirm that the Highways Contribution is
+    payable in the amount of £74,000.
+89. In respect of the highway works, the UU essentially requires a s278 Agreement to
+    secure the carrying out of specified highway works prior to the commencement of
+    development, and that these works are carried out prior to occupation of the
+    development. The highway works are defined as meaning the removal of trees
+    within the highway verge, highway works relating to access, footways, cycle lane tie
+    in, street lighting, drainage and carriageway works, off-site bus stop enhancements
+    of Brightling Road stops and internal non-motorised access provision to connect to
+    Courtland Road.
+90. The removal of trees within the highway verge and works relating to access,
+    footways, cycle lane tie in, street lighting, drainage and carriageway works are
+    necessary to ensure safe and suitable access to the development. Obligations
+    requiring that the footway along the site frontage remained generally open for
+    access for the lifetime of the development would also be necessary to ensure that
+    safe and suitable pedestrian access to the development was maintained.
+91. However, non-motorised access provision to connect to Courtland Road was not
+    indicated as forming part of the development. It has not therefore been subject to
+    public consultation and would require a separate approval outside of the appeal
+    which I cannot be sure would be forthcoming. It was also common ground during
+    the Hearing that while the obligation would require provision to connect to
+    Courtland Road, it would not necessarily ensure that a link was then opened.
+    Furthermore, I accept that internal non-motorised access provision to connect to
+    Courtland Road could enhance access from areas to the north of the site by
+    shortening the route to the development. However, while this would be an
+    improvement, the difference would be relatively small and there is no compelling
+    evidence before me to demonstrate that the accessibility of the development would
+    be unacceptably compromised in its absence. Taking these factors together, I am
+    not satisfied that a requirement for non-motorised access provision to connect to
+    Courtland Road as part of the highway works would be reasonable or necessary to
+    make the development acceptable in planning terms. This aspect would not
+    therefore meet the statutory tests set out in the CIL Regulations.
+92. Furthermore, the LHA had indicated during the Hearing that it would accept a
+    reduced Highways Contribution where bus stop improvements were carried out by
+    the appellant as part of highway works, essentially because this would duplicate
+    elements of the HPEMAC scheme related to bus improvements. Insofar as the
+    Highways Contribution in the completed UU has not been reduced in this way, it
+    follows that it would include provision that could go towards supporting bus
+    facilities, and the LHA and Council did not dispute the suggestion during the
+
+
+https://www.gov.uk/planning-inspectorate    15
+Appeal Decision 6008314
+
+
+     Hearing that this could include bus stop enhancements to Brightling Road stops.
+     Requiring that these improvements formed part of the Highway Works would
+     therefore result in duplication. Moreover, there would be a chance that
+     enhancements were not delivered through the Highways Contribution in advance of
+     the development coming forward. However, while I accept that enhancements to
+     the bus stops may in themselves be desirable, there is no compelling evidence to
+     demonstrate that the development or its accessibility would be unacceptable in the
+     absence of these measures. I am not therefore persuaded that a requirement for off
+     site bus stop enhancements as part of the highway works would be reasonable or
+     necessary to make the development acceptable in planning terms. This aspect
+     would not therefore meet the statutory tests set out in the CIL Regulations.
+93. The UU also provides that the s278 agreement shall include payment of the
+    ‘CAVAT Value’, if I confirm that it is payable. The Tree Removal Note sets out the
+    CAVAT value of any tree(s) to be felled will be charged and that this will be
+    calculated at the point the LHA approve the removal of the tree(s). However, I have
+    noted above that the Tree Removal Note is not adopted as planning guidance and
+    attracts very limited weight. I have not been directed to any other development plan
+    policy or guidance which would require payment of a CAVAT value. Nor is there
+    any clear evidence to show what planning purpose the payment would serve or
+    how it would be used. On the basis of the information that is before me in this
+    appeal, I am not satisfied that payment of the CAVAT Value would be necessary to
+    make the development acceptable in planning terms. It may be a matter for
+    discussion between the parties in respect of the s278 agreement, but for the
+    purposes of this appeal, it would not therefore meet the statutory tests set out in the
+    CIL Regulations and for the avoidance of doubt, I confirm that the CAVAT Value is
+    not payable in respect of the current appeal.
+94. Part 3 of Schedule 2 of the UU relates to tree replanting. It includes obligations
+    providing for a tree replanting scheme including management and maintenance
+    arrangements, as well as a commuted sum towards the costs of maintaining and
+    managing trees (excluding whips) planted within the highway verge. These
+    measures would ensure mitigation for the removal of trees on the site and that this
+    mitigation endures in the long term. From the information before me, I am satisfied
+    that these obligations would be necessary to make the development acceptable in
+    planning terms, directly related to the development, and fairly and reasonably
+    related in scale and kind to the development.
+95. There is a further obligation relating to payment of a Tree Replanting Scheme
+    Administrative Fee towards the costs of carrying out public consultation required to
+    fell public asset trees under s96A of the Highways Act. However, I have noted
+    above that it is unclear whether this would be required. Even if it were, I consider
+    that this and payment of any relevant costs or fees by the development would be a
+    matter to address through the s278 process. Given these factors, it is not clear that
+    the fee would be necessary to make the development acceptable in planning terms.
+    Moreover, the Council and LHA representatives were unable to explain the basis
+    for the requested fee during the Hearing. It is not therefore apparent that it would
+    be fairly and reasonably related in scale and kind to the development. The Tree
+    Replanting Scheme Administrative Fee would not therefore meet the statutory tests
+    set out in the CIL Regulations.
+96. Drawing these matters together, obligations relating to non-motorised access
+    provision to connect to Courtland Road and off site bus stop enhancements as part
+
+https://www.gov.uk/planning-inspectorate   16
+ Appeal Decision 6008314
+
+
+      of Highway Works, payment of the CAVAT Value and payment of the Tree
+      Replanting Scheme Administrative Fee would not meet the statutory tests set out in
+      the CIL Regulations. I have not therefore given weight to these obligations or taken
+      them into account in my decision.
+ 97. However, in light of the supporting information and evidence that is before me, I
+     find that each of the other obligations in the Bilateral, including a Highways
+     Contribution of £74,000, would meet the tests set out in the CIL Regulations and
+     can be given weight. I have taken them into account.
+ 98. The UU also includes provision for a monitoring fee. From the information before
+     me, I have no firm reason to doubt that this would be fairly and reasonably related
+     in scale and kind to the development and estimated costs of monitoring. On that
+     basis, the provision would accord with Regulation 122(2A) of the CIL Regulations.
+ 99. Finally on planning obligations, I find no compelling basis to depart from the main
+     parties’ position that further financial support for bus services as requested by
+     Brighton and Hove Buses would be unnecessary given the provisions of the
+     Highways Contribution. It would not therefore meet the tests set out in the CIL
+     Regulations and the absence of an obligation securing further contributions towards
+     bus services does not therefore weigh against the proposal.
+ Planning Balance
+100. I have found that there would be suitable access to the development, that the
+     proposal would make adequate provision for BNG and drainage and that there
+     would not be unacceptable harm to protected or priority species. However, there
+     would be some harm to the character and appearance of the area resulting in
+     conflict with Policies EN12 and EN27 of the LP. The relevant provisions of these
+     policies are broadly consistent with the Framework, and I have no firm reason to
+     reduce the weight that I afford to the ensuing conflict with them.
+101. Nevertheless, the Framework is an important material consideration. It sets out that
+     decisions on development proposals should apply a presumption in favour of
+     sustainable development, applying Policy S4 when considering development
+     proposals within settlements and Policy S5 outside settlements.
+102. As defined in the glossary to the Framework, a ‘settlement’ includes cities, towns,
+     villages and other predominantly built-up areas, including land which is allocated or
+     has permission for development which will form part of the built-up area once the
+     development is complete. The definition continues that this includes areas defined
+     as a settlement in the development plan, but it is clear from the use of ‘includes’
+     that being within an area defined as settlement in the development plan is not a
+     pre-requisite for being a settlement in the terms of the Framework.
+103. In this case, the appeal site is outside of the Polegate/Willingdon development
+     boundary as defined by the LP. However, it adjoins development which is within the
+     boundary to three sides and to the fourth side is recent development following
+     implementation of planning permission at Hindslands. Given its relationship with
+     existing built-form including that which it adjoins to the north and south, I consider
+     that the Hindslands site will clearly form part of the Polegate/Willingdon built-up
+     area on completion. Having regard to the definition in the Framework, the appeal
+     site would therefore sit within a predominantly built-up area and I find that it would
+     be within a settlement for the purposes of the Framework. As a consequence,
+
+ https://www.gov.uk/planning-inspectorate   17
+ Appeal Decision 6008314
+
+
+      Framework Policy S4 which sets out that development proposals within settlements
+      should be approved unless the benefits of doing so would be substantially
+      outweighed by any adverse effects, when assessed against the national
+      decision-making policies in the Framework, applies.
+104. The proposal would cause harm to the character and appearance of the area
+     through the removal of trees and vegetation along the site frontage which would not
+     be fully mitigated by replacement planting. However, the harm would be localised
+     and in my judgement, the overall effect would be moderate. I further consider that
+     there is appropriately clear justification for the harm such that Framework Policy
+     DP3 does not indicate that development should necessarily be refused.
+105. On the other hand, the Council is unable to demonstrate a five year supply of
+     deliverable housing. The main parties also advised during the Hearing that the
+     Council’s Housing Delivery Test 2025 result was 89%, indicating that housing
+     delivery over the previous three years has been some way below requirements.
+     Furthermore, while interested parties refer to instances of care homes that have
+     closed down or which remain partly unoccupied, the Council’s evidence highlights a
+     shortfall in specialist accommodation for older people and the important role that
+     care homes can play in meeting this need.
+106. Although details of the care home including its size would be determined at
+     reserved matters stage, the nature of the development would make a valuable
+     contribution to meeting the identified needs for accommodation for older people, as
+     well as the overall supply of residential accommodation in the district. In
+     accordance with Policy H07 of the Framework, I afford substantial weight to the
+     benefit of providing homes which will contribute towards meeting evidenced
+     accommodation needs.
+107. In respect of the foodstore, the Council’s Wealden Town Centres Study 2026
+     identifies significant capacity for additional retail development to 2030. It notes that
+     capacity does not equate to need. Nevertheless, and while the appeal site is not
+     allocated to provide additional retail capacity, the development would increase
+     consumer choice for the community by providing an alternative option for local food
+     shopping. I afford moderate weight to this factor.
+108. The Framework also includes an objective to support long-term economic growth
+     both locally and nationally. The proposal would offer economic benefits through
+     employment and contributions to the local and wider economy. Those during
+     construction stage would be temporary, but there would also be long-term benefits
+     on operation where the appellant’s undisputed evidence indicates that the
+     foodstore would support around 40 full time equivalent jobs once open. There
+     would also be employment associated with the care home, albeit that the level is
+     currently unclear. In my judgement, the long-term contributions to employment and
+     economic activity would be meaningful, and I afford significant weight to the
+     economic benefits of the proposal.
+109. The provision of widened cycle lanes and a footway along the site frontage may be
+     required to support suitable access to the development. However, there would also
+     be benefit to the wider community who may rely on these routes, including
+     residents of the Hindslands site who would no longer need to cross Eastbourne
+     Road to travel towards Polegate centre on foot, and I give moderate weight to the
+     benefit of enhanced accessibility. I also give moderate weight to ecological
+
+
+ https://www.gov.uk/planning-inspectorate    18
+ Appeal Decision 6008314
+
+
+      enhancements that the development would support through measures including
+      new planting of native species to support wildlife populations and strengthen
+      connectivity along boundaries, even if some BNG delivery would rely on purchase
+      of off site biodiversity units.
+110. Taken cumulatively, these benefits of the proposal would not in my judgement be
+     close to being substantially outweighed by the adverse effects of the development
+     when assessed against the national decision-making policies in the Framework.
+     Policy S4 of the Framework therefore indicates that development should be
+     approved.
+111. Taking account of all of the above, I find that the proposal would conflict with the
+     development plan when it is read as a whole. Nevertheless, the presumption in
+     favour of sustainable development set out in Policies S3 and S4 of the Framework
+     applies and indicates that development should be approved. In this context, I find
+     that material considerations would outweigh the conflict with the development plan.
+ Conditions
+112. I have considered suggested conditions in light of the discussion and amendments
+     proposed at the Hearing, and against the tests within the Framework. Where
+     necessary, I have made minor amendments for clarity, brevity or to ensure
+     compliance with the relevant tests.
+113. In respect of the full element, I have attached the standard time limit condition (1)
+     and a condition specifying the relevant plans (2) for the avoidance of doubt and in
+     the interests of certainty.
+114. Further details of landscaping (3) and external materials (4) are necessary in the
+     interests of the character and appearance of the area while a condition requiring
+     the internal access, loading areas and parking to be provided (5) is necessary in
+     the interests of highway safety and to support sustainable transport. Conditions
+     regarding noise assessment of plant and machinery (6), delivery hours (7) and
+     delivery operations (8) are necessary in the interests of the living conditions of
+     nearby occupiers. I have also attached a condition restricting the use of the
+     foodstore (9) which is necessary including in the interests of highway safety and
+     neighbouring living conditions given that other uses could give rise to different
+     effects which have not been assessed.
+115. In respect of the outline element, I have attached standard conditions relating to the
+     submission of reserved matters (10) and the time limits associated with this (11,
+     12). I have also included conditions specifying the relevant plans (13) and requiring
+     accordance with the submitted parameter plan (14) for the avoidance of doubt and
+     in the interests of certainty while a noise assessment (15) is necessary in the
+     interests of the living conditions of future occupiers.
+116. In respect of both the full and the outline elements, a condition requiring a phasing
+     plan (16) is necessary in the interests of certainty and to enable to proper
+     application and discharge of other conditions.
+117. Conditions relating to construction management (17, 18) are necessary in the
+     interests of highway safety and the living conditions of nearby occupiers.
+     Conditions to require archaeological investigation (19) and reporting (31) are
+     necessary to safeguard heritage assets of archaeological interest, while conditions
+
+
+ https://www.gov.uk/planning-inspectorate   19
+ Appeal Decision 6008314
+
+
+      regarding the protection of trees (20, 21) are necessary to safeguard these trees
+      and in the interests of the character and appearance of the area. Conditions to
+      require further details of surface water drainage (22), a verification report (29) and
+      future management and maintenance (30) as well as details of foul drainage (23)
+      are necessary to ensure appropriate provision for drainage and in the interests of
+      flood risk and safeguarding the environment.
+118. A Construction Environmental Management Plan (24), reptile mitigation measures
+     (25), appropriate lighting (26) and biodiversity enhancement measures (27) are
+     necessary to safeguard biodiversity and, in the case of lighting, the living conditions
+     of nearby occupiers. I have also attached a condition requiring management of
+     landscaping (28) which is necessary in the interests of the character and
+     appearance of the area. A condition requiring provision and maintenance of
+     visibility splays (32) is necessary in the interests of highway safety while a condition
+     relating to unexpected contamination (33) is necessary to safeguard the
+     environment and health. Finally, noise assessment of any air source heat pumps
+     (34) is necessary in the interests of the living conditions of neighbouring occupiers.
+119. Conditions 3, 16, 17, 19, 20, 22, 23, 24 and 25 are pre commencement conditions
+     because they require details to be confirmed and/or in place prior to or during
+     construction works in order to be effective in achieving their intended purpose. The
+     appellant has agreed to these conditions in writing.
+120. An initially suggested condition requiring details of highway works would duplicate
+     elements of the requirements of planning obligations relating to agreement and
+     implementation of Highway Works. In addition, a suggested condition in respect of
+     external materials for the outline element would relate to the appearance of
+     development and so can be addressed in the consideration of reserved matters
+     applications or through the imposition of conditions on a reserved matters approval.
+     These conditions are therefore unnecessary, and I have not imposed them.
+121. I have not repeated the Council’s suggested ‘Informatives’, but the appellant should
+     be aware of these from the appeal documentation.
+122. The appellant’s attention is additionally drawn to the deemed BNG condition under
+     the provisions of Schedule 7 of the Act which provides that development may not
+     be begun unless a biodiversity gain plan has been submitted to and approved by
+     the Local Planning Authority.
+ Conclusion
+123. The proposal would conflict with the development plan when it is read as a whole,
+     but there are material considerations which indicate that planning permission
+     should in this case be granted other than in accordance with the development plan.
+     I therefore conclude that the appeal should be allowed.
+
+ J Bowyer
+ INSPECTOR
+
+
+
+
+ https://www.gov.uk/planning-inspectorate    20
+Appeal Decision 6008314
+
+
+                                    SCHEDULE OF CONDITIONS
+     Conditions Relating to the Full Element
+1) The development hereby permitted shall begin not later than three years from the
+   date of this decision.
+2) Unless otherwise amended under the conditions below, the development hereby
+   permitted shall be carried out in accordance with the following approved plans:
+         19355_THPK-DR-A-0100 P1
+         19355_THPK-DR-A-0119 P8
+         19355_THPK-DR-A-0120 P19
+         19355_THPK-DR-A-0121 P20
+         19355_THPK-DR-A-0122 P10
+         19355_THPK-DR-A-0123 P4
+         19355_THPK-DR-A-0124 P2
+         19355_THPK-DR-A-0125 P1
+         19355_THPK-DR-A-0126 P2
+         19355_THPK-DR-A-0127 P3
+         23071-010 Rev E
+         19355_SFH-XX-XX-DR-L-TR01 Rev A
+3) Prior to the commencement of development, excluding construction access, hereby
+   permitted and notwithstanding the details shown on the landscaping plans (ref:
+   19355-SFW-XX-XX-DR-L-0001-P06), a detailed hard and soft landscaping scheme
+   shall be submitted to and approved in writing by the Local Planning Authority. The
+   scheme shall include:
+          a) existing and proposed levels;
+          b) all hard surfacing materials;
+          c) planting plans, including species, sizes, densities and planting
+              specification;
+          d) boundary treatments;
+          e) street furniture and other landscape features; and
+          f) a programme for implementation.
+
+     The approved landscaping shall be carried out in accordance with the approved
+     programme.
+4) Prior to the construction of the foodstore above slab level, details of the external
+   facing and roofing materials, including manufacturers’ catalogue details and
+   photographs, shall be submitted to and approved in writing by the Local Planning
+   Authority. The development shall thereafter be carried out in accordance with the
+   approved details.
+5) Prior to the first use of the foodstore hereby permitted, the internal access road,
+   loading areas, vehicle parking spaces, cycle parking facilities and vehicle turning
+   areas shall be constructed and laid out in accordance with drawing no.
+   19355_THPK-DR-A-0122 Rev P10. The approved facilities shall thereafter be
+   retained and kept available for their intended purposes at all times.
+6) Notwithstanding the provisions of the Town and Country Planning (General
+   Permitted Development) (England) Order 2015 (as amended) (or any order
+   revoking and re-enacting that Order with or without modification), no external plant
+
+https://www.gov.uk/planning-inspectorate     21
+Appeal Decision 6008314
+
+
+     or machinery serving the foodstore hereby permitted shall be installed until a Plant
+     Noise Assessment has been submitted to and approved in writing by the Local
+     Planning Authority.
+     The assessment shall be prepared by a suitably qualified acoustic consultant and
+     shall include:
+            a) the location, appearance, scale and technical specification of all external
+                plant and machinery;
+            b) predicted operational noise levels from the proposed plant and
+                machinery;
+            c) an assessment of the likely impact on nearby noise-sensitive receptors in
+                accordance with BS 4142:2014+A1:2019 and BS 8233:2014 (or
+                equivalent standards if replaced), including existing background noise
+                levels established through a minimum 24-hour baseline survey; and
+            d) details of any mitigation measures necessary to ensure that the operation
+                of the plant and machinery does not give rise to unacceptable impacts on
+                the amenities of neighbouring occupiers.
+
+     The approved plant and machinery shall be installed in accordance with the
+     approved assessment before first being brought into use and shall thereafter be
+     retained and maintained in accordance with the approved details.
+7) No deliveries or despatches to or from the foodstore hereby permitted shall take
+   place except between the hours of 0600 and 2300 on Mondays to Saturdays and
+   0800 and 2000 on Sundays or Bank and Public Holidays.
+8) In connection with delivery operations at the foodstore hereby permitted:
+         a) No movement of goods pallets or roll cages within the open service yard
+            shall take place before 0600 or after 2300 on Mondays to Saturdays, and
+            before 0800 or after 2000 on Sundays or Bank and Public Holidays;
+         b) No vehicles operating within the foodstore site, service yard, parking or
+            internal access roads, before 0600 or after 2300 on Mondays to
+            Saturdays, and before 0800 or after 2000 on Sundays or Bank and Public
+            Holidays, shall use audible reversing alarms; and
+         c) The refrigeration units of delivery vehicles shall be switched off whilst
+            vehicles are within the foodstore site, service yard, parking or internal
+            access roads before 0600 or after 2300 on Mondays to Saturdays, and
+            before 0800 or after 2000 on Sundays or Bank and Public Holidays.
+
+     The above measures shall be adhered to at all times.
+9) The foodstore hereby permitted shall be used only for the display or retail sale of
+   goods, other than hot food, falling within Class E(a) of the Schedule to the Town
+   and Country Planning (Use Classes) Order 1987 (as amended), and for no other
+   purpose (including any other purpose within Class E of the Schedule to that Order
+   or in any provision equivalent to that Class in any statutory instrument revoking and
+   re-enacting that Order, with or without modification).
+
+
+
+
+https://www.gov.uk/planning-inspectorate   22
+Appeal Decision 6008314
+
+
+Conditions Relating to the Outline Element
+10) Details of the appearance, landscaping, layout and scale (hereinafter referred to as
+    “the reserved matters”) shall be submitted to and approved in writing by the Local
+    Planning Authority before any development takes place. The development shall be
+    carried out in accordance with the approved details.
+11) Application for approval of the reserved matters shall be made to the Local
+    Planning Authority not later than three years from the date of this permission.
+12) The development hereby permitted shall take place not later than two years from
+    the date of approval of the last of the reserved matters to be approved.
+13) The development hereby permitted shall be carried out in accordance with the
+    following approved plans: 19355_THPK-DR-A-0100 P1 and 23071-010 Rev E.
+14) The reserved matters submitted pursuant to this permission shall be in accordance
+    with the approved Parameter Plan, drawing no. 19355_THPK-DR-A-0119 Rev P8.
+15) Any reserved matters application relating to the care home shall be accompanied
+    by a Noise Assessment undertaken by a suitably qualified acoustic consultant in
+    accordance with BS 8233:2014 (or equivalent standard if replaced).
+     The Noise Assessment shall assess the impact of existing external noise sources
+     on the proposed development and shall include a Noise Attenuation Scheme
+     identifying any mitigation measures necessary to ensure that appropriate internal
+     and external noise levels are achieved for future occupants.
+     The reserved matters submission shall demonstrate how the findings and
+     recommendations of the Noise Assessment and Noise Attenuation Scheme have
+     been incorporated into the layout, orientation and design of the care home,
+     including, where necessary, details of glazing, ventilation, acoustic screening and
+     any other mitigation measures.
+     The development shall thereafter be carried out in accordance with the approved
+     reserved matters and the approved Noise Attenuation Scheme. The approved
+     mitigation measures shall be installed prior to the first occupation of the care home
+     and shall thereafter be retained.
+Conditions Relating to Both the Full and Outline Elements
+16) The development hereby permitted may be carried out in one or more phases. Prior
+    to the commencement of development, or of any phase of the development, a
+    Phasing Plan identifying the extent of each phase and its relationship to the
+    remainder of the development shall be submitted to and approved in writing by the
+    Local Planning Authority.
+     The development shall thereafter be carried out in accordance with the approved
+     Phasing Plan.
+17) No development shall commence on either the full or outline elements of the
+    development hereby permitted until a Code of Construction Practice (CoCP) has
+    been submitted to and approved in writing by the Local Planning Authority.
+     The Code of Construction Practice shall include, but not be limited to, details of:
+          a) the anticipated programme and phasing of the construction works;
+
+https://www.gov.uk/planning-inspectorate    23
+Appeal Decision 6008314
+
+
+             b) construction vehicle routing, including approved routes to and from the
+                site;
+             c) the anticipated number, frequency and types of construction vehicles;
+             d) permitted construction traffic arrival and departure times;
+             e) temporary access arrangements, site access and egress, and on-site
+                turning facilities;
+             f) parking for site operatives and visitors;
+             g) loading, unloading and storage of plant, materials and waste;
+             h) measures for the management of loose loads;
+             i) wheel washing facilities and other measures to prevent the deposition of
+                mud and debris on the public highway;
+             j) temporary traffic management measures, including any Traffic Regulation
+                Orders and traffic management arrangements required on the A2270 and
+                any mitigation measures affecting the Strategic Road Network;
+             k) the control of noise, vibration, dust and dirt during construction, including
+                measures in accordance with BS 5228-1:2009+A1:2014 (or equivalent
+                standard if replaced);
+             l) measures to protect groundwater and surface water from pollution;
+             m) measures to manage surface water and flood risk both on and off the site
+                during construction;
+             n) the location and design of site compounds, welfare facilities, storage
+                areas, security hoarding and site offices;
+             o) arrangements for communication and liaison with local residents and
+                businesses before and throughout the construction period; and
+             p) a prohibition on the burning of waste or other materials on the site.
+
+     The development shall thereafter be carried out in full accordance with the
+     approved Code of Construction Practice throughout the construction period.
+18) No site preparation, demolition or construction works, including the loading or
+    unloading of materials, plant or equipment, shall take place other than between the
+    hours of:
+
+             •   0800 to 1800 Mondays to Fridays;
+             •   0800 to 1300 on Saturdays; and
+             •   at no time on Sundays or Bank and Public Holidays.
+
+19) No development shall commence until a Written Scheme of Investigation (WSI) for
+    a programme of archaeological works has been submitted to and approved in
+    writing by the Local Planning Authority. The programme of archaeological works
+    shall thereafter be carried out in full accordance with the approved Written Scheme
+    of Investigation.
+20) No development shall commence until a detailed Arboricultural Method Statement
+    (AMS) for all retained trees has been submitted to and approved in writing by the
+    Local Planning Authority.
+
+
+
+
+https://www.gov.uk/planning-inspectorate     24
+Appeal Decision 6008314
+
+
+     The AMS shall be prepared in accordance with BS 5837:2012 – Trees in Relation
+     to Design, Demolition and Construction – Recommendations (or equivalent
+     standard if replaced) and shall include:
+           a) confirmation of tree numbering and root protection areas;
+           b) details of all tree protection measures;
+           c) construction methods where works are proposed within or adjacent to root
+              protection areas, including any no-dig construction;
+           d) the routing of service trenches, utilities and hard surfacing;
+           e) arboricultural supervision and monitoring arrangements.
+
+     The development shall thereafter be carried out in full accordance with the
+     approved Arboricultural Method Statement throughout the construction period.
+21) No development shall commence within the relevant phase until all trees and
+    hedgerows to be retained in accordance with the approved Tree Removal Plan (ref.
+    19355-SFH-XX-XX-DR-L-TR01 Rev A) have been protected by fencing and ground
+    protection measures in accordance with the approved Arboricultural Method
+    Statement pursuant to Condition 20 and BS 5837:2012 (or equivalent standard if
+    replaced).
+     The approved tree protection measures shall remain in place for the duration of the
+     construction works.
+     No activities shall take place within the protected root protection areas unless
+     expressly authorised by the approved Arboricultural Method Statement or otherwise
+     agreed in writing by the Local Planning Authority. Such activities include:
+          a) alteration of ground levels;
+          b) excavation, trenching or soil removal;
+          c) construction of buildings, hard surfaces or engineering works;
+          d) storage of materials, spoil or plant;
+          e) vehicular access or parking;
+          f) lighting of fires or burning of materials.
+
+22) A detailed surface water drainage scheme for the relevant phase of development
+    shall be submitted to and approved in writing by the Local Planning Authority:
+       (i)    prior to the commencement of development for the foodstore; and.
+       (ii)   prior to or with the submission of any reserved matters application
+              relating to the care home.
+
+     The scheme shall be based on sustainable drainage principles and shall include:
+          a) details of the proposed surface water drainage system, with surface water
+             discharge rates not exceeding 2.2 l/s for all rainfall events, including those
+             with 1 in 100 (+40% for climate change) annual probability of occurrence;
+          b) hydraulic calculations demonstrating that the surface water drainage
+             system has been designed to accommodate the appropriate rainfall
+             events, including appropriate allowances for climate change and urban
+             creep. The hydraulic calculations shall take into account the connectivity
+             of the different surface water drainage features;
+
+
+
+https://www.gov.uk/planning-inspectorate   25
+Appeal Decision 6008314
+
+
+             c) details of the means of surface water disposal, including any flow control
+                measures, outfall of the proposed attenuation tank(s) or any other
+                attenuation features proposed and how they connect into the sewer with
+                cross sections and invert levels;
+             d) details of the attenuation tank, which shall be informed by findings of
+                groundwater monitoring between autumn and spring. The design should
+                leave at least 1m unsaturated zone between the base of the ponds and
+                the highest recorded groundwater level. If this cannot be achieved, details
+                of measures which will be taken to manage the impacts of high
+                groundwater on the drainage system shall be provided;
+             e) details of exceedance flow routes, with details on flood depths,
+                demonstrating that, in the event of rainfall exceeding the design standard,
+                surface water will be safely managed on the site and will not increase
+                flood risk on or off the site;
+             f) details of the management of surface water during construction; and
+             g) a programme for implementation of the approved drainage works.
+
+     The approved scheme shall be implemented in accordance with the approved
+     details and completed prior to the first occupation of the relevant phase of
+     development.
+23) Prior to the commencement of the relevant phase of development, a scheme for
+    the provision of foul drainage infrastructure for that phase shall be submitted to and
+    approved in writing by the Local Planning Authority.
+     The scheme shall include:
+          a) details of the proposed foul drainage system;
+          b) the timing of its implementation; and
+          c) details of any off-site reinforcement or upgrading works required to
+             provide sufficient capacity to serve the development.
+
+        The approved foul drainage scheme shall be implemented in accordance with
+        the approved details prior to the first occupation of the buildings to which it
+        relates. Any off-site reinforcement or upgrading works required to provide
+        sufficient capacity for the development shall be completed prior to the
+        connection of the relevant phase of development to the public foul sewer.
+24) No development shall take place until a Construction Environmental Management
+    Plan (CEMP: Biodiversity) has been submitted to and approved in writing by the
+    Local Planning Authority.
+     The CEMP: Biodiversity shall include, but not be limited to:
+          a) details of ecological protection measures to be implemented during
+             construction;
+          b) the timing of works to avoid harm to protected and priority species,
+             including breeding birds;
+          c) measures for the protection of great crested newts, badgers, reptiles,
+             amphibians and other protected species identified within the Ecological
+             Impact Assessment;
+
+https://www.gov.uk/planning-inspectorate     26
+Appeal Decision 6008314
+
+
+             d) procedures to be followed should protected species be encountered
+                during the course of the works;
+             e) details of any required exclusion fencing, habitat protection measures and
+                precautionary working methods;
+             f) measures to prevent the spread of invasive non-native species;
+             g) details of the roles and responsibilities of an Ecological Clerk of Works (or
+                other suitably qualified ecologist), including supervision, site inspections
+                and toolbox talks where required;
+             h) a programme for implementation and monitoring of the approved
+                measures throughout the construction period and any review or additional
+                matters in subsequent phases;
+             i) details of a pre-commencement walkover survey undertaken a minimum
+                of three months prior to works, to identify any changes in ecological
+                conditions since the completion of the submitted ecological surveys,
+                including the identification of any newly established badger setts or other
+                protected species resting places; and
+             j) procedures to be followed should a badger sett or other protected species
+                resting place be identified during the walkover survey or at any stage
+                during construction, including cessation of works where necessary and
+                consultation with a suitably qualified ecologist and, where required,
+                Natural England.
+
+     The development shall thereafter be carried out in full accordance with the
+     approved CEMP: Biodiversity throughout the construction period.
+25) No development, site clearance, vegetation removal, soil stripping, groundworks or
+    other works that may adversely affect reptiles shall take place until a detailed
+    Reptile Mitigation Strategy has been submitted to and approved in writing by the
+    Local Planning Authority.
+     The Reptile Mitigation Strategy shall build upon the mitigation principles set out in
+     the Ecological Impact Assessment Revision B by Smeeden Foreman and the
+     Reptile Avoidance Mitigation Enhancement Strategy at Appendix 01 to the Appeal
+     Statement (Ecology) April 2026 by Smeeden Foreman and shall include, but not be
+     limited to:
+            a) the location and extent of the proposed receptor site(s);
+            b) an assessment of the habitats present within the receptor site(s),
+                including their ecological function for reptiles;
+            c) an assessment of the existing reptile population within the receptor
+                site(s), supported by recent survey information undertaken in accordance
+                with current best practice;
+            d) an assessment demonstrating that the receptor site(s) have sufficient
+                carrying capacity to accommodate the translocated reptiles, together with
+                details of any habitat enhancement works required to increase carrying
+                capacity where necessary;
+            e) details of the proposed reptile translocation methodology and timetable;
+
+
+
+https://www.gov.uk/planning-inspectorate     27
+Appeal Decision 6008314
+
+
+             f) details of habitat creation, enhancement and management measures for
+                reptiles;
+             g) details of the body or organisation responsible for implementing and
+                managing the mitigation strategy;
+             h) a monitoring programme, including contingency and remedial measures
+                where monitoring demonstrates that the objectives of the strategy are not
+                being achieved; and
+             i) details of the legal and funding mechanisms to secure the
+                implementation, long-term management and monitoring of the mitigation
+                strategy.
+
+     The approved Reptile Mitigation Strategy shall be implemented in full in accordance
+     with the approved timetable and shall thereafter be managed and monitored in
+     accordance with the approved details.
+26) Prior to the installation of any external lighting within the relevant phase of
+    development, a Sensitive Lighting Strategy for that phase shall be submitted to and
+    approved in writing by the Local Planning Authority.
+     The Sensitive Lighting Strategy shall include:
+          a) the location, height, design and specification of all external lighting;
+          b) details of the intensity, spread and direction of illumination, including
+             lighting contour plans and predicted lux levels;
+          c) measures to minimise light spill, glare and upward light intrusion,
+             including the use of cowls, baffles or shields where appropriate;
+          d) details demonstrating how dark corridors will be retained and maintained
+             for bats and other nocturnal wildlife, including along retained trees,
+             hedgerows and other ecological features; and
+          e) details of the hours of operation and any lighting controls, including
+             timers, dimming or motion sensors where appropriate.
+
+     The external lighting shall be installed and thereafter operated in accordance with
+     the approved Sensitive Lighting Strategy for the lifetime of the development.
+27) Prior to the commencement of development above slab level within the relevant
+    phase of development, a Biodiversity Enhancement Plan for that phase shall be
+    submitted to and approved in writing by the Local Planning Authority.
+     The Biodiversity Enhancement Plan shall include, but not be limited to:
+             a) details of the location, specification and number of integrated bat and
+                bird boxes, bat bricks, bird bricks and other wildlife features to be
+                incorporated within the development;
+             b) details of hedgehog connectivity measures, including hedgehog gaps
+                within boundary treatments where appropriate;
+             c) details of habitat enhancement measures, including native planting,
+                species-rich grassland, deadwood habitat, log piles, invertebrate
+                habitat features and other biodiversity enhancements where
+                appropriate;
+
+
+https://www.gov.uk/planning-inspectorate    28
+Appeal Decision 6008314
+
+
+                d) a timetable for the implementation of the approved biodiversity
+                   enhancement measures; and
+                e) details of the future management and maintenance of the biodiversity
+                   enhancement features.
+
+     The approved biodiversity enhancement measures shall be implemented in
+     accordance with the approved timetable and shall thereafter be retained and
+     maintained for the lifetime of the development.
+28) Prior to the first occupation of the relevant phase of development hereby permitted,
+    a landscape management plan, including long term design objectives, a written
+    specification outlining cultivation and other operations associated with trees, plant
+    and grass establishment, and maintenance schedules for all landscape areas,
+    other than areas to be adopted by the Local Highway Authority, shall be submitted
+    to and approved in writing by the Local Planning Authority.
+     All landscaping and planting shall be maintained in accordance with the approved
+     management plan.
+
+     Any trees or plants which, within a period of five years from the completion of the
+     planting, die, are removed or become seriously damaged or diseased shall be
+     replaced in the next planting season with others of similar size and species.
+29) Prior to the first occupation of the relevant phase of development, a Verification
+    Report with evidence (including photographs) for that phase demonstrating that the
+    approved surface water drainage scheme pursuant to condition 22 has been
+    constructed and completed in accordance with the approved details shall be
+    submitted to and approved in writing by the Local Planning Authority
+     The Verification Report shall include:
+          a) confirmation that the approved drainage system has been constructed in
+               accordance with the approved design;
+          b) as-built drawings of the completed drainage system;
+          c) results of any inspections and testing undertaken during construction; and
+          d) details of any departures from the approved scheme together with
+               justification for those changes.
+
+     The relevant phase of development shall not be occupied until the Verification
+     Report has been approved in writing by the Local Planning Authority.
+30) Prior to the first occupation of the relevant phase of development, a scheme for the
+    future management and maintenance of the approved surface water drainage
+    system for that phase pursuant to condition 22 shall be submitted to and approved
+    in writing by the Local Planning Authority.
+     The scheme shall include:
+          a) details of the body or organisation responsible for the management and
+             maintenance of the drainage system;
+          b) a maintenance schedule for all drainage components, including SuDS
+             features;
+          c) arrangements for inspection, repair and replacement of drainage
+             infrastructure throughout its operational life; and
+
+https://www.gov.uk/planning-inspectorate    29
+Appeal Decision 6008314
+
+
+             d) arrangements to secure the long-term funding and implementation of the
+                maintenance scheme.
+
+     The approved management and maintenance scheme shall be implemented upon
+     first occupation of the relevant phase of development and shall thereafter be
+     retained and operated in accordance with the approved details for the lifetime of the
+     development.
+31) No phase of the development hereby permitted shall be brought into use until the
+    archaeological site investigation and post-investigation assessment for that phase,
+    including provision for analysis, publication, dissemination of the results and
+    archive deposition, has been completed in accordance with the Written Scheme of
+    Investigation approved pursuant to Condition 19 and has been submitted to and
+    approved in writing by the Local Planning Authority.
+32) The vehicular access hereby permitted shall not be brought into use until visibility
+    splays measuring 2.4 metres x 48.5 metres to the north and 2.4 metres x 59.9
+    metres to the south, as shown on drawing no. 23071-010 Rev E, have been
+    provided and are free from any obstruction exceeding 600mm above the level of
+    the adjacent carriageway.
+     The visibility splays shall thereafter be retained and maintained free from any
+     obstruction exceeding 600mm above the level of the adjacent carriageway.
+33) If during the course of development, contamination not previously identified is found
+    to be present at the site, no further development (unless otherwise agreed in writing
+    by the Local Planning Authority) shall be carried out until the contamination has
+    been reported to the Local Planning Authority.
+     An investigation and risk assessment shall be undertaken and, where remediation
+     is necessary, a remediation scheme shall be submitted to and approved in writing
+     by the Local Planning Authority.
+     Following completion of any approved remediation works, a Verification Report
+     shall be submitted to and approved in writing by the Local Planning Authority before
+     development recommences or the affected part of the development is first
+     occupied.
+34) Prior to the installation of any air source heat pump serving the development
+    hereby permitted, a Noise Assessment Report prepared by a suitably qualified
+    acoustic consultant shall be submitted to and approved in writing by the Local
+    Planning Authority.
+     The Noise Assessment Report shall:
+          a) assess the predicted noise emissions from the proposed air source heat
+             pump(s), including the cumulative impact of multiple units where
+             applicable;
+          b) demonstrate compliance with the Chartered Institute of Environmental
+             Health and Institute of Acoustics Professional Practice Guidance on
+             Planning and Noise – Professional Advice Note: Heat Pumps (or any
+             subsequent replacement guidance);
+
+
+
+
+https://www.gov.uk/planning-inspectorate   30
+Appeal Decision 6008314
+
+
+             c) include details of any mitigation measures necessary to ensure that the
+                operation of the equipment does not give rise to unacceptable impacts on
+                the amenities of neighbouring occupiers.
+
+     The approved air source heat pump(s) shall be installed in accordance with the
+     approved details and shall thereafter be retained and maintained in accordance
+     with those details.
+     If requested in writing by the Local Planning Authority following installation,
+     post-installation noise monitoring shall be undertaken and the results submitted to
+     the Local Planning Authority. Where the monitoring identifies that additional
+     mitigation is required, this shall be implemented within a timescale first agreed in
+     writing with the Local Planning Authority.
+
+
+                                           End of Schedule
+
+
+
+
+APPEARANCES
+
+FOR THE APPELLANT:
+
+Paul Tucker KC                     Kings Chambers
+Penny Moss                         Avison Young
+Tom Hawkley                        Avison Young
+Tom Roe                            Avison Young
+Ellen R Jones                      THP
+Alastair Macquire                  Align LP
+Daniel Wilkinson                   Smeeden Foreman
+Dan Robinson                       Smeeden Foreman
+Georgina Southon                   Smeeden Foreman
+Nick Bradshaw                      Connect
+Rachel Luttrell                    Connect
+Laura Partridge                    Connect
+Andrew Turnbull                    Craddys
+Louise Burnett                     Freeths
+Robert McClellan                   Aldi
+
+FOR THE LOCAL PLANNING AUTHORITY:
+
+Claire Turner                     Principal Planning Officer, Wealden District Council
+Sarah Buckingham                  Senior Planning Officer, Wealden District Council
+Kal Kamboh                        Strategic Sites Transport Advisor, East Sussex County
+                                  Council
+Anthony Becvar                    Highways Environmental Asset Lead, East Sussex County
+                                  Council
+
+
+https://www.gov.uk/planning-inspectorate        31
+Appeal Decision 6008314
+
+
+INTERESTED PARTIES:
+
+Suzy Standen-Payne                Clerk, Willingdon and Jevington Parish Council
+Ann Longden                       Local resident
+Mandy Gaved                       Local resident
+
+
+
+DOCUMENTS ACCEPTED AT AND AFTER THE HEARING
+
+HD1  GCN Impacts – Change of Circumstances letter dated 13 August 2026 by
+     Smeeden Foreman, submitted by the appellant
+HD2  Drainage Technical Note dated 20 July 2026 by Craddys, submitted by the
+     appellant
+HD3  Letter in respect of Polegate Windmill listed building dated 17 August 2026 by
+     Cogent Heritage, submitted by the appellant
+HD4  Updated suggested conditions, submitted by the Council
+HD5  Updated suggested conditions, submitted by the appellant
+HD6  Drainage Mitigation Information to support shadow Habitat Regulation
+     Assessment letter dated 19 August 2026 by Smeeden Foreman, submitted by
+     the appellant
+HD7  BNG Monitoring fee calculator, submitted by the Council
+HD8  Updated agreed suggested conditions v6 dated 25 August 2026, submitted by
+     the appellant
+HD9  Unilateral Undertaking dated 1 September 2026, submitted by the appellant.
+HD10 Bilateral Agreement dated 2 September 2026, submitted by the appellant.
+
+
+
+
+https://www.gov.uk/planning-inspectorate        32
+

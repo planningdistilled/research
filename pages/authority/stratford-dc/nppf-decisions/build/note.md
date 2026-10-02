@@ -1,0 +1,226 @@
+The National Planning Policy Framework (NPPF) published on 17 August 2026 changed the tests that Stratford-on-Avon District Council (SDC) applies to planning applications. This note compares SDC decisions made between 17 August and 22 September 2026 in two ways: with each other, and with how Planning Inspectors have decided the same questions on appeal under the same Framework. Most SDC decisions reach results that follow from their facts. On one point SDC's approach is inconsistent with appeal decisions, and one SDC decision is hard to reconcile with its own findings. On the other points SDC's reasoning leaves out steps the Framework requires, or its method differs from the inspectors'.
+
+Page numbers refer to the PDF of each officer report. Paragraph numbers (¶) refer to appeal decision letters. Every quotation has been checked against the source document.
+
+## At a glance
+
+| Issue | Within SDC | Compared with appeal decisions | What the Framework says |
+| --- | --- | --- | --- |
+| [1. DP3(3) as a "should be refused" policy](#s1) | Reasoning gap. Alcester treated a flood-policy failure as a "should be refused" trigger and refused. Snitterfield, a permission in principle, found "significant harm to the character of the area" in conflict with local design and landscape policies and cited DP3(3) only as a source of weight, without asking whether there was clear justification (granted). | Inconsistent. Inspectors at Kings Langley, Hook-a-Gate and Ware treated a conflict with DP3's design principles as engaging DP3(3) and as a reason for refusal; at Woodford Green the loss of a prominent tree and poor access did the same. At Kings Langley, the only Green Belt case, the conflict was with a local design policy. | DP3(3): proposals "should be refused" if they conflict with DP3(1) "without clear justification". S5(2) makes that a situation where the benefits are "likely to be substantially outweighed". |
+| [2. Heritage harm at Forest Farm](#s2) | Hard to reconcile. Forest Farm found conflict with HE6 and the 1990 Act, then granted under the S4 balance. Ilmington weighed the harm against public benefits and refused. | Differs in method. Inspectors at Hunmanby, Bagnall and Smarden weighed heritage harm on its own terms. | HE6(3) and HE6(4): harm is "a matter of considerable importance and weight" and "should be weighed against any public benefits". |
+| [3. Reason given for discounting CS.8](#s3) | Reasoning gap. Three reports declared CS.8 "materially inconsistent" because HE5 "provides a new set of criteria for assessments", without saying which part of CS.8 conflicts; the same reports then found accordance with, or conflict with, CS.8. | Differs in method. Inspectors at Smarden and Wandsworth treated local policies as consistent with the Framework; Wandsworth gave its heritage, design and building-height policies full weight. | CS.8(B) already requires an assessment of significance. Annex A(2) reduces weight only for the parts of a policy that conflict. |
+| [4. Location shortcuts in the Green Belt](#s4) | Reasoning gap. Tanworth ran the S5(1)(j) "well-related to an existing settlement" test for a washed-over village before turning to GB7. Earlswood passed GB7(1)(g)(iii) because the dwelling was inside a built-up area boundary. | Differs in method. At Kings Langley the inspector decided a washed-over site under S5(5), adding that the result would be the same under S4. | S5 does not apply in the Green Belt (S5(5)), and Annex B excludes washed-over villages from "settlement". GB7(1)(g)(iii) refers to TR3, and TR3(2) calls for evidence. |
+| [5. Walking routes and stations](#s5) | Reasoning gap. The decisions do not contradict each other, but none tests location as TR3 expects: none of the reports reviewed uses the Connectivity Tool, Earlswood assessed no route, Tanworth leaned partly on existing use, and both treated the village's Local Service Village status as showing the location is sustainable. | Differs in method. Inspectors decide on the route, the services and the transport for all users: a station 350 m away did not save Hatton Station, and a named service village did not save Findon. | Where a proposal "could generate a significant amount of movement", TR3(1)(a) asks for "a genuine choice of transport modes". GB7(1)(h) applies only to a "well-connected station". |
+| [6. Reports written under the 2024 Framework](#s6) | Reasoning gap. Coverwell Farm applied the 2024 Framework on 17 August. Kineton and Oxhill kept the 2024 balance with a one-paragraph note. | Differs in method. Inspectors applied the 2026 Framework to appeals already under way when it was published. | Annex A(1): the 2026 policies "must be taken into account in decision-making from the day of its publication". |
+
+**Key to the labels**
+
+| Label | What it means | Why it matters |
+| --- | --- | --- |
+| Inconsistent | Comparable facts, opposite answers to the same Framework question. | Like cases should be decided alike. A decision that departs from comparable decisions without explaining why is open to challenge. |
+| Hard to reconcile | The decision's conclusion does not follow from its own findings. | It suggests a required step was skipped, which can make the decision open to challenge. |
+| Reasoning gap | A step the Framework requires is missing, or the stated reason is wrong. The result may still be defensible. | It matters where the missing step could have changed the result. Misreading a policy is an error of law. |
+| Differs in method | SDC applies a different test from the one inspectors apply. | Refusals reasoned this way risk being overturned at appeal. Grants reasoned this way are open to challenge. |
+
+## 1. DP3(3) as a "should be refused" policy
+
+**In short.** Alcester treated a failed "should be refused" policy as making refusal likely, and refused *(correctly)*, though it overstated the effect. Snitterfield found significant harm to character and cited DP3(3), but used it only as a heavy weight in the balance *(incorrectly)*, without asking whether the conflict had clear justification.
+
+**What happened.** In the decisions reviewed, SDC used the Framework's "should be refused" mechanism for flood risk but not for design.
+
+- ✓ **Alcester, 26/01376/FUL (refused 17 September 2026).** Two houses on a site "with the western part of the site falling into Flood Zones 2 and 3" (p.8). The officer applied S4(2)(c): "the proposal would fail against NDMP F7, and the proposal would fall into one of the specific reasons to refuse an application with the framework … Therefore the presumption in favour of development would not apply" (p.3). S4(2)(c) makes the benefits "likely to be substantially outweighed"; it does not switch the presumption off, so the last sentence goes further than the policy. The refusal follows either way.
+- ✗ **Snitterfield, 26/00617/PIP (committee 9 September, notice 10 September 2026).** Up to five homes on open countryside adjacent to the built-up area boundary of Snitterfield, a village washed over by the Green Belt; the report found the scheme not inappropriate under GB7. The officer found: "I consider that the proposal would result in significant harm to the character of the area … In light of NDMP DP3 (3), I afford this harm substantial weight" (p.15). The conflict it identified was with local design and landscape policies: the scheme "would not accord with Policies CS.5, CS.9 and CS.12 of the Core Strategy and NDP Policies BE1, BE3 and NE4" (p.15), conflicts the conclusion describes as "in respect of design, character and landscape harm" (p.20). As a permission in principle, the layout was not yet fixed. The report quotes S5(5) in full, including its closing words "and applying paragraph 2 of this policy" (p.10). Its conclusion then weighs harm and benefits without applying S5(2): "I conclude that the benefits of approving the scheme would not be substantially outweighed by any adverse effects" (p.20). The report does not ask whether there was clear justification for the conflict.
+
+### What the Framework requires
+
+> **DP3(3)** Development proposals should be refused if, without clear justification, they conflict with paragraph 1 of this policy or relevant aspects of the principles in paragraph 2 …
+>
+> **S5(2)** In applying this policy, the circumstances in which the benefits of approving development proposals are likely to be substantially outweighed by adverse effects include, but are not restricted to, situations where the development proposal would fail to comply with one of the national decision-making policies which state that development proposals should be refused in specific circumstances.
+>
+> **S5(5)** … proposals should be approved unless the benefits of doing so would be substantially outweighed by any adverse effects, when assessed against the national decision-making policies in this Framework, and applying paragraph 2 of this policy.
+
+- DP3(3) is a "should be refused" policy in the same way as F7(2), which SDC treated as a trigger at Alcester.
+- DP3(3) applies to conflict with DP3(1), with relevant DP3(2) principles, or with "explicit design standards set out in the development plan". Snitterfield cited DP3(3) but did not apply its test: it did not ask whether there was clear justification for the conflict. If there was not, S5(2) applies.
+- In the Green Belt, S5(5) applies S5(2) expressly.
+- "Clear justification" is a real test, and inspectors read it two ways, both stricter than the S5 balance. At [Polegate 6008314](https://appeal-planning-decision.service.gov.uk/comment-planning-appeal/appeals/6008314) the conflict with DP3 was justified because the harm was *necessary*: the loss of trees "would be necessary as part of the appeal development such that there would be clear justification for the conflict" (¶43). At [Didcot 6009340](https://appeal-planning-decision.service.gov.uk/comment-planning-appeal/appeals/6009340) it was justified on a *weighing*: "the substantial weight I ascribe to the benefits … would outweigh the minor and localised harm", so "there would, therefore, be clear justification for the harm that would arise, as is required by Policy DP3.3 of the Framework" (¶22). Either reading requires the decision-maker to reach a view on justification; Snitterfield reached neither, because it ran only the S5(5) balance.
+- S5(2), like S4(2)(c), makes the benefits "likely" to be substantially outweighed. It does not make refusal automatic, but the decision has to say what, if anything, displaces that.
+
+**Correct approach:** ask whether there is clear justification for the conflict. If there is not, treat the benefits as likely to be substantially outweighed (S5(2)) and say whether anything displaces that, as Alcester in substance did under S4(2)(c).
+
+**How inspectors have decided the same question**
+
+- ✓ [6011803, 126 Toms Lane, Kings Langley (Three Rivers), dismissed 9 September 2026](https://appeal-planning-decision.service.gov.uk/comment-planning-appeal/appeals/6011803). A Green Belt scheme where "the parties are in agreement that the proposal is not inappropriate development" (¶4), decided under S5(5) (¶17). The scheme failed "one of the national decision-making policies, namely paragraph 3 of policy DP3, where there is a clear conflict with policy DM1 of the TRLDD insofar as it relates to the development of backland homes", and "This policy of the Framework directs that the proposal should be refused" (¶20). The inspector added that the concerns would remain if S4 applied (¶19).
+- ✓ [6008785, Land adjacent Hanley House, Hook-a-Gate, Shrewsbury, dismissed 22 September 2026](https://appeal-planning-decision.service.gov.uk/comment-planning-appeal/appeals/6008785). S5(1)(j) was met (¶37), but a conflict with DP3(1) without clear justification engaged DP3(3), and so S5(2) (¶39), and "the benefits would be substantially outweighed by the adverse effects, when assessed against the national decision-making policies in the Framework" (¶42).
+- ✓ [6008167, Land to the rear of Dovedale, Ware, dismissed 10 September 2026](https://appeal-planning-decision.service.gov.uk/comment-planning-appeal/appeals/6008167). "Paragraph 3 of Policy DP3 states that development proposals should be refused if, without clear justification, they conflict with paragraph 1" (¶21). A site inside a settlement, decided under S4; the housing benefit was substantially outweighed.
+- ✓ [6005325, 61 Brackley Square, Woodford Green, dismissed 27 August 2026](https://appeal-planning-decision.service.gov.uk/comment-planning-appeal/appeals/6005325). Loss of a prominent tree was "contrary to the key principles in Policy DP3 of the Framework 2026, which include maintaining and enhancing tree cover" (¶23), and "Policy DP3 paragraph 3 states that development proposals should be refused" (¶30). The inspector also found conflict with DP3's principles on access (¶15). A site inside a settlement, decided under S4.
+- ✗ Not every decision applies the test. At [6011253, Land adjacent 8 Bedford Road, Cople (Bedford), allowed 14 September 2026](https://appeal-planning-decision.service.gov.uk/comment-planning-appeal/appeals/6011253), the inspector found the scheme "would urbanise the appeal site to the detriment of the low-density rural character of the area" (¶26) but weighed that harm against the benefits rather than asking whether the conflict was justified — the same gap as Snitterfield, on the appeal side.
+
+## 2. Heritage harm at Forest Farm
+
+**In short.** Ilmington weighed the heritage harm against the public benefits on its own terms and refused *(correctly)*. Forest Farm found the same kind of harm but folded it into the overall balance *(incorrectly)*, without the separate HE6(4) weighing that section 66 of the 1990 Act and HE6(3) call for.
+
+**What happened.** Two one-dwelling permissions in principle, both affecting the setting of listed buildings and both decided while the Council could not show a five-year housing supply, were decided less than a month apart.
+
+- ✓ **Ilmington, 26/01399/PIP (refused 28 August 2026).** The report records a supply of 2.21 years (p.5). It weighed the harm against the public benefits: "the provision of one dwelling is considered to be a modest benefit in the scheme of things" (p.10), and "On balance, I find the public benefits identified would not be enough to outweigh the harm caused to the character or appearance of the Conservation Area or the setting of the adjacent listed buildings or the non-designated heritage asset, in this instance" (p.11).
+- ✗ **Forest Farm, Long Marston, 26/01906/PIP (granted 22 September 2026).** The report found "the proposals will be highly detrimental to the dwelling's setting" (p.7) and that "the design would be contrary to the statutory requirements of the Planning (Listed Buildings and Conservation Areas) 1990 Act" (p.8). In its conclusion the harm "is afforded substantial adverse weight, this is in conflict with CS.8 of the Core Strategy and NDP Policy HA.1 and NDMP HE6", and one dwelling towards "the currently substandard housing land supply" is "afforded substantial positive weight". It then concludes under S4 that "the benefits of approving the scheme would not be substantially outweighed by any adverse effects" (p.10). The only reference to public benefits in the report is in its quotation of neighbourhood plan policy HA.1.
+
+### What the Framework requires
+
+> **HE6(3)** Any harm to a designated heritage asset will be a matter of considerable importance and weight, which should be dealt with in accordance with paragraphs 4 to 6 of this policy.
+>
+> **HE6(4)** Where a development proposal would harm the significance of a designated heritage asset the effect on the asset and its significance should be weighed against any public benefits resulting from the proposal.
+>
+> **HE4(2)** Any harm to, or loss of, the significance of a designated heritage asset (including from development within its setting) should have a clear and convincing justification …
+
+- HE6(4) requires the harm to be weighed against the public benefits, and HE4(2) requires "a clear and convincing justification" for it. That is a different exercise from the S4 test of whether the benefits are "substantially outweighed".
+- Forest Farm found conflict with HE6 and with the statutory duty, but reached its decision on the S4 test alone, without the HE6(4) weighing.
+- The weight given to one dwelling also differs: "a modest benefit" at Ilmington, "substantial positive weight" at Forest Farm.
+
+**Correct approach:** Ilmington's. Weigh the harm against the public benefits openly under HE6(4), then carry the result into the S4 conclusion.
+
+**How inspectors have decided the same question**
+
+- ✓ [6007220 and 6007221, Mill Farmhouse, 7 Bridlington Street, Hunmanby (North Yorkshire), both dismissed 4 September 2026](https://appeal-planning-decision.service.gov.uk/comment-planning-appeal/appeals/6007221). Appeals against non-determination, for planning permission and listed building consent. The decision weighs the harm on its own terms first: "clear and convincing justification has not been provided for the identified harm … the weight I attach to the public benefits which would result from the proposal, is not sufficient to outweigh the weight I attach to the harm to the assets and their significance" (¶40), and then concludes under S4 that "the benefits of approving the proposal would be substantially outweighed by the identified adverse effects" (¶51).
+- ✓ [6008539, Land adjacent to Fulwood, Bagnall, dismissed 18 August 2026](https://appeal-planning-decision.service.gov.uk/comment-planning-appeal/appeals/6008539). A Green Belt site accepted as not inappropriate (the reasoning is an appeal planning officer's, adopted by the inspector): "the proposal would not provide sufficient public benefits that would outweigh the harm" (¶13), and the Green Belt finding "does not in itself justify the grant of planning permission, nor does it override the identified harm" (¶15).
+- ✓ [6006475, Water Lane, Smarden, dismissed 16 September 2026](https://appeal-planning-decision.service.gov.uk/comment-planning-appeal/appeals/6006475). Applies HE4(2) as its own requirement: "there is no clear and convincing justification for the harm to the significance of those assets" (¶59).
+
+## 3. The reason given for discounting CS.8
+
+**In short.** Inspectors at Wandsworth and Smarden treated local policies as consistent with the Framework where there was no substantive basis to call them inconsistent *(correctly)*. Four SDC reports discounted CS.8 *(incorrectly)*, without saying which part conflicts with the Framework.
+
+**What happened.** Three reports declared Core Strategy policy CS.8 (Historic Environment) materially inconsistent with the Framework, which under Annex A(2) means very limited weight, for the same stated reason: that HE5 adds criteria for assessing heritage effects that CS.8 does not contain. None of the three states a weight. A fourth, Upper Quinton, said CS.8 "does not align" with the new policies and gave it limited weight.
+
+- ✗ **Snitterfield, 26/00617/PIP.** HE5 "provides a new set of criteria for assessments of the potential effects on development proposals on the significance of heritage assets which is not required within CS.8 of the CS and BE7 of the NDP, I consider that CS.8 and BE7 are materially inconsistent with the NDMPs of the Framework" (p.15). The same report then concludes that "the development would accord with NDMPs HE5 and HE6 of the Framework and Policy CS.8 of the Core Strategy" (p.16).
+- ✗ **Forest Farm, 26/01906/PIP.** The same wording, ending "not required within CS.8, I consider that CS.8 is materially inconsistent with the NDMPs of the Framework" (p.6). The report then finds that "The development would fail to accord with CS.8 of the Core Strategy" (p.8), and its conclusion counts that conflict as harm (p.10).
+- ✗ **Upper Quinton, 26/00922/FUL (refused 17 September 2026).** "Core Strategy policy CS.8 does not align with the new NPPF HE policies and so I afford it limited weight in my assessment of this application" (p.4).
+- ✗ **Ilmington, 26/01399/PIP.** The same wording, ending "I consider that CS.8 and HA.1 are materially inconsistent with the NDMPs of the Framework" (p.5). The report then refused partly for conflict with CS.8 (p.11).
+
+### What the Framework and the Core Strategy say
+
+> **CS.8(B)** Where proposals will affect a heritage asset, applicants will be required to undertake and provide an assessment of the significance of the asset using a proportionate level of detail relating to the likely impact the proposal will have on the asset's historic interest.
+>
+> **HE5(1)** Development proposals affecting heritage assets should be accompanied by an assessment of the significance of the assets affected (including any contribution made by their setting) and of the potential effect of the proposal on their significance.
+>
+> **Annex A(2)** Development plan policies (or parts of those policies) which are materially inconsistent with national decision-making policies in this Framework should be given very limited weight. … Other development plan policies … should not be given reduced weight simply because they were adopted prior to the publication of this Framework.
+
+- HE5 does add more detailed criteria. But CS.8(B) already requires an assessment of significance "using a proportionate level of detail relating to the likely impact", and none of the reports explains why the extra criteria make CS.8 materially inconsistent rather than simply supplemented.
+- CS.8's test for harm short of substantial, that "this harm must be justified and weighed against the public benefits of the proposal, including securing its optimum viable use", is consistent in substance with HE4(2) and HE6(4).
+- Annex A(2) works part by part. The clearest difference between CS.8 and the Framework is its test for substantial harm: CS.8 requires substantial public benefits and efforts to sustain the existing use, where HE6(5) accepts either route. None of the reports identifies which part of CS.8 it considered inconsistent.
+- The weight given to CS.8 did not decide any of these outcomes, because HE6 and the 1990 Act apply directly.
+
+**Correct approach:** give CS.8 weight except for any part that conflicts with the Framework, and state which part that is.
+
+**How inspectors have decided the same question**
+
+- ✓ [6006475, Water Lane, Smarden](https://appeal-planning-decision.service.gov.uk/comment-planning-appeal/appeals/6006475): "Policy HOU5 remains consistent with the broad thrust of the Framework" (¶66).
+- ✓ [6007541, 7 Vicarage Mansions, Queenstown Road, Wandsworth, dismissed 9 September 2026](https://appeal-planning-decision.service.gov.uk/comment-planning-appeal/appeals/6007541): heritage, design and building-height policies of the Wandsworth Local Plan 2023–2038 (LP1, LP3, LP4 and LP5): "There is no substantive basis to regard them as materially inconsistent with national policy, and they therefore attract full weight" (¶4).
+- ✓ [6008785, Hook-a-Gate](https://appeal-planning-decision.service.gov.uk/comment-planning-appeal/appeals/6008785): local policies are "consistent with the Framework in requiring development proposals to respond to their context" (¶39). The same decision gave the conflict with the spatial strategy moderate weight "considering the lack of a 5-year housing land supply" (¶38), a reduction Annex A(2) does not itself provide for.
+
+## 4. Location shortcuts in the Green Belt
+
+**In short.** At Kings Langley the inspector judged a washed-over site under the Green Belt tests, S5(5) *(correctly)*. Tanworth used the S5(1)(j) "existing settlement" test and Earlswood relied on the built-up area boundary alone *(incorrectly)*.
+
+**What happened.**
+
+- ✗ **Tanworth-in-Arden, 26/00918/PIP (committee 9 September, notice 11 September 2026).** Tanworth-in-Arden is washed over by the Green Belt. The adopted Core Strategy records that "The settlements of Alcester, Henley and Studley are excluded from the Green Belt" (¶4.1.3), and Tanworth-in-Arden is one of the villages the emerging South Warwickshire Local Plan proposes to exclude (Green Belt Exceptional Circumstances Topic Paper, version 2, July 2026, ¶176). The report named the test it was applying, "NDMP S5.1, Part J (Principle of development outside settlements)" (p.8), and found that "the development would be well-related to an existing settlement and would be of a scale that the local settlement could accommodate" (p.9). It went on to assess the scheme under GB7, and this did not change the outcome. The Snitterfield report took the same first step (p.9).
+- ✗ **Earlswood, 26/01458/FUL (granted 3 September 2026).** Only part of the site was inside the built-up area boundary: "Some of the applications site, specifically the area where the dwelling itself is proposed, falls within the BUAB" (p.4), and "The majority of the proposal is contained within the BUAB" (p.5); the access drive and the front and side garden are outside it. Limb (iii) of GB7(1)(g) was passed as follows: "Considering the location of the dwelling, within the BUAB of an identified local service village, I am satisfied that the proposals would be in a sustainable location" (p.9). The report does not assess the route to services against TR3.
+
+### What the Framework requires
+
+> **Annex B, "Settlement"** … For the purpose of this Framework they also exclude villages which lie within and are defined as part of the Green Belt in the development plan.
+>
+> **GB7(1)(g)(iii)** The development would be in a sustainable location, with particular reference to policy TR3 of this Framework
+>
+> **TR3(2)** The Connectivity Tool (Connectivity Tool - GOV.UK) should be used alongside other relevant quantitative or qualitative evidence in assessing the connectivity of particular locations proposed for development.
+
+- S5 "does not apply to development proposals in the Green Belt" (S5(5)), so the S5(1)(j) test is the wrong one. Annex B also means a washed-over village is not a "settlement", so S4 cannot apply either.
+- A built-up area boundary is a policy line. GB7(1)(g)(iii) asks about the location with reference to TR3, which calls for evidence about how residents would travel.
+- The Tanworth report did assess the walking route to the village, in its S5 and TR3 section (p.9), and relied on that for GB7(1)(g)(iii): "As set out above, it is acknowledged that there are pavements linking the site to the rest of the village" (p.13). Earlswood did not assess its route.
+
+**Correct approach:** apply GB6 and GB7 directly in the Green Belt, and assess limb (iii) on the facts of the route and the services.
+
+**How inspectors have decided the same question**
+
+- ✓ [6011803, 126 Toms Lane, Kings Langley](https://appeal-planning-decision.service.gov.uk/comment-planning-appeal/appeals/6011803). The council argued the site was within the built-up area, so S4 applied. The inspector noted "the site is designated in the Local Plan as being washed over by the Green Belt" (¶18) and applied S5(5) (¶17), adding that the result would be the same under S4 (¶19).
+
+## 5. Walking routes and stations
+
+**In short.** Inspectors decide location on the route, the services and the transport for all users, and a station 350 m away did not save Hatton *(correctly)*. Tanworth leaned partly on residents coping, Earlswood assessed no route at all, and both treated the village's category as evidence of a sustainable location *(incorrectly)*.
+
+**What happened.** No two SDC decisions reach opposite results on comparable routes. That is not because the routes were tested as TR3 expects: none of the reports reviewed uses the Connectivity Tool, and the reports lean on existing use or on the village's category.
+
+- **Snitterfield, 26/00617/PIP.** The committee report accepted "some harm that pedestrians will have to walk on the public highway" (p.9). The Update Report for the 9 September committee corrected this, because "the application proposes a footpath onto Park Lane": "the centre of the village and services can be reached entirely on made footpath and do not require any pedestrians to walk in the public highway" (minutes and Update Report p.5).
+
+- ✗ **Tanworth-in-Arden, 26/00918/PIP.** The report accepted that "some sections of that walk do not benefit from pavements", noting pavements in front of the site, a walk of about 400 m, and that "the absence of pavements is for very short lengths only and on not especially busy roads and where speeds are low", and concluded "Villagers appear to cope with this existing situation without any great trouble" (p.9).
+- ✗ **Earlswood, 26/01458/FUL.** Limb (iii) was passed on the built-up area boundary alone, with no assessment of the route (p.9; see section 4).
+- ✗ **Village category as evidence of a sustainable location.** Earlswood passed limb (iii) because the dwelling lay "within the BUAB of an identified local service village" (p.9). Tanworth reasoned that the village "is a Local Service Village and as such is considered to be a sustainable settlement" (p.13). Both reports passed limb (iii) "despite the identified conflicts with Policies CS.15, CS.16 and AS.10" (Earlswood p.9, Tanworth p.13), the Core Strategy policies that create those categories. The Core Strategy devised the categories "As a means of applying the dispersal approach to future housing development" (¶5.1.9): they rank villages, not the route from a particular site.
+- **The Connectivity Tool.** None of the SDC reports reviewed for this note uses it, although TR3(2) says it "should be used alongside other relevant quantitative or qualitative evidence".
+
+### What the Framework requires
+
+> **TR3(1)(a)** Development proposals which could generate a significant amount of movement, in the context of the area within which they would be situated, should be in locations that are sustainable … This means the location should limit the need to travel, particularly by private car, and offer a genuine choice of transport modes for residents and users …
+>
+> **GB7(1)(g)(iii)** The development would be in a sustainable location, with particular reference to policy TR3 of this Framework
+>
+> **GB7(1)(h)(i)** Be within reasonable walking distance of a well-connected station (applying the definitions in the glossary at Annex B)
+
+- Inspectors decide limb (iii) on the route and what it leads to: distance to services, bus services, and the quality of the route for all users (footway, lighting, width, traffic and speed). At Copthorne and Poynton they also used the Connectivity Tool. The results go both ways on the facts.
+- Existing use of a route is not enough on its own. The Hatton Station inspector found that use can reflect necessity rather than choice, so it does not show a route "is universally perceived as safe".
+- A village's category is not evidence about a route. Inspectors decide on the route even where the village is a recognised service village (Findon and Banks, below). Whether Tanworth's result would survive the inspectors' test is not assessed here. The point is that SDC used a different test.
+- A nearby station does not settle the question. Unless it is a "well-connected station" under Annex B, GB7(1)(h) does not apply, and the station counts only through TR3, where the walk to it is judged like any other route.
+
+**Correct approach:** assess the actual route to services and to any station, for all users, with the Connectivity Tool alongside the route evidence, as TR3(2) says it should be used. Existing use and a village's category do not by themselves show that a location is sustainable.
+
+**How inspectors have decided the same question**
+
+- ✓ [6006637, Land off Oakdene Crescent, Hatton (Warwick), dismissed 23 September 2026](https://appeal-planning-decision.service.gov.uk/comment-planning-appeal/appeals/6006637). The site was about 350 m from a railway station, but "the station does not meet the Framework's definition of a 'well-connected station'" (¶18). "I also accept that the absence of continuous footways does not automatically render Station Road unsuitable for pedestrian use. Nonetheless … Station Road cannot reasonably be regarded as providing a safe route for all users, particularly pedestrians" (¶24). (This is Station Road in Hatton, not Claverdon.) On observed use: "it is likely that at least some journeys arise out of necessity rather than choice. In such circumstances, the recorded levels of activity do not demonstrate that the route is universally perceived as safe" (¶26).
+- ✓ [6010313, Branford Wells, Brickhouse Lane, Newchapel (Tandridge), dismissed 4 September 2026](https://appeal-planning-decision.service.gov.uk/comment-planning-appeal/appeals/6010313). The site is "in a rural area away from settlements, facilities and bus services", on a 40 mph lane that "lacks footways and streetlighting", so "future occupiers of the proposed dwellings would be heavily reliant on private vehicles to access services, and the location would not offer them a genuine choice of transport modes" (¶14).
+- ✓ [6011736, Land adjacent to Oaklands Drive, Copthorne (Tandridge), dismissed 22 September 2026](https://appeal-planning-decision.service.gov.uk/comment-planning-appeal/appeals/6011736). With a mainly unlit route, "journeys on foot and bike would not be attractive to the majority of occupants" (¶7).
+- ✓ [6010471, Land south of Coppice Road, Poynton (Cheshire East), allowed 21 September 2026](https://appeal-planning-decision.service.gov.uk/comment-planning-appeal/appeals/6010471). A permission in principle, the other way on different facts: "a continuous lit footway along a road subject to a 30mph speed limit … it nevertheless provides a safe and attractive opportunity for walking and cycling" (¶18).
+- ✓ [6006900, Land at Rogers Lane, Findon (South Downs National Park Authority), dismissed 18 September 2026](https://appeal-planning-decision.service.gov.uk/comment-planning-appeal/appeals/6006900). A permission in principle. "The nearest settlement to the appeal site is Findon which is a service village" (¶15), but the route was an unlit lane with no footway, and "future residents would likely be highly reliant on private cars for most journeys, irrespective of the precise distance. In this context the proposed development would not be physically well related to the settlement of Findon" (¶17).
+- ✓ [6011231, Caravan, Gravel Farm, 250 Gravel Lane, Banks (West Lancashire), allowed 15 September 2026](https://appeal-planning-decision.service.gov.uk/comment-planning-appeal/appeals/6011231). Banks is "identified in the LP as a 'Key Sustainable Village.'" (¶9), yet "the distance to the nearest services and facilities in Banks would mean that future occupiers of the proposed dwelling would be largely reliant on the private car to meet their day-to-day needs" (¶14). The barn conversion was not inappropriate in the Green Belt, so the poor location counted as harm in the S5(5) balance, and the appeal was allowed on that balance (¶29–32).
+
+## 6. Reports written under the 2024 Framework
+
+**In short.** Inspectors applied the 2026 Framework to appeals already under way *(correctly)*. Coverwell, Kineton and Oxhill kept the 2024 balance *(incorrectly)*, and Coverwell decided the case wholly under the old Framework.
+
+**What happened.**
+
+- ✗ **Land adjoining Coverwell Farm, Pillerton Hersey, 25/01271/FUL (refused 17 August 2026).** The report lists the "National Planning Policy Framework (NPPF) 2024 (revised 2025)" (p.2) and applies the 2024 paragraph 11(d) balance.
+- ✗ **Pittern Hill Riding School, Kineton, 26/01764/PIP (granted 25 August 2026).** The report states "The lack of a 5 year housing land supply triggers NPPF paragraph 11(d)" (p.11) and runs the 2024 test. A closing note says "the balancing exercise undertaken in this report remains generally consistent and that when assessed against both the 2024 NPPF and 2026 NPPF, the decision remains one of GRANT" (p.13).
+- ✗ **Barn adjacent to Stonecroft House, Oxhill, 26/01393/FUL (granted 25 August 2026).** The same closing note (p.10).
+
+### What the Framework requires
+
+> **Annex A(1)** The policies in this Framework are material considerations which must be taken into account in decision-making from the day of its publication.
+
+- The 2026 Framework replaced paragraph 11(d) with policies S3 to S6. Inside settlements S4 applies. Outside settlements and outside the Green Belt, S5(1) lists the kinds of development that "should be approved, unless the benefits of doing so would be substantially outweighed by any adverse effects"; isolated homes go to HO11 (S5(3)); anything else should be approved only in exceptional circumstances (S5(4)). A site partly inside and partly outside a settlement takes S4 and S5 for the relevant parts (S3(2)). Green Belt sites go to GB6 and GB7, and then, if not inappropriate, to the S5(5) balance.
+- The Kineton and Oxhill reports both list the "National Planning Policy Framework (NPPF) August 2026" among the material considerations (Kineton p.2, Oxhill p.1), and both say the report "was written prior to the introduction of the 2026 NPPF" (Kineton p.12, Oxhill p.10). But a note that the old balance "remains generally consistent" does not show which 2026 test was applied.
+- The outcomes of these decisions may well be the same under the 2026 Framework; the point is the reasoning.
+
+**Correct approach:** state the 2026 route (S4; an S5(1) category; S5(3) and HO11 for isolated homes; S5(4); S3(2) for a split site; or GB6 and GB7, then S5(5)) and apply its test.
+
+**How inspectors have decided the same question**
+
+- ✓ Every appeal decision cited in this note applies the 2026 Framework, including appeals made before it was published. At [6006637, Land off Oakdene Crescent, Hatton (Warwick), dismissed 23 September 2026](https://appeal-planning-decision.service.gov.uk/comment-planning-appeal/appeals/6006637), it "was published three days before the Hearing"; the inspector was "suitably content that the parties had sufficient opportunity to familiarise themselves with its provisions" (¶2) and decided the appeal under it.
+
+## Sources
+
+**Stratford-on-Avon District Council decisions** (officer reports, notices and committee papers)
+
+- [26/01376/FUL, 30 Hadrians Walk, Alcester](https://apps.stratford.gov.uk/Eplanningv2/AppDetail/Index/17a0bc82-221b-c690-1c04-08debd514ecb)
+- [26/00617/PIP, Land off Jago Green, Snitterfield: committee report](https://democracy.stratford.gov.uk/documents/s78474/26.00617.PIP%20-%20Jago%20Green%20FINAL.pdf); [9 September 2026 minutes and Update Report](https://democracy.stratford.gov.uk/documents/g6929/Public%20minutes%2009th-Sep-2026%2018.00%20Planning%20Committee.pdf?T=11)
+- [26/01906/PIP, Forest Farm, Long Marston](https://apps.stratford.gov.uk/Eplanningv2/AppDetail/Index/57492042-a67c-c119-4332-08deef0d708e)
+- [26/01399/PIP, Church View, Ilmington](https://apps.stratford.gov.uk/Eplanningv2/AppDetail/Index/0f2bca5c-ccca-cc73-9a29-08debfeff724)
+- [26/00922/FUL, Manor Cottage, Upper Quinton](https://apps.stratford.gov.uk/Eplanningv2/AppDetail/Index/aefe2acf-711b-c143-f2ae-08de96fe52b2)
+- [26/00918/PIP, Butts Lane, Tanworth-in-Arden: committee report](https://democracy.stratford.gov.uk/documents/s78472/26.00918.PIP%20%20Butts%20Lane%20Tanworth%20cttee.pdf)
+- [26/01458/FUL, The Barn, Tithe Barn Lane, Earlswood (postal address Hockley Heath)](https://apps.stratford.gov.uk/Eplanningv2/AppDetail/Index/87b2c02e-9845-ccac-142a-08dec562c6ee)
+- [25/01271/FUL, Land adjoining Coverwell Farm, Pillerton Hersey](https://apps.stratford.gov.uk/Eplanningv2/AppDetail/Index/59e1e438-1a74-c6a3-fa97-08dda288eb6e)
+- [26/01764/PIP, Pittern Hill Riding School, Kineton](https://apps.stratford.gov.uk/Eplanningv2/AppDetail/Index/49ecd725-1646-cc3d-eae3-08dee313bf94)
+- [26/01393/FUL, Barn adjacent to Stonecroft House, Oxhill](https://apps.stratford.gov.uk/Eplanningv2/AppDetail/Index/2083f40e-5098-c989-dbd0-08dec0ac7cc1)
+
+**Appeal decisions** (summary pages, each linking to the Planning Inspectorate case page and decision letter): [6011803](https://appeal-planning-decision.service.gov.uk/comment-planning-appeal/appeals/6011803), [6008785](https://appeal-planning-decision.service.gov.uk/comment-planning-appeal/appeals/6008785), [6008167](https://appeal-planning-decision.service.gov.uk/comment-planning-appeal/appeals/6008167), [6005325](https://appeal-planning-decision.service.gov.uk/comment-planning-appeal/appeals/6005325), [6007221](https://appeal-planning-decision.service.gov.uk/comment-planning-appeal/appeals/6007221), [6008539](https://appeal-planning-decision.service.gov.uk/comment-planning-appeal/appeals/6008539), [6006475](https://appeal-planning-decision.service.gov.uk/comment-planning-appeal/appeals/6006475), [6007541](https://appeal-planning-decision.service.gov.uk/comment-planning-appeal/appeals/6007541), [6006637](https://appeal-planning-decision.service.gov.uk/comment-planning-appeal/appeals/6006637), [6010313](https://appeal-planning-decision.service.gov.uk/comment-planning-appeal/appeals/6010313), [6011736](https://appeal-planning-decision.service.gov.uk/comment-planning-appeal/appeals/6011736), [6010471](https://appeal-planning-decision.service.gov.uk/comment-planning-appeal/appeals/6010471), [6006900](https://appeal-planning-decision.service.gov.uk/comment-planning-appeal/appeals/6006900), [6011231](https://appeal-planning-decision.service.gov.uk/comment-planning-appeal/appeals/6011231).
+
+**Policy and evidence:** National Planning Policy Framework (August 2026); Stratford-on-Avon Core Strategy 2011–2031 (July 2016), policy CS.8, ¶4.1.3 and ¶5.1.9; South Warwickshire Local Plan, Green Belt Exceptional Circumstances Topic Paper (version 2, July 2026), ¶170 and ¶176.
+
+This note compares the reasoning in published decisions with each other, with appeal decisions, and with the text of the Framework and the Core Strategy. It is not legal advice.

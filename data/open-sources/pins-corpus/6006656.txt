@@ -1,0 +1,292 @@
+Appeal Decision
+Site visit made on 29 July 2026
+by E Worley BA (Hons) Dip EP MRTPI
+an Inspector appointed by the Secretary of State
+Decision date: 18 September 2026
+
+
+Appeal Ref: 6006656
+School Road Business Park, School Road, Newton Abbot TQ12 2JU
+•    The appeal is made under section 78 of the Town and Country Planning Act 1990 (as amended)
+     against a refusal to grant planning permission.
+•    The appeal is made by Jamie Bartlett against the decision of Teignbridge District Council.
+•    The application Ref is 24/00446/FUL.
+•    The development proposed is the demolition of unit 3a, alterations to units 3, 6, 7, 8 and 9 and
+     change of unit 3 from tattoo parlour to B2 General Industrial.
+
+Decision
+1.     The appeal is dismissed.
+Preliminary Matter
+2.     The Teignbridge Local Plan 2020-2040 (TLP) was adopted in May 2026, after the
+       submission of the appeal. It replaces the policies in the Teignbridge Local Plan
+       2013-2032 referred to by the Council in its refusal reason. I have therefore
+       assessed the appeal proposal against the policies in the TLP. Opportunity was
+       granted to both parties to comment on whether, and if so how, this adoption
+       affected the proposal.
+Main Issues
+3.     The main issues are the effect of the proposed development on:
+       •   protected species;
+       •   the living conditions of existing occupiers of the nearby dwellings and future
+           occupiers of dwellings that might arise through the redevelopment of other
+           parts of the wider site in the future; and
+       •   housing supply.
+Reasons
+Protected species
+4.     The appeal site, known as School Road Business Park, comprises a range of
+       industrial buildings of varying sizes and designs, the majority of which are currently
+       vacant and/or in a poor state of repair. It is located within Newton Abbot town
+       centre, where the surrounding development includes residential and commercial
+       uses as well as a school.
+5.     The appeal proposal seeks the demolition of one of the units (3a) together with
+       extensions and alterations to units 3, 6, 7, 8 and 9 as part of their refurbishment to
+
+https://www.gov.uk/planning-inspectorate
+Appeal Decision 6006656
+
+
+       provide accommodation that is better suited to the operational requirements of
+       modern businesses. Permission is also sought for the change of use of Unit 3 from
+       a tattoo parlour to Use Class B2 General Industrial use.
+6.     The proposed development includes significant works to the roofs of the buildings,
+       alongside the demolition of unit 3a. Circular 06/20051 sets out that it is essential
+       that the presence or otherwise of protected species, and the extent that they may
+       be affected by the proposed development, is established before the planning
+       permission is granted, otherwise all relevant material considerations may not have
+       been addressed in making the decision. All wild birds are protected under the
+       Wildlife and Countryside Act 1981; and all bat species are European protected
+       species protected under the Conservation of Habitats and Species Regulations
+       2017. A Preliminary Ecological Appraisal was not submitted with the planning
+       application or the appeal.
+7.     Natural England guidance2 sets out that a bat survey is required if a development
+       is likely to negatively affect bats or their roost habitats, where the circumstances
+       listed apply. These include situations where a site contains built structures that
+       provide roosting opportunities for bats, such as buildings that have cracks,
+       crevices and small openings, a roof that warms in the sun with a large roof space
+       for flying or hanging tiles or timber cladding on south-facing walls; and the
+       development site includes or is close to trees that provide commuting, foraging or
+       roosting opportunities for bats. In addition, the advice indicates that a survey
+       should be sought if a development proposal affects buildings that could support
+       nesting birds. This may include a variety of types of buildings with gaps,
+       overhangs, cavities and ledges.
+8.     Thus, while the roofs of the buildings may comprise metal sheeting, fibre cement
+       and/or shallow mono-pitch structures, they nevertheless contain features including
+       gaps, crevices, eaves, cavities between building materials and roof structures
+       which may be suitable for bats or birds. Moreover, such species frequently use
+       buildings that are actively used for commercial, or industrial purposes, and are
+       known to utilise urban environments for roosting, commuting and foraging.
+       Accordingly, the buildings may therefore have some potential for bat roosting or
+       bird nesting due to their construction. This, combined with the presence of mature
+       trees in proximity to the buildings, suggests that there is a reasonable possibility
+       that protected species, including bats or birds, could be present and affected by
+       the proposed development. Consequently, in the absence of an appropriate
+       survey, it has not been demonstrated the proposed development would not be
+       harmful to any protected species, or that any such harm could be appropriately
+       mitigated.
+9.     I appreciate that the planning application was validated by the Council in the
+       absence of a Bats and Birds in buildings Survey Report. My attention is also drawn
+       by the appellant to the Council’s Planning Validation Guidance, which sets out that
+       such surveys are required for applications involving the redevelopment of existing
+       buildings involving specific works, unless located in highly urban areas. Even if the
+       appeal site did fall within an area defined as such on the maps, this would not
+       override the need for such surveys, having regard to relevant regulations and
+       guidance in relation to protected species and the specific circumstances of the
+1
+  Circular 06/2005: Biodiversity and geological conservation - statutory obligations and their impact within the
+planning system
+2
+  Bats: advice for making planning decisions, Natural England
+
+
+https://www.gov.uk/planning-inspectorate                   2
+Appeal Decision 6006656
+
+
+         case. Moreover, notwithstanding the allocation of the site for residential
+         development, the potential presence of protected species is a matter that must be
+         appropriately assessed and addressed through the development process and
+         would not necessarily prevent the site from being developed for housing. I have
+         therefore reached my own conclusions based on the evidence before me.
+10. Considering the above, I find that there is insufficient information to conclude that
+    the proposal would not have a harmful impact on protected species. As such, it
+    would fail to accord with the aims of Policy EN12 of the TLP which seek to protect
+    legally protected species and Policy NANDP3 of the Newton Abbot Neighbourhood
+    Plan 2016-2033, made June 2016 (NP), in so far as it indicates that development
+    proposals should be accompanied by a biodiversity action and management plan,
+    which should include details of mitigation measures and how the site is to be
+    managed to maximise biodiversity.
+Living conditions
+11. The proposal includes the change of use of unit 3, which comprises 2 tattoo
+    parlours across 2 floors, to a B2 General Industrial use. A B2 General Industrial
+    use refers to industrial processes that, by their nature, have the potential to
+    generate impacts such as that may result in impacts such as noise, vibration,
+    odours, fumes, smoke, dust, and other emissions that may affect the living
+    conditions of nearby occupiers. There are residential properties close to the appeal
+    site, including flatted development immediately adjoining unit 3.
+12. The appellant’s Noise Impact Assessment3 (NIA) concludes that the rating sound
+    level would remain below the background sound level during the day and evening,
+    resulting in a negligible likelihood of adverse noise impacts. However, the Council
+    assert that, when applying acoustic feature corrections to the predicted noise
+    levels, having regard to potentially impulsive and intermittent noise characteristics
+    of a B2 use, which may involve handheld power tools or banging and hammering,
+    the calculated rating level may change and be categorised as a Lowest
+    Observable Effect Level and therefore become noticeable.
+13. I am mindful of the appellant’s contention that penalties are not warranted in this
+    case because the potential noise emanating from the site would be low, and the
+    rating level remaining below background levels, having regard to factors including
+    the construction of the building and configuration of openings, boundary
+    treatments and potential uses of the surrounding industrial buildings. However, the
+    appellant’s justification for not imposing the penalties does not appear to be
+    particularly robust, as the end user is unknown and the potential effects cannot
+    therefore be reliably assessed or definitively ruled out.
+14. Nevertheless, the Council say that even when applying the corrections, the
+    proposal would result in a rating level which could be categorised as a Lowest
+    Observable Effect Level. While the Council has raised concerns as to whether the
+    conditions suggested by the Environmental Health Officer would be enforceable
+    and reasonable, no such concern is raised regarding those put forward by the
+    appellant, which it suggests would assist with noise mitigation. On that basis it
+    appears that noise effects could be mitigated, subject to the imposition of suitable
+    planning conditions to agree a noise management plan and restrict operating
+    hours, and no harm to living conditions would arise.
+3
+    Noise impact assessment for Jamie Bartlett by ACT Acoustics dated 13 August 2025
+
+
+https://www.gov.uk/planning-inspectorate                 3
+Appeal Decision 6006656
+
+
+15. In light of the foregoing considerations, I find that the proposed development would
+    not harm the living conditions of existing occupiers of the nearby dwellings or
+    future occupiers of dwellings that might arise through the redevelopment of other
+    parts of the wider site in the future. Accordingly, it would not conflict with the aims
+    of Policies GP1, H12, EC1 and DW2 of the TLP which seek to achieve sustainable
+    development which, among other things, safeguards the living conditions and
+    amenity of current and future occupiers of the area.
+Housing supply
+16. The land forms part of a larger site identified as the Hopkins Lane Opportunity
+    Area, which Policy GC10 of the TLP sets out is allocated for approximately 20
+    homes. There is therefore an expectation that it will come forward for housing in
+    the plan period. While the Council acknowledge that refurbishment of the existing
+    units to support their occupation for business purposes would not prevent the
+    delivery of housing on the site in the future, concern is expressed that the proposal
+    would potentially hinder and likely delay the comprehensive redevelopment of the
+    site and reduce its capacity to deliver the planned number of homes. Further, the
+    introduction of a B2 General Industrial use, which may be incompatible with future
+    residential development on the remainder of the site, could further impede housing
+    delivery.
+17. With the exception of unit 3, the proposal relates solely to alterations to the
+    existing units, the use of which would remain unchanged. While I recognise the
+    proposed enhancement works would be likely to make the buildings more
+    attractive to future occupiers, there is nothing to suggest the buildings would not
+    benefit from permitted development rights for the extension or alteration of a
+    commercial, business or service establishment4, which would make them more
+    attractive to potential occupiers.
+18. The allocation of the wider site for residential development does not prevent the
+    continuation of the existing uses at the site or automatically preclude investment in
+    or refurbishment of existing buildings in policy terms. While I note the appellant’s
+    intention that the site will continue to operate as an industrial estate for the
+    foreseeable future, there is no certainty that this would remain the case for the
+    longer term. As such, and in the absence of evidence that the refurbishment would
+    hinder future residential redevelopment, to prejudice the delivery of the allocated
+    housing site, the proposal, in so far as it relates to alterations to the existing
+    buildings, cannot be assumed to conflict with Policy GC10.
+19. However, the proposed change of use of unit 3, to an alternative business use,
+    would fail to contribute to housing delivery and would therefore conflict with the
+    aims of Policy CG10. That said, given the limited scale and location of the unit, on
+    the edge of the site, and having regard to the flexibility inherent in Policy CG10, in
+    terms of the number of units anticipated to be delivered, the proposal would be
+    unlikely to prejudice the comprehensive redevelopment of the wider allocation in
+    principle. Furthermore, for the reasons given above, the proposal would not
+    generate activity that would adversely affect the living conditions of future
+    occupiers of residential units on the wider site so as to preclude its development
+    for such purposes.
+
+
+4
+ The Town and Country Planning (General Permitted Development) (England) Order 2015 (as amended) Schedule 2, Part 7,
+Class H
+
+
+https://www.gov.uk/planning-inspectorate             4
+Appeal Decision 6006656
+
+
+20. Consequently, while the proposed change of use, to a use other than the allocated
+    residential use, would not strictly accord with Policy CG10, it would be unlikely to
+    have a significant effect upon the overall number of units sought to be delivered or
+    density of residential development across the wider site overall. I therefore
+    conclude that the proposed development would not have an adverse effect on
+    housing supply, and in that regard would not conflict with the aims of Policy CG10
+    of the TLP.
+Other Matters
+21. The proposal would deliver benefits through the redevelopment of the existing
+    business park, facilitating the provision of modern business units of a range of floor
+    areas, which would contribute positively to the local economy. As such, it would
+    accord with relevant policies in that regard, including Policy EC1 of the TLP in so
+    far as it supports business development including the expansion or intensification
+    of an existing business or employment site within a settlement, and Policy
+    NANDP9 of the NP, which welcomes the delivery of workspace within the town
+    which supports and encourages new business creation. The site is also in a
+    location whereby it is accessible without the need to travel by car. Substantial
+    weight is given to the economic benefits of proposals for commercial development
+    which allow businesses to invest, expand and/or adapt, in accordance with Policy
+    E2 1. a. of the National Planning Policy Framework (the Framework).
+22. I recognise the redevelopment of the existing buildings on the site, some of which
+    are in a poor state of repair, would offer benefits in terms of the character and
+    appearance of the site and the area as a whole, which is welcomed by the Council,
+    and to which I attribute moderate positive weight.
+23. Furthermore, the proposal may be compliant with various other provisions of the
+    development plan, including in terms of design and parking provision, however, the
+    absence of harm or conflict with other relevant development plan policies is of
+    neutral weight and does not weigh in favour of the proposal.
+24. Policy S4 of the Framework sets out that development proposals within
+    settlements should be approved unless the benefits of doing so would be
+    substantially outweighed by any adverse effects, when assessed against the
+    national decision-making policies therein. In applying Policy S4, circumstances in
+    which the benefits of approving development are likely to be substantially
+    outweighed by the adverse effects, include situations where the development
+    proposal would fail to comply with one of the national decision-making policies
+    which state that development proposals should be refused in specific
+    circumstances.
+25. National decision-making Policy N2 1. f. of the Framework sets out that, to
+    contribute positively to the natural environment, and support nature’s recovery,
+    development proposals should, among other things, minimise any adverse impacts
+    on biodiversity. In the absence of an appropriate survey to establish the presence
+    or otherwise of protected species, it is not possible to fully assess the impact of the
+    proposed development on biodiversity, including protected species, which is a
+    matter of primary importance. As such, in the absence of any evidence to
+    demonstrate the proposal would not give rise to harm in that regard, the proposal
+    would conflict with Policy N2 of the Framework. Thus, the benefits of approving the
+    development are therefore substantially outweighed by adverse effects in this
+
+
+https://www.gov.uk/planning-inspectorate   5
+Appeal Decision 6006656
+
+
+       case, and the proposal does not benefit from the presumption in favour of
+       sustainable development set out in Policy S3 of the Framework.
+26. While I note the appellant’s frustration with the way in which the Council dealt with
+    the planning application, the Council’s conduct during the application process is
+    not determinative to the planning merits of the case.
+Conclusion
+27. For the reasons set out, I have found that the proposed development would not
+    have an adverse effect on housing supply, nor would it cause harm to the living
+    conditions of the occupiers of the existing or potential future nearby residential
+    properties. However, it has not been demonstrated that it would avoid or mitigate
+    harm to protected species. Accordingly, it would conflict with the development plan
+    as a whole and material considerations, including the provisions of the Framework,
+    have not been shown to carry sufficient weight to indicate that a decision should
+    be taken otherwise than in accordance with it.
+28. The appeal is therefore dismissed.
+
+
+
+E Worley
+INSPECTOR
+
+
+
+
+https://www.gov.uk/planning-inspectorate   6
+

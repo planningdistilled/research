@@ -1,0 +1,237 @@
+ Appeal Decision
+ Site visit made on 3 September 2026
+ by D Cleary MTCP MRTPI
+ an Inspector appointed by the Secretary of State
+ Decision date: 29 September 2026
+
+
+ Appeal Ref: 6009988
+ 56 Burlington Road, New Malden, Kingston Upon Thames KT3 4NU
+ •   The appeal is made under section 78 of the Town and Country Planning Act 1990 (as amended)
+     against a refusal to grant planning permission.
+ •   The appeal is made by Barry Doherty of Odyssey Developments (UK) Ltd against the decision of the
+     Council of the Royal Borough of Kingston Upon Thames.
+ •   The application Ref is 25/02055/FUL.
+ •   The development proposed is described as the demolition of existing building to allow the erection of
+     a 4 storey building to accommodate a replacement commercial unit and 7 flats.
+
+Decision
+1. The appeal is dismissed.
+Procedural Matters
+2. On 17 August 2026, the Government revised the National Planning Policy
+   Framework (the Framework) and this post-dated the planning application and the
+   appeal. The main parties were asked to comment on the relevance of the revised
+   Framework to the appeal, and I have taken into account the comments received in
+   coming to my decision.
+Main Issues
+3. The main issues are the effect of the development on:
+     a) the living conditions of the occupiers of neighbouring properties with particular
+        regard to daylight;
+     b) the living conditions of future occupiers of the development with particular
+        regard to external living space; and,
+     c) highway safety, having regard to parking provision.
+Reasons
+Living Conditions - Neighbours
+4. Adjacent to the appeal site is a block of residential flats known as 52-54 Burlington
+   Road (Nos. 52-54). There are a number of windows within the flank elevation of
+   Nos. 52-54 which face directly towards the appeal site at very close distance. This
+   includes a ground-floor window serving a bedroom (referred to as W15). It is
+   understood that this is the sole opening to that room. As existing, this window faces
+   towards a boundary fence and the existing two-storey building. To the front of the
+
+
+https://www.gov.uk/planning-inspectorate
+ Appeal Decision 6009988
+
+
+
+
+     building is an open forecourt. The open forecourt means that, as existing, the
+     bedroom served by W15 is likely to receive a reasonable level of daylight.
+5. The appeal scheme proposes a three-storey apartment building with further
+   accommodation within a steeply pitched roof space. This would be positioned
+   directly on the boundary line and replacing the existing fence and building. Given its
+   height and massing, the building would appear visually prominent in views from
+   W15. The scale and proximity of the structure, combined with the ground-floor
+   position of W15, means that the development would result in a significant reduction
+   in daylight to the bedroom.
+6. The application was supported by a Daylight & Sunlight Report (DSR) 1. The DSR
+   provides an assessment of the effects of the development on neighbouring
+   properties informed by BRE guidance2. This includes Vertical Sky Component
+   (VSC) and No-Skyline (NSL) tests for daylight, and the Annual Probable Sunlight
+   Hours (APSH) test for sunlight.
+7. In this case the DSR confirms that W15 would experience a 93.7% reduction in
+   VSC, and a 100% loss under the NSL test. These significantly exceed the BRE
+   guidance. As such, the figures presented in the DSR reaffirm the concerns relating
+   to daylight for the room served by W15. The effect on this window would not be
+   marginal. The magnitude in the loss of daylight for the bedroom would be
+   substantial and would lead to a gloomy and oppressive internal environment for
+   occupants of that property. When considering the effect on daylight to a habitable
+   room, there is no compelling evidence before me to suggest that a bedroom should
+   be treated as a less sensitive space.
+8. The Council also raise concern with the effect on three flank-facing windows within
+   Nos. 52-54 at second floor level serving an open-plan kitchen/dining room. These
+   would also face the appeal development at very close proximity. The submitted
+   evidence indicates that these windows would fall below the accepted BRE standard
+   for VSC. However, the room is also served by two further openings to the front and
+   rear, and the effect of the development on those windows would remain within
+   acceptable tolerances. As such, I do not find the impact on daylight to this room to
+   be as severe and would, on balance, be acceptable.
+9. I have considered the mirror-image test submitted by the appellant. However, this
+   does not demonstrate that the impact of the appeal scheme would be acceptable.
+   At most, it illustrates the inherent sensitivity of W15 due to its position. It does not
+   follow that the degree of harm arising from the proposed massing should be
+   regarded as tolerable. In any event, there is no compelling evidence that the appeal
+   scheme represents the only feasible redevelopment of the site; alternative forms of
+   development could reasonably achieve a lesser impact on this window
+10. The appellant also relies on precedent of the relationship between a bedroom
+    window within No.50 Burlington Road (No.50) and the recently constructed Nos.
+    52-54. I do not have full details of that approval or any evidence on the effect of
+    Nos. 52-54 on daylight/sunlight to neighbouring rooms. Nonetheless, while I note
+    that the separation between No.50 and Nos. 52-54 would be similar to the appeal
+
+1 Daylight & Sunlight Report, prepared by eb7 (dated 12 January 2026)
+2 Building Research Establishment Report 209, ‘Site layout planning for daylight and sunlight: A guide to good
+
+practice (2022)
+
+
+https://www.gov.uk/planning-inspectorate                      2
+ Appeal Decision 6009988
+
+
+
+
+     scheme, there do appear to be some material differences. Firstly, the appeal
+     scheme would be a taller development than Nos. 52-54 and would have a greater
+     expanse of flank elevation adjacent to side facing windows. Secondly, the window
+     within No.50 is at first floor level, rather than ground floor as in the appeal scheme.
+     Finally, whilst noting that the as constructed layout for Nos.52-54 may have
+     deviated from the approved plans, the floor plans suggest that W15 serves a one-
+     bedroom flat and is therefore the only bedroom for the affected property which, in
+     my view, heightens its sensitivity. The floorplan for No.50, shows it to be a two-
+     bedroom property and the affected room appears to be a small box room.
+     Therefore, based on the evidence before me, I do not find the existing relationship
+     to be so comparable with the appeal scheme to justify the harm that would arise.
+11. Taking all evidence into account, I am not persuaded that the appellant’s
+    assessment demonstrates that the impacts would be acceptable. Although there is
+    broad compliance across the wider building, the severity of the loss to W15 would
+    be substantial. The proposal would result in a marked and harmful reduction in
+    daylight to a habitable bedroom.
+12. For the above reasons, the development would have an unacceptable effect on the
+    living conditions of neighbouring properties with particular regard to loss of daylight.
+    The development therefore conflicts with Policy DM10 of the Royal Borough of
+    Kingston Upon Thames Local Development Framework Core Strategy 2012 (the
+    CS) and Policy D3 of the London Plan 2021 (the LP). Together, amongst other
+    things, these require development to have regard to the amenities of neighbours in
+    terms of daylight and achieve comfortable indoor environments.
+Living Conditions – Future occupiers
+13. The Residential Design Supplementary Planning Document 2013 (the SPD)
+    provides guidance on private and communal amenity space for residential
+    developments. Policy Guidance 13 (PG13) sets out expectations for private
+    amenity space, while Policy Guidance 14 (PG14) states that all new flat
+    developments should provide communal amenity space in addition to the private
+    requirements of PG13. PG14 suggests that 50sqm of communal amenity space
+    should be provided, plus any shortfall arising from PG13.
+14. Flats 1–5 would each be provided with private external spaces ranging between
+    6sqm and 12sqm. Some of these fall below the suggested 10sqm standard
+    (excluding any additional quantum for occupancy). Flats 6 and 7 would not benefit
+    from any private external space.
+15. Neither party has provided a detailed breakdown of the total communal amenity
+    space required. The Council suggests a shortfall of 28sqm, while the appellant
+    considers that the proposed play space (22sqm) should be included within the
+    communal provision calculation. On that basis, they consider that a total of 45sqm
+    of communal amenity space would be delivered.
+16. This falls below the suggested 50sqm identified in the SPD, excluding any
+    additional shortfall that may arise. Nonetheless, I am mindful that the SPD is
+    guidance rather than policy. The play space and communal amenity space are
+    located adjacent to one another and are not fully segregated. They would therefore
+    function as a single usable area, and there is nothing before me to suggest that the
+    play space could not reasonably be included within the communal calculation.
+
+https://www.gov.uk/planning-inspectorate         3
+ Appeal Decision 6009988
+
+
+
+
+17. The space provided would be sufficient in size and proportion to accommodate the
+    essential day-to-day activities expected for future occupiers. While there would
+    likely be a shortfall in provision when assessed against the SPD, the shortfall would
+    not be so significant to result in a poor external living environment for future
+    occupiers of the development.
+18. I am therefore satisfied that the development would not lead to a substandard living
+    environment for future occupiers with regard to external living space. As such, the
+    development complies with Policy DM10 of the CS and D6 of the LP. Together,
+    amongst other things, these require development to deliver adequate private and
+    communal living space for future occupants.
+Parking Provision
+19. The appeal scheme does not propose any off-street parking. Burlington Road is
+    subject to parking restrictions, and nearby residential streets fall within a Controlled
+    Parking Zone (CPZ) where parking permits are in operation. These streets appear
+    to be well saturated. If permits were issued to future occupiers of the development,
+    this would place additional pressure on on-street parking, potentially leading to
+    operational difficulties and highway safety concerns. Although the site is in a
+    sustainable location with good access to public transport, there can be no certainty
+    that future occupiers would not own cars. Without appropriate control, the
+    development could therefore lead to parking issues to the detriment of the local
+    highway network.
+20. The appellant has submitted a signed Unilateral Undertaking (UU) confirming that
+    future occupiers would be prevented from obtaining parking permits. In principle,
+    this would mitigate the potential effects of local parking pressure arising from the
+    development.
+21. The UU includes provision for a Management Monitoring Fee (MMF) payable to the
+    Council. However, the MMF is undefined, and there is no evidence that any fee has
+    been paid. Monitoring is essential to ensure the obligation operates effectively.
+    Without a specified amount, the undertaking is incomplete and the obligation
+    cannot be enforced.
+22. As a result, the submitted UU cannot be relied upon to prevent future occupiers
+    from obtaining parking permits. In the absence of a complete and enforceable
+    obligation, the development would give rise to unacceptable pressure on on-street
+    parking. Accordingly, the scheme conflicts with Policy T6 of the LP and Policy
+    DM10 of the CS, which together seek to manage parking demand and safeguard
+    local highway conditions.
+Other matters
+23. The Local Planning Authority is currently unable to demonstrate a five-year supply
+    of deliverable housing sites. Consequently, the delivery of seven new flats would
+    contribute to addressing this shortfall, a matter to which I attach substantial weight.
+    As the site lies within the defined settlement boundary, Policy S4(1) of the
+    Framework is relevant. This requires that proposals be approved unless their
+    benefits are substantially outweighed by adverse effects when assessed against
+    national decision-making policies.
+
+
+https://www.gov.uk/planning-inspectorate        4
+ Appeal Decision 6009988
+
+
+
+
+24. Turning to the adverse effects, the evidence demonstrates that the massing of the
+    proposed block would result in a severe and significant reduction in daylight to a
+    habitable bedroom window of the neighbouring property. The magnitude of this loss
+    goes well beyond minor urban friction and represents a profound deterioration in
+    living conditions. The proposal therefore conflicts with DM10 of the CS and D3 of
+    the LP, along with the Framework’s decision-making policies (L2 and P3), which
+    seek to ensure acceptable living standards in terms of daylight and sunlight.
+25. In applying the planning balance required by Policy S4, I have given substantial
+    weight to the delivery of seven new homes in an area with an acknowledged
+    housing shortfall. However, the benefits of additional housing cannot outweigh the
+    consequences of creating an unacceptably compromised living environment for an
+    existing resident.
+26. Given the extraordinary magnitude of daylight loss to the affected window, I find
+    that the severe harm to residential amenity represents a compelling and overriding
+    counterweight. In this case, the adverse effects substantially outweigh the benefits
+    when assessed against national decision-making policies as a whole. The proposal
+    therefore fails the test in Policy S4.
+Conclusion
+27. For the reasons given above the appeal should be dismissed.
+
+D Cleary
+INSPECTOR
+
+
+
+
+https://www.gov.uk/planning-inspectorate      5
+

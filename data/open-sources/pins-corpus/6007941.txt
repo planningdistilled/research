@@ -1,0 +1,364 @@
+Appeal Decision
+Site visit made on 8 September 2026
+by H Nicholls MSc MRTPI
+an Inspector appointed by the Secretary of State
+Decision date: 23 September 2026
+
+
+Appeal Ref: 6007941
+Land between 75 and 99 Star Road, Caversham, Reading RG4 5BE
+•    The appeal is made under section 78 of the Town and Country Planning Act 1990 (as amended)
+     against a refusal to grant planning permission.
+•    The appeal is made by Virya Notting Hill Limited against the decision of Reading Borough Council.
+•    The application Ref is PL/25/1020.
+•    The development proposed is construction of a terrace of four 3-bedroom 2.5 storey dwellings,
+     parking, and hard and soft landscaping.
+
+Decision
+1.    The appeal is dismissed.
+Preliminary Matters
+2.    A revised National Planning Policy Framework (the Framework) was published on
+      17 August 2026 and forms a material consideration for decision making purposes
+      from the day of its publication. The parties have been provided with an opportunity
+      to comment on the relevance of the revised Framework so as to avoid prejudice.
+3.    The appellant submitted amended plans at the appeal stage which include smaller
+      rear flat roof dormers. In the context of the Holborn Studio judgement1, I consider
+      that these are relatively minor amendments and as the nature of concerns of those
+      who would normally have been consulted are clear from consultation on the
+      original set of plans, no prejudice would occur by my taking the amended plans
+      into account. I shall therefore determine the appeal on the basis of the plans listed
+      on the decision notice, as well as the amended plans.
+Main Issues
+4.    The main issues in the appeal are:
+       •    whether the site is suitable for the proposed development, having regard to the
+            risk of flooding, and whether future occupiers would be safe from flood events;
+       •    whether the scheme would be well designed, having regard to the scale, bulk
+            and appearance of the dwellings; the adequacy of amenity space; and the
+            protection and/or provision of trees and landscaping;
+       •    whether safe access and egress could be provided;
+       •    whether the scheme would provide an adequate contribution towards
+            affordable housing; and
+       •    the effects of the scheme on biodiversity.
+
+
+1.   Holborn Studios Ltd v CLBH [2017] EWHC 2823
+
+https://www.gov.uk/planning-inspectorate
+Appeal Decision 6007941
+
+
+Reasons
+Flood Risks
+5.       The River Thames is approximately 550m south of the site and thus, the appeal
+         site lies within Flood Zone 3a which has a high probability of flooding. A residential
+         use is classified as a ‘more vulnerable’ use in this context. The Framework
+         indicates that development of the type proposed will only be appropriate in such
+         locations subject to satisfying the sequential test and the exception test. I take
+         each of these in turn below.
+Sequential Test
+6.       The aim of the sequential test is to steer new development to areas with the lowest
+         risk of flooding from any source. The area to which the test is applied should not
+         be greater than the anticipated catchment of the development in terms of its likely
+         occupiers or users. In this case, the submitted Sequential Test2 extends to the
+         Caversham ward of Reading (a suburb of the town). As a non-major housing
+         scheme, the Planning Practice Guidance (PPG) supports the search area being
+         restricted to a specific area of a town or city in which the proposal is to be located.
+         As such, the focus on the area of Caversham is acceptable in this instance.
+7.       The submitted Sequential Test refers to a number of sites sourced from the
+         Reading Housing and Economic Land Availability Assessment 2024 (HELAA). The
+         majority of the sites were discounted, largely owing to their incomparability at
+         double or greater than the appeal site’s size at 0.06ha. This is understandable as
+         disaggregation of the sites would be unlikely. Despite that HELAA site references
+         CA002, CA003 and CA004 were discounted as not sequentially preferable, they
+         are also all at least double the size of the site when a more appropriate range
+         would be around 0.03 – 0.09ha in area.
+8.       The potential alternative site identified through sales marketing databases at an
+         address at Upper Warren Avenue in Caversham is comparable to the appeal site
+         in size, at 0.07ha, and is within Flood Zone 1. The commentary of the Sequential
+         Test explains the numerous policies and developability constraints that result in
+         this site being discounted, despite its sequential preferability in flood risk terms. I
+         concur that the findings in respect of this site are sound.
+9.       The PPG suggests that Councils may wish to keep an up-to-date register of
+         reasonably available sites clearly ranked in flood risk preference to provide
+         certainty for developers and to save time. No such list appears to exist and the
+         Council does not appear to have identified any reasonably available sequentially
+         preferrable sites. As such, given the lack of cogent evidence to the contrary, there
+         do not appear to be any alternative sites genuinely appropriate for the
+         development within the search area which are reasonably available and at a lower
+         risk of flooding. This means that the appeal scheme passes the Sequential Test.
+         Exceptions Test
+10. The Exception Test is to be informed by a site-specific Flood Risk Assessment
+    (FRA) and involves demonstrating that the development would provide wider
+    sustainability benefits to the community that outweigh the flood risk; would be safe
+    for its anticipated lifetime in accordance; and would not increase flood risk
+2
+    STM Environmental, date 14/07/25
+
+
+https://www.gov.uk/planning-inspectorate     2
+Appeal Decision 6007941
+
+
+         elsewhere (and, where possible, would reduce flood risk overall). I return to th
+         wider sustainability benefits further below.
+Safety Considerations
+11. The proposed floor levels of the houses would be raised 300mm above the flood
+    level to 38.00m Above Ordnance Datum (AOD). In addition to the raising of the
+    floor levels, the following measures are proposed to make the development safe
+    over its lifetime:
+     • flood resistant construction materials and services placed as high as
+        practicable to reduce impact of flooding;
+     • occupants to sign up for Environment Agency (EA) Emergency Flood Warning
+        Direct Service and utilise safe refuge on upper floors of the building when
+        needed; and
+     • creation of underfloor voids to minimise the flood plain displacement.
+12. Much detail is provided about the means of construction to reduce the impacts of
+    flooding with which I take no particular issue. The use of the EA Flood Warning
+    Service would be logical. In a flood event, occupiers would need to decide whether
+    to take refuge in higher areas of the dwellings (via internal staircases) or evacuate
+    to safer areas beyond the flood, subject to risk levels and the flood event duration.
+13. The submitted evidence details that occupants would be able to go to an area of
+    Flood Zone 1 via a 5-minute walk north to Henley Road via Donkin Hill. The site
+    and immediate surroundings would be subject to flood waters that constitute a
+    ‘danger for most’ people and the flood hazard rating would therefore be
+    ‘significant’. Beyond this area, occupants would need to pass through a similarly
+    sized area at ‘danger for some’ at a moderate risk of flooding, and then into lower
+    risk areas. However, limited information is provided on flood depths or durations to
+    give an indication as to how long people may need to take refuge in preference to
+    passing through flood waters and whether this would be practicable. Taking these
+    aspects into account, I am not satisfied that the development would be safe for its
+    intended occupiers over its lifetime.
+Displacement of Flood Risks
+14. In terms of the creation of underfloor voids, the ground level of the site ranges from
+    36.51m AOD (northwest) to 36.91m AOD (southwest). The development would
+    increase the built-up area by 282 square metres (sqm) and would therefore
+    displace flood waters during the 1% annual exceedance probability event (AEP)
+    with increased allowance for climate change (31%). The development would
+    displace a total of 253.8 cubic metres of floodplain storage. The provision of
+    compensatory flood storage on a level-for-level basis is explained as not being
+    possible due to existing ground levels, hence the intention to use underfloor voids.
+15. Appendix 2 of the Council’s Statement of Case is a response from the
+    Environment Agency3 (EA). The EA justifies its support for two local schemes
+    which utilised voids for compensatory storage in 2021 and 2022, prior to a change
+    in the Planning Practice Guidance (PPG) in August 2022 which was changed to
+    indicate that: “[voids] should not normally be relied upon for compensating for any
+    loss of floodplain storage. This is because voids do not allow water to freely flow
+
+3
+    Dated 3 June 2026
+
+
+https://www.gov.uk/planning-inspectorate   3
+Appeal Decision 6007941
+
+
+         through them, trash screens get blocked, voids get silted up, they have limited
+         capacity, and it is difficult to stop them being used for storing belongings or other
+         materials4. This paragraph of the PPG has not changed since August 2022. This
+         explains the alleged inconsistency of the EA. It was based on a material change in
+         circumstance that occurred in August 2022 and it would be a retrograde step to
+         revert to the use of such techniques without appropriate justification. No
+         justification is offered in this instance.
+16. Therefore, the use of voids is no longer an acceptable means of providing
+    compensatory flood storage for sound reasons and, as a consequence, the
+    development would increase flood risks elsewhere.
+Flood Risk Conclusions
+17. On this main issue, whilst I consider that the sequential test has been passed,
+    there is insufficient evidence to indicate that the development would be safe over
+    its lifetime and that it would avoid increasing the risk of flooding elsewhere. The
+    proposal therefore conflicts with Policy EN18 of the Reading Borough Local Plan
+    (2019) (Local Plan) and with the Framework and PPG.
+Design
+18. The plot is currently relatively open, albeit overgrowing with scrubby vegetation,
+    within its close boarded, timber fence enclosure. The infilling of the plot with a form
+    of development would erode its openness but, given the pattern of development in
+    the area, this in itself may not cause harm. The acceptability of such a change is
+    scheme specific.
+19. In this case, the proposal is to construct a terrace of four dwellings across the site,
+    with limited frontages for parking and access and main gardens to the rear. The
+    ground floor levels would be elevated to provide the underfloor flood storage voids,
+    so would provide stepped accesses. The accommodation would be built across
+    three levels, with second floor accommodation set within the roof and constrained
+    in height in some areas, particularly with the reduction of the sizes of the rear
+    dormers. The dwellings would have a uniform appearance across the terrace and
+    would share a limited palette of materials, including brick and tiles.
+20. The terrace would extend the full width of the frontage of the site, would extend a
+    large proportion of the depth of the sites at ground floor level and the terrace would
+    be relatively tall taking account of its elevation relative to ground levels and three
+    floors of accommodation. Taken together, the collective bulk and massing of the
+    terrace would be ungainly relative to the modest size and configuration of the plot.
+21. Whilst terraced forms of housing with general consistency of scale, materials and
+    detailing feature in the area, the proposed dwellings would be inelegant and would
+    be exacting replicas of one another. Rather than provide an attractive rhythm to
+    the streetscape, the degree of repetition of and limited range of materials would be
+    harmful to the character and appearance of the area. Furthermore, whilst the
+    existence of relatively plain flank walls may feature elsewhere in the surrounding
+    area, the large blank north flank wall would be a disappointing feature of this
+    particular scheme which could have been relatively easily remedied, such as
+    through the use of windows in the stairwell.
+
+4
+    Paragraph: 049 Reference ID: 7-049-20220825
+
+
+https://www.gov.uk/planning-inspectorate          4
+Appeal Decision 6007941
+
+
+22. It is alleged that the Council does not have precise policy standards on the amount
+    of garden to be provided per dwelling, relative to number of bedrooms and type.
+    However, the supporting text to Policy H10 of the Local Plan sets out that gardens
+    should be around the same size as the gross footprint of the dwellings they would
+    serve. The proposed gardens would not achieve the suggested proportions. The
+    gardens of the northernmost dwelling and two mid-terraced houses would be
+    particularly mean relative to the size of the houses that they would serve, hemmed
+    in by the built form of the dwelling, the boundary fence and proposed internal line
+    of trees intended to soften it. The largest garden of them all would serve a larger
+    dwelling and its extra space would be within close proximity of evergreen trees in
+    the adjoining garden. Whilst the existing trees would be capable of being protected
+    through construction phase by way of a planning condition, there would be a
+    degree of shading from the trees which would negate some of the quality of the
+    extra space.
+23. The planting of the trees against the rear garden boundary line would, if
+    established to a reasonable height, provide some softening of the built form and
+    between the relatively close back to back arrangement between the proposed
+    terrace and neighbouring dwellings to the rear. This feature would be the only
+    meaningful provision of soft landscaping. The degree of impact from shading and
+    leaf litter from these trees would be species-dependant, but their incursion into the
+    poorly-sized gardens would further detract from the available space and
+    functionality.
+24. In view of the above and having regard to the various contributing factors, the
+    scheme would not be well designed and thus conflicts with, in particular, policies
+    CC7, H10, and EN14 of the Local Plan. Collectively, these policies seek for
+    development to be of a high design quality that maintains and enhances the
+    character and appearance of the area; ensures that dwellings are provided with
+    functional private or communal open space and that new development makes
+    adequate onsite provision for tree retention, planting and maintenance.
+Safe Access and Egress
+25. The frontage of the site is relatively tight and cars often park along the street, and
+    on the footway on the frontage to the site. The street is subject to a 30mph speed
+    restriction. The scheme proposes individual parking spaces to the front of each
+    dwelling.
+26. A comprehensive site plan was requested to illustrate the vehicle access in the
+    context of street signage, the location of the telegraph pole on the site’s boundary
+    and steps, walls and storage areas adjacent to the parking areas that could
+    obstruct visibility. The appellant offers to provide the requisite visibility splays by
+    way of condition, whereas the Council indicate that a condition would not be
+    appropriate given that is uncertain whether acceptable visibility splays could
+    actually be achieved.
+27. In the absence of cogent evidence to the contrary, I can only conclude that the
+    scheme would not provide safe access and egress and would, thus, cause
+    prejudice to the safety of highway users contrary to, in particular, Policy TR3 of the
+    Local Plan which seeks to ensure that accesses and works to the highway comply
+    with adopted standards and would not be detrimental to the safety of highway
+    users, including pedestrians and cyclists.
+
+
+https://www.gov.uk/planning-inspectorate   5
+Appeal Decision 6007941
+
+
+Affordable Housing
+28. Policy H3 of the Local Plan requires developments to make appropriate
+    contributions towards affordable housing. For schemes of 1 to 4 dwellings, a
+    financial contribution will be made that will enable the equivalent of 10% of the
+    housing to be provided as affordable housing elsewhere in the Borough. The
+    Affordable Housing Supplementary Planning Document (2021) (AH SPD)
+    supplements Policy H3 and sets out that the 10% contribution will equate to 5% of
+    the gross development value (GDV).
+29. The appeal scheme was submitted with a Financial Viability Appraisal5 which
+    indicates that the scheme would not be financially viable and thus, could not offer
+    the requested 10% contribution. In subsequent correspondence, it is confirmed
+    that despite varying the target profit to a lower amount, the development would still
+    not be financially viable, but that the appellant would consider negotiating an
+    alternative contribution towards affordable housing. Policy H3 provides for such
+    scenarios, indicating that where schemes fall short of the policy target as a result
+    of viability considerations, an open-book approach will be taken and the onus will
+    be on the developer/landowner to clearly demonstrate the circumstances justifying
+    a lower affordable housing contribution.
+30. Notwithstanding the appellant’s engagement in the open book process to a point,
+    no such legal undertaking providing for a viable affordable housing contribution
+    was submitted prior to the decision being made on the appeal application and nor
+    has one been submitted and justified with the appeal. Thus, I can only conclude
+    that the scheme conflicts with the requirements of Policy H3 of the Local Plan and
+    also fails to accord with guidance in the AH SPD.
+Biodiversity
+31. Local Plan Policy EN12 requires no net loss of biodiversity and enhancements
+    where possible. Biodiversity Net Gain (BNG) also became mandatory in 20246.
+    The development would be subject to the statutory Biodiversity Gain Condition as
+    it is not exempt from mandatory BNG requirements.
+32. The Preliminary Ecological Appraisal, Statutory Biodiversity Metric Calculation
+    Tool and Biodiversity Net Gain Plan Report7 submitted with the appeal application
+    highlight that the development would result in the loss of 0.06ha of mixed scrub
+    habitat which is of medium distinctiveness and in moderate condition. This habitat
+    type and condition is equivalent to 0.45 area habitat units. To offset the effects and
+    to deliver a 10% gain in habitat units, the appellant intends to purchase 0.54
+    habitat units off site.
+33. Whilst the Council’s case is that the scheme could have provided larger gardens
+    and/or an area of shared public open space to retain more of the onsite habitat, I
+    do not consider that it would be able to do in any meaningful way even if the
+    dwelling sizes were modestly reduced. Whilst the site may offer relatively valuable
+    habitat in the context of an urban environment, to insist upon the retention or
+    creation of onsite habitats on such a constrained, modestly-sized infill site would
+
+5
+  August 2025
+6
+  Through Schedule 7A (Biodiversity Gain in England) of the Town and Country Planning Act 1990, inserted into the 1990 Act by
+Schedule 14 of the Environment Act 2021 (amended by the Levelling Up and Regeneration Act 2023) and The Biodiversity Gain
+(Town and Country Planning) (Consequential Amendments) Regulations 2024
+7
+  ST Environmental, 2025
+
+
+https://www.gov.uk/planning-inspectorate                6
+Appeal Decision 6007941
+
+
+      be unlikely to result in the site being used efficiently or deliver on other necessary
+      priorities, such as space standard-compliant dwellings, gardens and parking areas.
+      As such, the reliance on an off-site solution is understandable and it would not be
+      possible to achieve a better outcome in light of the biodiversity gain hierarchy.
+34. As I consider that BNG condition could be discharged, the development would not
+    result in a loss of biodiversity and would, by implication, also achieve an
+    enhancement, albeit off site. It therefore complies with Local Plan Policy EN12.
+Other Matters
+35. The appellant’s evidence indicates that the Council can only demonstrate a 3.55
+    year housing land supply considered against the relevant requirement in the
+    Framework for a minimum five year supply with appropriate buffer. The Council
+    does not dispute its inability to demonstrate an adequate five year supply of
+    housing land. I take this into account in the planning balance below.
+Planning Balance and Conclusion
+36. In flood risk terms, the development would not be safe for its lifetime and would not
+    avoid the increased risks of flooding elsewhere. The development would not be a
+    high quality of design, would fail to contribute towards affordable housing and
+    would be detrimental to users of the highway network. It would therefore conflict
+    with the development plan when taken as a whole.
+37. Framework Policy S4 (1) sets out that proposals within settlements should be
+    approved unless the benefits of doing so would be substantially outweighed by any
+    adverse effects, when assessed against the national decision-making policies.
+38. The harms identified above raise conflicts with numerous decision-making policies
+    of the Framework, including with Policy F6(1) (b) (ii) in respect of flood risks and
+    (iii) and Policy DP3(2) in respect of design. It is clear therefore, that the
+    development would not provide wider sustainability benefits that outweigh the flood
+    risks, in conflict with Framework Policy F6(1) (b) when read as a whole.
+39. The site is sustainably located within a settlement. The scheme would make an
+    efficient use of land and make a modest, yet valuable contribution to the housing
+    stock in the context of an acknowledged housing land supply shortfall. As such,
+    these aspects collectively attract great weight in favour of the scheme.
+    Additionally, the scheme would provide for adequate BNG and provide the usual
+    construction phase economic boost to the area which also weigh modestly in its
+    favour.
+40. However, the benefits of approving the development would be substantially
+    outweighed by the totality of the adverse effects. As such, there are no material
+    considerations, including the Framework, that indicate that a decision should be
+    made other than in accordance with the development plan.
+41. Consequently, the appeal should fail.
+
+H Nicholls
+INSPECTOR
+
+
+
+https://www.gov.uk/planning-inspectorate   7
+

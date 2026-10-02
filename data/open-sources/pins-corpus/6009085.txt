@@ -1,0 +1,248 @@
+Appeal Decision
+Site visit made on 28 July 2026
+by K Mee BA(Hons) MA MRTPI
+an Inspector appointed by the Secretary of State
+Decision date: 17 August 2026
+Appeal Ref: 6009085
+Dovecot Avenue SW, Dovecot Avenue / Pilch Lane, Dovecot, Liverpool L14 7QH
+•    The appeal is made under section 78 of the Town and Country Planning Act 1990 (as amended)
+     against a refusal to grant approval required under Article 3(1) and Schedule 2, Part 16, Class A of
+     the Town and Country Planning (General Permitted Development) (England) Order 2015 (as
+     amended).
+•    The appeal is made by EE UK Ltd and Hutchison 3G UK Ltd against the decision of Liverpool City
+     Council.
+•    The application Ref is 26PT/0694.
+•    The development proposed is described as: an EE/H3G valmont 20m high phase 7 MK2 streetworks
+     pole on root foundation and associated ancillary works.
+
+Decision
+1.    The appeal is dismissed.
+Preliminary Matters
+2.    Concerns have been raised regarding the accuracy of the submitted plans,
+      particularly the position of a neighbouring tree in relation to the appeal site.
+      However, based on my observations during the site visit, I am satisfied that the
+      drawings provide an accurate representation of the existing context.
+3.    Because this is an application for prior approval, the provisions of the Town and
+      Country Planning (General Permitted Development) (England) Order 2015 (as
+      amended) (GPDO) require the local planning authority to assess the proposed
+      development solely on the basis of its siting and appearance, taking into account
+      any representations received. This appeal will be determined on the same basis.
+4.    The Council has referred to a number of development plan policies in its decision
+      notice. However, the principle of development is established by the GPDO as
+      amended, and the provisions of Schedule 2, Part 16, Class A do not require that
+      regard is had to the development plan. I have had regard to the policies of the
+      development plan and the National Planning Policy Framework (the Framework)
+      only insofar as they are a material consideration relevant to matters of siting and
+      appearance.
+Main Issues
+5.    The main issues are:
+           •    the effect of the siting and appearance of the proposed installation on the
+                character and appearance of the surrounding area;
+           •    the effect of the siting and appearance of the proposed installation on
+                nearby trees;
+
+https://www.gov.uk/planning-inspectorate
+Appeal Decision 6009085
+
+
+           •    the effect of the siting and appearance of the proposed installation on the
+                living conditions of the existing occupiers at 123 Pilch Lane (No 123);
+           •    the effect of the siting and appearance of the proposed installation on
+                highway safety; and
+           •    if any harm would occur, whether this is outweighed by the need for the
+                installation to be sited as proposed, taking into account any alternative
+                provision.
+Reasons
+Character and Appearance
+6.    The appeal site occupies part of a wide pavement close to a signalised junction.
+      The locality is mixed in character, comprising small-scale commercial premises
+      serving the surrounding residential area. To the rear of the appeal site lies a large
+      public park, separated by a low metal railing, beyond which are areas of grass,
+      shrubs and a playground. Together with trees alongside the junction, within nearby
+      gardens and along the Pilch Lane park boundary, these features contribute to a
+      verdant setting on this side of the junction.
+7.    The immediate area contains a range of typical highway infrastructure, including
+      street lighting, traffic signals and signage. It also accommodates two
+      telecommunications monopoles on Dovecot Avenue, together with associated
+      ground-based equipment cabinets finished in green. Although the proposed
+      installation would comprise a relatively slim monopole, the number of antennas
+      and associated dishes concentrated on the upper section of the mast would give it
+      a noticeably bulkier appearance. When combined with its greater height, this
+      would increase its visual prominence within the street scene.
+8.    The proposal would also introduce several ground-based cabinets, some of which
+      would be markedly taller than the other nearby cabinets and the adjacent railings.
+      Their siting alongside open railings, where planting is limited and views into the
+      park beyond are available, would interrupt those views, diminish the sense of
+      openness and add to the visual clutter of the area.
+9.    While the finished colour of the proposed cabinets has not been specified, the
+      submitted visualisations indicate that they would be grey. Although a green finish
+      would better assimilate with existing equipment and the park backdrop, which
+      could be secured by condition, it would not overcome the harm arising from the
+      cabinets’ number, scale and siting.
+10. Taken together, the height and bulk of the monopole along with the multiple
+    associated cabinets would add appreciably to visual clutter and would have a
+    harmful effect on the character and appearance of the immediate area.
+    Consequently, I find that the proposed development would cause harm to the
+    character and appearance of the area.
+11. The Council referred to Policy STP4 of the Liverpool Local Plan 2013-2033
+    (January 2022) (Local Plan) in their decision notice regarding this main issue, but
+    as this policy does not refer to character and appearance, it has not been
+    determinative.
+
+
+
+https://www.gov.uk/planning-inspectorate   2
+Appeal Decision 6009085
+
+
+Nearby Trees
+12. The nearby dwelling at No 123 contains a tree within the northeast corner of the
+    rear garden which is of a similar height to the proposed monopole, with the tree
+    canopy being around 8m from the appeal site. A row of similar height trees also
+    lines the perimeter of the park along Pilch Lane to the west forming a pleasing
+    aspect and enclosure. A smaller street tree sits on the opposite corner of Pilch
+    Lane and Dovecot Avenue. These all combine to provide a verdant street scene
+    close to the park and residential properties beyond.
+13. The Council does not dispute the appellant’s assertion that the installation of the
+    proposed development would not impact any tree root protection areas or require
+    any nearby trees to be pruned or felled. Based on the distances shown on the
+    plans and my observations from my site visit, I see no reason to disagree.
+14. However, antennas require a clear line of sight to the area they serve, and trees
+    can disrupt coverage. The appellant accepts this constraint in its assessment of
+    alternative sites. Given the height and proximity of nearby trees, I share the
+    Council’s concern that the development could create future pressure for pruning or
+    removal, particularly considering future growth, thereby jeopardising their
+    long‑term retention.
+15. This concern is heightened by the fact that the proposed microwave dishes would
+    sit below the level of adjacent tree canopies. If maintenance of signal quality were
+    to necessitate future tree works, it is likely that both the Council and private
+    landowner would face difficulty resisting such requests. The appellant has
+    provided no substantive evidence to address these concerns or demonstrate that
+    future pruning or felling would not be necessary.
+16. I therefore find that the proposal fails to demonstrate that the nearby trees would
+    be adequately safeguarded, or that their long-term health, stability and survival
+    would not be unduly compromised. Whilst direct physical harm to roots or canopy
+    is unlikely during installation, insufficient evidence has been provided to dispel
+    concerns that the mast's proximity to these trees could give rise to future pressure
+    for pruning or removal in order to maintain signal quality. Such outcomes would be
+    harmful to the trees' long-term health and retention. Moreover, given the positive
+    contribution these trees make to the character and appearance of the area, as
+    outlined above, their loss would result in significant visual harm.
+17. Consequently, the siting and appearance of the proposal would have an
+    unacceptable effect on nearby trees. Insofar as it is relevant, the proposal would
+    therefore conflict with Policy GI 9 of the Local Plan which requires development to
+    be integrated with trees, avoiding conflicts and considering their future growth.
+Living Conditions
+18. The existing dwelling at 123 Pilch Lane shares boundaries with the public park,
+    with its side elevation and garden facing the appeal site. Although the proposed
+    monopole would be visible from the side-facing windows and garden, it would be
+    located around 10 metres from the side boundary. While comparatively tall, its
+    relatively narrow form would allow views around and beyond it to be retained, and
+    outlook from the other elevations of the dwelling would remain unaffected.
+
+
+
+
+https://www.gov.uk/planning-inspectorate   3
+Appeal Decision 6009085
+
+
+19. Consequently, I am satisfied that the development would not appear unacceptably
+    dominant, nor would it result in material harm to the outlook or living conditions of
+    neighbouring occupiers. Furthermore, the proposed cabinets would be screened
+    by the existing solid boundary fence and would not harm the living conditions of
+    neighbouring occupiers.
+20. So far as they are material, the proposal would not conflict with Policy H7 of the
+    Local Plan which seeks to ensure that there is no adverse impact on residential
+    amenity. Accordingly, I conclude that the siting and appearance of the proposal
+    would not result in harm to the living conditions of existing occupiers at No 123.
+Highway Safety
+21. The Council has confirmed that an approved scheme is in place to undertake
+    junction improvements which are required to modernise the traffic signal
+    infrastructure, improve safety for pedestrians and cyclists, and enhance traffic flow.
+    Evidence submitted by the Council demonstrates that the appeal proposal would
+    conflict with these planned works.
+22. Consequently, if implemented, the development would prejudice the delivery of the
+    junction upgrade, particularly given the cost and practical difficulties associated
+    with relocating the proposed equipment. Furthermore, the appellant has not
+    addressed this issue or demonstrated how the proposal could be accommodated
+    alongside the approved highway improvements.
+23. The objectives of the approved junction improvements align with Policies TP1,
+    TP3, TP4, TP5 and TP6 of the Local Plan which collectively seek to improve
+    accessibility by walking and cycling, safeguard transport infrastructure, secure
+    environmental enhancements, and create a safe and attractive pedestrian
+    environment. While the appeal proposal would not in itself conflict with these
+    policies, its implementation would hinder the delivery of the approved highway
+    scheme. In doing so, it would undermine the objectives that those policies seek to
+    achieve.
+Availability of Alternative Provision
+24. The appellant has set out that the proposal is required to replace coverage
+    currently provided from the Ash Grange site, which is to be lost following receipt of
+    a Notice to Quit in advance of the site’s demolition. The development would also
+    support EE’s contractual obligations to provide network services for the emergency
+    services, facilitate the provision of 5G services in the area, and enable site sharing
+    by other network operators.
+25. Local Plan Policy STP4 supports new infrastructure required to deliver national
+    priorities. Paragraph 119 of the Framework advises that advanced, high quality
+    and reliable communications infrastructure is essential for economic growth and
+    social wellbeing. Paragraph 120 of the same document outlines that the number of
+    masts and sites should be kept to a minimum and, where they are required, they
+    should be sympathetically designed. Furthermore, paragraph 122 also requires
+    proposals to be supported by evidence, including exploring mast‑sharing or using
+    existing buildings or structures.
+26. The appellant confirms that no mast-sharing opportunities are available and has
+    assessed 16 alternative sites within the search area. These have been discounted
+
+
+https://www.gov.uk/planning-inspectorate   4
+Appeal Decision 6009085
+
+
+        for reasons including inadequate pavement width, unsuitable proximity to
+        residential properties, potential interference from existing monopoles, lower ground
+        levels, buildings of insufficient height or unsuitable construction for rooftop
+        installation and obstruction by mature trees, some of which appear to be protected
+        by Tree Preservation Orders,
+27. However, I find that the evidence provided does not adequately justify the rejection
+    of sites D1, D2 and D3. While these sites are discounted due to the presence of
+    nearby masts, no evidence has been submitted to demonstrate why similar
+    interference concerns would not also arise from the two existing masts in the
+    vicinity of the appeal site. Furthermore, the reasons for rejecting site D16 are
+    insufficiently substantiated.
+28. Consequently, although I have found that the proposal would not result in harm to
+    the living conditions of the occupiers at No 123, I have found that it would cause
+    harm to the character and appearance of the area, nearby trees and would result
+    in harm to highway safety, based on the evidence provided. While the need for the
+    proposed installation weighs in favour of the appeal, and notwithstanding the other
+    appeal decisions cited by the appellant1, I am not satisfied that less harmful
+    alternatives have been properly explored. For these reasons, I find the siting and
+    appearance of the proposed development to be unacceptable and is not
+    outweighed by the need for the installation.
+Other Matters
+29. The appellant contends that the Council failed to undertake a balancing
+    assessment on the social and economic benefits against the identified harm.
+    However, the GPDO requires the local planning authority to assess the proposed
+    development solely on the basis of its siting and appearance.
+30. I acknowledge that the proposal would not have an adverse impact on traffic
+    generation or car parking in the locality. However, this does not address nor
+    surmount the harms I have identified above.
+31. I note the appellant’s assertion that the Council failed to engage positively with
+    them, to guide development to a preferred form, at the point of the pre-application
+    consultation. However, this criticism carries little weight in my assessment, which
+    has been based solely on the planning merits of the proposal.
+Conclusion
+32. For the reasons given above, I therefore conclude that the appeal should be
+    dismissed.
+
+K Mee
+INSPECTOR
+
+
+
+
+1
+    APP/L1765/W/18/3197522 and APP/N5090/W/20/3261084
+
+
+https://www.gov.uk/planning-inspectorate          5
+

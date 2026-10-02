@@ -1,0 +1,171 @@
+Appeal Decision
+Site visit made on 15 September 2026
+by Richard Snow BA(Hons) DipTP MRTPI
+an Inspector appointed by the Secretary of State
+Decision date: 29 September 2026
+
+
+Appeal Ref: 6010437
+Unit 116, The Burrows, East Goscote, Leicestershire LE7 3XD
+•    The appeal is made under section 78 of the Town and Country Planning Act 1990 (as amended)
+     against a grant of planning permission subject to conditions.
+•    The appeal is made by Mr Don Strang on behalf of Simtec Material Testing against the decision of
+     Charnwood Borough Council.
+•    The application Ref P/25/1892/2 was approved on 14 March 2026 and planning permission was
+     granted subject to conditions.
+•    The development permitted is the retention of ventilation system and 3 no. A/C units in side and rear
+     elevation of building.
+•    The condition in dispute is No3 which states that: Within one moth of the date of this permission, a
+     noise assessment study the the standard of BS 4142, including proposals for mitigation and a
+     timetable for their implementation, shall be submitted to the Local Planning Authority for approval.
+     The noise mitigation measures identified shall be installed in accordance with the approved
+     assessment and maintained on a permanent basis thereafter. (sic)
+•    The reason given for the condition is: To ensure a satisfactory level of amenity for surrounding
+     neighbours in accordance with Charnwood Local Plan Policy DS4.
+
+Decision
+1.     The appeal is allowed and the planning permission Ref P/25/1892/2 for the
+       retention of ventilation system and 3 no. A/C units in side and rear elevation of
+       building at Unit 116, The Burrows, East Goscote, Leicestershire LE7 3XD granted
+       on 14 March 2026 by Charnwood Borough Council, is varied by deleting condition
+       3 and substituting it with the following condition:
+         “3. Unless within three months of the date of this decision the ventilation system
+         is enclosed with the external acoustic surround shown on the approved plans,
+         and in full accordance with those details, use of the ventilation system shall
+         cease.
+         Upon installation, the approved acoustic surround shall thereafter be retained.
+         In the event of a legal challenge to this decision, or to a decision made pursuant
+         to the procedure set out in this condition, the operation of the time limit specified
+         in this condition will be suspended until that legal right has been finally
+         determined”.
+Preliminary Matter
+2.     The updated National Planning Policy Framework (the Framework) was published
+       on 17 August 2026 and is a material consideration in the determination of the
+       appeal. Given that the tests in respect of planning conditions remain materially
+       consistent with the 2024 Framework, the cases of the parties have not been
+       prejudiced by being unable to comment on the revisions.
+
+https://www.gov.uk/planning-inspectorate
+Appeal Decision 6010437
+
+
+Background and Main Issue
+3.     Planning permission was granted retrospectively to retain an external ventilation
+       system and 3no. air conditioning units attached to the rear and side elevations of
+       the appeal premises. The permission included a condition (3) requiring that within
+       one month of the decision, a noise assessment be undertaken and submitted to
+       the council for approval. The condition requires that the assessment identify
+       mitigation measures and a timetable for their implementation, and the subsequent
+       installation of such measures in accordance with the approved scheme and
+       thereafter, be maintained in perpetuity.
+4.     The council has not submitted an appeal statement so I have relied on the content
+       of the original delegated report and the decision notice relating to planning
+       permission ref P/25/1892/2, which indicate that the condition is necessary to
+       ensure a satisfactory level of amenity for surrounding neighbours in accordance
+       with Policy DS4 of the Charnwood Local Plan (2021-37) (the CLP). The appellant
+       advances that the condition is unreasonable and unnecessary as the acoustic
+       surround approved by the planning permission will mitigate the noise generated to
+       an acceptable degree and that the condition should be deleted. I noted at my site
+       visit that whilst the base of the unit has been enclosed in boxing, the acoustic
+       surround shown shrouding the vertical duct on the approved plans had not yet
+       been installed.
+5.     Taking the above into account, the main issue for the appeal is whether the
+       condition is reasonable and necessary in the interests of protecting the living
+       conditions of nearby residents.
+Reasons
+6.     The appeal premises consist of an industrial building used for the testing of
+       materials. It is located within an industrial estate comprising similar units to the
+       west of the village of East Goscote. The nearest residential properties are located
+       approximately 70 - 90m to the east beyond intervening industrial units and a road.
+       The appellant confirms that the ventilation unit was installed in June 2023 at the
+       request of the Health & Safety Executive.
+7.     The evidence suggests that the submission of the retrospective planning
+       application in 2025 followed complaints from residents that noise generated by the
+       fan at the bottom of the vent was audible at residential properties and was causing
+       annoyance to occupiers. The application proposed the shrouding of the ventilation
+       unit with an acoustic surround and details of this mitigation were provided on the
+       submitted plans. The council’s Environmental Health Officer advised that the
+       acoustic surround was likely to reduce noise emissions to some degree and raised
+       no objections to the application.
+8.     Policy DS4 of the CLP requires, amongst other things, development to protect the
+       amenity of people who live or work nearby. The council’s delegated report states
+       that it is considered that the steps, which I have taken to mean the installation of
+       the proposed acoustic surround, will improve noise levels to an acceptable level.
+       Despite this, it states that a condition will be imposed to ‘control this and ensure
+       residential amenity is not significantly affected’. The planning permission did not
+       however include a condition requiring the acoustic surround to be installed within
+       any given timeframe.
+
+
+https://www.gov.uk/planning-inspectorate   2
+Appeal Decision 6010437
+
+
+9.     I accept that it is reasonable, given the requirements of Policy DS4, to seek to
+       protect the living conditions of local residents from a noise generating
+       development. I have some sympathy for the council in that their request for a noise
+       assessment prior to the determination of the application was declined by the
+       appellant. Whilst it was argued that the proposed acoustic surround would
+       adequately mitigate the noise generated, the council had no evidence to
+       demonstrate that this would indeed be the case. In these circumstances, and given
+       that the evidence, including my own observations on site, suggests that the noise
+       generated is audible at the nearest residential properties, I understand the
+       reasoning for the imposition of condition 3 in seeking to protect the living
+       conditions of residents and find therefore, that the condition meets the test of
+       necessity.
+10. The disputed condition required the submission of a noise assessment within one
+    month of the decision on the planning application. Within this month, the appellant
+    would have had to procure an appropriate acoustic consultant, the assessment
+    would need to have been undertaken, mitigation measures would have had to
+    have be identified, and the study then submitted to the council. I find that this time
+    period to comply was unreasonably short in these circumstances. Additionally, the
+    requirement to identify and then install mitigation measures was not contingent on
+    the findings of the required noise assessment, and there was no certainty that the
+    assessment would have found need for additional mitigation once the proposed
+    acoustic surround had been installed. I therefore also find this requirement
+    unreasonable.
+11. Of greatest significance, however, is that the condition did not include any
+    sanction, such as the cessation of the use of the ventilation system, or its removal
+    from the building, should a study not be submitted to the council within that one-
+    month period, and/or the required mitigation measures not be implemented. As a
+    result, it is unclear how the requirements of this condition could be enforced.
+12. Whilst the condition may have been necessary in the interests of protecting the
+    living conditions of nearby residents, the one-month period to submit the study has
+    passed without it having been submitted. The timescale for compliance, and the
+    requirement to provide additional mitigation irrespective of the findings of the
+    assessment are unreasonable. Furthermore, given the retrospective nature of the
+    planning permission, a sanction for not complying with the condition was essential,
+    and without it, the condition is unenforceable. I therefore find that the condition is
+    neither reasonable nor enforceable. Accordingly, it does not meet the tests for
+    planning conditions set out in Policy DM6 of the National Planning Policy
+    Framework. The condition should therefore be deleted.
+13. However, I am mindful that the application proposed the provision of an external
+    acoustic surround which, at the time of my visit, had not been fully installed. Given
+    the reasonable expectation of all parties that the approved surround would assist
+    in mitigating the noise generated, and my findings in respect of the need to protect
+    the living conditions of nearby residents, I have included a condition securing the
+    provision of the approved acoustic surround in the interests of protecting the living
+    conditions of those residents.
+
+
+
+
+https://www.gov.uk/planning-inspectorate   3
+Appeal Decision 6010437
+
+
+Conclusion
+14. For the reasons above, the appeal is allowed and condition 3 of planning
+    permission ref P/25/1892/2 granted on 14 March 2026 is deleted and replaced with
+    the condition set out in my formal decision above.
+
+
+
+Richard Snow
+INSPECTOR
+
+
+
+
+https://www.gov.uk/planning-inspectorate   4
+

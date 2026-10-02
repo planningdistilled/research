@@ -1,0 +1,1916 @@
+Appeal Decision
+Inquiry held on 14 - 23 April 2026
+Site visit made on 17 April 2026
+by Stephen Normington BSc, DipTP, MRICS, MRTPI, FIHE, FIQ
+an Inspector appointed by the Secretary of State
+Decision date: 26 August 2026
+
+
+Appeal Ref: 6002168
+Mytax Farm, 4 Bourbles Lane, Poulton-Le-Fylde, FY6 0PE
+•      The appeal is made under section 78 of the Town and Country Planning Act 1990 (as amended)
+       against a refusal to grant planning permission.
+•      The appeal is made by the Baxter Group Ltd against the decision of Lancashire County Council.
+•      The application Ref is LCC/2023/0030.
+•      The development proposed is the extraction and processing of sand and gravel including the
+       construction of new site access roads, landscaping and screening bunds, minerals washing plant
+       and other associated infrastructure with restoration to mixed grassland, arable/pasture farmland and
+       biodiversity enhancement, using imported inert fill.
+
+Decision
+1.         The appeal is dismissed.
+Preliminary Matters
+2.         The Preesall and Knott End against Quarry Application were granted Rule 6(6)
+           Party status pursuant to the Town and Country Planning (Inquiries Procedure)
+           (England) Rules 2000. The Rule 6 Party participated fully in the Inquiry.
+3.         During the Inquiry the Council and the Appellant agreed an amended description
+           of the proposed development. I have used the amended description in the banner
+           heading above.
+4.         The Inquiry was formally closed in writing on 26 May 2026 following receipt of
+           information that I requested on the final day of the sitting sessions, as set out in
+           Annex C of this decision. This included the submission of a completed planning
+           obligation in the form of a Unilateral Undertaking 1 (UU) pursuant to section 106 of
+           the Town and Country Planning Act 1990 which was signed on 12 May 2026. This
+           makes provision for the submission of a Traffic Management Scheme to the
+           Council. I shall return to the content of the UU later in this decision.
+5.         A Statement of Common Ground (Main SoCG) was provided and signed by the
+           Council and the Appellant on 2 February 2026. This identified that there is no
+           dispute between the Council and the Appellant regarding the current landbank
+           position and supply issues in relation to land won sand and gravel and inert waste
+           backfilling. Matters relating to landscape, agricultural land, archaeology, water
+           environment/flooding and ecology were also not identified as being in dispute.
+           However, matters relating to unacceptable impacts on highway safety, noise, dust
+
+
+1
+    ID48
+
+https://www.gov.uk/planning-inspectorate
+Appeal Decision 6002168
+
+
+        and air quality were identified in the Main SoCG as matters in dispute which the
+        Council intended to defend in the appeal.
+6.      A SoCG signed by the Appellant and the Council in its capacity as highway
+        authority (Highways SoCG) was also provided dated 5 March 2026. This identified
+        that matters of dispute relate to the suitability of the proposed access, vehicular
+        conflict, the route suitability of the local highway network, and the adequacy of the
+        proposed highway mitigation strategy.
+7.      A SoCG in relation to noise impacts (Noise SoCG), signed on 6 March 2026, and a
+        SoCG relating to dust impacts (Dust SoCG), also signed on the same date, were
+        also provided.
+8.      The application was accompanied by an Environmental Statement (ES) prepared
+        pursuant to the requirements of the Town and Country Planning (Environmental
+        Impact Assessment) Regulations 2017 (as amended). The Council considered
+        that further information was required pursuant to Regulation 25 of the EIA 2
+        Regulations (Regulation 25). The requested information was submitted in
+        December 2024 3.
+9.      Having undertaken its own review on behalf of the Secretary of State, the Planning
+        Inspectorate considered that further information was also required pursuant to
+        Regulation 25. The requested further information was provided on 6 March 2026.
+        Having undertaken further review, the Planning Inspectorate considers the
+        submitted ES, as amended and supplemented by the two Regulation 25
+        submissions, to be satisfactory in terms of Schedule 4 of the EIA Regulations.
+        Having considered the overall ES, I am satisfied that it is fit for purpose and
+        identifies the likely environmental effects arising from the application scheme and
+        is satisfactory in terms of Schedule 4 of the EIA Regulations.
+10. During the appeal the Appellant provided a Shadow Habitats Regulations
+    Assessment (sHRA) dated 10 April 2026. This was subject to consultation with
+    Natural England. I shall return to the sHRA later in this decision.
+11. Several amendments were made to the appeal scheme prior to the opening of the
+    Inquiry. These included increases in the height of some soil bunds ranging from
+    0.1m to 1.5m; an increase in the length of a soil bund by 30m in the vicinity of the
+    “Woodlands” garden; changes in the implementation period for the installation of
+    some bunding; provision of acoustic fencing to be placed in three locations; and,
+    potential changes to visibility splays at the junction of the site access road with the
+    B5270 Lancaster Road.
+12. I have considered the extent to which the above changes would be substantive or
+    result in procedural unfairness should I be minded to accept them. It was clear
+    that all parties were aware of these proposed amendments prior to the opening of
+    the Inquiry. They were considered in the evidence of relevant witnesses and were
+    fully discussed in the Inquiry. In my view, the proposed changes do not constitute
+    a fundamental change to the scheme considered by the Council at application
+    stage and in most cases are aimed at mitigating some of the impacts of the
+    proposed mineral extraction operations. Furthermore, given the extent to which
+    they were considered in evidence and discussed in the Inquiry, I do not consider
+
+2
+    CD3.01
+3
+    CD3.02 – CD3.11
+
+
+https://www.gov.uk/planning-inspectorate      2
+Appeal Decision 6002168
+
+
+      that the determination of this appeal based on those amendments would constitute
+      procedural unfairness. As such, I have determined the appeal on the basis of the
+      proposed amendments which are shown on a revised suite of relevant plans.
+13. Prior to my determination of this appeal the Government published a revised
+    National Planning Policy Framework (the Framework) on 17 August 2026 which
+    replaced the previous version. I have taken into account the relevant provisions of
+    the revised version in the determination of the appeal and any references to the
+    Framework in this decision relate to the revised document. In having regard to the
+    matters that are most relevant to this appeal, there are no material changes to the
+    Framework of relevance to the substance of this appeal. Therefore, I am satisfied
+    that no party to this appeal would be prejudiced by the changes to the national
+    policy context.
+Main Issues
+14. Having considered the evidence before me and from what I heard at the Inquiry,
+    the main issues in this appeal are:
+      •      The need for the proposed development with particular regard to the
+             landbank position for sand and gravel and the need for inert waste disposal
+             in the County.
+      •      The effect of the proposed development on highway safety and the free flow
+             of traffic.
+      •      The effect of the proposed development on the living conditions of the
+             occupants of nearby residential dwellings with particular regard to dust, air
+             quality and noise.
+Reasons
+The appeal site and proposed development
+15. The appeal site is located approximately 1km east of Preesall and comprises
+    approximately 20.7 hectares (ha) of generally flat lying agricultural land with some
+    small lakes and a “duck breeding pen”. The proposed mineral extraction area
+    would be approximately 11.9 ha. Arable fields, an isolated farm and residential
+    properties bound the site together with a small number of relatively small-scale
+    commercial businesses including kennels, equestrian uses and a small caravan
+    and camping site.
+16. The site lies approximately 1.5km from the Morecambe Bay and Duddon Estuary
+    Special Protected Area (SPA), the Morecambe Bay Special Area of Conservation
+    (SAC) and the Morecambe Bay Ramsar. It also lies approximately 1.4km from the
+    Lune Estuary Site of Special Scientific Interest (SSSI) and approximately 2.3km
+    from the Wyre Estuary SSSI.
+17. No part of the site is subject to any statutory landscape or ecological designations.
+    However, Phases 2 and 3 are part of a wider Biological Heritage Site known as
+    Pilling Moss/Head Dyke. This covers a large area of farmland being designated
+    for its value for overwintering birds associated with the nearby European sites, with
+    surrounding farmland identified in the sHRA as functioning as supporting habitat
+    for SPA qualifying species.
+
+
+https://www.gov.uk/planning-inspectorate     3
+Appeal Decision 6002168
+
+
+18. The proposed development would comprise the extraction and processing of
+    approximately 500,000 tonnes of sand and gravel from four separate phases at an
+    annual output rate of approximately 100,000 tonnes. The site would be
+    progressively restored using in situ soils and overburden, together with
+    approximately 220,000m3 of imported inert restoration materials. Following the
+    completion of mineral extraction operations (approximately five years), a further
+    two years would be required to complete restoration works thereby giving an
+    overall duration of approximately seven years.
+19. The phases include:
+       • Phase A – Site Enabling Works (approximately 6 months)
+       • Phase 1 – North-western area of site (approximately 18 months).
+       • Phase 2 – North of Bourbles Lane (approximately 6 months)
+       • Phase 3 – East of Bourbles Lane (approximately 18 months)
+       • Phase 4 – Central area including duck pen (approximately 12 months)
+       • Phase 5 – Completion of infilling, processing plant removal and final restoration
+                   (approximately 12 months).
+20. The site would be accessed via a new junction onto the B5270 Lancaster Road
+    approximately 200 metres west of its junction with the A588 Blackpool to
+    Lancaster Road. The proposal would be expected to generate an average of 74
+    two-way heavy goods vehicle (HGV) movements per day (37 in and 37 out) with a
+    maximum of around 120 two-way HGV trips associated with the export of minerals
+    and importation of restoration materials.
+The Development Plan
+21. The Main SoCG confirms that the relevant Development Plan for the appeal
+    comprises the following:
+       •    The Joint Lancashire Minerals and Waste Development Framework Core
+            Strategy Development Plan Document, adopted 2009 (Core Strategy) 4;
+       •    The Joint Lancashire Minerals and Waste Local Plan - Site Allocations and
+            Development Management Policies – Part I, adopted 2013 (Local Plan
+            Part 1)5;
+       •    The Joint Lancashire Minerals and Waste Local Plan - Site Allocations and
+            Development Management Policies – Part 2, adopted 2013 (Local Plan
+            Part 2)6; and
+       •    The Wyre Local Plan 2011-2031, adopted 2019 (Wyre Local Plan) 7.
+22. Local Plan Part 1 sets out the policies by which applications for minerals and
+    waste development will be considered. Local Plan Part 2 shows maps and
+    detailed background information relating to the site-specific policies. The appeal
+    site is not allocated for the extraction of sand and gravel in the Development Plan.
+
+4
+  CD7.01
+5
+  CD7.02
+6
+  CD7.03
+7
+  CD7.04
+
+
+https://www.gov.uk/planning-inspectorate   4
+Appeal Decision 6002168
+
+
+23. The Core Strategy and Local Plan Parts 1 and 2 had plan periods running to the
+    end of 2020. There is disagreement between the main parties regarding the
+    weight to be attached to the policies contained within the aforementioned plans.
+    However, the Council accepts little weight can be attached to the restrictions on
+    new permissions for minerals development set out in Core Strategy Policy CS3
+    (Meeting the demand for new Minerals), Core Strategy Policy CS4 (Identifying
+    Sites and Areas for Mineral Extraction) and Local Plan Part 1 Policy M1 (Managing
+    Mineral Production).
+24. I have considered the weight to be attached to the relevant policies of the
+    Development Plan, and the extent to which any can be considered as being
+    consistent with the National Decision-Making Policies set out in the Framework, in
+    the consideration of the main issues below.
+Need for sand and gravel and inert fill provision
+Need for sand and gravel
+25. The introductory text to Chapter 11 of the Framework states that a sufficient supply
+    of minerals is essential to provide the infrastructure, buildings, green energy and
+    goods that the country needs. Policy M2(a) sets out that the Development Plan
+    should allocate sites and/or identify preferred areas to maintain landbanks of at
+    least seven years for sand and gravel.
+26. The Development Plan does not provide policy support for new sites for the
+    extraction of sand and gravel aggregates. Policy CS3 sets out a provision for a
+    quantum of aggregate minerals and, together with Policy CS4, provides policy
+    support for the release of 4.1 million tonnes (mt) of sand and gravel by 2021.
+    Policy M1 also does not provide any support for new releases of aggregates,
+    including sand and gravel, due to planning permission having been granted at that
+    time for sand and gravel extraction at Runshaw Quarry which were identified as
+    being sufficient to meet the need identified in Policy CS3.
+27. Both main parties recognise that due to the age of the Development Plan more
+    recent information with regard to sand and gravel reserves, landbank provision
+    and future need are required to be considered. In this regard, both main parties
+    have referred to the Council’s Local Aggregate Assessment (LAA) 2023 8, which
+    uses 2022 data, and the North West Aggregate Working Party Annual Monitoring
+    Report 2025 9 (AMR) (using 2024 data).
+28. The LAA sets out that at the end of 2022, Lancashire held approximately 4.46mt of
+    permitted land-won sand and gravel reserves. The LAA notes that the minimum
+    seven year landbank could begin to erode from 2026 in the absence of timely
+    additional provision being granted planning permission. The Officer Report to the
+    Council’s Development Control Committee (Officer Report) recognised that the
+    current position is that the landbank of sand and gravel reserves in Lancashire is
+    around 4.3 million tonnes which is at or slightly above the minimum landbank
+    requirement of seven years.
+29. The North West Regional Aggregate Working Party has identified that the sub-
+    regional apportionment for sand and gravel supply in Lancashire is 440,000 tonnes
+    per year. The supply position was considered in the 2023 LAA which notes that
+8
+    CD7.05
+9
+    CD7.07
+
+
+https://www.gov.uk/planning-inspectorate   5
+Appeal Decision 6002168
+
+
+      sales had reduced considerably due to the closure/exhaustion of reserves at a
+      number of existing sand and gravel quarries and that the remaining operational
+      sites are not capable of producing at the level required to meet the sub-regional
+      apportionment.
+30. The remaining reserves are held in a very small number of quarries with the only
+    active sites being Bradleys Sandpit (Preston) and Lydiate Lane (Leyland). By far
+    the largest proportion of permitted reserves (4.1mt) is held in one site at Runshaw
+    Quarry which is currently non-operational. Planning permission for Runshaw
+    Quarry will expire in July 2026. I have no evidence to indicate whether a new
+    planning application to extend the time period of the permission is to be submitted.
+    Regardless of the status of Runshaw Quarry, I agree with the Appellant that the
+    fact that the vast majority of the Council’s landbank is bound in a single site is itself
+    contrary to the principle of Policy M1(2)(d) of the Framework. Even if the Runshaw
+    site was to commence production, it is subject to an output restriction which limits
+    heavy goods vehicles leaving the site to 60 per day thereby limiting the ability of
+    this site to meet the forecast demand.
+31. If Runshaw Quarry is removed from the landbank, there would be only 0.20mt of
+    permitted reserves. Based on the 10 year average sales rate identified in the LAA
+    of 0.37mt, this leaves the Council with a 0.5 year landbank. The 10 year average
+    sales figure included within the latest AMR of 0.29mt leaves the Council with a
+    0.69 year landbank. If the North West Regional Aggregate Working Party sub
+    regional apportionment for sand and gravel supply in Lancashire of 0.44mt per
+    year is used, this leaves the Council with only a 0.45 year landbank. Therefore,
+    the ability for the County to ensure a steady and adequate supply of sand and
+    gravel aggregates as required by national policy is severely constrained. The
+    Main SoCG confirms that Lancashire faces a critical landbank and supply
+    shortage, aggravated by the closure of a number of quarries and the over reliance
+    on a single inactive site.
+32. The Council is considering a planning application for sand and gravel extraction at
+    Lower Hall Farm near Preston (LCC/2021/0012) with reserves of 3mt which is
+    proposed to be worked at 150,000tpa over 20 years. However, this application
+    has remained undetermined for over five years and appears to have a number of
+    unresolved issues. I have no evidence to indicate when, or if, this application is
+    likely to be determined, and the Council did not seek to rely on this proposal in the
+    evidence regarding the landbank position in the County.
+33. Although not previously considered in the Officer Report or Main SoCG, the
+    Council also identified that other alternative sources of sand and gravel in the
+    County including crushed rock fines, marine dredged aggregates and recycled
+    aggregates could contribute to supply. Whilst I accept that such alternatives can
+    make a useful contribution to aggregate supply, they do not materially alter the fact
+    that a landbank of at least seven years for sand and gravel cannot be
+    demonstrated in the County.
+34. The LAA demonstrates that Lancashire is a net importer of sand and gravel. It
+    predicts, based on housing forecasts, a higher than previous housing requirement
+    annually, and in turn a higher annual requirement for sand and gravel reserve.
+35. The updated standard methodology for calculating housing delivery will also likely
+    result in an increase requirement for sand and gravel. The LAA suggests that the
+
+
+https://www.gov.uk/planning-inspectorate    6
+Appeal Decision 6002168
+
+
+         forecast housing need results in a higher annual apportionment being required to
+         be demonstrated (570,000tpa) than the current sub-regional annual apportionment
+         of 440,000tpa.
+36. The appeal site is located to the east/north east of the settlements of Fleetwood
+    (approximately 3km), Thornton (approximately 5km), Cleveleys (approximately
+    6km) and Poulton-Le-Fylde (approximately 8km) all of which are at the top of the
+    Wyre Local Plan settlement hierarchy, classed as ‘Urban Town’ within Policy SP1.
+    These locations (along with Normoss – a suburb of Blackpool), are to facilitate a
+    planned 48.6% of all residential housing delivery during the plan period to 2031
+    totalling 4,285 dwellings.
+37. The appeal site is located within very close proximity to these areas of planned
+    growth within Wyre. In addition, it is located approximately 10km northeast and
+    approximately 18.8km northwest of the northern suburbs of Blackpool and Preston
+    respectively. Both of these authority areas are also subject to significantly
+    increase annual housing delivery requirements from the Standard Methodology.
+38. Taking the above factors into account, little weight can be attached to the
+    restrictions on new permissions for sand and gravel extraction as set out on
+    policies CS3, CS4 and M1 of the Core Strategy. I am satisfied that there is a
+    critical shortfall in sand and gravel supply in Lancashire, with the County being a
+    net importer of sand and gravel mineral which, in my view, is not a sustainable
+    strategy. The appeal proposals would make an important contribution to the
+    provision of sand and gravel in Lancashire.
+Inert waste material
+39. I have no evidence to suggest that there is any disagreement between the main
+    parties regarding the need for the deposit of inert waste material at the site. The
+    Officer Report identifies that “There is a need to import material to allow the
+    effective restoration of the site, and to permit the restoration of high quality
+    agricultural land. The waste importation aspects of the development are
+    considered to be acceptable in terms of the broad policies for waste
+    management”10. In addition, I have no evidence of any Development Plan policy
+    that would materially preclude sites for inert waste disposal from being brought
+    forward.
+40. Notwithstanding the age of parts of the Development Plan, the Core Strategy and
+    Local Plan Part 1 are the relevant development plan documents for waste
+    management considerations. Core Strategy Policy CS8 focuses on the process of
+    identifying capacity for the management of waste across the plan period. In
+    relation to inert waste, the policy states that: “The capacity and distribution of
+    existing and planned provision for the use and disposal of inert waste in landfill
+    and quarry voids will be assessed as part of the site selection process, to ensure
+    an adequate, available and accessible capacity of sites to handle inert waste.”
+41. Policy WM1 of the Local Plan Part 1 is the development plan policy with regard to
+    construction, demolition and excavation waste arising to be dealt with in the Joint
+    Local Plan area. This identifies that within the most recent six years of the plan
+    period (2016 – 2020), an anticipated 1,093,500 tonnes of residual waste would
+    need to be managed through recovery / landfill operations, including the use of
+
+10
+     CD6.02 – paragraph 70
+
+
+https://www.gov.uk/planning-inspectorate    7
+Appeal Decision 6002168
+
+
+         such waste in the restoration of quarry voids, equating to an average of 218,700
+         tonnes per annum.
+42. It is clear that in order to achieve the restored landform, the importation of
+    restoration materials would be required as there would be insufficient
+    non-marketable quarry material to achieve a suitable final landform. I have no
+    evidence to suggest that the amount of material proposed to be imported into the
+    site would be excessive. In addition, I have no evidence to suggest that the
+    volumes proposed for importation would not available.
+43. As identified above, there are a number of proposed and permitted large-scale
+    development schemes situated in relatively close proximity to the appeal site,
+    including both infrastructure and housing delivery. It is likely that large quantities
+    of inert waste would arise from schemes which would likely need to be managed
+    as close to the source of production as possible.
+44. The Appellant indicates that there are three existing waste management facilities
+    for inert waste within Lancashire 11 clustered to the southern extent of the County
+    and located to the south of Preston, Chorley and Blackburn. The appeal site is
+    located within relatively close proximity to Fleetwood, Thornton, Cleveleys and
+    Poulton-Le-Fylde all of which are settlements positioned at top of the settlement
+    hierarchy for Wyre Council. In addition, the appeal site would provide for the
+    closest inert waste facility for the major settlement of Blackpool, and the northern
+    Lancashire towns of Lancaster, Morecombe and Carnforth.
+45. Although not raised as a matter of dispute on the Main SoCG, the evidence
+    provided by the Council suggests that there is additional inert waste management
+    capacity in the Borough’s of Lancaster, Fylde, Wyre and Preston in addition to that
+    identified by the Appellant. Although the Council has not explicitly set out the
+    implications of these additional sites on the appeal proposals, nor has it identified
+    the precise location of these sites to new planned and permitted development, the
+    overall inference of this evidence would suggest that new inert waste management
+    capacity is not significantly required.
+46. However, the Appellant considers that the additional sites identified by the Council
+    are some distance (by road) from the appeal site ranging from 17km to 31km. As
+    such, there would likely be a relatively considerable haulage distance to access
+    these facilities. In the absence of any detailed assessment by the Council
+    regarding the implications of these additional sites in respect of local waste
+    management capacity and need, I have attached little weight to this evidence and I
+    have no compelling reasons to depart from the agreed position set out in the Main
+    SoCG.
+47. I accept that there is a significant benefit of the appeal site in providing for inert
+    waste capacity relatively close to planned and permitted new development
+    proposals. The use of this material in the restoration scheme, aligns with the
+    ethos of the proximity principle and, in my view, would constitute sustainable
+    development in this regard.
+48. Overall, I have no contrary compelling evidence to suggest that there would be no
+    lack of availability of inert fill. The proposed development would make a useful
+    contribution to the management of exaction waste arising from construction
+
+11
+     PoE Liam Toland – paragraphs 5.52 – 5.53
+
+
+https://www.gov.uk/planning-inspectorate        8
+Appeal Decision 6002168
+
+
+      projects in the locality. I consider that there are no compelling reasons to suggest
+      that the proposed principles of phased working and restoration would not be
+      achieved.
+Conclusion on need
+49. The extraction of sand and gravel from the site would make a much needed
+    contribution to the supply of sand and gravel in the County. It would provide a
+    sustainable source of sand and gravel to the urban areas where most of the future
+    planned development is likely to occur.
+50. I have no substantive and compelling evidence to suggest that there would be a
+    shortage of infill material that would compromise the delivery of the principles of
+    the phased working and restoration or that there would be a delay in the
+    achievement of the proposed restoration scheme.
+51. In conclusion, I am satisfied that there is a demonstrable need for the proposed
+    development to contribute to the future supply of sand and gravel in this part of
+    Lancashire. I have attached significant weight to the identified need for the
+    proposed development in the determination of this appeal.
+Highway safety and the free flow of traffic
+Highways background
+52. The Appeal proposal includes the construction of a new access road into the
+    quarry site off Lancaster Road (B5270), located approximately 250m east of the
+    junction with the A588. Lancaster Road is single carriageway which varies in
+    width from around 5m to 6m and is subject to a 30mph speed limit. The proposed
+    access has been designed to ensure that all HGV movements associated with the
+    development would turn right into the site and left out. There are no footways
+    along this part of Lancaster Road with the carriageway bound by a narrow verge
+    and hedgerow. The closest section of footway is located approximately 300m to
+    the west of the proposed site access.
+53. The proposal would be expected to generate an average of 74 two-way HGV
+    movements per day (37 in and 37 out) over the mineral exportation period. It
+    would also generate a small number of staff trips by car associated with the range
+    of 5 to 11 employees who would be on site per day. As the Appellant is intending
+    to promote sustainable travel means for employees working on the site it is not
+    possible to quantify with any degree of certainty the number of cars likely to be
+    accessing and egressing the site but given that operatives of plant and machinery
+    associated with an extraction site are usually transient workers it is reasonable to
+    assume that there would be a number of cars using the site per day in addition to
+    any maintenance/delivery vehicles.
+54. The Highways SoCG identifies that HGV movements would be routed to and from
+    the B5270 Lancaster Road/A588 junction. Movements would then be split at the
+    junction and the Highways SoCG suggests that it is a reasonable assumption that
+    HGV traffic associated with the development would be distributed 50% east of the
+    site along Head Dyke Lane (A588) and 50% south along Burned House Lane
+    (A588). It also sets out that general delay on the highway network as a
+    consequence of the proposed development is not a concern to the Council in its
+    capacity as highway authority.
+
+
+https://www.gov.uk/planning-inspectorate    9
+Appeal Decision 6002168
+
+
+55. From my observations at my site visits, and from the Council’s evidence 12, I have
+    no compelling reasons to doubt the Council’s view that Lancaster Road is
+    frequently used by equestrian users and organised cycling groups, as well as by
+    individual cyclists.
+56. The Council contend that safe and suitable access to the site is not agreed. There
+    is a potential for vehicle conflict with resulting highway safety concerns; the local
+    highway network is not suitable to safely serve the proposed development; and,
+    the proposed measures to mitigate identified highway risks to an acceptable
+    degree are not adequate.
+57. Lancaster Road also provides pedestrian access to the nearest bus stops located
+    on Head Dyke Lane, approximately 300m east of the site access outside Ranch
+    House, and on Sandy Lane approximately 560m west of the site access outside
+    Willow House. Both stops operate on a "hail and ride" basis and are served by
+    commercial services to Lancaster and Knott End‑on‑Sea via services 88 and 89,
+    as well as several school services (528, 541, 567, 901, 902, 903, 904 and 905).
+    Lancaster Road additionally provides access to a Public Footpath located
+    approximately 165m east of the proposed site access at Pointer Farm and to
+    Bourbles Lane.
+58. The Council has identified the equestrian holdings located in the vicinity of
+    Lancaster Road including those at Pointer Stables (located opposite the proposed
+    site access), Hillfield House (located approximately 100m to the east of the
+    proposed site access), Pointer Farm (located approximately 160 m to the east
+    proposed site access), and Pointer Cottage (located approximately 220m to the
+    east proposed site access) 13. It is clear from the evidence of the interested parties
+    and the Council’s evidence that Lancaster Road is frequently used by equestrian
+    users, particularly to access the local bridleway network.
+Access junction
+59. The site would be accessed via a new priority-controlled junction on the B5270
+    Lancaster Road, with the junction incorporating a traffic‑island arrangement
+    separating the ‘in’ and ‘out’ movements, ensuring that HGVs enter and exit the site
+    from the east, directing all HGV traffic to and from the A588.
+60. The Council considers that visibility splays in both directions of 2.4m (x-distance) x
+    52m (y-distance) are required to ensure that drivers have a safe stopping distance.
+    The required visibility splays are based on the recorded 85th percentile speeds as
+    set out in the agreed traffic survey dated 6 - 12th October 2023 14 and an
+    allowance for wet weather conditions. The Council calculated the necessary
+    visibility splays using the advice provided in paragraph 10.1.5 of Manual for
+    Streets 2 15. The traffic survey found that the recorded 85th percentile dry speeds
+    along Lancaster Road were 37mph in both directions. To allow for wet weather
+    conditions, the Council has used the guidance provided in paragraph 3.1.1 within
+    the Design Manual for Roads and Bridges CA 185 16 which suggests that the 85th
+    percentile speeds should be deducted by 2.5 mph. This means that the wet
+    weather 85th percentile speeds will be 34.5mph. The Council’s evidence provides
+
+12
+   PoE Ryan Derbyshire – Appendix 8
+13
+   PoE Ryan Derbyshire – Appendix 10
+14
+   Highways SoCG
+15
+   CD11.01
+16
+   CD11.02
+
+
+https://www.gov.uk/planning-inspectorate   10
+Appeal Decision 6002168
+
+
+      the calculation methodology to demonstrate how the suggested visibility splays of
+      2.4m x 52m have been determined 17.
+61. The Council contends that using a setback distance of 2.4m, as recommended in
+    Manual for Streets, minimum visibility splays to the west of the access cannot be
+    achieved to allow vehicles to emerge safely due to the presence of hedgerows.
+    The visibility splays that are necessary run over third-party land occupied by the
+    hedgerows and are therefore outside the control of the Appellant and the Highway
+    Authority. Consequently, there is no mechanism to prevent obstructions
+    exceeding 1m in height within the required visibility envelope. Any change to the
+    height of the hedge lies outside the Appellant’s control, meaning that the visibility
+    splays required to achieve a safe site access cannot be delivered with certainty.
+62. The resultant safety issues of the visibility splay not being achieved are identified
+    as vehicles at the access not being able to view approaching vehicles and other
+    road users including pedestrians, cyclists and equestrians with the risk of exiting
+    the site into moving traffic. In addition, the Council expresses concerns that
+    vehicles at the access would not be able to judge safe gaps within live traffic due
+    to potential obstructions, leading for a greater risk of shunt or side impact collisions
+    occurring; and that vehicles may need to creep into the running lane to obtain a
+    view of oncoming vehicles and road users. This would obstruct through traffic and
+    potentially increase the risk of collisions.
+63. The access would be used by all vehicle types including cars when operatives are
+    entering and exiting the site. The Council therefore considers that the vehicular
+    visibility splays should be setback a minimum of 2.4m. Applying a setback
+    distance of 2.4m would result in a residual concern that operatives using smaller
+    vehicles will lack the adequate vehicular visibility to the east of the access to
+    emerge safely. This is because the access is likely to achieve visibility splays of
+    approximately 2.4m x 30m in this direction, which is a shortfall of 28m given the
+    85th percentile speeds.
+64. The Appellant contends that the normal visibility splay requirement for new
+    junctions onto a 30mph road is 2.4m x 43m. It is further suggested that prior to the
+    determination of the planning application the Council had agreed a reduced
+    x-distance of 1.2m to reflect the fact that drivers of HGVs sit much further forward
+    in the cab than car drivers and that other non-HGV use of the junction will be very
+    low. The Appellant is of the view that 1.2m x 43m visibility splays would be
+    suitable for an access used predominantly by HGVs onto a 30mph road.
+65. Notwithstanding the above, the Appellant considers that the Council’s required
+    visibility splays are achievable within land within the Appellant’s control and
+    adopted highway land, subject to cutting back of some vegetation within the
+    highway boundary 18. Subject to these measures 2.4m x 58m visibility splay in
+    both directions is achievable from the access, drawn to the edge of the
+    carriageway.
+66. During the Inquiry a number of drawings were submitted by the Appellant 19 to
+    demonstrate how visibility splays of 2.4m x 49.5m and 1.2 x 43m could be
+    achieved with minimal impact on hedges that are not in the control of the
+
+17
+   PoE Ryan Derbyshire – Appendix 13
+18
+   AppendixJRB7
+19
+   ID34
+
+
+https://www.gov.uk/planning-inspectorate   11
+Appeal Decision 6002168
+
+
+         Appellant. In addition, the plans included stopping sight distances east and west
+         of the proposed access. Furthermore, the Appellant’s highways evidence also
+         suggests that a speed-indicator signage on the eastbound approach to the junction
+         could be funded to help enforce the 30mph speed limit on Lancaster Road.
+67. It is clear that the attainment of the visibility splays suggested by both main parties
+    would require the management of varying stretches of hedgerow, particularly to
+    the west of the access. There was considerable debate in the Inquiry regarding
+    the ownership of the hedge and this whether there was certainty that the hedge
+    could be maintained at height of 1m.
+68. The Council considers that the extent of highway immediately to the west of the
+    proposed site access extends to the root stock of the hedge. My attention was
+    drawn to case law regarding this matter 20. It is contended that firstly a
+    determination must be reached as to whether or not the hedge was grown by
+    reference to the highway. This would usually arise by an act of the landowner to
+    separate his land from the highway and keep his stock from straying onto the
+    highway, but it could arise from actions of a Highway Authority itself in the case of
+    highways which were created under statutory authority or through the acquisition
+    of land for that purpose.
+69. It is the Council’s view that the hedge was grown by reference to the highway. This
+    inference is drawn from the Council having no record of cutting or maintaining the
+    hedges along Lancaster Road, and that the space between the hedgerows on
+    either side would historically have provided the width needed for carts and
+    carriages to pass with there being no available highway space to create a footway,
+    for example. This section of highway predates 1786, when the first highways plan
+    showing this area was produced. This evidence gives rise to the "hedge to hedge"
+    presumption, with the highway being taken to extend to the carriageway side of the
+    rootstock of the boundary hedge. As such, it is contended that the hedges to the
+    east and west of the proposed access do not form part of the highway and are not
+    highway assets but private assets. I observed at my site visit that considerable
+    parts of the hedge on the highways side along Lancaster Road are managed close
+    to the root stock.
+70. The Appellant has made reference to an extract from the Council’s internal
+    mapping software, Mapzone, issued in 2020 showing the indicative highway
+    extents along Lancaster Road. This is purported to suggest that the hedges form
+    part of the adopted highway. However, the information is accompanied by a
+    disclaimer which makes it clear that the extract is indicative only and not definitive
+    evidence of the extent of the adopted highway.
+71. It is clear that the highway authority firmly consider that the hedgerows along the
+    northern section of Lancaster Road in the vicinity of the proposed access do not
+    form part of the adopted highway. Although the Appellant disputes this view, I
+    have no compelling contrary evidence to unambiguously demonstrate that the
+    hedges are part of the highway as opposed to private assets. In these
+    circumstances, the extent to which the hedge may be considered part of the
+    adopted highway can only be resolved by further evidence and potential legal
+    proceedings which are outside the scope of this appeal. In the absence of any
+    compelling evidence to the contrary, I have determined this appeal on the basis of
+
+20
+     Hale v Norfolk CC CA (2001) Ch
+
+
+https://www.gov.uk/planning-inspectorate     12
+Appeal Decision 6002168
+
+
+         the view of the statutory highway authority that the hedges do not form part of the
+         adopted highway.
+72. I have no compelling reason to doubt the Council’s determination of the required
+    visibility splay which is clearly based on the recognised guidance provided in
+    Manual for Streets 2 and the Design Manual for Roads and Bridges CA 185. I
+    have also taken into account the narrow nature of this part of Lancaster Road, as
+    is discussed in more detail below, the fact that the highway has no pedestrian
+    facilities, and the fact that the site will be used by vehicles other than HGVs. In my
+    view, these characteristics and the relevant technical guidance documents lead
+    me to conclude that the required visibility splays of 2.4m x 52m proposed by the
+    Council are necessary in the interests of the safety of all users of the highway.
+73. I have taken into account the various plans showing visibility splays of 2.4m x 58m,
+    2.4m x 43m, 1.2 x 43m, 2.4 x 43m and 2.4m x 49.5m provided by the Appellant.
+    Notwithstanding my view that the Council’s calculated splay should be used, all of
+    the preceding options impinge to some extent on hedgerows that are not in the
+    control of the Appellant with the 1.2m x 43m having the least degree of effect.
+74. I have also taken into account the Appellant’s view that an x-distance of 1.2m is
+    sufficient for an access predominantly proposed to be used by HGV’s, supported
+    by the guidance provided in paragraph 10.5.5 and 10.5.9 of Manual for Streets 2,
+    particularly stating that “a reduction in visibility below recommended levels will not
+    necessarily lead to a significant problem”. However, in my view, this does not
+    provide a compelling justification to depart from the clear and evidenced based
+    calculation of the required visibility splays suggested by the highway authority.
+75. Evidence was presented to the Inquiry of the land registry title of the ownership of
+    the land to the east of the access, including the hedgerow adjoining the highway21.
+    The owner of this land is an objector to the proposed development and is not
+    inclined to sell the land or any rights over it.
+76. Without a suitable legal agreement with the relevant landowners or by purchasing
+    appropriate land is there is no mechanism to fully prevent any obstructions higher
+    than 1m, impacting visibility splays, particularly to the west. Such obstructions
+    could occur due to natural hedge growth. I have no evidence of any agreement
+    with relevant landowners to ensure the land occupied by a hedge where the
+    visibility splay passes over would be kept free of obstruction. Without such an
+    agreement it would not be possible to secure the required visibility splays that I
+    consider are necessary. This would mean that vehicles exiting the site would have
+    substandard visibility which could lead to accidents occurring on this road to the
+    detriment of highway safety. As such, the proposed development cannot provide a
+    safe access to and from the site for all highway users.
+77. I have considered the Appellant’s view that a Grampian condition could be used to
+    require works on land, in the form of hedgerow maintenance, that is not controlled
+    by the Appellant. However, the PPG states that this should not be used where
+    there are no prospects at all of the action being performed. Taking into
+    consideration the comments received by the third-party owner of part of the land
+    fronting Lancaster Road, the lack of any evidence whatsoever of any agreement
+    with relevant third party owners, and the views of the highway authority regarding
+    the extent of the adopted highway, I consider that, on the basis of the evidence
+21
+     ID40 – ID42
+
+
+https://www.gov.uk/planning-inspectorate      13
+Appeal Decision 6002168
+
+
+         before me, there are no prospects at all that the requirements of a Grampian
+         condition could be delivered. As such, a Grampian condition would not be
+         appropriate in this instance.
+78. I have also taken into account the Appellant’s suggestion of the provision of
+    vehicle speed-indicator. I do not consider that the signage suggestion has any
+    material bearing on the calculation of the visibility splay proposed by the Council
+    which is based on the “as is” road characteristics uninfluenced by a signage
+    suggestion which may or may not have an effect on vehicle speed.
+79. Taking all of the above factors into account, the appropriate visibility splays cannot
+    be achieved. The consequence is that vehicles waiting to egress the site may not
+    be able to acceptably view approaching vehicles and other road users with a risk
+    of vehicles exiting the site doing so into moving traffic. In addition, safe gaps
+    within live traffic may not be able to be safely judged and vehicles may have to
+    creep into the highway to obtain a clear view of oncoming vehicles and other road
+    users. Therefore, the proposed access arrangement would present an
+    unacceptable highway safety risk.
+        Highway Safey on local road network
+80. The Council has no capacity issues associated with the road corridor proposed to
+    be used by HGV’s accessing and egressing the site. However, there is concern
+    regarding the suitability of the route to support the additional HGV movements.
+    This is due to the highway not being of sufficient width to support the needs of two-
+    way HGVs, on Lancaster Road and the A588. The Council considers that this has
+    highway safety implications as this proposal would increase conflict and
+    subsequently the number of occurrences that HGVs will be required to reverse on
+    the live network to allow another HGV to pass. This increases the risk of HGVs
+    having to reverse, potentially without suitable visibility, notwithstanding the
+    consequences on the stopping needs of approaching vehicles or the safety
+    implications on vulnerable road users including pedestrians, cyclists and
+    equestrians. This is along a part of the local highway network which has no
+    physical pedestrian segregation from the live carriageway.
+81. In particular, the Council considers that the concerns in respect of highway safety
+    of the surrounding road network relate to sections of Lancaster Road (including the
+    Vine House bend), and two locations along the A588 (including at the access
+    serving Fold House Farm, approximately 3.3 km east of the A588/B5270
+    Lancaster Road junction), and at the A588 Burned House Lane/B5377 Park
+    Lane/U22436 Cemetery Lane junction (located approximately 1.5 km south of the
+    A588/B5270 Lancaster Road junction). It is contended that these locations cannot
+    safely accommodate the HGV traffic that would be generated by the proposed
+    development due to the lack of physical carriageway width to enable two‑way
+    vehicular movements to safely pass.
+82. The Council’s evidence considers the clearance required between the two passing
+    HGV’s vehicles, and the clearance between the HGV and the edge of the
+    carriageway. This is based on a straight section of carriageway where vehicle
+    wing mirrors do not overhang beyond the carriageway. This demonstrates that a
+    minimum width of 6.2m is necessary to accommodate 2-way HGV movements 22.
+
+
+22
+     PoE Ryan Derbyshire – Appendix 16
+
+
+https://www.gov.uk/planning-inspectorate      14
+Appeal Decision 6002168
+
+
+83. A 6.2m carriageway width allows a 100mm clearance between passing HGVs
+    (3.05m in width including door mirrors). However, 6.2m is a minimum width
+    necessary on a straight road and does not include consideration of design speeds,
+    traffic levels, traffic composition, highway curvature and gradients.
+84. Lancaster Road at the Vine House Farm bend in the vicinity of the proposed
+    access has carriageway widths varying between 5.4m and 7.2m 23. Existing
+    carriageway widths along the A588 at the Fold House Farm bend vary between
+    5.1m and 5.8m on approach to the bend. At the A588 Burned House Lane/B5377
+    Park Lane/U22436 Cemetery Lane junction carriageway widths vary between
+    5.2m and 6.8m on the approach to the junction 24.
+85. The Council contend that to prevent any conflict with hedgerows located in close
+    proximity of the carriageway and street infrastructure, HGVs are likely to be off-set
+    from the edge of the carriageway which would likely narrow the true running width
+    of the highway in areas where there is a constrained width, particularly on
+    Lancaster Road, which would likely cause lane discipline not to be maintained.
+    This would cause vehicular conflicts should the carriageway be accommodating
+    two-way HGV movements. This could result in one or both of the HGVs reversing
+    on the live highway network to find a suitable passing place to wait while another
+    HGV passes. Such reversing movements would be detrimental to the interests of
+    highway safety. There does not appear to be any suitable locations on the local
+    highway network where development related HGVs could wait for other vehicles to
+    pass without creating a highway safety risk for other road users with a
+    consequence that HGV drivers may resort to unsuitable locations to wait.
+86. I observed at my site visit that HGVs meeting each other and traveling in opposite
+    directions at the above locations encounter areas of the highway which
+    necessitate sharp braking movements and require considerable driver skill and
+    care to enable vehicles to pass at slow speed. I have no reason to doubt the
+    Council’s view that there may be occasions where the insufficient room to pass
+    may lead to one or both vehicles reversing to create room. Reversing HGVs
+    would have limited rear vision and such reversing may occur at locations
+    frequented by pedestrians, cyclists and equestrians. In such scenario there is also
+    limited verge provision for pedestrians to seek refuge whilst vehicles are passing
+    or reversing.
+87. These issues are also present at the Fold House Farm bend in Pilling where there
+    is evidence of damage to properties and street furniture, and the Burned House
+    Lane junction with Park Lane and Cemetery Road which has a severe 90-degree
+    bend with poor intervisibility between road users on the A588. This is a location
+    where large vehicle movements necessitate encroaching into the opposing
+    carriageway. Therefore, the existing highway safety issues at this location may be
+    exacerbated by the increase in HGVs generated by the appeal scheme resulting in
+    an increased potential for large vehicles to meet each other at the bend.
+88. At the A588 Burned House Lane/Park Lane/Cemetery Lane junction, there have
+    been four personal injury collisions recorded in the last five years. Two out of the
+    four collisions involved HGVs with one of the two involving an HGV and a
+    pedestrian.
+
+
+23
+     PoE Ryan Derbyshire – Appendix 6
+24
+     PoE Ryan Derbyshire – Appendix 12
+
+
+https://www.gov.uk/planning-inspectorate   15
+Appeal Decision 6002168
+
+
+89. The recent road safety record (2000-2024) for Lancaster Road shows that there
+    has only been one personal injury accident in the last five years. This occurred in
+    2023 to the south of Vine House and involved two vehicles – a single decker bus
+    and a car. There have been no recordable accidents in the last five years at the
+    Fold House Farm bend.
+90. Traffic survey data recorded in 2023 and measured directly adjacent to the
+    proposed site access on Lancaster Road suggests that the average weekday
+    traffic flows recorded during the busiest weekday hour was 08:00-09:00 during
+    which there were 302 vehicle movements and the average number of hourly
+    movements throughout the core 12-hour daytime period (07:00-19:00) was 231,
+    which averages at around 4 vehicle movements per minute.
+91. The survey data shows that there were 16 HGV movements along Lancaster Road
+    during the course of an average weekday, with 8 of these in the westbound
+    direction and 8 in the eastbound direction. Lancaster Road is used by public
+    buses and school buses. There are two public bus services that route along
+    Lancaster Road and eight school bus services.
+92. The Appellant’s evidence identifies potential mitigation works including the
+    potential widening of carriageway widening along parts of Lancaster Road by
+    approximately 0.3m on both sides involving the removal of parts of the verge and
+    provision of new signage. At the A588 Fold House Farm Bend and the
+    A588/Cemetery Lane/Park Lane Junction new signage is also proposed.
+93. The Council considers that insufficient evidence has been provided to demonstrate
+    the delivery of the proposed widening scheme works particularly as street furniture
+    and infrastructure may provide constraints to the deliverability of the scheme.
+    Removal of parts of the existing relatively narrow verge would likely reduce the
+    available extent of the refuge area to the detriment of pedestrian and equestrian
+    safety. Moreover, I have no clear evidence of an implementation mechanism to
+    secure such widening proposed by the Appellant. There is some ambiguity
+    whether the proposed widening scheme forms part of the mitigation strategy.
+94. I recognise that the provision of signage could be made the subject of a planning
+    condition. However, there is no clear evidence to demonstrate that proposed
+    signage could be accommodated within the extent of the adopted highway without
+    the need to occupy third party land. The Council highlight the fact that such
+    signage must comply with the relevant guidance, including requirement that signs
+    do not encroach within 0.5m of the carriageway edge and are located within the
+    highway boundary unless supported by a legal agreement. However, I consider
+    that the proposed signage would not mitigate the underlying constraints but would
+    merely highlight them.
+95. Both main parties have provided detailed evidence regarding these suggested
+    mitigation measures. Although I have been provided with a suggested planning
+    condition relating to off-site highway works, there remains some degree of
+    ambiguity regarding which aspects of these mitigation works are firmly proposed.
+    The Appellant’s highways witness is quite clear in that he does not consider that
+    widening works are necessary 25 and suggests that signage would be necessary
+    “should the Inspector deem it essential”26. As such, there is some degree of
+
+25
+     PoE Jim Budd – paragraph 4.54
+26
+     PoE Jim Budd – paragraph 4.60
+
+
+https://www.gov.uk/planning-inspectorate   16
+Appeal Decision 6002168
+
+
+      uncertainty on behalf of the Appellant’s highway witness regarding the need for
+      mitigation measures.
+96. Mitigation measures are also proposed at the A588/Lancaster Road junction which
+    comprises a remodelling of the junction. I have no evidence to suggest that the
+    Council is otherwise content with this proposed mitigation which is included in an
+    agreed suggested planning condition.
+97. I also have taken into account the proposed Traffic Management Scheme provided
+    in the UU which could enable the phasing of outbound HGV movements exiting
+    the site to minimise conflict with other incoming HGVs and other HGV traffic. This
+    also provides for restrictions on HGV movements during the morning and
+    afternoon school opening and closing times.
+98. The Council’s evidence sets out that the A588 in particular already exhibits
+    multiple, well‑documented deficiencies. The key issues include insufficient forward
+    visibility, inadequate carriageway width, verge overrun, loss of carriageway edge
+    support, repeated vehicle strikes on boundary walls and traffic signs, and locations
+    where HGVs are unable to maintain lane discipline. My site visit observations lead
+    me to conclude that these issues are not hypothetical as they are occurring under
+    existing traffic conditions. I accept that the proposed Traffic Management Scheme
+    provided in the UU may mitigate some degree of conflict between HGVs arising
+    from the proposed development. However, it cannot acceptably mitigate the risk
+    of HGVs associated with the proposed development encountering other HGVs
+    travelling along the local highway network.
+99. The Appellant accepts that there will be a notable percentage increase in HGV
+    usage on the local highway network as a consequence of the appeal scheme,
+    although I accept that such usage would be low in absolute terms. Whilst there is
+    no survey data of existing pedestrian activity on Lancaster Road, or indeed other
+    areas of the local highway network, I do not consider that it can be concluded that
+    the road is rarely used be pedestrians. In addition, there is no compelling data
+    regarding the frequency and level of use of the local highway network by cyclists
+    and equestrian users. Notwithstanding the lack of data regarding other road
+    users, it is clear that Lancaster Road and other parts of the local network are used
+    by such users and that there will be a notable increase in HGV traffic associated
+    with the proposed development.
+100. It is clear that the local highway network proposed to be used by HGVs arising
+     from the proposed development has width and alignment constraints that do make
+     it difficult for two-way HGV movements to pass. Whilst some mitigation,
+     predominantly in the form of signage is proposed there is no clear evidence that
+     this could be installed within the highway boundary without the need to utilise third
+     party land for which I have also no evidence of any agreements to enable such
+     land to be used. Furthermore, as set out above, there appears to be some degree
+     of conflict between the proposed mitigation works considered by the Council at the
+     planning application stage and the evidence presented in this appeal where the
+     Appellant’s highway witness does not appear to consider that the extent of the
+     initial proposed mitigation is wholly necessary.
+101. Overall, the proposed development would result in the potential for reversing
+     movements to occur on the live carriageway in areas of constrained road width or
+     the potential for sharp braking. This has highway safety implications not only for
+
+
+https://www.gov.uk/planning-inspectorate   17
+Appeal Decision 6002168
+
+
+      other vehicles but also for the most vulnerable road users including pedestrians,
+      cyclists and equestrians who are known to travel in the area and have limited
+      verge protection. This situation potentially increases the likelihood of collisions
+      and accidents to the detriment of highway safety and can only be considered as
+      resulting in a severe impact from a safety perspective to the local highway
+      network.
+Highway safety conclusion
+102. Policy TR6(4) of the Framework sets out that development proposals should be
+     refused if they would have an unacceptable impact on highway safety. This
+     National Decision-Making Policy is unambiguous.
+103. I have considered the extent to which Policy DM2 of the Local Plan Part 1 and
+     Policy CDMP 6 of the Wyre Local Plan remain consistent with the Framework.
+     These policies set out, amongst other things, that minerals development should
+     demonstrate that harmful environmental impacts can be eliminated or reduced to
+     acceptable levels and that road safety and the safe, efficient and convenient
+     movement of all highway users is not prejudiced and that safe and adequate
+     vehicular access to and from a proposal site would be provided. These polices
+     remain consistent with the provisions of Policy TR6(4) of the Framework and
+     therefore should be afforded full weight.
+104. I have found above that the proposed access arrangements would present an
+     unacceptable highway safety risk as a consequence of the required visibility splays
+     not being attained. In addition, there is the potential that the proposed
+     development would exacerbate existing highway safety issues as a consequence
+     of an increased number of HGVs using the local highway network that has width
+     constraints. Proposed mitigation measures would not satisfactorily address these
+     underlying constraints but would merely highlight them.
+105. For the above reasons, the proposed development would present an unacceptable
+     highway safety risk. Consequently, it would contrary to the provisions of Policy
+     TR6(4) of the Framework, Policy DM2 of the Local Plan Part 1 and Policy CDMP6
+     of the Wyre Local Plan.
+Living conditions
+Amenity Dust
+106. The planning application was supported by a Dust and Air Quality27 chapter of the
+     ES and an Air Quality Assessment Report 28. This was supplemented by an
+     “Updated Air Quality Assessment” 29 (Updated AQA). The assessment considered
+     potential dust sources associated with the proposals and best practice measures
+     were recommended in order to minimise any such disturbance at sensitive
+     receptors. It was concluded that any dust occurrence event would be limited and
+     of short duration and minimised by the implementation of the dust control
+     measures. It also considered potential impacts due to PM10 (particles less than 10
+     micrometres in diameter) and PM2.5 (particles less than 2.5 micrometres in
+     diameter) dust particle sizes and concluded that air quality objectives (AQOs)
+     would not be exceeded.
+
+27
+   CD1.08
+28
+   CD1.22
+29
+   CD3.06
+
+
+https://www.gov.uk/planning-inspectorate    18
+Appeal Decision 6002168
+
+
+107. It was considered unlikely that cumulative impacts would arise and the proposed
+     operations were deemed to likely have a negligible effect on nearby sensitive
+     receptors. The assessment included proposed in-design mitigation measures
+     along with a summary of management and control measures that could be
+     implemented specifically in relation to fugitive dust.
+108. The above information was reviewed and supplemented by the evidence of the
+     Appellant’s dust and air quality witness. The assessment considered the guidance
+     provided in the Institute of Air Quality Management (IAQM) ‘Guidance on the
+     Assessment of Mineral Dust Impacts for Planning’ 30. It followed the recommended
+     qualitative approach in considering the potential for any such dust to impact
+     existing nearby properties and land uses through assessment of the distance and
+     orientation to receptors, prevailing weather conditions, topography and screening.
+     The IAQM Guidance advises that for a dust event to occur there must also be a
+     failure of dust control measures.
+109. Particles greater than 30µm (micrometres) make up the greatest proportion of dust
+     emitted from mineral processing and largely deposit within 100 m of sources.
+     Particles between 10 and 30µm are likely to travel from 250m to 400m, while sub
+     10µm particles, which make up a small proportion of dust emitted from most
+     mineral processing operations, may travel up to 1 km from sources.
+110. The IAQM guidance is clear that adverse dust impacts from sand and gravel sites
+     are unlikely beyond 250m as measured from the nearest dust generating activities.
+     Accordingly, the guidance advises that where receptors are not located within
+     250m of a sand and gravel site, it can normally be assumed that a detailed dis-
+     amenity dust assessment would not be required.
+111. The Updated AQA sets out the distances from the nearest receptors to the closest
+     working area. However, I accept the Council’s view that these distances should
+     more realistically be shown to the property boundary rather than the building
+     façade. The appeal proposals would place six of the receptor properties identified
+     being classed as “close”, i.e. within 100m of the closest working area.
+112. The Appellant’s evidence considers the likely dis-amenity dust impact at a number
+     of sensitive receptors including Whinmoor Fold, Woodlands, Red Lea, Bourbles
+     Farm, Ourhome, Mytax/New England Cottage, which are identified as being close.
+     Other properties including, amongst others and Greenacres, The Beeches and Old
+     Nickson’s Cottage are also considered which are situated in excess of 100m from
+     the closest working area. Dis-amenity dust is generally accepted to be greater in
+     size than 10 microns and can cause dust soiling.
+113. The evidence provided by the Appellant in the Inquiry includes an outline of
+     measures that would form the basis of a Dust Management Plan (DMP) to mitigate
+     the effect of dust on sensitive receptors. In my experience the submission of, and
+     adherence to, a DMP is a usual requirement for mineral development and is
+     predominantly secured by means of a planning condition. It also recognises that
+     the greatest risk of any dust deposition at the properties nearest the extraction
+     boundary would be during the initial soil stripping and other near-surface activities,
+     including restoration works.
+
+
+
+30
+     CD12.11
+
+
+https://www.gov.uk/planning-inspectorate   19
+Appeal Decision 6002168
+
+
+114. Although the Council expresses some doubt that the DMP would necessarily
+     control dust impacts to acceptable levels, including those arising from the use of
+     internal haul roads, I have no compelling evidence to suggested that the draft
+     measures contained therein would be insufficient to control dust emissions.
+     Moreover, the submission of a DMP would be the subject of a planning condition,
+     were I minded to allow this appeal, which would provide an opportunity for the
+     Council to undertake a degree of scrutiny of the measures contained therein.
+     Indeed, the Council’s dust witness did recognise that the proposed mitigation
+     would likely require enhancement.
+115. Subject to the measures in the suggested DMP, as could be supplemented by the
+     imposition of a suitable planning condition, the Appellant’s evidence suggests that
+     there would be slight adverse dust impacts during soil stripping and soil bund
+     construction and removal at Bourbles Farm, Ourhome, Red Lea, Woodlands, Old
+     Nicholsons Cottage and Mytax, the latter property is also predicted to receive
+     negligible to slight adverse dust impacts during some extraction and processing
+     operations. In respect of other properties in the vicinity of the site, the dust
+     impacts were identified as being negligible.
+116. I recognise that initial soil stripping, bund formation and removal, and soil
+     replacement operations are usually short-lived activities of around 4 - 6 weeks
+     duration per phase of the proposed development. Whilst weather conditions such
+     as high winds and prolonged dry conditions could exacerbate the potential for dust
+     impact, this can be addressed by the implementation of the DMP secured by a
+     planning condition. The proposed mitigation measures are consistent with the
+     IAQM guidance which recognises that dust mitigation is a dynamic process
+     involving the review of the mitigation applicable to site conditions.
+117. In addition, the importation of the inert fill material for restoration would be
+     controlled under an Environmental Permit to be issued by the Environment Agency
+     under the requirements of the Environmental Permitting (England and Wales)
+     Regulations 2016. The Permit would require the management and operation of
+     the permitted operations and directly associated activities using Best Available
+     Techniques (BAT) to prevent, or where that is not practicable, reduce emissions.
+     The Permit would likely include several conditions and would be expected to
+     include standard boundary conditions in relation to dust and other aerial
+     emissions.
+118. There is no qualitive and quantitive guidance or any UK statutory standards that
+     can clearly define the amount of dust by which amenity impacts can be readily
+     assessed. However, I have no reasons to doubt the findings of the Appellant’s
+     dust witness that the worst-case scenario of operations on the site would result in
+     slight adverse dust impact at the properties identified above.
+119. I recognise that the categorisation by the Appellant of “slight adverse” dust impact
+     is a subjective view for which there is no guidance available to make an informed
+     judgement of the disamenity effect of this view. The Council considers that the
+     magnitude of dust soiling effects at some receptor locations are underestimated by
+     the Appellant. However, in my view, the Appellant’s dust witness is well
+     experienced to enable a comparative judgement to be made of the magnitude of
+     dust impact in terms of its amenity effects. Whilst I recognise that those properties
+     identified as being sited “close” to the site operations are more likely to be affected
+     by dust deposition this does not suggest that such dust impact cannot be managed
+
+https://www.gov.uk/planning-inspectorate   20
+Appeal Decision 6002168
+
+
+         to remain within acceptable levels as a consequence of the active employment of
+         a robust DMP.
+120. In my view, the amenity effects of dust in this case would not be sufficient to
+     warrant the dismissal of this appeal and the resulting significance of disamenity
+     effects from fugitive dust emissions would not be significant.
+Air Quality
+121. Fugitive dust (particulate matter) that could be generated by the proposed
+     operations will include a proportion of ‘fine particulate matter’, also referred to as
+     ‘suspended particulate matter’ (as PM10 and PM2.5). The Updated AQA
+     accordingly also included a PM10 and PM2.5 Assessment.
+122. I accept that the main potential effect from mineral sites is disamenity dust due to
+     deposition of large (>30 μm) and intermediate (10-30 μm) sized dust particles
+     which are not respirable 31. The sand and gravel material itself is much larger than
+     PM10 or PM2.5 (sand being described as having a grain size of 62-200 μm and
+     gravel >200μm) and none of the proposed on-site activities would not involve any
+     abrasive processes that would break the sand into smaller particles, particularly
+     PM2.5.
+123. The Updated AQA made reference to the Air Quality Annual Status Report (ASR)
+     published in 2021 by Wyre Borough Council. This details the results of ambient air
+     quality monitoring undertaken by the Council up to the end of 2020 and at the time
+     was the most up to date publicly available ASR. Wyre Borough Council has since
+     provided an updated ASR (June 2025) 32, which details the ambient air quality
+     monitoring undertaken by the Council up to the end of 2024.
+124. The 2021 ASR did not identify any areas of concern in relation to PM10 or PM2.5
+     and consequently the Council did not undertake any monitoring for PM10 or PM2.5
+     within its area. The 2025 ASR identified that this remains the situation with no
+     areas of concern identified with regards PM10 or PM2.5.
+125. The PM10 and PM2.5 concentrations provided in the Updated AQA were therefore
+     based on predicted background concentrations provided by Defra. This data is
+     published by Defra in the form of predicted background concentration maps for
+     1km x 1km grid squares across the UK.
+126. This latest predicted data is based on 2021 ambient monitoring and meteorological
+     data. The maximum average background PM10 and PM2.5 concentrations for the
+     grid squares in which the site and nearest receptors are located are predicted to
+     be substantially below the relevant objectives. These are predicted to fall slightly
+     over time. Predicted background concentrations of PM2.5 are also well below the
+     interim (non-legal) target for 2028 of 12 μg/m3, new interim (non-legal) target for
+     2030 of 10 μg/m3 and future legal target for 2040 of 10 μg/m3.
+127. The Rule 6 Party provided evidence of an Air Quality Mesh Pod Particulate Study.
+     This reports the results of a particulate matter monitoring exercise over a 3-week
+     period in September-October 2023. I accept the Appellant’s view that a Mesh Pod
+     is recognised as providing ‘indicative’ result. The corresponding report does not
+     provide any specific details or photographs of the monitor location, and no
+
+31
+     Page 17 IAQM guidance on mineral dust
+32
+     CD12.20
+
+
+https://www.gov.uk/planning-inspectorate     21
+Appeal Decision 6002168
+
+
+      indication that the location met recommended stringent criteria for the siting of
+      such monitors. Results are only provided for PM2.5 and not PM10. Furthermore,
+      only the raw hourly mean results are presented with no statistical analysis,
+      calculation of 24-hour means and overall means. Therefore, I accept that the data
+      has only limited utility.
+128. The Rule 6 Party report states that the recorded results show a baseline level of
+     PM2.5 of 6.48 µg/m3 at the site which is higher than that reported by the Appellant
+     of 5.68 µg/m3. However, I accept the Appellant’s view that these figures are not
+     directly comparable, not least due the very different averaging periods referred to,
+     and the Mesh Pod forming no more than an ‘indicative’ analyser.
+129. The IAQM Guidance on mineral dust advises that where the long-term background
+     PM10 concentration is less than 17 µg/m3 there is little risk that additional
+     contributions from a mineral site would lead to an exceedance of the annual mean
+     air quality objective. The guidance advises that if this is the case then no further
+     consideration is typically required. The Defra data predicts annual mean
+     background concentrations of 8.47-9.61 µg/m3 in the locality of the Site. These
+     are well below the recommended screening value of 17 µg/m3. On this basis, I
+     accept that no further consideration of potential PM10 impacts from the proposed
+     development would be required.
+130. With regard to PM2.5 emissions, any PM10 generated by the proposed activities
+     would also include a proportion of PM2.5 as a sub-fraction. The IAQM Guidance
+     advises that for quarries most of any suspended dust generated will be in the
+     coarse sub-fraction (PM2.5-10), rather than in the fine (PM2.5) fraction. The Updated
+     AQA included further assessment of PM2.5. This assumed an additional load of 0.5
+     µg/m3 PM2.5 attributable (as an annual mean) to the proposed operations to the
+     existing background level.
+131. As set out above, current predicted background PM2.5 concentrations in the area
+     are well below all these future targets already at 4.77-5.39 µg/m3, 48-54% of the
+     more stringent target of 10 µg/m3. Any additional contribution of the quarrying
+     operations to background concentrations total annual mean PM2.5 concentrations
+     would still remain well below these targets.
+132. The suggested proposed dust mitigation measures to manage fugitive dust
+     emissions would also serve to reduce potential PM10 and PM2.5 emissions. Taking
+     into account the submitted evidence, I consider that contributions of PM10 and
+     PM2.5 from any fugitive dust from the proposed development to local air quality at
+     relevant receptors would not result in significant adverse effects.
+Vehicle Emissions
+133. The Updated AQA also considered the HGV movements to and from the proposed
+     development which would result in NOx / NO2 and PM10 emissions and hence
+     potential adverse impacts on local air quality. The appeal site does not lie within
+     an Air Quality Management Area (AQMA). The nearest AQMA is located
+     approximately 8km to the southwest of the site and within the centre of Poulton-le-
+     Fylde.
+
+
+
+
+https://www.gov.uk/planning-inspectorate   22
+Appeal Decision 6002168
+
+
+134. IAQM guidance on air quality and planning 33 provides screening criteria for
+     additional traffic movements to be introduced as part of a development above
+     which an air quality assessment is advised. The evidence suggests that the
+     proposed development would result in Annual Average Daily Traffic (AADT) of 50
+     2-way movements. The screening criteria for HGVs are +100 AADT where distant
+     from an AQMA and +25 AADT where within or close to an AQMA. As set out
+     above, the appeal site and local road network are relatively distant from any
+     AQMAs or identified areas of potential air quality concern.
+135. At 50 HGV AADT, the 2-way on-road HGV movements associated with the
+     proposed development would be well below the screening criteria of +100 HGV
+     AADT. HGV movements would be further reduced during the periods of the
+     development when only export or import occur. The Dust SoCG identified that the
+     main parties agree that potential air quality impacts from traffic emissions are not
+     likely to be significant.
+136. Taking the above factors into account, I therefore consider that the contribution of
+     the proposed quarry related HGV exhaust emissions to the local air quality would
+     not be significant.
+Noise
+137. The planning application was accompanied by a Noise Assessment contained
+     within Appendix 9 of the ES 34. Following a request by the Council, pursuant to
+     Regulation 25 of the Environmental Impact Assessment Regulations, a further
+     “Updated Noise Assessment” 35 was provided, dated 19 August 2024, which
+     updated and superseded the Noise Assessment contained within Appendix 9 of
+     the ES.
+138. The minerals sections of the Planning Practice Guidance (PPG) advise that noise
+     limits should be established through a planning condition, at the noise-sensitive
+     property that does not exceed the background noise level (LA90,1h) by more than
+     10dB(A) during normal working hours (0700-1900). Where it will be difficult not to
+     exceed the background level by more than 10dB(A) without imposing
+     unreasonable burdens on the mineral operator, the limit set should be as near that
+     level as practicable. In any event, the total noise from the operations should not
+     exceed 55dB(A) LAeq, 1h (free field)36. The PPG recognises that temporary
+     operations such as topsoil and overburden stripping, bund formation and the final
+     restoration processes are often noisier than extraction operations, but these are of
+     relatively short duration. Consequently, it advises that increased temporary
+     daytime noise limits of up to 70dB(A) LAeq 1h (free field) for periods of up to 8
+     weeks in a year at specified noise-sensitive properties should be considered to
+     facilitate essential site preparation and restoration work and construction of baffle
+     mounds 37.
+139. The Updated Noise Assessment included measurements of existing ambient noise
+     levels in the proximity of properties in the vicinity of the appeal site, a summary of
+     background noise levels at those properties and an assessment of predicted worst
+     case site noise levels as a consequence of short-term activities, such as soil
+
+33
+   CD12.12, Table 6.2
+34
+   CD1.21
+35
+   CD3.05
+36
+   Paragraph: 021 Reference ID: 27-021-20140306
+37
+   Paragraph: 022 Reference ID: 27-022-20140306
+
+
+https://www.gov.uk/planning-inspectorate          23
+Appeal Decision 6002168
+
+
+        stripping and bund construction and normal mineral extraction operations. The
+        calculation of potential noise levels predicted at nearby noise sensitive properties
+        was based on the methodology outlined within Annex F of BS 5228-
+        1:2009+A1:2014 ‘Code of practice for noise and vibration control on construction
+        and open sites. Part 1: Noise’. This guidance details methods to estimate noise
+        from ‘open sites’ which can include quarries and waste disposal sites.
+140. All noise level predictions were calculated with the combinations of plant working
+     at the closest point to the assessment location. The Updated Noise Assessment
+     therefore considers predictions are worst-case scenarios which may be of
+     relatively short duration. However, they indicate the potential highest LAeq,1h
+     noise level to which a particular property or group of properties may be exposed
+     during the working of the site. This worst-case situation may occur intermittently
+     over the lifetime of the site, but the longer-term noise levels perceived outside of
+     the site boundary would normally be significantly less.
+141. The Updated Noise Assessment identifies that potential noise levels from short-
+     term activities are expected to remain within the temporary daytime limit of 70dB
+     recommended within the PPG. With regard to normal operations, the assessment
+     identified that potential noise levels from normal site operations could exceed the
+     background level by more than 10dB at properties comprising Woodlands, Red
+     Lea and Bourbles Farm. However, the proposed screening bunds reduce potential
+     noise levels to within the 55dB limit at all assessment locations and near to the
+     LA90 + 10 dB(A) criteria as practicable in accordance with the PPG.
+142. It further identified that, in reality, site activities likely to generate noise levels that
+     are in excess of 10 dB above the background noise levels will be infrequent and
+     short lived. Furthermore, as extraction operations will occur on a campaign basis,
+     meaning that there will be significant periods during the life of the scheme where
+     only very minimal operations are occurring in the wider extraction areas, the
+     longer-term noise levels are anticipated to be significantly lower.
+143. With reference to the noise exposure hierarchy, potential impacts are considered
+     to be at or below the ‘Lowest Observed Adverse Effect Level’ (LOAEL) at the
+     majority of noise-sensitive premises with the potential for effects marginally above
+     the LOAEL but significantly below the ‘Significant Observed Adverse Effect Level’
+     (SOAEL) at Woodlands, Red Lea and Bourbles Farm.
+144. The Updated Noise Assessment also provided recommended noise limits for each
+     noise sensitive property in the vicinity of the appeal site together with a number of
+     noise control measures to be employed during operations at the site. It concluded
+     that with the implementation of a range of best-practice control measures during
+     the working of the quarry site, the overall noise impacts would unlikely be
+     significant.
+145. Prior to the opening of the Inquiry, the Appellant produced a “Technical Note”38
+     regarding noise matters that considered the locations where the calculated site
+     noise level would exceed a site noise limit based on the advice in the PPG i.e. not
+     exceeding background noise levels plus 10 dB(A) up to a maximum of 55 dB
+     LAeq, 1 hour. This identified that increasing some bund heights would result in the
+     calculated site noise levels being no more than 10 dB(A) above the representative
+
+
+38
+     CD12.23
+
+
+https://www.gov.uk/planning-inspectorate      24
+Appeal Decision 6002168
+
+
+            background noise levels at all of the assessment locations. The following bund
+            height increases were identified:
+            •    Phase 1 – Woodlands – increase of 0.1 to a height of 10.1 metres AOD;
+            •    Phase 1 – Red Lea - increase of even 0.2 metres to a height of 9.7 metres
+                           AOD; and
+            •    Phase 4 – Bourbles Farm – increase of 1.5 metres to a height of 11 metres
+                           AOD.
+146. The SoCG Noise identifies that the Council agrees that the adopted methodology
+     for the assessment of noise impacts as set out in the Updated Noise Assessment
+     is suitable. However, the Council does not agree with the Appellant findings
+     regarding the predicted noise levels at some locations, principally among these
+     being the “Woodlands” during normal operations and particularly during the short-
+     term works.
+147. The Appellant recognises that Phase 1 of the site is very close to Woodlands and
+     Red Lea. However, this phase of the site contains the thickest mineral reserves
+     up to 6 metres in depth and therefore the applicant wishes to maximise mineral
+     recovery from this area. In my experience, soil screening bunds would normally
+     be established on the site perimeter prior to any mineral working taking place to
+     provide protection to nearby properties. However, adopting this practice within
+     Phase 1 would sterilise the mineral below the bund footprint. Therefore, it is
+     proposed to work the mineral in a 12m wide strip to the depth of the water table
+     before backfilling the excavation to original ground levels.
+148. In order to provide acoustic attenuation prior to the commencement of soil
+     stripping operations in the vicinity of the above properties an acoustic fence,
+     approximately 3.75m high, at a height of 10.1m AOD is proposed to be
+     constructed along the site boundary in the vicinity of these properties. The
+     evidence of the Appellant suggests that the prior construction of the fence would
+     allow for the extraction of mineral to take place whist complying with the suggested
+     site noise limits for routine operations of no more than 10 dB(A) above the
+     background levels. The fencing would remain in place during bund construction
+     operations.
+149. The Council remained unconvinced that the proposed acoustic fence would
+     achieve the required mitigation and that the 50 dB limit would be exceeded 39. This
+     matter was the subject of considerable discussion in the Inquiry.
+150. I recognise that the use of plant with low sound output levels, the reach of the
+     excavator and the direction of mineral extraction can materially impact on the
+     calculation of the anticipated noise levels in the vicinity of the Woodlands. I also
+     recognise that the imposition of the suggested planning condition (proposed
+     condition No.27) that stipulates noise levels at a number of properties in the
+     vicinity of the site and the requirement for the submission of a Noise Management
+     Plan (No. 28)40 would ensure the control of noise in the vicinity of noise sensitive
+     properties.
+
+
+
+39
+     ID13
+40
+     ID47
+
+
+https://www.gov.uk/planning-inspectorate        25
+Appeal Decision 6002168
+
+
+151. I accept that the calculated noise levels are presented as a worst-case scenario
+     and are unlikely to occur in practice. The predicted noise levels would all be within
+     the guidelines set out in the PPG (Minerals) and would not exceed background
+     noise levels by more than 10dB(A) during the site’s working hours. Furthermore,
+     the site is being worked in phases and noise will drop away with distance from
+     sensitive locations.
+152. There is no doubt that Woodlands is a high sensitivity noise receptor. With the low
+     background noise levels in the locality, I accept that the proposed development
+     would be the principal noise source that is capable of affecting residential amenity.
+     However, subject to the imposition of the suggested noise conditions, I am
+     satisfied that the submitted evidence demonstrates that the site can be worked
+     while keeping noise emissions to within environmentally acceptable limits as set
+     out in the PPG (Minerals). Consequently, I do not consider that noise emitted from
+     the site would give rise to a significant adverse effect. In my view, the evidence
+     demonstrates that the proposed noise mitigation measures would enable a good
+     standard of residential amenity to be achieved.
+Conclusion on the effect of the proposed development on living conditions and Air
+    Quality
+153. Overall, I am satisfied that, subject to appropriate planning conditions setting out
+     mitigation and compliance measures, the proposed development would not, by
+     reason of noise, dust or poor air quality, have a significant adverse effect on the
+     amenity of the area or the living conditions of those living nearby or using
+     recreational features.
+154. With regard to these impacts, the Council has identified conflict with Policy DM2 of
+     the Local Plan Part 1 and Policy CDMP1 of the Wyre Local Plan. Taking into
+     account the age of the policies contained within the Local Plan Part 1, I have
+     considered the guidance provided in Policy M4(1)(b) and Policy P3 of the
+     Framework.
+155. Amongst other matters, Policy DM2 sets out that mineral developments will be
+     supported where it can be demonstrated that the proposals will make a positive
+     contribution to the residential amenity of those living nearby which will be achieved
+     by the control of emissions from the proposal including dust and noise. In my
+     view, Policy DM2 remains consistent with the overall objectives of Policy M4(1)(b)
+     and Policy P3 of the Framework and therefore should be afforded full weight.
+156. Taking into account my findings above, I find no conflict with the relevant
+     provisions of Policy DM2 and no conflict with Policy CDMP1 of the Wyre Local
+     Plan.
+157. In coming to the above conclusion, I have also taken into account the Inspector’s
+     Report for sand and gravel extraction at Ware Park, Wadesmill Road, Hertford
+     (APP/M1900/W/17/3178839) 41. In particular, my attention was drawn to
+     paragraphs 392 to 394 of the Report. In that case my colleague Inspector found
+     that noise levels likely to be generated would be close to the acceptable limits set
+     out in the Guidance. The Inspector was “not convinced, given the separation
+     distances between the proposed excavation and nearby dwellings that there would
+     be sufficient headroom here, between likely noise levels from the operation and
+
+41
+     CD8.02
+
+
+https://www.gov.uk/planning-inspectorate   26
+Appeal Decision 6002168
+
+
+      acceptable noise limits, to be confident that the proposed development would not,
+      at times, result in an adverse noise impact that would harm the living conditions of
+      nearby occupiers and the amenity of the area.”
+158. It is rarely the case that appeal decisions on other sites will bring to light parallel
+     situations and material considerations which are so similar as to provide
+     justification for a decision one way or another. My conclusion in respect of the
+     effect of the proposed development on the living conditions of nearby residents is
+     based squarely on the evidence before me.
+159. In the appeal case before me I have found that noise and dust effects would not
+     exceed relevant guidance levels and therefore I have no substantive and
+     compelling grounds to suggest that the living conditions of nearby residents would
+     be harmed to an extent that would warrant the dismissal of this appeal on those
+     grounds. For that reason, I do not consider that the appeal decision brought to my
+     attention has a determinative influence on my consideration of the appeal case.
+Other Matters
+      Effect on the local economy
+160. Interested parties and the Rule 6 Party consider that the presence of an open
+     quarry in the area would have a potentially significantl impact on the viability of
+     nearby local businesses. The perception of visual harm, traffic impact and dust
+     associated with the proximity of the proposed development to existing local
+     businesses, in particular those associated with leisure and equestrian activities, is
+     considered to cause harm to their longer-term viability. In addition, it is considered
+     that a quarry will inevitably make the area less attractive to visit and thereby have
+     a detrimental effect on the tourist economy, particularly those using nearby
+     camping and caravaning facilities.
+161. There was no conclusive evidence provided in the Inquiry to make any reasonable
+     judgement of the effect of the proposal on existing economic development in the
+     local area. Whilst I accept that the proposed development would not provide many
+     jobs, my attention was not drawn to any policy in the Development Plan that may
+     set out a minimum level of jobs to be created in a development proposal.
+162. I recognise the concerns that the proposal may be perceived as a detractor to
+     some businesses. However, I am not convinced that these concerns would be
+     likely to translate into material land use considerations if the appeal were to be
+     allowed and the appeal scheme was regulated in accordance with the suggested
+     planning conditions and an Environmental Permit issued by the Environment
+     Agency in respect of the infilling operations.
+163. It seems to me that the local concerns derive from a perception of harm. There is
+     no evidence before me to conclusively demonstrate that quarrying activity has
+     materially adversely affected economic development elsewhere in the country.
+164. Although the proposal would generate a small degree of local employment, there
+     is no evidence to suggest that this would be a significant benefit to the local
+     economy due to the specialist nature of some of the quarrying plant. In my view
+     such local benefits would be modest, but nonetheless beneficial. Given the nature
+     and scale of the proposed operation, I consider that the likely effect on the
+     economy would be a benefit of minor significance.
+
+
+https://www.gov.uk/planning-inspectorate    27
+Appeal Decision 6002168
+
+
+165. The perception of harm to the local economy can be a material planning
+     consideration. However, I am satisfied that, in the absence of any substantive
+     evidence to the contrary, there would be no material harm to economic
+     development interests in the locality. In these circumstances, I consider that only
+     limited weight is attributable to the perception of harm to the local economy. The
+     scheme would not give rise to a significant conflict between land uses in the area.
+         Effects of dust on human health
+166. The effects of dust on health is not an issue for the Council but is a major concern
+     for local residents and the Rule 6 Party and was reflected in many written and oral
+     submissions.
+167. A proportion of PM10 emitted from the proposed development could comprise
+     respirable crystalline silica (RCS). Silica is a naturally occurring substance found
+     in varying amounts in most rocks, sand and clay and the long-term inhalation of
+     RCS may give rise to silicosis. There is understandably no evidence of what
+     proportion of RCS may be emitted or how likely the extraction of the proposed
+     minerals would generate RCS emissions as this cannot be determined with any
+     degree of certainty. There is evidence that RCS risk is increased where minerals
+     are crushed, whereas the appeal scheme would involve the processing of a damp
+     raw material through a wet washing process to produce a finished material which
+     is also inherently damp. This means that the potential for community exposure is
+     low with minimal impact on air quality. However, RCS is a recognised hazard for
+     personnel working at quarries.
+168. The Health and Safety Executive (HSE) state that silicosis is a disease that has
+     only been seen in workers from industries where there is a significant exposure to
+     silica dust, such as in quarries and foundries, however, it should be noted that no
+     cases of silicosis have been documented among members of the general public in
+     Great Britain.
+169. There is no UK established or recommended ambient air quality standard for RCS
+     nor is there any recommended methodology for the assessment for potential RCS
+     emissions to ambient air or potential off-site impacts. The AQA also considered
+     the health effects of RCS and a Health Technical Note 42 was produced by the
+     Appellant. The Technical Note identified that the change in air quality would be
+     negligible and that the proposed development would remain well within air quality
+     objectives protective of health. It further identified that the appeal proposal would
+     not present any measurable risk to local community health.
+170. In addition, in response to concerns raised by the Rule 6 Party the Appellant
+     provided a Human Health Technical Note 43 which provided detailed responses to
+     specific questions raised by the Rule 6 Party. Although the responses were
+     discussed in the Inquiry, no contrary technical evidence was provided.
+171. In my view the implementation of dust suppression measures in accordance with a
+     Dust Management Plan would all serve to minimise the risk of any RCS emissions
+     from the site. There is no compelling evidence that clearly demonstrates that the
+     proposed development would pose a potential significant risk to the local
+     population due to RCS.
+
+42
+     PoE Katrina Early Hawkins – Appendix KEH11
+43
+     ID36
+
+
+https://www.gov.uk/planning-inspectorate          28
+Appeal Decision 6002168
+
+
+172. I now turn to consider whether, in the absence of objective justification for the
+     public health concerns raised with respect to air quality, land use consequences
+     would flow from the perception of harm. It is clear from the submissions made that
+     a significant number of existing residents in the area are concerned at the potential
+     air quality impacts. Understandably, relatively few who cite this concern have
+     engaged on an evidential basis. However, taking into account my findings above, I
+     consider that only limited weight is attributable to the perception of harm to public
+     health.
+      Ecology and Effect on Protected Sites
+173. As noted above, the appeal site is within 1.5km of Morecambe Bay and Duddon
+     Estuaries SPA, Morecambe Bay SAC, Morecambe Bay Ramsar and Lune Estuary
+     SSSI. It is also within 2.3km of Wyre Estuary SSSI. The Council’s reasons for the
+     refusal of planning permission did not refer to any detrimental ecological impact
+     nor any adverse impact on the above sites.
+174. The ES accompanying the planning application included an ecological
+     assessment. Prior to the determination of the planning application and to address
+     the concerns of Natural England, a second season of overwintering bird surveys
+     was undertaken during the 2023/24 period to better characterise the numbers of
+     birds and species using the site and adjacent areas, zones of influence, the types
+     of habitats found within the site and the appropriateness of mitigation measures.
+     Further information was also provided to address impacts on other ecological
+     interests raised by the Council's Ecologist.
+175. Despite the submission of this information, at the time the planning application was
+     determined Natural England advised that there was currently not enough
+     information provided in the application to determine whether the likelihood of
+     significant effects can be ruled out. In particular, Natural England advised that a
+     Habitats Regulations Assessment (HRA) should be submitted to assess each
+     potential impact pathway from the proposal for each nearby designated site
+     supported by sufficient evidence to justify its conclusions.
+176. In addition, the Council’s Ecologist also advised that the impacts on these
+     protected sites cannot be concluded and recommended that a shadow Habitats
+     Regulation Assessment (sHRA) is undertaken by the applicant. Without this
+     assessment the Council’s Ecologist considered that was not possible to conclude
+     that the impacts on the European Sites are acceptable and therefore there would
+     be a conflict with Policy CDMP 4 of the Wyre Local Plan.
+177. During the Inquiry, interested parties also raised concerns that the second season
+     of overwintering bird surveys undertaken during the 2023/24 may have
+     underscored the actual number of birds utilising the appeal site and its immediate
+     surroundings. Consequently, it was contended that the survey cannot be relied
+     upon.
+178. For whatever reasons the above matters were not concluded prior to the
+     determination of the planning application nor prior to the opening of the Inquiry.
+     The Council’s Officer Report identified that the “…production of a shadow Habitats
+     Risk Assessment is a major piece of work, the need for which has to be viewed in
+     the context of the other issues that are raised by this application”. No conclusions
+     were made in the Officer Report regarding this matter.
+
+
+https://www.gov.uk/planning-inspectorate   29
+Appeal Decision 6002168
+
+
+179. Prior to the opening of Inquiry the Appellant produced a sHRA which was also
+     forwarded to Natural England on 10 April 2026. This concluded that:
+     • The development would not materially affect the population, distribution or
+       viability of SPA qualifying species;
+     • The application site does not constitute functionally critical land required to
+       maintain SPA populations;
+     • Any displacement of birds would be localised and accommodated within the
+       wider landscape without ecological consequence at the SPA scale;
+     • There would be no effect on the structure, function or supporting processes of
+       the Morecambe Bay SAC;
+     • The coherence of the ecological network supporting the European sites would
+       be maintained.
+     • There is no hydrological or water quality pathway by which the proposed
+       development could affect the qualifying habitats of the site. Surface water is
+       contained, attenuated, and controlled within the site, with discharge restricted to
+       greenfield rates and subject to settlement and dilution processes.
+180. The sHRA recommended that the requirements of Regulation 63 of the Habitats
+     Regulations can be lawfully satisfied and that the proposed development may be
+     consented without the need to proceed to further stages of the Habitats
+     Regulations Assessment process (i.e. consideration of alternatives or Imperative
+     Reasons of Overriding Public Interest).
+181. Despite attempts by the Appellant to secure a response from Natural England on
+     the findings of the sHRA during the course of the oral sessions of the Inquiry no
+     such response was forthcoming. I also consulted Natural England following the
+     closure of the oral aspects of the Inquiry. The response dated 23 June 2026,
+     included a copy of the response which was sent to the Council dated 27 May 2025
+     and the covering e-mail advised that the advice contained therein remains
+     unchanged. I have no further information regarding the extent to which Natural
+     England considered the content of the sHRA prior to making this response.
+182. In my role as ‘competent authority’ I have taken into account the provisions of
+     Regulation 63(1) of the Conservation of Habitats and Species Regulations 2017.
+     This indicates the requirement for an Appropriate Assessment is only necessary
+     where the competent authority is minded to give consent for the proposal. Given
+     my conclusions on the main issue above relating to the highway safety
+     considerations and the planning balance below, it is therefore not necessary for
+     me to consider this matter in any further detail.
+      Other matters
+183. In addition to the impacts considered above, I have also taken into account other
+     concerns raised by interested parties regarding, amongst other matters, including
+     the potential effect of the proposed development on flood risk, the loss of
+     recreational amenity for users of the nearby Public Rights of Way Network and a
+     potential loss of outlook for the occupiers of some properties. Although the above
+     matters have been carefully noted, they do not alter the main issues which have
+     been identified as the basis for the determination of this appeal, particularly in
+
+https://www.gov.uk/planning-inspectorate    30
+Appeal Decision 6002168
+
+
+      circumstances where the Council has not objected to the appeal scheme for these
+      other reasons.
+Unilateral Undertaking
+184. The Appellants have provided a completed planning obligation in the form of a
+     Unilateral Undertaking (UU) pursuant to section 106 of the Town and Country
+     Planning Act 1990 which was signed on 12 May 2026. This includes a number of
+     obligations relating to the submission of, and adherence to, a Traffic Management
+     Scheme for approval by the Council to come into effect if the appeal is allowed and
+     planning permission is granted.
+185. I have taken into account the content and implications of the UU in my
+     consideration of the highway implications of the proposed development above. I
+     have also considered the obligations contained within the UU in light of the
+     statutory tests contained in Regulation 122 of The Community Infrastructure Levy
+     (CIL) Regulations 2010.
+186. I am satisfied that the provisions set out in the UU are necessary to make the
+     development acceptable in planning terms, are directly related to the development
+     and fairly and reasonably related in scale to the development. The obligations
+     meet the tests as set out within paragraph 58 of the Framework and CIL
+     Regulation 122. I am also satisfied with the form, drafting and content of the UU.
+187. As set out above in my consideration of the highway implications of the proposal, I
+     therefore have attached weight to the provisions contained within the UU.
+Planning Balance
+188. Policy M3(1) of the Framework sets out that in assessing proposals for minerals
+     development, substantial weight should be given to the benefits of mineral
+     extraction and processing, including to the economy and that particular importance
+     should be given to the maintenance of minimum reserves of aggregates. I have
+     found that there is a proven and demonstrable need for the proposed development
+     to contribute to the future supply of sand and gravel in this part of Lancashire. The
+     proposal would make an important contribution to the landbank for sand and
+     gravel in the County which faces a critical landbank and supply shortage. I have
+     therefore attached significant weight to these benefits.
+189. Subject to appropriate planning conditions, the proposed development would not,
+     by reason of noise, dust or poor air quality, have a significant and demonstrable
+     adverse effect on the amenity of the area or the living conditions and health of
+     those living nearby.
+190. However, I have found that the proposed development would present an
+     unacceptable highway safety risk. As such it would be contrary to the provisions
+     of Policy DM2 of the Local Plan Part 1 and Policy CDMP6 of the Wyre Local Plan.
+     It would also be contrary to the provisions of National Decision-Making Policy
+     TR6(4) of the Framework which clearly and unambiguously states that
+     development proposals should be refused if they would have an unacceptable
+     impact on highway safety.
+191. Notwithstanding the weight that I have attached to the benefits of the proposed
+     development, I consider that these would be significantly and demonstrably
+     outweighed by the unacceptable highway safety risk that would be caused. The
+
+https://www.gov.uk/planning-inspectorate   31
+Appeal Decision 6002168
+
+
+      proposed development would be contrary to the provisions of the above
+      Development Plan policies and Policy TR(6) of the Framework. Consequently, the
+      evidence in this case leads me to the conclusion that the appeal should be
+      dismissed.
+Conclusion
+192. For the above reasons, taking into account the Development Plan and the
+     Framework as a whole, based on the evidence before me and all other matters
+     raised, I conclude that the appeal should be dismissed.
+
+
+
+Stephen Normington
+INSPECTOR
+
+
+
+
+https://www.gov.uk/planning-inspectorate   32
+Appeal Decision 6002168
+
+
+ANNEX A – APPEARANCES
+
+FOR THE APPELLANT
+
+John Barrett, Counsel
+
+      He called
+        Simon Rees BSc, MSc, C.Geol, FGS, MIQ    Director, Greenfield
+                                                 Environmental Ltd
+        Dr Robert Storey Beng, PhD, MIOA         Senior Consultant, WBM
+                                                 Acoustic Consultants
+        Katrina Early Hawkins BSc (Hons), MSc,   Chairman, Smith Grant LLP
+        CENV, MIES, MIAQM, MISEP
+        Jim Budd MSc, FCIHT                      Director, Singleton Clamp &
+                                                 Partners
+        Liam Toland BA (Hons), MSc, MRTPI        Director, Kedd Ltd
+
+
+FOR LANCASHIRE COUNTY COUNCIL
+Constanze Bell, Counsel
+      She called
+        David Gray BSc (Hons), MIOA              Principal Acoustician,
+                                                 AtkinsRéalis
+        Matthew Edwards BSc (Hons), MSc          Associate in Air Quality and
+        MIEnvSc, MIAQM, CSci                     Emissions Team, AtkinsRéalis
+        Ryan Derbyshire BSc (Hons), MSc, MCIHT   Team Leader Highways
+                                                 Development Control,
+                                                 Lancashire County Council
+        Richard Sharples BSc, MA, PGDip          Principal Planning Officer,
+                                                 Lancashire County Council
+INTERESTED PARTIES
+Councillor Matthew Salter                        Lancashire County Council
+Paul Ellis                                       Fylde Bird Club
+Ashely Anderton                                  Chair Knott End and Preesall
+                                                 Flood Action
+Rob Billingham                                   Local resident
+Carmel Harding                                   Lancaster Road Quarry
+                                                 Boundary Residents Association
+Paul O’Connor                                    Local resident
+
+
+https://www.gov.uk/planning-inspectorate   33
+Appeal Decision 6002168
+
+
+Peter Swarbrick                                    Chair Stalmine-with-Staynall
+                                                   Residents Association
+Ian Dale                                           Local resident
+David Irvine                                       Chair Willowgrove Park
+                                                   Residents Association
+Councillor Collette Rushworth                      Wyre Borough Council
+Victoria Dewhirst (read by Councillor Rushworth)   Local resident
+Harry Hutcheon                                     Local resident
+Pieter Burke                                       Local resident
+Neil Cookson                                       Chair Pilling Parish Council
+Carol Howden (read by Councillor Rimmer)           Local resident
+Councillor Claire Rimmer                           Wyre Borough Council
+Aaron Englander                                    Local resident
+Mary Wood                                          Local resident
+Bob Rushforth                                      Local resident
+Mr Shields (read by Colin Murray)                  Local resident
+Cat Smith MP                                       Member of Parliament for
+                                                   Lancaster and Wyre
+Marc Glass (read by Councillor Rushworth)          Local resident
+
+
+
+
+https://www.gov.uk/planning-inspectorate   34
+Appeal Decision 6002168
+
+
+ANNEX B
+CORE DOCUMENTS
+
+
+Core documents and associated Inquiry documents can be found on the Inquiry
+Website which is accessible at:
+
+
+https://www.lancashire.gov.uk/environment-and-planning/planning/bourbles-lane-
+preesall/
+
+
+
+
+https://www.gov.uk/planning-inspectorate   35
+Appeal Decision 6002168
+
+
+ANNEX C
+DOCUMENTS SUBMITTED DURING THE INQUIRY (ID)
+
+
+ Inquiry Document                               Description of Document
+        (ID)
+          ID1              Rule 6 Party Opening Statement
+
+          ID2              Appellant Opening Statement
+
+          ID3              Lancashire County Council Opening Statement
+
+          ID4              Speaking Note of Paul Ellis
+
+          ID5              Speaking Note of Rob Billingham
+
+          ID6              Speaking Note of Paul O’Connor
+
+          ID7              Speaking Note of Ian Dale
+
+          ID8              Speaking Note of Councillor Matthew Salter
+
+          ID9              Speaking Note and ownership evidence of Carmel Harding
+
+         ID10              Revised Plans List submitted by the Appellant
+
+         ID11              Electronic copy of revised plans
+
+         ID12              Speaking Note of Peter Swarbrick
+
+         ID13              Technical Noise Note submitted by Mr Gray
+
+         ID14              Legal Opinion regarding location of Average Speed Cameras
+
+         ID15              Technical Note relating to noise relating to Phase 1 Internal
+                           works submitted by Dr Storey
+
+         ID16              Speaking Note of David Irvine
+
+         ID17              Revised List of Plans V1 15.04.26
+
+         ID18              Revised Plan PA24-9 V3b – Conceptual Restoration
+
+         ID19              Plan showing revised site visit walkover points V3 submitted by
+                           Appellant
+
+         ID20              Plan showing off-site site visit location points submitted by Rule 6
+                           Party
+
+         ID21              Speaking Note of Ashley Anderton
+
+
+
+https://www.gov.uk/planning-inspectorate        36
+Appeal Decision 6002168
+
+
+
+         ID22              Revised Agreed Description of Proposed Development
+
+         ID23              Speaking Note of Councillor Collette Rushforth
+
+         ID24              Speaking Note of Victoria Dewhirst
+
+         ID25              Speaking Note of Mary Wood
+
+         ID26              Speaking Note of Bob Rushforth
+
+         ID27              Speaking Note of John Shields
+
+         ID28              Speaking Note of Carol Howden
+
+         ID29              Speaking Note of Councillor Claire Rimmer
+
+         ID30              Speaking Note of Harry Hutcheon
+
+         ID31              Speaking Note of Pieter Burks
+
+         ID32              Speaking Note of Cat Smith MP
+
+         ID33              Questions for written response from Br Buroni submitted by Rule
+                           6 Party
+
+         ID34              Technical Note TN01 submitted by Appellant to demonstrate site
+                           access visibility splays
+
+         ID35              Speaking Note of Marc Glass
+
+         ID36              Health Technical Note provided by Dr Buroni in response to
+                           questions raised by Rule 6 Party
+
+         ID37              Email dated 21.4.26 from Xanthe Barker Wild
+
+         ID38              Appeal Decision APP/R0660/W/24/3355974
+
+         ID39              Objection to Revised Transport Statement dated December 2024
+                           by Lancaster Road Quarry Boundary Residents Association
+
+         ID40              Official Copy Title Plan and Register Entry LA754983
+
+         ID41              Official Copy Title Plan and Register Entry LA905060
+
+         ID42              Official Copy Title Plan and Register Entry LAN266168
+
+         ID43              Official Copy Title Plan and Register Entry LA582412
+
+         ID44              Closing Statement by Lancashire County Council
+
+         ID45              Closing Statement by Rule 6 Party
+
+         ID46              Closing Statement by Appellant
+
+https://www.gov.uk/planning-inspectorate       37
+Appeal Decision 6002168
+
+
+ANNEX D
+LIST OF DOCUMENTS REQUESTED BY THE INSPECTOR AND SUBMITTED
+AFTER THE CLOSE OF THE ORAL SESSIONS OF THE INQUIRY
+
+
+ Inquiry Document                             Description of Document
+        (ID)
+
+         ID47              Revised Draft Planning Conditions
+
+         ID48              Completed Unilateral Undertaking (dated 12 May 2026) which
+                           provides for a Traffic Management Scheme
+
+
+
+
+https://www.gov.uk/planning-inspectorate      38
+

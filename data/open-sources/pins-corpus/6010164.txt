@@ -1,0 +1,212 @@
+Appeal Decision
+Site visit made on 4 August 2026
+by L Reid BSc (Hons) MA MRTPI
+an Inspector appointed by the Secretary of State
+Decision date: 16 September 2026
+
+
+Appeal Ref: 6010164
+Verge at Chelmsford Road, Great Dunmow, Uttlesford CM6 1LL
+•    The appeal is made under section 78 of the Town and Country Planning Act 1990 (as amended)
+     against a refusal to grant planning permission.
+•    The appeal is made by Ms Ashleigh Boyce, AMP Clean Energy against the decision of Uttlesford
+     District Council.
+•    The application Ref is UTT/26/0113/FUL.
+•    The development proposed is construction and operation of a micro energy storage project.
+
+Decision
+1.     The appeal is allowed and planning permission is granted for the construction and
+       operation of a micro energy storage project at Verge at Chelmsford Road, Great
+       Dunmow, Uttlesford CM6 1LL in accordance with the terms of the application, Ref
+       UTT/26/0113/FUL, subject to the conditions in the attached schedule.
+Preliminary Matters
+2.     Since the appeal was made, the Government published a revised National
+       Planning Policy Framework (the Framework). Any policies that are material to this
+       decision have not fundamentally changed in the Framework. As a result, I consider
+       that there is no requirement for me to seek further submissions on the revised
+       Framework, and I am satisfied that no party’s interests have been prejudiced by my
+       approach.
+3.     Appeal decisions must be made on the basis of the currently-adopted development
+       plan. Since the application was determined, the Uttlesford Local Plan 2021 – 2041
+       March 2026 (the Local Plan) has been adopted and supersedes the Uttlesford
+       Local Plan January 2005. The Council has provided the relevant policies, and both
+       main parties have had the opportunity to comment on the implications for this
+       appeal. I am therefore satisfied that my consideration of the appeal against the
+       policies in the new Local Plan has prejudiced no party.
+Main Issues
+4.     The main issues in this appeal are:
+       •    Protected habitats and species;
+       •    Noise; and,
+       •    Crime and disorder.
+
+
+
+
+https://www.gov.uk/planning-inspectorate
+Appeal Decision 6010164
+
+
+Reasons
+Protected habitats and species
+5.     The appeal site comprises a roadside verge that is currently overgrown with
+       vegetation and trees. It adjoins a wider vegetated drainage ditch containing trees
+       and dense shrubs. The site is not designated as a habitat or wildlife corridor. To
+       facilitate the development, the vegetation within the site would be cleared, and
+       some adjacent shrubs would be cut back.
+6.     Paragraph 99 of Circular 06/2005 states that the presence of a protected species is
+       a material consideration where a development proposal is likely to result in harm to
+       the species or its habitat. It is therefore essential that the presence or absence of
+       protected species, and the extent to which they may be affected by the proposed
+       development, is established before planning permission is granted. Otherwise, all
+       relevant material considerations may not have been taken into account in reaching
+       a decision.
+7.     The need to ensure ecological surveys are carried out should therefore only be left
+       to coverage under planning conditions in exceptional circumstances, with the result
+       that the surveys are carried out after planning permission has been granted.
+       However, developers should not be required to undertake surveys for protected
+       species unless there is a reasonable likelihood of the species being present and
+       affected by the proposed development.
+8.     Although the Council’s Ecologist advises that the appeal site may include features
+       with the potential to support bat roosts, there is limited credible evidence to
+       demonstrate that protected species are present, that they would be adversely
+       affected by the proposal, or that habitats of particular ecological importance would
+       be harmed. Nor is there substantive evidence that the development would lead to
+       the loss of, or damage to, an important hedgerow. In these circumstances and
+       having regard to the specific characteristics of the site, I am satisfied that any
+       ecological concerns could be appropriately dealt with by way of a planning
+       condition requiring an ecological survey to be undertaken, with any necessary
+       mitigation measures subsequently secured and implemented.
+9.     For these reasons, I have insufficient evidence to show that the proposed
+       development would result in harm to protected habitats or species. Subject to
+       planning conditions, the proposed development would comply with Core Policy 25
+       of the Local Plan, which states that renewable energy development will be
+       encouraged provided that any adverse impacts can be satisfactorily addressed,
+       including cumulative impact on ecology and biodiversity.
+10. Core Policy 40 of the Local Plan is focused on the statutory Biodiversity Net Gain
+    requirements. As the proposed development would be exempt from the statutory
+    requirements, this policy is not determinative.
+Noise and disturbance
+11. The application is supported by a Battery Noise Impact Assessment (the NIA).
+    Whilst the assessment does not address all matters in detail, it indicates that noise
+    levels would reduce with increasing distance from the proposed battery units. The
+    nearest noise-sensitive receptors are located in excess of 60 metres from the
+    appeal site and are therefore considerably further away than the distances
+
+
+https://www.gov.uk/planning-inspectorate   2
+Appeal Decision 6010164
+
+
+       assessed in the NIA. There is nothing substantive before me to counter the findings
+       in the NIA.
+12. The Council's concerns relate primarily to the lack of detailed technical information,
+    rather than to any identified unacceptable impact on the living conditions of
+    neighbouring occupiers. In these circumstances, I am satisfied that the NIA
+    provides a sufficient baseline assessment of the likely noise impacts. As such, any
+    remaining uncertainty could reasonably be addressed by planning condition,
+    requiring a more detailed noise assessment to be undertaken and any necessary
+    mitigation measures identified and implemented.
+13. For these reasons, subject to planning conditions, I therefore conclude that the
+    effect of noise pollution has been satisfactorily demonstrated. The proposed
+    development would therefore comply with Core Policies 25 and 44 of the Local
+    Plan, which amongst other things, require it to be demonstrated that nearby noise
+    sensitive uses will not be exposed to noise impacts that adversely affect residential
+    amenity.
+Crime and disorder
+14. The submitted elevations show that the battery cabinet would be enclosed by mesh
+    panel fencing. Whilst concerns have been raised regarding the effectiveness of the
+    proposed fencing in terms of resisting cutting and unauthorised access, these
+    matters could be addressed through appropriately worded planning conditions
+    requiring the submission and approval of revised fencing specifications, together
+    with details of any additional security measures.
+15. As such, subject to planning conditions, I conclude that the proposed development
+    would not give rise to crime and disorder. It would therefore comply with Policy 52
+    of the Local Plan, which amongst other things, requires the creation of safe public
+    spaces.
+Other Matters
+16. I have considered the matters raised in the objections received to the planning
+    application in relation to highway safety and any future road layout changes. The
+    proposed development would be set back away from the road edge. The Council
+    stated that vehicles approaching the junction would have ample visibility, and I
+    have no reason to reach a contrary view.
+Conditions
+17. I have imposed the statutory implementation condition [1], along with a condition
+    listing the approved plans to provide certainty [2].
+18. In the interests of conserving and enhancing protected species and habitats, it is
+    necessary to require an ecological survey to be undertaken [3]. This is a pre-
+    commencement condition because vegetation clearance and other site preparation
+    works could adversely affect ecological features. The survey findings will inform
+    any necessary mitigation and enhancement measures, which must be agreed and
+    implemented prior to the commencement of development, ensuring that protected
+    species and habitats are appropriately safeguarded. The appellant has given
+    written agreement to this condition.
+
+
+
+https://www.gov.uk/planning-inspectorate   3
+Appeal Decision 6010164
+
+
+19. To protect the living conditions of nearby occupants, it is necessary to require a
+    more detailed noise impact assessment to be carried out to establish whether
+    mitigation measures are needed [4]. This is a pre-commencement condition to
+    ensure that any necessary mitigation is incorporated into the development from the
+    outset. The appellant has given written agreement to this condition.
+20. A condition requiring fencing and security measures details has also been imposed
+    in the interests of crime and disorder [5].
+21. Based on the information available this permission is considered to be one which
+    will not require the approval of a biodiversity gain plan before development is begun
+    because a statutory exemption applies.
+Conclusion
+22. For the reasons given above, the appeal should be allowed.
+
+
+
+L Reid
+INSPECTOR
+                                           SCHEDULE OF CONDITIONS
+     1)       The development hereby permitted shall begin not later than 3 years from the
+              date of this decision.
+     2)       The development hereby permitted shall be carried out in accordance with the
+              following approved plans: 01 LOCATION PLAN REV B, 02 LAYOUT PLAN
+              REV B, PLAN 4, PLAN 5.
+     3)       No development shall commence until an ecological survey has been
+              undertaken by a suitably qualified ecologist and submitted to the Local
+              Planning Authority. If the survey identifies the presence, or likely presence, of
+              protected, priority or threatened species and habitats, a scheme of avoidance,
+              mitigation and/or compensation measures shall be submitted to and approved
+              in writing by the Local Planning Authority before development commences.
+              The scheme shall include:
+              a) purpose and conservation objectives for the proposed measures;
+              b) detailed designs or product descriptions to achieve stated objectives;
+              c) locations of the measures by appropriate drawings;
+              d) persons responsible for implementing the measures;
+              e) details of initial aftercare and long-term maintenance (where relevant).
+              The development shall thereafter be carried out in accordance with the
+              approved mitigation measures, and any approved biodiversity enhancements
+              shall be implemented prior to the first operation of the development hereby
+              approved and retained thereafter.
+
+     4)       No development shall commence until a Noise Impact Assessment has been
+              submitted to and approved in writing by the Local Planning Authority.
+
+
+https://www.gov.uk/planning-inspectorate         4
+Appeal Decision 6010164
+
+
+              If mitigation measures are identified as necessary, details of such measures
+              shall be submitted as part of the assessment and implemented in full before
+              the first operation of the development hereby approved. The approved
+              mitigation measures shall be retained thereafter.
+     5)       Prior to installation the fencing specification and details of security measures
+              shall be submitted to and approved in writing by the Local Planning Authority.
+              The development shall be carried out in accordance with the approved details
+              prior to the first operation and shall thereafter be maintained.
+                                           END OF SCHEDULE
+
+
+
+
+https://www.gov.uk/planning-inspectorate      5
+

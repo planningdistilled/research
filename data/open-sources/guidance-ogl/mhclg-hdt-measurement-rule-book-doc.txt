@@ -1,0 +1,565 @@
+Housing Delivery Test measurement rule book - GOV.UK
+
+Cookies on GOV.UK
+
+We use some essential cookies to make this website work.
+
+We’d like to set additional cookies to understand how you use GOV.UK, remember your settings and improve government services.
+
+We also use cookies set by other sites to help us deliver content from their services.
+
+You have accepted additional cookies. You can change your cookie settings at any time.
+
+You have rejected additional cookies. You can change your cookie settings at any time.
+
+ Accept additional cookies
+
+ Reject additional cookies
+
+ View cookies
+
+ Hide cookie message
+
+ Skip to main content
+
+ Navigation menu
+
+ Menu
+
+ Menu
+
+ Services and information
+
+- 
+ Benefits
+
+- 
+ Births, death, marriages and care
+
+- 
+ Business and self-employed
+
+- 
+ Childcare and parenting
+
+- 
+ Citizenship and living in the UK
+
+- 
+ Crime, justice and the law
+
+- 
+ Disabled people
+
+- 
+ Driving and transport
+
+- 
+ Education and learning
+
+- 
+ Employing people
+
+- 
+ Environment and countryside
+
+- 
+ Housing and local services
+
+- 
+ Money and tax
+
+- 
+ Passports, travel and living abroad
+
+- 
+ Visas and immigration
+
+- 
+ Working, jobs and pensions
+
+ Government activity
+
+- 
+ Departments
+
+Departments, agencies and public bodies
+
+- 
+ News
+
+News stories, speeches, letters and notices
+
+- 
+ Guidance and regulation
+
+Detailed guidance, regulations and rules
+
+- 
+ Research and statistics
+
+Reports, analysis and official statistics
+
+- 
+ Policy papers and consultations
+
+Consultations and strategy
+
+- 
+ Transparency
+
+Data, Freedom of Information releases and corporate reports
+
+ Search GOV.UK
+
+ ×
+
+ Search GOV.UK
+
+ Search
+
+ Search GOV.UK
+
+ Search
+
+- 
+ Home
+
+- 
+ Housing, local and community
+
+- 
+ Planning and building
+
+- 
+ Housing Delivery Test measurement rule book
+
+- 
+
+ Ministry of Housing,
+Communities & 
+Local Government
+
+- 
+
+ Ministry of Housing,
+Communities &
+Local Government (2018 to 2021)
+
+- 
+
+ Department for Levelling Up,
+Housing & Communities
+
+ Guidance
+
+ Housing Delivery Test measurement rule book
+
+Updated 17 August 2026
+
+ Applies to England
+
+ Contents
+
+- 
+
+ 1. Overview
+
+- 
+
+ 2. Housing Delivery Test calculation
+
+- 
+
+ 3. How is ‘net homes delivered’ calculated (the numerator)?
+
+- 
+
+ 4. How is the ‘number of homes required’ calculated (the denominator)?
+
+ Print this page
+
+ © Crown copyright 2026
+
+ This publication is licensed under the terms of the Open Government Licence v3.0 except where otherwise stated. To view this licence, visit nationalarchives.gov.uk/doc/open-government-licence/version/3 or write to the Information Policy Team, The National Archives, Kew, London TW9 4DU, or email: psi@nationalarchives.gov.uk.
+
+ Where we have identified any third party copyright information you will need to obtain permission from the copyright holders concerned.
+
+ This publication is available at https://www.gov.uk/government/publications/housing-delivery-test-measurement-rule-book/housing-delivery-test-measurement-rule-book
+
+1. Overview
+
+1. The Housing Delivery Test is an annual measurement of housing delivery in the area of relevant plan-making authorities (non-metropolitan districts, metropolitan boroughs, London boroughs and development corporations with plan-making and decision-making powers).
+
+2. The Housing Delivery Test does not apply to National Park Authorities, the Broads Authority or to development corporations without full plan-making and planning decision-making powers.
+
+3. The Housing Delivery Test results will be published annually by the Ministry of Housing, Communities and Local Government (MHCLG). The first Housing Delivery Test was published in February 2019.
+
+4. The planning policy consequences of the Housing Delivery Test indicating that a local planning authority’s delivery has fallen below their housing requirement are set out in the National Planning Policy Framework as follows:
+
+a) where delivery falls below 95% of the requirement over the previous three years, the authority should prepare an action plan to assess the causes of under delivery and identify actions to increase delivery in future years
+
+b) where delivery falls below 85% of the requirement over the previous three years, a buffer of 20% should be added to the identified supply of specific deliverable sites. This is in addition to the requirements for an action plan
+
+c) where delivery falls below 75% of the requirement over the previous three years, an evidenced unmet need for housing is deemed to exist for the purpose of applying policy S5(1)(j) in the Framework. This is in addition to the requirements for an action plan and 20% buffer.
+
+2. Housing Delivery Test calculation
+
+5. The Housing Delivery Test is a percentage measurement of the number of net homes delivered against the number of homes required, as set out in the relevant strategic policies for the areas covered by the Housing Delivery Test, over a rolling historical 3-year period.
+
+Housing Delivery Test (%) =
+
+Total net homes delivered over 3 year period
+
+divided by
+
+Total number of homes required over 3 year period
+
+3. How is ‘net homes delivered’ calculated (the numerator)?
+
+6. The number of net homes delivered is the National Statistic for net additional dwellings over a rolling 3 year period, with adjustments for net student and net other communal accommodation (bedspaces) [footnote 1].
+
+7. The calculation for housing delivery is as follows:
+
+Net homes delivered in a year
+
+net increase in bedrooms in other communal accommodation in local authority
+
+divided by
+
+average number of adults in households in England
+
+8. The National Statistic for net additional dwellings is sourced from the Housing Flows Reconciliation form for non-London authorities[footnote 2], and the Greater London Authority for London boroughs.[footnote 3]
+
+9. The adjustments for student and other communal accommodation are calculated by MHCLG and added to the net additional dwellings figures[footnote 4]. Adjustments are applied using two ratios, based on England Census 2021 data. The ratios will be updated following each Census when the source data is publicly available.
+
+10. The ratio applied to student accommodation is calculated by dividing the total number of students living in student-only households by the total number of student-only households in England. The current ratio is 2.4.
+
+11. The ratio applied to other communal accommodation is based on the national average number of adults in all households. The current ratio is 1.9. This is calculated by dividing the total number of adults living in all households by the total number of households in England.
+
+4. How is the ‘number of homes required’ calculated (the denominator)?
+
+Housing requirements less than 5 years old
+
+12. Where the latest adopted housing requirement figure[footnote 5] is less than 5 years old, or has been reviewed and does not need updating[footnote 6], the figure used will be the lower of:
+
+- 
+either - the latest adopted housing requirement[footnote 7][footnote 8][footnote 9]. This requirement will be the stepped housing requirement (or the annual average requirement where there is no stepped requirement). This is the case for:
+
+i. Districts or boroughs where the requirement is set out in a district or borough local plan. Where a spatial development strategy is also in place, the district or borough plan requirement will continue to be used until it is more than 5 years old, or the requirement has been reviewed and found not to require updating.
+
+ii. Joint plans where the requirement is set out in a joint plan. The joint plan should be clear whether areas will be measured jointly or separately for the purposes of the Housing Delivery Test. Where authorities are measured separately, the policy consequences will apply to each authority separately. If there are no separate requirements, then the joint housing requirement figure will be used to measure the authorities jointly across the plan area. Where authorities are measured jointly, the policy consequences will apply jointly to all authorities covered by the plan.
+
+iii. Development corporations with full plan-making and decision-making powers, where the requirement is set out in a local plan prepared by the development corporation.
+
+iv. Spatial development strategies (SDS), where the district or borough plan requirement is older than 5 years old and needs updating, an apportioned requirement set out in the SDS will be used.
+
+- 
+or the minimum annual local housing need figure[footnote 10] for that authority calculated with a base date of 1 April each year[footnote 11].
+
+13. If the housing requirement is set out as a range, the Housing Delivery Test will measure against the lower end of the range.
+
+Housing requirements more than 5 years old
+
+14. Where the latest adopted housing requirement figure is over 5 years old, unless the strategic policies have been reviewed and found not to require updating, the figure used will be:
+
+i. For areas with a local plan or a joint local plan: the minimum annual local housing need figure[footnote 12]
+
+ii. For development corporations with full plan-making and decision-making powers: Apportioned housing requirement in a borough/ district plan, or a spatial development strategy (SDS) that is less than 5 years old.
+
+iii. For areas covered by a spatial development strategy: Apportioned housing requirement in a SDS that is less than 5 years old, (or where relevant strategic policies have been reviewed and found not to require updating), or the minimum annual local housing need figure if the SDS is older than 5 years, or where relevant strategic policies have not been reviewed or have been reviewed and require updating.
+
+15. Where the minimum annual local housing need figure applies, this number should be calculated with a base date of 1 April each year. This calculation should use the affordability ratio for the previous calendar year. The affordability ratios are published by the Office for National Statistics[footnote 13]. The resulting minimum annual local housing need figure will then be used for the Housing Delivery Test calculation.
+
+Changes to the housing requirement
+
+16. Any new housing requirement will be used for the calculation of the Housing Delivery Test from the date that it becomes part of the development plan.
+
+17. For the purposes of calculating the Housing Delivery Test, the new adopted housing requirement will apply from the start of the relevant plan period (set out in the housing requirement policies), which may be earlier than the date of adoption of the strategic policies.
+
+18. Following adoption of new housing requirement policies, the new housing requirement figure can be used to recalculate the Housing Delivery Test results during the year, in collaboration with MHCLG.
+
+19. A rolling 3-year Housing Delivery Test period may span more than one plan and housing requirement. Where a previous housing requirement (less than 5 years old unless it has been reviewed and does not need updating) exists for one or more of those years, that previous housing requirement will be used for the calculation until
+the new housing requirement is adopted. Figures will be apportioned within a Housing Delivery Test year.
+
+20. Where a housing requirement figure becomes older than five years during the Housing Delivery Test period (unless the relevant strategic policies have been reviewed and found not to require updating), this will be used for the Housing Delivery Test measurement up to the fifth anniversary of its adoption. Where this anniversary is part way through the year, the housing requirement will be apportioned based on the number of days in the year. If the figure has not been reviewed, or requires updating, the remainder of the year and subsequent years, will be based on the minimum annual local housing need figure, until a new housing requirement is adopted, as per Table 1.
+
+Transitional arrangements
+
+21. The government published a revised standard method on 12 December 2024. When calculating the minimum annual local housing need figure for the purposes of a given Housing Delivery Test measurement year, the following arrangements will apply:
+
+ Measurement year of three-year rolling Housing Delivery Test period
+ Standard method used
+
+ 2023/24
+ Previous[footnote 14]
+
+ 2024/25
+ Previous
+
+ 2025/26
+ Previous
+
+ 2026/27
+ Previous
+
+ 2027/28 onwards
+ Revised[footnote 15]
+
+22. This means that the revised standard method will be used for all monitoring years in the 2030 Housing Delivery Test.
+
+Recently reorganised unitary authorities
+
+23. New unitary authorities are able to choose to be scored at their former authority boundaries or their new unitary boundary for the purpose of the Housing Delivery Test measurement until the fifth anniversary of the new authority’s existence.[footnote 16]
+
+Table 1. Housing figure for the Housing Delivery Test, depending on type and age of the strategic housing policies in a plan-making authority.
+
+Note: the HDT uses either the minimum annual local housing need figure or the housing requirement identified in this table, whichever is lower.
+
+ Plan Area
+ An adopted housing requirement that is less than 5 years old or a plan that is more than five years old but the review has confirmed the housing figure does not need updating[footnote 17]
+
+ An adopted housing requirement figure that is more than 5 years old and has not been updated.
+
+ Local Plan
+
+Stepped housing requirement (or the annual average if housing requirement not stepped)
+ Minimum annual local housing need figure.
+
+ Joint local plan
+
+Apportioned stepped (or annual average if housing requirement not stepped) housing requirement figure, as set out in the joint plan. If no apportioned housing requirement figure is available, then the joint housing requirement figure will be used and the authorities measured jointly.
+ Minimum annual local housing need figure.
+
+ Development corporations[footnote 18] with full plan-making and decision-making powers
+
+Stepped housing requirement (or annual average if housing requirement not stepped) in the development corporation’s local plan.
+
+Apportioned housing requirement in a borough / district plan or a SDS.
+
+ Areas covered by a spatial development strategy
+
+Stepped housing requirement (or annual average if housing requirement not stepped) in the borough or district local plan.
+
+Apportioned housing requirement in a SDS that is less than 5 years old and does not need updating, or the minimum annual local housing need figure if the SDS is older than 5 years, has not been reviewed, or has been reviewed and hasn’t been updated.
+
+Note: in the table above - where the housing requirement is set up as a range, the lower end of that range applies.
+
+- 
+
+As defined in the Housing Flow Reconciliation (HFR) guidance notes ↩
+
+- 
+
+Published by MHCLG annually in November ↩
+
+- 
+
+See separate guidance on how to fill out the Housing Flows Reconciliation form ↩
+
+- 
+
+Where bedroom data has been provided by local authorities through their Housing Flow Reconciliation ↩
+
+- 
+
+As collected by MHCLG from local planning authorities on an annual basis through a Housing Delivery Test DELTA collection (https://delta.communities.gov.uk/introducing-delta). If authorities need to update their DELTA contact for the Housing Delivery Test DELTA collection, they should contact the Helpdesk via email DELTA@tso.co.uk or call 0333 202 5084. ↩
+
+- 
+
+This only applies to local plans prepared in the ‘legacy’ plan making system, and where reviews have been undertaken in accordance with Regulation 10A of the Town and Country Planning (Local Planning) (England) Regulations 2012. ↩
+
+- 
+
+Where a housing requirement figure is adopted and then repeated in a subsequent plan (such as an allocations document) without re-testing the housing requirement, the housing requirement will be deemed valid for five years only from the first time that the figure was adopted (unless the original plan has been reviewed and found not to require updating). ↩
+
+- 
+
+Where applicable, the accommodation requirement for Gypsies and Travellers under the National Planning Policy Framework will be added to the housing requirement. Plan-making authorities should inform MHCLG of their housing requirement for Gypsies and Travellers through the annual Housing Delivery Test DELTA data collection. ↩
+
+- 
+
+This figure is the annual or stepped requirement across the plan, excluding any previous under-delivery from the start of the plan period. ↩
+
+- 
+
+Using the standard method for assessing the minimum annual local housing need figure set out Annex D of the NPPF. ↩
+
+- 
+
+This calculation must use the affordability ratio for the previous calendar year. ↩
+
+- 
+
+See paragraph 12 for explanation about the minimum annual local housing need figure. ↩
+
+- 
+
+Housing delivery for Development Corporations without full plan-making and decision-making powers will be included as part of the local authorities’ Housing Delivery Test measurements. ↩
+
+- 
+
+For avoidance of doubt, the previous standard method is the method which was published on 16 December 2020. This includes the Urban Uplift for relevant areas. An archived version of this guidance is available here: ARCHIVED CONTENT: Housing and economic needs assessment. ↩
+
+- 
+
+As set out in Annex D of the NPPF. ↩
+
+- 
+
+As set out in statement HCWS254: Written statements - UK Parliament. ↩
+
+- 
+
+A link to the published review should be provided to MHCLG through DELTA as part of the Housing Delivery Test annual data collection. ↩
+
+- 
+
+Housing delivery for Development Corporations without full plan-making and decision-making powers will be included as part of the local authorities’ Housing Delivery Test measurements. ↩
+
+ Back to top
+
+Is this page useful?
+
+- 
+
+ Maybe
+
+- 
+
+ Yes this page is useful
+
+- 
+
+ No this page is not useful
+
+ Thank you for your feedback
+
+ Report a problem with this page
+
+Help us improve GOV.UK
+
+Do not include personal or financial information like your National Insurance number or credit card details.
+
+ This field is for robots only. Please leave blank
+
+ What were you doing?
+
+ What went wrong?
+
+ Send
+
+ Cancel
+
+Help us improve GOV.UK
+
+ To help us improve GOV.UK, we’d like to know more about your visit today.
+ Please fill in this survey (opens in a new tab).
+
+ Cancel
+
+Services and information
+
+- 
+ Benefits
+
+- 
+ Births, death, marriages and care
+
+- 
+ Business and self-employed
+
+- 
+ Childcare and parenting
+
+- 
+ Citizenship and living in the UK
+
+- 
+ Crime, justice and the law
+
+- 
+ Disabled people
+
+- 
+ Driving and transport
+
+- 
+ Education and learning
+
+- 
+ Employing people
+
+- 
+ Environment and countryside
+
+- 
+ Housing and local services
+
+- 
+ Money and tax
+
+- 
+ Passports, travel and living abroad
+
+- 
+ Visas and immigration
+
+- 
+ Working, jobs and pensions
+
+Government activity
+
+- 
+ Departments
+
+- 
+ News
+
+- 
+ Guidance and regulation
+
+- 
+ Research and statistics
+
+- 
+ Policy papers and consultations
+
+- 
+ Transparency
+
+- 
+ How government works
+
+- 
+ Get involved
+
+Support links
+
+- 
+ Help
+
+- 
+ Privacy
+
+- 
+ Cookies
+
+- 
+ Accessibility statement
+
+- 
+ Contact
+
+- 
+ Terms and conditions
+
+- 
+ Rhestr o Wasanaethau Cymraeg
+
+- 
+ Government Digital Service
+
+ All content is available under the Open Government Licence v3.0, except where otherwise stated
+
+ © Crown copyright

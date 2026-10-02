@@ -1,0 +1,9 @@
+[project]
+name = "planningdistilled-research"
+version = "0.1.0"
+description = "Tools for the Planning Distilled NPPF 2026 decisions database and guidance corpus"
+requires-python = ">=3.11"
+dependencies = ["pyyaml>=6"]
+
+[tool.uv]
+package = false

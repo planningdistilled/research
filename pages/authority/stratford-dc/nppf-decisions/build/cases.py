@@ -1,0 +1,83 @@
+import json, os, re
+from _paths import CASES_JSON, HERE
+os.chdir(HERE)
+Q={x['id']:x['q'] for x in json.load(open('quotes.json'))}
+L=dict(l.split(' ',1) for l in open('locs.txt').read().split('\n') if ' ' in l)
+C={c['case_id']:c for c in json.load(open(CASES_JSON))}
+def q(i): return f'"{Q[i]}" ({L[i]})'
+SEC={1:'1. DP3(3) as a "should be refused" policy',2:'2. Heritage harm at Forest Farm',3:'3. The reason given for discounting CS.8',4:'4. Location shortcuts in the Green Belt',5:'5. Walking routes and stations',6:'6. Reports written under the 2024 Framework'}
+def link(cid):
+    s=C[cid].get('sources') or []
+    return next((u for u in s if 'Eplanningv2/AppDetail' in u), None)
+def letter(cid):
+    s=C[cid].get('sources') or []
+    return next((u for u in s if 'published-document' in u), None)
+cases=[
+ dict(name='Alcester 26/01376/FUL', title='30 Hadrians Walk, Alcester', cid='stratford-26-01376-FUL', line='**26/01376/FUL** · Stratford-on-Avon District Council · officer (delegated) · decided 17 September 2026 · **refused**', desc='Erection of 2no dwellings and associated external works (resubmission of planning application No:25/02296/FUL).', secs=[1],
+      pts=[f'The site is partly in flood zones 2 and 3: {q("alc-fz")}. {q("alc-f7")}.', f'The officer applied S4(2)(c): {q("alc-trigger")}. S4(2)(c) makes the benefits "likely to be substantially outweighed"; it does not switch the presumption off.', 'The decision notice also records that insufficient information was provided on the habitat baseline of the site.']),
+ dict(name='Snitterfield 26/00617/PIP', title='Land off Jago Green, Snitterfield Lane, Snitterfield', cid='stratford-26-00617-PIP', line='**26/00617/PIP** · Stratford-on-Avon District Council · Planning Committee, 9 September 2026 · notice 10 September 2026 · **granted**', desc='Permission in principle for a minimum of 1 and a maximum of 5 dwellings, including pedestrian access to Park Lane, on open countryside adjacent to the built-up area boundary. The village is washed over by the Green Belt; the report found the scheme not inappropriate under GB7.', secs=[1,3,5],
+      pts=[f'Character: {q("snit-charharm")}; the scheme {q("snit-cs5")}; {q("snit-dp33")}.', f'Route: the report applied {q("snit-partj")} before turning to GB7.', f'The report quotes S5(5) including {q("snit-s55quote")}, but its conclusion does not apply S5(2): {q("snit-concl")}.', f'CS.8: HE5 {q("snit-cs8")}. The report later finds {q("snit-cs8-accord")}.', f'Walking route: the report accepted {q("snit-highway")}. The Update Report for the 9 September committee corrected this, because "{Q["snit-parklane"]}": {q("snit-update")}.'.replace('(p.5)', '(minutes and Update Report, p.5)')]),
+ dict(name='Forest Farm, Long Marston 26/01906/PIP', title='Forest Farm, Welford Road, Long Marston', cid='stratford-26-01906-PIP', line='**26/01906/PIP** · Stratford-on-Avon District Council · officer (delegated) · decided 22 September 2026 · **granted**', desc='Permission in principle for one residential dwelling beside the Grade II listed Forest Farmhouse and Lyndon Cottage.', secs=[2,3],
+      pts=[f'Harm: {q("ff-harm")}; and {q("ff-statute")}.', f'CS.8: HE5 {q("ff-cs8")}. The report then finds {q("ff-cs8fail")} and counts that conflict as harm.', f'Conclusion: the harm {q("ff-balance-harm")}; one dwelling towards {q("ff-balance-benefit")}; and {q("ff-concl")}.', 'The report does not weigh the harm against public benefits under HE6(4). Its only reference to public benefits is in its quotation of neighbourhood plan policy HA.1.']),
+ dict(name='Ilmington 26/01399/PIP', title='Church View, Back Street, Ilmington', cid='stratford-26-01399-PIP', line='**26/01399/PIP** · Stratford-on-Avon District Council · officer (delegated) · decided 28 August 2026 · **refused**', desc='Permission in principle for a new dwelling with associated driveway to rear garden, beside listed buildings in the Ilmington Conservation Area.', secs=[2,3],
+      pts=[f'Supply: {q("ilm-supply")} of housing land supply.', f'CS.8: {q("ilm-cs8")}. The refusal still relies on it: {q("ilm-cs8-refuse")}.', f'Weighing: {q("ilm-modest")}.', f'Result: {q("ilm-balance")}.', f'The report uses the 2024 wording: {q("ilm-great")}.']),
+ dict(name='Upper Quinton 26/00922/FUL', title='Manor Cottage, Upper Quinton', cid='stratford-26-00922-FUL', line='**26/00922/FUL** · Stratford-on-Avon District Council · officer (delegated) · decided 17 September 2026 · **refused**', desc='Removal of wooden window frames and replacement with uPVC double-glazed units on a Grade II listed cottage.', secs=[3],
+      pts=[f'CS.8: {q("uq-cs8")}.', f'Energy efficiency: {q("uq-energy")}.']),
+ dict(name='Tanworth-in-Arden 26/00918/PIP', title='Land off Butts Lane, Tanworth-in-Arden', cid='stratford-26-00918-PIP', line='**26/00918/PIP** · Stratford-on-Avon District Council · Planning Committee, 9 September 2026 · notice 11 September 2026 · **granted**', desc='Permission in principle for a minimum of three and a maximum of nine dwellings, in a village washed over by the Green Belt.', secs=[4,5],
+      pts=[f'S5(1)(j) test applied: the report named {q("tan-partj")} and found {q("tan-wellrelated")}.', f'Walking route, in the S5 and TR3 section: {q("tan-pave")}; {q("tan-short")}. {q("tan-cope")}.', f'The report then applied GB7, relying on that assessment for limb (iii): {q("tan-above")}. It added that Tanworth {q("tan-lsv")}, and passed limb (iii) {q("tan-conflicts")}.']),
+ dict(name='Earlswood 26/01458/FUL', title='The Barn, Tithe Barn Lane, Earlswood (postal address Hockley Heath)', cid='stratford-26-01458-FUL', line='**26/01458/FUL** · Stratford-on-Avon District Council · officer (delegated) · decided 3 September 2026 · **granted**', desc='Demolition of an agricultural barn and erection of a single self-build dwelling with detached garage, in the Green Belt.', secs=[4,5],
+      pts=[f'Built-up area boundary: {q("earl-part")}; {q("earl-majority")}. The access drive and the front and side garden are outside it.', f'GB7(1)(g)(iii): {q("earl-buab")}. The report passed the limb {q("earl-conflicts")}.', 'The report does not assess the route to services against TR3.']),
+ dict(name='Coverwell Farm 25/01271/FUL', title='Land adjoining Coverwell Farm, Pillerton Hersey', cid='stratford-25-01271-FUL', line='**25/01271/FUL** · Stratford-on-Avon District Council · officer (delegated) · decided 17 August 2026 · **refused**', desc='Change of use of land to provide 7 travelling showpersons plots and associated works including hardstanding.', secs=[6],
+      pts=[f'The report lists the {q("cov-2024")} and applies the 2024 paragraph 11(d) balance.', 'Decided on the day the 2026 Framework was published. The site is outside a settlement and not in the Green Belt.']),
+ dict(name='Kineton 26/01764/PIP', title='Pittern Hill Riding School, Pittern Hill, Kineton', cid='stratford-26-01764-PIP', line='**26/01764/PIP** · Stratford-on-Avon District Council · officer (delegated) · decided 25 August 2026 · **granted**', desc='Permission in principle for a maximum of 6 residential dwellings.', secs=[6],
+      pts=[f'{q("kin-11d")}.', f'The report lists the {q("kin-aug")} and says it {q("kin-prior")}.', f'Closing note: {q("kin-note")}.']),
+ dict(name='Oxhill 26/01393/FUL', title='Barn adjacent to Stonecroft House, Kineton Road, Oxhill', cid='stratford-26-01393-FUL', line='**26/01393/FUL** · Stratford-on-Avon District Council · officer (delegated) · decided 25 August 2026 · **granted**', desc='Demolition of existing barns and erection of 5 dwellings with associated works.', secs=[6],
+      pts=[f'The report lists the {q("oxh-aug")} and says it {q("oxh-prior")}.', f'Closing note: {q("oxh-note")}.']),
+ dict(name='Kings Langley (6011803)', title='126 Toms Lane, Kings Langley', cid='PINS-6011803', line='**Appeal 6011803** · Three Rivers District Council · Planning Inspector · decided 9 September 2026 · **dismissed**', desc='Demolition of existing building and construction of replacement and infill dwellings, on a site washed over by the Green Belt.', secs=[1,4],
+      pts=[f'Green Belt: {q("kl-agree")}.', f'Route: {q("kl-s55")}.', f'The council argued S4 applied; the inspector noted {q("kl-washed")}, adding {q("kl-19")}, the concerns would remain.', f'DP3(3): {q("kl-dp33b")}. {q("kl-refused")}.']),
+ dict(name='Hook-a-Gate (6008785)', title='Land adjacent Hanley House, Hook-a-Gate, Shrewsbury', cid='PINS-6008785', line='**Appeal 6008785** · Shropshire Council · Planning Inspector · decided 22 September 2026 · **dismissed**', desc='Outline application for the erection of two dwellings.', secs=[1,3],
+      pts=[f'S5(1)(j): the proposal {q("hg-s51j")}.', f'Local policies are {q("hg-consistent")}. The conflict with the spatial strategy was given moderate weight, {q("hg-38")}.', f'{q("hg-s52")}.', f'Result: {q("hg-outweighed")}.']),
+ dict(name='Ware (6008167)', title='Land to the rear of Dovedale, Ware', cid='PINS-6008167', line='**Appeal 6008167** · East Hertfordshire District Council · Planning Inspector · decided 10 September 2026 · **dismissed**', desc='Erection of four two-storey houses with access and parking. Three already had permission; only the additional detached house was in dispute.', secs=[1],
+      pts=[f'{q("ware-dp33")}. The benefits were found to be substantially outweighed.']),
+ dict(name='Woodford Green (6005325)', title='61 Brackley Square, Woodford Green', cid='PINS-6005325', line='**Appeal 6005325** · London Borough of Redbridge · Planning Inspector · decided 27 August 2026 · **dismissed**', desc='Subdivision of garden and development of a two-storey detached 3-bedroom dwelling on the land to the rear.', secs=[1],
+      pts=[f'Tree loss: {q("wg-treecover")}.', f'{q("wg-s42c")}.']),
+ dict(name='Hunmanby (6007221)', title='Mill Farmhouse, 7 Bridlington Street, Hunmanby', cid='PINS-6007221', line='**Appeals 6007220 and 6007221** · North Yorkshire Council · Planning Inspector · decided 4 September 2026 · **dismissed**', desc='Single storey rear extension to a Grade II listed house (planning permission and listed building consent; appeals against non-determination).', secs=[2],
+      pts=[f'Heritage weighing: {q("hun-40")}.', f'Conclusion: {q("p7221-s4")}.']),
+ dict(name='Bagnall (6008539)', title='Land adjacent to Fulwood, School Road, Bagnall', cid='PINS-6008539', line='**Appeal 6008539** · Staffordshire Moorlands District Council · Planning Inspector, on an appeal planning officer\'s recommendation · decided 18 August 2026 · **dismissed**', desc='A bungalow with garage at the edge of Bagnall village, in the setting of the Bagnall Conservation Area, in the Green Belt.', secs=[2],
+      pts=[f'Heritage: {q("bag-he6")}.', f'Green Belt: the site was grey belt, so not inappropriate, but {q("bag-gb")}.']),
+ dict(name='Smarden (6006475)', title='Land between Copper Lodge and The Cloth Hall, Water Lane, Smarden', cid='PINS-6006475', line='**Appeal 6006475** · Ashford Borough Council · Planning Inspector, after a hearing · decided 16 September 2026 · **dismissed**', desc='35 dwellings with associated landscaping and infrastructure.', secs=[2,3],
+      pts=[f'HE4(2): {q("sm-cc")}.', f'Local policy: {q("sm-hou5")}.']),
+ dict(name='Wandsworth (6007541)', title='7 Vicarage Mansions, Queenstown Road, Wandsworth', cid='PINS-6007541', line='**Appeal 6007541** · London Borough of Wandsworth · Planning Inspector · decided 9 September 2026 · **dismissed**', desc='Alterations including a mansard roof extension to form another level of accommodation.', secs=[3],
+      pts=[f'Local heritage, design and building-height policies (Wandsworth Local Plan 2023–2038, LP1, LP3, LP4 and LP5): {q("wa-full")}.']),
+ dict(name='Hatton Station (6006637)', title='Land off Oakdene Crescent, Hatton, Warwick', cid='PINS-6006637', line='**Appeal 6006637** · Warwick District Council · Planning Inspector, after a hearing · decided 23 September 2026 · **dismissed**', desc='Redevelopment of the site and erection of 28 residential dwellings, in the Green Belt, about 350 m from Hatton railway station.', secs=[5,6],
+      pts=[f'Station: {q("hat-station")}.', f'Route: {q("hat-24")}.', f'Observed use: {q("hat-26")}.', f'Framework: it {q("hat-2")}, and the inspector was {q("hat-content")}.']),
+ dict(name='Newchapel (6010313)', title='Branford Wells, Brickhouse Lane, Newchapel', cid='PINS-6010313', line='**Appeal 6010313** · Tandridge District Council · Planning Inspector · decided 4 September 2026 · **dismissed**', desc='Conversion of agricultural building to form five dwellings, in the Green Belt.', secs=[5],
+      pts=[f'Location: {q("new-14loc")}. The 40 mph lane {q("new-14a")}, so {q("new-14b")}.']),
+ dict(name='Copthorne (6011736)', title='Land adjacent to Oaklands Drive, Copthorne Bank, Copthorne', cid='PINS-6011736', line='**Appeal 6011736** · Tandridge District Council · Planning Inspector · decided 22 September 2026 · **dismissed**', desc='Erection of seven dwellings with access, garaging and parking, in the Green Belt.', secs=[5],
+      pts=[f'Route: {q("cop-7")}.']),
+ dict(name='Poynton (6010471)', title='Land south of Coppice Road, Poynton', cid='PINS-6010471', line='**Appeal 6010471** · Cheshire East Council · Planning Inspector · decided 21 September 2026 · **allowed**', desc='Permission in principle for up to 7 residential dwellings and associated works, in the Green Belt.', secs=[5],
+      pts=[f'Route: {q("poy-18")}.']),
+ dict(name='Findon (6006900)', title='Land at Rogers Lane, Findon', cid='PINS-6006900', line='**Appeal 6006900** · South Downs National Park Authority · Planning Inspector · decided 18 September 2026 · **dismissed**', desc='Permission in principle for a chalet style dwelling, outside any settlement boundary.', secs=[5],
+      pts=[f'Settlement: {q("fin-15")}.', f'Route: an unlit lane with no footway, so {q("fin-15b")}.', f'Conclusion: {q("fin-17")}.']),
+ dict(name='Banks (6011231)', title='Caravan, Gravel Farm, 250 Gravel Lane, Banks', cid='PINS-6011231', line='**Appeal 6011231** · West Lancashire Borough Council · Planning Inspector · decided 15 September 2026 · **allowed**', desc='Change of use of a barn to a dwelling and a second barn to an ancillary garage, in the Green Belt.', secs=[5],
+      pts=[f'Settlement: Banks is {q("bank-9")}.', f'Location: {q("bank-14")}.', 'The conversion was not inappropriate in the Green Belt, so the poor location counted as harm in the S5(5) balance, and the appeal was allowed on that balance (¶29–32).']),
+]
+out=[]
+for i,c in enumerate(cases):
+    links=[]
+    if c['cid'].startswith('PINS'):
+        ref=c['cid'][5:]; links.append(f'[Case page](https://appeal-planning-decision.service.gov.uk/comment-planning-appeal/appeals/{ref})')
+        if letter(c['cid']): links.append(f'[Decision letter]({letter(c["cid"])})')
+    else:
+        if link(c['cid']): links.append(f'[Planning record]({link(c["cid"])})')
+        for u in C[c['cid']].get('sources') or []:
+            if 'democracy.stratford' in u: links.append(f'[{"Minutes and Update Report" if "minutes" in u.lower() else "Committee report"}]({u})')
+    line=c['line']
+    if c['cid'].startswith('PINS'):
+        line=re.sub(r'\b(60\d{5})\b', lambda m: f'[{m.group(1)}](https://appeal-planning-decision.service.gov.uk/comment-planning-appeal/appeals/{m.group(1)})', line)
+    elif link(c['cid']):
+        line=re.sub(r'\*\*(\d{2}/\d{5}/[A-Z]+)\*\*', lambda m: f'**[{m.group(1)}]({link(c["cid"])})**', line)
+    md='\n'.join([f'# {c["title"]}','',line,'',c['desc'],'',' · '.join(links),'','**Cited in:** '+'; '.join(SEC[s] for s in c['secs']),'','## Key points','',*[f'- {p}' for p in c['pts']],'','*Quotations are from the officer report, decision notice or appeal decision letter, with page (p.) or paragraph (¶) numbers. Read the decision itself for the full reasoning.*'])
+    out.append({'name':c['name'],'order':f'b{i+1:02d}','md':md,'secs':c['secs'],'cid':c['cid']})
+json.dump(out,open('newcases.json','w'),indent=1)
+print(len(out))

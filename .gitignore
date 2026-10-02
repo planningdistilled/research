@@ -1,0 +1,15 @@
+.DS_Store
+node_modules/
+dist/
+.build/
+.venv/
+__pycache__/
+*.pyc
+*.swp
+*.swo
+*~
+.claude/
+# build outputs written beside the Stratford note sources
+pages/authority/stratford-dc/nppf-decisions/build/index.html
+pages/authority/stratford-dc/nppf-decisions/build/case-*.html
+pages/authority/stratford-dc/nppf-decisions/build/stratford-nppf-decisions.html

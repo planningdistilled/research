@@ -1,0 +1,356 @@
+Appeal Decision
+Site visit made on 30 June 2026
+by Edward Dade BA (Hons) MSc MRTPI
+an Inspector appointed by the Secretary of State
+Decision date: 29th December 2026
+
+
+Appeal Ref: 6008791
+Land west of Old Hall, Watton Road, Colney NR4 7TX
+      The appeal is made under section 78 of the Town and Country Planning Act 1990 (as amended)
+       against a refusal to grant planning permission.
+      The appeal is made by Nigel & Julija Willgrass against the decision of South Norfolk District Council.
+      The application Ref is 2026/0257.
+      The development proposed is erection of 1no. self-build dwelling.
+
+Decision
+1.       The appeal is dismissed.
+Preliminary Matters
+2.       On 17 August 2026, government issued a new National Planning Policy
+         Framework (the Framework), replacing the previous Framework published in
+         December 2024. During the appeal, the parties were invited to comment on the
+         implications of the new Framework for the proposal.
+3.       As required by regulation 63(3) of the Habitats Regulations 2017 (as amended),
+         the statutory nature conservation body, Natural England, were consulted and I
+         have regard to their representations. The parties were invited to comment on
+         Natural England’s advice.
+4.       In my decision I have had regard to the Council’s letter which sets out its response
+         to both the new Framework and Natural England’s advice1. No response was
+         received from the appellant.
+5.       A draft deed of unilateral undertaking pursuant to section 106 of the Town and
+         Country Planning Act 1990 as amended (hereafter, “draft UU”) has been provided.
+         In my decision, I have had regard to the planning obligations on the assumption
+         that the draft UU could be finalised were I minded to grant planning permission.
+         However, since I am dismissing the appeal, it would be unreasonably onerous to
+         seek the completion of the draft UU.
+Main Issues
+6.       The main issues in this appeal are:
+            The effect of the proposed development on the integrity of European sites; and
+            Whether the proposed development would be in a suitable location, having
+             regard to the local development strategy.
+
+1
+    Received by email on 11 September 2026
+
+https://www.gov.uk/planning-inspectorate
+Appeal Decision 6008791
+
+
+Reasons
+Integrity of European sites
+       Nutrient enrichment
+7.    The site is within the catchment of The Broads Special Area of Conservation
+      (SAC) and Ramsar site and is therefore functionally related to this habitat. The
+      SAC is a European Designated Site afforded protection under the Conservation of
+      Habitats and Species Regulations 2017 as amended (the Habitats Regulations).
+8.    The conservation objectives of The Broads SAC are to ensure that the integrity of
+      the site is maintained or restored as appropriate and ensure that the site
+      contributes to achieving the favourable conservation status of its qualifying
+      features, which include hard oligo-mesotrophic waters; natural eutrophic lakes;
+      Molinia meadows on calcareous, peat or clay-silt soil; transition mires and quaking
+      bogs; calcareous fens; alkaline fens; alluvial woods; and populations of
+      Desmoulin's whorl snail; otter; fen orchid; and little ram's-horn whirlpool snail.
+9.    Natural England advise the SAC is vulnerable to nutrient impacts. Policy 3 of the
+      Greater Norwich Local Plan 2024 (GNLP) seeks to ensure development has no
+      negative impact on water quality through nutrient enrichment of internationally
+      protected habitat sites. It requires relevant developments only be granted planning
+      permission where there is certainty about the levels of nutrients which will be
+      generated and where adequate mitigation would be provided so that the
+      development will be nutrient neutral. This includes residential development that
+      increases the level of overnight stays within the catchment of The Broads SAC.
+10. The development would involve the provision of additional overnight residential
+    accommodation within the SAC’s catchment. Therefore, without mitigation, the
+    development would have likely significant effects on the integrity of The Broads
+    SAC through additional nutrient loading.
+11. The appeal proposal includes details from the Environment Agency concerning the
+    existing permit for the operation and siting of the on-site septic tank which serves
+    adjoining dwelling, The Old Hall. The Nutrient Neutrality Assessment and
+    Mitigation Strategy, Canham Consulting March 2026, (NNAMS) identifies
+    mitigation through the upgrade of the septic tank to a more efficient private
+    treatment package plant (PTP). The Council’s nutrient neutrality team verified the
+    baseline nutrient calculations and mitigation, raising no objection. Natural England
+    confirm this approach is an applicable type of mitigation to achieve a nutrient
+    neutral development.
+12. However, Natural England advise the proposed mitigation must be appropriately
+    secured and be capable of delivering nutrient neutrality for the lifetime of the
+    development. The NNAMS suggests a s106 agreement would not be required in
+    this instance since provision of the PTP would not utilise third-party land and the
+    same party would perform both developer and donor property roles. However, the
+    NNAMS indicates the PTP would be managed by each individual landowner by
+    way of third-party agreements with a specialist. No such agreements have been
+    supplied to demonstrate this management has been secured.
+13. Whilst the NNAMS asserts the provision and maintenance of the PTP could be
+    secured through a planning condition, no draft condition has been submitted for
+
+
+https://www.gov.uk/planning-inspectorate   2
+Appeal Decision 6008791
+
+
+       my consideration. As set out by the NNAMS, the PTP would require de-sludging at
+       least every two years by an appropriately registered waste carrier, alongside
+       regular inspections of the PTP’s condition by a competent person to ensure it is
+       functioning appropriately. It is unclear how a planning condition would enable
+       these procedures for management and maintenance of the PTP to be enforced
+       over the lifetime of the development.
+14. Consequently, the proposal fails to demonstrate that nutrient neutrality would be
+    secured and maintained over the lifetime of the development.
+       Recreational disturbance
+15. The development falls within the ‘Zone of Influence’ (ZOI) for multiple European
+    designated sites scoped into the Norfolk Green Infrastructure and Recreational
+    disturbance Avoidance and Mitigation Strategy (‘GIRAMS’), which include The
+    Wash Special Protection Area (SPA), The Wash and North Norfolk Coast SAC,
+    The Wash Ramsar, North Norfolk Coast SAC, North Norfolk Coast SPA, North
+    Norfolk Coast Ramsar, Norfolk Valley Fens SAC, Winterton-Horsey Dunes SAC,
+    Great Yarmouth North Denes SPA, Broadland SPA, Broadland Ramsar, Breydon
+    Water SPA, and The Broads SAC.
+16. The conservation objective of these SACs is to ensure that the integrity of the sites
+    is maintained or restored as appropriate, and ensure the sites contribute to
+    achieving the favourable conservation status of their qualifying features. The
+    conservation objective of the SPAs is to ensure that the integrity of the sites is
+    maintained or restored and ensure the sites contribute to achieving the aims of the
+    Wild Birds Directive.
+17. The GIRAMS advises that the uplift in population associated with increased
+    housing growth within the ZOI places additional recreational pressure on its
+    constituent European sites. The proposed development would provide additional
+    housing development within the ZOI and therefore, without mitigation, would have
+    likely significant effects on the integrity of the constituent European sites.
+18. The draft UU contains a planning obligation which, when finalised, would secure a
+    financial contribution toward the mitigation measures identified by the GIRAMS.
+    The GIRAMS represents a strategic approach to mitigation by several councils
+    across the wider area and is endorsed by Natural England. Therefore, I have no
+    reason to doubt the efficacy of its mitigation measures.
+19. Securing mitigation through a UU can be problematic as there is no obligation on
+    the Council to spend the money as envisaged and in a particular timescale.
+    However, the evidence before me indicates that as a responsible public body it will
+    transfer the funds to the organisation responsible for administrating the mitigation
+    strategy. The obligation would therefore be necessary to mitigate the recreational
+    disturbance associated with the proposed development.
+       European sites - conclusions
+20. Through providing additional permanent residential accommodation, the proposed
+    development would have likely significant effects on the integrity of European sites
+    in respect of additional nutrient loading and increased recreational pressure.
+21. The draft UU contains a planning obligation which would be necessary to mitigate
+    the recreational pressure associated with the proposed development. Subject to
+
+https://www.gov.uk/planning-inspectorate   3
+Appeal Decision 6008791
+
+
+         completion of the UU, I am satisfied the proposal would not harm the integrity of
+         European sites through recreational pressure.
+22. However, in the absence of an enforceable mechanism to secure the long-term
+    maintenance and management of the proposed PTP, I cannot be certain that the
+    development would be nutrient neutral over its lifetime. The proposal therefore fails
+    to demonstrate beyond reasonable scientific doubt that the development would
+    avoid adverse effects of nutrient enrichment on the integrity of The Broads SAC
+    and Ramsar, either alone or in combination with other development.
+23. I am required to consider whether there are any imperative reasons of overriding
+    public interest. Through the provision of one dwelling intended for occupation as a
+    self-build unit, the proposal would contribute positively to the supply of housing.
+    However, whilst beneficial, this would not amount to an overriding public interest
+    for the purposes of the Habitats Regulations. Consequently, I must conclude the
+    proposed development would result in unjustified harm to the integrity of The
+    Broads SAC and Ramsar site.
+24. The proposal would conflict with GNLP Policy 3, which protects water quality from
+    nutrient enrichment, and Policy DM4.4 of the Development Management Policies
+    Document 2015 (DMPD) which seeks to protect highest status natural
+    environmental assets from any significant harmful impact arising from new
+    development, requiring positive improvement of these natural environmental
+    assets where opportunities arise. The Habitats Regulations indicate planning
+    permission must not be granted and therefore harm associated with the proposal’s
+    conflict with GNLP Policy 3 and DMPD Policy DM4.4 is of a very high order.
+Whether in a suitable location
+25. The front of the appeal site comprises a group of existing single-storey dwellings,
+    Old Hall Mews, and planning permission has been granted for a garage building2.
+    The rear portion of the site includes a tennis court, swimming pool, outbuildings
+    and landscaped garden associated with The Old Hall, a large two-storey dwelling
+    with a 1.5 storey detached garage. There are other dwellings along this northern
+    side of Watton Road, and to the south there is substantial built development within
+    the Norwich Research Park. Therefore, the site and its immediate surroundings
+    are characterised by existing residential and employment development.
+26. Beyond the rear of the site is the River Yare, Bowthorpe Southern Park, and open
+    meadow land. Therefore, the site is at the periphery of the built area and has a
+    physical and visual relationship to land with an open, countryside character.
+27. The site is close to the development boundary for Colney, separated only by
+    Watton Road’s carriageway. The development boundary encompasses Norwich
+    Research Park and undeveloped land to the west of Hethersett Lane identified for
+    future development phases. A short distance to the east of the site, the
+    development boundary includes dwellings and other uses on the northern side of
+    Watton Road. Nonetheless, the site lies outside Colney’s development boundary
+    and is in the countryside for planning purposes.
+
+
+
+
+2
+    LPA ref: 2024/2674
+
+
+https://www.gov.uk/planning-inspectorate   4
+Appeal Decision 6008791
+
+
+28. DMPD Policy DM1.3 seeks the sustainable location of new development,
+    supporting proposals for development outside of defined development boundaries
+    only where supported by specific policies3 or where overriding economic, social
+    and environmental benefits are demonstrated4.
+29. Provided it does not result in incremental sprawl and respects the form and
+    character of the settlement, GNLP Policy 7.5(1) enables small-scale residential
+    development of up to three dwellings for self-build and custom build homes for
+    people who meet the eligibility criteria for Part 1 of the district’s self-build register
+    on sites that are within or adjacent to settlements with a defined settlement
+    boundary. As indicated by the development description, the proposal would seek
+    to provide one dwelling, intended for occupation as a self-build dwelling by the
+    appellant who is enrolled on the Council’s self-build register.
+30. The appellant’s Self/Custom Build Statement asserts the development would
+    comply with the statutory definition of self-build and custom housebuilding.
+    However, specifying this development type in the development description and a
+    supporting statement does not provide adequate certainty the dwelling would be
+    constructed and maintained as a self-build dwelling. A planning obligation is likely
+    to be the most appropriate method of securing development of a self-build
+    dwelling. However, no such formal mechanism has been provided. Consequently, I
+    have little certainty the proposed dwelling would comply with the definition at
+    section 1 of the Self-build and Custom Housebuilding Act 2015 so as to positively
+    demonstrate compliance with the requirements of GNLP Policy 7.5.
+31. Policy 2 of the Greater Norwich Local Plan 2024 (GNLP) seeks to ensure safe and
+    convenient access for all, including by non-car modes, to local services and
+    facilities and encourage walking, cycling and public transport. Likewise, DMPD
+    Policy DM3.10(1) requires development support sustainable transport and
+    development objectives, utilise all opportunities to integrate with local sustainable
+    transport networks, be designed to reduce the need to travel and to maximise the
+    use of sustainable forms of transport appropriate to the location.
+32. The site has an existing vehicular access with a traffic light-controlled junction
+    which adjoins the B1108 / Watton Road, a key route between Norwich and the A47
+    Southern Bypass. The road is subject to a 40mph speed limit and has pedestrian
+    footways, street lighting, and bus stops with frequent bus services. There is a
+    signal-controlled crossings for pedestrians and cyclists between the site and
+    Norwich Research Park, where public cycle hire facilities are located. Therefore,
+    the site is served by pedestrian and cycle infrastructure and public transport.
+33. The appellant has provided details of a range of services and facilities in proximity
+    of the appeal site. Notably, the site is close to Norwich Research Park, Norfolk and
+    Norwich University Hospital, and the University of East Anglia. As major locations
+    for employment, health services and education, these institutions are significant
+    trip generators. However, other day-to-day facilities, such as food shops and
+    primary education, are located beyond a convenient walking distance from the site.
+34. In a previous appeal decision for a similar proposal for a single dwelling at the site,
+    the Inspector noted there are very few facilities in Colney and, whilst connectivity
+    by foot and cycle to the research park, hospital, and facilities within the western
+
+3
+    DMPD Policy DM1.3(2)(c)
+4
+    DMPD Policy DM1.3(2)(d)
+
+
+https://www.gov.uk/planning-inspectorate   5
+Appeal Decision 6008791
+
+
+         edge of Norwich and university campus, is of reasonable quality it would generally
+         involve appreciable distances unlikely to deter regular use of the private car5.
+         Furthermore, the Inspector considered nearby bus stops to be rudimentary and
+         unlikely to be an attractive alternative to the car, concluding the appeal location is
+         neither very sustainable or so well-connected to facilities so as to present
+         overriding social or environmental benefits in an otherwise countryside location.
+35. A further appeal decision on the site identified a degree of consistency with GNLP
+    Policy 2, since the site is relatively close to some employment, services, and bus
+    stops. However, the Inspector concluded there would be limited benefits
+    associated with this location in terms of access to services and public transport6.
+36. The appellant asserts future development at the research park will enhance the
+    site’s accessibility. However, I have limited details of the delivery of such
+    infrastructure and facilities and have no compelling evidence the site’s access to
+    day-to-day services and facilities would materially and significantly change.
+37. In the absence of a mechanism to secure the provision of self-build housing, the
+    proposal fails to demonstrate it would comply with GNLP Policy 7.5. The site would
+    offer limited opportunities for travel via non-car modes, thereby making only a
+    small positive contribution to the objectives to promote sustainable transport use at
+    GNLP Policy 2 and DMPD Policy 3.10 which would not amount to an overriding
+    economic, social and environmental benefit and would not justify development
+    outside the settlement boundary for the purposes of DMPD Policy DM1.3.
+    Therefore, there are no development plan policies which positively favour a
+    development of the type proposed in this location.
+Other Matters
+38. Section 66(1) of the Planning (Listed Buildings and Conservation Areas) Act 1990
+    requires I have special regard to the desirability of preserving listed buildings, their
+    setting or any features of special architectural or historic interest.
+39. The site is adjacent to The Old Hall, a substantial, two storey, brick-built Grade II
+    listed building which dates from the 17th century with 19th century additions and
+    has associated single-storey converted outbuildings. The area is characterised by
+    historic buildings of traditional design within spacious settings, including grade II
+    “The Old Rectory”, an early-18th century building with Dutch gables, to the east of
+    The Old Hall, and non-designated heritage asset “Hall Farm” built in flintwork and
+    brick with agricultural buildings to the west. The historic interest of these buildings
+    is derived from their age, vernacular architecture and materials.
+40. The design of the proposed dwelling would be akin to an agricultural building. It
+    would be subservient in scale relative to The Old Hall and would be of limited
+    visual prominence from public vantage points, maintaining physical and visual
+    separation from the host building. The design would be in keeping with the
+    character of surrounding development, and I am satisfied the development would
+    not harm the setting of The Old Hall or other heritage assets. Subject to a pre-
+    commencement condition requiring archaeological works, the Council’s Historic
+    Environment Service indicate it raises no objection to the proposal. Consequently,
+    I am satisfied the proposal would preserve the listed buildings and their settings.
+
+5
+    Appeal decision ref: APP/L2630/W/20/3258218
+6
+    Appeal decision ref: APP/L2630/W/23/3318141
+
+
+https://www.gov.uk/planning-inspectorate          6
+Appeal Decision 6008791
+
+
+         Presumption in favour of sustainable development
+41. The proposal would contribute an additional dwelling to the area’s housing stock,
+    and Framework Policy HO7 indicates substantial weight should be given to the
+    benefits of providing homes which will contribute towards meeting the evidenced
+    accommodation needs of the community.
+42. In addition, there would be small environmental benefits through efficient use of
+    land, new and retained planting to provide ecological benefit, and construction to
+    contemporary standards with broadband and electric vehicle charging
+    technologies. Occupation would provide modest social and economic benefits
+    through additional expenditure and footfall to sustain local services and facilities.
+43. The site is outside Colney’s development boundary, and the Council cannot
+    demonstrate a five-year supply of deliverable housing sites. Framework Policy
+    S5(1) identifies forms of development which should be approved, including
+    ‘development which would address an evidenced unmet need’7, unless the
+    benefits of doing so would be substantially outweighed by any adverse effects
+    when assessed against the national decision-making policies in the Framework.
+44. Notably, Framework Policy N6(1) seeks to conserve habitats sites. The
+    appropriate assessment does not conclude that the proposal will not adversely
+    affect the integrity of The Broads SAC, the proposal would not comply with the
+    derogation tests, and there is no Environmental Delivery Plan in force in the area.
+    Therefore, Policy N6(1) indicates the proposal should be refused. Consequently,
+    the scheme’s benefits would be substantially outweighed by its adverse effects
+    when assessed against the national decision-making policies in the Framework.
+Conclusion
+45. The proposal would conflict with the development plan as a whole and there are
+    no other considerations which outweigh this finding. Therefore, for the reasons
+    given the appeal should be dismissed.
+
+
+
+Edward Dade
+INSPECTOR
+
+
+
+
+7
+    Policy S5(1)(j) of the National Planning Policy Framework
+
+
+https://www.gov.uk/planning-inspectorate                   7
+

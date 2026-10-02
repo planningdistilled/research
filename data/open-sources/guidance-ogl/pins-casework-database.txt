@@ -1,0 +1,598 @@
+
+
+ Planning Inspectorate Casework Database - GOV.UK
+
+Cookies on GOV.UK
+
+We use some essential cookies to make this website work.
+We’d like to set additional cookies to understand how you use GOV.UK, remember your settings and improve government services.
+We also use cookies set by other sites to help us deliver content from their services.
+
+You have accepted additional cookies. You can change your cookie settings at any time.
+
+You have rejected additional cookies. You can change your cookie settings at any time.
+
+ Accept additional cookies
+
+ Reject additional cookies
+
+ View cookies
+
+ Hide cookie message
+
+ Skip to main content
+
+ Navigation menu
+
+ Menu
+
+ Menu
+
+ Services and information
+
+ Benefits
+
+ Births, death, marriages and care
+
+ Business and self-employed
+
+ Childcare and parenting
+
+ Citizenship and living in the UK
+
+ Crime, justice and the law
+
+ Disabled people
+
+ Driving and transport
+
+ Education and learning
+
+ Employing people
+
+ Environment and countryside
+
+ Housing and local services
+
+ Money and tax
+
+ Passports, travel and living abroad
+
+ Visas and immigration
+
+ Working, jobs and pensions
+
+ Government activity
+
+ Departments
+
+Departments, agencies and public bodies
+
+ News
+
+News stories, speeches, letters and notices
+
+ Guidance and regulation
+
+Detailed guidance, regulations and rules
+
+ Research and statistics
+
+Reports, analysis and official statistics
+
+ Policy papers and consultations
+
+Consultations and strategy
+
+ Transparency
+
+Data, Freedom of Information releases and corporate reports
+
+ Search GOV.UK
+
+ ×
+
+ Search GOV.UK
+
+ Search
+
+ Search GOV.UK
+
+ Search
+
+ Home
+
+ Housing, local and community
+
+ Planning and building
+
+ Research and analysis
+
+ Planning Inspectorate Casework Database
+
+ Detailed information on a selection of the Planning Inspectorate's casework decisions over a 5 year rolling period. 
+
+ From:
+
+ Planning Inspectorate
+
+ Published:
+ 21 March 2018
+ Last updated:
+
+ 1 October 2026
+ — 
+ See all updates
+
+ Get emails about this page
+
+ Applies to England
+
+ Documents
+
+ Casework Database 
+
+MS Excel Spreadsheet, 22.6 MB
+
+This file may not be suitable for users of assistive technology.
+
+ Request an accessible format
+
+ If you use assistive technology (such as a screen reader) and need a version of this document in a more accessible format, please email corpcomms@planninginspectorate.gov.uk. Please tell us what format you need. It will help us if you say what assistive technology you use.
+
+ Older Casework Data: casework decided between 5 and 10 years ago
+
+MS Excel Spreadsheet, 11.8 MB
+
+ Hints and tips for searching the dataset
+
+MS Word Document, 1.1 MB
+
+This file may not be suitable for users of assistive technology.
+
+ Request an accessible format
+
+ If you use assistive technology (such as a screen reader) and need a version of this document in a more accessible format, please email corpcomms@planninginspectorate.gov.uk. Please tell us what format you need. It will help us if you say what assistive technology you use.
+
+ Appeals Data: Data notes and guidance
+
+HTML
+
+ Details
+
+Local Plans Examinations data
+
+We are currently reviewing the way we publish data in the Casework Database. The database previously included data on Local Plans Examinations casework. These data were incomplete and did not easily fit into the format of the database, which is designed primarily around Appeals casework. Moreover, most of the Local Plans-related information contained within the database is already available elsewhere in the publications found at Local plans: monitoring progress - GOV.UK (see tables “Plans containing strategic policies” and “Plans containing non-strategic policies”). As a result, we have taken the decision to remove the Local Plans Examinations data from the Casework Database. We are considering what data should be included to provide a more helpful publication on Local Plans Examinations casework in future. We would appreciate all feedback on this.
+
+Unable to find what you are looking for?
+
+If there is any Local Plans Examinations-related information that you would have previously found in the Casework database, that you cannot find at Local plans: monitoring progress - GOV.UK, please email us at statistics@planninginspectorate.gov.uk and we will be happy to provide this information.
+
+Do you have requirements or suggestions for Local Plans Examinations data?
+
+We are looking for ways to improve our data presentation. If you have any suggestions or particular requirements for future data releases relating to Local Plans Examinations, please let us know at statistics@planninginspectorate.gov.uk.
+
+Updates
+
+01 October 2026 update: From September 2026 we are publishing the ONS Local Planning Authority (LPA) code alongside the ONS Local Authority code. The ONS Local Authority code has moved from column D to column AR, and column D now contains the ONS LPA code.
+
+Local Planning Authorities will sometimes cover different areas to Local Authorities (e.g. where there are National Parks). However, even when they cover the same area, the ONS codes will be different.
+
+11 June 2025 update: A data processing issue has been identified, where the names of Inspectors involved in Local Plan cases were incorrect. This caused incorrect data for these cases, in previous versions of the casework database.
+
+This has now been corrected and the names are now fixed. We are not aware of any other case types identified by this issue but will assess this in due course. If you have any questions about this please contact us at statistics@planninginspectorate.gov.uk
+
+27 May 2025 update: There has been a data processing issue with Tree Replacement Notices (TRN) were they were being incorrectly labelled as Tree Preservation Order (TPO). This has now been corrected and the labelling is now fixed.
+
+03 December 2024 update: We have discovered a data quality issue with the number of residences field. We are investigating this issue and advise caution is needed when using this field. Linked to this, we have discovered some inconsistencies with the major housing development and minor housing development. This is being investigated, and we will provide updates as we can.
+
+We have made corrections to our data on decision dates for Tree Preservation Order (TPO) cases since the previous database release.
+
+In previous releases of the database, cases belonging to Somerset, North Yorkshire or Cumbria were incorrectly flagged as No LPA Associated. This has been corrected in the current database release.
+
+24 May 2024 update: We have returned inspector name to the database but advise there are still blank entries where the decision maker should be known. We have made some improvements to data quality but further investigations and changes are still in progress.
+
+29 January 2024 update: There has been a data entry issue with Tree Preservation Order (TPO) cases where incorrect valid dates have been entered. This means we have removed the dates from this field for TPO cases.
+
+If you have any questions on this please contact statistics@planninginspectorate.gov.uk.
+
+12 June 2023 update: We apologise that due to a data processing issue, agents’ names are missing from casework decided after 31st March 2022.  This means it is not possible to say, for these cases, whether an agent was involved.
+
+We are exploring this issue and will provide the missing names as soon as we can.
+
+This data set includes detailed information on a selection of the Planning Inspectorate’s (PINS) casework decisions over a 5-year rolling period. Casework currently in progress and those which have been withdrawn or turned away are not included.
+
+The number of appeals listed in the Casework Database may not match exactly with other Statistics published by the Planning Inspectorate, for example our Official Statistics that we publish each month.  This is due in part because the database and the Official Statistics were compiled on different days and that the data may have been updated in the intervening period.
+
+We are looking into the possibilities for improving the publication of the Casework Database. If you would like to contact us about this, please do so by contacting statistics@planninginspectorate.gov.uk
+
+In 2021 we removed the ‘Development or Allegation’ field in the Casework Database. A review found an unacceptable risk that the field could contain, and disclose, sensitive personal data. We take data protection very seriously and this action has been taken to ensure we comply with the UK General Data Protection Requirement (Data Protection Act 2018).
+
+We have expanded the casework database to include the following specialist casework types:
+
+Common Land
+
+Community Infrastructure Levy
+
+Environmental
+
+Hedgerow
+
+High Hedges
+
+Purchase Notices
+
+Rights of Way (including schedule 14 and Rights of Way modifications)
+
+Tree Preservation Orders
+
+Older Casework Database
+
+The Older Casework Data gives details of appeals that have a decision date between 5 and 10 years ago. The database will allow users to compile summary statistics. Due to data retention policy we have removed all fields that could make an individual appeal, which was decided more than 5 years ago, identifiable. This is in line with the Appeals Casework Portal which does not have details of appeals decided more than 5 years ago.
+
+Therefore, unlike the Casework Database, we do not record in the Older Casework data:
+
+Case Number
+
+LPAs Reference
+
+Name of Appellant
+
+Name of Agent
+
+Site Address
+
+The Older Casework Data Reference Number is used in connection with the Older Casework data only. It is not connected in any way with the Appeal Reference Number or the LPAs Reference, or with the reference number in any previous or future Older Casework Data set.
+
+We record the first part of the site address Post code on the Older Casework Data.
+
+The casework types recorded in the Older Casework database are the same as those in the Casework Database.
+
+If you want information about appeals decided in the last 5 years please see our Casework Database.
+
+Please Note
+
+This dataset is drawn from Planning Inspectorate admin systems. There are some fields which have been left empty for particular appeals. There could be various reasons for this, for example:
+
+the relevant information was not provided by the main parties
+
+the relevant information was a negative reply and the respective field was left empty. E.g. The site is not in a SSSI
+
+the case is a child case and the relevant information has been recorded against the lead appeal
+
+We are looking at ways to make this database as complete as we can. If you need any help or advice in interpreting the database please let us know.
+
+We have various mechanisms for checking our data and being alerted to changes - therefore data can change between different publications of this data set. If you spot a data error please tell us; statistics@planninginspectorate.gov.uk.
+
+Please note that the Planning Inspectorate will not entertain a challenge to the appointment of any Decision Maker on the basis of this data.
+
+all cases are considered on their individual merits, and on the basis of the evidence submitted
+
+targets are not set for the percentage of allowed and dismissed cases
+
+decision Makers do not select their own casework
+
+casework is allocated to Decision Maker on the best balance of availability, geography, casework level and expertise. This may produce apparent patterns of outcome that are in fact artefacts of the way work is allocated and do not provide evidence as to an Inspector’s fitness for or approach to a particular case
+
+decision Makers handle different numbers of cases in a year – some dealing with as few as one which would give a result of 100% allowed or 100% dismissed
+
+decision Makers are rigorously trained to ensure that they develop and maintain the skills necessary to undertake the work that they are given. These skills will influence the type of cases they deal with
+
+some appeals are linked together as they relate to the same or similar development on the same site
+
+the Inspectorate has an exacting Ministerial target which requires all casework to be 99% free from justified complaint or legal challenge
+
+a Decision Maker constitutes a selected person appointed to carry out: open, impartial, honest decisions on behalf of the Secretary of State
+
+Updates to this page
+
+Published 21 March 2018
+ Last updated 1 October 2026
+ — 
+
+ Show all updates
+
+ 1 October 2026
+
+update from October added to updates section.
+
+ 27 August 2026
+
+Casework Database and Older Casework Data updated.
+
+ 30 July 2026
+
+July casework database added
+
+ 25 June 2026
+
+Casework Database and Older Casework Data updated
+
+ 1 June 2026
+
+Casework Database and Older Casework Data updated
+
+ 30 January 2026
+
+Casework database updated and updates and information to how we handle casework data has been added.
+
+ 4 November 2025
+
+Q2 data added for the Casework Database and Older Casework Data documents
+
+ 28 July 2025
+
+Casework Database and Older Casework Data: casework decided between 5 and 10 years ago updated with Q1 data
+
+ 11 June 2025
+
+11 June 2025 update: A data processing issue has been identified, where the names of Inspectors involved in Local Plan cases were incorrect. This caused incorrect data for these cases, in previous versions of the casework database.
+This has now been corrected and the names are now fixed. We are not aware of any other case types identified by this issue but will assess this in due course.
+
+ 27 May 2025
+
+Casework Databases have been updated with Q4 data.
+
+ 4 February 2025
+
+Casework Database and Older Casework Data updated with Q3 data
+
+ 3 December 2024
+
+Q2 data sheets added and detail notes added
+
+ 20 September 2024
+
+Casework Database and Older Casework Data: casework decided between 5 and 10 years ago files updated
+
+ 24 May 2024
+
+Casework Database and Older Casework Data updated with Q3 data
+
+ 29 January 2024
+
+We have discovered a data processing error, which means that the Inspector Name field entry is missing from some cases that, in fact, been allocated to an inspector. Where there is an Inspector Name the data is correct. We are investigating this issue. 
+
+There has been a data entry issue with Tree Preservation Order (TPO) cases where incorrect valid dates have been entered. This means we have removed the dates from this field for TPO cases.
+
+ 27 November 2023
+
+27 November 2023 update: We have discovered a data processing error, which means that the Inspector Name field is not giving reliable information. (In many cases it is wrongly showing as "No Inspector Associated").  As a result, please do not use this information until this error has been corrected.
+
+We are working hard to correct the error and intend to provide corrected information by 01 December 2023.
+
+If you have any questions on this please contact statistics@planninginspectorate.gov.uk
+
+ 20 July 2023
+
+Casework Database and Older Casework Data: casework decided between 5 and 10 years ago documents updated with Q1 data
+
+ 7 July 2023
+
+We have republished the Quarterly and Annual Volume Statistics and the Casework Database with minor amendments to table 5.2.
+
+ 12 June 2023
+
+We apologise that due to a data processing issue, agents’ names are missing from casework decided after 31st March 2022. This means it is not possible to say, for these cases, whether an agent was involved.
+We are exploring this issue and will provide the missing names as soon as we can.
+
+ 30 May 2023
+
+The 2 databases have been updated to Q4 data.
+
+The previous databases have included details of Planning and Enforcement appeal types only. The new databases include some types of Specialist Casework. As some Specialist Casework types are not actually ‘Appeals’, ‘Casework’ described the data more accurately and the page has been renamed.
+
+ 24 November 2022
+
+The appeals database covering the period October 2017 - September 2022 was originally published on 14th November 2022. It has been reproduced and republished on 24th November 2022 with the addition of ‘LPA Decision Date’ field.
+
+ 14 November 2022
+
+Appeals database and Older Appeals Data updated and wording at bottom of page updated
+
+ 21 July 2022
+
+Appeals database and older appeals database updated with Q1 information
+
+ 21 June 2022
+
+Appeals database updated for Q4 and Older Appeals Data: appeals decided between 5 and 10 years ago Q4 new document.
+
+ 26 January 2022
+
+Quarter 3 data added
+
+ 10 December 2021
+
+Quarter 2 appeals database added and hints and tips document updated.
+
+ 8 December 2021
+
+Appeals Data: Data notes and guidance updated
+
+ 12 July 2021
+
+Wording added. 
+We have temporarily removed the ability to view the ‘Development or Allegation’ field in the Appeals Database. A review found an unacceptable risk that the field could contain, and disclose, sensitive personal data. We take data protection very seriously and this action has been taken to ensure we comply with the UK General Data Protection Requirement (Data Protection Act 2018). We are working on ways to manage this risk and hope that we can publish data in this field again soon.
+
+ 5 July 2021
+
+Appeals database updated
+
+ 9 June 2021
+
+The Appeals data file is temporarily unavailable. The dataset is currently being reviewed and revalidated and when this is complete the file will be republished. We apologise for any inconvenience caused.
+
+ 10 March 2021
+
+01 January 2016 to 31 December 2020 data added
+
+ 3 December 2020
+
+Planning Inspectorate - Appeals Data - 01 October 2015 to 30 September 2020 updated
+
+ 27 May 2020
+
+Data sets updated: 1 April 2015 - 31 March 2020
+
+ 13 May 2020
+
+We have delayed publication of our appeals statistics and appeals data set after our quality review identified problems with the data we intended to publish. Our normal review process has been affected by the need to carry out additional data extraction, reporting and analysis associated with the impact of Covid-19 on The Planning Inspectorate’s operations. We will now be publishing our statistics and data on Wednesday 27th May 2020 at 9.30am.
+
+ 28 February 2020
+
+CSV removed from page as not suitable
+
+ 12 February 2020
+
+01 January 2015 to 31 December 2019 data added
+
+ 13 November 2019
+
+Appeals Data updated to 01 October 14 to 30 September 19
+
+ 19 August 2019
+
+Data updated with 01 July 2014 to 30 June 2019 information
+
+ 15 May 2019
+
+Appeals data updated
+
+ 13 February 2019
+
+Appeals data updated - 01 January 2014 to 31 December 2018
+
+ 14 November 2018
+
+Appeals data updated.
+
+ 15 August 2018
+
+Appeals Data updated to 01 July 2013 to 30 June 2018
+
+ 16 May 2018
+
+01 April 2013 to 31 March 2018 data added
+
+ 21 March 2018
+
+First published.
+
+ Sign up for emails or print this page
+
+ Get emails about this page
+
+ Print this page
+
+Explore the topic
+
+Planning and building
+
+Is this page useful?
+
+ Maybe
+
+ Yes this page is useful
+
+ No this page is not useful
+
+ Thank you for your feedback
+
+ Report a problem with this page
+
+Help us improve GOV.UK
+
+Do not include personal or financial information like your National Insurance number or credit card details.
+
+ This field is for robots only. Please leave blank
+
+ What were you doing?
+
+ What went wrong?
+
+ Send
+
+ Cancel
+
+Help us improve GOV.UK
+
+ To help us improve GOV.UK, we’d like to know more about your visit today.
+ Please fill in this survey (opens in a new tab).
+
+ Cancel
+
+Services and information
+
+ Benefits
+
+ Births, death, marriages and care
+
+ Business and self-employed
+
+ Childcare and parenting
+
+ Citizenship and living in the UK
+
+ Crime, justice and the law
+
+ Disabled people
+
+ Driving and transport
+
+ Education and learning
+
+ Employing people
+
+ Environment and countryside
+
+ Housing and local services
+
+ Money and tax
+
+ Passports, travel and living abroad
+
+ Visas and immigration
+
+ Working, jobs and pensions
+
+Government activity
+
+ Departments
+
+ News
+
+ Guidance and regulation
+
+ Research and statistics
+
+ Policy papers and consultations
+
+ Transparency
+
+ How government works
+
+ Get involved
+
+Support links
+
+ Help
+
+ Privacy
+
+ Cookies
+
+ Accessibility statement
+
+ Contact
+
+ Terms and conditions
+
+ Rhestr o Wasanaethau Cymraeg
+
+ Government Digital Service
+
+ All content is available under the Open Government Licence v3.0, except where otherwise stated
+
+ © Crown copyright
+

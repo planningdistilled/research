@@ -1,0 +1,497 @@
+Appeal Decision
+Site visit made on 31 July 2026
+by G Sylvester BSc (Hons) MSc MRTPI
+an Inspector appointed by the Secretary of State
+Decision date: 17th September 2026
+
+
+Appeal Ref: 6007272
+46 North Trade Road, Battle TN33 0HS
+•      The appeal is made under section 78 of the Town and Country Planning Act 1990 (as amended)
+       against a refusal to grant planning permission.
+•      The appeal is made by Mr Robert Regan against the decision of Rother District Council.
+•      The application Ref is RR/2025/1747/FULL was refused by notice dated 5 December 2025.
+•      The development proposed is the part-demolition of No.46 and subsequent erection of 5no.
+       detached dwellings, construction of access drive and associated scheme of hard and soft
+       landscaping.
+
+Decision
+1.       The appeal is dismissed.
+Applications for costs
+2.       An application for a partial award of costs was made by Mr Robert Regan against
+         the decision of Rother District Council. This application is the subject of a separate
+         decision.
+Procedural Matters
+3.       The main parties have commented on the relevance of the revised National
+         Planning Policy Framework ("the Framework"), published on 17 August 2026, to
+         their respective cases in this appeal. I have considered those comments in
+         reaching my decision. All references to the Framework are to the revised version
+         unless indicated otherwise.
+4.       The appellant submitted an amended first floor plan for the proposed 4-bed chalet
+         style dwellings showing additional obscure glazing to bedroom windows and an
+         amended site plan showing retained hedgerows and additional planting. They also
+         submitted updated versions of the Preliminary Ecological Appraisal, Biodiversity
+         Net Gain (BNG) Feasibility Assessment and Metric, and BNG Reservation
+         Certificate.
+5.       Given the nature of what they show, the amended drawings and updated
+         documents do not amount to a substantial change to the appeal scheme. The
+         updated documents have been subject to consultation with a County Council
+         Ecologist, and the District Council has confirmed that it is no longer defending
+         refusal reason number 3. I have read those documents and see no reasons to
+         reach a different conclusion. In having regard to the relevant appeal procedural
+         guidance1, I am satisfied that I can take those drawings and documents into
+
+
+1
+    Procedural Guide: Planning appeals – England. For appeals relating to applications dated on or before 31 March 2026.
+
+https://www.gov.uk/planning-inspectorate
+Appeal Decision 6007272
+
+
+         account without causing prejudice to anyone. On that basis, I have dealt with the
+         appeal on the basis of what is shown in those revised drawings and documents.
+6.       For the purposes of determining whether the proposed development triggers the
+         need for affordable housing under relevant policies, the main parties dispute
+         whether the appeal site exceeds 0.3 hectares in area. Whilst this matter was not
+         recorded in the Council’s decision notice, it has been a continual dispute between
+         the parties that has continued up to and including the final comments stage of the
+         appeal, with both parties having had the opportunity to address it through their
+         submissions in the interests of fairness. In reaching a decision on this appeal I
+         have taken account of the responses received and I have included it amongst my
+         main issues.
+Main Issues
+7.       The main issues in this appeal are:
+            •    The effects of the proposed development on the character and appearance
+                 of the area, with particular regard to its location within The High Weald
+                 National Landscape (“the HWNL”).
+            •    Whether the proposed development would make adequate provision for
+                 affordable housing.
+            •    Whether the proposed development would use land efficiently.
+            •    The effect of the proposed development on the mix of housing within the
+                 local area.
+Reasons
+Character and appearance, including the HWNL
+8.       The appeal site lies within the HWNL, which was formerly known as The High
+         Weald Area of Outstanding Natural Beauty (AONB)2. In determining this appeal, I
+         shall have regard to my duty3 to seek to further the purpose of conserving and
+         enhancing the natural beauty of national landscapes. The High Weald AONB
+         Management Plan 2024-2029 (“the HWMP”) describes the HWNL as one of the
+         best-preserved medieval landscapes in north-west Europe, with a natural beauty
+         derived from its essentially rural and small-scale landscape character.
+9.       The HWMP identifies the core character components of the HWNL as including
+         the rurality, naturalness and tranquillity of its landscape, dispersed historic
+         settlements and late medieval villages and market towns, with Battle being the
+         largest by population. The HWMP identifies the verdant character of settlements
+         as being a key characteristic, including substantial soft landscaping. The
+         objectives of the HWMP, include the protection of the distinctive character and
+         landscape settings of towns, and enhancing architectural quality.
+10. The HWMP sets out ‘actions’ to achieve those objectives, including promoting the
+    use of the High Weald Housing Design Guide (“the HWDG”), pursuing landscape
+    led approaches and prioritising the delivery of new housing primarily through
+    small-scale development consistent with AONB character.
+
+
+2
+    All designated Areas of Outstanding Natural Beauty in England became National Landscapes in November 2023.
+3
+    Section 85 of the Countryside and Rights of Way Act 2000 as amended by the Levelling Up and Regeneration Act 2023.
+
+
+https://www.gov.uk/planning-inspectorate                 2
+Appeal Decision 6007272
+
+
+11. The appeal site comprises of an undeveloped and overgrown parcel of land in a so
+    called ‘backland’ position behind a row of dwellings that front onto North Trade
+    Road, and between them and the dwellings further to the north along Vale Road.
+    The character of the area is residential suburban, comprising a mixture of
+    detached bungalows, chalet style dwellings and two storey dwellings of varying
+    styles.
+12. Those fronting North Trade Road mostly occupy generous plots and the spaces
+    between them allow some limited views of the countryside to be obtained from the
+    road. However, several backland style developments served by private roads and
+    cul-de-sac type developments are also visible in those same views. They appear
+    indicative of expansion of this part of the town over the years through incremental
+    residential infilling.
+13. This would be expected to continue with the building out of an extant planning
+    permission4 for a row of 4 relatively tightly spaced bungalows in a cul-de-sac
+    layout on a backland site behind the dwellings fronting North Trade Road and
+    adjoining the appeal site to the northeast (“the 2024 planning permission”).
+    Therefore, it is reasonable to treat the baseline position of the appeal site as being
+    a modestly sized parcel of overgrown land more or less surrounded on all sides by
+    residential properties.
+14. In that context, the appeal site’s spaciously verdant condition, the appreciation of
+    which is largely restricted to private views from nearby properties within the garden
+    scene, contributes little to the built-up suburban character and appearance of the
+    area. There is no public access to the appeal land and no part of it is contiguous
+    with the open land forming the town’s setting. Accordingly, the appeal site does not
+    contribute to the core character components of the rural landscape and scenic
+    beauty of the HWNL, and I note that the Council reached a similar conclusion.
+15. Nevertheless, the HWDG emphasises the need for the settlement pattern and
+    design of new development to reflect the characteristics of the HWNL, which in this
+    instance includes the immediate surroundings to the appeal site. The HWDG is not
+    supportive of new cul-de-sac style development. However, the numerous cul-de-
+    sacs and backland housing sites off North Trade Road form part of the established
+    character of the area in this part of the HWNL. I note that the Council and the
+    Inspector for an earlier dismissed appeal scheme5 for a row of 8 semi-detached 3-
+    storey dwellings reached similar conclusions.
+16. The proposed development would functionally and visually relate more to North
+    Trade Road than to Vale Road. This is because the proposed access would join
+    North Trade Road, and the proposed dwellings would front onto the access road.
+    The proposed dwellings would be visible from Vale Road, on elevated land above
+    the boundary hedgerow that lines the south side of the road. However, the
+    distances of separation between them would be sufficient to avoid them being
+    prominent in views from Vale Road.
+17. Interested parties consider the scheme to be an overdevelopment of the land.
+    However, the appeal scheme’s backland position and the pattern of its cul-de-sac
+    layout would be in-keeping with the general pattern of development in the area.
+
+
+4
+    RR/2023/1698/P
+5
+    APP/U1430/W/24/3345193
+
+
+https://www.gov.uk/planning-inspectorate   3
+Appeal Decision 6007272
+
+
+       This includes some tightly spaced backland dwellings and the tighter spaces that
+       exist between Numbers 40-44 North Trade Road.
+18. The collective massing of the roof forms of the proposed dwellings would be visible
+    from North Trade Road, through gaps between the frontage dwellings. However,
+    they would not loom above the existing properties that front onto the road. This is
+    because the ridge heights of the proposed 4-bed dwellings would be comparable
+    to Number 44 and in the region of 2 metres lower than the ridgeline of Number 46
+    North Trade Road. As such they would largely assimilate into the mixed roofscape
+    in the street scene.
+19. The Council describes the proposed 4-bed chalet style dwellings as architecturally
+    poor due to effects of the first floor dormer windows on the privacy of future
+    occupants. Privacy and effects on living conditions are addressed within my other
+    matters below. However, there is considerable variety to the built forms and
+    detailed designs of dwellings in the vicinity of the appeal site, with no strong
+    vernacular or design uniformity. In that context, the appearances of the proposed
+    dwellings, which would reinforce the variety of the building styles in the area,
+    would be acceptable. Roof dormers are a characteristic of the area.
+20. Furthermore, the appeal scheme would also relate strongly to the bungalows
+    approved on the adjoining land. The sizes and shapes of their footprints would be
+    very similar, as would their layouts and respective densities. The proposed chalet
+    style dwellings would not be significantly taller than the approved bungalows.
+    Together they would create a consistent row of 9 relatively narrow fronted
+    dwellings with deep flanks and ridgelines running from front to rear. The visible
+    transition in roof levels between them would not be abrupt or discordant and there
+    would be a visual affinity between them.
+21. The proposed dwellings would be expected to obscure some limited views of the
+    backdrop of trees that are currently glimpsed from North Trade Road between the
+    roofs of the frontage dwellings. However, they would not obscure or negatively
+    affect characteristic views across the mosaic of small-scale fields and woodland
+    beyond the built-up area of the town, which are amongst the key components of
+    the HWNL.
+22. The proposed development would be at odds with DG2 of the HWDG which states
+    that cul-de-sac arrangements are to be avoided as they are uncommon in the
+    HWNL. However, considered in the round, it complies with DG1 and DG5 of the
+    HWDG, and the Battle Design Guidelines, insofar as they require development to
+    respond to its setting, feel genuinely integrated into the settlement and reflect the
+    typical character, grain and form of the part of the town in which they would be
+    situated.
+23. Consequently, I am satisfied that the urbanising effect of the proposed
+    development would be in-keeping with the character and appearance of this part of
+    the town. It would be contained within the built-up area of the town and would not
+    harm its landscape setting. For those reasons, I conclude on this main issue that
+    the proposed development would cause no harm to the character or appearance
+    of the area, or the landscape and scenic beauty of the HWNL.
+24. As such, it would be consistent with Policies OSS4, BA1 and EN3 of the Rother
+    Local Plan Core Strategy Adopted September 2014 (“the CS”), Policy DEN1 of the
+    Rother District Council Development and Site Allocations Local Plan, Adopted
+
+https://www.gov.uk/planning-inspectorate   4
+Appeal Decision 6007272
+
+
+         December 2019 (“the DaSA”), and Policies HD5 and HD6 of the Battle Civil Parish
+         Neighbourhood Plan 2019-2028, Made in October 2021 (“the NP”). Together,
+         those policies seek to ensure that development contributes positively to the
+         character of a site and its surroundings, including maintaining the essential
+         physical form, local distinctiveness, character and setting of the town of Battle.
+25. It would also be consistent with Policy EN1 of the CS, Policy DEN2 of the DaSA
+    and Policy HD4 of the NP insofar as development should seek to protect and
+    wherever possible enhance the landscape and scenic beauty of the HWNL, having
+    particular regard to the impacts on its character components, including the visual
+    character of settlements, as set out in the HWMP.
+26. For the same reasons, the proposal would accord with Policies DP3, N2 and N4 of
+    the Framework insofar as they require development proposals to respond to their
+    context and integrate with and enhance their surroundings, avoid harm to the
+    statutory purposes and special qualities of a Protected Landscape.
+Affordable housing.
+27. In the town of Battle, Policy DHG1 of the DaSA expects 35% on-site affordable
+    housing on schemes of 10 or more dwellings or sites of 0.3 hectares or more,
+    subject to scheme viability. Policy HD3 of the NP states that housing
+    developments will be expected to deliver affordable housing in accordance with
+    the Policy DHG1. Those policies seek to secure affordable housing to meet the
+    housing needs of different groups and contribute to the achievement of mixed and
+    balanced communities.
+28. The appellant has calculated the area of the appeal site as covering 0.297 of a
+    hectare. The Council has calculated it as covering 0.312 of a hectare. The
+    Planning Practice Guidance6,7 states that applicants for planning permission will
+    need to submit a location plan showing the application site edged clearly with a red
+    line on the location plan, and it should include all land necessary to carry out the
+    proposed development (e.g. land required for access to the site from a public
+    highway, visibility splays, landscaping, car parking and open areas around
+    buildings).
+29. For the purposes of Policy DHG1 the appellant’s final comments include a
+    screenshot showing how the area of land edged by a series of blue coloured dots
+    was measured, including calculations. However, excluded from those calculations
+    is the land required to provide parking spaces (and access to them) between the
+    front wall of Number 46 and the highway, which are shown to be within the land
+    edged red on the submitted drawings. Also excluded is land required for visibility
+    splays as part of the works to upgrade the site access, which are shaded red on
+    the submitted drawings. The appellant’s evidence contains no explanation why
+    those areas of land are excluded from the appellant’s calculations of the site area.
+30. Based on the evidence before me, if those areas of land were included within the
+    appellant’s calculations, the land necessary to carry out the proposed
+    development, and thus the area of the appeal site, is highly likely on the balance of
+    probabilities to exceed 0.3 hectares. Accordingly, it follows that the appeal scheme
+
+
+6
+    Paragraph: 023 Reference ID: 14-023-20140306
+7
+    Paragraph: 024 Reference ID: 14-024-20140306
+
+
+https://www.gov.uk/planning-inspectorate           5
+Appeal Decision 6007272
+
+
+       should seek to secure the proportion of affordable housing that is targeted by
+       Policies DHG1 and HD3.
+31. There is nothing to indicate that affordable housing was a matter of dispute in the
+    earlier appeal scheme for 8 dwellings. However, full details of that case are not
+    before me, and I was not party to the evidence placed before that Inspector. As
+    such, that appeal scheme is of limited relevance to my consideration of this main
+    issue.
+32. For those reasons I conclude on this main issue that the failure to secure
+    affordable housing would be contrary to Policies DHG1 and HD3 the requirements
+    of which are set out above. It would also be contrary to Policies HO7 and HO8 of
+    the Framework insofar as they require development proposals to meet the needs
+    of those groups requiring affordable housing, including through meeting
+    development plan requirements for affordable housing, as part of creating mixed
+    and balanced communities.
+Whether land would be used efficiently.
+33. The Council is seeking a minimum density of 30 dwellings per hectare, including a
+    greater proportion of smaller housing units. However, it has not referred me to any
+    local policies or guidance that set numerical standards for density that would apply
+    to the appeal scheme. Policy OSS4 of the CS states that the density of
+    development should be appropriate to its context, having due regard to key design
+    principles.
+34. Policies L2 and L3 of the Framework seek to ensure that development uses land
+    effectively and efficiently. Within settlements residential development should
+    contribute to an increase in density, except where there is clear justification that
+    this is either inappropriate or not possible, taking account of the existing character
+    of an area in accordance with Framework Policy DP3.
+35. The Council refers to 30 dwellings per hectare being lower than the minimum
+    densities in Policy L3(2.c.) of the Framework. However, there is nothing of
+    substance before me to indicate that the appeal site is within a reasonable walking
+    distance of a well-connected station (applying the definitions in the Framework’s
+    glossary at Annex B).
+36. It is appropriate for the Council to seek to ensure that development proposals
+    make efficient use of land and contribute positively to the supply of deliverable
+    housing land in its area. Battle is one of the larger settlements in the district’s
+    hierarchy and is considered a sustainable location for housing development as a
+    matter of principle. I have no reasons to doubt that the infrastructure in the area
+    could support a higher density of housing on the appeal site.
+37. However, the appellant’s earlier appeal for a row of 8 semi-detached dwellings
+    across the appeal site, which the appellant says equated to 27 dwellings per
+    hectare, was dismissed due to being at odds with the prevailing pattern of lower
+    density development along this part of North Trade Road. This is a strong indicator
+    that achieving the Council’s preferred density would be harmful to the character
+    and appearance of the area.
+38. I have already found that the proposed development would be in-keeping with the
+    prevailing pattern of development in the area. It would achieve a very similar
+
+
+https://www.gov.uk/planning-inspectorate   6
+Appeal Decision 6007272
+
+
+       density to the bungalows approved by the 2024 permission and would closely
+       relate to them. Together they would form a row of 9 backland dwellings in a
+       broadly consistent pattern.
+39. The Council has advanced no evidence of its own to show that development of the
+    density that it is seeking could be accommodated on the appeal site without
+    causing other harms, particularly to the character and appearance of the area. It
+    seems to me that by utilising undeveloped land within the settlement, the proposed
+    development would contribute to an increase in the density of the area in which it
+    is situated.
+40. Therefore, I conclude on this main issue that the proposed development would,
+    when considered in its context, make efficient use of the appeal land consistent
+    with Policy OSS4 of the CS, and the overarching objectives of Policies L2 and L3
+    of the Framework.
+Housing mix
+41. The proposed dwellings comprise 3 x 4-bed dormer bungalows, 1 x 3-bed
+    bungalow and 1 x 2-bed bungalow. Criterion (i) of Policy LHN1 of the CS states
+    that development should be of a size, type and mix which will reflect both current
+    and projected housing needs within the district and locally. No definition has been
+    provided to demonstrate that the appeal site qualifies as being in a rural area or
+    constituting a larger development. Therefore criterion (ii) and criterion (iv) of Policy
+    LHN1 are not applicable to the appeal scheme.
+42. The supporting text to Policy LHN1 says the appropriate mix will be determined in
+    the context of the surrounding area, including whether there is a bias towards
+    certain types of households. Policy HD3 of the NP states that housing
+    developments will be expected to deliver a range of house types and an element
+    of single level dwellings will be encouraged.
+43. Nothing of substance has been submitted to indicate the current mixture of house
+    sizes in the surrounding area, nor whether there is an overconcentration of
+    particular types or sizes of homes or households. Consequently, whether the
+    proposed market housing mix is satisfactory is a matter of judgement to be formed
+    on the evidence before me.
+44. The Council considers that the proposal seeks permission for too many 4-bed
+    homes and not enough 2-bed homes. It says that the 2-bed and 3-bed bungalows
+    in the 2024 planning permission align more to the local policy requirements than
+    the appeal scheme. However, neither Policy LHN1 of the CS, nor Policy HD3 of
+    the NP set a quantitative housing mix. Policy DHG1 of the DaSA relates to
+    affordable housing and does not set a mix for market housing.
+45. There is no substantive evidence of an under provision of 2 or 3 bed dwellings in
+    the area. The 2024 planning permission for bungalows on the adjoining land is an
+    indicator that smaller homes are being approved within Battle. By delivering 2
+    smaller single level dwellings, which are specifically supported by Policy HD3, the
+    proposal would contribute to the supply of smaller homes.
+46. Whilst the proposed mix of homes is biased towards 4-bed homes there is nothing
+    of substance to show there is an overconcentration of such homes relative to
+
+
+
+https://www.gov.uk/planning-inspectorate   7
+Appeal Decision 6007272
+
+
+       others in the surrounding area, or that the proposal would harm the choice of
+       market homes in the area.
+47. The Council refers to the proposed 4-bed dwellings as being well in excess of
+    nationally described space standards. Larger homes would be expected to have a
+    higher purchase price than smaller ones. However, there is nothing of substance
+    before me to show that they would be unaffordable to prospective purchasers. It
+    seems to me that there is some logic to providing family homes in Battle where
+    services and facilities, including schools, are located close by and could likely be
+    reached by sustainable transport modes.
+48. Whilst the supporting text to Policy HD3 of the NP makes reference to 2-bed and
+    3-bed homes, it does so in the context of affordable housing. In any case, the
+    proposal would deliver 2 and 3 bed homes. Similarly, the extract from the 2024
+    Housing and Economic Development Needs Assessment (HEDNA) refers to the
+    provision of 2-bed and 3-bed properties in the context of intermediate affordable
+    housing. The appeal scheme does not propose or secure affordable housing.
+    Therefore, the extract from the HEDNA and the supporting text to Policy HD3 are
+    of limited relevance and weight to this main issue.
+49. In having regard to the relevant policies and the evidence before me, the proposed
+    development would deliver a mix of dwelling types and sizes. There is nothing of
+    substance to demonstrate that they would not be reflective of the current and
+    projected need for market dwellings within the area. Consequently, there is no
+    conflict with Policy LHN1 of the CS and Policy HD3 of the NP, the objectives of
+    which are set out above.
+Other Matters
+50. The Council Officer’s Report and Statement of Case refer to concerns over the 4-
+    bed chalet style dwellings being poor architecturally due to the positions of the side
+    facing dormer windows causing overlooking between the dwellings and into their
+    private amenity spaces.
+51. In response to those concerns, the appellant has submitted with the appeal an
+    amended drawing proposing to fit obscure glazing (up to a height of 1.8 metres
+    above floor level) to all first-floor dormer windows serving the bedrooms in the 4-
+    bed dwellings. Those windows could be retained in a fixed shut position.
+52. In seeking to address those concerns over privacy, it seems to me that the
+    proposed obscure glazing would heavily restrict the occupants’ outlook from their
+    bedroom windows to views of the sky and the upper parts of the roofs of the
+    flanking dwellings through a relatively narrow section of high-level clear glazing.
+53. However, given that I have dismissed the appeal for other reasons it would not be
+    necessary for me to consider this matter further as it would not alter the outcome
+    of the appeal. Therefore, I need not reach a conclusion as to whether the
+    proposed development would provide acceptable living conditions for its future
+    occupants. Accordingly, for the purposes of this decision, it is not a matter that
+    weighs in favour or against the appeal.
+54. The appeal site lies within the settlement of Battle, where residential development
+    is supported by the development plan as a matter of principle. The evidence
+    indicates that the Council can currently demonstrate a 3.04 years supply of
+
+
+https://www.gov.uk/planning-inspectorate   8
+Appeal Decision 6007272
+
+
+       deliverable housing sites within its area, which is a very significant shortfall against
+       the 5-year requirement. However, there appears to be no dispute that the housing
+       target for Battle has already been met through the development of sites allocated
+       by Policy HD2 of the NP to meet its identified housing requirement.
+55. Nonetheless, the proposed development would deliver market homes that would
+    make a positive contribution to the supply of housing in the Council’s area. It would
+    also bring short term and lasting economic benefits during its construction and
+    occupation, and it would deliver a net gain in biodiversity.
+56. The failure to secure affordable housing and contribute to creating mixed and
+    balanced communities brings the development into conflict with Policy DHG1 of
+    the DaSA and Policy HD3 of the NP. Whilst the proposal complies with several
+    other development plan policies, the substantial weight that attaches to the conflict
+    with those policies is sufficient to outweigh its benefits and bring it into conflict with
+    the development plan as a whole.
+57. In accordance with Policy S4 of the Framework, planning permission should be
+    granted unless the benefits of doing so would be substantially outweighed by any
+    adverse effects, when assessed against the national decision-making policies in
+    the Framework.
+58. In the context of Policy DP3 of the Framework, substantial weight attaches to the
+    proposal’s compliance with the relevant development plan policies listed under my
+    first main issue when assessing the design quality of proposals, including
+    conserving and enhancing the HWNL as a Protected Landscape in accordance
+    with Framework Policy N4.
+59. In accordance with Policies L2 and L3 of the Framework, substantial weight
+    attaches to the benefits of making effective and efficient use of the appeal land for
+    housing. Modest weight attaches to securing and delivering a net gain in
+    biodiversity, and the planting of additional trees in accordance with Framework
+    Policies N2 and N3. In the context of Policy TR3 of the Framework, the appeal site
+    would be in a sustainable location for housing in terms of accessibility to services
+    and facilities.
+60. The proposed homes would contribute positively to meeting the need for market
+    homes in the Council’s area. Policy HO7 of the Framework states that substantial
+    weight should be given to the benefits of providing homes which will contribute
+    towards meeting the evidenced accommodation needs of the community.
+61. However, in accordance with Policies HO7 and HO8 of the Framework, the
+    proposal would fail to meet development plan requirements for securing the
+    requisite proportion of affordable housing to meet the needs of those requiring it,
+    and to create mixed and balanced communities. No clear justification for the failure
+    to secure affordable housing has been advanced. In those respects, I attach
+    substantial weight to the conflict with Framework Policies HO7 and HO8.
+62. The failure to secure affordable housing would conflict with the principle in Policy
+    DP3(2.a.) of the Framework, which states that development proposals should
+    support mixed communities by incorporating a range of tenures. Policy DP3(3) is
+    clear that development proposals that conflict with the relevant aspects of the
+    principles in Policy DP3(2) should be refused. The benefits of the proposal do not,
+    in my judgement, clearly justify departing from the principle that development
+
+https://www.gov.uk/planning-inspectorate   9
+Appeal Decision 6007272
+
+
+       should contribute to providing mixed communities. Therefore, failure to comply
+       with the relevant principle in Policy DP3(2.a.) of the Framework indicates that
+       planning permission for the development should be refused.
+63. Consequently, when assessed against the national decision-making policies in the
+    Framework, I find that the benefits of the proposed development would be
+    substantially outweighed by the adverse effects arising from the failure to secure
+    affordable housing, including the effects on those in need of affordable housing
+    and on the creation of mixed and balanced communities.
+Conclusion
+64. The conflict with Policy DHG1 of the DaSA and Policy HD3 of the NP brings the
+    development into conflict with the development plan as a whole. The material
+    considerations including the benefits of the proposed development and the
+    provisions of the Framework are insufficient to outweigh that conflict. Therefore, I
+    conclude that the proposed development is unacceptable, and the appeal should
+    be dismissed.
+
+
+
+G Sylvester
+INSPECTOR
+
+
+
+
+https://www.gov.uk/planning-inspectorate   10
+

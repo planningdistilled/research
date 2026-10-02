@@ -1,0 +1,48 @@
+{
+  "cases": {
+    "builtAt": "2026-09-30T18:40:55+01:00",
+    "byDecisionMaker": {
+      "inspector": 899,
+      "lpa-committee": 37,
+      "lpa-delegated": 33,
+      "secretary-of-state": 2
+    },
+    "newestDecisionDate": "2026-09-30",
+    "newestHarvestedOn": "2026-09-30",
+    "refreshedAt": "2026-10-02T14:09:27+01:00",
+    "total": 971
+  },
+  "frameworkDate": "2026-08-17",
+  "schema": 1,
+  "sources": {
+    "lpa:stratford": {
+      "lastRunAt": "2026-09-27T19:18:01+01:00",
+      "newestDecisionDateSeen": "2026-09-22",
+      "note": "SDC via portal JSON API (memory: sdc-portal-json-api); last pass 23 Sep 2026"
+    },
+    "pins-acp": {
+      "decidedSinceFramework": 239,
+      "highestDecidedRef": 3378665,
+      "newestDecisionDateSeen": "2026-09-23",
+      "note": "Highest scanned ref not recorded before harvest.py; highestDecidedRef is from acp-decided-index.tsv."
+    },
+    "pins-new": {
+      "awaitingFetch": 0,
+      "corpusLetters": 1400,
+      "fetchFailures": 0,
+      "lastFetchAt": "2026-09-30T18:01:53+01:00",
+      "lastIndexAt": "2026-09-30T18:01:54+01:00",
+      "lastQueueAt": "2026-09-30T18:40:07+01:00",
+      "lastQueueFile": "harvest-log/slices/queue-2026-09-30.tsv",
+      "lastSweepAreas": "all",
+      "lastSweepAt": "2026-09-30T17:57:30+01:00",
+      "lastSweepErrors": 0,
+      "listed": 1400,
+      "newestDecisionDateSeen": "2026-09-30",
+      "newestLetterDate": "2026-09-30",
+      "newestRefSeen": "6015634",
+      "note": "Run times before 27 Sep 2026 backfilled from the 23 Sep 2026 corpus build.",
+      "queued": 0
+    }
+  }
+}

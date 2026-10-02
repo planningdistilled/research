@@ -1,0 +1,321 @@
+Appeal Decision
+Site visit made 7 September 2026
+by B Plenty BSc (Hons) DipTP MRTPI
+an Inspector appointed by the Secretary of State
+Decision date: 14 September 2026
+
+
+Appeal Ref: 6003569
+Crockmore Cottage, Crockmore Lane, Fawley RG9 6HZ
+•          The appeal is made under section 78 of the Town and Country Planning Act 1990 (as
+           amended) against a refusal to grant planning permission.
+•          The appeal is made by Helen Burton against the decision of Buckinghamshire Council.
+•          The application Ref is 24/07796/FUL.
+•          The development proposed is Installation of Ground-Mounted Solar Panels (200 kW Total
+           Capacity) comprising 12 rows of panels, each oriented 6 degrees west of due south.
+
+Decision
+1. The appeal is allowed and planning permission is granted for the Installation of
+   Ground-Mounted Solar Panels (200 kW Total Capacity) comprising 12 rows of
+   panels, each oriented 6 degrees west of due south at Crockmore Cottage, Fawley
+   RG9 6HZ in accordance with the terms of the application, Ref 24/07796/FUL, and
+   the plans submitted with it, subject to the conditions in the attached schedule.
+Preliminary Matters
+2. The appeal site is within the Chilterns National Landscape (NL). Section 85 of the
+   Countryside and Rights of Way Act 2000 (as amended)(the CRoW Act) required
+   decision makers to have regard to the purpose of conserving and enhancing the
+   natural beauty of the area. Since 2023, Section 245 of the Levelling-Up and
+   Regeneration Act (LURA) amended the duty on relevant authorities in respect of
+   their interactions with statutory purposes of Areas of Outstanding Natural Beauty
+   (AONBs – now NLs), as set out in the CRoW Act. In so far as it relates to this
+   appeal, the amendment now requires relevant authorities “in exercising or
+   performing any functions in relation to, or so as to affect land in an, AONB…must
+   seek to further the purpose of conserving and enhancing the natural beauty of the
+   AONB”.
+3. The Council’s second Reason for Refusal (RfR) related to the effect of the proposal
+   on ecological interests and Biodiversity net gain. The appellant’s Preliminary
+   Ecological Appraisal (January 2026), small sites metric and user guide (2025) and
+   statement regarding interpretation of small sites metric have been submitted in
+   support of the appeal. Following consideration of the further information, the Council
+   informs that it no longer seeks to defend RfR2 as the submitted details demonstrate
+   that the proposed development would not have an adverse effect on protected
+   species or ecological habitats.
+4. Furthermore, the Council also accepts the appellant’s contention that in
+   consideration of the small sites metric user guide the scheme would comply with the
+   small site’s metric, being under 1ha and as the works are minor there is no credible
+
+https://www.gov.uk/planning-inspectorate
+Appeal Decision 6003569
+
+
+       pathway for the development to affect priority habitats within 500m of the site. I see
+       no reason to disagree with these matters and therefore consider this RfR has been
+       addressed.
+Main Issue
+5. The main issue is the effect of the proposal on the landscape and visual amenity of
+   the surrounding area, and the NL.
+Reasons
+       Policy Background
+6. This application is not an energy development which is a nationally significant
+   infrastructure project (NSIP) under the Planning Act 2008. Nonetheless, the
+   Overarching National Policy Statement for energy (EN-1) may be a material
+   consideration for applications under the Town and Country Planning Act 1990 (as
+   amended). This sets out the national policy for energy infrastructure and establishes
+   the Government’s approach to meeting its net zero objectives. It recognises that to
+   meet the Government’s objectives and targets for net zero by 2050, significant large
+   and small-scale energy infrastructure will be required. Furthermore, the National
+   Policy Statement for Renewable Energy Infrastructure (EN-3) sets out national
+   policy in respect of renewable energy and identifies ‘an urgent need for new
+   electricity generating capacity to meet our energy objectives.’
+7. Whether policies in EN-1 and EN-3 are material, and to what extent, should be
+   judged on a case-by-case basis. In this case the proposal is for a solar farm
+   creating up to 200 kilowatts of energy and would generate around 203 MWh of
+   renewable energy, powering up to 70 homes annually. The site benefits from a
+   connection to a three-phase low voltage grid connection within the grounds of the
+   property, which provides support for the scheme. It therefore falls below the
+   threshold for NSIP but due to its scale, EN-1 and EN-3 are deemed to be policy
+   documents of moderate weight.
+8. The UK Government has declared a climate emergency and set a statutory target of
+   achieving net zero emissions by 2050, and this is also a material consideration.
+   Since the declaration, the Sixth Assessment Report of the Intergovernmental Panel
+   on Climate Change has indicated that there is a greater than 50% chance that
+   global temperature increases will exceed 1.5 degrees Celsius above pre-industrial
+   levels. The report indicates that delay in global action to address climate change will
+   miss a rapidly narrowing window of opportunity to secure a liveable and sustainable
+   future for all1.
+9. Powering up Britain [2023] seeks to accelerate the deployment of renewables and
+   increase our solar power five-fold by 2035. This explains that solar has a huge
+   potential to help decarbonise the power sector and that we need to maximise
+   deployment of solar to achieve our overall target. Solar power presents significant
+   benefits as it is regarded as one of the cheapest forms of electricity generation and
+   is readily deployable. It is considered that meeting energy security and climate
+   change goals is urgent and of critical importance to the country, and that these
+   goals can be achieved together with maintaining food security for the UK.
+
+
+1
+    IPCC Sixth Assessment Report - Summary for Policymakers, paragraph D.5.3
+
+
+https://www.gov.uk/planning-inspectorate               2
+Appeal Decision 6003569
+
+
+10. The National Planning Policy Framework 2026 (the Framework) explains that the
+    planning system should support the transition to clean power by planning positively
+    for the increased supply and use of low carbon energy in a changing climate. Its
+    decision-making policies, at policy W3, explain that substantial weight should be
+    given to the benefits of improving energy security, supporting economic
+    development and electricity network infrastructure. It also states that planning
+    authorities should not require a developer to demonstrate a need for low carbon or
+    renewable energy development. It states that substantial weight should be given to
+    the contribution that small-scale community-led renewable projects can make to
+    reducing greenhouse gas emissions, along with their economic and social benefits.
+11. Policy DM33 of the Wycombe District Local Plan [2019] (LP), with respect to
+    managing carbon emissions: Transport and energy generation, seeks to integrate
+    renewable technologies into developments.
+12. The proposed development would make a valuable contribution to achieving these
+    local and national goals. The policy context, in supporting the delivery of a
+    substantial level of renewable energy projects, provides compelling evidence for the
+    need for solar schemes, such as proposed, and conveys significant weight in favour
+    of the proposal.
+13. LP Policy DM44, with respect to development in the countryside, lists at a) to i)
+    criteria for which permission would be granted. The proposal would fail to meet any
+    of these criteria and thus would conflict with this policy. Nonetheless, the Council
+    asserts that the benefits of renewable energy would clearly outweigh the objection
+    in principle established by the conflict with this policy, subject to assessment against
+    its detailed development control policies.
+Landscape and visual amenity
+14. The appeal site consists of the upper half of a small field. The site is enclosed on its
+    southwest and northwest boundaries with a post and rail fence. To its southeast
+    boundary, marking the limits of the Crockmore Cottage grounds, is a tree and hedge
+    screen which is both tall and dense. The southeast boundary would be the midpoint
+    through the field and currently has no defined boundary. Accordingly, the site is
+    enclosed partly by thick tree and hedge screening and is partly open to surrounding
+    fields. The site slopes gradually from southeast to northwest, with Crickmore Lane
+    at the lowest point beyond a hedge and tree boundary.
+15. The special qualities of the NL include the steep chalk escarpment with areas of
+    flower-rich downland, broadleaved woodlands (especially beech), commons,
+    tranquil valleys, the network of ancient routes, villages with their brick and flint
+    houses, globally rare chalk streams and a rich historic environment of hillforts and
+    chalk figures. Its special qualities include its tranquillity and remoteness along with
+    visually sensitive skylines, geological and topographical features which contribute
+    towards making it a special landscape.
+16. The appeal site consists of grassland and as such is relatively common and typical
+    of the area. Nonetheless, its undeveloped form and general good landscape quality
+    and condition mean it is characteristic of the surrounding rural area. As a result, the
+    site makes a positive contribution to the character type and the appearance of the
+    area.
+
+
+
+https://www.gov.uk/planning-inspectorate   3
+Appeal Decision 6003569
+
+
+17. The Framework identifies that development within Protected Landscapes, which
+    include National Landscapes, requires substantial weight to be afforded to
+    conserving and enhancing their natural beauty. It requires development to be limited
+    in scale and extent, be sensitively located and be designed to avoid harm to the
+    Protected Landscape. It also requires proposals deemed to be major development
+    should be refused unless exceptional circumstances exist. Main parties agree that
+    the scheme is not major development and therefore consideration of the proposal’s
+    scale and extent, and its overall landscape and visual effects, are required.
+18. The proposed development would retain the existing native hedgerows and trees
+    around the site. The appellant’s submission includes photographs of the boundary
+    hedge in the winter, these demonstrate that whilst foliage is less, transparency is
+    still limited forming a thick screen throughout the year, screening the proposal.
+    Furthermore, the proposal would also maintain the existing field pattern of the site
+    and would not include land reforming. Therefore, whilst the proposed solar panels
+    would be man-made structures within a rural setting, these would be low-lying and
+    could be absorbed into its local context. This would cause only modest harm to the
+    NL and its special qualities. Given the substantial overall scale of the NL, and the
+    modest size of the appeal site, the proposal would result in only a minor adverse
+    effect to the area’s landscape character.
+19. Most of the valued attributes of the relevant NL character area would be unaffected
+    by the development, with harm through the introduction of the modest built form
+    proposed only affecting the two of its valued attributes being its tranquillity and
+    remoteness. In addition, the NL’s most important overall landscape characteristics
+    (its visually sensitive skylines, and its geological and topographical features) would
+    be unaffected. Combined with the development’s extremely modest scale relative to
+    the NL, the overall effect of the development on the NL would be minor adverse,
+    causing only modest landscape harm.
+20. In terms of visual effects, the appellant’s visual assessment shows the site from
+    several views around its perimeter, although these do not show the impact of the
+    proposal on these views. Nonetheless, the site is well contained, affording very
+    limited public views of the site, causing localised effects only. Views through the
+    hedgerow from Crockmore Lane are extremely limited to being barely perceptible.
+    Whilst the Council asserts that the site benefits from only partial screening, it has
+    not demonstrated where the proposal could be seen from the public realm.
+    Furthermore, whilst the Council suggest that the hedge and tree screening should
+    be regarded as short term and temporary, on site I found the screening to be robust
+    and verdant, enabling long-term screening capability.
+21. The appellant’s visibility assessment suggests that views from the South
+    Oxfordshire Way would be, at most, brief and limited by vegetation and I see no
+    reason to disagree with this conclusion. As such, views from outside the site would
+    be negligible causing no adverse visual effects.
+22. Consequently, the proposal would cause conflict, albeit modest, with LP policy
+    DM30 and the Chilterns Area of Outstanding Natural Beauty Plan 2019-2024. These
+    require, among other matters, for development to conserve and enhance the natural
+    beauty of the AONB. The scheme would also fail to further the purpose of
+    conserving and enhancing the natural beauty of the AONB, in conflict with
+    Section 85 of the CRoW Act, due to the identification of modest landscape harm.
+
+
+https://www.gov.uk/planning-inspectorate   4
+Appeal Decision 6003569
+
+
+Planning Balance
+23. The proposal would conflict with LP policies DM30 and DM44, causing conflict with
+    the development plan. The conflict I have identified with development plan policies
+    in relation to this matter therefore leads me to conclude that the appeal proposal
+    conflicts with the development plan as a whole. Planning law requires that
+    applications for planning permission be determined in accordance with the
+    development plan unless material considerations indicate otherwise.
+24. The Framework requires substantial weight to be applied to conserving and
+    enhancing the natural beauty of such areas. The proposed development would be
+    modest in scale and extent, and its location would limit its visual and landscape
+    effects. Accordingly, harm to the NL would be limited based on the development’s
+    location, where public views are limited and has been sensitively placed in a well
+    screened setting causing only moderate harm. Furthermore, the Framework
+    recognises at policy S5(1), that only certain forms of development should be
+    approved outside settlements, including at (a) infrastructure projects for energy,
+    supporting the principle of the scheme.
+25. Furthermore, LP Policy DM33 supports the provision of renewable energy
+    development in addition to the support garnered by the Framework at policies CC2
+    and W2, which seek substantial weight to be applied to the benefits of renewable
+    and low carbon projects.
+26. In this case, I have found that the harm to the landscape would be localised and (at
+    most) moderate. With the effect of the development on the NL being minor adverse,
+    the appeal proposal would also be inconsistent with the promotion of the statutory
+    purposes of conserving and enhancing the NL’s natural beauty. On the other hand,
+    as detailed above, the development would result in extensive environmental, social
+    and economic benefits in support of the provision of renewable energy. Accordingly,
+    the adverse impacts, the conflict with relevant development plan policies and the
+    inconsistency with the statutory purposes of the NL are outweighed by the scheme’s
+    substantial benefits.
+Conditions
+27. I have considered the use of conditions in line with the guidance set out in the
+    planning practice guidance (PPG). I shall take the Council’s suggested conditions
+    into consideration and with some amendments and adjustments for clarity. I have
+    applied an implementation period and standard condition with respect to approved
+    plans as advised by the PPG for clarity and certainty [conditions 1 and 2].
+28. Furthermore, conditions are required to secure the decommissioning of the site
+    following the cessation of the use to prevent ongoing harm to the NL [3 and 4]. A
+    condition is also required to ensure water runoff is captured to prevent off-site
+    flooding [5] and to ensure that the requirements of the ecological appraisal are
+    complied with in the interests of biodiversity [6].
+Conclusion
+29. Planning law requires that applications for planning permission be determined in
+    accordance with the development plan unless material considerations indicate
+    otherwise. In this instance, material considerations outweigh the harm that would
+    arise, the conflict with development plan policies and the great weight afforded to
+
+
+https://www.gov.uk/planning-inspectorate   5
+Appeal Decision 6003569
+
+
+    conserving and enhancing landscape and scenic beauty of the NL and the
+    conservation of designated heritage assets. Consequently, the development should
+    be permitted notwithstanding the conflict with the development plan as a whole.
+30. For the above reasons, the appeal is therefore allowed.
+
+B Plenty
+INSPECTOR
+
+
+
+
+https://www.gov.uk/planning-inspectorate   6
+Appeal Decision 6003569
+
+
+Schedule of conditions
+
+     1)       The development hereby permitted shall begin not later than [3] years from
+              the date of this decision.
+     2)       The development hereby permitted shall be built in accordance with the
+              details contained in the planning application hereby approved and plan
+              numbers BC1; BC2; BC3; BC4; BC5; 1; 2 (as submitted to Buckinghamshire
+              Council on 19th November 2024).
+     3)       Should the solar panels not be used continuously for the production of
+              energy for a period of six months, the panels, support structures and
+              associated buildings shall be removed in their entirety and the land shall be
+              restored to its former condition in accordance with a scheme of work
+              submitted to and approved (unless otherwise agreed) in writing by the Local
+              Planning Authority.
+     4)       Within six months of the cessation of electricity generation by the solar facility
+              hereby permitted, or within 30 years and six months following a permanent
+              cessation of construction works prior to the facility coming into operational
+              use, whichever is the sooner, the solar photovoltaic panels, frames,
+              foundations, inverter modules and all associated structures and fencing
+              approved shall be dismantled and removed from the site. The developer shall
+              notify the Local Planning Authority in writing no later than five working days
+              following cessation of power production. The site shall subsequently be
+              restored in accordance with a scheme, the details of which shall be submitted
+              to and approved in writing by the Local Planning Authority no later than three
+              months following the cessation of power production.
+     5)       The development hereby approved shall store all additional rainwater runoff
+              within the site and either reuse it or release it into the ground through
+              infiltration. Where the additional runoff is not to be re-used or on-site
+              infiltration methods are not proposed, details of how the risk of flooding
+              elsewhere will not be increased shall be submitted to and approved by the
+              local planning authority prior to any development taking place. The approved
+              details shall thereafter be implemented prior to the development being
+              brought into use and thereafter managed and maintained for the lifetime of
+              the development.
+     6)       The development, hereby approved, shall be undertaken in accordance with
+              the ecological mitigation measures specified in the submitted Preliminary
+              Ecological Appraisal, by Arbtech, dated 9th January 2026, unless otherwise
+              first agreed in writing by the Local Planning Authority.
+
+
+End of conditions
+
+
+
+
+https://www.gov.uk/planning-inspectorate   7
+
