@@ -11,12 +11,12 @@ jobs:
   check:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5
 
       - name: Nothing personal, oversized or non-OGL
         run: python3 tools/check_public.py
 
-      - uses: astral-sh/setup-uv@v5
+      - uses: astral-sh/setup-uv@v6
 
       - name: Python tools compile
         run: python3 -m py_compile paths.py tools/*.py pages/authority/stratford-dc/nppf-decisions/build/*.py site/seo.py
@@ -29,7 +29,7 @@ jobs:
       - name: Harvest watermarks readable
         run: python3 tools/harvest.py status
 
-      - uses: actions/setup-node@v4
+      - uses: actions/setup-node@v5
         with:
           node-version-file: .nvmrc
           cache: npm
