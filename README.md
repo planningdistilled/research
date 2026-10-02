@@ -7,7 +7,7 @@ The data, tools and page sources behind [planningdistilled.org](https://planning
 - **NPPF 2026 Navigator**: an interactive decision-route tool through the Framework, linked to the decisions.
 - The pages built from them.
 
-Licensed [CC BY 4.0](LICENSE): credit "Planning Distilled". The documents in `data/open-sources/` are Crown copyright under the Open Government Licence.
+Licensed [CC BY 4.0](LICENSE): credit "Planning Distilled". The documents in `data/open-sources/` are Crown copyright under the Open Government Licence; see [NOTICE.md](NOTICE.md).
 
 ## Layout
 
