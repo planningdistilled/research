@@ -12,7 +12,7 @@ A collection of 315 sources that tell someone how to read or apply the August 20
 - "Positions against our propositions": a stance (agrees, qualifies, disagrees, silent, not applicable) on each of our nine propositions, with a verbatim quote and its location;
 - "Leads": things worth following up.
 
-Local copies of the source text (`.txt`, plus the original `.html` or `.pdf` where it could be saved) are in `data/open-sources/guidance-ogl/ (MHCLG, PINS) and sources/guidance/ (other publishers) `, named by slug.
+Local copies of the source text (`.txt`, plus the original `.html` or `.pdf` where it could be saved) are in `data/open-sources/guidance-ogl/` (MHCLG and Planning Inspectorate pages) and the private sources repo's `guidance/` (other publishers), named by slug.
 
 The propositions the corpus is coded against come from our own analysis of appeal and council decisions in [`../nppf-2026-decisions/analysis/patterns.md`](../nppf-2026-decisions/analysis/patterns.md) and [`settlement-hierarchy-and-service-centres.md`](../nppf-2026-decisions/analysis/settlement-hierarchy-and-service-centres.md):
 
@@ -61,7 +61,7 @@ Three cautions about the coding:
 | Planning Inspectorate | 9 | 9 | 0 | 0 | 5 |
 | **Total** | **315** | **262** | **24** | **29** | **37** |
 
-"Local text" means the source text is saved in `data/open-sources/guidance-ogl/ (MHCLG, PINS) and sources/guidance/ (other publishers) ` and quotes were machine-checked against it. "WebFetch only" means the site blocked direct download; the text was read through WebFetch and quotes were checked against that rendering, not a saved copy. "Not retrieved" means nothing was read and no stance was coded.
+"Local text" means the source text is saved in `data/open-sources/guidance-ogl/` (MHCLG and Planning Inspectorate pages) and the private sources repo's `guidance/` (other publishers) and quotes were machine-checked against it. "WebFetch only" means the site blocked direct download; the text was read through WebFetch and quotes were checked against that rendering, not a saved copy. "Not retrieved" means nothing was read and no stance was coded.
 
 93 sources are about the December 2025 draft, not the final text. 37 are training or briefing material (`is_training: true`).
 

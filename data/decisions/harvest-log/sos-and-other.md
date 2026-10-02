@@ -30,7 +30,7 @@ What was built from it:
 | Full text of all 1,084 letters (pdftotext -layout), plus `docs.map` (ref → document uuid) | `data/open-sources/pins-corpus/<ref>.txt` |
 | Index: ref, date, type, decision, LPA, 2026 policy codes cited, flags, description | `harvest-log/pins-corpus-index.tsv`, built by `tools/index_pins_corpus.py` |
 
-- The PDFs themselves (178 MB) were **not** copied into the repo. Only the PDFs for written cases are in `data/open-sources/pins-letters/ (PINS letters) and sources/council/ (council documents) `. Re-fetch the others with the document uuid from `docs.map`.
+- The PDFs themselves (178 MB) were **not** copied into the repo. Only the PDFs for written cases are in `data/open-sources/pins-letters/` (PINS letters) and `../sources/council/` (council documents, private repo). Re-fetch the others with the document uuid from `docs.map`.
 - By type: Planning 658, Householder 308, Commercial advertisement 77, Planning listed building and conservation area 31, Advertisement 5, Enforcement 4, CAS 1.
 - By outcome: dismissed 705, allowed 365, part-allowed 9.
 - The coordinator, appeals-greenbelt and appeals-nongb were told about the corpus by message.

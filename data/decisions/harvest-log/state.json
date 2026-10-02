@@ -9,7 +9,7 @@
     },
     "newestDecisionDate": "2026-09-30",
     "newestHarvestedOn": "2026-09-30",
-    "refreshedAt": "2026-10-02T14:09:27+01:00",
+    "refreshedAt": "2026-10-02T19:57:53+01:00",
     "total": 971
   },
   "frameworkDate": "2026-08-17",
@@ -18,7 +18,7 @@
     "lpa:stratford": {
       "lastRunAt": "2026-09-27T19:18:01+01:00",
       "newestDecisionDateSeen": "2026-09-22",
-      "note": "SDC via portal JSON API (memory: sdc-portal-json-api); last pass 23 Sep 2026"
+      "note": "SDC via portal JSON API (DISTILLATION-GUIDE.md §7); last pass 23 Sep 2026"
     },
     "pins-acp": {
       "decidedSinceFramework": 239,

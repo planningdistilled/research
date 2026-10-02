@@ -16,7 +16,7 @@ Agent: midlands-lpas. Date: 2026-09-23. Slice: council decisions from 17 Aug 202
 | Worcester | 26-00541-FUL (committee 17 Sep) | committee.worcester.gov.uk + plan.worcester.gov.uk |
 | Lichfield | 26-00855-OUT, 26-00849-FUL (delegated) | Idox public access |
 
-Source PDFs are in `data/open-sources/pins-letters/ (PINS) or sources/council/ (council) <case-id>-report.pdf` / `-notice.pdf`, plus the committee minutes and update sheets for Malvern, Cotswold and NBBC.
+Source PDFs are in `data/open-sources/pins-letters/<case-id>-report.pdf` (PINS, Secretary of State and Crown decisions) or `../sources/council/<case-id>-report.pdf` (council documents, private repo) / `-notice.pdf`, plus the committee minutes and update sheets for Malvern, Cotswold and NBBC.
 
 ## Sources searched and method
 

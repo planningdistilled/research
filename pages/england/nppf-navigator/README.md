@@ -14,7 +14,7 @@ npm run serve        # http://localhost:8123
 
 `npm run build`:
 - validates the graph (unknown facts, option values, quote ids);
-- **verifies every quotation** against `pdftotext -layout open:nppf/NPPF-August-2026.pdf`, failing on any mismatch (`node build/verify-quotes.mjs` shows where);
+- **verifies every quotation** against `pdftotext -layout data/open-sources/nppf/NPPF-August-2026.pdf`, failing on any mismatch (`node build/verify-quotes.mjs` shows where);
 - writes `graph.md` (the reviewable graph);
 - builds the case data from `data/decisions/index/cases.json`, the case bodies and `harvest-log/state.json`;
 - bundles the app and prints a size report against the artifact limits.

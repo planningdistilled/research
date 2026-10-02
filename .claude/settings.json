@@ -1,0 +1,48 @@
+{
+  "hooks": {
+    "SessionStart": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "\"$CLAUDE_PROJECT_DIR\"/.claude/hooks/session-start.sh",
+            "timeout": 30,
+            "statusMessage": "Checking checkouts and harvest status"
+          }
+        ]
+      }
+    ]
+  },
+  "permissions": {
+    "allow": [
+      "Bash(uv run tools/*)",
+      "Bash(uv run -q tools/*)",
+      "Bash(python3 tools/harvest.py status)",
+      "Bash(python3 tools/check_public.py)",
+      "Bash(python3 tools/normalise.py)",
+      "Bash(npm ci)",
+      "Bash(npm test)",
+      "Bash(npm run build)",
+      "Bash(npm run typecheck)",
+      "Bash(npm run export:pages)",
+      "Bash(node build/*)",
+      "Bash(node pages/england/service-village/build.mjs *)",
+      "Bash(node site/finish.mjs)",
+      "Bash(pdftotext *)",
+      "Bash(git status *)",
+      "Bash(git diff *)",
+      "Bash(git log *)",
+      "WebFetch(domain:www.gov.uk)",
+      "WebFetch(domain:assets.publishing.service.gov.uk)",
+      "WebFetch(domain:appeal-planning-decision.service.gov.uk)",
+      "WebFetch(domain:acp.planninginspectorate.gov.uk)",
+      "WebFetch(domain:find-crown-development.planninginspectorate.gov.uk)",
+      "WebFetch(domain:www.planninggeek.co.uk)",
+      "WebFetch(domain:apps.stratford.gov.uk)"
+    ],
+    "ask": [
+      "Bash(git push *)",
+      "Bash(node site/finish.mjs --indexnow)"
+    ]
+  }
+}

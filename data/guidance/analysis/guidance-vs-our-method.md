@@ -2,7 +2,7 @@
 
 How 315 published sources on applying the August 2026 National Planning Policy Framework (NPPF) compare with the nine propositions we drew from our decisions database. **Snapshot: 2 October 2026.** Corpus and method: [`../README.md`](../README.md). Our propositions and evidence: [`../../nppf-2026-decisions/analysis/patterns.md`](../../nppf-2026-decisions/analysis/patterns.md) (971 coded decisions; the patterns file was written on the first 794).
 
-Every claim below cites a corpus slug in `corpus/<slug>.md`. Quotes are verbatim from the corpus files or the local copies in `data/open-sources/guidance-ogl/ (MHCLG, PINS) and sources/guidance/ (other publishers) `. Counts are numbers of sources after adversarial verification (see the README for how that worked).
+Every claim below cites a corpus slug in `corpus/<slug>.md`. Quotes are verbatim from the corpus files or the local copies in `data/open-sources/guidance-ogl/` (MHCLG and Planning Inspectorate pages) and the private sources repo's `guidance/` (other publishers). Counts are numbers of sources after adversarial verification (see the README for how that worked).
 
 ---
 

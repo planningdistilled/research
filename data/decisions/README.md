@@ -9,7 +9,7 @@ Not limited to Stratford-on-Avon. **Appeal and Secretary of State decisions carr
 | Path | What |
 | --- | --- |
 | `cases/<case-id>.md` | One file per decision. YAML frontmatter (schema below) + short narrative. |
-| `../../data/open-sources/pins-letters/ (PINS) or sources/council/ (council) <case-id>.pdf` | The decision letter / notice / officer report, where downloadable. |
+| `data/open-sources/pins-letters/<case-id>.pdf` (PINS, Secretary of State and Crown decisions) or `../sources/council/<case-id>.pdf` (council documents, private repo) | The decision letter / notice / officer report, where downloadable. |
 | `harvest-log/<source>.md` | What each harvesting pass searched, what it found, dead ends, leads not yet followed. |
 | `index/` | **Generated** by `tools/build_index.py`: policy → cases index, case table, tag and dev-plan indexes, `cases.json`. Do not hand-edit. |
 | `index/stats.md` | Generated outcome rates by decision maker, dev type, site context, grey belt, Framework applied and policy finding. |
@@ -106,7 +106,9 @@ weight_of_authority: high                   # high (SoS / inspector inquiry+hear
 related: []                                 # other case_ids (e.g. the LPA refusal this appeal overturned)
 sources:
   - https://acp.planninginspectorate.gov.uk/ViewDocument.aspx?fileid=...
-local_copy: data/open-sources/pins-letters/APP-M3645-W-26-6010313.pdf   # null if not downloaded
+local_copy: open:pins-letters/APP-M3645-W-26-6010313.pdf   # null if not downloaded. Prefix open: = data/open-sources/ (OGL: PINS, SoS, Crown),
+                                                          # sources: = the private sources repo (council documents), e.g. sources:council/<case-id>-report.pdf;
+                                                          # PINS letter text: open:pins-corpus/<ref>.txt
 verification: letter-read                   # letter-read | report-read | notice-read | secondary-only
 harvested_by: appeals-greenbelt
 harvested_on: 2026-09-23
@@ -144,6 +146,6 @@ Bullets of propositions this decision supports (with ¶ refs), phrased so they c
 1. **Only decisions dated 17 August 2026 or later.** If the decision-maker expressly applied the December 2024 Framework (e.g. an appeal where parties weren't consulted on the new one), still record it but set `nppf_applied: "2024-12 (transitional)"` and tag `transitional` — these show how the switch was handled.
 2. **Read the primary document** where you can (decision letter, officer report, decision notice). Set `verification` honestly. A case built from a blog summary is `secondary-only` and says so.
 3. **Cite paragraph numbers** of the decision letter / report for every quote.
-4. **Policy codes** use the 2026 Framework's codes (`nppf-2026-policy-codes.md`). If a decision cites a paragraph of the 2024 Framework, record the 2024 paragraph in the note and map to the 2026 code if obvious (see `../blueprint-refs/nppf-2026-cheat-sheet.md` §5).
+4. **Policy codes** use the 2026 Framework's codes (`nppf-2026-policy-codes.md`). If a decision cites a paragraph of the 2024 Framework, record the 2024 paragraph in the note and map to the 2026 code if obvious (see the mapping at the end of `nppf-2026-policy-codes.md`).
 5. **Don't invent facts.** Null is fine. "Not stated in the letter" is fine.
-6. Download PDFs to `data/open-sources/pins-letters/ (PINS letters) and sources/council/ (council documents) ` named `<case-id>.pdf` (council reports may be `<case-id>-report.pdf`, `<case-id>-notice.pdf`).
+6. Download PDFs to `data/open-sources/pins-letters/` (PINS letters) and `../sources/council/` (council documents, private repo) named `<case-id>.pdf` (council reports may be `<case-id>-report.pdf`, `<case-id>-notice.pdf`).

@@ -3,9 +3,8 @@
 Repo root: the planningdistilled/research checkout
 Case store: data/decisions/  — READ its README.md FIRST (schema, case-id rules, vocabularies).
 Policy codes: data/decisions/nppf-2026-policy-codes.md
-Framework text: open:nppf/NPPF-August-2026.pdf (pdftotext it). Orientation: the policy-code list in data/decisions/nppf-2026-policy-codes.md
-(§5 old→new mapping, §6/6a early decisions already spotted). Prior comparator work (mostly pre-Aug-2026, useful for
-methods and leads): the comparator notes (private)
+Framework text: data/open-sources/nppf/NPPF-August-2026.pdf (text extract beside it: NPPF-August-2026.txt). Policy codes and the
+2024→2026 mapping: data/decisions/nppf-2026-policy-codes.md.
 
 Today is 2026-09-23. The new NPPF was published and took effect 17 Aug 2026. We want every decision you can find dated
 17 Aug 2026 or later, distilled into one case file each. Quality over raw count, but aim high — 15–40 cases per agent is
@@ -22,7 +21,7 @@ Tools/method notes:
 - Council committee reports: most councils use modern.gov (e.g. democracy.<council>.gov.uk/ieListMeetings.aspx) — agendas
   and report PDFs are fetchable even when the Idox planning portal blocks bots.
 - pdftotext -layout for PDFs. No OCR available (tesseract absent); if a PDF is scanned, note it and use the notice / other docs.
-- Save PDFs to data/open-sources/pins-letters/ (PINS) or sources/council/ (council) <case-id>.pdf (or -report / -notice suffix).
+- Save PDFs to `data/open-sources/pins-letters/<case-id>.pdf` (PINS, Secretary of State and Crown decisions) or `../sources/council/<case-id>.pdf` (council documents, private repo) (or -report / -notice suffix).
 
 Hard rules:
 - Before writing each case, `grep -ril "<appeal ref or number or site name>" data/decisions/cases/` — other agents
@@ -30,7 +29,7 @@ Hard rules:
 - Frontmatter must be valid YAML matching the schema. Quote strings containing colons. After writing cases, run
   `uv run tools/build_index.py` and fix any WARN lines for your files.
 - Verbatim quotes with decision-letter paragraph numbers. No invented facts. Mark verification honestly.
-- Do NOT edit files outside data/decisions/ and data/open-sources/pins-letters/ (PINS letters) and sources/council/ (council documents) . Do not git commit.
+- Do NOT edit files outside data/decisions/ and `data/open-sources/pins-letters/` (PINS letters) and `../sources/council/` (council documents, private repo). Do not git commit.
 - Write your harvest log to data/decisions/harvest-log/<your-agent-name>.md: sources searched, queries,
   what worked, dead ends, and a "LEADS NOT FOLLOWED" list (refs/URLs you saw but didn't process) — this is important for
   follow-up passes.

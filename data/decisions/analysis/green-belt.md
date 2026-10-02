@@ -1,6 +1,6 @@
 # Green Belt under the August 2026 NPPF: GB6, GB7, GB8 and S5(5) in practice
 
-Analyst: analyst-greenbelt, 23 Sep 2026. Dataset: 136 cases with `green_belt: true` or a GB finding (105 inspector, 1 SoS, 17 committee, 13 delegated), 17 Aug–23 Sep 2026. Primary letter text was read for every appeal cited as a lead authority; quotes below were checked against `data/open-sources/pins-corpus/<ref>.txt` (or the saved PDF for `APP-*` refs). Council cases were read from case files (report-read). Framework text checked against `open:nppf/NPPF-August-2026.pdf` (GB6/GB7/GB8 pp.61–64, TR3 p.69, Annex B, Annex E pp.121–123).
+Analyst: analyst-greenbelt, 23 Sep 2026. Dataset: 136 cases with `green_belt: true` or a GB finding (105 inspector, 1 SoS, 17 committee, 13 delegated), 17 Aug–23 Sep 2026. Primary letter text was read for every appeal cited as a lead authority; quotes below were checked against `data/open-sources/pins-corpus/<ref>.txt` (or the saved PDF for `APP-*` refs). Council cases were read from case files (report-read). Framework text checked against `data/open-sources/nppf/NPPF-August-2026.pdf` (GB6/GB7/GB8 pp.61–64, TR3 p.69, Annex B, Annex E pp.121–123).
 
 **Two corrections to earlier notes:**
 - **Villages are not "large built-up areas" under the Framework itself.** Annex E ¶3 says "Villages should not be considered large built-up areas", and Annex E ¶4 says purpose (b) "relates to the merging of towns, not villages". Letters cite this as "Annex E" (6011103 ¶12, 6007428 ¶10) or "PPG, as reflected in Annex E" (3378284 ¶36). Cite Annex E, not the PPG.

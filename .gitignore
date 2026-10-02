@@ -8,7 +8,8 @@ __pycache__/
 *.swp
 *.swo
 *~
-.claude/
+.claude/settings.local.json
+.claude/worktrees/
 # build outputs written beside the Stratford note sources
 pages/authority/stratford-dc/nppf-decisions/build/index.html
 pages/authority/stratford-dc/nppf-decisions/build/case-*.html

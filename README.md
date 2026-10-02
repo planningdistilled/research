@@ -22,7 +22,7 @@ data/
     pins-corpus/    full text of every Planning Inspectorate decision letter harvested (<ref>.txt)
     pins-letters/   decision letter PDFs (PINS, Secretary of State, Crown development)
     guidance-ogl/   MHCLG and Planning Inspectorate pages from the guidance corpus
-tools/              Python: harvest, index, normalise, quote checks, check_public.py
+tools/              Python: harvest, index, normalise, quote checks, OCR (macOS), check_public.py
 pages/              one folder per published page, mirroring the site's paths
   england/nppf-navigator/
   england/service-village/
@@ -62,5 +62,7 @@ node site/finish.mjs                    # last step of every publish; see site/R
 ```
 
 Needs Node 20+, Python 3.11+ with [uv](https://docs.astral.sh/uv/), and `pdftotext` (poppler).
+
+Working with Claude Code: `CLAUDE.md` has the rules and commands, `.claude/skills/` the multi-step workflows (`/weekly-update`, `/publish-site`, `/add-guidance-source`), and a SessionStart hook checks the setup.
 
 Before committing, `python3 tools/check_public.py` (run automatically with `git config core.hooksPath .githooks`) checks that nothing personal, oversized or non-OGL is about to be published.

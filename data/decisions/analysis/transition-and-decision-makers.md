@@ -1,6 +1,6 @@
 # Transition, decision-makers and housing supply under the August 2026 NPPF
 
-Analyst: analyst-transition-lpa. Date: 23 Sep 2026. Inputs: 792 case files (index/cases.json), the 1,087-letter PINS corpus (open:pins-corpus, regex-scanned and hand-checked), the harvest-log OBSERVED PATTERNS sections, and the NPPF text (open:nppf/NPPF-August-2026.pdf).
+Analyst: analyst-transition-lpa. Date: 23 Sep 2026. Inputs: 792 case files (index/cases.json), the 1,087-letter PINS corpus (data/open-sources/pins-corpus, regex-scanned and hand-checked), the harvest-log OBSERVED PATTERNS sections, and the NPPF text (data/open-sources/nppf/NPPF-August-2026.pdf).
 
 **Code mapping used here:** Transitional(1), (2) and (3) are Annex A ¶1, ¶2 and ¶3. Annex A ¶1: the policies apply "from the day of its publication". Annex A ¶2: policies that are "materially inconsistent" get "very limited weight", and other policies "should not be given reduced weight simply because they were adopted prior to" the Framework. Annex A ¶3: where there is a five-year supply and an HDT result above 75%, a local housing need figure higher than the plan requirement is not evidence of unmet need for five years after adoption.
 

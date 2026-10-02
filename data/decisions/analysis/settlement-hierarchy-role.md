@@ -4,7 +4,7 @@
 
 Draft, 30 September 2026. A general explainer of what a settlement hierarchy is, what it was built to do, and why a settlement's tier cannot answer whether a particular site is a sustainable location under the August 2026 National Planning Policy Framework (NPPF). Claverdon is used as a worked example. Companion to `settlement-hierarchy-and-service-centres.md` (which covers how the dataset codes the term) and to the published explainer *Service Village Does Not Mean Sustainable*.
 
-Verification: NPPF text checked against the committed extract (`data/open-sources/nppf/NPPF-August-2026.txt`); Stratford Core Strategy and the 2014 LSV scoring checked against the PDFs in `source/`; appeal quotations checked against `open:pins-corpus/`. External articles are marked **[web-verified]** where I read the source and **[summary only]** where I have only a search summary and the wording should be checked before it is quoted anywhere shared.
+Verification: NPPF text checked against the committed extract (`data/open-sources/nppf/NPPF-August-2026.txt`); Stratford Core Strategy and the 2014 LSV scoring checked against the PDFs in `source/`; appeal quotations checked against `data/open-sources/pins-corpus/`. External articles are marked **[web-verified]** where I read the source and **[summary only]** where I have only a search summary and the wording should be checked before it is quoted anywhere shared.
 
 ---
 
@@ -87,7 +87,7 @@ Neither source states the thesis of this note outright. Cornerstone supplies the
 
 ## 7. Worked example: Claverdon
 
-Claverdon is a Category 3 Local Service Village (CS.15, CS.16) and is washed over by the Green Belt. In the Council's 2014 LSV scoring it scored 2 for size, 1 for a shop, 3 for a school and **0 for public transport**, total 6 (`sources:stratford-dc/SDC-LSV-revised-categories-2014.pdf`). Two things follow. Because it lies within the Green Belt it is not a "settlement" under Annex B, so applications go through GB6–GB8, not S4. And the sustainable-location question for a site north of Station Road is decided on the route east to the services, bus stops and station, which has no site-side footway, no lighting, a 40 mph limit, no formal crossing, a Wednesday-only request bus and an unstaffed request-stop station. On the reasoning of Findon and Hatton that is a car-reliant location, irrespective of the precise distance and irrespective of the village's tier.
+Claverdon is a Category 3 Local Service Village (CS.15, CS.16) and is washed over by the Green Belt. In the Council's 2014 LSV scoring it scored 2 for size, 1 for a shop, 3 for a school and **0 for public transport**, total 6 (`../sources/stratford-dc/SDC-LSV-revised-categories-2014.pdf`). Two things follow. Because it lies within the Green Belt it is not a "settlement" under Annex B, so applications go through GB6–GB8, not S4. And the sustainable-location question for a site north of Station Road is decided on the route east to the services, bus stops and station, which has no site-side footway, no lighting, a 40 mph limit, no formal crossing, a Wednesday-only request bus and an unstaffed request-stop station. On the reasoning of Findon and Hatton that is a car-reliant location, irrespective of the precise distance and irrespective of the village's tier.
 
 ## 8. Open items
 

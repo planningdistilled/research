@@ -20,7 +20,7 @@ Slice: PINS appeal decisions dated 17 Aug 2026 or later on Green Belt land (GB6,
 - 5 are marked `nppf_applied: "2024-12 (transitional)"`: 6007316, 6008668, 6008286, 6010859 and 3378286. Each is dated 17 Aug 2026 but reasoned under the 2024 Framework.
 - The cheat-sheet §6/§6a decisions all now have case files: Branford Wells 6010313, Chedworth 6009966, Hurst Green 6004144, Thundersley 6007184, Heald Green 6005877 and Pinfield House 6008404. For Branford Wells, the file cites the operator's pasted copy and flags the unreconciled DL ¶9 (GB7(1)(b) met) vs ¶14 (inappropriate).
 - **Croxley Green 6004972 is NOT decided.** The PINS case page on 23 Sep 2026 says "Awaiting decision"; the inquiry started 27 Aug 2026.
-- PDFs are in `data/open-sources/pins-letters/ (PINS) or sources/council/ (council) <case-id>.pdf`, with `-costs.pdf` where a costs decision was issued. Costs PDFs exist for 6009068, 6011231, 6011301, 6009185, 6011103, 6007334, 6008688, 6009645, 3378284 and 3372995, plus the costs decisions in 6004144 and 6006286.
+- PDFs are in `data/open-sources/pins-letters/<case-id>.pdf` (PINS, Secretary of State and Crown decisions) or `../sources/council/<case-id>.pdf` (council documents, private repo), with `-costs.pdf` where a costs decision was issued. Costs PDFs exist for 6009068, 6011231, 6011301, 6009185, 6011103, 6007334, 6008688, 6009645, 3378284 and 3372995, plus the costs decisions in 6004144 and 6006286.
 
 ## Sources and method
 

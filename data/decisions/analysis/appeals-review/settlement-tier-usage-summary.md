@@ -1,6 +1,6 @@
 # Settlement-tier labels in decisions: how they were (and were not) used
 
-Generated 1 Oct 2026 from the full dataset (every PINS letter in `open:pins-corpus/` and every case file in `cases/`). One row per decision; every quotation machine-checked against its source (whitespace-normalised substring match). Register: `settlement-tier-usage.tsv`.
+Generated 1 Oct 2026 from the full dataset (every PINS letter in `data/open-sources/pins-corpus/` and every case file in `cases/`). One row per decision; every quotation machine-checked against its source (whitespace-normalised substring match). Register: `settlement-tier-usage.tsv`.
 
 ## Method
 

@@ -45,7 +45,7 @@ Delegated: stratford-26-01588-PIP (Bordon Hill), stratford-26-01458-FUL (Earlswo
 ## LEADS NOT FOLLOWED
 
 **23 Sep 2026 committee (tonight, 6 pm; no decision published at time of writing):**
-- **25/00347/FUL** Home Farm, A423 Southam: traffic island and pedestrian crossing serving the 217-home outline. Deferred 26 Aug for information on the crossing. **Recommendation: GRANT.** Pack: `sources:council/stratford-committee-2026-09-23-reports-pack.pdf` (report at pack p.13ff).
+- **25/00347/FUL** Home Farm, A423 Southam: traffic island and pedestrian crossing serving the 217-home outline. Deferred 26 Aug for information on the crossing. **Recommendation: GRANT.** Pack: `../sources/council/stratford-committee-2026-09-23-reports-pack.pdf` (report at pack p.13ff).
 - **26/01894/PIP** Land to rear of Edoras, Banbury Road, Pillerton Priors: 3–5 dwellings. **Recommendation: GRANT** under S4, with the site held "within the physical confines" of this Category 4 LSV. This is important. The officer finds **significant-weight character harm** (backland in a linear village), notes 21/01649/FUL (5 dwellings) refused and 22/03649/FUL (2 dwellings) **refused and dismissed at appeal** on character, and records that the scheme **fails L2(1)(d)** (retain 50% of the undeveloped curtilage). L2(1)(d) is one of the S4(2)(a)(ii) triggers for "substantially outweighed", but the report does not apply S4(2). Record it once the minutes publish (expect about 24–25 Sep; the notice a day or two later).
 
 **Other:**

@@ -1,6 +1,6 @@
 # NPPF August 2026 — policy code list
 
-Extracted from open:nppf/NPPF-August-2026.pdf. Use these codes (with paragraph/limb suffixes, e.g. GB7(1)(g)(iii)) in case frontmatter. Full text: run pdftotext on the PDF.
+Extracted from data/open-sources/nppf/NPPF-August-2026.pdf. Use these codes (with paragraph/limb suffixes, e.g. GB7(1)(g)(iii)) in case frontmatter. Full text: run pdftotext on the PDF.
 
 - PM1: Spatial development strategies
 - PM2: Local plans
@@ -133,3 +133,23 @@ Extracted from open:nppf/NPPF-August-2026.pdf. Use these codes (with paragraph/l
 - Annex D (housing supply — cite as 'AnnexD(12)(c)')
 - Transitional(1), Transitional(2), Transitional(3)
 - fn41 etc. for footnotes
+
+## December 2024 → August 2026 mapping
+
+For decisions that cite the 2024 Framework: record the 2024 paragraph in the note and map it to the 2026 code where the match is plain. The mapping is a working aid, not an authority; check the text of both Frameworks before relying on a row.
+
+| 2024 NPPF | 2026 NPPF | Note |
+| --- | --- | --- |
+| §11(d) tilted balance | S3–S5; for Green Belt sites S5(5) → GB6–GB8 | "significantly and demonstrably outweigh" becomes "substantially outweighed"; different wording, not yet judicially construed |
+| Footnote 7 closed list | Gone as a gateway. Individual policies (HE6, N6, flood, etc.) now sit inside the S5 balance | Footnote 7 also removed from the grey belt definition |
+| Footnote 8 (no 5YHLS makes policies out of date) | Footnote 41 / Annex D 12(c): shortfall = "evidenced unmet need" | A category/limb, not a switch |
+| §14 NP shield | S6 | Four-year supply and 75% delivery conditions dropped; five-year age and allocations conditions kept |
+| §§152–153 | GB6 | "Substantial weight" to Green Belt harm retained |
+| §§154–155 | GB7 | Four-limb grey belt test retained as (g); new station route (h) |
+| §§156–158 | GB8 | Viability routes narrowed |
+| §§110, 115 | TR3 | "Genuine choice of transport modes"; Connectivity Tool |
+| §208 | HE4(2) | "Clear and convincing justification" |
+| §212 | HE6(1) | "Great weight" → "substantial weight" |
+| §215 | HE6(4) | "Less than substantial harm" label dropped; harm/benefit balance retained |
+| §216 | HE7 | Non-designated assets |
+| §193 (irreplaceable habitats) | N-chapter (check N7/N8) | Not verified in this sheet |

@@ -1,6 +1,6 @@
 # Adversarial review: "Service Village, Not Sustainable" (published page)
 
-Reviewed 1 Oct 2026 against the live page at `planningdistilled.org/research/england/service-village/` (then at its earlier address), the register `appeals-review/settlement-tier-usage.tsv`, the letters in `open:pins-corpus/` and the August 2026 NPPF text. Brief: challenge the finding; find any evidence that, under the 2026 NPPF, a settlement tier has been accepted as a valid argument for sustainable location. Every quotation below was machine-checked against the letter (27 of 27 matched).
+Reviewed 1 Oct 2026 against the live page at `planningdistilled.org/research/england/service-village/` (then at its earlier address), the register `appeals-review/settlement-tier-usage.tsv`, the letters in `data/open-sources/pins-corpus/` and the August 2026 NPPF text. Brief: challenge the finding; find any evidence that, under the 2026 NPPF, a settlement tier has been accepted as a valid argument for sustainable location. Every quotation below was machine-checked against the letter (27 of 27 matched).
 
 ## Verdict
 
