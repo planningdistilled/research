@@ -35,7 +35,7 @@ def page_meta(rel, text):
 
 
 LICENCE = ('<div class="licence" style="max-width:820px;margin:28px auto 0;padding:0 16px 24px;font:13px/1.55 -apple-system,\'Segoe UI\',system-ui,sans-serif;color:#59635d">'
-           '&copy; Planning Distilled. Text, data and images on this page are released under the <a rel="license" href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 licence</a>: share and adapt them freely, with credit to Planning Distilled. Quotations from decision letters, plans and the Framework remain the copyright of their publishers.</div>')
+           '&copy; Planning Distilled. Text, data and images on this page are released under the <a rel="license" href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 licence</a>: share and adapt them freely, with credit to Planning Distilled. Quotations from decision letters, plans and the Framework remain the copyright of their publishers. Source and data: <a href="https://github.com/planningdistilled/research">github.com/planningdistilled/research</a>.</div>')
 
 
 def apply(root):

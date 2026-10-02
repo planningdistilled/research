@@ -222,7 +222,7 @@ const landing = pages.filter((p) => p.path.endsWith('/') && p.path !== '/' && !C
 const route = join(SITE, NAV.slice(1), 'route/index.md');
 const decisionsDir = join(SITE, NAV.slice(1), 'decisions');
 const notes = existsSync(decisionsDir) ? readdirSync(decisionsDir).filter((f) => f.endsWith('.md')).sort() : [];
-const reuse = `Everything on this site is free to reuse under the Creative Commons Attribution 4.0 licence (${LICENCE}), with credit to "Planning Distilled". That includes quoting, summarising, indexing, retrieval and training AI models. Quotations from decision letters, plans and the Framework remain the copyright of their publishers.`;
+const reuse = `Everything on this site is free to reuse under the Creative Commons Attribution 4.0 licence (${LICENCE}), with credit to "Planning Distilled". That includes quoting, summarising, indexing, retrieval and training AI models. Quotations from decision letters, plans and the Framework remain the copyright of their publishers. The data, tools and page sources are at https://github.com/planningdistilled/research.`;
 const llms = `# ${NAME}
 
 > ${home.description}

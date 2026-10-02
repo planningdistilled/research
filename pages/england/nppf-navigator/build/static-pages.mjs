@@ -15,9 +15,9 @@ import { pathToFileURL } from 'node:url';
 import { PKG, DECISIONS as DB } from './lib.mjs';
 
 const LICENCE =
-  '&copy; Planning Distilled. Text, data and images on this page are released under the <a rel="license" href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 licence</a>: share and adapt them freely, with credit to Planning Distilled. Quotations from decision letters, plans and the Framework remain the copyright of their publishers.';
+  '&copy; Planning Distilled. Text, data and images on this page are released under the <a rel="license" href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 licence</a>: share and adapt them freely, with credit to Planning Distilled. Quotations from decision letters, plans and the Framework remain the copyright of their publishers. Source and data: <a href="https://github.com/planningdistilled/research">github.com/planningdistilled/research</a>.';
 const LICENCE_MD =
-  '© Planning Distilled. Released under the Creative Commons Attribution 4.0 licence (https://creativecommons.org/licenses/by/4.0/): share and adapt freely, with credit to Planning Distilled. Quotations from decision letters, plans and the Framework remain the copyright of their publishers.';
+  '© Planning Distilled. Released under the Creative Commons Attribution 4.0 licence (https://creativecommons.org/licenses/by/4.0/): share and adapt freely, with credit to Planning Distilled. Quotations from decision letters, plans and the Framework remain the copyright of their publishers. Source and data: https://github.com/planningdistilled/research.';
 
 const esc = (s) => String(s ?? '').replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;');
 const gbDate = (iso) => {

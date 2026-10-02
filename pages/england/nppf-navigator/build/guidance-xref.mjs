@@ -240,7 +240,7 @@ blockquote{margin:6px 0;padding:6px 10px;border-left:3px solid var(--line);font:
 ${groups}
 </main>
 <footer>Prepared by Planning Distilled. Summaries are ours; quotations are from the publishers' pages and documents as saved on or before 2 October 2026. Generated ${asOf}. Not legal advice.
-<p class="licence">&copy; Planning Distilled. Text and data on this page are released under the <a rel="license" href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 licence</a>: share and adapt them freely, with credit to Planning Distilled. Quotations remain the copyright of their publishers.</p>
+<p class="licence">&copy; Planning Distilled. Text and data on this page are released under the <a rel="license" href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 licence</a>: share and adapt them freely, with credit to Planning Distilled. Quotations remain the copyright of their publishers. Source and data: <a href="https://github.com/planningdistilled/research">github.com/planningdistilled/research</a>.</p>
 </footer>
 </div>
 <script>

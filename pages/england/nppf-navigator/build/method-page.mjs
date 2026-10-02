@@ -280,7 +280,7 @@ ${sdc.map((r) => `<tr><td>${r[0]}</td><td><span class="tag">${r[1]}</span></td><
 
 </main>
 <footer>Prepared by Planning Distilled. Quotations are to published planning decisions, with paragraph references to the officer report or decision letter. Generated from the live dataset on ${asOf}. Not legal advice.
-<p class="licence">&copy; Planning Distilled. Text, data and images on this page are released under the <a rel="license" href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 licence</a>: share and adapt them freely, with credit to Planning Distilled. Quotations from decision letters, plans and the Framework remain the copyright of their publishers.</p>
+<p class="licence">&copy; Planning Distilled. Text, data and images on this page are released under the <a rel="license" href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 licence</a>: share and adapt them freely, with credit to Planning Distilled. Quotations from decision letters, plans and the Framework remain the copyright of their publishers. Source and data: <a href="https://github.com/planningdistilled/research">github.com/planningdistilled/research</a>.</p>
 </footer>
 </div>
 </body>
