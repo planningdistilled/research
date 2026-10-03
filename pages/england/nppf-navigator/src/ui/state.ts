@@ -42,6 +42,11 @@ export function deleteSet(id: string): SavedSet[] {
   return writeSets(listSets().filter((s) => s.id !== id));
 }
 
+/** Overwrite a saved set with the current answers, keeping its name and place in the list. */
+export function updateSet(id: string, answers: Answers, hash: string): SavedSet[] {
+  return writeSets(listSets().map((s) => (s.id === id ? { ...s, answers, hash, savedAt: new Date().toISOString() } : s)));
+}
+
 export function renameSet(id: string, name: string): SavedSet[] {
   return writeSets(listSets().map((s) => (s.id === id ? { ...s, name: name.trim() || s.name } : s)));
 }

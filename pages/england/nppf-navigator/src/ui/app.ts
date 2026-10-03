@@ -512,6 +512,13 @@ function ioPanel(): HTMLElement {
     }
     const loadBtn = h('button', { type: 'button', class: 'secondary' }, 'Load');
     loadBtn.addEventListener('click', () => ((ui.answers = store.sanitise(ui.graph, s.answers)), (ui.panel = 'none'), (ui.editing = null), persist(), render(true)));
+    const updateBtn = h('button', { type: 'button', class: 'link', title: 'Replace this set with the current answers' }, 'Update');
+    if (!hasAnswers) updateBtn.setAttribute('disabled', 'true');
+    updateBtn.addEventListener('click', () => {
+      if (!hasAnswers) return;
+      store.updateSet(s.id, ui.answers, hash);
+      render();
+    });
     const renameBtn = h('button', { type: 'button', class: 'link' }, 'Rename');
     renameBtn.addEventListener('click', () => ((ui.renaming = s.id), render()));
     const delBtn = h('button', { type: 'button', class: 'link' }, 'Delete');
@@ -520,7 +527,7 @@ function ioPanel(): HTMLElement {
       'li',
       { class: 'set-row' },
       h('span', { class: 'set-name' }, h('strong', null, s.name), h('span', { class: 'fine' }, `${s.hash !== hash ? ' · older version' : ''} · ${fmtDate(s.savedAt)}`)),
-      h('span', { class: 'set-actions' }, loadBtn, renameBtn, delBtn),
+      h('span', { class: 'set-actions' }, loadBtn, updateBtn, renameBtn, delBtn),
     );
   };
 
