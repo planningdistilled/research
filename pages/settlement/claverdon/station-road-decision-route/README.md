@@ -19,3 +19,5 @@ node site/finish.mjs
 Rebuild after the decisions database grows (`uv run tools/harvest.py build`), then republish both copies. To republish the artifact, publish `dist/index.html` with the `cases/*.html` files from `dist/`.
 
 The answer set in the page must load cleanly into the Navigator: every key must be a node fact and every value a valid option (the Navigator's `sanitise` drops anything else, including notes fields).
+
+Neighbourhood Plan references link to the Parish Council's copy of the made plan (December 2019), with `#page=N` (PDF pages match the printed page numbers): https://claverdon-pc.gov.uk/wp-content/uploads/2024/09/Claverdon-Neighbourhood-Plan.pdf. A verification copy, with its text extract, is at `sources:stratford-dc/claverdon/Claverdon-Neighbourhood-Plan.pdf`.
