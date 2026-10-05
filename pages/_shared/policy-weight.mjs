@@ -4,6 +4,7 @@ import fs from 'node:fs';
 import path from 'node:path';
 import { DECISIONS, OPEN, SOURCES } from '../../paths.mjs';
 import { addAnchors, ANCHOR_CSS } from './anchors.mjs';
+import { addPlanLinks } from './plan-links.mjs';
 
 const CASES = JSON.parse(fs.readFileSync(path.join(DECISIONS, 'index', 'cases.json'), 'utf8'));
 export const caseById = new Map(CASES.map((c) => [c.case_id, c]));
@@ -127,7 +128,7 @@ blockquote{margin:0;background:var(--quote);border-left:3px solid var(--accent);
 
 export function page({ title, description, url, breadcrumb, h1, dek, body, sources, credit }) {
   assertClean();
-  return addAnchors(`<!doctype html>
+  return addAnchors(addPlanLinks(`<!doctype html>
 <html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
 <title>${esc(title)}</title>
 <meta name="description" content="${esc(description)}">
@@ -144,5 +145,5 @@ ${body}
 <p>${credit} Every quotation on this page is checked against the source text when the page is built. Built ${esc(fmtDate(new Date().toISOString().slice(0, 10)))}. Not legal advice.</p>
 <p class="licence">${LICENCE}</p></footer>
 </main></body></html>
-`);
+`));
 }

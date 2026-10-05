@@ -74,6 +74,28 @@ def add_crumbs(folder, page, text):
     return text[:at] + '\n' + crumbs(folder, page, text) + '\n' + text[at:]
 
 
+PLANS = [
+    (r'\b(?:Stratford-on-Avon (?:District )?)?Core Strategy\b', 'https://www.stratford.gov.uk/planning-building/core-strategy.cfm'),
+    (r'\b(?:Claverdon )?Neighbourhood Plan\b', 'https://claverdon-pc.gov.uk/wp-content/uploads/2024/09/Claverdon-Neighbourhood-Plan.pdf'),
+]
+
+
+def link_plans(text, plans):
+    """Link the first plain mention of each plan (outside tags, links, quotations, scripts and styles) to the document."""
+    start = max(text.find('<body'), 0)
+    for pattern, url in plans:
+        if url in text:
+            continue
+        spans = [m.span() for r in (r'<a\b.*?</a>', r'<blockquote\b.*?</blockquote>', r'<script\b.*?</script>', r'<style\b.*?</style>', r'<title>.*?</title>', r'<[^>]+>')
+                 for m in re.finditer(r, text, re.S)]
+        for m in re.finditer(pattern, text[start:]):
+            i, j = m.start() + start, m.end() + start
+            if not any(a < j and i < b for a, b in spans):
+                text = text[:i] + f'<a href="{url}">{m.group(0)}</a>' + text[j:]
+                break
+    return text
+
+
 def apply(root):
     extra = [f'{d}/{f}' for d in ('station-road-on-foot', 'stratford-nppf-decisions') for f in sorted(os.listdir(os.path.join(root, d))) if f.startswith('case-')]
     for rel in list(PAGES) + extra:
@@ -105,6 +127,7 @@ def apply(root):
         if 'class="licence"' not in text:
             text = text.replace('</body>', LICENCE + '\n</body>', 1) if '</body>' in text else text.rstrip('\n') + '\n' + LICENCE + '\n'
         text = add_crumbs(folder, page, text)
+        text = link_plans(text, PLANS[:1] if folder == 'stratford-nppf-decisions' else PLANS)
         open(path, 'w', encoding='utf-8').write(text)
         print('ok', rel)
 

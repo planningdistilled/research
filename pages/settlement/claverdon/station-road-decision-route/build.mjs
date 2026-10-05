@@ -9,6 +9,7 @@ import path from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { DECISIONS, SITE } from '../../../../paths.mjs';
 import { addAnchors, ANCHOR_CSS } from '../../../_shared/anchors.mjs';
+import { addPlanLinks } from '../../../_shared/plan-links.mjs';
 
 const HERE = path.dirname(fileURLToPath(import.meta.url));
 const ARTIFACT = process.argv.includes('--artifact');
@@ -194,7 +195,7 @@ if (!ARTIFACT) {
   page = `${head(TITLE, DESCRIPTION, URL)}${top}</head>\n<body>\n${page.slice(i)}\n</body></html>\n`;
 }
 
-page = addAnchors(page.replace('</style>', ANCHOR_CSS + '</style>'));
+page = addAnchors(addPlanLinks(page.replace('</style>', ANCHOR_CSS + '</style>')));
 fs.mkdirSync(path.join(OUT, 'cases'), { recursive: true });
 fs.writeFileSync(path.join(OUT, 'index.html'), page);
 for (const b of BOXES) fs.writeFileSync(path.join(OUT, 'cases', b.key + '.html'), ARTIFACT ? listPage(b).replace(/href="\/(?!\/)/g, 'href="https://planningdistilled.org/') : listPage(b));
