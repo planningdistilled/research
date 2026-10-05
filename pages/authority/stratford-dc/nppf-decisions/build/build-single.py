@@ -200,8 +200,8 @@ def panel(c):
 
 
 MODE['main'] = False  # panels' own Case page / Decision letter links stay external
-group1 = ''.join(panel(c) for c in cases[:10])
-group2 = ''.join(panel(c) for c in cases[10:])
+group1 = ''.join(panel(c) for c in cases if not c['cid'].startswith('PINS-'))
+group2 = ''.join(panel(c) for c in cases if c['cid'].startswith('PINS-'))
 MODE['main'] = True
 
 page = open(os.path.join(HERE, 'template.html')).read()

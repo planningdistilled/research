@@ -657,5 +657,180 @@
   "src": "pins:6011253",
   "q": "would urbanise the appeal site to the detriment of the low-density rural character of the area",
   "loc": "¶26"
+ },
+ {
+  "id": "pp-harm",
+  "src": "sdc:stratford-26-01894-PIP-report",
+  "q": "would cause harm to the character the area and would not accord with NDMPs DP3 and N2 and Policies CS.5 and CS.9 of the Core Strategy"
+ },
+ {
+  "id": "pp-dp32",
+  "src": "sdc:stratford-26-01894-PIP-report",
+  "q": "In light of NDMP DP3 (2), I afford this harm significant weight"
+ },
+ {
+  "id": "pp-concl",
+  "src": "sdc:stratford-26-01894-PIP-report",
+  "q": "most notably the benefit associated with the provision of up to 5 dwellings, would not be substantially outweighed by any adverse effects"
+ },
+ {
+  "id": "pp-confines",
+  "src": "sdc:stratford-26-01894-PIP-report",
+  "q": "within the physical confines of a Category 4 Local Service Village"
+ },
+ {
+  "id": "pp-lsv",
+  "src": "sdc:stratford-26-01894-PIP-report",
+  "q": "by virtue of its status as a Category 4 local Service Village is considered to be a sustainable location"
+ },
+ {
+  "id": "pp-nothigh",
+  "src": "sdc:stratford-26-01894-PIP-report",
+  "q": "The level of sustainability is of course not high"
+ },
+ {
+  "id": "pp-n-harm",
+  "src": "sdc:stratford-26-01894-PIP-notice",
+  "q": "substantial harm to the character of Pillerton Priors village"
+ },
+ {
+  "id": "pp-n-outweigh",
+  "src": "sdc:stratford-26-01894-PIP-notice",
+  "q": "The harm is considered to substantially outweigh any benefits associated with the scheme"
+ },
+ {
+  "id": "pp-n-pol",
+  "src": "sdc:stratford-26-01894-PIP-notice",
+  "q": "S4, L2, DP3 and N2"
+ },
+ {
+  "id": "lad-urban",
+  "src": "sdc:stratford-26-01660-OUT-report",
+  "q": "The scheme would have an urbanising impact"
+ },
+ {
+  "id": "lad-place",
+  "src": "sdc:stratford-26-01660-OUT-report",
+  "q": "would not enhance the sense of place or reflect the distinctiveness of the locality"
+ },
+ {
+  "id": "lad-contrary",
+  "src": "sdc:stratford-26-01660-OUT-report",
+  "q": "it is contrary to the provisions of Policies CS.5 and CS.9 of the Core Strategy, and NDMP DP3"
+ },
+ {
+  "id": "lad-weight",
+  "src": "sdc:stratford-26-01660-OUT-report",
+  "q": "I afford this significant weight against the application"
+ },
+ {
+  "id": "lad-extant",
+  "src": "sdc:stratford-26-01660-OUT-report",
+  "q": "an extant permission exists (24/03249/OUT) for 5no. self-build dwellings at the site"
+ },
+ {
+  "id": "lad-bus",
+  "src": "sdc:stratford-26-01660-OUT-report",
+  "q": "There is one local bus service, although the service is infrequent"
+ },
+ {
+  "id": "lad-against",
+  "src": "sdc:stratford-26-01660-OUT-report",
+  "q": "There is no made footpath from the application site into Southam, and when considered together these factors would weigh against the proposal in terms of the sustainability of the site location for residential development"
+ },
+ {
+  "id": "lad-accords",
+  "src": "sdc:stratford-26-01660-OUT-report",
+  "q": "I am therefore satisfied that the proposal accords well with the NPPF and NDMPs S5 and TR3 in particular"
+ },
+ {
+  "id": "lad-conflict",
+  "src": "sdc:stratford-26-01660-OUT-report",
+  "q": "some conflict with the sustainability of the site location for housing"
+ },
+ {
+  "id": "kc-cs8",
+  "src": "sdc:stratford-26-01447-FUL-report",
+  "q": "provides a new set of criteria for assessments of the potential effects on development proposals on the significance of heritage assets which is not required within CS.8 of the CS, I consider that CS.8 is materially inconsistent with the NDMPs of the Framework"
+ },
+ {
+  "id": "kc-nolb",
+  "src": "sdc:stratford-26-01447-FUL-report",
+  "q": "The application site does not include any Listed Buildings and the application site is not in a Conservation Area or an area of archaeological risk"
+ },
+ {
+  "id": "kc-compliant",
+  "src": "sdc:stratford-26-01447-FUL-report",
+  "q": "the proposal is compliant with policy CS.8 of the Core Strategy and NDMP HE5 of the NPPF"
+ },
+ {
+  "id": "kc-s5",
+  "src": "sdc:stratford-26-01447-FUL-report",
+  "q": "Policy S5 does not apply to sites within the Green Belt"
+ },
+ {
+  "id": "ard-annexb",
+  "src": "sdc:stratford-26-01614-FUL-report",
+  "q": "the application site is not considered to be within a settlement because it lies within the Green Belt"
+ },
+ {
+  "id": "ard-s5",
+  "src": "sdc:stratford-26-01614-FUL-report",
+  "q": "does not apply to development proposals within the Green Belt. Instead, such proposals are required, as a starting point to be assessed in accordance with Policies GB6 and GB7"
+ },
+ {
+  "id": "ard-village",
+  "src": "sdc:stratford-26-01614-FUL-report",
+  "q": "a linear concentration of development which clearly forms part of the village"
+ },
+ {
+  "id": "mal-buab",
+  "src": "sdc:stratford-26-01542-FUL-report",
+  "q": "The application site is within the BUAB of Earlswood"
+ },
+ {
+  "id": "mal-s4",
+  "src": "sdc:stratford-26-01542-FUL-report",
+  "q": "development proposals within settlements should be approved unless the benefits of doing so would be substantially outweighed by any adverse effects"
+ },
+ {
+  "id": "mal-l2",
+  "src": "sdc:stratford-26-01542-FUL-report",
+  "q": "Creating additional homes or floorspace within settlements"
+ },
+ {
+  "id": "mal-fail",
+  "src": "sdc:stratford-26-01542-FUL-report",
+  "q": "the application fails to accord with NDMP L2 (1) (d) parts i and ii"
+ },
+ {
+  "id": "mal-gb",
+  "src": "sdc:stratford-26-01542-FUL-report",
+  "q": "The application site is located within the West Midlands Green Belt"
+ },
+ {
+  "id": "mal-concl",
+  "src": "sdc:stratford-26-01542-FUL-report",
+  "q": "Having regard to NDMPs S5 and GB7 of the NPPF, the development is appropriate development within the Green Belt"
+ },
+ {
+  "id": "mal-n-r2",
+  "src": "sdc:stratford-26-01542-FUL-notice",
+  "q": "The application fails to accord with NDMP L2 (1) (d) parts i and ii as the proposal is not considered to be consistent with the existing street scene"
+ },
+ {
+  "id": "hill-route",
+  "src": "sdc:stratford-26-01141-FUL-report",
+  "q": "is served by a well-lit and maintained footpath and cycleway into the centre of Stratford, under 1 kilometre away"
+ },
+ {
+  "id": "hill-reliant",
+  "src": "sdc:stratford-26-01141-FUL-report",
+  "q": "future occupiers would not be reliant on private motor vehicle to access services and facilities"
+ },
+ {
+  "id": "hill-buab",
+  "src": "sdc:stratford-26-01141-FUL-report",
+  "q": "The development site is located just outside of Stratfords BUAB"
  }
 ]

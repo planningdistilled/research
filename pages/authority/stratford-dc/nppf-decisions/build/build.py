@@ -190,8 +190,8 @@ def list_item(c):
             f'<span class="case-title">{html.escape(title)}</span><span class="case-line">{html.escape(line)}</span></li>')
 
 
-group1 = '<ul class="case-list">' + ''.join(list_item(c) for c in cases[:10]) + '</ul>'
-group2 = '<ul class="case-list">' + ''.join(list_item(c) for c in cases[10:]) + '</ul>'
+group1 = '<ul class="case-list">' + ''.join(list_item(c) for c in cases if not c['cid'].startswith('PINS-')) + '</ul>'
+group2 = '<ul class="case-list">' + ''.join(list_item(c) for c in cases if c['cid'].startswith('PINS-')) + '</ul>'
 
 # case pages
 tpl = open(os.path.join(HERE, 'template.html')).read()
