@@ -17,6 +17,9 @@ export function addAnchors(html) {
   if (start < 0) return html;
   const head = html.slice(0, start);
   let body = html.slice(start);
+  // Headings inside a link (link cards) can't hold another link: set those blocks aside.
+  const held = [];
+  body = body.replace(/<a\b[^>]*>[\s\S]*?<\/a>/g, (m) => (/<h[23][\s>]/.test(m) ? `\u0000${held.push(m) - 1}\u0000` : m));
   const used = new Set([...body.matchAll(/\sid="([^"]+)"/g)].map((m) => m[1]));
   const unique = (base) => { let id = base, n = 2; while (used.has(id)) id = `${base}-${n++}`; used.add(id); return id; };
 
@@ -24,10 +27,13 @@ export function addAnchors(html) {
   body = body.replace(/(<(section|article|div)\b[^>]*\sid="([^"]+)"[^>]*>\s*(?:<div class="policy-head">\s*)?)<(h2|h3)>([\s\S]*?)<\/\4>/g,
     (m, open, _tag, id, h, inner) => (inner.includes('class="anchor"') ? m : `${open}<${h}>${inner}${link(id)}</${h}>`));
   // Every other h2/h3 without an id gets one.
-  body = body.replace(/<(h2|h3)>([\s\S]*?)<\/\1>/g, (m, h, inner) => {
+  body = body.replace(/<(h2|h3)((?:\s[^>]*)?)>([\s\S]*?)<\/\1>/g, (m, h, attrs, inner) => {
     if (inner.includes('class="anchor"')) return m;
+    const has = attrs.match(/\sid="([^"]+)"/);
+    if (has) return `<${h}${attrs}>${inner}${link(has[1])}</${h}>`;
     const id = unique(slug(inner));
-    return `<${h} id="${id}">${inner}${link(id)}</${h}>`;
+    return `<${h}${attrs} id="${id}">${inner}${link(id)}</${h}>`;
   });
+  body = body.replace(/\u0000(\d+)\u0000/g, (_, i) => held[+i]);
   return head + body;
 }
