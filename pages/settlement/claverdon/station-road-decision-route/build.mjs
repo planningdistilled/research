@@ -184,6 +184,8 @@ for (const where of [...new Set(BOXES.map((b) => b.where))]) {
   if (!re.test(page)) throw new Error('marker missing: ' + where);
   page = page.replace(re, `$1\n<div class="tallies">\n${BOXES.filter((b) => b.where === where).map(box).join('\n')}\n</div>\n$2`);
 }
+// The artifact copy is served from claude.ai, so site-relative links must point at the site.
+if (ARTIFACT) page = page.replace(/href="\/(?!\/)/g, 'href="https://planningdistilled.org/');
 if (!ARTIFACT) {
   // page.html opens with its own <title>; replace it with the full head and close the head before <main>.
   const i = page.indexOf('<main>');
