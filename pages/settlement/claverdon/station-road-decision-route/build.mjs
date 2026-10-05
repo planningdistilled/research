@@ -80,10 +80,10 @@ const BOXES = [
   {
     key: 'rural-road-location', where: 'tr3',
     title: 'Rural roads without footways',
-    claim: 'Decisions on sites reached by rural roads without footways or lighting that found the location unsustainable or harmful.',
+    claim: 'Decisions under the August 2026 Framework on sites reached by rural roads without footways or lighting that found the location unsustainable or harmful. Most are outside the Green Belt, where the same TR3 test applies.',
     notes: /TR3|GB7\(1\)\(g\)\(iii\)/,
-    concur: cases.filter((c) => tag(c, 'rural-lane-no-footway') && (has(c, 'GB7(1)(g)(iii)', ['fail']) || has(c, 'TR3', ['fail', 'harm', 'conflict']))),
-    label: 'found the location unsustainable or harmful',
+    concur: cases.filter((c) => fw26(c) && tag(c, 'rural-lane-no-footway') && (has(c, 'GB7(1)(g)(iii)', ['fail']) || has(c, 'TR3', ['fail', 'harm', 'conflict']))),
+    label: 'under the August 2026 Framework found the location unsustainable or harmful',
   },
   {
     key: 'vsc-small-schemes', where: 'balance',
@@ -109,19 +109,11 @@ const BOXES = [
     concur: cases.filter((c) => fw26(c) && has(c, 'DP3(3)', ['fail'])),
     label: 'failed DP3(3), and all were refused or dismissed',
   },
-  {
-    key: 'f7-flood', where: 'balance',
-    title: 'Flood safety not shown (F7)',
-    claim: 'Decisions that found F7 failed: safety from flooding not demonstrated. (6009635, the listed building consent linked to 6009631, is left out; its planning appeal is counted.)',
-    notes: /^F7/,
-    concur: cases.filter((c) => (c.policy_findings || []).some((f) => /^F7/.test(f.policy) && f.finding === 'fail') && c.case_id !== 'PINS-6009635'),
-    label: 'failed F7, and all were refused or dismissed',
-  },
 ];
 
 // Guard the claims the boxes make about outcomes.
 const refusedLike = (c) => ['dismissed', 'refused'].includes(c.outcome);
-for (const k of ['heritage-small-schemes', 'dp3-3-refuse', 'f7-flood']) {
+for (const k of ['heritage-small-schemes', 'dp3-3-refuse']) {
   const odd = BOXES.find((x) => x.key === k).concur.filter((c) => !refusedLike(c));
   if (odd.length) throw new Error(`${k}: not all refused or dismissed: ${odd.map((c) => c.case_id)}`);
 }
