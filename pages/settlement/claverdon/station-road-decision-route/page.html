@@ -1,0 +1,390 @@
+<title>Station Road Decision Route</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500&family=Public+Sans:ital,wght@0,400;0,600;0,700;1,400&family=Source+Serif+4:opsz,wght@8..60,400;8..60,600&display=swap">
+<style>
+/* Layout: one reading column; the route as a stepped sequence with a fork; answers set in a code panel at the foot. Companion to the NPPF 2026 Navigator, so it shares its palette and faces. */
+:root {
+  --ground: #eef2f1;
+  --surface: #ffffff;
+  --surface-2: #f6f8f8;
+  --ink: #17212b;
+  --muted: #5a6672;
+  --line: #d5dddd;
+  --accent: #2b5c88;
+  --accent-ink: #ffffff;
+  --accent-soft: #e3ecf4;
+  --refuse: #a3382a;
+  --refuse-soft: #f7e6e3;
+  --approve: #2d7549;
+  --approve-soft: #e3f1e8;
+  --quote: #f4f6f2;
+  --serif: "Source Serif 4", "Iowan Old Style", Georgia, serif;
+  --sans: "Public Sans", -apple-system, "Segoe UI", system-ui, sans-serif;
+  --mono: "IBM Plex Mono", ui-monospace, "SF Mono", Menlo, monospace;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    color-scheme: dark;
+    --ground: #10161b; --surface: #18212a; --surface-2: #1d2731; --ink: #e3e9ee; --muted: #9aa6b2; --line: #2c3945;
+    --accent: #86b0db; --accent-ink: #0e1a26; --accent-soft: #1f3244;
+    --refuse: #e0786a; --refuse-soft: #3a211e; --approve: #6cc08f; --approve-soft: #1b3326; --quote: #1c2620;
+  }
+}
+:root[data-theme="dark"] {
+  color-scheme: dark;
+  --ground: #10161b; --surface: #18212a; --surface-2: #1d2731; --ink: #e3e9ee; --muted: #9aa6b2; --line: #2c3945;
+  --accent: #86b0db; --accent-ink: #0e1a26; --accent-soft: #1f3244;
+  --refuse: #e0786a; --refuse-soft: #3a211e; --approve: #6cc08f; --approve-soft: #1b3326; --quote: #1c2620;
+}
+* { box-sizing: border-box; }
+body { margin: 0; background: var(--ground); color: var(--ink); font: 16px/1.6 var(--sans); padding-inline: 16px; padding-block: 0 56px; }
+main { max-width: 760px; margin: 0 auto; display: grid; gap: 40px; }
+h1, h2, h3 { margin: 0; text-wrap: balance; }
+p { margin: 0; }
+a { color: var(--accent); text-underline-offset: 3px; }
+:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+.code { font-family: var(--mono); font-size: 0.82em; font-weight: 500; color: var(--accent); white-space: nowrap; }
+
+header { padding-block: 36px 0; display: grid; gap: 10px; }
+.eyebrow { font-size: 12px; letter-spacing: .09em; text-transform: uppercase; color: var(--muted); }
+h1 { font: 600 clamp(28px, 5vw, 38px)/1.12 var(--serif); letter-spacing: -0.01em; }
+.dek { color: var(--muted); max-width: 62ch; }
+.facts { display: flex; flex-wrap: wrap; gap: 6px 18px; font-size: 13.5px; color: var(--muted); }
+.facts strong { color: var(--ink); font-weight: 600; }
+
+.verdict { background: var(--surface); border: 1px solid var(--line); border-top: 4px solid var(--refuse); border-radius: 8px; padding: 22px; display: grid; gap: 10px; }
+.verdict p { font: 400 19px/1.5 var(--serif); }
+.verdict .label { font: 600 12px var(--sans); letter-spacing: .09em; text-transform: uppercase; color: var(--refuse); }
+
+section { display: grid; gap: 14px; }
+h2 { font: 600 24px/1.25 var(--serif); }
+h3 { font: 600 17px/1.35 var(--sans); }
+section > p, .prose p { max-width: 66ch; }
+.prose { display: grid; gap: 12px; }
+
+blockquote.fw { margin: 0; background: var(--quote); border-left: 3px solid var(--accent); border-radius: 4px; padding: 12px 16px; display: grid; gap: 4px; }
+blockquote.fw p { font: 400 16.5px/1.55 var(--serif); }
+blockquote.fw cite { font: 500 12px var(--mono); color: var(--muted); font-style: normal; }
+
+.reasons { display: grid; gap: 14px; counter-reset: r; }
+.reason { background: var(--surface); border: 1px solid var(--line); border-radius: 8px; padding: 18px; display: grid; gap: 10px; }
+.reason h3 { display: flex; gap: 10px; align-items: baseline; }
+.reason h3 .n { font: 600 13px var(--mono); color: var(--accent); }
+
+/* the route: a real sequence, so it is numbered */
+.route { list-style: none; margin: 0; padding: 0; display: grid; gap: 0; }
+.route li { display: grid; grid-template-columns: 34px minmax(0, 1fr); gap: 12px; position: relative; padding-bottom: 18px; }
+.route li:not(:last-child)::before { content: ""; position: absolute; left: 16px; top: 30px; bottom: 0; width: 2px; background: var(--line); }
+.route .dot { width: 34px; height: 30px; border-radius: 6px; background: var(--accent-soft); color: var(--accent); font: 600 13px/30px var(--mono); text-align: center; }
+.route li.fail .dot { background: var(--refuse); color: var(--accent-ink); }
+.route .body { display: grid; gap: 3px; min-width: 0; padding-top: 3px; }
+.route .q { font-weight: 600; }
+.route .a { color: var(--muted); font-size: 15px; }
+.route .a strong { color: var(--ink); }
+.route li.fail .a strong { color: var(--refuse); }
+
+.fork { display: grid; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); gap: 12px; }
+.branch { border: 1px solid var(--line); border-radius: 8px; padding: 16px; background: var(--surface); display: grid; gap: 8px; align-content: start; }
+.branch.here { border-color: var(--refuse); box-shadow: inset 0 3px 0 var(--refuse); }
+.branch .tag { font: 600 11.5px var(--sans); letter-spacing: .07em; text-transform: uppercase; color: var(--muted); }
+.branch.here .tag { color: var(--refuse); }
+.branch p { font-size: 15px; }
+
+.table-wrap { overflow-x: auto; border: 1px solid var(--line); border-radius: 8px; background: var(--surface); }
+table { border-collapse: collapse; width: 100%; font-size: 14.5px; }
+th, td { text-align: left; vertical-align: top; padding: 10px 12px; border-top: 1px solid var(--line); }
+thead th { border-top: 0; font-size: 12px; letter-spacing: .07em; text-transform: uppercase; color: var(--muted); font-weight: 600; background: var(--surface-2); }
+td:first-child { white-space: nowrap; }
+.pill { display: inline-block; font-size: 12px; font-weight: 600; border-radius: 3px; padding: 1px 7px; }
+.pill.ok { background: var(--approve-soft); color: var(--approve); }
+.pill.no { background: var(--refuse-soft); color: var(--refuse); }
+.pill.na { background: var(--surface-2); color: var(--muted); border: 1px solid var(--line); }
+
+ul.evidence { margin: 0; padding-left: 20px; display: grid; gap: 8px; max-width: 66ch; }
+
+.answers { background: var(--surface); border: 1px solid var(--line); border-radius: 8px; padding: 20px; display: grid; gap: 14px; }
+.steps { margin: 0; padding-left: 20px; display: grid; gap: 4px; }
+.copy-row { display: flex; flex-wrap: wrap; gap: 10px; align-items: center; }
+button.primary { background: var(--accent); color: var(--accent-ink); border: 1px solid var(--accent); border-radius: 6px; padding: 8px 16px; font: 600 14px var(--sans); cursor: pointer; }
+.status { font-size: 13.5px; color: var(--muted); }
+pre#answers-json { margin: 0; max-height: 420px; overflow: auto; background: var(--surface-2); border: 1px solid var(--line); border-radius: 6px; padding: 12px 14px; font: 12.5px/1.5 var(--mono); color: var(--ink); white-space: pre; }
+.judgement dl { margin: 0; display: grid; gap: 8px; }
+.judgement dt { font: 500 13px var(--mono); color: var(--accent); }
+.judgement dd { margin: 0; font-size: 14.5px; max-width: 66ch; }
+
+.tallies { display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 12px; }
+.tally { background: var(--surface); border: 1px solid var(--line); border-radius: 8px; padding: 14px 16px; display: grid; gap: 6px; align-content: start; font-size: 14px; }
+.tally-title { font: 600 11.5px var(--sans); letter-spacing: .07em; text-transform: uppercase; color: var(--muted); }
+.tally-count strong { font: 600 30px/1 var(--serif); color: var(--accent); font-variant-numeric: tabular-nums; margin-right: 4px; }
+.tally-extra { color: var(--muted); font-size: 13.5px; }
+.tally-other { color: var(--muted); font-size: 13.5px; border-top: 1px solid var(--line); padding-top: 6px; }
+.tally-other strong { color: var(--ink); font-variant-numeric: tabular-nums; }
+.tally-link { font-weight: 600; font-size: 13.5px; margin-top: 2px; }
+footer { font-size: 13px; color: var(--muted); display: grid; gap: 8px; border-top: 1px solid var(--line); padding-top: 16px; }
+footer ul { margin: 0; padding-left: 18px; display: grid; gap: 3px; }
+@media (prefers-reduced-motion: reduce) { * { scroll-behavior: auto !important; } }
+</style>
+
+<main>
+  <header>
+    <p class="eyebrow">26/01470/FUL · Stratford-on-Avon District Council</p>
+    <h1>Land North of Station Road, Claverdon: which test applies?</h1>
+    <p class="dek">How the August 2026 National Planning Policy Framework (NPPF) routes this application, where it fails, and a set of answers to load into the NPPF 2026 Navigator.</p>
+    <p class="facts"><span><strong>5</strong> detached open-market homes</span><span><strong>0.48 ha</strong> field</span><span>Green Belt (washed-over village)</span><span>Next to Grade II listed Claverdon Hall</span></p>
+  </header>
+
+  <div class="verdict">
+    <p class="label">The route in one line</p>
+    <p>This is a Green Belt site, so policy S5 does not decide it (S5(5)). The test is GB6 and GB7. The only GB7 route open is GB7(1)(g), and the scheme fails its sustainable-location limb (TR3). It is therefore inappropriate development, to be refused unless very special circumstances clearly outweigh the harm (GB6(2)).</p>
+  </div>
+
+  <section id="s5">
+    <h2>Why S5 sends it to GB6 and GB7</h2>
+    <p>S5 is the Framework's policy for development outside settlements. Its list of acceptable categories includes S5(1)(j): housing that meets an evidenced unmet need and is "physically well-related to an existing settlement". That test cannot be applied to this site, for two separate reasons.</p>
+    <div class="reasons">
+      <div class="reason">
+        <h3><span class="n">1</span>S5 does not apply in the Green Belt</h3>
+        <blockquote class="fw">
+          <p>This policy does not apply to development proposals in the Green Belt or on land designated as Local Green Space, which should instead be determined in accordance with policies HC8, GB6, GB7 and/or GB8 (as appropriate).</p>
+          <cite>S5(5)</cite>
+        </blockquote>
+        <p>Claverdon is washed over by the Green Belt: the whole village, inside and outside its built-up area boundary, lies within it. So the S5(1) list, including (j), is never the test here. This holds whether the scheme passes or fails GB7. Passing GB7 brings back only the S5(5) balance, never the S5(1) list.</p>
+      </div>
+      <div class="reason">
+        <h3><span class="n">2</span>A washed-over village is not a "settlement"</h3>
+        <blockquote class="fw">
+          <p>For the purpose of this Framework they also exclude villages which lie within and are defined as part of the Green Belt in the development plan.</p>
+          <cite>Annex B, "Settlement"</cite>
+        </blockquote>
+        <p>Even read on its own terms, S5(1)(j) would have no "existing settlement" here for the site to be well-related to. Claverdon is still a Category 3 Local Service Village in the Core Strategy (CS.15). That is the local plan's label. The Annex B exclusion applies only "for the purpose of this Framework". The village's shop, surgery and school still count, as facts about the location under TR3.</p>
+      </div>
+      <div class="reason">
+        <h3><span class="n">3</span>GB6(1) requires the GB7 test in any case</h3>
+        <blockquote class="fw">
+          <p>Development in the Green Belt is inappropriate unless it falls within one of the categories in policy GB7.</p>
+          <cite>GB6(1)</cite>
+        </blockquote>
+        <p>This applies whatever view is taken of S5. Even the decisions that wrongly cited an S5(1) category for a Green Belt site still had to run GB7, and each one passed it. This site fails GB7(1)(g)(iii), so S5(1)(j) cannot save it.</p>
+      </div>
+    </div>
+    <p>Any one of these is enough. Together they leave no route to S5(1)(j).</p>
+    <!-- boxes:s5 --><!-- /boxes -->
+  </section>
+
+  <section id="route">
+    <h2>The route, step by step</h2>
+    <ol class="route">
+      <li><span class="dot">1</span><div class="body"><p class="q">Is the site in the Green Belt?</p><p class="a"><strong>Yes.</strong> Claverdon is washed over, so S5(5) sends the proposal to GB6 to GB8.</p></div></li>
+      <li><span class="dot">2</span><div class="body"><p class="q">Is it inappropriate development? (GB6(1))</p><p class="a">It is, "unless it falls within one of the categories in policy GB7".</p></div></li>
+      <li><span class="dot">3</span><div class="body"><p class="q">Which GB7 category could apply?</p><p class="a"><strong>Only (g), the grey belt route.</strong> (c) limited infilling, (e) previously developed land and (h) land around a station do not fit.</p></div></li>
+      <li class="fail"><span class="dot">4</span><div class="body"><p class="q">Are all four limbs of GB7(1)(g) met?</p><p class="a"><strong>No.</strong> Limb (iii), a sustainable location with particular reference to TR3, fails.</p></div></li>
+      <li class="fail"><span class="dot">5</span><div class="body"><p class="q">Result</p><p class="a"><strong>Inappropriate development.</strong> GB6(2) applies: very special circumstances must clearly outweigh the harm.</p></div></li>
+    </ol>
+    <div class="fork">
+      <div class="branch here">
+        <p class="tag">This site: fails GB7</p>
+        <h3>GB6(2): very special circumstances</h3>
+        <p>Inappropriate development "should not be approved except in very special circumstances". Those "will not exist unless" the harm "is clearly outweighed by other considerations", with "substantial weight" given to harm to the Green Belt. The applicant must show the benefits clearly win.</p>
+      </div>
+      <div class="branch">
+        <p class="tag">Only if GB7 were passed</p>
+        <h3>S5(5): the tilted balance</h3>
+        <p>Approve "unless the benefits of doing so would be substantially outweighed by any adverse effects", applying S5(2). Here objectors must show that the harm substantially outweighs the benefits, unless a "should be refused" policy is failed.</p>
+      </div>
+    </div>
+    <p>So whether the location passes TR3 decides which of these two balances applies, and on which side the burden falls.</p>
+  </section>
+
+  <section id="gb7g">
+    <h2>The GB7(1)(g) gateway</h2>
+    <p>Development on grey belt land is "not inappropriate" only where all four limbs apply. Grey belt status describes the land. It does not make the scheme acceptable, and it does not answer limb (iii).</p>
+    <div class="table-wrap">
+      <table>
+        <thead><tr><th>Limb</th><th>Test</th><th>This site</th></tr></thead>
+        <tbody>
+          <tr><td><span class="code">(i)</span></td><td>Grey belt land, not fundamentally undermining the remaining Green Belt</td><td><span class="pill ok">Probably met</span> Grey belt turns on purposes (a), (b) and (d): large built-up areas, towns merging and historic towns. Those are not about villages.</td></tr>
+          <tr><td><span class="code">(ii)</span></td><td>An evidenced unmet need</td><td><span class="pill ok">Met</span> No five-year housing land supply (2.21 years at 31 March 2025).</td></tr>
+          <tr><td><span class="code">(iii)</span></td><td>"A sustainable location, with particular reference to policy TR3"</td><td><span class="pill no">Not met</span> See the evidence below.</td></tr>
+          <tr><td><span class="code">(iv)</span></td><td>Golden Rules (GB8) for major housing</td><td><span class="pill na">Not engaged</span> Five homes on under 0.5 ha is not major development.</td></tr>
+        </tbody>
+      </table>
+    </div>
+    <!-- boxes:gb7g --><!-- /boxes -->
+  </section>
+
+  <section id="tr3">
+    <h2>Why the location fails TR3</h2>
+    <blockquote class="fw">
+      <p>This means the location should limit the need to travel, particularly by private car, and offer a genuine choice of transport modes for residents and users.</p>
+      <cite>TR3(1)(a)</cite>
+    </blockquote>
+    <ul class="evidence">
+      <li><strong>Walking.</strong> The only footway is on the far side of the road, and the frontage is unlit. East of the site, toward the station, the limit rises to 40 mph on a bending road with no footway on the site side.</li>
+      <li><strong>Speeds.</strong> The applicant's own survey records an 85th-percentile speed of 39.9 mph in the 30 mph limit.</li>
+      <li><strong>Bus.</strong> The Highway Authority describes the service as "limited in frequency".</li>
+      <li><strong>Rail.</strong> Claverdon station is about 1.4 km away on foot, reached along the 40 mph stretch. It has roughly one train every two hours on weekdays and none on Sundays. Annex B treats around 800 m as a reasonable walk, and a "well-connected station" needs at least four trains an hour, or two an hour in one direction.</li>
+      <li><strong>The Framework's own Connectivity Tool</strong> (TR3(2)) puts the site's grid square in the lowest ten per cent nationally for access by walking (score 23) and by public transport (24). Access to workplaces by car scores 81.</li>
+      <li><strong>The Council's own past finding.</strong> Its 2022 report on Claverdon Hall Farm (22/01896/FUL), on the same northern edge of the village, called that site "an unsustainable location" where "future occupants would be principally reliant on the motor vehicle".</li>
+    </ul>
+    <p>The part-time volunteer shop, a branch surgery and the primary school are within walking distance. Work, secondary school, supermarket shopping, most healthcare and any Sunday journey would be by car. That is not a genuine choice of transport modes.</p>
+    <!-- boxes:tr3 --><!-- /boxes -->
+    <div class="prose">
+      <h3>Highway safety is a different question</h3>
+      <p>The Highway Authority's no-objection concerns the access and the road network (TR3(1)(c) and TR6). It does not decide whether the location is sustainable under TR3(1)(a). That judgement belongs to the local planning authority.</p>
+      <h3>Five homes is enough</h3>
+      <p>In appeal 6010313 (Newchapel, 4 September 2026), decided under this Framework, five homes on an unlit 40 mph lane without footways would "generate a significant amount of movement in this context" (¶13). The scheme failed GB7(1)(g)(iii) and was inappropriate development, despite a housing supply of 1.97 years. Five homes earned moderate weight as a benefit, and only modest weight in the very special circumstances balance.</p>
+    </div>
+  </section>
+
+  <section id="balance">
+    <h2>What has to be outweighed</h2>
+    <p>Under GB6(2), substantial Green Belt harm is joined by every other harm:</p>
+    <ul class="evidence">
+      <li><strong>Heritage.</strong> The applicant concedes harm to Grade II listed Claverdon Hall and to the Conservation Area, which lies immediately to the south across Station Road. HE6(3): "Any harm to a designated heritage asset will be a matter of considerable importance and weight." The district's Landscape Sensitivity Assessment found this parkland "not considered suitable for housing development" because of "its historic parkland associations and integration with the Conservation Area".</li>
+      <li><strong>Design and character.</strong> Five detached houses across the parkland frontage do not respond to their setting or to the Village Design Statement. In June 2026 the Council refused 26/00892/PIP on Station Road as "an incongruous form of development that fails to respect the established settlement pattern".</li>
+      <li><strong>Trees and hedgerow.</strong> An ash tree (T4) is to be felled, and the visibility splays require the frontage hedgerow and its trees to be removed or kept below 0.6 m. None of the ecological or landscape assessments covers this.</li>
+      <li><strong>Flood risk.</strong> The applicant's Ground Investigation Report identifies potential groundwater flooding at surface. F7(2) says such development "should be refused unless" five matters are shown, and none is addressed for groundwater.</li>
+    </ul>
+    <p>Against this, the only very special circumstance advanced is the housing shortfall, and five open-market homes are a modest contribution to it. Even in the alternative S5(5) balance, DP3(3) on design and F7(2) on flood risk are "should be refused" policies. Under S5(2), failing either makes it likely that the benefits are substantially outweighed.</p>
+    <!-- boxes:balance --><!-- /boxes -->
+  </section>
+
+  <section id="counter">
+    <h2>Answers to the likely arguments</h2>
+    <div class="table-wrap">
+      <table>
+        <thead><tr><th>If it is said that…</th><th>The answer</th></tr></thead>
+        <tbody>
+          <tr><td style="white-space:normal">It meets S5(1)(j): unmet need, well-related to the village</td><td>S5 does not apply in the Green Belt (S5(5)), and a washed-over village is not a "settlement" (Annex B).</td></tr>
+          <tr><td style="white-space:normal">It is grey belt, so acceptable in principle</td><td>Grey belt is only limb (i) of four. Limb (iii) fails.</td></tr>
+          <tr><td style="white-space:normal">It adjoins the village, so it is sustainable</td><td>TR3 tests the actual route, services and transport, not being next to a village or its boundary.</td></tr>
+          <tr><td style="white-space:normal">Highways raise no objection</td><td>That covers access safety (TR3(1)(c), TR6), not location (TR3(1)(a)).</td></tr>
+          <tr><td style="white-space:normal">Five homes is too few to matter</td><td>GB7(1)(g)(iii) needs a sustainable location whatever the scale, and five homes were "a significant amount of movement in this context" at 6010313.</td></tr>
+          <tr><td style="white-space:normal">The housing shortfall outweighs the harm</td><td>It must clearly outweigh substantial Green Belt harm plus all other harm. Five homes carry modest weight (6010313).</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </section>
+
+  <section id="navigator">
+    <h2>Run it in the Navigator</h2>
+    <p>The NPPF 2026 Navigator walks through the Framework's decision route question by question and shows the appeal decisions behind each step. This set of answers reproduces the route above for this site. Load it, then change any answer you see differently.</p>
+    <div class="answers">
+      <ol class="steps">
+        <li>Copy the answers below.</li>
+        <li>Open the <a href="https://planningdistilled.org/research/england/nppf-navigator/" target="_blank" rel="noopener">NPPF 2026 Navigator</a>.</li>
+        <li>Choose <strong>Saved sets</strong>, paste into <strong>Load answers</strong>, and press <strong>Load these answers</strong>.</li>
+        <li>To keep the set, name it and press <strong>Save current answers</strong>.</li>
+      </ol>
+      <div class="copy-row">
+        <button type="button" class="primary" id="copy-btn">Copy answers</button>
+        <span class="status" id="copy-status" role="status"></span>
+      </div>
+<pre id="answers-json" tabindex="0">{
+ "gb": "washed-over",
+ "washedOverSettlementAck": true,
+ "devType": "market-housing",
+ "units": 5,
+ "largeSite": "no",
+ "heritage": ["lb2", "ca", "ndha"],
+ "supply": "below5",
+ "constraints": ["flood", "treesHedges", "access", "neighbourhoodPlan"],
+ "gb7cat": "g",
+ "gb7gPlanAck": true,
+ "greyBelt": [],
+ "greyBeltUndermine": "no",
+ "unmetNeedAck": true,
+ "tr3Footway": ["narrow", "oneSide", "gaps", "surface", "notStepFree"],
+ "tr3Lit": "unlit",
+ "tr3Speed": ["20-30", "40"],
+ "tr3SpeedEvidence": 39.9,
+ "tr3Services": "under800",
+ "tr3Bus": "minimal",
+ "tr3Rail": "limited",
+ "tr3Tool": "low",
+ "tr3": "fail",
+ "he5": "remediable",
+ "heHarmFactors": ["setting-dominate", "functional-link"],
+ "heEffect": "harm-moderate",
+ "heBenefits": ["housing-small", "economic-short", "env-not-demonstrated"],
+ "he64": "not-outweighed",
+ "he7": "not-outweighed",
+ "f7": "not-demonstrated",
+ "n21d": "lost",
+ "dp32c": "yes",
+ "tr64": "acceptable",
+ "dp3Conflicts": ["context", "standards", "movement", "identity"],
+ "dp3": "not-justified",
+ "character": "moderate",
+ "s6": "not-engaged",
+ "devPlan": "significant",
+ "homesAck": true,
+ "otherBenefits": ["economic"],
+ "routeAck": true,
+ "gbHarmAck": true,
+ "vsc": "not-shown"
+}</pre>
+    </div>
+
+    <div class="prose judgement">
+      <h3>The judgement calls in this set</h3>
+      <dl>
+        <dt>gb: washed-over</dt>
+        <dd>Claverdon lies within the Green Belt on the policies map, so the site is in or on the edge of a washed-over village.</dd>
+        <dt>greyBelt: none ticked</dt>
+        <dd>Treated as grey belt, which is the applicant's best case. The route fails at limb (iii) either way.</dd>
+        <dt>tr3SpeedEvidence: 39.9</dt>
+        <dd>The applicant's own 85th-percentile figure, taken in the 30 mph limit. Speeds on the 40 mph stretch toward the station are likely higher, but no 85th-percentile survey for that stretch is on the file.</dd>
+        <dt>tr3Services: under800 · tr3Bus: minimal</dt>
+        <dd>The surgery (about 0.43 km) and the primary school (about 0.67 km) are walkable. The case rests on the narrow range of journeys possible without a car, not on distance. On the bus, the Highway Authority says "limited in frequency", and the applicant's own appraisal says the services serve the village "once a day".</dd>
+        <dt>heritage: ndha · he7</dt>
+        <dd>The applicant's heritage statement treats the parkland as a locally listed park and garden, and the Neighbourhood Plan records it as ancient parkland. Remove <span class="code">ndha</span> to leave it out.</dd>
+        <dt>heEffect: harm-moderate</dt>
+        <dd>The applicant puts the harm at the low end. The district Landscape Sensitivity Assessment and the 1994 Conservation Area Review suggest it is understated. The Conservation Officer had not been consulted as of 20 September 2026.</dd>
+        <dt>s6: not-engaged</dt>
+        <dd>The Claverdon Neighbourhood Plan was made in 2019, more than five years ago, and allocates no housing sites.</dd>
+        <dt>tr64: acceptable · character: moderate</dt>
+        <dd>Cautious answers. The Highway Authority does not object, though the splays rely on hedge removal nobody has assessed. In June the Council found "significant and demonstrable harm" from the PIP (permission in principle) scheme elsewhere on Station Road.</dd>
+      </dl>
+    </div>
+  </section>
+
+  <footer>
+    <p>Sources</p>
+    <ul>
+      <li>National Planning Policy Framework, August 2026: S5, GB6, GB7, GB8, TR3, HE6, DP3, F7, Annex B.</li>
+      <li>Appeal decision 6010313, Branford Wells, Newchapel, 4 September 2026.</li>
+      <li>Stratford-on-Avon District Council: 26/00892/PIP decision notice, 12 June 2026; 22/01896/FUL delegated report, October 2022.</li>
+      <li>Application documents for 26/01470/FUL: Transport Appraisal speed survey, Built Heritage Statement, Ground Investigation Report; Warwickshire County Council Highways responses.</li>
+      <li>Department for Transport Connectivity Tool, grid square 419650_265050.</li>
+    </ul>
+    <p>Prepared by a local resident. Not legal advice.</p>
+    <p class="licence">&copy; Planning Distilled. Text, data and images on this page are released under the <a rel="license" href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 licence</a>: share and adapt them freely, with credit to Planning Distilled. Quotations from decision letters, plans and the Framework remain the copyright of their publishers. Source and data: <a href="https://github.com/planningdistilled/research">github.com/planningdistilled/research</a>.</p>
+  </footer>
+</main>
+
+<script>
+(function () {
+  var btn = document.getElementById('copy-btn');
+  var pre = document.getElementById('answers-json');
+  var status = document.getElementById('copy-status');
+  function selectText() {
+    var r = document.createRange();
+    r.selectNodeContents(pre);
+    var s = window.getSelection();
+    s.removeAllRanges();
+    s.addRange(r);
+  }
+  btn.addEventListener('click', function () {
+    var text = pre.textContent;
+    var done = function () { status.textContent = 'Copied. Paste it into the Navigator’s Load answers box.'; };
+    var fallback = function () { selectText(); status.textContent = 'Selected. Press Ctrl+C or ⌘C to copy.'; };
+    try {
+      navigator.clipboard.writeText(text).then(done, fallback);
+    } catch (e) {
+      fallback();
+    }
+  });
+})();
+</script>
