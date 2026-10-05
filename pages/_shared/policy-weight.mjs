@@ -26,7 +26,7 @@ const norm = (s) => s
 const cache = new Map();
 function text(src) {
   if (!cache.has(src)) {
-    const file = src.startsWith('case:') ? reportPath(src.slice(5)) : TEXTS[src];
+    const file = src.startsWith('case:') ? reportPath(src.slice(5)) : src.startsWith('pins:') ? path.join(OPEN, 'pins-corpus', src.slice(5) + '.txt') : TEXTS[src];
     if (!file || !fs.existsSync(file)) throw new Error(`source text missing for ${src}: ${file}`);
     const raw = fs.readFileSync(file, 'utf8');
     // pdftotext separates pages with form feeds; the OCR tool writes "=== PAGE n ===" before each page.
@@ -71,6 +71,14 @@ export function caseLink(id) {
   if (!c) throw new Error('case not in index: ' + id);
   const place = c.title.split(',').slice(-1)[0].trim();
   return `<a href="${DECISION_PAGES}${encodeURIComponent(id)}.html">${esc(place)}, ${esc(c.lpa_ref || id)}</a>`;
+}
+
+/** An appeal decision reference with a link: "Aston Clinton, appeal 6008253". */
+export function appealLink(id) {
+  const c = caseById.get(id);
+  if (!c) throw new Error('case not in index: ' + id);
+  const place = c.title.split(',').slice(-1)[0].replace(/\(.*\)/, '').trim();
+  return `<a href="${DECISION_PAGES}${encodeURIComponent(id)}.html">${esc(place)}, appeal ${esc(c.appeal_ref || id)}</a>`;
 }
 
 /** A checked quotation block. `src` is nppf | cs | np | case:<id>; `cite` is the visible attribution (HTML). */
