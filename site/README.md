@@ -23,6 +23,7 @@ It is idempotent; a second run writes nothing.
    - Stratford note: see `pages/authority/stratford-dc/nppf-decisions/build/README.md`
    - Station Road on Foot: see `pages/settlement/claverdon/station-road-on-foot/README.md`
    - Station Road Decision Route: `node pages/settlement/claverdon/station-road-decision-route/build.mjs`
+   - Policy weight pages (need `../sources`): `node pages/authority/stratford-dc/core-strategy-weight/build.mjs` and `node pages/settlement/claverdon/neighbourhood-plan-weight/build.mjs`
    - `python3 site/seo.py <dir>` adds search metadata to the artifact exports (Stratford note, Station Road) before they are copied in.
 2. `node site/finish.mjs`
 3. Commit and push `main-site` with its Planning Distilled git identity.
