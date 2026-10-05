@@ -1,6 +1,6 @@
 # NPPF 2026 decisions — outcome statistics
 
-Generated 2026-10-02. 'Permitted' = allowed / approved / part-allowed / split. Rates for small groups are anecdotes, not statistics. Tier-2 cases carry thinner coding.
+Generated 2026-10-05. 'Permitted' = allowed / approved / part-allowed / split. Rates for small groups are anecdotes, not statistics. Tier-2 cases carry thinner coding.
 
 
 ## By decision maker

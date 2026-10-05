@@ -1,6 +1,6 @@
 # Development plan policies → cases
 
-Generated 2026-10-02. Grouped by authority.
+Generated 2026-10-05. Grouped by authority.
 
 ## Arun
 - **Arun Local Plan W DM2**: [Longbrook Pavillion, Hook Lane, Bognor Regis](../cases/PINS-6010637.md) (allowed)

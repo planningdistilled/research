@@ -1,6 +1,6 @@
 # NPPF 2026 decisions — case table
 
-Generated 2026-10-02 from `cases/`. 1064 decisions. Appeals and SoS first, newest first.
+Generated 2026-10-05 from `cases/`. 1064 decisions. Appeals and SoS first, newest first.
 
 | Case | Authority | Date | Maker | Outcome | Type | Units | Determinative NPPF policies | Verif. |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |

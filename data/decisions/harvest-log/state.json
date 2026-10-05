@@ -1,6 +1,6 @@
 {
   "cases": {
-    "builtAt": "2026-10-02T22:43:06+01:00",
+    "builtAt": "2026-10-05T15:43:02+01:00",
     "byDecisionMaker": {
       "inspector": 984,
       "lpa-committee": 38,
@@ -9,7 +9,7 @@
     },
     "newestDecisionDate": "2026-10-02",
     "newestHarvestedOn": "2026-10-02",
-    "refreshedAt": "2026-10-02T22:46:57+01:00",
+    "refreshedAt": "2026-10-05T15:43:02+01:00",
     "total": 1064
   },
   "frameworkDate": "2026-08-17",
