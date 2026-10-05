@@ -3,6 +3,7 @@
 import fs from 'node:fs';
 import path from 'node:path';
 import { DECISIONS, OPEN, SOURCES } from '../../paths.mjs';
+import { addAnchors, ANCHOR_CSS } from './anchors.mjs';
 
 const CASES = JSON.parse(fs.readFileSync(path.join(DECISIONS, 'index', 'cases.json'), 'utf8'));
 export const caseById = new Map(CASES.map((c) => [c.case_id, c]));
@@ -122,11 +123,11 @@ blockquote{margin:0;background:var(--quote);border-left:3px solid var(--accent);
 .pill.ok{background:var(--ok-soft);color:var(--ok)}.pill.part{background:var(--part-soft);color:var(--part)}.pill.no{background:var(--no-soft);color:var(--no)}
 .policy p,.policy li{font-size:15px;max-width:68ch}.policy ul{margin:0;padding-left:20px;display:grid;gap:4px}.also{font-size:13.5px;color:var(--muted)}
 .note{font-size:14.5px;color:var(--muted)}footer{font-size:13px;color:var(--muted);display:grid;gap:8px;border-top:1px solid var(--line);padding-top:16px}footer ul{margin:0;padding-left:18px}
-@media (prefers-reduced-motion:reduce){*{scroll-behavior:auto!important}}`;
+@media (prefers-reduced-motion:reduce){*{scroll-behavior:auto!important}}${ANCHOR_CSS}`;
 
 export function page({ title, description, url, breadcrumb, h1, dek, body, sources, credit }) {
   assertClean();
-  return `<!doctype html>
+  return addAnchors(`<!doctype html>
 <html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
 <title>${esc(title)}</title>
 <meta name="description" content="${esc(description)}">
@@ -143,5 +144,5 @@ ${body}
 <p>${credit} Every quotation on this page is checked against the source text when the page is built. Built ${esc(fmtDate(new Date().toISOString().slice(0, 10)))}. Not legal advice.</p>
 <p class="licence">${LICENCE}</p></footer>
 </main></body></html>
-`;
+`);
 }
