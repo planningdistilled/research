@@ -49,7 +49,7 @@ policy_findings:
   - policy: Transitional(2)
     finding: conflict
     weight: very-limited
-    note: CS.15, CS.16, AS.10, CS.10, CS.26 and NDP H3 held "materially inconsistent" with the 2026 decision-making policies
+    note: CS.15, CS.16, AS.10, CS.10 and CS.26 held "materially inconsistent" with the 2026 decision-making policies; NDP H3 given very limited weight only because S6 is not engaged (p.8), though the report found the scheme "could be capable of according with Policy H3 in principle" through its Green Belt clause (p.6)
   - policy: S6
     finding: not-engaged
     weight: null
