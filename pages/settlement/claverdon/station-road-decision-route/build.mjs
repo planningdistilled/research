@@ -102,7 +102,7 @@ const BOXES = [
     label: 'found the harm not outweighed, and all were refused or dismissed',
   },
   {
-    key: 'dp3-3-refuse', where: 'balance',
+    key: 'dp3-3-refuse', where: 'dp3',
     title: 'DP3(3) design conflict',
     claim: 'Decisions that found a design conflict without clear justification under DP3(3), which says such proposals "should be refused".',
     notes: /DP3/,
