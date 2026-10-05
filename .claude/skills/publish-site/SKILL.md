@@ -29,6 +29,7 @@ cd pages/authority/stratford-dc/nppf-decisions/build
 python3 sweep.py note.md && python3 loccheck.py note.md && python3 verify.py quotes.json   # 100% / 0 problems / all ok
 python3 cases.py && python3 build.py
 STAGE=$(mktemp -d) && mkdir $STAGE/stratford-nppf-decisions
+cp -R ../../../../../../main-site/research/settlement/claverdon/station-road-on-foot $STAGE/   # seo.py lists both folders and exits before writing anything if this one is missing
 python3 standalone.py $STAGE/stratford-nppf-decisions && cp case-*.html $STAGE/stratford-nppf-decisions/
 python3 ../../../../../site/seo.py $STAGE
 cp $STAGE/stratford-nppf-decisions/* ../../../../../../main-site/research/authority/stratford-dc/nppf-2026-decisions/
