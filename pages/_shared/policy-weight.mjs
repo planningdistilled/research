@@ -138,7 +138,7 @@ export function page({ title, description, url, breadcrumb, h1, dek, body, sourc
 <style>${CSS}</style>
 </head>
 <body><main>
-<header><p class="eyebrow">${breadcrumb}</p><h1>${esc(h1)}</h1><p class="dek">${dek}</p></header>
+<header><nav class="eyebrow" aria-label="Breadcrumb">${breadcrumb}</nav><h1>${esc(h1)}</h1><p class="dek">${dek}</p></header>
 ${body}
 <footer><p>Sources</p><ul>${sources.map((s) => `<li>${s}</li>`).join('')}</ul>
 <p>${credit} Every quotation on this page is checked against the source text when the page is built. Built ${esc(fmtDate(new Date().toISOString().slice(0, 10)))}. Not legal advice.</p>

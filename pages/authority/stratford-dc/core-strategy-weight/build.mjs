@@ -110,7 +110,7 @@ const html = page({
   title: 'Stratford Core Strategy and the 2026 NPPF',
   description: "Which Stratford-on-Avon Core Strategy policies keep their weight under the August 2026 NPPF, policy by policy, in the Council's own words: CS.2, CS.4, CS.5, CS.6, CS.9 and CS.12 held consistent; CS.8, CS.10 and CS.22 disputed; CS.15, CS.16, AS.10 and CS.26 held inconsistent. Every quotation checked against the officer reports.",
   url: URL,
-  breadcrumb: '<a href="/">Planning Distilled</a> › <a href="/research/">Research</a> › <a href="/research/authority/">Local planning authorities</a> › Stratford-on-Avon',
+  breadcrumb: '<a href="/">Planning Distilled</a> › <a href="/research/">Research</a> › <a href="/research/authority/">Local planning authorities</a> › <a href="/research/authority/stratford-dc/">Stratford-on-Avon</a> › Core Strategy policies',
   h1: 'Which Stratford Core Strategy policies keep their weight under the 2026 NPPF',
   dek: "The Council's own officer reports since 17 August 2026, policy by policy. Policies they treat as consistent come first; disputed and conflicting policies follow.",
   body: rule + consistent + disputed + conflict + untested,

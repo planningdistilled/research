@@ -117,7 +117,7 @@ const html = page({
   title: 'Claverdon Neighbourhood Plan and the 2026 NPPF',
   description: 'Which policies of the Claverdon Neighbourhood Plan (made December 2019) keep their weight under the August 2026 NPPF: design (BE1), flooding (NE2), valued landscapes (NE1), ecology (NE5), Local Green Space, community facilities, local housing need and brownfield policies do; the heritage policy (BE2) is open to challenge; the housing boundary (H1) is likely to get very limited weight.',
   url: URL,
-  breadcrumb: '<a href="/">Planning Distilled</a> › <a href="/research/">Research</a> › <a href="/research/settlement/">Settlements</a> › <a href="/research/settlement/claverdon/">Claverdon</a>',
+  breadcrumb: '<a href="/">Planning Distilled</a> › <a href="/research/">Research</a> › <a href="/research/settlement/">Settlements</a> › <a href="/research/settlement/claverdon/">Claverdon</a> › Neighbourhood Plan policies',
   h1: 'Which Claverdon Neighbourhood Plan policies keep their weight under the 2026 NPPF',
   dek: 'Each policy of the made plan against the August 2026 Framework. Policies that keep their weight come first; those open to challenge or likely to lose weight follow.',
   body: rule + consistent + lower,

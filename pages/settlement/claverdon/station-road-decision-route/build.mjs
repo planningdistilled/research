@@ -158,7 +158,7 @@ function listPage(b) {
   const title = `${b.title}: decisions behind the Station Road route`;
   return `${head(title, `${b.claim} ${b.concur.length} decisions from the Planning Distilled decisions database, with their findings and summaries, cited on the Station Road Decision Route page for 26/01470/FUL, Claverdon.`, URL + 'cases/' + b.key + '.html')}${FONTS}
 <style>${STYLE}</style></head><body><main>
-<p class="back"><a href="../index.html#${b.where}">Back to Station Road Decision Route</a></p>
+<nav class="back" aria-label="Breadcrumb"><a href="/">Planning Distilled</a> › <a href="/research/">Research</a> › <a href="/research/settlement/">Settlements</a> › <a href="/research/settlement/claverdon/">Claverdon</a> › <a href="../index.html#${b.where}">Station Road Decision Route</a> › ${esc(b.title)}</nav>
 <header><p class="eyebrow">Decisions behind the Station Road route</p><h1>${esc(b.title)}</h1><p class="dek">${esc(b.claim)}</p>
 <p class="fine">From the Planning Distilled decisions database: ${cases.length.toLocaleString('en-GB')} decisions, the newest dated ${esc(fmtDate(newest))}. Newest first.</p></header>
 <section class="group"><h2>${b.concur.length} ${esc(b.label)}</h2>
@@ -197,6 +197,6 @@ if (!ARTIFACT) {
 page = addAnchors(page.replace('</style>', ANCHOR_CSS + '</style>'));
 fs.mkdirSync(path.join(OUT, 'cases'), { recursive: true });
 fs.writeFileSync(path.join(OUT, 'index.html'), page);
-for (const b of BOXES) fs.writeFileSync(path.join(OUT, 'cases', b.key + '.html'), listPage(b));
+for (const b of BOXES) fs.writeFileSync(path.join(OUT, 'cases', b.key + '.html'), ARTIFACT ? listPage(b).replace(/href="\/(?!\/)/g, 'href="https://planningdistilled.org/') : listPage(b));
 for (const b of BOXES) console.log(`${b.key}: ${b.concur.length}`);
 console.log(`✓ wrote ${BOXES.length + 1} pages to ${path.relative(process.cwd(), OUT) || '.'}`);

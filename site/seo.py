@@ -38,6 +38,42 @@ LICENCE = ('<div class="licence" style="max-width:820px;margin:28px auto 0;paddi
            '&copy; Planning Distilled. Text, data and images on this page are released under the <a rel="license" href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 licence</a>: share and adapt them freely, with credit to Planning Distilled. Quotations from decision letters, plans and the Framework remain the copyright of their publishers. Source and data: <a href="https://github.com/planningdistilled/research">github.com/planningdistilled/research</a>.</div>')
 
 
+# Breadcrumb trails, so every exported page says where it sits on the site.
+CRUMBS = {
+    'station-road-on-foot': [('Planning Distilled', '/'), ('Research', '/research/'), ('Settlements', '/research/settlement/'),
+                             ('Claverdon', '/research/settlement/claverdon/'), ('Station Road on Foot', '/research/settlement/claverdon/station-road-on-foot/')],
+    'stratford-nppf-decisions': [('Planning Distilled', '/'), ('Research', '/research/'), ('Local planning authorities', '/research/authority/'),
+                                 ('Stratford-on-Avon', '/research/authority/stratford-dc/'), ('Decisions under the 2026 NPPF', '/research/authority/stratford-dc/nppf-2026-decisions/')],
+}
+
+
+def crumbs(folder, page, text):
+    trail = CRUMBS[folder]
+    if page == 'index.html':
+        links, current = trail[:-1], trail[-1][0]
+    else:
+        h1 = re.search(r'<h1[^>]*>(.*?)</h1>', text, re.S)
+        links, current = trail, (re.sub('<[^>]+>', '', h1.group(1)).strip() if h1 else page)
+    parts = [f'<a href="{href}" style="color:inherit">{html.escape(name)}</a>' for name, href in links] + [html.escape(current)]
+    return ('<!-- crumbs --><nav aria-label="Breadcrumb" style="max-width:820px;margin:0 auto;padding:12px 16px 0;'
+            "font:12.5px/1.5 -apple-system,'Segoe UI',system-ui,sans-serif;opacity:.75\">" + ' › '.join(parts) + '</nav><!-- /crumbs -->')
+
+
+def add_crumbs(folder, page, text):
+    text = re.sub(r'\n?<!-- crumbs -->.*?<!-- /crumbs -->\n?', '', text, flags=re.S)
+    body = re.search(r'<body[^>]*>\s*(<a class="skip"[^>]*>.*?</a>\s*)?', text, re.S)
+    if body:
+        at = body.end()
+    else:
+        # Fragments with no <body>: put the trail after the last style block before the page heading.
+        h1 = text.find('<h1')
+        if h1 < 0:
+            return text
+        last = text.rfind('</style>', 0, h1)
+        at = last + len('</style>') if last >= 0 else h1
+    return text[:at] + '\n' + crumbs(folder, page, text) + '\n' + text[at:]
+
+
 def apply(root):
     extra = [f'{d}/{f}' for d in ('station-road-on-foot', 'stratford-nppf-decisions') for f in sorted(os.listdir(os.path.join(root, d))) if f.startswith('case-')]
     for rel in list(PAGES) + extra:
@@ -68,6 +104,7 @@ def apply(root):
         text = text[:charset.end()] + ('' if charset.group(0).endswith('\n') else '\n') + block + f'<title>{html.escape(title)}</title>\n' + text[charset.end():]
         if 'class="licence"' not in text:
             text = text.replace('</body>', LICENCE + '\n</body>', 1) if '</body>' in text else text.rstrip('\n') + '\n' + LICENCE + '\n'
+        text = add_crumbs(folder, page, text)
         open(path, 'w', encoding='utf-8').write(text)
         print('ok', rel)
 

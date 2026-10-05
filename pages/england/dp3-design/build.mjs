@@ -139,7 +139,7 @@ const html = page({
   title: 'DP3 Design Policy Decisions',
   description: `How DP3, the August 2026 NPPF's design policy, is applied: what "should be refused if, without clear justification" means, how it enters the S4, S5 and Green Belt balances, and what ${addressed.length} decisions show: ${failed.length} found DP3 failed and every one was refused or dismissed; only ${JUSTIFIED.length} found clear justification.`,
   url: URL,
-  breadcrumb: '<a href="/">Planning Distilled</a> › <a href="/research/">Research</a> › England',
+  breadcrumb: '<a href="/">Planning Distilled</a> › <a href="/research/">Research</a> › <a href="/research/england/">England</a> › DP3 design policy',
   h1: 'DP3: the design policy that says "should be refused"',
   dek: `The August 2026 Framework's design policy, how it enters each kind of decision, and what ${addressed.length} decisions made under it show.`,
   body: says + enters + fig + readings + passed + notEnough + ways + weighed,
