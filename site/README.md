@@ -10,7 +10,8 @@ node site/finish.mjs --indexnow    # after the push is live: notify IndexNow of 
 It:
 
 - fails if any page lacks a `<title>`, description, matching canonical link (all in `<head>`) or an `<h1>`;
-- writes the block between `<!-- pd:meta -->` markers: Open Graph and Twitter card tags, the share image (`assets/og.png`), favicon, snippet and text-and-data-mining permissions, published and modified dates, and schema.org JSON-LD (Article, Dataset for the decisions index, WebApplication for the Navigator, BreadcrumbList);
+- skips redirect stubs (pages with a `<meta http-equiv="refresh">`, left by a build at a page's former address): no metadata, not in the sitemap;
+- writes the block between `<!-- pd:meta -->` markers: Open Graph and Twitter card tags, the share image (`assets/og.png`), favicon, snippet and text-and-data-mining permissions, published and modified dates, and schema.org JSON-LD (Article, Dataset for the decisions index, WebApplication for the Navigator, BreadcrumbList), then the Google Analytics tag (`GA_ID` in `finish.mjs`) with its click listener;
 - regenerates `sitemap.xml` (a page's `lastmod` moves only when its content, ignoring the block, differs from the last commit), `llms.txt` and `llms-full.txt`.
 
 It is idempotent; a second run writes nothing.
@@ -19,12 +20,14 @@ It is idempotent; a second run writes nothing.
 
 1. Build into `main-site`. Every builder writes there by default:
    - Navigator: `cd pages/england/nppf-navigator && npm run build && npm run export:pages && node build/method-page.mjs`
-   - Service village: `node pages/england/service-village/build.mjs --pages`
+   - Service village (a sub-page of the sustainable location page; also rewrites the redirects at its former address): `node pages/england/sustainable-location/service-village/build.mjs --pages`
    - Stratford note: see `pages/authority/stratford-dc/nppf-decisions/build/README.md`
    - Station Road on Foot: see `pages/settlement/claverdon/station-road-on-foot/README.md`
    - Station Road Decision Route: `node pages/settlement/claverdon/station-road-decision-route/build.mjs`
    - Kington Lane Decision Route (needs `../sources` to check quotations): `node pages/settlement/claverdon/kington-lane-decision-route/build.mjs`
    - DP3 design page: `node pages/england/dp3-design/build.mjs`
+   - Factors in decisions (a sub-page of the sustainable location page; built from the location-factors register, so run `python3 tools/location_factors.py` first): `node pages/england/sustainable-location/factors/build.mjs`
+   - Sustainable location page and its `sources/` sub-page (needs `../sources` to check quotations; takes its decision figures from the same register, so build it after `factors/`): `node pages/england/sustainable-location/build.mjs`
    - Policy weight pages (need `../sources`): `node pages/authority/stratford-dc/core-strategy-weight/build.mjs` and `node pages/settlement/claverdon/neighbourhood-plan-weight/build.mjs`
    - `python3 site/seo.py <dir>` adds search metadata to the artifact exports (Stratford note, Station Road) before they are copied in.
 2. `node site/finish.mjs`
