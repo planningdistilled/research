@@ -1,0 +1,29 @@
+{
+  "authority": "Stratford-on-Avon District Council",
+  "base_date": "2026-03-31",
+  "period": "2026-04-01 to 2031-03-31",
+  "published": "2026-09",
+  "annual_need": 1084,
+  "five_year_requirement": 5420,
+  "buffer_percent": 5,
+  "requirement_with_buffer": 5691,
+  "supply_counted": 2764,
+  "supply_components": {
+    "deliverable_sites": 2407,
+    "older_persons_accommodation": 33,
+    "small_site_windfall_allowance": 324
+  },
+  "years": 2.43,
+  "housing_delivery_test": "202% (2025 measurement, published August 2026)",
+  "source": "sources:stratford-dc/SDC-5YHLS-calculation-at-31-March-2026.pdf",
+  "source_url": "https://www.stratford.gov.uk/doc/215079/name/202609%205YHLS%20at%20310326.pdf",
+  "previous": {
+    "base_date": "2025-03-31",
+    "annual_need": 1112,
+    "requirement_with_buffer": 5838,
+    "supply_counted": 2577,
+    "years": 2.21,
+    "source": "sources:stratford-dc/SDC-5YHLS-calculation-at-31-March-2025.pdf",
+    "source_url": "https://www.stratford.gov.uk/doc/214391/name/202603%205YHLS%20calc%20at%20310325.pdf"
+  }
+}
