@@ -1,0 +1,601 @@
+<title>Kington Lane Decision Route</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500&family=Public+Sans:ital,wght@0,400;0,600;0,700;1,400&family=Source+Serif+4:opsz,wght@8..60,400;8..60,600&display=swap">
+<style>
+/* Layout: one reading column; the route as a stepped sequence with a fork; answers set in a code panel at the foot. Companion to the NPPF 2026 Navigator, so it shares its palette and faces. */
+:root {
+  --ground: #eef2f1;
+  --surface: #ffffff;
+  --surface-2: #f6f8f8;
+  --ink: #17212b;
+  --muted: #5a6672;
+  --line: #d5dddd;
+  --accent: #2b5c88;
+  --accent-ink: #ffffff;
+  --accent-soft: #e3ecf4;
+  --refuse: #a3382a;
+  --refuse-soft: #f7e6e3;
+  --approve: #2d7549;
+  --approve-soft: #e3f1e8;
+  --quote: #f4f6f2;
+  --serif: "Source Serif 4", "Iowan Old Style", Georgia, serif;
+  --sans: "Public Sans", -apple-system, "Segoe UI", system-ui, sans-serif;
+  --mono: "IBM Plex Mono", ui-monospace, "SF Mono", Menlo, monospace;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    color-scheme: dark;
+    --ground: #10161b; --surface: #18212a; --surface-2: #1d2731; --ink: #e3e9ee; --muted: #9aa6b2; --line: #2c3945;
+    --accent: #86b0db; --accent-ink: #0e1a26; --accent-soft: #1f3244;
+    --refuse: #e0786a; --refuse-soft: #3a211e; --approve: #6cc08f; --approve-soft: #1b3326; --quote: #1c2620;
+  }
+}
+:root[data-theme="dark"] {
+  color-scheme: dark;
+  --ground: #10161b; --surface: #18212a; --surface-2: #1d2731; --ink: #e3e9ee; --muted: #9aa6b2; --line: #2c3945;
+  --accent: #86b0db; --accent-ink: #0e1a26; --accent-soft: #1f3244;
+  --refuse: #e0786a; --refuse-soft: #3a211e; --approve: #6cc08f; --approve-soft: #1b3326; --quote: #1c2620;
+}
+* { box-sizing: border-box; }
+body { margin: 0; background: var(--ground); color: var(--ink); font: 16px/1.6 var(--sans); padding-inline: 16px; padding-block: 0 56px; }
+main { max-width: 760px; margin: 0 auto; display: grid; gap: 40px; }
+h1, h2, h3 { margin: 0; text-wrap: balance; }
+p { margin: 0; }
+a { color: var(--accent); text-underline-offset: 3px; }
+:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+.code { font-family: var(--mono); font-size: 0.82em; font-weight: 500; color: var(--accent); white-space: nowrap; }
+
+header { padding-block: 36px 0; display: grid; gap: 10px; }
+.crumbs { font-size: 12.5px; color: var(--muted); }
+.crumbs a { color: inherit; }
+.eyebrow { font-size: 12px; letter-spacing: .09em; text-transform: uppercase; color: var(--muted); }
+h1 { font: 600 clamp(28px, 5vw, 38px)/1.12 var(--serif); letter-spacing: -0.01em; }
+.dek { color: var(--muted); max-width: 62ch; }
+.facts { display: flex; flex-wrap: wrap; gap: 6px 18px; font-size: 13.5px; color: var(--muted); }
+.facts strong { color: var(--ink); font-weight: 600; }
+
+.verdict { background: var(--surface); border: 1px solid var(--line); border-top: 4px solid var(--refuse); border-radius: 8px; padding: 22px; display: grid; gap: 10px; }
+.verdict p { font: 400 19px/1.5 var(--serif); }
+.verdict .label { font: 600 12px var(--sans); letter-spacing: .09em; text-transform: uppercase; color: var(--refuse); }
+
+section { display: grid; gap: 14px; }
+h2 { font: 600 24px/1.25 var(--serif); }
+h3 { font: 600 17px/1.35 var(--sans); }
+section > p, .prose p { max-width: 66ch; }
+.prose { display: grid; gap: 12px; }
+
+.bullets { margin: 0; padding-left: 20px; display: grid; gap: 7px; font-size: 15px; max-width: 66ch; }
+blockquote.fw { margin: 0; background: var(--quote); border-left: 3px solid var(--accent); border-radius: 4px; padding: 12px 16px; display: grid; gap: 4px; }
+blockquote.fw p { font: 400 16.5px/1.55 var(--serif); }
+blockquote.fw cite { font: 500 12px var(--mono); color: var(--muted); font-style: normal; }
+
+.reasons { display: grid; gap: 14px; counter-reset: r; }
+.reason { background: var(--surface); border: 1px solid var(--line); border-radius: 8px; padding: 18px; display: grid; gap: 10px; }
+.reason h3 { display: flex; gap: 10px; align-items: baseline; }
+.reason h3 .n { font: 600 13px var(--mono); color: var(--accent); }
+
+/* the route: a real sequence, so it is numbered */
+.route { list-style: none; margin: 0; padding: 0; display: grid; gap: 0; }
+.route li { display: grid; grid-template-columns: 34px minmax(0, 1fr); gap: 12px; position: relative; padding-bottom: 18px; }
+.route li:not(:last-child)::before { content: ""; position: absolute; left: 16px; top: 30px; bottom: 0; width: 2px; background: var(--line); }
+.route .dot { width: 34px; height: 30px; border-radius: 6px; background: var(--accent-soft); color: var(--accent); font: 600 13px/30px var(--mono); text-align: center; }
+.route li.fail .dot { background: var(--refuse); color: var(--accent-ink); }
+.route .body { display: grid; gap: 3px; min-width: 0; padding-top: 3px; }
+.route .q { font-weight: 600; }
+.route .a { color: var(--muted); font-size: 15px; }
+.route .a strong { color: var(--ink); }
+.route li.fail .a strong { color: var(--refuse); }
+
+.fork { display: grid; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); gap: 12px; }
+.branch { border: 1px solid var(--line); border-radius: 8px; padding: 16px; background: var(--surface); display: grid; gap: 8px; align-content: start; }
+.branch.here { border-color: var(--refuse); box-shadow: inset 0 3px 0 var(--refuse); }
+.branch .tag { font: 600 11.5px var(--sans); letter-spacing: .07em; text-transform: uppercase; color: var(--muted); }
+.branch.here .tag { color: var(--refuse); }
+.branch p { font-size: 15px; }
+
+.table-wrap { overflow-x: auto; border: 1px solid var(--line); border-radius: 8px; background: var(--surface); }
+table { border-collapse: collapse; width: 100%; font-size: 14.5px; }
+th, td { text-align: left; vertical-align: top; padding: 10px 12px; border-top: 1px solid var(--line); }
+thead th { border-top: 0; font-size: 12px; letter-spacing: .07em; text-transform: uppercase; color: var(--muted); font-weight: 600; background: var(--surface-2); }
+td:first-child { white-space: nowrap; }
+.pill { display: inline-block; font-size: 12px; font-weight: 600; border-radius: 3px; padding: 1px 7px; }
+.pill.ok { background: var(--approve-soft); color: var(--approve); }
+.pill.no { background: var(--refuse-soft); color: var(--refuse); }
+.pill.na { background: var(--surface-2); color: var(--muted); border: 1px solid var(--line); }
+.note { font-size: 14.5px; color: var(--muted); }
+
+ul.evidence { margin: 0; padding-left: 20px; display: grid; gap: 8px; max-width: 66ch; }
+
+.answers { background: var(--surface); border: 1px solid var(--line); border-radius: 8px; padding: 20px; display: grid; gap: 14px; }
+.steps { margin: 0; padding-left: 20px; display: grid; gap: 4px; }
+.copy-row { display: flex; flex-wrap: wrap; gap: 10px; align-items: center; }
+button.primary { background: var(--accent); color: var(--accent-ink); border: 1px solid var(--accent); border-radius: 6px; padding: 8px 16px; font: 600 14px var(--sans); cursor: pointer; }
+.status { font-size: 13.5px; color: var(--muted); }
+pre#answers-json { margin: 0; max-height: 420px; overflow: auto; background: var(--surface-2); border: 1px solid var(--line); border-radius: 6px; padding: 12px 14px; font: 12.5px/1.5 var(--mono); color: var(--ink); white-space: pre; }
+.judgement dl { margin: 0; display: grid; gap: 8px; }
+.judgement dt { font: 500 13px var(--mono); color: var(--accent); }
+.judgement dd { margin: 0; font-size: 14.5px; max-width: 66ch; }
+
+.tallies { display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 12px; }
+.tally { background: var(--surface); border: 1px solid var(--line); border-radius: 8px; padding: 14px 16px; display: grid; gap: 6px; align-content: start; font-size: 14px; }
+.tally-title { font: 600 11.5px var(--sans); letter-spacing: .07em; text-transform: uppercase; color: var(--muted); }
+.tally-count strong { font: 600 30px/1 var(--serif); color: var(--accent); font-variant-numeric: tabular-nums; margin-right: 4px; }
+.tally-extra { color: var(--muted); font-size: 13.5px; }
+.tally-other { color: var(--muted); font-size: 13.5px; border-top: 1px solid var(--line); padding-top: 6px; }
+.tally-other strong { color: var(--ink); font-variant-numeric: tabular-nums; }
+.tally-link { font-weight: 600; font-size: 13.5px; margin-top: 2px; }
+footer { font-size: 13px; color: var(--muted); display: grid; gap: 8px; border-top: 1px solid var(--line); padding-top: 16px; }
+footer ul { margin: 0; padding-left: 18px; display: grid; gap: 3px; }
+@media (prefers-reduced-motion: reduce) { * { scroll-behavior: auto !important; } }
+
+.cite { font: 500 11.5px var(--mono); color: var(--muted); text-decoration: none; border-bottom: 1px dotted var(--line); white-space: nowrap; }
+.cite:hover, .cite:focus-visible { color: var(--accent); border-bottom-color: var(--accent); }
+q { quotes: "\201C" "\201D" "\2018" "\2019"; }
+blockquote.fw cite a { color: inherit; }
+pre.answers-json { margin: 0; max-height: 360px; overflow: auto; background: var(--surface-2); border: 1px solid var(--line); border-radius: 6px; padding: 12px 14px; font: 12.5px/1.5 var(--mono); color: var(--ink); white-space: pre; }
+.branch.alt { border-color: var(--accent); box-shadow: inset 0 3px 0 var(--accent); }
+.branch.alt .tag { color: var(--accent); }
+.route li.open .dot { background: var(--surface-2); color: var(--muted); border: 1px solid var(--line); }
+td.num, th.num { text-align: right; font-variant-numeric: tabular-nums; white-space: nowrap; }
+table.wrap td:first-child { white-space: normal; }
+.verdict.neutral { border-top-color: var(--accent); }
+.verdict.neutral .label { color: var(--accent); }
+</style>
+
+<main>
+  <header>
+    <nav class="crumbs" aria-label="Breadcrumb"><a href="/">Planning Distilled</a> › <a href="/research/">Research</a> › <a href="/research/settlement/">Settlements</a> › <a href="/research/settlement/claverdon/">Claverdon</a> › Kington Lane Decision Route</nav>
+    <p class="eyebrow"><a href="https://apps.stratford.gov.uk/Eplanningv2/AppDetail/Index/4935dd70-71fb-cc7d-432a-08deecae750f">26/01831/FUL</a> · Stratford-on-Avon District Council</p>
+    <h1>Greenfingers Nurseries, Kington Lane, Claverdon: a step-by-step assessment</h1>
+    <p class="dek">The application taken through the August 2026 National Planning Policy Framework (NPPF) one question at a time, using the NPPF 2026 Navigator: the route the Framework sets, the evidence on the council's file for each step, the decisions behind it, and answers to load into the Navigator.</p>
+    <p class="facts"><span><strong>10</strong> open-market homes</span><span><strong>1.98 ha</strong> plant nursery and storage site</span><span>Green Belt, outside the village</span><span>Evidence as at <strong>6 October 2026</strong></span></p>
+  </header>
+
+  <div class="verdict">
+    <p class="label">The assessment in one paragraph</p>
+    <p>The application argues three things in turn: that the site is previously developed land, failing that grey belt, and failing that very special circumstances. On the documents on the council's file on 6 October 2026, the grey belt route fails its sustainable-location limb: the Highway Authority objects and calls the site <q data-q="hw-unsustainable" data-nocite>a rural and inherently unsustainable location</q>. The previously developed land route is contested at both of its steps. Even if it is passed, the balance that follows meets national policies that say development <q data-q="nppf-s52" data-nocite>should be refused</q>: the Highway Authority finds an unacceptable impact on pedestrian safety, and safe access in a flood has not been shown. Run through the Navigator, both routes end at refusal. Each judgement behind that result is set out below, with what would change it.</p>
+  </div>
+
+  <section id="application">
+    <h2>The application</h2>
+    <p>Greenfingers Nurseries asks for full planning permission to clear the buildings and hardstanding from its site on Kington Lane and build ten detached homes: four bungalows and six houses of one and a half storeys, with two, three and five bedrooms. The site is in the West Midlands Green Belt and the Arden Special Landscape Area, at the hamlet of Barnmoor Green, about a kilometre west of Claverdon village.</p>
+    <div class="table-wrap">
+      <table class="wrap">
+        <thead><tr><th>Fact</th><th>Position on 6 October 2026</th></tr></thead>
+        <tbody>
+          <tr><td>Status</td><td>Pending. Valid 24 July 2026; consultation closed 1 October; target decision date 23 October.</td></tr>
+          <tr><td>Lawful use</td><td>A mixed use of storage and distribution with horticulture, certified by the Council in May 2025 (25/00721/LDE).</td></tr>
+          <tr><td>Scale</td><td>Ten homes on 1.98 hectares, so major development under Annex B. The Golden Rules in <span class="code">GB8</span> apply.</td></tr>
+          <tr><td>Housing supply</td><td>The Council's published supply was 2.21 years at 31 March 2025, well short of five.</td></tr>
+          <tr><td>Framework</td><td>The applicant's documents are written to the December 2024 Framework. The decision will be made under the August 2026 one.</td></tr>
+        </tbody>
+      </table>
+    </div>
+    <h3>Who has said what</h3>
+    <div class="table-wrap">
+      <table class="wrap">
+        <thead><tr><th>Consultee</th><th>Position</th></tr></thead>
+        <tbody>
+          <tr><td>Highway Authority (28 September)</td><td><span class="pill no">Objects</span> Recommends refusal on location and pedestrian safety. Accepts the vehicle access and the trip figures.</td></tr>
+          <tr><td>Claverdon Parish Council (24 September)</td><td><span class="pill no">Objects</span> On Green Belt, location, housing need and loss of an employment site.</td></tr>
+          <tr><td>Ward member (24 September)</td><td><span class="pill no">Objects</span> On location and on harm to character and landscape.</td></tr>
+          <tr><td>County Ecology (25 September)</td><td><span class="pill na">More information</span> Accepts the surveys. Asks for a corrected biodiversity calculation before the decision.</td></tr>
+          <tr><td>Flood authority (23 September)</td><td><span class="pill na">Conditions</span> Accepts the drainage principles and recommends three conditions. Does not address the flooded access.</td></tr>
+          <tr><td>District housing officer (24 September)</td><td><span class="pill na">Advice</span> Recommends considering affordable homes on the site and, if not, a contribution equal to five homes.</td></tr>
+          <tr><td>District open space officer</td><td><span class="pill na">Queries</span> The open space exceeds the standard. Two points of layout to clarify.</td></tr>
+          <tr><td>Rights of Way, Ramblers, National Highways, Police, Severn Trent</td><td><span class="pill ok">No objection</span> Some subject to conditions.</td></tr>
+          <tr><td>Members of the public</td><td>Fifteen comments: nine objecting, five in support, one neutral.</td></tr>
+        </tbody>
+      </table>
+    </div>
+    <p class="note">No response from a landscape officer, a conservation officer or the county archaeologist was on the file. Every quotation on this page is listed, with its document and page, in the <a href="evidence/">evidence register</a>.</p>
+  </section>
+
+  <section id="route">
+    <h2>The route, step by step</h2>
+    <p>The Navigator asks the Framework's questions in order. For this site the order is fixed by three provisions. <span class="code">S5(5)</span> takes Green Belt land out of the ordinary countryside policy. <span class="code">GB6(1)</span> makes development there inappropriate unless it fits a category in <span class="code">GB7</span>. What happens next depends on whether a category is met.</p>
+    <ol class="route">
+      <li><span class="dot">1</span><div class="body"><p class="q">Is the site in the Green Belt?</p><p class="a"><strong>Yes, open Green Belt.</strong> The site is not in the village. The applicant's own appraisal says the development <q data-q="gba-separate">would be physically separate from the village of Claverdon to the east</q>.</p></div></li>
+      <li><span class="dot">2</span><div class="body"><p class="q">Does S5, the policy for land outside settlements, decide it?</p><p class="a"><strong>No.</strong> <q data-q="nppf-s55">This policy does not apply to development proposals in the Green Belt</q>.</p></div></li>
+      <li><span class="dot">3</span><div class="body"><p class="q">Is the development inappropriate?</p><p class="a"><strong>Yes, unless a GB7 category is met.</strong> <q data-q="nppf-gb61">Development in the Green Belt is inappropriate unless it falls within one of the categories in policy GB7.</q></p></div></li>
+      <li class="open"><span class="dot">4</span><div class="body"><p class="q">GB7(1)(e): is this the redevelopment of previously developed land, without substantial harm to openness?</p><p class="a"><strong>Contested at both steps.</strong> The Council's pre-application view and its own 2025 findings on the site point against the whole site qualifying. The openness claim rests mainly on a comparison of built volume. See <a href="#pdl">previously developed land</a> and <a href="#openness">openness</a>.</p></div></li>
+      <li class="fail"><span class="dot">5</span><div class="body"><p class="q">GB7(1)(g): is this grey belt land, with unmet need, in a sustainable location, meeting the Golden Rules?</p><p class="a"><strong>No.</strong> The land is probably grey belt and the need is not in doubt. The location limb fails on the Highway Authority's evidence, and the Golden Rules are not yet met. See <a href="#grey-belt">the grey belt route</a>.</p></div></li>
+      <li><span class="dot">6</span><div class="body"><p class="q">What test applies at the end?</p><p class="a">It depends on steps 4 and 5, as set out below.</p></div></li>
+    </ol>
+    <div class="fork">
+      <div class="branch here">
+        <p class="tag">If neither category is met</p>
+        <h3>Inappropriate development</h3>
+        <p>Refuse unless very special circumstances exist. The harm to the Green Belt, given substantial weight, and any other harm must be <q data-q="nppf-gb62">clearly outweighed by other considerations</q>.</p>
+        <p><strong>Navigator result:</strong> refuse. See <a href="#vsc">very special circumstances</a>.</p>
+      </div>
+      <div class="branch alt">
+        <p class="tag">If GB7(1)(e) is met</p>
+        <h3>Not inappropriate</h3>
+        <p>Approve unless the benefits <q data-q="nppf-s55-balance">would be substantially outweighed by any adverse effects</q>. That is likely where a policy that says <q data-q="nppf-s52" data-nocite>should be refused</q> is failed.</p>
+        <p><strong>Navigator result:</strong> refuse, because two or three such policies are in play. See <a href="#triggers">the S5(5) balance</a>.</p>
+      </div>
+    </div>
+    <p class="note">The Navigator's result is indicative. It follows from the answers given, and the answers that are judgements are listed at <a href="#navigator">the foot of the page</a> so that any of them can be changed.</p>
+  </section>
+
+  <section id="framework">
+    <h2>A case written to the 2024 Framework</h2>
+    <p>The Planning Statement is dated 23 July 2026 and lists the <q data-q="ps-framework">National Planning Policy Framework December 2024</q> as the national policy it applies. Counsel's advice, the Transport Appraisal and the Flood Risk Assessment do the same. The August 2026 Framework took effect on 17 August, before the consultation began. Several of the tests the applicant relies on have changed.</p>
+    <div class="table-wrap">
+      <table class="wrap">
+        <thead><tr><th>The applicant relies on (2024)</th><th>The August 2026 Framework</th></tr></thead>
+        <tbody>
+          <tr><td>Paragraph 11(d), the tilted balance: <q data-q="ps-11d">paragraph 11d) of the Framework is engaged</q></td><td>There is no paragraph 11(d). In the Green Belt the balance in <span class="code">S5(5)</span> applies only after a <span class="code">GB7</span> category is met, and <span class="code">S5(2)</span> says the benefits are likely to be substantially outweighed where a policy that says <q data-q="nppf-s52" data-nocite>should be refused</q> is failed.</td></tr>
+          <tr><td>Paragraph 154(g), previously developed land</td><td><span class="code">GB7(1)(e)</span>. The test is still substantial harm to openness. The Annex B definition still excludes <q data-q="nppf-pdl-excludes" data-nocite>land that is or was last occupied by agricultural or forestry buildings</q>.</td></tr>
+          <tr><td>Paragraph 155, grey belt, with a location test <q data-q="ps-para110" data-nocite>acknowledging that opportunities to maximise sustainable transport solutions will vary between urban and rural areas</q></td><td><span class="code">GB7(1)(g)(iii)</span> points to <span class="code">TR3</span>, which asks for a location that will <q data-q="nppf-tr31a" data-nocite>limit the need to travel, particularly by private car, and offer a genuine choice of transport modes</q>. The sentence about urban and rural areas is not in the 2026 text. The rural clause, <span class="code">TR3(1)(e)</span>, is about taking opportunities to improve connections.</td></tr>
+          <tr><td>Electric vehicle charging points: <q data-q="ps-ev" data-nocite>zero emission vehicles being recognised in Annex 2: Glossary of the Framework as a sustainable transport mode</q></td><td>The 2026 glossary defines sustainable transport modes as <q data-q="nppf-modes">Any efficient, safe and accessible means of transport with overall low impact on the environment, including walking, wheeling, cycling and public transport.</q> Zero emission vehicles are no longer named.</td></tr>
+          <tr><td>Paragraph 158: Golden Rules compliance <q data-q="ps-golden-weight" data-nocite>should be given significant weight</q></td><td><span class="code">GB8(2)</span>: <q data-q="nppf-gb82">substantial weight should be given to the importance of complying with the Golden Rules</q>. Meeting them is also a condition of the grey belt route for a major scheme.</td></tr>
+          <tr><td>Ten homes <q data-q="ps-homes-weight" data-nocite>should be given significant weight</q></td><td><span class="code">HO7(1)</span>: <q data-q="nppf-ho71">substantial weight should be given to the benefits of providing homes</q>. On this point the new Framework is more favourable to the applicant than its own statement.</td></tr>
+          <tr><td>Paragraph 14, neighbourhood plans</td><td><span class="code">S6</span>. It protects a plan for five years after it is made. The Claverdon plan was made in December 2019, so <span class="code">S6</span> is not engaged, as the applicant says of paragraph 14.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </section>
+
+  <section id="pdl">
+    <h2>GB7(1)(e), step one: is the site previously developed land?</h2>
+    <p>This is the applicant's first case: <q data-q="ps-route-e">The principle of redeveloping this site is policy-compliant with paragraph 154g) of the Framework, which allows for the redevelopment of PDL, where there is no substantial harm to the openness of the Green Belt.</q> PDL is previously developed land. Annex B defines previously developed land as <q data-q="nppf-pdl">Land which has been lawfully developed and is or was occupied by a permanent structure and any fixed surface infrastructure associated with it</q>, and then says what it leaves out: <q data-q="nppf-pdl-excludes">Previously developed land excludes: land that is or was last occupied by agricultural or forestry buildings</q>. Horticulture is agriculture for planning purposes.</p>
+
+    <h3>The two readings</h3>
+    <div class="fork">
+      <div class="branch">
+        <p class="tag">The Council's officer, before the application</p>
+        <p><q data-q="counsel-officer-1">Whilst part of the site could be considered as PDL, the extent would need to be demonstrated at application stage as any parts of the site in horticultural (agricultural) use would not be PDL.</q></p>
+        <p>The officer relied on the Council's 2025 certificate, which found horticulture still substantial on the site.</p>
+      </div>
+      <div class="branch">
+        <p class="tag">Counsel for the applicant</p>
+        <p><q data-q="counsel-view">I do not consider that the officer's observations (as set out in paragraphs 8 and 9 above) are correct and that the Site does constitute previously developed land</q>.</p>
+        <p>The argument is that the site is one planning unit in a mixed use, and that a building in mixed use is not an agricultural building: <q data-q="counsel-unit">There is no basis for a subdivision of the sort that arose in Lee Valley.</q></p>
+      </div>
+    </div>
+
+    <h3>What the evidence shows</h3>
+    <ul class="evidence">
+      <li><strong>The certificate found two separate uses.</strong> The Council's decision of 15 May 2025 records <q data-q="lde-notice">two materially different uses occurring. When combining these factors, the uses as presented, are separate within the site.</q></li>
+      <li><strong>Horticulture still occupies a real share of the land.</strong> The officer's report records that <q data-q="lde-area">Around 17-25% of the site area is used for the growing of plants (cover letter)</q>, and quotes the applicant's own sworn statement that <q data-q="lde-east" data-nocite>the eastern part</q> is <q data-q="lde-east">primarily used as a nursery production area</q>. The officer concluded: <q data-q="lde-third">This presents a claim that around one third of the site has been used for agricultural uses.</q> And: <q data-q="lde-substantial">it is clear that there is a substantial agricultural operation occurring at the site currently</q>.</li>
+      <li><strong>The structures are almost all polytunnels.</strong> The applicant's schedule of existing buildings lists 21 structures. Eleven are polytunnels and one is a glasshouse. Together they make up 94% of the footprint and 95% of the volume (<a class="cite" href="evidence/#q-gba-a-total">Existing buildings schedule</a>). The planning history in the Council's report describes the tunnels when they were permitted as <q data-q="lde-tunnels">single span polythene tunnels for the production of horticultural crops</q>.</li>
+      <li><strong>Some have changed use, which helps the applicant.</strong> The same report found the tunnels now mainly shelter imported stock, <q data-q="lde-repurposed">suggesting that the structures have been re-purposed for storage rather than growing</q>.</li>
+      <li><strong>The case the applicant relies on had a part that did not qualify.</strong> Counsel's own account of the Lee Valley judgment is that <q data-q="counsel-lee-valley-north">the northern part of the site was conceded not to be previously developed land</q>, and that an agricultural building means, in the judge's words, <q data-q="counsel-lee-valley-alone" data-nocite>a building used for the purposes of agriculture alone</q>. The advice treats it as settled that the buildings here <q data-q="counsel-accepted">are accepted to be no longer used for agricultural purposes alone</q>. The Council's officer, visiting in April 2025, found an area closed to customers: <q data-q="lde-closed">This area had further greenhouses/polytunnels and there was a small area used for the growing of very immature plants in plug trays</q>.</li>
+      <li><strong>The advice is narrow.</strong> It says: <q data-q="counsel-scope">My advice is sought solely upon whether those observations are correct</q>. It applies <q data-q="counsel-2024">the 2024 edition of the National Planning Policy Framework</q>. It does not address openness, grey belt or location.</li>
+    </ul>
+    <p>Inspectors applying the 2026 Framework have asked whether the whole site qualifies: <q data-q="a30-whole">It is logical to require that all of the appeal site must be PDL to qualify for the exception set out under Policy GB7e of the Framework, and that requirement is not met.</q> Buildings cover about a fifth of this site, 3,892 of 19,772 square metres on the applicant's figures. Much of the rest is open ground where plants stand, not the land <q data-q="ps-covered">almost entirely covered by hardstanding and a number of large buildings</q> that the Planning Statement describes.</p>
+    <!-- boxes:pdl --><!-- /boxes -->
+    <div class="prose">
+      <p><strong>Reading.</strong> This step is open. The applicant's argument is arguable for buildings that are now in mixed use. It is weakest for the eastern production area, which the applicant itself described as primarily a nursery, and it does not deal with the Council's own finding that the two uses are separate within the site. If any part needed for the scheme is not previously developed land, the category is not met.</p>
+    </div>
+  </section>
+
+  <section id="openness">
+    <h2>GB7(1)(e), step two: substantial harm to openness?</h2>
+    <p>If the land qualifies, the question is whether the redevelopment <q data-q="nppf-gb7e" data-nocite>would not cause substantial harm to the openness of the Green Belt</q>. The applicant's Green Belt Appraisal says the harm to spatial openness <q data-q="gba-none" data-nocite>would be None</q> and that <q data-q="gba-visual-none">the level of harm to visual openness arising from the proposed development would be None</q>.</p>
+    <div class="table-wrap">
+      <table>
+        <thead><tr><th>Measure</th><th class="num">Now</th><th class="num">Proposed</th><th class="num">Change</th></tr></thead>
+        <tbody>
+          <tr><td>Footprint of buildings</td><td class="num">3,892 m²</td><td class="num">2,034 m²</td><td class="num">down 48%</td></tr>
+          <tr><td>Volume of buildings</td><td class="num">11,730 m³</td><td class="num">10,607 m³</td><td class="num">down 10%</td></tr>
+          <tr><td>Height</td><td class="num">just over 3 m on average</td><td class="num">5 m to 8 m</td><td class="num">roughly doubled</td></tr>
+          <tr><td>Share of existing volume that is polytunnel or glasshouse</td><td class="num">95%</td><td class="num">none</td><td class="num"></td></tr>
+          <tr><td>Private rear gardens</td><td class="num">none</td><td class="num">4,001 m²</td><td class="num"></td></tr>
+          <tr><td>Roads, drives and other hard surfaces</td><td class="num">not measured</td><td class="num">3,765 m²</td><td class="num"></td></tr>
+        </tbody>
+      </table>
+    </div>
+    <p class="note">Sources: <a class="cite" href="evidence/#q-gba-existing">Green Belt Appraisal 3.1.6</a> <a class="cite" href="evidence/#q-gba-heights">3.1.9</a> <a class="cite" href="evidence/#q-areas-footprint">Site Areas Schedule</a> <a class="cite" href="evidence/#q-gba-a-total">Existing buildings schedule</a>. The applicant gives the falls as 47% and 9.5%.</p>
+    <ul class="evidence">
+      <li><strong>The scale of harm is defined by volume.</strong> The appraisal measures spatial harm by the change in built volume. Its highest level is <q data-q="gba-method">A considerable increase to development within the site which, in the context of the proposed development, is deemed to equate to a &gt;25% increase to built volume.</q> On that scale a scheme with less built volume than the existing tunnels cannot score more than negligible harm. The appraisal says it also took account of the extent, position and height of the buildings, but its scale gives them no measure, and it does not mention gardens, fences or domestic use.</li>
+      <li><strong>The volume being replaced is polythene and glass.</strong> Ninety-five per cent of the existing volume is polytunnels and one glasshouse, on average about three metres high. They would be replaced by ten houses and six detached garages.</li>
+      <li><strong>The appraisal accepts the houses are taller and would be seen.</strong> <q data-q="gba-taller">The height of the proposed buildings would be greater than those currently located on the site, however the massing of built form would be reduced.</q> <q data-q="gba-visible">The proposed development would be visible in views from the footpaths and bridleway to the east of the site.</q> From the ridge footpath the landscape appraisal says <q data-q="lva-panoramic">Panoramic, elevated views of the proposed development would be available from this path</q>.</li>
+      <li><strong>Points for the applicant.</strong> Footprint would halve. The two tunnels and the glasshouse in the south-east corner would give way to open space. Four of the ten homes are bungalows. The existing white tunnels are conspicuous, and where the houses are visible the appraisal expects <q data-q="gba-upper">only the upper parts (i.e. first floors and/or roofs) would be perceptible</q>.</li>
+    </ul>
+    <h3>The closest decision</h3>
+    <p>Appeal 6011972 at Wire Mill Lane, Newchapel, decided on 18 September 2026 under the new Framework, is close on its facts: eight houses replacing low equestrian buildings on agreed previously developed land. There the existing <q data-q="a72-existing">buildings have a volume of between 6,130m3 - 7,270m3, a footprint of around 1,780m2 and heights of 2.9m up to 5.6m</q>, and <q data-q="a72-proposed">The houses would have a volume of 6,260m3 a footprint of around 990m2 – 1,090m2 and a height of up to 8.6m.</q> Footprint and volume fell. The inspector still found that <q data-q="a72-openness">although the number of buildings and volume would reduce, the proposed dwellings would be taller, bulkier and more conspicuous</q>, and added: <q data-q="a72-paraphernalia">The separate residential curtilages would also result in the introduction of domestic paraphernalia for multiple households as well as hardstanding for an access road and driveways which would further impact on openness.</q> The conclusion: <q data-q="a72-substantial">there would be harm to spatial and visual openness and taken together the harm would be substantial</q>.</p>
+    <p>That decision does not settle this one. Those houses were two full storeys and up to 8.6 metres. Other inspectors have found the harm from housing on previously developed land to fall short of substantial, mostly for single replacement homes. Both groups are in the list below.</p>
+    <!-- boxes:openness --><!-- /boxes -->
+    <div class="prose">
+      <p><strong>Reading.</strong> This step is also open, and it is a matter of planning judgement for the decision-maker. The applicant's finding of no harm at all rests on a scale defined by built volume, and gives no weight to the number of buildings, gardens or domestic use. A finding of some harm is likely. Whether it reaches substantial is the question, and the closest decision under the new Framework found that it did.</p>
+    </div>
+  </section>
+
+  <section id="grey-belt">
+    <h2>GB7(1)(g): the grey belt route</h2>
+    <p>The applicant's second case is that <q data-q="ps-route-g">the site can reasonably be considered as a grey belt site and the scheme meets the requirements of paragraphs 155 - 157 of the Framework</q>. In the 2026 Framework that is <span class="code">GB7(1)(g)</span>, which applies only where all four of its limbs are met.</p>
+    <div class="table-wrap">
+      <table class="wrap">
+        <thead><tr><th>Limb</th><th>Test</th><th>This site</th></tr></thead>
+        <tbody>
+          <tr><td><span class="code">(i)</span></td><td>Grey belt land: land that <q data-q="nppf-grey" data-nocite>does not strongly contribute to any of purposes (a), (b), or (d)</q>, developed without fundamentally undermining the rest of the Green Belt</td><td><span class="pill ok">Probably met</span> Those purposes concern large built-up areas, towns merging and historic towns. Annex E says villages are not counted. The applicant reports that the Council accepted the land <q data-q="ps-preapp">can be considered as a grey belt site if it can be demonstrated that the location is sustainable</q>.</td></tr>
+          <tr><td><span class="code">(ii)</span></td><td>Evidenced unmet need</td><td><span class="pill ok">Met</span> For housing this means no five-year supply. The Council's published figure is 2.21 years.</td></tr>
+          <tr><td><span class="code">(iii)</span></td><td><q data-q="nppf-gb7g-iii">The development would be in a sustainable location, with particular reference to policy TR3 of this Framework</q></td><td><span class="pill no">Not met</span> See <a href="#location">the location</a>.</td></tr>
+          <tr><td><span class="code">(iv)</span></td><td>For major housing, compliance with the Golden Rules in <span class="code">GB8</span></td><td><span class="pill no">Not yet met</span> See <a href="#gb8">the Golden Rules</a>.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </section>
+
+  <section id="location">
+    <h2>The location: TR3</h2>
+    <blockquote class="ev" data-q="nppf-tr31a"></blockquote>
+    <p>The Navigator breaks this into questions about the walking route, the services and the public transport, then asks for the judgement. The answers below are taken from the applicant's Transport Appraisal and the Highway Authority's response.</p>
+    <div class="table-wrap">
+      <table class="wrap">
+        <thead><tr><th>Navigator question</th><th>Answer</th><th>Evidence</th></tr></thead>
+        <tbody>
+          <tr><td>Footway on the walking route</td><td>Gaps where people walk in the carriageway; narrow elsewhere</td><td>Kington Lane, about 250 metres to the main road, has no footway: <q data-q="hw-carriageway">pedestrians would be required to walk within the carriageway of Kington Lane, which is unlit and rural in character</q>. On Henley Road, <q data-q="hw-henley">It is well below the 2m standard width and too narrow for a pushchair/buggy to be easily accommodated.</q></td></tr>
+          <tr><td>Lighting</td><td>Unlit</td><td>The applicant: <q data-q="ta-lane">Kington Lane is principally an unlit rural lane</q>. The Highway Authority describes <q data-q="hw-distance" data-nocite>rural roads without the benefit of footways or street lighting</q>.</td></tr>
+          <tr><td>Speed limits</td><td>60 mph on the lane; 50 mph on Henley Road; 30 mph in the village</td><td><q data-q="ta-limit">It is subject to the national speed limit (60mph)</q>. The Henley Road footway is narrow <q data-q="hw-henley" data-nocite>where the speed limit remains 50mph</q>.</td></tr>
+          <tr><td>Highest evidenced speed</td><td>32.3 mph</td><td>The applicant's week-long count on Kington Lane in October 2025. The 85th percentile speed for the week was 31.4 mph one way and 30.6 mph the other, with about 300 vehicles a day on weekdays (<a class="cite" href="evidence/#q-ta-speeds-ne">Transport Appraisal, Appendix C</a>). Traffic on the lane is slow and light, which is in the applicant's favour. No survey was made on Henley Road.</td></tr>
+          <tr><td>Everyday services</td><td>About 800 metres to 2 kilometres</td><td>The applicant's valuer puts the site <q data-q="evr-distance">approximately 0.6 miles (1.0 km) from Claverdon village</q>. The Transport Appraisal gives no walking distance to any facility, only that <q data-q="ta-isochrone">all facilities within the village with the exception of the railway station is within 2km of the site</q>.</td></tr>
+          <tr><td>Bus</td><td>Minimal</td><td>The Highway Authority puts the nearest stops <q data-q="hw-distance" data-nocite>approximately 1km from the site</q>. On the operators' registered timetables Claverdon has one bus on a Monday morning and one return journey on a Wednesday. The Transport Appraisal's statement that the village has <q data-q="ta-bus" data-nocite>the 510 &amp; 511 bus services Monday-Friday</q> does not match them.</td></tr>
+          <tr><td>Rail</td><td>None within walking distance</td><td><q data-q="hw-distance" data-nocite>Claverdon Railway Station is approximately 2.5km away</q>. It has roughly one train every two hours on weekdays and none on Sundays.</td></tr>
+          <tr><td>Connectivity Tool</td><td>Not run</td><td><span class="code">TR3(2)</span> says the tool <q data-q="nppf-tr32">should be used alongside other relevant quantitative or qualitative evidence in assessing the connectivity of particular locations proposed for development</q>. No document on the file mentions it.</td></tr>
+        </tbody>
+      </table>
+    </div>
+
+    <h3>The Highway Authority's view</h3>
+    <blockquote class="ev" data-q="hw-distance"></blockquote>
+    <p>Its active travel officers conclude: <q data-q="hw-active-travel">This application is not sustainable from an active travel perspective. There are no suitable and accessible pedestrian routes into Claverdon which will lead to a reliance on motor vehicles for short journeys.</q> The Authority raised no objection to nine homes here in 2011, and explains the change: <q data-q="hw-2011">planning policy and the emphasis placed upon sustainable travel have evolved, and it is appropriate to consider such matters in the assessment of the current proposal</q>.</p>
+    <p class="note">The letter says the scheme is contrary to <q data-q="hw-tr3" data-nocite>Local Plan Policy TR3</q>. TR3 is a policy of the national Framework, not of the local plan. The Core Strategy's transport policy is CS.26. A reason for refusal would need the right reference.</p>
+
+    <h3>What the applicant offers, and whether it counts</h3>
+    <p><span class="code">TR3(1)(a)</span> allows for a location that can be made sustainable, <q data-q="nppf-tr31a-made">taking into account planned improvements, including any provided for as part of the development itself</q>. The applicant points to three things.</p>
+    <ul class="evidence">
+      <li><strong>A path across the field to the east, towards the bridleway and the school.</strong> The Transport Appraisal says <q data-q="ta-link">a link will be delivered to connect to this pathway across the field to the east of the development</q>. The Highway Authority found that <q data-q="hw-link-lines">this land has not been identified within either the red-line application boundary or the blue-line ownership plan</q>, and its active travel officers that <q data-q="hw-link-deliverable">no permanent access over it can be guaranteed. The surface is rough and not fully accessible. For these reasons it cannot be considered as contributing to active travel access to the development.</q> Of the bridleway beyond: <q data-q="hw-bridleway">it is overgrown and its width is uncertain</q>. The Rights of Way team has no objection in principle and adds that the applicant should obtain <q data-q="row-link" data-nocite>the consent of the relevant landowners</q>.</li>
+      <li><strong>A footway on Henley Road.</strong> The Planning Statement says <q data-q="ps-footpath">There is a footpath on this side of Henley Road, connecting the site with the community facilities within the village.</q> That is the footway the Highway Authority found too narrow for a pushchair, beside 50 mph traffic, and it starts 250 metres from the site along a lane with none.</li>
+      <li><strong>A short footway at the site entrance.</strong> The Highway Authority's road safety advisers said at pre-application stage that it <q data-q="tn1-footway">does not connect to any existing footway provision on Kington Lane. This could cause uncertainty for pedestrians.</q></li>
+    </ul>
+    <p>The Highway Authority lists what it would want: <q data-q="hw-bus-stops">a pair of bus stops with hard standing on Henley Road at the junction with Kington Lane</q>, formal passing places on the lane, and a footway along the access. None is offered. The applicant's position is that it <q data-q="tn1-contributions">would be willing to provide fair and reasonable financial contributions towards ongoing maintenance and upgrades to the local network</q>.</p>
+
+    <h3>The applicant's own description</h3>
+    <p>The Planning Statement accepts the car would be the main means of travel: the parking is provided <q data-q="ps-car">recognising that most families will be reliant on a car for most of their journeys</q>, and the buses <q data-q="ps-bus-limited" data-nocite>are limited services</q>. It says the site is <q data-q="ps-not-isolated" data-nocite>not an isolated location within open countryside</q>. Two of the applicant's other reports describe the same place differently. The report on why the site cannot stay in employment use says offices are <q data-q="evr-isolated">not viable due to the site's rural and isolated location, lack of meaningful public transport connectivity</q>. The report on why affordable homes should not be built on the site says <q data-q="ah-location">affordable housing requires closer and more substantial local amenities and transport links, which isn’t the case for commuters who live in the Village</q>.</p>
+
+    <h3>Fewer lorries</h3>
+    <p>The applicant says removing the nursery's lorries offsets the location. On its own figures the nursery generated about <q data-q="ta-existing-trips" data-nocite>54 (27 in and 27 out) vehicle movements per day</q>, a figure from 2011, and the houses would generate <q data-q="ta-proposed-trips" data-nocite>a total of 63 throughout the day</q>. Heavy goods vehicle traffic to be removed is <q data-q="ta-hgv">on average there are 1-2 articulated HGV movements per week</q>, with some rigid lorries. So the Transport Appraisal's conclusion that the scheme <q data-q="ta-reduce" data-nocite>would reduce overall daily traffic figures</q> does not follow from its own numbers. The Highway Authority calls the trips <q data-q="hw-trips" data-nocite>low and comparable in comparison to the existing business</q> and treats the lost lorries as an added benefit.</p>
+    <p>At Wire Mill Lane the same argument was made and did not change the result: <q data-q="a72-trips">The appellant states that there would be a reduction in the number of vehicle movements to and from the site. Nevertheless, the new occupants would not be in a location that would limit the need to travel, particularly by private car, or offer a genuine choice of transport modes for residents and users.</q></p>
+    <!-- boxes:location --><!-- /boxes -->
+    <div class="prose">
+      <p><strong>Reading.</strong> On the evidence as it stands, the location limb is not met. The first 250 metres of every walk is in the carriageway of an unlit lane, the footway beyond is too narrow for a pushchair, buses run on two days a week from a stop a kilometre away, and the main measure offered to improve matters is on land outside the application. The body responsible for the roads says so in terms. Failing this limb makes the scheme inappropriate development, whatever the grey belt status of the land.</p>
+    </div>
+  </section>
+
+  <section id="gb8">
+    <h2>The Golden Rules: GB8</h2>
+    <p>Ten homes is major development, so the grey belt route also needs the three Golden Rules to be met: <q data-q="nppf-gb81">all of the following contributions (‘Golden Rules’) should be made</q>. The applicant says the scheme <q data-q="ps-golden">will provide an off-site contribution equivalent to 50% affordable housing as part of the proposals, and it will deliver any necessary improvements to local infrastructure along with accessible public green spaces</q>.</p>
+    <div class="table-wrap">
+      <table class="wrap">
+        <thead><tr><th>Rule</th><th>What is offered</th><th>Position</th></tr></thead>
+        <tbody>
+          <tr><td><span class="code">(a)</span> Affordable housing at 50%</td><td>No affordable home on the site. A payment said to be equivalent to 50%, with no figure in any of the applicant's documents. The Planning Statement's title page promises <q data-q="ps-hots">draft S106 HoTs</q>, meaning draft heads of terms for a section 106 planning obligation, but none are in it. The applicant's timeline puts the agreement in the first quarter of 2027.</td><td><span class="pill no">Not secured</span> The Council's own calculation sheet is run at 35% and gives £274,750 (<a class="cite" href="evidence/#q-calc-total">calculator</a>). The housing officer recommends <q data-q="housing-five">a contribution equivalent to 5 dwellings</q>, which at the sheet's rate would be £392,500 before indexation. The officer also asks whether <q data-q="housing-onsite" data-nocite>on-site affordable housing provision would instead be appropriate</q>.</td></tr>
+          <tr><td><span class="code">(b)</span> <q data-q="nppf-gb81b" data-nocite>Necessary improvements to local or national infrastructure</q></td><td>A general willingness to contribute. No bus stops, passing places or off-site footway.</td><td><span class="pill no">Not met</span> The Highway Authority objects and lists works that are not offered.</td></tr>
+          <tr><td><span class="code">(c)</span> Green space accessible to the public</td><td>4,503 square metres of open space on the site, in three areas.</td><td><span class="pill na">Met in quantity</span> The open space officer says it <q data-q="pos-exceeds">exceeds the minimum required (612.51m2) by a significant margin</q>. How the public would reach it, and who would manage it, is not settled: the road is to stay private and the existing gates <q data-q="ta-gates">will be retained in their current form</q>.</td></tr>
+        </tbody>
+      </table>
+    </div>
+    <ul class="evidence">
+      <li><strong>On-site provision is the Framework's starting point.</strong> <span class="code">HO8(1)</span> says affordable housing <q data-q="nppf-ho81" data-nocite>should be provided on-site unless</q> off-site delivery nearby would do better or a payment can be robustly justified. The applicant's report addresses the Core Strategy and the 2024 Framework, not this test.</li>
+      <li><strong>The case for a payment rests on a canvass of housing associations.</strong> The report says it <q data-q="ah-negative">has received a negative response from all 13 Affordable Housing Providers</q>. The canvass had <q data-q="ah-deadline" data-nocite>a deadline of Wednesday 12th November 2025</q>, before the pre-application enquiry was made in December 2025 (<a class="cite" href="evidence/#q-ps-preapp-date">Planning Statement, p.5, 3.1</a>). The first reason the report gives for the refusals is that <q data-q="ah-reasons">five dwellings is too few units to warrant any interest</q>.</li>
+      <li><strong>The housing officer takes a different view of demand.</strong> <q data-q="housing-popular">we are satisfied that Claverdon would be a popular location for prospective tenants/purchasers given the scale of development proposed in this case</q>. The village has <q data-q="housing-six">only a very limited supply of such housing: 6 homes in total</q>.</li>
+      <li><strong>No viability case is made.</strong> <span class="code">GB8(3)</span> allows a viability assessment in three circumstances. None is claimed. The report titled Economic Viability Report is about whether the site could stay in commercial use: its brief was <q data-q="evr-scope">to assess whether the existing lawful use of the Site and other reasonable alternative commercial uses are economically viable</q>.</li>
+    </ul>
+    <p>The closest decision is Hatton Station, in neighbouring Warwick district (appeal 6006637, 23 September 2026). Twenty-eight affordable homes met rules (a) and (c) and failed (b): <q data-q="a37-highway-authority">necessary local highway infrastructure improvements have not been suitably identified, substantiated, or secured. This conclusion aligns with the position of the Highway Authority, which considers the mitigation measures proposed by the appellant to be inadequate.</q> A willingness to pay was not enough: <q data-q="a37-willing">notwithstanding the appellant’s willingness to fund certain improvements, it has not been satisfactorily demonstrated that necessary improvements to local infrastructure would be delivered</q>.</p>
+    <!-- boxes:gb8 --><!-- /boxes -->
+    <div class="prose">
+      <p><strong>Reading.</strong> Not yet met. Rule (a) could be met by a signed obligation at the right level, if a payment in place of homes on the site is justified. Rule (b) is the harder one, because it turns on the same missing walking route as the location limb.</p>
+    </div>
+  </section>
+
+  <section id="triggers">
+    <h2>If GB7(1)(e) is met: the S5(5) balance</h2>
+    <p>Suppose the site is previously developed land and the harm to openness is not substantial. The scheme is then not inappropriate, and <span class="code">S5(5)</span> says it should be approved unless the benefits <q data-q="nppf-s55-balance" data-nocite>would be substantially outweighed by any adverse effects</q>. That is a strong tilt towards approval. But <span class="code">S5(2)</span> says the benefits are likely to be substantially outweighed where a proposal would <q data-q="nppf-s52">fail to comply with one of the national decision-making policies which state that development proposals should be refused in specific circumstances</q>. The location is not a gateway on this route, but three such policies are in play.</p>
+    <div class="reasons">
+      <div class="reason" id="tr64">
+        <h3><span class="n">TR6(4)</span>Highway safety</h3>
+        <p><span class="code">TR6(4)</span> says proposals should be refused if they would have a severe impact on the network <q data-q="nppf-tr64">or an unacceptable impact on highway safety</q>. The Highway Authority's conclusion uses those words:</p>
+        <blockquote class="ev" data-q="hw-conclusion"></blockquote>
+        <p>The objection is about people on foot, not the junction. The Authority finds the access <q data-q="hw-access-ok" data-nocite>capable of providing acceptable visibility in both directions</q> and accepts the trip figures. The applicant can point to slow, light traffic on the lane and to its finding that <q data-q="ta-collisions">there have been no recorded collisions in the submitted search area</q>. The Authority has invited a reply: <q data-q="hw-address">The applicant should address the concerns identified below or provide robust evidence and justification where they disagree with the recommendations made.</q> None was on the file on 6 October.</p>
+      </div>
+      <div class="reason" id="f72">
+        <h3><span class="n">F7(2)</span>Flood risk on the only access</h3>
+        <p>The houses are in Flood Zone 1 and outside the modelled flood extents. The way in is not. The applicant's assessment says <q data-q="fra-surface">The site and its access from Kington Lane are at high to low risk of surface water flooding.</q> In the design flood, <q data-q="fra-depth">Access to the site is provided via Kington Lane, which is modelled to host flood depths of 0.19m.</q> <q data-q="fra-hazard">During the design 1%AEP+CC event the junction is predicted to flood with hazard of Danger for Some /Danger for Most category.</q> The design event is the 1 in 100 year storm with an allowance for climate change.</p>
+        <p><span class="code">F7(2)</span> says that where development is proposed in a location known to be at risk from any form of flooding <q data-q="nppf-f72" data-nocite>it should be refused unless</q> five things are shown. The third is that <q data-q="nppf-f72c">Any residual risk can be safely managed, and safe access and escape routes are included where appropriate, as part of an agreed emergency plan</q>. No other route out is described and no emergency plan is proposed. The assessment's answer is that <q data-q="fra-emergency">Any flooding of such magnitude would be temporary and thus the access would not be impeded for a long time. Emergency services access would still be possible.</q> It adds that residents <q data-q="fra-forecasts" data-nocite>should however take account of weather forecasts and avoid travelling in particularly wet weather conditions</q>.</p>
+        <p>The assessment reports that <q data-q="fra-llfa-said">the LLFA have advised during the consultation meeting that the above would not be a reason for objection to the scheme</q>. LLFA is the Lead Local Flood Authority, the County Council. Its written response of 23 September recommends drainage conditions and says <q data-q="llfa-principles">the applicant has demonstrated the principles of an acceptable surface water management strategy at the site</q>. It does not mention the access, the hazard or an emergency plan.</p>
+        <p>The sequential test is a second point. The assessment itself says the test <q data-q="fra-sequential">is normally required if any part of the site (including access routes, land raising, or vulnerable uses) lies in an area at risk of flooding</q>. <span class="code">F5(2)</span> exempts a site at risk from surface water only where occupiers would remain safe in accordance with <span class="code">F7</span>, or where <q data-q="nppf-f52">No built development within the site boundary, including access or escape routes, land raising or other potentially vulnerable elements, would be located on an area that would be at risk of flooding from any source</q>. The assessment does not apply the test to this site, or say which exemption it relies on. The Planning Statement does not mention it.</p>
+        <p>The depth here is modest. An appeal at St Austell (6010729) concerned an access that <q data-q="a29-depth">could flood to a maximum of 0.68m</q>; there the buildings were also clear of flooding, and the inspector held that <q data-q="a29-plan">in the absence of a robust formal emergency plan, I cannot be sure that future occupants would be safe during a flood event</q>. An emergency plan, agreed with the Council, is the obvious way to close this point.</p>
+      </div>
+      <div class="reason" id="dp33">
+        <h3><span class="n">DP3(3)</span>Design: movement</h3>
+        <p><span class="code">DP3(3)</span> says <q data-q="nppf-dp33">Development proposals should be refused if, without clear justification, they conflict with paragraph 1 of this policy or relevant aspects of the principles in paragraph 2</q>. One of those principles, <span class="code">DP3(2)(d)</span>, is movement: connections for walking, wheeling, cycling and public transport. The active travel finding quoted above is a conflict with it. This is the most arguable of the three, because the Framework does not define a clear justification and inspectors have read it in two ways. The result does not depend on it.</p>
+        <p>The design itself is also in issue. The applicant's Design and Access Statement records the Council's pre-application view of <q data-q="das-preapp">the cul-de-sac layout which was considered quite domestic and suburban for a rural location</q>. The ward member calls it a <q data-q="ward-character" data-nocite>Suburban style development</q>. The Village Design Statement, part of the Neighbourhood Plan, says <q data-q="np-fringe">the fringes of Claverdon Parish consist of scattered housing such as Kington Lane, Gannaway, around Lye Green, etc.</q> and that <q data-q="np-density">higher density development on the edges of the village should be avoided</q>. No design or landscape officer's view was on the file, so the Navigator answers below leave these out.</p>
+      </div>
+    </div>
+    <!-- boxes:triggers --><!-- /boxes -->
+
+    <h3>The other questions the Navigator asks</h3>
+    <div class="table-wrap">
+      <table class="wrap">
+        <thead><tr><th>Policy</th><th>Position</th></tr></thead>
+        <tbody>
+          <tr><td><span class="code">N2(2)</span> Biodiversity</td><td><span class="pill ok">No trigger</span> Reptiles are the one protected group found: <q data-q="pea-reptiles">Up to four Common Lizards and two juvenile Grass Snakes were recorded</q>. County Ecology says it is <q data-q="eco-surveys" data-nocite>satisfied with the protected species survey effort</q>. It still asks for more before the decision: <q data-q="eco-h5">the loss of hedgerow H5 is not accounted for in the metric spreadsheet</q>, and the reptile mitigation needs a plan of where the animals would go, which it says could be left to a condition.</td></tr>
+          <tr><td><span class="code">N6(2)</span> Veteran trees</td><td><span class="pill na">Not assessed</span> The tree report's desk check found no veteran trees: <q data-q="aia-absent">The Site was absent of these non-statutory designations.</q> Its own schedule records ash T20, with a stem of 1.25 metres, in the age class "Vet" (<a class="cite" href="evidence/#q-aia-t20">tree schedule, T20</a>). The tree is kept, in the western open space, and no building is shown near it. The report does not discuss it as a veteran. It gives the tree a root protection radius of 15 metres. The guidance it cites for veteran trees is <q data-q="aia-buffer">Fifteen times the diameter of its stem or 5m from the edge of its canopy</q>, which would be 18.75 metres.</td></tr>
+          <tr><td><span class="code">N2(1)(d)</span>, <span class="code">DP3(2)(c)</span> Trees and hedgerows</td><td><span class="pill na">Some loss</span> All the better individual trees are kept. One hedge, one group and parts of two more are removed, one of them <q data-q="aia-g4" data-nocite>To implement the new proposed plot garden fence boundaries</q>. The later splay note adds one ash to fell and <q data-q="splay-g8" data-nocite>c. 20-30 m of the understory within G8</q> to cut back. The Green Belt Appraisal's statement that <q data-q="gba-no-vegetation" data-nocite>No vegetation would be removed as a result of the proposed development, save for an ornamental hedgerow</q> is out of date. No count of replacement planting is given.</td></tr>
+          <tr><td>Landscape and character</td><td><span class="pill na">Disputed</span> The applicant rates every effect neutral, while accepting the site is <q data-q="lva-valued" data-nocite>located within a valued landscape</q> and that the scheme <q data-q="lva-views" data-nocite>would be visible in views B2 and B4 within valued landscape B</q> of the Neighbourhood Plan. The ward member sees <q data-q="ward-character">an unwelcome departure from the current evolution of the hamlet</q>. No lighting or night-time assessment has been made.</td></tr>
+          <tr><td>Heritage</td><td><span class="pill na">Not assessed</span> There is no heritage statement. The landscape appraisal notes <q data-q="lva-heritage" data-nocite>a listed building (Fox Hill) located along Henley Road, circa 475m north east of the site</q>. The National Heritage List also records a scheduled monument, Barnmoor Wood camp, under a kilometre to the west. The Village Design Statement refers to <q data-q="np-hillfort">the remains of the defensive earth works of a small Iron Age hill fort</q> at Barnmoor, off Kington Lane. Nothing on the file suggests harm, and nothing rules it out.</td></tr>
+          <tr><td><span class="code">S6</span> Neighbourhood plan</td><td><span class="pill ok">Not engaged</span> The plan must have been made <q data-q="nppf-s61" data-nocite>five years or less before the date on which the decision is made</q>. It was made in December 2019.</td></tr>
+          <tr><td>Development plan</td><td><span class="pill na">Some conflict</span> See below.</td></tr>
+        </tbody>
+      </table>
+    </div>
+
+    <h3 id="plan">The development plan</h3>
+    <ul class="evidence">
+      <li><strong>Location policies.</strong> The Parish Council accepts that its own Policy H1, which resists housing outside the village boundary, <q data-q="pc-h1" data-nocite>is now inconsistent with NPPF, Policy GB7 and should now be given Very Limited planning weight</q>.</li>
+      <li><strong>Brownfield land.</strong> Neighbourhood Plan Policy H3 says <q data-q="np-h3-head">The redevelopment of brownfield land to create new housing will be supported subject to the following criteria</q>. One criterion is that <q data-q="np-h3">The use would not conflict with any of the purposes of including land within the Green Belt or represent inappropriate development within the Green Belt</q>. So H3 supports the scheme only if it passes <span class="code">GB7</span>. It does not help to decide whether it does.</li>
+      <li><strong>Employment land.</strong> Core Strategy Policy CS.22 and Neighbourhood Plan Policy E1 protect employment sites. The Parish Council finds conflict with both. The applicant relies on marketing and on relocation. The marketing was on terms <q data-q="mkt-terms">that the ongoing business was not for sale and that offers to redevelop the site for residential purposes would not be accepted</q>, which the Planning Statement describes as <q data-q="ps-open-offers">the vendor being open to all offers being considered</q>. Two of the eleven enquiries are logged as <q data-q="mkt-business">Wanted to buy the Business</q>. E1 supports redevelopment that <q data-q="np-e1" data-nocite>will facilitate the relocation of an existing business to a more suitable site</q>. The business <q data-q="ps-relocate" data-nocite>is actively looking for an opportunity to re-locate</q>. No site is named, and nothing ties relocation to the permission.</li>
+      <li><strong>Housing mix.</strong> Four of the ten homes have five bedrooms. The applicant accepts <q data-q="ps-mix">these proposals do not entirely meet with this mix</q> in Core Strategy Policy CS.19.</li>
+    </ul>
+  </section>
+
+  <section id="vsc">
+    <h2>If no GB7 category is met: very special circumstances</h2>
+    <p>The applicant's third case is that, if the scheme is inappropriate, very special circumstances exist. Its starting point is that <q data-q="ps-harm-definition">the harm to the Green Belt is harm by way of definition only, with no other harms identified</q>. On the consultation responses that is no longer so: the Highway Authority identifies harm to pedestrian safety and an unsustainable location. Under <span class="code">GB6(2)</span> the Green Belt harm carries substantial weight, every other harm is added to it, and the total must be clearly outweighed.</p>
+    <div class="table-wrap">
+      <table class="wrap">
+        <thead><tr><th>Circumstance claimed</th><th>Position on the file</th></tr></thead>
+        <tbody>
+          <tr><td>Ten homes against a supply shortfall</td><td>Real, and <span class="code">HO7(1)</span> gives housing substantial weight. Inspectors have moderated it for small schemes in car-dependent places: at Wire Mill Lane eight homes at a 1.92-year supply came to <q data-q="a72-benefits" data-nocite>moderate</q> benefits overall.</td></tr>
+          <tr><td>An affordable housing payment equal to 50%</td><td>No figure, no heads of terms, nothing signed. It is also a requirement of the grey belt route, not an extra.</td></tr>
+          <tr><td>Removing the commercial use and its lorries</td><td>About one or two articulated lorries a week on the applicant's figures, and total daily traffic would rise from about 54 to 63 movements.</td></tr>
+          <tr><td>Replacing the buildings with a better-looking scheme</td><td>Disputed. See <a href="#openness">openness</a> and the ward member's view.</td></tr>
+          <tr><td>More green and permeable space</td><td>Shown on the plans. Drainage discharge would be limited to the greenfield rate, which the flood authority accepts in principle.</td></tr>
+          <tr><td>Biodiversity gains <q data-q="ps-gain-weight" data-nocite>substantially more than the required 10%</q></td><td>The applicant's ecologist gives <q data-q="pea-gain" data-nocite>a gain of 57.47% in habitat units, an 11.55% gain in hedgerow units, and a 12.0% gain in watercourse units</q>; the Planning Statement gives the hedgerow figure as <q data-q="ps-gain" data-nocite>13%</q>. The hedgerow figure leaves out a hedge that is to be removed. County Ecology accepts only that the scheme <q data-q="eco-ten" data-nocite>can likely achieve the statutory 10%</q>. Nothing secures more.</td></tr>
+          <tr><td>A footpath link to the school and village</td><td>On land outside the application, and not deliverable in the Highway Authority's view.</td></tr>
+          <tr><td>Relocating the business and keeping its jobs</td><td>No site identified. Not tied to the permission. Seven staff.</td></tr>
+          <tr><td>Compliance with the Golden Rules</td><td>Not yet shown. See <a href="#gb8">the Golden Rules</a>.</td></tr>
+        </tbody>
+      </table>
+    </div>
+    <p>An absence of harm on other matters does not add weight in favour. At Brickhouse Lane, Newchapel (appeal 6010313) the inspector held that <q data-q="a13-neutral">the absence of harm would be a neutral matter which would not carry weight in favour of the scheme</q>.</p>
+    <!-- boxes:vsc --><!-- /boxes -->
+    <div class="prose">
+      <p><strong>Reading.</strong> On the file as it stands, very special circumstances are not shown. The case rests mainly on housing supply. The other circumstances claimed are unsecured, small on the applicant's own figures, or disputed by a consultee.</p>
+    </div>
+  </section>
+
+  <section id="conflicts">
+    <h2>Where the applicant's documents pull against each other</h2>
+    <div class="table-wrap">
+      <table class="wrap">
+        <thead><tr><th>One document says</th><th>Another says</th></tr></thead>
+        <tbody>
+          <tr><td>Planning Statement: <q data-q="ps-not-isolated">This is, therefore, not an isolated location within open countryside.</q></td><td>Economic Viability Report: <q data-q="evr-isolated" data-nocite>the site's rural and isolated location, lack of meaningful public transport connectivity</q>.</td></tr>
+          <tr><td>Transport Appraisal: the scheme <q data-q="ta-reduce" data-nocite>would reduce overall daily traffic figures</q>.</td><td>The same appraisal: about 54 movements a day now and 63 proposed.</td></tr>
+          <tr><td>Green Belt Appraisal: <q data-q="gba-no-vegetation" data-nocite>No vegetation would be removed as a result of the proposed development, save for an ornamental hedgerow</q>.</td><td>The tree reports: one hedge, one group and parts of two groups removed, one ash felled, and 20 to 30 metres of roadside understorey cut back.</td></tr>
+          <tr><td>Tree report, desk check: no veteran trees recorded for the site.</td><td>Tree report, schedule: ash T20 in the age class "Vet".</td></tr>
+          <tr><td>Planning Statement: the vendor was <q data-q="ps-open-offers" data-nocite>open to all offers</q>.</td><td>Marketing Report: residential offers <q data-q="mkt-terms" data-nocite>would not be accepted</q> and the business <q data-q="mkt-terms" data-nocite>was not for sale</q>.</td></tr>
+          <tr><td>Planning Statement: the whole site is previously developed land, <q data-q="ps-covered" data-nocite>almost entirely covered by hardstanding and a number of large buildings</q>.</td><td>The applicant's schedules: buildings cover about a fifth of the site, and 95% of their volume is polytunnel and glasshouse.</td></tr>
+          <tr><td>Counsel's advice: <q data-q="counsel-area">The Site extends to approximately 1.84 hectares</q>.</td><td>Site Areas Schedule: 19,772 square metres, which is 1.98 hectares.</td></tr>
+          <tr><td>Transport Appraisal: buses <q data-q="ta-bus" data-nocite>Monday-Friday</q>.</td><td>The registered timetables: one bus on a Monday and one return on a Wednesday.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </section>
+
+  <section id="change">
+    <h2>What would change this assessment</h2>
+    <p>The file is not closed. The Navigator's answers would move if any of these arrived.</p>
+    <ul class="bullets">
+      <li>A walking route to the village that is within the applicant's control, usable all year by a pushchair or wheelchair, and secured by condition or obligation; or the withdrawal of the Highway Authority's objection.</li>
+      <li>Evidence that every part of the site the scheme needs is previously developed land, dealing with the eastern production area and the Council's 2025 findings.</li>
+      <li>An openness assessment that weighs height, the number of buildings, gardens and domestic use, not built volume alone.</li>
+      <li>A signed planning obligation: affordable housing at the level the Council requires, with the justification <span class="code">HO8(1)</span> asks for if it is to be a payment; the infrastructure the Highway Authority identifies; and public access to the open space.</li>
+      <li>An emergency plan for flooding of the access, agreed with the Council, and a sequential test or a reasoned case that <span class="code">F5(2)</span> exempts the site.</li>
+      <li>A corrected biodiversity calculation, a plan for the reptiles, and an assessment of ash T20 as a veteran tree.</li>
+      <li>A Connectivity Tool result for the site, as <span class="code">TR3(2)</span> expects.</li>
+      <li>A decision on Land North of Station Road (26/01470/FUL), which raises the same location test on the other side of the village. See the <a href="/research/settlement/claverdon/station-road-decision-route/">Station Road Decision Route</a>.</li>
+    </ul>
+  </section>
+
+  <section id="navigator">
+    <h2>Run it yourself in the Navigator</h2>
+    <p>The <a href="https://planningdistilled.org/research/england/nppf-navigator/">NPPF 2026 Navigator</a> walks through the Framework's decision route question by question and shows the decisions behind each step. The Navigator asks which <span class="code">GB7</span> category a scheme relies on and says to run it again for each, so there are two sets of answers. Load one, then change any answer you see differently.</p>
+    <div class="answers">
+      <ol class="steps">
+        <li>Copy a set of answers below.</li>
+        <li>Open the <a href="https://planningdistilled.org/research/england/nppf-navigator/">Navigator</a>.</li>
+        <li>Choose <strong>Saved sets</strong>, paste into <strong>Load answers</strong>, and press <strong>Load these answers</strong>.</li>
+      </ol>
+      <h3>Set 1: the grey belt route</h3>
+      <p class="note">Ends at: refuse, inappropriate development with no very special circumstances.</p>
+      <div class="copy-row"><button type="button" class="primary" data-copy="answers-grey-belt">Copy set 1</button><span class="status" role="status"></span></div>
+      <!-- answers:grey-belt --><!-- /answers -->
+      <h3>Set 2: the previously developed land route, on the applicant's case</h3>
+      <p class="note">Takes the applicant's case on previously developed land and openness as made out. Ends at: refuse, because policies that say development should be refused are failed.</p>
+      <div class="copy-row"><button type="button" class="primary" data-copy="answers-pdl">Copy set 2</button><span class="status" role="status"></span></div>
+      <!-- answers:pdl --><!-- /answers -->
+    </div>
+
+    <div class="prose judgement">
+      <h3>The judgement calls in these sets</h3>
+      <dl>
+        <dt>gb: yes</dt>
+        <dd>Open Green Belt, not a site in or on the edge of the washed-over village. The applicant's appraisal places the site <q data-q="gba-edge" data-nocite>just beyond the western edge of the village</q> and physically separate from it. Infilling under <span class="code">GB7(1)(c)</span> is not argued.</dd>
+        <dt>gb7e: pass (set 2 only)</dt>
+        <dd>Not this page's reading. It is the applicant's case taken at its highest, to show what follows. Change it to either of the two "No" answers and the route becomes the same as set 1's ending.</dd>
+        <dt>greyBelt: none ticked · greyBeltUndermine: no</dt>
+        <dd>The land does not strongly contribute to the three purposes that count, and ten homes on two hectares would not undermine the Green Belt across the district.</dd>
+        <dt>tr3: fail</dt>
+        <dd>Follows the Highway Authority. Change it if a secured route is provided or the objection is withdrawn.</dd>
+        <dt>tr3Speed: 20-30 and 50plus · tr3SpeedEvidence: 32.3</dt>
+        <dd>The limits are 60 mph on Kington Lane, 50 mph on Henley Road and 30 mph in the village. The measured figure is the highest daily 85th percentile speed in the applicant's survey of Kington Lane. Nothing was measured on Henley Road.</dd>
+        <dt>gb8: fail (set 1 only)</dt>
+        <dd>As things stand. Nothing is secured, and the infrastructure rule is not met. A signed obligation could change the first part.</dd>
+        <dt>tr64: unacceptable</dt>
+        <dd>Follows the Highway Authority's conclusion on pedestrian safety. The vehicle access itself is accepted. Change it to acceptable if the Authority's concern is resolved.</dd>
+        <dt>f7: not-demonstrated</dt>
+        <dd>The only access floods in the design event and no emergency plan is proposed. The flood authority has not objected, and the depth is modest. Change it if an agreed emergency plan is provided.</dd>
+        <dt>dp3Conflicts: movement · dp3: not-justified</dt>
+        <dd>The active travel finding is a conflict with <span class="code">DP3(2)(d)</span>. Whether it has a clear justification is the most arguable answer here. Context and local design standards are left unticked because no design officer's view is on the file.</dd>
+        <dt>constraints: irreplaceable · n62: no-loss</dt>
+        <dd>Ticked because the schedule records a veteran ash. Answered as no loss because the tree is kept and no building is shown near it. The report has not assessed it as a veteran.</dd>
+        <dt>n22: yes · n21d: justified · dp32c: no · character: limited · devPlan: limited</dt>
+        <dd>Cautious answers. County Ecology accepts the surveys. The tree losses are of lower-grade features. The applicant rates landscape effects neutral and objectors rate them much higher, with no officer's view yet. The development plan conflicts are with employment and housing-mix policies.</dd>
+        <dt>heritage: none</dt>
+        <dd>No asset is identified as affected. Add the scheduled monument if its setting is thought to be in play; the Navigator will then ask whether the assessment is adequate, and there is none.</dd>
+        <dt>otherBenefits: economic only</dt>
+        <dd>The affordable housing payment and the biodiversity gain above 10% are offered but not secured, so they are not ticked. Tick them when they are.</dd>
+        <dt>vsc: not-shown (set 1) · balance: outweighed (set 2)</dt>
+        <dd>The two final judgements. Each follows from the findings above it. They are the decision-maker's to make.</dd>
+      </dl>
+    </div>
+  </section>
+
+  <footer>
+    <p>Sources</p>
+    <ul>
+      <li>National Planning Policy Framework, August 2026: S5, S6, GB6, GB7, GB8, HO7, HO8, TR3, TR6, F5, F7, N2, N6, DP3, Annex B.</li>
+      <li>The council's planning file for 26/01831/FUL as it stood on 6 October 2026: the applicant's documents and the consultation responses listed in the <a href="evidence/">evidence register</a>.</li>
+      <li>Stratford-on-Avon District Council: certificate of lawful existing use 25/00721/LDE, decision notice and officer's report, 15 May 2025.</li>
+      <li>Appeal decisions 6011972 (Wire Mill Lane, Newchapel), 6011330 (Dronfield), 6006637 (Hatton Station), 6010729 (St Austell) and 6010313 (Brickhouse Lane, Newchapel), with the decision lists linked in each section, from the Planning Distilled decisions database (<!-- count:cases --> decisions, the newest dated <!-- date:newest -->).</li>
+      <li>Claverdon Neighbourhood Plan 2011 to 2031, made December 2019, with the Village Design Statement; Stratford-on-Avon District Core Strategy 2011 to 2031.</li>
+      <li>National Heritage List for England: entries 1382081 (Fox Hill) and 1011369 (Barnmoor Wood camp).</li>
+      <li>The bus operators' registered timetables (Bus Open Data Service) and the national rail timetable, as set out on the Station Road Decision Route page.</li>
+    </ul>
+    <p>The <a href="evidence/">evidence register</a> lists all <!-- count:quotes --> quotations with document, date and page (also as <a href="evidence/evidence.json">data</a>). The Navigator answers are also in <a href="answers.json">answers.json</a>.</p>
+    <p>Prepared by a local resident. This is an assessment of the documents on the public file on the date given, not a prediction of the Council's decision. Not legal advice.</p>
+    <p class="licence">&copy; Planning Distilled. Text, data and images on this page are released under the <a rel="license" href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 licence</a>: share and adapt them freely, with credit to Planning Distilled. Quotations from application documents, consultation responses, decision letters, plans and the Framework remain the copyright of their publishers. Source and data: <a href="https://github.com/planningdistilled/research">github.com/planningdistilled/research</a>.</p>
+  </footer>
+</main>
+
+<script>
+(function () {
+  function selectText(pre) {
+    var r = document.createRange();
+    r.selectNodeContents(pre);
+    var s = window.getSelection();
+    s.removeAllRanges();
+    s.addRange(r);
+  }
+  Array.prototype.forEach.call(document.querySelectorAll('button[data-copy]'), function (btn) {
+    btn.addEventListener('click', function () {
+      var pre = document.getElementById(btn.getAttribute('data-copy'));
+      var status = btn.parentNode.querySelector('.status');
+      var done = function () { status.textContent = 'Copied. Paste it into the Navigator’s Load answers box.'; };
+      var fallback = function () { selectText(pre); status.textContent = 'Selected. Press Ctrl+C or ⌘C to copy.'; };
+      try {
+        navigator.clipboard.writeText(pre.textContent).then(done, fallback);
+      } catch (e) {
+        fallback();
+      }
+    });
+  });
+})();
+</script>
