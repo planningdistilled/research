@@ -1,0 +1,67 @@
+code	label	wording
+A	Walking route quality	
+A1	Footway presence and continuity	footway|pavement|footpath|walkway|pedestrian (route|link|access|infrastructure|facilit|provision)
+A2	Footway width, surface or condition	narrow|width|surface|overgrown|uneven|unmade|condition
+A3	Street lighting	\blit\b|unlit|lighting|street ?light|illuminat|dark
+A4	Traffic speed or speed limit	mph|speed|fast
+A5	Traffic volume or type	traffic|hgv|lorr|busy|vehicle movements|vehicles
+A6	Walking in the carriageway or verge; pedestrian safety	carriageway|verge|safe|conflict|visibility|in the road|along the (road|lane)
+A7	Crossings and severance	cross|sever|barrier|dual carriageway|bridge
+A8	Public rights of way, field paths, unmade tracks	right of way|prow|bridleway|public footpath|towpath|track|field|footpath
+A9	Topography and gradient	steep|gradient|hill|topograph|incline|uphill|flat\b|level\b
+A10	Usable by all users and in all conditions	all users|disab|mobility|wheel|pushchair|child|elderly|dark|winter|weather|night|daylight|all times|times of (the )?(day|year)
+A11	General attractiveness or directness of the route	attractive|convenient|direct|pleasant|pedestrian|walk
+A12	Narrow or single-track lane	narrow|single[- ]?(track|width|lane|carriageway|vehicle)|width
+B	Distance and proximity	
+B1	Distance or walking time to services	\d ?(m|km|metres|miles?|minutes?|mins?)\b|distance|close|near|remote|proximity|adjacent|walk
+B2	A distance benchmark applied	800|400|2 ?km|ciht|manual for streets|walking distance|20[- ]minute|threshold|guideline|standard|isochrone|recommended distance|distances (referred|set)
+B3	Physical relationship to a settlement	settlement|built[- ]up|edge|adjoin|adjacent|isolated|detached|countryside|related
+C	Services and facilities	
+C1	Range of day-to-day services nearby	service|facilit|shop|school|amenit|\bpub\b|store
+C2	Need to travel on for higher-order services or jobs	service|facilit|employment|secondary|supermarket|town|jobs|work
+C3	Services provided on site	on[- ]site|mixed[- ]use
+D	Bus and road public transport	
+D1	Bus stops: existence and how reachable	\bbus|public transport
+D2	Bus service level	\bbus|hourly|frequen|timetable|services? (run|operat)|public transport
+D3	No evidence on bus services	evidence|timetable|frequen|detail|information
+D4	Demand-responsive or community transport	demand|ring|community (bus|transport)|school (bus|transport|minibus)|drt|dial|flexi|bookable|taxi|hail
+D5	Public transport, mode not stated	public transport|sustainable transport
+E	Rail	
+E1	Distance or route to a station	station|rail|train|tram|metro|underground
+E2	Rail service level; well-connected station	station|rail|train|tram
+F	Cycling	
+F1	Cycling	cycl|bicycle|bike
+G	Car reliance and softening arguments	
+G1	Express finding on reliance on the private car	\bcars?\b|private (motor )?vehicle|motor vehicle|driv
+G2	Short car journeys	\bcars?\b|driv|journey|trip
+G3	Electric vehicles	electric|\bevs?\b
+G4	Home working, broadband, deliveries	home[- ]?work|work(ing)? from home|broadband|deliver|online|internet
+G5	Car-free scheme, car club, parking restraint	car[- ]free|car club|parking|permit|travel plan|cpz
+H	Scale and nature of the development	
+H1	Scale and amount of movement generated	scale|significant|number of|modest|small|single dwelling|one dwelling|trips|movements
+H2	Nature of the use makes car travel inherent	nature of|business|agricultur|equestrian|touris|holiday|traveller|gypsy|solar|rural|employment|operational|impractical|storage|school
+H3	Rural context allowance	rural|context of the area
+H4	Existing or fallback use and its trips	existing|fallback|fall-back|extant|lawful|replac|conver|previous|class q|prior approval
+H5	Characteristics of the intended occupiers	occupier|occupant|resident|student|elderly|child|worker|staff|care
+I	Settlement hierarchy and plan position	
+I1	Settlement tier or hierarchy status	tier|hierarchy|village|centre|category|settlement|town
+I2	Inside or outside a settlement boundary	boundar|limits|built[- ]up area|confines|envelope
+I3	Local-plan accessibility policy or spatial strategy as the test	polic|strategy
+I4	Allocation or emerging plan	allocat|emerging|call for sites|shlaa|helaa|assessment
+I5	NPPF Annex B definition of settlement or isolated	settlement|isolated|annex b|glossary|hamlet
+J	Evidence, tools and other parties	
+J1	Connectivity Tool score	connectivity (tool|map|score)
+J2	Highway authority position	highway
+J3	Transport statement or survey evidence	transport (statement|assessment|note)|travel plan|survey|audit|evidence
+J4	Comparator decisions and site history	appeal|permission|decision|approved|granted|previous|allowed|dismissed
+J5	Existing residents' behaviour	existing|neighbour|already|residents|other (dwellings|properties|homes)
+J6	Point conceded or undisputed	agree|common ground|disput|accept|conced|contest|no objection|does not (object|contend)|now considers|officer
+J7	Decision-maker's own site-visit observation	site visit|i saw|i observed|i noted|my visit|i walked|observ
+J8	Public Transport Accessibility Level (PTAL)	ptal|public transport accessib
+J9	Accident record	accident|collision|injur
+K	Mitigation and improvements	
+K1	New footway, link, crossing or lighting	footway|footpath|path|crossing|lighting|link|pavement
+K2	Bus contribution, stop, vouchers, travel plan	\bbus|travel plan|voucher|contribution|car club
+K3	Whether the mitigation is secured and deliverable	condition|obligation|s106|section 106|secured|unilateral|agreement|deliver|control|grampian
+K4	Speed-limit change or traffic calming	speed|traffic calming|\btro\b|traffic regulation
+K5	No improvements offered	improv|opportunit

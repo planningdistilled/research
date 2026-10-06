@@ -21,6 +21,7 @@ Not limited to Stratford-on-Avon. **Appeal and Secretary of State decisions carr
 | `analysis/heritage-design-environment.md` | HE4–HE10, DP3(3), L2/L3, flood, highways, landscape, BNG and habitats. |
 | `analysis/transition-and-decision-makers.md` | The Framework switch, Annex A ¶2 plan weight, supply, inspectors v councils, SDC practice, pending SoS and court items. |
 | `analysis/settlement-hierarchy-and-service-centres.md` | Why local hierarchy labels ("service centre", Local Service Village) carry no standalone NPPF weight; they feed only development-plan accordance, the Annex B settlement/S4-S5 route and TR3. |
+| `analysis/location-factors/` | Which factors each decision used to decide whether a location is sustainable, and which way each cut: `register.tsv` (one row per decision), `codes.tsv` (the classes and factor codes) and `codebook.md` (rules, method, limits). Checked by `tools/location_factors.py`; published as the "factors in decisions" sub-page of the sustainable location page. |
 | `analysis/ANALYST-BRIEF.md` | Brief shared by the analysis agents. |
 | `tools/build_index.py` | Rebuilds `index/` from case frontmatter and prints WARN lines. |
 | `tools/normalise.py` | Normalises `nppf_applied` values in case frontmatter (idempotent); run before `build_index.py`. |
