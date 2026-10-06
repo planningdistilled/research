@@ -62,7 +62,7 @@ Then:
 
 ```bash
 cd pages/england/nppf-navigator && npm test && npm run build && cd -
-node pages/england/service-village/build.mjs     # dist/ only; fails loudly if the register changed shape
+node pages/england/sustainable-location/service-village/build.mjs     # dist/ only; fails if new decisions match the tier search and have no row in the register (classify them, add rows)
 python3 tools/check_public.py
 ```
 

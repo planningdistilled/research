@@ -1,0 +1,123 @@
+GOV.UK - The best place to find government services and information
+
+Skip to main content
+
+Connectivity Tool Lite
+Guidance
+
+Beta This is a new service – your feedback (opens in new tab) will help us to improve it.
+
+Connectivity Tool
+Guidance
+Applying the Connectivity Tool
+Applying Connectivity Tool
+You may also find the user manual and guidance on Interpreting connectivity scores or understanding the data useful.
+1. Who this guidance is for
+This guidance is for all users of Connectivity Tool.
+2. Mission statement
+Connectivity Tool combines transport and land use data to generate a national
+measure of connectivity for any location in England and Wales. This
+connectivity score measures people’s ability to get where they want to go.
+The Connectivity Tool has been explicitly designed for professionals working
+in spatial and transport planning and the wider built environment. It assists
+plan-makers and decision-takers in locating development in the most
+sustainable locations and can help with planning for the transport
+infrastructure required to support it. It also indicates which new sustainable
+transport schemes could prove most useful in raising people’s connectivity to
+vital jobs and services. To help broaden access and increase awareness, we’re
+introducing Connectivity Tool, a free public accessible, scores-only platform,
+that allows everyone to access the tool and see the connectivity scores.
+3. The architecture of the Tool
+Connectivity Tool is designed to help its users understand the connectivity
+pattern of an area, both overall and by different destinations and modes of
+transport.
+4. Practical application
+The tool and the data underpinning it has been rigorously tested and is
+fit-for-purpose and ready to be applied in real world policy-making and
+decision-taking.
+The tool has been extensively tested with over 40 local authorities as well as
+key stakeholders to ensure that it is fit-for-purpose and able to be applied
+in the way set out in the mission statement above. The tool has been launched
+jointly by the Department for Transport, Active Travel England and the
+Ministry of Housing, Communities and Local Government. The government is
+considering how the tool can be reflected in national planning policy and
+guidance.
+The Department for Transport is continuing to develop the Connectivity Tool to
+make sure it meets its users’ needs. To provide feedback, please contact the
+project team at connectivity@dft.gov.uk .
+Updates to this guidance on the practical application of the tool will
+continue to be developed both on the basis of the feedback we receive, but
+also the evolution of our thinking on how the tool is best reflected in
+national planning policy and guidance.
+5. Interpreting mode- and destination-specific scores
+All connectivity scores (overall, and for each mode of transport and type of
+destination) are expressed as a percentage of the most connected location in
+the country. Because of this, scores cannot be compared either between modes
+or between destination types. In particular, you cannot use the connectivity
+score to compare how well a location is served by one mode versus another.
+For example, a location scoring 60 for connectivity to education and 70 for
+health is not necessarily better connected to health than to education.
+Likewise, a site with a score of 60 for walking and 50 for public transport is
+not necessarily better connected by walking than by public transport.
+The overall connectivity score is the primary guide to understanding how
+connected a particular place or development site is. This takes into account
+access to all destinations included in the connectivity score by public
+transport, walking and cycling. Scores for specific modes or destinations can
+assist in providing context or in specific cases where only access to some
+kinds of destination is relevant (for example non-residential land uses).
+The overall score aims to appraise connectivity by more sustainable modes of
+transport. It therefore does not account for driving in the overall score and
+while the Tool is capable of calculating the connectivity of site by driving,
+this needs to be specifically selected. Scores by driving should not be used
+as the basis for making policies and decisions
+6. What Connectivity Tool does not do
+Connectivity Tool does not currently take into account the quality of walking,
+cycling or public transport routes. This includes aspects such as footway
+presence, footway width, surface type, and lighting. The outputs of the score
+therefore should always be contextually appraised using local knowledge /
+evidence and having regard to other material considerations.
+The score is worked out for people as a whole, not for individual users. It
+doesn’t reflect how one specific person might use the transport network
+differently from most people (for example, if they can only walk a much
+shorter distance). It also doesn’t take into account the particular mix of
+ages or other characteristics of people living in the area you’re looking at.
+Connectivity Tool does not measure the fares or cost of any mode of transport,
+as this varies between different locations, ages and other characteristics.
+Nor does it measure reliability and congestion of public transport services.
+It assumes a manually propelled bicycle so does not currently include or
+factor in the further distances that electric bikes facilitate by cycling.
+7. Working in rural and urban areas
+Connectivity Tool is designed to show variation in connectivity scores in
+places across England and Wales. Connectivity scores are highest in areas with
+easy access to jobs and facilities – either physically close or easily
+accessible by public transport. These will often be higher in town centres and
+around major transport interchanges and frequent public transport routes. The
+very highest scores are found in inner areas of large cities and the very
+lowest scores in remote countryside. However, between the extremes, the
+picture is more mixed: some suburbs of large cities score relatively low,
+while small towns and major transport nodes in predominantly rural areas often
+score relatively high.
+Filtering the connectivity score by local authority (Figure 1; this can be
+accessed under the ‘Filter map’ menu on the map sidebar) can help to
+differentiate the scores at the local authority or combined authority level.
+Figure 1: Local authority bands (left) vs the national score (right)
+8. Next steps
+The data underpinning the tool will be updated on at least a yearly basis. The
+Department for Transport, working with the Ministry for Housing, Communities
+and Local Government, Active Travel England and other key stakeholders will
+coordinate to explore future developments of the tool.
+As new functionality or policy is developed for Connectivity Tool, we will
+update this suite of guidance.
+Also See
+User manual
+Understanding the data
+Interpreting connectivity scores
+
+Support links
+Accessibility statement
+Privacy policy
+Guidance
+Understand the data
+Connectivity Tool Lite v4.6.0
+All content is available under the Open Government Licence v3.0 , except where otherwise stated
+© Crown copyright

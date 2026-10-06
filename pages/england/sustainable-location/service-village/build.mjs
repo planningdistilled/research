@@ -3,15 +3,17 @@
 // from data/decisions/analysis/appeals-review/settlement-tier-usage.tsv; nothing is typed by hand here.
 //
 //   node build.mjs                      -> dist/index.html + dist/case-<ref>.html (artifact: content-only files)
-//   node build.mjs --pages [--out <dir>] [--base <url>]   (out defaults to <main-site>/research/england/service-village)
-//                                       -> full HTML documents with canonical links, for GitHub Pages
+//   node build.mjs --pages [--out <dir>] [--base <url>]   (out defaults to <main-site>/research/england/sustainable-location/service-village)
+//                                       -> full HTML documents with canonical links, for GitHub Pages;
+//                                          with the default out, a redirect is left at every former address
+//                                          (research/england/service-village/, where the page lived until 6 Oct 2026)
 //
 // template.html is the live page as published (content only, no publish skeleton). The build injects the
 // sweep findings into it at fixed anchors and fails loudly if an anchor is missing.
-import { readFileSync, writeFileSync, mkdirSync, rmSync, readdirSync } from 'node:fs';
+import { readFileSync, writeFileSync, mkdirSync, rmSync, readdirSync, existsSync } from 'node:fs';
 import { dirname, join, resolve } from 'node:path';
 import { fileURLToPath } from 'node:url';
-import { DECISIONS as DB, SITE } from '../../../paths.mjs';
+import { DECISIONS as DB, OPEN, SITE } from '../../../../paths.mjs';
 
 const HERE = dirname(fileURLToPath(import.meta.url));
 const TSV = join(DB, 'analysis', 'appeals-review', 'settlement-tier-usage.tsv');
@@ -24,8 +26,10 @@ const opt = (name, dflt) => {
   return i >= 0 ? args[i + 1] : dflt;
 };
 const PAGES = args.includes('--pages');
-const OUT = resolve(opt('--out', PAGES ? join(SITE, 'research/england/service-village') : join(HERE, 'dist')));
-const BASE = opt('--base', 'https://planningdistilled.org/research/england/service-village/');
+const SITE_DIR = 'research/england/sustainable-location/service-village';
+const FORMER_DIR = 'research/england/service-village'; // the page's address until 6 Oct 2026; redirects are left there
+const OUT = resolve(opt('--out', PAGES ? join(SITE, SITE_DIR) : join(HERE, 'dist')));
+const BASE = opt('--base', `https://planningdistilled.org/${SITE_DIR}/`);
 const PINS = 'https://appeal-planning-decision.service.gov.uk/comment-planning-appeal/appeals/';
 const NOTES = 'https://planningdistilled.org/research/england/nppf-navigator/decisions/';
 
@@ -41,7 +45,6 @@ const rows = lines.slice(1).map((l, i) => {
   const [ref, place, authority, date, outcome, labels, primary, secondary, para, quote, influence, source, routePara, routeQuote] = f.map(unq);
   return { ref, place, authority, date, outcome, labels, primary, secondary, para, quote, influence, source, routePara, routeQuote };
 });
-if (rows.length !== 170) throw new Error(`expected 170 rows, got ${rows.length}`);
 
 const cases = JSON.parse(readFileSync(CASES, 'utf8'));
 const byAppeal = new Map();
@@ -51,6 +54,40 @@ for (const c of cases) {
   byId.set(c.case_id, c);
 }
 const byRef = new Map(rows.map((r) => [r.ref, r]));
+if (byRef.size !== rows.length) throw new Error('duplicate ref in the register');
+
+// ---------- the sweep. The page says every decision in the dataset was searched, so the build repeats the search
+// and fails if a decision that matches it has no row in the register. White space is collapsed first: a phrase
+// such as "settlement hierarchy" often wraps across a line in the letter text.
+const TIER_SEARCH = /service village|service centre|service center|local service|key service|rural service|settlement hierarchy|main rural centre|rural centre|local centre village|key settlement|category (1|2|3|4|one|two|three|four) (village|settlement)|tier (1|2|3|4|5|one|two|three|four|five) (village|settlement)|(primary|secondary|larger|smaller|service) (village|settlement)s?\b|sustainable (village|settlement)/i;
+const CORPUS = join(OPEN, 'pins-corpus');
+const flat = (p) => readFileSync(p, 'utf8').replace(/\s+/g, ' ');
+const letters = readdirSync(CORPUS).filter((f) => f.endsWith('.txt'));
+const matched = new Set();
+for (const f of letters) if (TIER_SEARCH.test(flat(join(CORPUS, f)))) matched.add(f.slice(0, -4));
+for (const c of cases) if (TIER_SEARCH.test(flat(join(DB, c._file)))) matched.add(/^\d{7}$/.test(String(c.appeal_ref ?? '')) ? String(c.appeal_ref) : c.case_id);
+const unswept = [...matched].filter((ref) => !byRef.has(ref)).sort();
+if (unswept.length) {
+  throw new Error(`the tier search matches ${unswept.length} decision(s) with no row in the register: ${unswept.join(' ')}.\n` +
+    'Read each matching passage, classify it and add a row to settlement-tier-usage.tsv (method and codes: appeals-review/settlement-tier-usage-summary.md).');
+}
+// Every quotation in the register must be in its source: the decision letter, or the case file for council decisions.
+const normQ = (t) => t.replace(/[‘’]/g, "'").replace(/[“”]/g, '"').replace(/[–—]/g, '-').replace(/\s+/g, ' ').trim().toLowerCase();
+let quotesChecked = 0;
+const quoteProblems = [];
+for (const r of rows) {
+  const text = normQ(readFileSync(r.source.startsWith('pins-corpus/') ? join(OPEN, r.source) : join(DB, r.source), 'utf8'));
+  for (const q of [r.quote, r.routeQuote]) {
+    if (!q || q === '(none)') continue;
+    quotesChecked++;
+    if (!text.includes(normQ(q))) quoteProblems.push(`${r.ref}: not in ${r.source}: "${q.slice(0, 80)}"`);
+  }
+}
+if (quoteProblems.length) throw new Error(`${quoteProblems.length} register quotation(s) not found in their source:\n${quoteProblems.join('\n')}`);
+// The dataset the sweep covers, stated on the page: computed, so it cannot drift from the other pages.
+const num = (n) => n.toLocaleString('en-GB');
+const sweptAt = new Date(`${cases.map((c) => c.harvested_on || '').sort().at(-1)}T12:00:00Z`).toLocaleDateString('en-GB', { day: 'numeric', month: 'long', year: 'numeric', timeZone: 'UTC' });
+const SWEPT = { cases: num(cases.length), letters: num(letters.length), at: sweptAt };
 // The full decision note, published with the Navigator, for any decision in the database.
 const noteLink = (caseId) => (byId.has(caseId) ? `<a href="${NOTES}${esc(caseId)}.html">full decision note</a>` : `case file <code>cases/${esc(caseId)}.md</code>`);
 
@@ -236,7 +273,7 @@ ${r.routeQuote ? `  <div><h3>The route sentence${r.routePara && r.routePara !== 
 ${(() => { const c = byAppeal.get(r.ref) ?? byId.get(r.ref); const b = c ? caseBody(c.case_id) : null; return `${b?.summary ? `  <div><h3>Summary</h3>${mdBlock(b.summary)}</div>\n` : ''}${c ? locationBlock(c) : ''}`; })()}  <div class="cwhy${fp ? ' fp' : ''}"><h3>Why this is cited</h3><p>${why}</p></div>
   <div class="src"><h3>Sources</h3><p>${sources}</p></div>
 </div>
-<div class="disclaimer">One entry in a register of 170 decisions that use a settlement-tier label, each read at every matching passage and classified by how the label influenced the decision. The quotation was checked against the source named above. Not legal advice. &copy; Planning Distilled. Text, data and images on this page are released under the <a rel="license" href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 licence</a>: share and adapt them freely, with credit to Planning Distilled. Quotations from decision letters, plans and the Framework remain the copyright of their publishers. Source and data: <a href="https://github.com/planningdistilled/research">github.com/planningdistilled/research</a>.</div>
+<div class="disclaimer">One entry in a register of ${rows.length} decisions that matched the search for a settlement-tier label, each read at every matching passage and classified by how the label influenced the decision. The quotation was checked against the source named above. Not legal advice. &copy; Planning Distilled. Text, data and images on this page are released under the <a rel="license" href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 licence</a>: share and adapt them freely, with credit to Planning Distilled. Quotations from decision letters, plans and the Framework remain the copyright of their publishers. Source and data: <a href="https://github.com/planningdistilled/research">github.com/planningdistilled/research</a>.</div>
 </div>
 `;
 }
@@ -262,14 +299,21 @@ const a2Council = groups.A.filter((r) => !isAppeal(r));
 const setAside = groups.F;
 const placeName = (r) => r.place.split(',').pop().trim().replace(/\s*\(.*\)$/, '');
 const listRefs = (rs) => rs.map((r) => `${refLink(r.ref)} ${esc(placeName(r))}`).join(', ');
-const words = ['no', 'one', 'two', 'three', 'four', 'five', 'six'];
+const words = ['no', 'one', 'two', 'three', 'four', 'five', 'six', 'seven', 'eight', 'nine', 'ten', 'eleven', 'twelve'];
 const nWord = (n) => words[n] ?? String(n);
+// B rows plus the three D rows named in the sweep section: sites beside a favourably tiered settlement that failed on the route.
+const besideTier = [...groups.B, ...['6006289', '6009691', '6012304'].map((ref) => {
+  const r = byRef.get(ref);
+  if (!r || r.primary !== 'D' || r.secondary !== 'B') throw new Error(`${ref} is no longer coded D with B: revise the "Three more sites" sentence`);
+  return r;
+})];
+if (counts.D <= 2 * (counts.A + counts.C + counts.F)) throw new Error('D is no longer more than twice A + C + F: revise "more than twice"');
 const headline = `<strong>${a2AppealsAllowed.length ? `${nWord(a2AppealsAllowed.length)[0].toUpperCase()}${nWord(a2AppealsAllowed.length).slice(1)} appeal${a2AppealsAllowed.length === 1 ? '' : 's'} in the dataset ${a2AppealsAllowed.length === 1 ? 'was' : 'were'} allowed on the tier plus a bare proximity statement, with no route facts` : 'No appeal in the dataset was allowed on the tier alone'}</strong>${a2AppealsAllowed.length ? ` (${listRefs(a2AppealsAllowed)}). ${a2AppealsAllowed.length === 1 ? 'There' : 'In each'}, the inspector recorded reasonable public transport for the village.` : '.'} In every allowed case the tier sat beside route evidence: a daily or better bus, lit footways or an urban setting. Where the route was poor, the label did not save the site.`;
 
 const sweepSection = `<section>
   <h2>What a sweep of every decision found</h2>
-  <p>The sweep covered <strong>every decision in the dataset</strong> as it stood on 1 October 2026 &mdash; all 971 case files and all 1,400 appeal letters in the corpus. Only <strong>${rows.length}</strong> mention a settlement-tier label at all, and in <strong>${counts.X}</strong> of those the deliberately broad search matched wording about services (&ldquo;local services&rdquo; and the like) with no settlement tier referenced; those are excluded, leaving <strong>${rows.length - counts.X}</strong> that use a tier in the hierarchy sense, grouped A to F below. The great majority of decisions never mention a tier and decide location without reference to the hierarchy.</p>
-  <p class="lede">Every decision letter and case file in the dataset was searched for any settlement-tier label (&ldquo;service village&rdquo;, &ldquo;Local Service Village&rdquo;, &ldquo;Key Service Centre&rdquo;, &ldquo;Category 1&ndash;4&rdquo;, &ldquo;tier 2 settlement&rdquo; and the like). That found <strong>${rows.length} decisions</strong>, each read at every matching passage and classified by how, if at all, the label influenced the result. Every quotation here and on the sub-pages is taken verbatim from that register and was checked against the decision letter: 174 of 174 matched. Council-decision quotations are verified against the case file, because officer reports are not in the letter corpus.</p>
+  <p>The sweep covered <strong>every decision in the dataset</strong> as it stood on ${SWEPT.at} &mdash; all ${SWEPT.cases} case files and all ${SWEPT.letters} appeal letters in the corpus. Only <strong>${rows.length}</strong> mention a settlement-tier label at all, and in <strong>${counts.X}</strong> of those the deliberately broad search matched wording about services (&ldquo;local services&rdquo; and the like) with no settlement tier referenced; those are excluded, leaving <strong>${rows.length - counts.X}</strong> that use a tier in the hierarchy sense, grouped A to F below. The great majority of decisions never mention a tier and decide location without reference to the hierarchy.</p>
+  <p class="lede">Every decision letter and case file in the dataset was searched for any settlement-tier label (&ldquo;service village&rdquo;, &ldquo;Local Service Village&rdquo;, &ldquo;Key Service Centre&rdquo;, &ldquo;Category 1&ndash;4&rdquo;, &ldquo;tier 2 settlement&rdquo; and the like). That found <strong>${rows.length} decisions</strong>, each read at every matching passage and classified by how, if at all, the label influenced the result. Every quotation here and on the sub-pages is taken verbatim from that register and is checked against its source each time the page is built: ${quotesChecked} of ${quotesChecked} matched. Council-decision quotations are verified against the case file, because officer reports are not in the letter corpus.</p>
   <div class="answer"><p>${headline}</p></div>
   <div class="tablewrap">
   <table class="route">
@@ -291,7 +335,7 @@ const sweepSection = `<section>
   <p class="lede" style="margin-top:22px">B and C are the two outcomes when an inspector looks at both the tier and the route. In <strong>B</strong> the inspector acknowledged the tier, the route evidence went against the site, and the route decided it. In <strong>C</strong> the route evidence supported the location, so the tier was cited beside it. Each entry below quotes the tier sentence and the route sentence from the same decision.</p>
   <h3 class="sub">B &mdash; the tier acknowledged, the location decided against on the route</h3>
   <div class="more">${groups.B.map(quoteLine).join('\n')}</div>
-  <p class="fine">Three more sites a short walk from a Key Service Centre or a Tier 2 village failed the route test in the same way but sit in D, because the plan treated the site as outside the settlement: ${refLink('6006289')} Danbury, ${refLink('6009691')} Hurst Green, ${refLink('6012304')} Marton. With them, eight sites beside a favourably tiered settlement failed on the route; seven were dismissed and one was allowed on other grounds.</p>
+  <p class="fine">Three more sites a short walk from a Key Service Centre or a Tier 2 village failed the route test in the same way but sit in D, because the plan treated the site as outside the settlement: ${refLink('6006289')} Danbury, ${refLink('6009691')} Hurst Green, ${refLink('6012304')} Marton. With them, ${nWord(besideTier.length)} sites beside a favourably tiered settlement failed on the route; ${nWord(besideTier.filter((r) => !isGood(r.outcome)).length)} were dismissed and ${nWord(besideTier.filter((r) => isGood(r.outcome)).length)} ${besideTier.filter((r) => isGood(r.outcome)).length === 1 ? 'was' : 'were'} allowed on other grounds.</p>
   <h3 class="sub">C &mdash; the tier cited in support, beside route evidence</h3>
   <div class="more">${groups.C.map(quoteLine).join('\n')}</div>
   <h3 class="sub">And the tier is used against sites far more often than for them</h3>
@@ -322,7 +366,7 @@ function mainPage() {
   const banner = `
 <section class="banner" role="region" aria-label="Headline finding">
   <div class="banner-stats">
-    <div class="stat"><span class="n">971</span><span class="l">decisions in the dataset swept<small>and all 1,400 appeal letters, as at 1 October 2026</small></span></div>
+    <div class="stat"><span class="n">${SWEPT.cases}</span><span class="l">decisions in the dataset swept<small>and all ${SWEPT.letters} appeal letters, as at ${SWEPT.at}</small></span></div>
     <div class="stat"><span class="n">${rows.length - counts.X}</span><span class="l">mention a settlement-tier hierarchy<small>${rows.length} matched the search; ${counts.X} mention services only</small></span></div>
     <div class="stat hero"><span class="n">${a2AppealsAllowed.length}</span><span class="l">allowed by an inspector on the tier alone<small>${counts.C} cite the tier in support beside route evidence</small></span></div>
   </div>
@@ -352,7 +396,7 @@ function mainPage() {
   must(ft);
   html = html.replace(
     ft,
-    `6008253, 6007484, 6000903, 6006722. The register of ${rows.length} decisions using a settlement-tier label (the sweep section and its sub-pages) is <code>data/decisions/analysis/appeals-review/settlement-tier-usage.tsv</code>, with 174 of 174 quotations checked against the decision letters; council-decision quotations are verified against the case file.\n</footer>`,
+    `6008253, 6007484, 6000903, 6006722. The register of ${rows.length} decisions using a settlement-tier label (the sweep section and its sub-pages) is <code>data/decisions/analysis/appeals-review/settlement-tier-usage.tsv</code>, with ${quotesChecked} of ${quotesChecked} quotations checked against the decision letters; council-decision quotations are verified against the case file.\n</footer>`,
   );
   // 5. the extra rules, after the live stylesheet
   html = html.replace('</style>', '</style>\n' + EXTRA_CSS);
@@ -360,7 +404,7 @@ function mainPage() {
 }
 
 // ---------- GitHub Pages wrapper
-const SITE_CRUMB = '<a href="/">Planning Distilled</a> &rsaquo; <a href="/research/">Research</a> &rsaquo; <a href="/research/england/">England</a>';
+const SITE_CRUMB = '<a href="/">Planning Distilled</a> &rsaquo; <a href="/research/">Research</a> &rsaquo; <a href="/research/england/">England</a> &rsaquo; <a href="/research/england/sustainable-location/">Sustainable location</a>';
 function wrap(content, canonical, sub = false) {
   if (!PAGES) return content;
   const crumb = `<nav class="crumb" aria-label="Breadcrumb">${SITE_CRUMB}${sub ? ' &rsaquo; <a href="index.html">Service Village Does Not Mean Sustainable</a>' : ''}</nav>`;
@@ -391,6 +435,34 @@ for (const r of rows) writeFileSync(join(OUT, `case-${r.ref}.html`), wrap(casePa
 for (const ref of ['6006637', '6007428']) if (!byRef.has(ref)) EXTRA_REFS.add(ref);
 for (const ref of EXTRA_REFS) writeFileSync(join(OUT, `case-${ref}.html`), wrap(routePage(ref), `${BASE}case-${ref}.html`, true));
 console.log(`route pages for decisions outside the register: ${[...EXTRA_REFS].sort().join(' ')}`);
+
+// ---------- redirects from the former address (GitHub Pages has no server redirects, so each old URL keeps a stub page)
+const stub = (url) => `<!doctype html>
+<html lang="en-GB">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Moved: Service Village Does Not Mean Sustainable</title>
+<meta name="robots" content="noindex">
+<link rel="canonical" href="${esc(url)}">
+<meta http-equiv="refresh" content="0; url=${esc(url)}">
+<script>location.replace(${JSON.stringify(url)} + location.hash);</script>
+</head>
+<body>
+<p>This page has moved to <a href="${esc(url)}">${esc(url)}</a>.</p>
+</body>
+</html>
+`;
+if (PAGES && OUT === resolve(join(SITE, SITE_DIR))) {
+  const former = join(SITE, FORMER_DIR);
+  const now = new Set(readdirSync(OUT).filter((f) => f.endsWith('.html')));
+  // Only pages that existed at the former address get a redirect: the files already in that folder. Pages added
+  // since the move never had the old address. A former page with no successor goes to the main page.
+  const old = existsSync(former) ? readdirSync(former).filter((f) => f.endsWith('.html')) : [];
+  if (!old.length) console.warn(`! no pages at the former address ${former}: no redirects written`);
+  for (const f of old) writeFileSync(join(former, f), stub(BASE + (now.has(f) && f !== 'index.html' ? f : '')));
+  console.log(`redirects -> ${former}: ${old.length} stubs`);
+}
 
 const n = readdirSync(OUT).filter((f) => f.startsWith('case-')).length;
 console.log(`${PAGES ? 'pages' : 'artifact'} build -> ${OUT}: index.html + ${n} case pages`);

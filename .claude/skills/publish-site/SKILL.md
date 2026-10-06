@@ -22,7 +22,10 @@ Run only what changed. When unsure, run all of it; the builds are deterministic.
 cd pages/england/nppf-navigator && npm ci && npm test && npm run build && npm run export:pages && node build/method-page.mjs && cd -
 
 # Service village
-node pages/england/service-village/build.mjs --pages
+node pages/england/sustainable-location/service-village/build.mjs --pages
+
+# Sustainable location: factors in decisions, then the summary page (both read the location-factors register)
+python3 tools/location_factors.py && node pages/england/sustainable-location/factors/build.mjs && node pages/england/sustainable-location/build.mjs
 
 # Stratford note (needs ../sources for the checks)
 cd pages/authority/stratford-dc/nppf-decisions/build

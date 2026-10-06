@@ -2,7 +2,7 @@
 // Every quotation is checked against its source text at build time; the build fails on a mismatch.
 import fs from 'node:fs';
 import path from 'node:path';
-import { DECISIONS, OPEN, SOURCES } from '../../paths.mjs';
+import { DECISIONS, OPEN, SOURCES, resolveRef } from '../../paths.mjs';
 import { addAnchors, ANCHOR_CSS } from './anchors.mjs';
 import { addPlanLinks } from './plan-links.mjs';
 
@@ -28,7 +28,7 @@ const norm = (s) => s
 const cache = new Map();
 function text(src) {
   if (!cache.has(src)) {
-    const file = src.startsWith('case:') ? reportPath(src.slice(5)) : src.startsWith('pins:') ? path.join(OPEN, 'pins-corpus', src.slice(5) + '.txt') : TEXTS[src];
+    const file = src.startsWith('case:') ? reportPath(src.slice(5)) : src.startsWith('pins:') ? path.join(OPEN, 'pins-corpus', src.slice(5) + '.txt') : /^(open|sources):/.test(src) ? resolveRef(src) : TEXTS[src];
     if (!file || !fs.existsSync(file)) throw new Error(`source text missing for ${src}: ${file}`);
     const raw = fs.readFileSync(file, 'utf8');
     // pdftotext separates pages with form feeds; the OCR tool writes "=== PAGE n ===" before each page.
@@ -83,7 +83,7 @@ export function appealLink(id) {
   return `<a href="${DECISION_PAGES}${encodeURIComponent(id)}.html">${esc(place)}, appeal ${esc(c.appeal_ref || id)}</a>`;
 }
 
-/** A checked quotation block. `src` is nppf | cs | np | case:<id>; `cite` is the visible attribution (HTML). */
+/** A checked quotation block. `src` is nppf | cs | np | case:<id> | pins:<ref> | open:<path> | sources:<path>; `cite` is the visible attribution (HTML). */
 export function quote(src, q, cite, page) {
   check(src, q, page);
   return `<blockquote><p>${esc(q)}</p><cite>${cite}</cite></blockquote>`;

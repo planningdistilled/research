@@ -25,7 +25,7 @@ data/
 tools/              Python: harvest, index, normalise, quote checks, OCR (macOS), check_public.py
 pages/              one folder per published page, mirroring the site's paths
   england/nppf-navigator/
-  england/service-village/
+  england/sustainable-location/                    (and its sub-page service-village/)
   authority/stratford-dc/nppf-decisions/
   settlement/claverdon/station-road-on-foot/
 site/               finish.mjs (site-wide metadata, sitemap, llms.txt, IndexNow), seo.py, publish checklist

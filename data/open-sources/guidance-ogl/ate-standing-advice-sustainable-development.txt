@@ -1,0 +1,460 @@
+ Active Travel England
+ Standing Advice Note:
+  Active travel and
+   sustainable development
+
+
+
+
+June 2024
+© Crown copyright 2024
+This publication is licensed under the terms of the Open Government Licence v3.0 except
+where otherwise stated. To view this licence, visit
+https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/ or contact, The
+National Archives at www.nationalarchives.gov.uk/contact-us.
+Where we have identified any third-party copyright information you will need to obtain
+permission from the copyright holders concerned. This publication is also available on our
+website at www.gov.uk/government/organisations/active-travel-england
+
+
+Cover photo by Jim Stephenson
+Active Travel England Standing Advice
+Note: Active travel and sustainable
+development
+Published: June 2024
+This guidance will be reviewed regularly and updated as needed.
+
+1. Introduction
+Background
+1.1   This advice note has been prepared by Active Travel England (A T E) to help support
+      design and transport consultants when preparing a development proposal, and local
+      highway and planning authorities in their role as consultees and decision makers for
+      planning applications. It is specifically intended for developments outside of London,
+      with a separate advice note prepared for schemes within the administrative area of
+      Greater London.
+
+1.2   Upon receipt of a planning application consultation, A T E will undertake a triage
+      process to determine whether this will be formally assessed by its casework team. In
+      circumstances where A T E is experiencing a high volume of consultations, this advice
+      note will be provided to local planning authorities (LPAs) where development proposals
+      only marginally exceed the consultation thresholds set out in The Town and Country
+      Planning (Development Management Procedure) (England) (Amendment) Order 2023
+      A T E may also consider that there is limited value in providing a detailed assessment
+      for some consultations; for example, developments with minimal trip rates or
+      applications made under Section 73 of the Town and Country Planning Act (to vary or
+      remove a previous planning condition) where the design and layout of the development
+      has already been approved. In such instances, or whenever provided, this advice note
+      will also represent A T E’s formal response.
+
+1.3   The subsequent paragraphs in this advice note will set out A T E’s recommendation for
+      how consultants should consider active travel in the preparation of applications and
+      how LPAs should proceed to assess an application where standing advice is offered.
+
+The government’s ambition for walking, wheeling and cycling
+in England
+1.4   The government’s ambition is for England to be a great walking and cycling nation,
+      supporting a shift in the way people across England think about undertaking short
+      journeys within towns and cities. The aim is for walking, wheeling (trips made by
+      wheelchair and mobility scooters) and cycling to be seen as the most convenient,
+      desirable and affordable way to travel.
+
+
+
+
+                                                                                               3
+Active Travel England Standing Advice Note: Active travel and sustainable development
+
+
+1.5   The second walking and cycling investment strategy (C W I S 2) sets out objectives to
+      boost overall levels of walking, wheeling and cycling across England, with the aim that
+      50% of all journeys in towns and cities should be by active modes by 2030. A T E’s
+      Framework Document also requires the agency to facilitate an increase in active travel
+      to enable the 50% target to be met.
+
+1.6   Aligned to these publications, there are numerous national policy and guidance
+      documents that set out how the planning system and the delivery of sustainable
+      development can help meet the government’s active travel objectives, which include:
+
+      • The National Planning Policy Framework (N P P F), with particular regard to
+        paragraphs 8, 74, 87-90, 128-130, and chapters 8, 9 and 12;
+
+      • National Design Guide;
+
+      • National Model Design Code;
+
+      • Planning Practice Guidance;
+
+      • Active Design;
+
+      • Buses in Urban Developments;
+
+      • Designing for Walking;
+
+      • DfT Circular 01/2022: Strategic Road Network and the Delivery of Sustainable
+        Development;
+
+      • Inclusive Mobility;
+
+      • Local Transport Note 1/20: Cycle infrastructure design (L T N 1/20);
+
+      • Local Transport Note 1/24: Bus user priority (L T N 1/24);
+
+      • Manual for Streets;
+
+      • Manual for Streets 2;
+
+      • PAS 6463: Design for the Mind;
+
+      • Streets for a Healthy Life; and
+
+      • Streets for All.
+
+1.7   The above list of documents is not exhaustive and will be kept under review by A T E.
+
+
+
+
+4
+                     Active Travel England Standing Advice Note: Active travel and sustainable development
+
+
+Planning Application Assessment Toolkit
+1.8   A T E has produced a Planning Application Assessment Toolkit that helps users to
+      assemble evidence and assess the active travel merits – walking, wheeling, and
+      cycling – of a development proposal. A T E encourage design and transport consultants
+      to use the toolkit and submit a completed version with future planning application
+      submissions. Local authority officers (planning and highways) are urged to use the
+      toolkit in their assessment of planning applications.
+
+1.9   A T E published the first version of the toolkit on 1st June 2023 alongside its
+      commencement as a new statutory consultee. This comprised 31 criteria with text
+      explaining how each could be assessed as a ‘pass’ or a ‘fail’. Upon review of this and
+      in response to feedback, A T E has simplified the toolkit such that there are now only 10
+      assessment criteria, while the new rating system better reflects the range of outcomes
+      that are possible from each assessment. Where new development proposals have
+      been prepared using the original toolkit, A T E encourage this to be included in
+      application documents.
+
+1.10 As shown in the image below, the ‘user input’ sheet on the updated toolkit comprises
+     six columns. The cells in the first three columns contain pre-populated text identifying
+     the 10 assessment criteria, a brief description of each criterion and the common
+     shortfalls found in planning application submissions to date. The cells in the fourth
+     column allow the appraiser to apply a rating (exemplar, pass, condition/obligation to
+     make acceptable, concern, critical issue or not applicable) against each criterion, while
+     the cells in the fifth and sixth columns enable comments and relevant local policies
+     and guidance to be entered.
+
+
+
+
+Figure 1: User Input sheet template
+
+
+
+1.11 The information entered in the user input sheet will be captured within the Assessment
+     Report table in the ‘appraiser report’ sheet, in which pre-populated national policies
+     and guidance will supplement any local policies and guidance entered by the
+     appraiser. The appraiser report sheet also invites the completion of relevant details of
+     the development being assessed as shown overleaf.
+
+1.12 A T E encourage L P As to include the completion of the toolkit as a requirement for
+     submission in their local validation checklists where a Transport Assessment is
+     required and/or where A T E would be a statutory consultee.
+
+
+
+
+                                                                                                        5
+Active Travel England Standing Advice Note: Active travel and sustainable development
+
+
+
+
+Figure 2: Appraiser Report sheet template
+
+
+
+2. Active travel assessment considerations
+2.1   A T E recognises that the toolkit may not be completed by local authority officers in
+      some instances. Where this applies, A T E has provided a summary of the toolkit
+      criteria in paragraphs 2.2 – 2.22 of this advice note and local planning and highway
+      authorities are encouraged to consider this when assessing relevant proposals at
+      pre-application and application stage.
+
+Trip generation and assignment (toolkit criterion 1)
+2.2 In order to assess the opportunities for active travel within new developments,
+    Transport Assessments should forecast the likely volume and distribution of all day
+    pedestrian (walking and wheeling) and cycling trips to, from and within the application
+    site. Key to this exercise will be reliable source data, but trip forecasting for future
+    years should also align with the national target (or any adopted local targets) that half
+    of all journeys in towns and cities shall be walked, wheeled or cycled by 2030.
+
+      This information should be used to inform the design of the scheme, the cumulative
+      impact on the existing active travel network, and travel plan targets to embed active
+      travel from the outset.
+
+6
+                    Active Travel England Standing Advice Note: Active travel and sustainable development
+
+
+Active travel route audit (toolkit criterion 2)
+2.3 The Travel Plans, Transport Assessments and Statements chapter of the Planning
+    Practice Guidance states that “measures to improve the accessibility of the location
+    (such as provision/enhancement of nearby footpath and cycle path linkages) where
+    these are necessary to make the development acceptable in planning terms” should
+    be considered when formulating Transport Assessments.
+
+2.4   A T E advise that a qualitative analysis of local pedestrian, cycling and public transport
+      infrastructure should be presented to inform any necessary improvements that would
+      be compliant with current design standards. This should include maps, photographs
+      and comments that have regard to the following national guidance and tools in the
+      assessment of key routes:
+
+      • Inclusive Mobility (Chapters 3, 4, 6, 7 and 15; and Sections 5.2, 5.7, 9.1, 9.3, 9.4
+        and 9.7 as appropriate);
+
+      • P A S 6463: Design for the Mind (Sections 5.2.1, 5.2.3, 6.4, 7.6.2, 7.6.3, 7.7 and
+        11.12);
+
+      • L T N 1/20: Cycle Infrastructure Design (including Appendix A: Cycling Level of
+        Service Tool; and Appendix B: Junction Assessment Tool);
+
+      • the government’s Walking Route Audit Tool; and
+
+      • any adopted or emerging Local Cycling and Walking Infrastructure Plans (L C W I Ps).
+
+Pedestrian access to local amenities (toolkit criterion 3)
+2.5 A mix of local amenities should be located within an 800m walking and wheeling
+    distance (using well-designed routes) of all residential properties or staff entrances
+    for workplace facilities. Trip lengths to key amenities should be derived from isochrone
+    maps using an appropriate point within the application site, rather than straight-line
+    distances from site boundaries or main access points.
+
+2.6   Footpaths/ways to local amenities should conform to the National Design Guide
+      standards of being safe, direct, convenient and accessible for people of all abilities,
+      which includes but is not limited to routes that:
+
+      • have a minimum width of 2m, with limited pinch points no less than 1.5m;
+
+      • are step-free;
+
+      • have a smooth, even surface;
+
+      • have seating at regular intervals;
+
+      • are uncluttered;
+
+      • have good natural surveillance and clear lines of sight;
+
+
+                                                                                                       7
+Active Travel England Standing Advice Note: Active travel and sustainable development
+
+
+      • have street lighting;
+
+      • have wayfinding; and
+
+      • have crossing points suitable for the speed and traffic flow of the road(s).
+
+Cycling accessibility (toolkit criterion 4)
+2.7   Off-site cycling infrastructure to a range of local amenities, and town centres, railway
+      stations, employment areas and the National Cycle Network as appropriate, should be
+      coherent, direct, safe, comfortable and attractive in line with the five core design
+      principles and geometric requirements in L T N 1/20 (see Sections 4.2 and 5).
+
+2.8 The development should not be reliant on shared use routes in full or intermittently,
+    which conflicts with the government’s clear position in paragraph 1.6.1 (2) of L T N 1/20
+    that cycles must be treated as vehicles and not as pedestrians. Where on-road
+    provision would be utilised, there should be sufficient protection from motor traffic in
+    accordance with the suitability and segregation standards in L T N 1/20 (see Figure 4.1
+    and Section 6).
+
+Access to public transport (toolkit criterion 5)
+2.9 Most buildings within the application site should be within 400m of a high-frequency
+    bus stop or 800m of a rail/light station or tram stop, with appropriate facilities. Local
+    bus stops should have good natural surveillance and provide seating, lighting, shelter,
+    real-time passenger information and raised bus boarders or specialist kerbs. Local rail
+    stations should provide cycle parking, including spaces for non-standard cycles
+    Footpaths/ways to public transport nodes should conform to the design standards
+    identified in paragraph 2.6 of this advice note.
+
+Off-site transport contributions (toolkit criterion 6)
+2.10 In consideration of the above, the application documents should set out a package of
+     any necessary, directly related and proportionate off-site infrastructure that is to be
+     delivered and/or funded. The application should also identify the mechanism to secure
+     identified improvements and the trigger point(s) for delivery or payment.
+
+Site permeability (toolkit criterion 7)
+2.11 In line with the National Planning Policy Framework and suite of national design
+     guidance as set out in paragraph 1.6 of this advice note, new developments must
+     prioritise pedestrian and cycle movements. As such, opportunities to maximise
+     accessibility for active travel modes should have regard to the following considerations:
+
+      • the development should provide / safeguard pedestrian and cycling connections
+        to neighbouring sites including future phases of development;
+
+      • routes for pedestrians and cyclists should be at least as direct – and preferably
+        more direct – than the equivalent by car;
+
+
+
+
+8
+                   Active Travel England Standing Advice Note: Active travel and sustainable development
+
+
+     • internal routes should be fully accessible or have adjacent accessible alternatives
+       (e.g. ramps alongside steps or bound paths next to unbound paths);
+
+     • appropriate and frequent crossings should be proposed (see Inclusive Mobility
+       Sections 4.10-4.11, P A S 6463 Section 7.6.2, L T N 1/20 Table 10-2, Manual for
+       Streets Section 6.3 and Manual for Steets 2 Section 9.3);
+
+     • pedestrians and cyclists should be prioritised at side road crossing points
+       (see L T N 1/20 Figure 10.13);
+
+     • priority junctions should have radii that minimise the need for pedestrians to deviate
+       from their desire line (see Manual for Streets Sections 6.3-6.4 and Manual for
+       Streets 2 Section 9.4);
+
+     • there should be no red/zero scores when applying the Junction Assessment Tool
+       in L T N 1/20;
+
+     • signalised junctions should have pedestrian aspects on all arms;
+
+     • where cyclists would mix with motor vehicles, lane widths of between 3.2m and
+       3.9m should not be proposed (paragraph 7.2.5 of L T N 1/20 identifies that such
+       widths allow motor vehicles to drive alongside a cyclist without a safety margin
+       for their comfort and protection);
+
+     • there should be safe and well signed transitions for cyclists when moving between
+       cycleways on and off the carriageway; and
+
+     • cycleways within commercial sites should be continuous through to cycle parking
+       areas.
+
+2.12 Alongside this, shared use routes for pedestrians and cyclists should only be proposed
+     where these meet the limited situations listed in paragraph 6.5.6 of L T N 1/20. Where
+     shared use routes are acceptable, their widths should be at least 3m (<300 cyclists
+     per hour) or 4.5m elsewhere, as per Table 6-3 of L T N 1/20.
+
+Placemaking (toolkit criterion 8)
+2.13 The design of streets should encourage social interaction and create attractive, safe
+     and accessible open spaces that would support an active life for everyone. This may
+     include opportunities to incorporate green infrastructure / street trees, shared space
+     residential streets (such as appropriately designed home-zones, mews and culs-de-
+     sac), equipped play facilities, seating at regular intervals and clear lines of sight to
+     assist with orientation (including measures to prevent inconsiderate parking).
+
+2.14 The overall design approach should have regard to personal and highway safety
+     concerns, including:
+
+     • streets, public transport nodes and other public spaces should benefit from
+       appropriate levels of natural surveillance and lighting;
+
+
+
+                                                                                                      9
+Active Travel England Standing Advice Note: Active travel and sustainable development
+
+
+      • the development should not include ‘blind-spots’, sharp turns or high-sided
+        boundary treatments;
+
+      • the development should provide continuous and legible routes, and be supported
+        by an effective wayfinding strategy; and
+
+      • residential or local streets should discourage traffic movements through the site
+        and be designed for a 20mph speed limit (see Manual for Streets Section 7.4 for
+        guidance on achieving this).
+
+2.15 There should be an appropriate provision of well-located, on-site amenities to support
+     the quantum of development proposed. For larger residential-led developments,
+     evidence should be provided that the applicant has utilised local authority pupil yield
+     data (or the Department for Education’s Pupil Yield Dashboard in the absence of such)
+     to inform the need for new schools and early years settings.
+
+2.16 For outline planning applications it is advised that an appropriate design code is
+     included with the submission and secured by condition where appropriate.
+
+Cycle parking and trip-end facilities (toolkit criterion 9)
+2.17 Cycle parking should be provided in accordance with up-to-date local standards,
+     or Section 11 of L T N 1/20 in the absence of such. This includes the quality of provision
+     as well as the quantum, with details of accessibility, parking types and dimensions,
+     security arrangements and lighting required as appropriate. Highly accessible cycle
+     parking is essential for people with sensory and/or information processing differences
+     and disabled cyclists who may be unable to walk very far or navigate a change
+     in levels.
+
+2.18 For workplaces, public buildings (including those used for leisure and recreation) larger
+     retail developments and other developments with communal parking:
+
+      • internal cycle stores should be accessible from building frontages, be step-free and
+        require passing through no more than two sets of doors;
+
+      • a proportion of cycle parking (typically 5%) should be provided for non-standard
+        cycles to accommodate people with mobility impairments, in accordance with
+        paragraph 11.3.2 of L T N 1/20 (Table 11-2 also advises on bay lengths and access
+        aisle widths for larger cycles using Sheffield stands); and
+
+      • high-quality facilities including showers, lockers, changing rooms and drying areas
+        are provided for cyclists in non-residential settings (see Section 11.7 of L T N 1/20,
+        B R E E A M guidance and any local standards).
+
+
+
+
+10
+                   Active Travel England Standing Advice Note: Active travel and sustainable development
+
+
+2.19 The quantum and quality of the cycle parking and trip-end facilities proposed should
+     align with travel plan targets for cycling and application objectives to deliver a
+     sustainable form of development.
+
+Travel planning (toolkit criterion 10)
+2.20 Paragraph 117 of the National Planning Policy Framework states that all developments
+     that will generate significant amounts of movement should be required to provide
+     a travel plan. A T E consider that in most instances this should comprise a ‘full’ travel
+     plan to include clear targets and measures to ensure that these can be achieved.
+     A ‘framework’ travel plan is generally only appropriate for commercial developments
+     where the end user is unknown, while an ‘interim’ travel plan can be acceptable
+     where the split of uses is not yet confirmed.
+
+2.21 Where the appropriate travel plan has been submitted:
+
+     • targets for active travel mode share should be ambitious and align with the national
+       target (or any adopted local targets) that half of all journeys in towns and cities shall
+       be walked, wheeled or cycled by 2030;
+
+     • mode share targets should be set for the end of each phase (where identifiable) and
+       extend to five years beyond the final occupation of the development;
+
+     • the requirements of disabled people have not been appropriately considered;
+
+     • targets should relate to all uses within the application site;
+
+     • this should provide sufficient detail on the active travel and public transport
+       infrastructure to be provided or improved (both on and off-site) and how its use
+       will be embedded by initiatives and incentives to be secured through planning
+       conditions and obligations; and
+
+     • this should contain details of effective and influential actions to be taken if targets
+       are not met, with the intention for these to be secured and monitored (if triggered)
+       through planning conditions and obligations.
+
+Decision-making
+2.22 LPAs should use this guidance routinely in the assessment of planning applications
+     affording it due weight in deliberations. The guidance reflects A T E’s status as a
+     statutory consultee in the planning system. Notwithstanding, the overarching National
+     Planning Policy Framework and national design guidance identified in paragraph 1.6 of
+     this advice note provides a strong context for embedding active travel infrastructure
+     and measures within the design of new development and should be considered as
+     early as possible in the planning process.
+
+
+
+
+                                                                                                     11
+

@@ -1,6 +1,8 @@
 # Settlement-tier labels in decisions: how they were (and were not) used
 
-Generated 1 Oct 2026 from the full dataset (every PINS letter in `data/open-sources/pins-corpus/` and every case file in `cases/`). One row per decision; every quotation machine-checked against its source (whitespace-normalised substring match). Register: `settlement-tier-usage.tsv`.
+Generated 1 Oct 2026 from the full dataset (every PINS letter in `data/open-sources/pins-corpus/` and every case file in `cases/`), and extended on 6 Oct 2026 to the dataset as it stood after the 2 Oct harvest (see "Extended 6 Oct 2026" below). One row per decision; every quotation machine-checked against its source (whitespace-normalised substring match). Register: `settlement-tier-usage.tsv`.
+
+**Current totals (6 Oct 2026): 203 decisions matched the search, out of 1,064 case files and 1,508 corpus letters; 94 are excluded (services, no tier), leaving 109 in the hierarchy sense: A 4, B 7, C 16, D 57, E 24, F 1.** The counts and lists in the sections below are the 1 Oct position (170 rows); the 33 rows added on 6 Oct are listed in the extension section. The service-village build (`pages/england/sustainable-location/service-village/build.mjs`) now repeats the search and fails if a matching decision has no row, and checks every quotation, so the published figures are always the register's.
 
 ## Method
 
@@ -254,9 +256,48 @@ Several route-decided dismissals carry no tier label at all even though the sett
 - 6012437 — 131-133 St Helens Street, Ipswich (allowed): generic.
 - 6012481 — Well Hill Nursery, Fountain Farm, Firmingers Road, Orpington (dismissed): generic.
 
+## Extended 6 Oct 2026
+
+Two gaps were closed, adding 33 rows (170 → 203).
+
+1. **The dataset had grown.** The 2 Oct harvest added 93 case files and 108 letters. The search matches 17 of the new decisions.
+2. **Line-wrapped matches were missed on 1 Oct.** That run searched the letter text line by line, so a phrase split across a line break ("settlement hierarchy", "local services") did not match. Searching with white space collapsed finds 16 more decisions in the 1 Oct dataset.
+
+Codes given to the 33 (X = excluded): 14 X, 14 D (five with secondary B), 1 B, 2 C, 2 E. No new A or F. The headline is unchanged: no appeal allowed on the tier alone.
+
+- **6004385** (D) — Land at Harlestone Road/York Way, Northampton (West Northamptonshire, 2026-09-07, allowed); ¶28: “within rural areas, development will be guided by a rural settlement hierarchy” — Site beyond any village confines = conflict with Policy R1; location found accessible on the route (hourly bus, footways, facilities 0.8 to 2 km away); allowed.
+- **6005328** (D) — Land opposite Rose Meadow, Carnkie, Helston (Cornwall, 2026-09-07, allowed); ¶11: “within or adjoining smaller settlements” — Policy 3 support for development at smaller settlements not met: against; conflict given moderate weight and permission in principle granted.
+- **6007133** (D) — Land at Brock, Garstang Road (A6), Bilsborrow (Wyre, 2026-09-25, dismissed); ¶28: “Bilsborrow is identified as one of ten ‘Main Rural Settlements’ within the settlement hierarchy established by the LP Policy SP1” — Scheme larger than the employment growth planned across the whole tier, and outside the settlement boundary: against; dismissed.
+- **6007466** (D) — Land at Penstraze, Chacewater (Cornwall, 2026-09-08, dismissed); ¶7: “within or adjoining smaller settlements” — Policy 3 support for development at smaller settlements not met and site outside the neighbourhood plan boundaries: against; dismissed on World Heritage Site harm.
+- **6008804** (D/B) — Overs Farm, Haughton, Tasley, Bridgnorth (wigwam cabins) (Shropshire, 2026-09-23, dismissed); ¶4: “in rural areas, development will be located predominantly in community hubs and community clusters” — Site outside the hubs and clusters: against. The route failed too: narrow lane to Bridgnorth with no footpaths or street lighting; dismissed.
+- **6008915** (D) — Land north of Claypole Equestrian, Doddington Lane, Claypole (South Kesteven, 2026-09-29, dismissed); ¶4: “seek to direct development towards sustainable settlements and strictly control development within the countryside” — Site outside the settlement boundary of Claypole: against (self-storage containers); dismissed.
+- **6008970** (D) — Outmarsh Farm, Semington (temporary rural worker caravan) (Wiltshire, 2026-09-23, dismissed); ¶7: “sets out the settlement strategy and identifies a settlement hierarchy where new development will be directed” — Site beyond the settlement boundary of Semington, so open countryside: against (temporary rural worker caravan); dismissed.
+- **6009255** (D/B) — The Orchard, Charley Road, Charley (garage conversion to a self-build dwelling) (North West Leicestershire, 2026-10-02, allowed); ¶6: “the site aligns with the definition of a hamlet which sits at the bottom of the settlement hierarchy” — Hamlet at the bottom of the hierarchy: against. The route failed too: unlit roads without footways and no public transport nearby; allowed on other grounds.
+- **6009720** (D) — Land adjacent to 1 Ninesprings Cottage, Wymondley Road, Hitchin (PIP) (North Hertfordshire, 2026-10-01, allowed); ¶7: “sets out the district’s settlement hierarchy and spatial distribution for development” — Site outside the settlement boundary of Hitchin = conflict with Policy SP2, given limited weight; location passed on the route (bus stops and footpaths); allowed under GB7(1)(g).
+- **6010729** (D/B) — Rosemellyn Fisheries, Roche Road, St Austell (holiday wagons and caravans) (Cornwall, 2026-09-08, dismissed); ¶7: “based on a settlement hierarchy of role and function” — Site outside any defined settlement: against. The route failed too: no pavements, unlit sections and poor public transport; dismissed.
+- **6010826** (D) — Land at Main Street, Great Brington (West Northamptonshire, 2026-09-22, dismissed); ¶5: “Great Brington falls within ‘Other Villages’ which is the third tier of the hierarchy” — Third-tier village where development must be within the confines; site held outside them: against; dismissed.
+- **6011337** (D/B) — Land west of Sunnyside, Glentham (three over-55s dwellings) (West Lindsey, 2026-10-01, dismissed); ¶7: “LP Policy S1 identifies Glentham as a small village” — Small-village tier limits growth to the developed footprint and the site is outside it: against. The route failed too: very few services, bus frequency unknown, low Connectivity Tool score; dismissed.
+- **6012202** (D/B) — Happy Hounds Hotel, Back Lane, Weeton (PIP, up to 2 dwellings on kennels site) (Fylde, 2026-10-01, allowed); ¶9: “Weeton, which is defined as a Tier 2 Smaller Rural Settlement in Strategic Policy S1” — Low tier with few services, and the site outside any settlement: against. The route failed too: no continuous lit footpath; allowed as previously developed land under S5(1)(d).
+- **stratford-26-01660-OUT** (D) — Land at Windmill Lane, Ladbroke (Stratford-on-Avon, 2026-09-24, approved); (case file): “Ladbroke is a Category 4 Local Service Village (CS.15) with no neighbourhood plan; the site was held outside its physical confines” — Site outside the village’s physical confines = plan conflict, given very limited weight; S5(1)(j) passed and TR3 passed on mixed route findings; approved.
+- **6009363** (B) — Land at Mushroom Lane, Brigsley (outline, nine dwellings) (North East Lincolnshire, 2026-10-01, dismissed); ¶15: “Waltham, to the north, is a Level 2 Local Service Centre” — Local Service Centre next door acknowledged as a benefit, but its services are beyond a reasonable walk along a narrow, unlit footpath; TR3 failed; dismissed.
+- **6010951** (C) — Land north of the Bower House, Clatterbury Lane, Clavering (Uttlesford, 2026-10-01, dismissed); ¶21: “Clavering is classified as a larger village” — Tier brings the plan’s presumption within the built area; cited beside route evidence (footway, services under 1 km, bus stops); dismissed on flood risk and biodiversity net gain.
+- **stratford-26-01894-PIP** (C) — Land to the rear of Edoras, Banbury Road, Pillerton Priors (Stratford-on-Avon, 2026-09-25, refused); (case file): “The level of sustainability is of course not high, as is indicated by its classification as a Category 4 Local Service Village” — Officer found "a sustainable settlement" on the tier beside pavements, village facilities and a bus service; refused on character, with no location reason.
+- **6010933** (E) — The Little Boatyard, Lime Street, Brightlingsea (timber cabin for light industrial use) (Tendring, 2026-10-02, allowed); ¶7: “the pattern and scales of growth promoted through the Settlement Hierarchy” — Policy wording described; light-industrial cabin decided on character and highway safety; allowed.
+- **stratford-26-01687-FUL** (E) — The Old School, Stretton-on-Fosse (Stratford-on-Avon, 2026-09-29, approved); (case file): “As the application is within an all other settlement, AS.10 is engaged” — Lowest tier noted; the officer applied the Annex B definition of a settlement and S4; approved.
+- **Excluded (X), 14:** 6000903, 6005788, 6006950, 6007179, 6007704, 6007757, 6008432, 6009135, 6009245, 6010376, 6011365, 6011882, 6012985, 6013651.
+
+Judgement calls to review:
+
+- **stratford-26-01894-PIP Pillerton Priors (C).** The balance says the village "by virtue of its status as a Category 4 local Service Village is considered to be a sustainable location", which reads like code A. It is coded C because the report also gives route and transport facts (pavements, a bus service, village facilities) at p.9. Refused on character.
+- **stratford-26-01660-OUT Ladbroke (D).** Coded D on the Lydiard Millicent precedent (site outside the tiered village's confines = plan conflict, limited weight, location decided on the route). E is arguable, as for Tanworth-in-Arden.
+- **6008804 Tasley (D/B).** The search matched our case file's words ("nearest service centre"), not the letter. The letter does use the plan's hierarchy against the site ("community hubs and community clusters"), so it is coded on the letter.
+- **6009245 Bushby (X).** "a sustainable village location" is a claimed benefit in a conservation-area appeal; no tier is referenced.
+
+The location-factors register (`../location-factors/`) follows this register for its `I1` code and was reconciled against the 170-row version; it needs reconciling again for the 19 new rows coded B, C, D or E.
+
 ## Verification
 
-174 quotations checked against source files (170 register rows + 4 pre-2026 SDC rows); **174 matched**, 0 unverified. Duplicate letters in the corpus (6007474/6007477, 6009101/6009103, 6012151/6012153, 6007619/6007620) are kept as separate rows and flagged in the influence column.
+174 quotations checked against source files on 1 Oct 2026 (170 register rows + 4 pre-2026 SDC rows); **174 matched**, 0 unverified. Since 6 Oct 2026 the page build checks every tier and route quotation in the register against its source: 235 of 235 for the 203 rows. Duplicate letters in the corpus (6007474/6007477, 6009101/6009103, 6012151/6012153, 6007619/6007620) are kept as separate rows and flagged in the influence column.
 
 ## Recoded 1 Oct 2026
 

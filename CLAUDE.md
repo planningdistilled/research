@@ -6,7 +6,7 @@ Guidance for Claude Code sessions in this repository. Read `README.md` for the l
 
 The research behind https://planningdistilled.org/: open research on planning decisions in England under the National Planning Policy Framework (NPPF) of 17 August 2026.
 
-- `data/decisions/`: one Markdown case file per decision (971 to 30 Sep 2026). `README.md` there is the schema. `DISTILLATION-GUIDE.md` is the manual for adding a decision; read it before writing a case.
+- `data/decisions/`: one Markdown case file per decision (1,064 to 2 Oct 2026). `README.md` there is the schema. `DISTILLATION-GUIDE.md` is the manual for adding a decision; read it before writing a case.
 - `data/guidance/`: one summary per published commentary on the new Framework (315), with stances and machine-checked quotes.
 - `data/open-sources/`: Crown copyright (Open Government Licence (OGL)) documents only. This holds the NPPF PDF and text, `pins-corpus/<ref>.txt` (the text of every new-style Planning Inspectorate (PINS) appeal decision letter we hold), decision PDFs, and MHCLG (Ministry of Housing, Communities and Local Government) and PINS pages.
 - `tools/`: the Python tools: harvest, index, normalise, quote checks, OCR and the publication gate.
@@ -75,13 +75,19 @@ uv run tools/build_index.py           # index only; fix every WARN for files you
 # Guidance corpus
 uv run tools/corpus_quotes.py         # re-check every corpus quotation (needs ../sources)
 
+# Stratford housing supply (data/decisions/analysis/stratford-housing-supply; read its README.md)
+uv run tools/stratford_supply.py      # homes approved and pending since the council's last supply calculation
+
 # Navigator (pages/england/nppf-navigator)
 npm ci && npm test && npm run typecheck && npm run build
 npm run export:pages                  # writes into main-site
 node build/method-page.mjs            # Method & cross-references page (+ sources/ sub-page)
 
 # Other pages
-node pages/england/service-village/build.mjs --pages
+node pages/england/sustainable-location/service-village/build.mjs --pages   # also rewrites the redirects at the former /research/england/service-village/
+python3 tools/location_factors.py --list             # check the location-factors register against the decision texts (needs ../sources)
+node pages/england/sustainable-location/factors/build.mjs   # "What decides a sustainable location" sub-page, from data/decisions/analysis/location-factors
+node pages/england/sustainable-location/build.mjs   # summary + sources/ sub-page; its source registry is the SRC list; run after factors/ (it uses the same register)
 # Stratford note: pages/authority/stratford-dc/nppf-decisions/build/README.md
 # Station Road on Foot: pages/settlement/claverdon/station-road-on-foot/README.md
 
@@ -104,7 +110,7 @@ Artifacts, the claude.ai copies (republish when the page changes):
 - **Run parallel agents in separate folders.** When several agents distil cases in parallel, give each its own scratch subdirectory, or they overwrite each other's helper scripts. Before writing a case, each agent must grep `data/decisions/cases/` for the appeal ref to avoid duplicates.
 - **Policy-code pattern lives in two places.** `pages/england/nppf-navigator/src/data/codes.ts` mirrors `CODE_RE` in `tools/pinscorpus.py` (the TypeScript one is extended with Annex and Transitional forms). Change both.
 - **Method page numbers come from the review registers.** `method-page.mjs` computes them from `data/decisions/analysis/appeals-review/issue-1..6.tsv`. It throws if its assumptions about the issue-1 breakdown stop holding; revise the wording, don't silence the check.
-- **Service-village row count is fixed.** `service-village/build.mjs` requires `settlement-tier-usage.tsv` to have exactly 170 rows of 14 fields.
+- **The service-village register must cover the dataset.** `service-village/build.mjs` repeats the tier search over every corpus letter and case file and fails if a matching decision has no row in `settlement-tier-usage.tsv` (14 fields a row). It also checks every quotation against its source. After a harvest, classify the new matches and add rows (codes and method: `appeals-review/settlement-tier-usage-summary.md`).
 - **`seo.py` won't update an existing licence line.** It adds the licence line only when a page lacks one. Fresh artifact exports get it; already-exported pages keep theirs.
 - **`finish.mjs` must run after every build.** It rewrites the `<!-- pd:meta -->` block. Never hand-edit that block, `sitemap.xml` or `llms*.txt`.
 - **Some council sites block fetching.** Many `*.moderngov.co.uk` sites sit behind Cloudflare and return 403. The working routes per council are in `DISTILLATION-GUIDE.md` §7.

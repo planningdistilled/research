@@ -47,4 +47,4 @@ jobs:
           npm run build
 
       - name: Site tools parse
-        run: node --check site/finish.mjs && node --check pages/england/service-village/build.mjs
+        run: node --check site/finish.mjs && node --check pages/england/sustainable-location/service-village/build.mjs && node --check pages/england/sustainable-location/factors/build.mjs && node --check pages/england/sustainable-location/factors/register.mjs
