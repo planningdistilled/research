@@ -53,6 +53,7 @@ const nHamlet = count(/\bhamlets?\b/gi);
 const nTown = count(/\btowns?\b/gi);
 const nTownCentre = count(/\btown centres?\b/gi);
 const nCity = count(/\bcit(y|ies)\b/gi);
+const nSettlement = count(/settlement/gi); // includes "settlement28", the footnote marker glued to the word in S5(1)(j)(i)
 if (nHamlet !== 1) throw new Error(`the Framework now uses "hamlet" ${nHamlet} times: revise the page`);
 if (/\bvillage:/i.test(nppfText) || /\bhamlet:/i.test(nppfText) || /\btown:/i.test(nppfText)) throw new Error('the Framework glossary now defines village, hamlet or town: revise the page');
 // The list of cities: count the English entries.
@@ -162,6 +163,16 @@ const uses = `<section id="uses"><h2>What the Framework does with "village"</h2>
 ${VILLAGE_USES.map((u) => `<tr><td><a href="${md(u.anchor)}"><span class="code">${esc(u.code)}</span></a></td><td><q>${esc(u.q)}</q></td><td>${u.role}</td></tr>`).join('\n')}
 </tbody></table></div>
 <p>So the word does real work in three places: the Annex B definition (a village is in, a hamlet is out), GB7(1)(c) (limited infilling is available in a village, not in a hamlet or a scattered group), and Annex E (two Green Belt purposes protect towns, not villages). Everywhere else it is descriptive.</p>
+</section>
+<section id="load-bearing"><h2>Is "village" a load-bearing distinction?</h2>
+<p>Yes, in those three places, and in each the weight falls on a word the Framework never defines. By way of scale: the August 2026 Framework uses "settlement" ${nSettlement} times, "village" ${nVillage} times and "hamlet" once.</p>
+<ul>
+<li><strong>Annex B, the settlement definition.</strong> A village is a settlement by nature; a hamlet or scattered group is not unless the plan names it. So village-or-hamlet decides whether the S4 presumption applies at all, and whether a site can be "physically well-related to an existing settlement" under S5(1)(j)(i). Chavel, West Willoughby, Higher Bal and Marton all turned on this.</li>
+<li><strong>GB7(1)(c), limited infilling in villages lying within the Green Belt.</strong> In the Green Belt the word cuts the other way. A washed-over village loses S4 under Annex B but gains this category; a hamlet in the Green Belt gets neither. Caldy and Nazeing turned on whether the site was part of a village.</li>
+<li><strong>Annex E, the Green Belt purposes.</strong> Purpose (a) is about large built-up areas, which "Villages should not be considered"; purposes (b) and (d) relate to towns, "not villages". Whether a place is a village or a town therefore feeds the grey belt test, as at Burnett, where a village's historic character counted for nothing under purpose (d).</li>
+</ul>
+<p>The other uses, in HO6 and GB4, are plan-making instructions and carry no weight in a decision.</p>
+<p>So the distinction is load-bearing, but the load is carried by planning judgment rather than by any rule. The Framework gives no threshold of houses, population or facilities, and the Court of Appeal has said twice that the question is one of fact and judgment on the ground, with a plan boundary relevant but not decisive. In practice the line is drawn by whichever of three things is available: the plan's own definition, the inspector's reading of the place, and then the Annex B carve-outs. That is why "is it a village?" has become the live argument in small rural appeals, in place of the "is it isolated?" argument that Braintree settled under the previous Framework.</p>
 </section>`;
 
 const line = `<section id="line"><h2>How the line between a village and a hamlet gets drawn</h2>
