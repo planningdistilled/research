@@ -1,0 +1,86 @@
+---
+term: Green Belt boundaries
+variants:
+  - Green Belt boundary
+group: Green Belt and land
+annex_b_definition: false
+nppf_occurrences: 11
+manual_occurrences: 25
+pins_note_occurrences: 0
+---
+
+# Green Belt boundaries
+
+## In the NPPF (11 lines)
+
+By chapter: Protecting Green Belt land (10), Plan-making policies (1)
+
+By policy or paragraph: PM1(2)(d) (1), GB2(2) (1), GB2(3) (1), GB3 (1), GB3(1) (1), GB3(3) (1), GB3(4) (1), GB4 (1), GB4(1) (1), GB4(1)(d) (1), GB4(1)(f) (1)
+
+- [PM1(2)(d)](../../../nppf/NPPF-August-2026.md#PM1-2-d) (p. 7): ...hed as Green Belt and broad locations where changes to Green Belt boundaries may need to be considered through local plan preparati...
+- [GB2(2)](../../../nppf/NPPF-August-2026.md#GB2-2) (p. 59): ...strategy and to identify whether there are areas where Green Belt boundaries may require further consideration through the preparat...
+- [GB2(3)](../../../nppf/NPPF-August-2026.md#GB2-3) (p. 59): ...at Annex E, which identifies grey belt and informs any Green Belt boundary alterations which accord with policy GB3.
+- [GB3](../../../nppf/NPPF-August-2026.md#GB3) (p. 60): GB3: Altering existing Green Belt boundaries
+- [GB3(1)](../../../nppf/NPPF-August-2026.md#GB3-1) (p. 60): Green Belt boundaries should only be altered through the preparation and upd...
+- [GB3(3)](../../../nppf/NPPF-August-2026.md#GB3-3) (p. 60): ...make an exceptional, limited alteration to the defined Green Belt boundary (which might be to accommodate a site inset within the...
+- [GB3(4)](../../../nppf/NPPF-August-2026.md#GB3-4) (p. 60): ...ces do not need to be demonstrated to justify altering Green Belt boundaries.
+- [GB4](../../../nppf/NPPF-August-2026.md#GB4) (p. 60): GB4: Defining Green Belt boundaries
+- [GB4(1)](../../../nppf/NPPF-August-2026.md#GB4-1) (p. 60): When defining Green Belt boundaries, whether as a result of altering or establishing Green...
+- [GB4(1)(d)](../../../nppf/NPPF-August-2026.md#GB4-1-d) (p. 60): Demonstrate that new Green Belt boundaries are broadly consistent with the spatial strategy for a...
+- [GB4(1)(f)](../../../nppf/NPPF-August-2026.md#GB4-1-f) (p. 61): Ensure Green Belt boundaries are defined clearly, using physical features that are...
+
+## In the Inspector Training Manual (25 paragraphs in 4 chapters)
+
+### 02 Site Visits (1)
+
+Pages: Part 1 p. 135
+
+File: [chapters/02-site-visits.md](../../chapters/02-site-visits.md)
+
+- Part 1 p. 135: ...erty or tree or the location of a Conservation Area or Green Belt boundary) – but frame any questions neutrally.
+
+### 36 Local Plan Examinations (plans submitted before 25 January 2019) (13)
+
+Pages: Part 2 p. 654, Part 2 p. 655, Part 2 p. 656, Part 2 p. 657, Part 2 p. 658, Part 2 p. 698, Part 2 p. 699, Part 2 p. 758
+
+File: [chapters/36-local-plan-examinations-plans-submitted-before-25.md](../../chapters/36-local-plan-examinations-plans-submitted-before-25.md)
+
+- Part 2 p. 654: ...agraphs 83 and 84 are also relevant in confirming that Green Belt boundaries should only be altered in exceptional circumstances an...
+- Part 2 p. 655: ...ys been the case that a local authority could adjust a Green Belt boundary through a review of the Local Plan. It must however al...
+- Part 2 p. 655: ...HN there is no policy requirement for it to review its Green Belt boundaries although there may be pressure to do so when neighbour...
+- Part 2 p. 655: 253. If proposals to re-draw the Green Belt boundary are put forward by a LPA in a strategic plan Inspector...
+- Part 2 p. 656: ...es do not exist. In most cases where the review of the Green Belt boundary is justified in principle, , the impact on Green Belt...
+- Part 2 p. 657: ...provide the exceptional circumstances for a change to Green Belt boundaries in this locality. There is no alternative approach tha...
+- Part 2 p. 657: 263. In cases where the Green Belt boundary is to be moved back, the high tests implicit in the re...
+- Part 2 p. 658: ...ing well beyond the plan period. This will ensure that Green Belt boundaries can endure in the longer term. The fourth bullet point...
+- Part 2 p. 698: ...tes are being dealt with in a separate DPD, given that Green Belt boundaries should not be frequently changed.
+- Part 2 p. 699: ...PF paragraph 83) necessary to make an amendment to the Green Belt boundary through plan-making.
+- Part 2 p. 758: Are the Green Belt boundaries in the plan appropriately defined and consistent with...
+- Part 2 p. 758: ...re any exceptional circumstances that justify altering Green Belt boundaries now?
+- ... and 1 more on the pages listed above
+
+### 37c Local Plan Examinations (NPPF 2024): Role of the Inspector in Examination (2)
+
+Pages: Part 2 p. 907, Part 2 p. 908
+
+File: [chapters/37c-local-plan-examinations-nppf-2024-role-of-the-insp.md](../../chapters/37c-local-plan-examinations-nppf-2024-role-of-the-insp.md)
+
+- Part 2 p. 907: ...it. For example, the plan may make alterations to the Green Belt boundary in order to provide enough housing land to meet the ob...
+- Part 2 p. 908: ...ances exist in principle to justify alterations to the Green Belt boundary.
+
+### 37g Local Plan Examinations (NPPF 2024): Housing (9)
+
+Pages: Part 3 p. 29, Part 3 p. 37, Part 3 p. 38, Part 3 p. 41, Part 3 p. 42
+
+File: [chapters/37g-local-plan-examinations-nppf-2024-housing.md](../../chapters/37g-local-plan-examinations-nppf-2024-housing.md)
+
+- Part 3 p. 29: ...ther means. In these circumstances, LPAs should review Green Belt boundaries and propose alterations to meet these needs in full, u...
+- Part 3 p. 37: ...ensure that they make the most efficient use of land. Green Belt boundaries should be reviewed and alterations may be proposed. (S...
+- Part 3 p. 38: 117. Green Belt boundaries should only be altered where exceptional circumstances...
+- Part 3 p. 38: 118. If that is the case, authorities should review Green Belt boundaries and propose alterations to meet those needs in full, u...
+- Part 3 p. 38: ...oduce a Green Belt assessment as part of the review of Green Belt boundaries. The review will inform local plan preparation and the...
+- Part 3 p. 41: ...gic plans should establish the need for any changes to Green Belt boundaries following the review of Green Belt. (See paragraphs 11...
+- Part 3 p. 41: 137. The new Green Belt boundary is usually shown on the policies map in the strategic...
+- Part 3 p. 41: ...exceptional circumstances exist to justify changes to Green Belt boundaries, the strategic policy-making authority should be able...
+- Part 3 p. 42: 142. When reviewing Green Belt boundaries, the need to promote sustainable patterns of developme...
+

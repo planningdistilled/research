@@ -1,0 +1,393 @@
+---
+term: Green Belt
+variants:
+  - Green Belts
+group: Green Belt and land
+annex_b_definition: false
+nppf_occurrences: 59
+manual_occurrences: 323
+pins_note_occurrences: 2
+---
+
+# Green Belt
+
+## In the NPPF (59 lines)
+
+By chapter: Protecting Green Belt land (39), Green Belt assessments (8),  (3), Achieving sustainable development (2), Delivering a sufficient supply of homes (2), Glossary (2), Plan-making policies (1), Promoting healthy communities (1), Implementation (1)
+
+By policy or paragraph: Protecting Green Belt land (2), PM1(2)(d) (1), S2(1)(c) (1), S5(5) (1), HO5(1)(a)(ii) (1), HO8(4) (1), GB1 (1), GB1(1) (1), GB1(1)(a) (1), GB2 (1), GB2(1) (1), GB2(2) (1), GB2(3) (1), GB3 (1), GB3(1) (1), GB3(2)(c) (1), GB3(3) (1), GB3(4) (1), GB4 (1), GB4(1) (1), GB4(1)(a) (1), GB4(1)(b) (1), GB4(1)(d) (1), GB4(1)(d)(i) (1), GB4(1)(d)(ii) (1), GB4(1)(e) (1), GB4(1)(f) (1), GB5 (1), GB5(1) (1), GB5(1)(a) (1), GB5(1)(b) (1), GB5(1)(c) (1), GB6 (1), GB6(1) (1), GB6(2) (1), GB7 (1), GB7(1) (1), GB7(1)(c) (1), GB7(1)(e) (1), GB7(1)(f) (1), GB7(1)(f)(i) (1), GB7(1)(g)(i) (1), GB8(1) (1), GB8(1)(a)(i) (1), GB8(2) (1), HC8(1) (1), AnnexA-10 (1), Annex B: Grey belt (1), Annex B: Settlement (1), Green Belt assessments (1), AnnexE-1 (1), AnnexE-1-a-i (1), AnnexE-1-a-ii (1), AnnexE-1-a-iii (1), AnnexE-1-b (1), AnnexE-1-c (1), AnnexE-2 (1), AnnexE-3 (1)
+
+- [PM1(2)(d)](../../../nppf/NPPF-August-2026.md#PM1-2-d) (p. 7): Identifying the general extent of areas established as Green Belt and broad locations where changes to Green Belt bounda...
+- [S2(1)(c)](../../../nppf/NPPF-August-2026.md#S2-1-c) (p. 24): ...achieve this aim, and should not apply to land in the Green Belt; and
+- [S5(5)](../../../nppf/NPPF-August-2026.md#S5-5) (p. 27): ...policy does not apply to development proposals in the Green Belt or on land designated as Local Green Space, which shou...
+- [HO5(1)(a)(ii)](../../../nppf/NPPF-August-2026.md#HO5-1-a-ii) (p. 34): ...sing on land which is proposed to be released from the Green Belt, or which may be approved on land within the Green Bel...
+- [HO8(4)](../../../nppf/NPPF-August-2026.md#HO8-4) (p. 36): ...major development on land within or released from the Green Belt (to which the requirements in policy GB8 apply).
+- [Protecting Green Belt land](../../../nppf/NPPF-August-2026.md#ch13) (p. 59): 13. Protecting Green Belt land
+- [Protecting Green Belt land](../../../nppf/NPPF-August-2026.md#ch13) (p. 59): The objective of Green Belt policy, as set out in this chapter, is to prevent urba...
+- [GB1](../../../nppf/NPPF-August-2026.md#GB1) (p. 59): GB1: Establishing new Green Belts
+- [GB1(1)](../../../nppf/NPPF-August-2026.md#GB1-1) (p. 59): As the general extent of Green Belt land across the country is already established, new Gr...
+- [GB1(1)(a)](../../../nppf/NPPF-August-2026.md#GB1-1-a) (p. 59): ...s in circumstances exist which make establishing a new Green Belt necessary as an exceptional measure;
+- [GB2](../../../nppf/NPPF-August-2026.md#GB2) (p. 59): GB2: Assessing existing Green Belt land
+- [GB2(1)](../../../nppf/NPPF-August-2026.md#GB2-1) (p. 59): ...be informed by an assessment of the strategic role of Green Belt land within the strategy area. This strategic Green Be...
+- [GB2(2)](../../../nppf/NPPF-August-2026.md#GB2-2) (p. 59): ...strategy and to identify whether there are areas where Green Belt boundaries may require further consideration through t...
+- [GB2(3)](../../../nppf/NPPF-August-2026.md#GB2-3) (p. 59): ...at Annex E, which identifies grey belt and informs any Green Belt boundary alterations which accord with policy GB3.
+- [GB3](../../../nppf/NPPF-August-2026.md#GB3) (p. 60): GB3: Altering existing Green Belt boundaries
+- [GB3(1)](../../../nppf/NPPF-August-2026.md#GB3-1) (p. 60): Green Belt boundaries should only be altered through the preparat...
+- [GB3(2)(c)](../../../nppf/NPPF-August-2026.md#GB3-2-c) (p. 60): ...ufficient suitable sites can be identified outside the Green Belt.
+- [GB3(3)](../../../nppf/NPPF-August-2026.md#GB3-3) (p. 60): ...make an exceptional, limited alteration to the defined Green Belt boundary (which might be to accommodate a site inset w...
+- [GB3(4)](../../../nppf/NPPF-August-2026.md#GB3-4) (p. 60): ...ces do not need to be demonstrated to justify altering Green Belt boundaries.
+- [GB4](../../../nppf/NPPF-August-2026.md#GB4) (p. 60): GB4: Defining Green Belt boundaries
+- [GB4(1)](../../../nppf/NPPF-August-2026.md#GB4-1) (p. 60): When defining Green Belt boundaries, whether as a result of altering or establi...
+- [GB4(1)(a)](../../../nppf/NPPF-August-2026.md#GB4-1-a) (p. 60): ...land which it is necessary to keep permanently open as Green Belt;
+- [GB4(1)(b)](../../../nppf/NPPF-August-2026.md#GB4-1-b) (p. 60): Include villages within the Green Belt where it is necessary to restrict development because...
+- [GB4(1)(d)](../../../nppf/NPPF-August-2026.md#GB4-1-d) (p. 60): Demonstrate that new Green Belt boundaries are broadly consistent with the spatial str...
+- [GB4(1)(d)(i)](../../../nppf/NPPF-August-2026.md#GB4-1-d-i) (p. 60): ...to the release of previously developed land within the Green Belt, then to grey belt land which is not previously develo...
+- [GB4(1)(d)(ii)](../../../nppf/NPPF-August-2026.md#GB4-1-d-ii) (p. 61): ...dermine the purposes (taken together) of the remaining Green Belt when considered across the area of the plan.
+- [GB4(1)(e)](../../../nppf/NPPF-August-2026.md#GB4-1-e) (p. 61): ...ing the provision of housing on land released from the Green Belt can meet the Golden Rules, as set out in policy GB8, a...
+- [GB4(1)(f)](../../../nppf/NPPF-August-2026.md#GB4-1-f) (p. 61): Ensure Green Belt boundaries are defined clearly, using physical feature...
+- [GB5](../../../nppf/NPPF-August-2026.md#GB5) (p. 61): GB5: Beneficial uses of Green Belt land
+- [GB5(1)](../../../nppf/NPPF-August-2026.md#GB5-1) (p. 61): Green Belt land should provide benefits for communities and natur...
+- [GB5(1)(a)](../../../nppf/NPPF-August-2026.md#GB5-1-a) (p. 61): ..., allotments and community food production, within the Green Belt;
+- [GB5(1)(b)](../../../nppf/NPPF-August-2026.md#GB5-1-b) (p. 61): How the Green Belt can contribute to the priorities for nature recovery s...
+- [GB5(1)(c)](../../../nppf/NPPF-August-2026.md#GB5-1-c) (p. 61): ...andscapes, where these lie wholly or partly within the Green Belt.
+- [GB6](../../../nppf/NPPF-August-2026.md#GB6) (p. 61): GB6: Control of development in the Green Belt
+- [GB6(1)](../../../nppf/NPPF-August-2026.md#GB6-1) (p. 61): Development in the Green Belt is inappropriate unless it falls within one of the cat...
+- [GB6(2)](../../../nppf/NPPF-August-2026.md#GB6-2) (p. 61): ...ropriate development is, by definition, harmful to the Green Belt and should not be approved except in very special circ...
+- [GB7](../../../nppf/NPPF-August-2026.md#GB7) (p. 62): GB7: Development which is not inappropriate in the Green Belt
+- [GB7(1)](../../../nppf/NPPF-August-2026.md#GB7-1) (p. 62): ...categories of development are not inappropriate in the Green Belt, and therefore should not be regarded as harmful to th...
+- [GB7(1)(c)](../../../nppf/NPPF-August-2026.md#GB7-1-c) (p. 62): Limited infilling in villages lying within the Green Belt;
+- [GB7(1)(e)](../../../nppf/NPPF-August-2026.md#GB7-1-e) (p. 62): ...ould not cause substantial harm to the openness of the Green Belt;
+- [GB7(1)(f)](../../../nppf/NPPF-August-2026.md#GB7-1-f) (p. 62): ...evelopment, provided the impact on the openness of the Green Belt is minimised, and there would not be a significant con...
+- [GB7(1)(f)(i)](../../../nppf/NPPF-August-2026.md#GB7-1-f-i) (p. 62): ...er and telecommunications infrastructure required in a Green Belt location;
+- [GB7(1)(g)(i)](../../../nppf/NPPF-August-2026.md#GB7-1-g-i) (p. 63): ...dermine the purposes (taken together) of the remaining Green Belt across the area of the plan;
+- [GB8(1)](../../../nppf/NPPF-August-2026.md#GB8-1) (p. 63): ...ision of housing is proposed on land released from the Green Belt through plan preparation or review, or on sites in the...
+- [GB8(1)(a)(i)](../../../nppf/NPPF-August-2026.md#GB8-1-a-i) (p. 63): ...major development on land within or released from the Green Belt (as established under policy HO5(1)(a)(ii)); or
+- [GB8(2)](../../../nppf/NPPF-August-2026.md#GB8-2) (p. 64): ...ing the provision of housing on land released from the Green Belt through plan preparation or review, or on sites in the...
+- [HC8(1)](../../../nppf/NPPF-August-2026.md#HC8-1) (p. 77): ...vant national decision-making policies for land in the Green Belt, excluding provisions relating to grey belt and previo...
+- [AnnexA-10](../../../nppf/NPPF-August-2026.md#AnnexA-10) (p. 100): • Green Belt Protection and Intentional Unauthorised Development (1...
+- [Annex B: Grey belt](../../../nppf/NPPF-August-2026.md#AnnexB-grey-belt) (p. 106): ...decision-making, ‘grey belt’ is defined as land in the Green Belt comprising previously developed land and/or any other...
+- [Annex B: Settlement](../../../nppf/NPPF-August-2026.md#AnnexB-settlement) (p. 112): ...llages which lie within and are defined as part of the Green Belt in the development plan.
+- [Green Belt assessments](../../../nppf/NPPF-August-2026.md#AnnexE) (p. 121): Annex E: Green Belt assessments
+- [AnnexE-1](../../../nppf/NPPF-August-2026.md#AnnexE-1) (p. 121): Green Belt assessments should:
+- [AnnexE-1-a-i](../../../nppf/NPPF-August-2026.md#AnnexE-1-a-i) (p. 121): Consider all Green Belt within the plan area in the first instance;
+- [AnnexE-1-a-ii](../../../nppf/NPPF-August-2026.md#AnnexE-1-a-ii) (p. 121): Be broadly consistent with any Strategic Green Belt assessment in an adopted Spatial Development Strategy;
+- [AnnexE-1-a-iii](../../../nppf/NPPF-August-2026.md#AnnexE-1-a-iii) (p. 121): ...ough to enable variations in their contribution to the Green Belt purposes to be assessed;
+- [AnnexE-1-b](../../../nppf/NPPF-August-2026.md#AnnexE-1-b) (p. 121): ...luating the contribution each assessment area makes to Green Belt purposes (a), (b) and (d) set out in policy GB2, using...
+- [AnnexE-1-c](../../../nppf/NPPF-August-2026.md#AnnexE-1-c) (p. 121): ...essment area(s) would fundamentally undermine the five Green Belt purposes (taken together) of the remaining Green Belt...
+- [AnnexE-2](../../../nppf/NPPF-August-2026.md#AnnexE-2) (p. 121): ...onsider the contribution that assessment areas make to Green Belt purposes (a), (b) and (d). Considerations for informin...
+- [AnnexE-3](../../../nppf/NPPF-August-2026.md#AnnexE-3) (p. 121): ...(such as an extended ‘finger’ of development into the Green Belt). \|
+
+## In the Inspector Training Manual (323 paragraphs in 26 chapters)
+
+### 000 Index and how to use the manual (1)
+
+Pages: Part 1 p. 4
+
+File: [chapters/000-index-and-how-to-use-the-manual.md](../../chapters/000-index-and-how-to-use-the-manual.md)
+
+- Part 1 p. 4: ### Green Belts
+
+### 00 Role of the Inspector (1)
+
+Pages: Part 1 p. 22
+
+File: [chapters/00-role-of-the-inspector.md](../../chapters/00-role-of-the-inspector.md)
+
+- Part 1 p. 22: ...e inappropriate and/or unauthorised development in the Green Belt; major green field housing; renewables; or any case wh...
+
+### 01 Approach to Decision Making (3)
+
+Pages: Part 1 p. 55, Part 1 p. 58, Part 1 p. 83
+
+File: [chapters/01-approach-to-decision-making.md](../../chapters/01-approach-to-decision-making.md)
+
+- Part 1 p. 55: heritage, protected landscapes, green belt or flooding (Sustainable Development policies, S2(2)).
+- Part 1 p. 58: ...unless specifically required to do so, e.g., heritage, green belt etc). These documents may nevertheless have featured a...
+- Part 1 p. 83: ...rial consideration. Planning Policy Statement (PPS) on Green Belt protection and intentional unauthorised development no...
+
+### 02 Site Visits (1)
+
+Pages: Part 1 p. 135
+
+File: [chapters/02-site-visits.md](../../chapters/02-site-visits.md)
+
+- Part 1 p. 135: ...erty or tree or the location of a Conservation Area or Green Belt boundary) – but frame any questions neutrally.
+
+### 03 Hearings (5)
+
+Pages: Part 1 p. 168, Part 1 p. 169
+
+File: [chapters/03-hearings.md](../../chapters/03-hearings.md)
+
+- Part 1 p. 168: ...the proposal would be inappropriate development in the Green Belt.
+- Part 1 p. 168: The effect of the proposal on the openness of the Green Belt.
+- Part 1 p. 168: ...r not the proposal is inappropriate development in the Green Belt
+- Part 1 p. 169: 5. Effect on the openness of the Green Belt
+- Part 1 p. 169: ### Green Belt and any other harm
+
+### 13 Community Infrastructure Levy (CIL): Examination of a Charging Schedule (1)
+
+Pages: Part 1 p. 509
+
+File: [chapters/13-community-infrastructure-levy-cil-examination-of-a.md](../../chapters/13-community-infrastructure-levy-cil-examination-of-a.md)
+
+- Part 1 p. 509: ...ld sites within the urban area, supported by strategic Green Belt releases, is very unlikely to change. There is a suffi...
+
+### 16 Costs Awards (1)
+
+Pages: Part 1 p. 635
+
+File: [chapters/16-costs-awards.md](../../chapters/16-costs-awards.md)
+
+- Part 1 p. 635: ...ase, for instance inappropriate development within the Green Belt without very special circumstances advanced, or develo...
+
+### 21 Enforcement Case Law (1)
+
+Pages: Part 1 p. 792
+
+File: [chapters/21-enforcement-case-law.md](../../chapters/21-enforcement-case-law.md)
+
+- Part 1 p. 792: ...ng conditions are made, as here, so as to maintain the green belt against those who would invade it, they ought to be su...
+
+### 23 GPDO and Prior Approval Appeals (2)
+
+Pages: Part 2 p. 24, Part 2 p. 64
+
+File: [chapters/23-gpdo-and-prior-approval-appeals.md](../../chapters/23-gpdo-and-prior-approval-appeals.md)
+
+- Part 2 p. 24: ...er policies in the Framework, such as those protecting Green Belts, are also irrelevant to what is ‘impractical or undesi...
+- Part 2 p. 64: 126. Planning policy on green belts in the Framework is not relevant to Class Q, and nor a...
+
+### 24 Green Belts (95)
+
+Pages: Part 2 p. 81, Part 2 p. 82, Part 2 p. 84, Part 2 p. 85, Part 2 p. 86, Part 2 p. 87, Part 2 p. 88, Part 2 p. 89, Part 2 p. 90, Part 2 p. 91, Part 2 p. 92, Part 2 p. 93, Part 2 p. 94, Part 2 p. 95, Part 2 p. 96, Part 2 p. 97, Part 2 p. 98, Part 2 p. 99, Part 2 p. 100, Part 2 p. 101, Part 2 p. 102, Part 2 p. 104, Part 2 p. 105, Part 2 p. 106, Part 2 p. 107, Part 2 p. 108, Part 2 p. 109
+
+File: [chapters/24-green-belts.md](../../chapters/24-green-belts.md)
+
+- Part 2 p. 81: Green Belts
+- Part 2 p. 82: Step 2: Would there be any non-Green Belt harm? ...................................................
+- Part 2 p. 82: Limited infilling in villages lying within the Green Belt - GB7(1)(c) ................................... 19
+- Part 2 p. 82: Annex 1 – Green Belt Flow Diagram ............................................
+- Part 2 p. 84: 4. In dealing with Green Belt casework the policies in the NPPF are a material consi...
+- Part 2 p. 85: ...grey belt land? How should the effects on openness and Green Belt purposes be considered?
+- Part 2 p. 85: 2. Would there be any other harm (this refers to non-Green Belt factors, for example to character and appearance), tha...
+- Part 2 p. 85: ...ations exist, do they clearly outweigh the harm to the Green Belt, and any other harm? (this is the ‘Green Belt balancin...
+- Part 2 p. 85: ...the proposal would be inappropriate development in the Green Belt [having regard to the National Planning Policy Framewo...
+- Part 2 p. 85: ...ct of the proposal on the openness and purposes of the Green Belt.
+- Part 2 p. 85: ...he proposal on [insert any main issues relating to non-Green Belt matters]].
+- Part 2 p. 85: ...other considerations clearly outweigh the harm to the Green Belt and any other harm so as to amount to very special cir...
+- ... and 83 more on the pages listed above
+
+### 25 Gypsy, Traveller and Travelling Showpeople Casework (63)
+
+Pages: Part 2 p. 110, Part 2 p. 111, Part 2 p. 125, Part 2 p. 126, Part 2 p. 127, Part 2 p. 128, Part 2 p. 129, Part 2 p. 130, Part 2 p. 138, Part 2 p. 144, Part 2 p. 151, Part 2 p. 159, Part 2 p. 163, Part 2 p. 175, Part 2 p. 177, Part 2 p. 178, Part 2 p. 179, Part 2 p. 180, Part 2 p. 181, Part 2 p. 182, Part 2 p. 183, Part 2 p. 185, Part 2 p. 186, Part 2 p. 189, Part 2 p. 192, Part 2 p. 193, Part 2 p. 194
+
+File: [chapters/25-gypsy-traveller-and-travelling-showpeople-casework.md](../../chapters/25-gypsy-traveller-and-travelling-showpeople-casework.md)
+
+- Part 2 p. 110: - Green Belt policy and ‘exceptions’ to inappropriate development f...
+- Part 2 p. 111: Traveller sites in the Green Belt .........................................................
+- Part 2 p. 125: ...s 16-18 set out the approach to Traveller sites in the Green Belt.
+- Part 2 p. 125: ### Traveller sites in the Green Belt
+- Part 2 p. 125: 56. Green Belt policy set out in paragraphs 142-160 of the NPPF and a...
+- Part 2 p. 125: ...finding that development would be inappropriate in the Green Belt does not in itself mean that there is conflict with th...
+- Part 2 p. 125: ...that: “Traveller sites (temporary or permanent) in the Green Belt are inappropriate development unless the exceptions se...
+- Part 2 p. 125: ...evelopment so long as it preserves the openness of the Green Belt and does not conflict with the purposes of including l...
+- Part 2 p. 125: ...aveller site would be inappropriate development in the Green Belt on the
+- Part 2 p. 126: ...aph 16 remains the starting point for consideration of Green Belt Traveller site appeals. It does not specify which ‘exc...
+- Part 2 p. 126: ...ler site would preserve or enhance the openness of the Green Belt, perhaps through the removal of pre-existing structure...
+- Part 2 p. 126: ...conclude that the development is inappropriate in the Green Belt under PPTS paragraph 16, attach substantial weight to...
+- ... and 51 more on the pages listed above
+
+### 29 Historic Environment (1)
+
+Pages: Part 2 p. 309
+
+File: [chapters/29-historic-environment.md](../../chapters/29-historic-environment.md)
+
+- Part 2 p. 309: ...proposal constitutes inappropriate development in the Green Belt; the effect of the proposal on the openness of the Gre...
+
+### 31 Housing (9)
+
+Pages: Part 2 p. 339, Part 2 p. 350, Part 2 p. 355, Part 2 p. 368, Part 2 p. 369, Part 2 p. 376, Part 2 p. 386
+
+File: [chapters/31-housing.md](../../chapters/31-housing.md)
+
+- Part 2 p. 339: Green Belt .........................................................
+- Part 2 p. 350: ...cial circumstances exist to justify development in the Green Belt.
+- Part 2 p. 355: ...raph 153 relating to very special circumstances in the Green Belt and in paragraphs 214 and 215 which relate to heritage...
+- Part 2 p. 355: ...e is no strong reason for refusing permission (such as Green Belt) then the outcome will be the same. However, a clear f...
+- Part 2 p. 368: - Major development housing schemes in the Green Belt should also adhere to the “Golden Rules” where the req...
+- Part 2 p. 369: ...ds as an exception to inappropriate development in the Green Belt (paragraph 154 f)).
+- Part 2 p. 376: ...ption sites cannot come forward in areas designated as Green Belt or in designated rural areas as defined by Annex 2 of...
+- Part 2 p. 386: ### Green Belt
+- Part 2 p. 386: ...ph 154 states that development is inappropriate in the Green Belt unless for a specified exception. New buildings for ag...
+
+### 33 Human Rights and Equality (15)
+
+Pages: Part 2 p. 447, Part 2 p. 465, Part 2 p. 466, Part 2 p. 473, Part 2 p. 475, Part 2 p. 476, Part 2 p. 477, Part 2 p. 505, Part 2 p. 512, Part 2 p. 514
+
+File: [chapters/33-human-rights-and-equality.md](../../chapters/33-human-rights-and-equality.md)
+
+- Part 2 p. 447: characteristics (Green Belt) ........................................................
+- Part 2 p. 465: ...rk, substantial weight must be attached to harm to the Green Belt by reason of inappropriateness, but even that is not i...
+- Part 2 p. 466: ...1. The decision-maker may find that harm caused to the Green Belt by a caravan site outweighs the best interests of the...
+- Part 2 p. 473: ...raveller site could reduce the duration of harm to the Green Belt, prevent homelessness in the short term and give the C...
+- Part 2 p. 475: ...fuse permission for the residential use of land in the Green Belt, it should be explained that the interference is neces...
+- Part 2 p. 476: ...porary planning permission for a Traveller site in the Green Belt was irrational or Wednesbury unreasonable, because the...
+- Part 2 p. 476: ...lancing exercise would change, because the harm to the Green Belt would be reduced. In accordance with then Government p...
+- Part 2 p. 477: ...n cases relating to ‘inappropriate development’ in the Green Belt, any finding that an interference with Article 8 right...
+- Part 2 p. 477: ...right under the European Convention’. He held that in Green Belt cases, ‘other considerations’ do not need to be rare i...
+- Part 2 p. 505: ...policy and legislation, such as the protection of the Green Belt, and the three aims set out in the PSED.
+- Part 2 p. 512: ...al garden building is inappropriate development in the Green Belt and harmful to the Green Belt by definition. I attach...
+- Part 2 p. 512: ...ding would remain on the site and continue to harm the Green Belt in posterity. The appellant also accepted at the heari...
+- ... and 3 more on the pages listed above
+
+### 34 Landscape and Visual Impact Assessment (2)
+
+Pages: Part 2 p. 516, Part 2 p. 526
+
+File: [chapters/34-landscape-and-visual-impact-assessment.md](../../chapters/34-landscape-and-visual-impact-assessment.md)
+
+- Part 2 p. 516: - New para 37 with reference to Green belts
+- Part 2 p. 526: 37. Green Belt (GB) is not a landscape designation. It does not deal...
+
+### 36 Local Plan Examinations (plans submitted before 25 January 2019) (50)
+
+Pages: Part 2 p. 579, Part 2 p. 580, Part 2 p. 652, Part 2 p. 654, Part 2 p. 655, Part 2 p. 656, Part 2 p. 657, Part 2 p. 658, Part 2 p. 667, Part 2 p. 668, Part 2 p. 669, Part 2 p. 674, Part 2 p. 690, Part 2 p. 698, Part 2 p. 699, Part 2 p. 700, Part 2 p. 707, Part 2 p. 708, Part 2 p. 740, Part 2 p. 742, Part 2 p. 757, Part 2 p. 758, Part 2 p. 760
+
+File: [chapters/36-local-plan-examinations-plans-submitted-before-25.md](../../chapters/36-local-plan-examinations-plans-submitted-before-25.md)
+
+- Part 2 p. 579: Green Belt and exceptional circumstances ...........................
+- Part 2 p. 580: The Green Belt .........................................................
+- Part 2 p. 652: ...rge urban extensions which have to be removed from the Green Belt which will take some years to get underway. If a backl...
+- Part 2 p. 654: ### Green Belt and exceptional circumstances
+- Part 2 p. 654: 249. Any changes to the Green Belt, whether for housing, economic or other needs, are a s...
+- Part 2 p. 654: ...A LPAs should “take account of any constraints such as Green Belt, which indicate that development should be restricted...
+- Part 2 p. 655: ...ys been the case that a local authority could adjust a Green Belt boundary through a review of the Local Plan. It must h...
+- Part 2 p. 655: ...HN there is no policy requirement for it to review its Green Belt boundaries although there may be pressure to do so whe...
+- Part 2 p. 655: 253. If proposals to re-draw the Green Belt boundary are put forward by a LPA in a strategic plan...
+- Part 2 p. 655: ...The next step is to consider whether there is any non-Green Belt rural land which could meet all or part of the unmet n...
+- Part 2 p. 655: ...re is limited technical advice for LPAs on undertaking Green Belt reviews. It is contained in LGA/PAS: Planning on the D...
+- Part 2 p. 656: ...ic level or second stage, the focus is nevertheless on Green Belt purposes at paragraph 80 of the NPPF because these are...
+- ... and 38 more on the pages listed above
+
+### 37b Local Plan Examinations (NPPF 2024): Plan Preparation (1)
+
+Pages: Part 2 p. 828
+
+File: [chapters/37b-local-plan-examinations-nppf-2024-plan-preparation.md](../../chapters/37b-local-plan-examinations-nppf-2024-plan-preparation.md)
+
+- Part 2 p. 828: ...e major constraints on development such as flood risk, Green Belt or National Landscape apply, there are also likely to...
+
+### 37c Local Plan Examinations (NPPF 2024): Role of the Inspector in Examination (9)
+
+Pages: Part 2 p. 863, Part 2 p. 897, Part 2 p. 906, Part 2 p. 907, Part 2 p. 908
+
+File: [chapters/37c-local-plan-examinations-nppf-2024-role-of-the-insp.md](../../chapters/37c-local-plan-examinations-nppf-2024-role-of-the-insp.md)
+
+- Part 2 p. 863: ...lack of capacity, or if they are proposing to release Green Belt land because they consider that insufficient Green Bel...
+- Part 2 p. 897: ...sk; the definition of inappropriate development in the Green Belt and the exceptional circumstances test; the approach t...
+- Part 2 p. 897: ...at the LPA will deal with planning applications in the Green Belt in accordance with national planning policy.
+- Part 2 p. 906: ...tial strategy to accommodate that development, and any Green Belt alterations), soundness of site allocations, and sound...
+- Part 2 p. 907: ...it. For example, the plan may make alterations to the Green Belt boundary in order to provide enough housing land to me...
+- Part 2 p. 907: 393. If the plan is allocating Green Belt sites for development, when dealing with site allocati...
+- Part 2 p. 908: ...sue of whether there is a need in principle to release Green Belt land in order to meet development needs.
+- Part 2 p. 908: ...ances exist in principle to justify alterations to the Green Belt boundary.
+- Part 2 p. 908: ...istribution of development land, and to the release of Green Belt land if that is proposed, are consistent with the stra...
+
+### 37d Local Plan Examinations (NPPF 2024): Sustainability Appraisal, Habitats Regulations Assessment, Climate Change, Air Quality and Flood Risk (1)
+
+Pages: Part 2 p. 927
+
+File: [chapters/37d-local-plan-examinations-nppf-2024-sustainability-a.md](../../chapters/37d-local-plan-examinations-nppf-2024-sustainability-a.md)
+
+- Part 2 p. 927: ...peal was successful on a reasons challenge relating to Green Belt release, and not because of any breach of the SEA regu...
+
+### 37g Local Plan Examinations (NPPF 2024): Housing (39)
+
+Pages: Part 3 p. 15, Part 3 p. 16, Part 3 p. 29, Part 3 p. 31, Part 3 p. 36, Part 3 p. 37, Part 3 p. 38, Part 3 p. 39, Part 3 p. 40, Part 3 p. 41, Part 3 p. 42, Part 3 p. 52, Part 3 p. 60, Part 3 p. 61
+
+File: [chapters/37g-local-plan-examinations-nppf-2024-housing.md](../../chapters/37g-local-plan-examinations-nppf-2024-housing.md)
+
+- Part 3 p. 15: Green Belt review ..................................................
+- Part 3 p. 16: Sites released from the Green Belt .........................................................
+- Part 3 p. 16: Affordable housing on sites released from the Green Belt by the plan ................. 47
+- Part 3 p. 29: 60. Where the plan contains Green Belt, NPPF 146 indicates that the exceptional circumstances...
+- Part 3 p. 31: 72. This is particularly relevant where land in the Green Belt has been proposed for release for housing on the groun...
+- Part 3 p. 31: ...and, including the spatial strategy and the release of Green Belt. It is not appropriate to try to do this through the n...
+- Part 3 p. 36: ...lve the provision of housing on land released from the Green Belt under exceptional circumstances, for example, where an...
+- Part 3 p. 37: ...ensure that they make the most efficient use of land. Green Belt boundaries should be reviewed and alterations may be p...
+- Part 3 p. 38: ### Green Belt review
+- Part 3 p. 38: 117. Green Belt boundaries should only be altered where exceptional ci...
+- Part 3 p. 38: 118. If that is the case, authorities should review Green Belt boundaries and propose alterations to meet those needs...
+- Part 3 p. 38: 119. Local authorities should produce a Green Belt assessment as part of the review of Green Belt boundar...
+- ... and 27 more on the pages listed above
+
+### 39 Minerals (9)
+
+Pages: Part 3 p. 324, Part 3 p. 325, Part 3 p. 338, Part 3 p. 339
+
+File: [chapters/39-minerals.md](../../chapters/39-minerals.md)
+
+- Part 3 p. 324: Chapter 13 (GB1-GB8) – Protecting Green Belt Land
+- Part 3 p. 324: ...Policy GB6 of the NPPF states that development in the Green Belt is inappropriate unless it falls within one of the cat...
+- Part 3 p. 325: Belt, provided that the impact on the openness of the Green Belt is minimised and there would not be a significant conf...
+- Part 3 p. 338: ...as National Parks, the Broads, National Landscapes or green belt, where specific policy constraints apply.
+- Part 3 p. 338: 124. In the Green Belt, judgement is required under Policy GB7(1) of the NPPF...
+- Part 3 p. 338: ...rtain forms of development as not inappropriate in the Green Belt, new buildings associated with mineral development may...
+- Part 3 p. 338: 126. The consideration of green belt openness is often applicable to mineral development fo...
+- Part 3 p. 339: ...a barrier to urban sprawl a quarry may be regarded in Green Belt policy terms as no less effective than a stretch of ag...
+- Part 3 p. 339: ...ness, the preservation of openness and purposes of the Green Belt is “the duration of development and the reversibility...
+
+### 40 Mobile Telecommunications (4)
+
+Pages: Part 3 p. 356
+
+File: [chapters/40-mobile-telecommunications.md](../../chapters/40-mobile-telecommunications.md)
+
+- Part 3 p. 356: ### Green Belts
+- Part 3 p. 356: 66. In planning appeals Green Belt issues should be dealt with in the same way as any oth...
+- Part 3 p. 356: ...ikely to be regarded as a building for the purposes of Green Belt policy having regard to the definition of ‘building’ i...
+- Part 3 p. 356: ...evelopment rights for Part 16 development apply in the Green Belt. Therefore, in prior approval appeals the principle of...
+
+### 43 Noise (1)
+
+Pages: Part 3 p. 598
+
+File: [chapters/43-noise.md](../../chapters/43-noise.md)
+
+- Part 3 p. 598: ...al amenity, govt’s policy on energy mix; impact on the Green Belt, visual impact, impact on wildlife, impact on schedule...
+
+### 49 Rural Issues (2)
+
+Pages: Part 3 p. 861, Part 3 p. 862
+
+File: [chapters/49-rural-issues.md](../../chapters/49-rural-issues.md)
+
+- Part 3 p. 861: ...or forestry buildings” (emphasis added). See the ITM: Green Belts for further advice.
+- Part 3 p. 862: ...sework issues; including housing for rural workers and Green Belts.
+
+### 50 Secretary of State Casework (1)
+
+Pages: Part 3 p. 872
+
+File: [chapters/50-secretary-of-state-casework.md](../../chapters/50-secretary-of-state-casework.md)
+
+- Part 3 p. 872: ...g appeals relating to gypsy and traveller sites in the green belt; renewable energy; and neighbourhood plans.
+
+### 54 Waste Planning (5)
+
+Pages: Part 4 p. 134, Part 4 p. 147, Part 4 p. 149, Part 4 p. 150
+
+File: [chapters/54-waste-planning.md](../../chapters/54-waste-planning.md)
+
+- Part 4 p. 134: i) Green Belt – strengthens protection for the Green Belt by removin...
+- Part 4 p. 147: ...finding proposed waste site complied in principle with Green Belt policy).
+- Part 4 p. 149: ...of use? If so, was that appropriate development in the Green Belt. The Inspector concluded that i) there was no evidence...
+- Part 4 p. 150: ...lanning permission and it would constitute harm to the Green Belt. All appeals were dismissed and the enforcement notice...
+- Part 4 p. 150: ...exploration of coal. The main issues were harm to the Green belt; geological setting and impact on water resources; com...
+
+## In PINS Note 04/2026 (2)
+
+- p. 6: ...ge, biodiversity, active and sustainable transport and Green Belt designations may all be relevant. Downstream LDPs, all...
+- p. 9: - Green Belt Protection and Intentional Unauthorised Development (1...

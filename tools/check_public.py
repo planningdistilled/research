@@ -16,7 +16,7 @@ import sys
 ROOT = os.path.abspath(os.path.join(os.path.dirname(__file__), '..'))
 MAX_BYTES = 25 * 2**20
 # Folders of data/open-sources/ that may hold third-party documents: Crown copyright under the OGL only.
-OGL_DIRS = {'nppf', 'pins-corpus', 'pins-letters', 'guidance-ogl'}
+OGL_DIRS = {'nppf', 'pins-corpus', 'pins-letters', 'guidance-ogl', 'pins-training-manual'}
 # Personal identifiers that must never appear (kept as fragments so this file does not match itself).
 IDENTITY = re.compile('|'.join([
     'mulli' + 'neux', 'dan' + 'mux', 'old butch' + 'ers', 'lye green ro' + 'ad', r'cv35\s?8' + 'll',

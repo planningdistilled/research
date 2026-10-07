@@ -1,0 +1,272 @@
+# Terms and phrases for the glossary (tools/itm_md.py glossary). One term per line: `term | variant | variant`.
+# Matching is case-insensitive, allows plural (-s/-es) and treats spaces and hyphens alike.
+# `@annexB` expands to every Annex B glossary term, `@policies` to every policy code (PM1 ... HE8),
+# `@chapters` to every chapter title. A term that already appeared in an earlier group is skipped.
+
+## Annex B defined terms
+@annexB
+
+## Policy codes
+@policies
+
+## Chapter titles
+@chapters
+
+## The 2026 system: plans and policies
+National Planning Policy Framework | the Framework | NPPF
+national decision-making policies | national decision-making policy | decision-making policies | decision-making policy
+plan-making policies | plan-making policy
+plan-making authority | plan-making authorities
+development plan
+up-to-date development plan | up to date development plan
+emerging plan | emerging development plan | emerging local plan
+development plan requirements
+spatial strategy
+strategic planning authority | strategic planning authorities
+combined authority | combined authorities
+Mayor of London
+policies which duplicate, substantively restate or are inconsistent | duplicate, substantively restate or are inconsistent | substantively restate
+Planning Practice Guidance | PPG
+Written Ministerial Statement | Written Ministerial Statements
+National Policy Statement | National Policy Statements
+Nationally Significant Infrastructure Project | Nationally Significant Infrastructure Projects | NSIP
+Annex A: Implementation | transitional arrangements | transitional provisions
+Annex B: Glossary | Annex B
+policies map
+
+## Decision-making
+development proposal | development proposals
+presumption in favour of sustainable development | the presumption
+sustainable development
+material consideration | material considerations
+material consideration of critical importance | critical importance
+in accordance with the development plan | accordance with the development plan
+should be approved | should be approved unless
+should be refused | should be refused unless
+substantially outweighed | substantially outweigh | substantially outweighs
+significantly and demonstrably outweigh | significantly and demonstrably outweighs | significantly and demonstrably outweighed
+clearly outweigh | clearly outweighs | clearly outweighed
+outweigh | outweighs | outweighed
+substantial weight
+great weight
+significant weight
+considerable weight
+limited weight
+moderate weight
+weight should be given | weight should be attached
+clear justification
+strong reasons
+exceptional circumstances
+very special circumstances
+wholly exceptional
+adverse impact | adverse impacts | adverse effect | adverse effects
+cumulative impact | cumulative impacts | cumulative effect | cumulative effects
+living conditions
+agent of change
+planning balance
+tilted balance
+main issue | main issues
+pre-application engagement | pre-application
+information requirements
+validation
+planning condition | planning conditions | conditions should only be imposed
+planning obligation | planning obligations | developer contributions
+viability assessment | viability
+enforcement action | unauthorised development
+retrospective | retrospectively
+permitted development | permitted development rights
+Article 4 direction | Article 4 directions
+Local Development Order | Neighbourhood Development Order | development order | development orders
+permission in principle
+
+## Settlements and location
+settlement | settlements
+within settlements | within a settlement | within the settlement | inside settlements | inside a settlement
+outside settlements | outside a settlement | outside the settlement
+physically well-related | physically well related
+built-up area | built-up areas | built up area
+large built-up area | large built-up areas
+isolated home | isolated homes | isolated homes in the countryside
+countryside
+rural business | rural businesses | rural business development
+rural workers | rural worker | dwellings for rural workers
+rural exception site | rural exception sites | exception site | exception sites
+community-led development | community-led
+reuse of existing buildings | reuse of an existing building | replacement of an existing building | replacement building | replacement dwelling
+infill | infilling
+hamlet | hamlets
+village | villages
+washed over | washed-over
+
+## Housing
+housing need | housing needs
+local housing need
+standard method
+housing requirement | housing requirement figure | housing requirements
+Housing Delivery Test | HDT
+unmet need | unmet housing need | evidenced unmet need
+five year supply | five-year supply | 5 year supply | 5-year supply | five year housing land supply | five years' supply | supply of specific deliverable sites
+deliverable | deliverability
+developable
+windfall sites | windfall site | windfalls
+affordable housing
+social rent
+First Homes | first home
+essential local workers | essential local worker
+older people
+disabled people
+specialist accommodation | specialist forms of accommodation | specialist community-based accommodation
+self-build and custom-build housing | self-build | custom-build | custom build | self build
+Build to Rent | build-to-rent
+build out | build-out | build-out rates | build out rate
+traveller site | traveller sites | gypsy and traveller site | gypsy and traveller sites
+Gypsies and Travellers | Gypsies and travellers | gypsy and traveller | Gypsy, Traveller
+Travelling Showpeople | travelling show people
+pitches and plots | pitch | plot requirements
+strategic site | strategic sites
+large-scale shared living | shared living accommodation
+mix of sites | diverse mix of sites | small and medium sized sites | small sites
+
+## Green Belt and land
+Green Belt | Green Belts
+grey belt | grey-belt
+golden rules
+inappropriate development | not inappropriate
+openness
+Green Belt purposes | purposes of the Green Belt | purposes of including land in the Green Belt | purposes of including land within the Green Belt
+Green Belt boundaries | Green Belt boundary
+well-connected station | well-connected stations
+previously developed land | brownfield land | brownfield
+Local Green Space | Local Green Spaces
+Metropolitan Open Land
+effective use of land | efficient use of land
+density | densities | appropriate densities
+best and most versatile agricultural land | best and most versatile | BMV
+agricultural land
+
+## Design and places
+well-designed places | well-designed
+design code | design codes
+design guide | design guides
+masterplan | masterplans
+National Design Guide | National Model Design Code | Model Design Codes
+placemaking | place-making
+beauty | beautiful
+character and appearance
+local character | character of the area
+amenity | residential amenity
+
+## Transport
+walking, wheeling, cycling and public transport | walking, wheeling and cycling | walking wheeling cycling
+reasonable walking distance
+sustainable transport modes | sustainable transport | sustainable modes of transport
+vision-led approach | vision-led
+connectivity tool | Connectivity
+transport assessment | transport statement | travel plan
+unacceptable impact on highway safety | highway safety
+residual cumulative impacts on the road network | road network | severe
+parking standards | car parking
+electric vehicle charging | electric vehicle | EV charging
+freight and logistics
+
+## Historic environment
+heritage asset | heritage assets
+designated heritage asset | designated heritage assets
+non-designated heritage asset | non-designated heritage assets
+significance of the heritage asset | significance of a heritage asset | significance of heritage assets
+setting of a heritage asset | setting of heritage assets | setting
+substantial harm
+less than substantial harm
+public benefits | public benefit
+conservation area | conservation areas
+listed building | listed buildings
+scheduled monument | scheduled monuments
+World Heritage Site | World Heritage Sites | Outstanding Universal Value
+archaeological interest
+historic environment
+Historic Environment Record
+great weight should be given to the asset's conservation | conservation of heritage assets | asset's conservation
+
+## Natural environment
+natural environment
+biodiversity net gain | net gain
+irreplaceable habitat | irreplaceable habitats
+ancient woodland | ancient or veteran tree | ancient or veteran trees | veteran tree
+Local Nature Recovery Strategy | Local Nature Recovery Strategies | nature recovery
+habitats site | habitats sites | Habitats Regulations | Habitats Regulations Assessment | HRA | appropriate assessment
+Site of Special Scientific Interest | Sites of Special Scientific Interest | SSSI
+Special Area of Conservation | Special Areas of Conservation | SAC
+Special Protection Area | Special Protection Areas | SPA
+Ramsar site | Ramsar sites | Ramsar
+protected landscape | protected landscapes | National Park | National Parks | National Landscape | National Landscapes | Area of Outstanding Natural Beauty | AONB | the Broads
+landscape and scenic beauty | scenic beauty | valued landscape | valued landscapes
+green infrastructure
+open space | open spaces
+playing field | playing fields
+ecosystem services | natural capital | nature based solutions | nature-based solutions
+tranquillity | tranquil
+dark skies | light pollution
+air quality | Air Quality Management Area | Air Quality Management Areas | AQMA
+noise | significant observed adverse effect level | SOAEL | LOAEL
+contamination | contaminated land | land stability
+pollution
+water quality | water supply | water infrastructure
+
+## Flood risk and climate
+flood risk
+sequential test
+exception test
+site-specific flood risk assessment | flood risk assessment | strategic flood risk assessment | SFRA
+flood zone | flood zones | functional floodplain
+Flood Map for Planning
+sustainable drainage | sustainable drainage system | sustainable drainage systems | SuDS
+coastal change | Coastal Change Management Area
+climate change
+climate change mitigation | mitigation of climate change
+climate change adaptation | adaptation to climate change
+net zero | greenhouse gas emissions | greenhouse gas
+renewable and low carbon energy | renewable energy | low carbon energy
+electricity network infrastructure | electricity network
+repowering | repower
+heat network | heat networks
+energy efficiency | energy efficient
+
+## Economy, town centres and infrastructure
+economic growth | long-term economic growth
+business land and premises | employment land | employment sites
+data centre | data centres | gigafactory | gigafactories | laboratories
+town centre | town centres
+main town centre uses | main town centre use
+sequential approach
+edge of centre | out of centre | in centre
+primary shopping area | primary shopping areas
+impact assessment | retail impact | impact on town centres
+vitality and viability
+community facilities | public service infrastructure | public services
+telecommunications | telecommunications infrastructure | mobile telecommunications | electronic communications
+International Commission on Non-Ionising Radiation Protection | ICNIRP | non-ionising radiation
+minerals | mineral extraction | mineral resources
+Mineral Safeguarding Area | Mineral Safeguarding Areas | safeguarding
+landbank | landbanks | aggregate
+peat | coal | onshore oil and gas | hydrocarbons | unconventional hydrocarbons | fracking
+waste | waste management | waste plan | waste plans
+major hazard | major hazard sites | major accident | COMAH | hazardous substances
+
+## Plan-making and examination
+local plan | local plans
+neighbourhood plan | neighbourhood plans | neighbourhood planning
+supplementary plan | supplementary plans
+minerals and waste plan | minerals and waste plans
+spatial development strategy | spatial development strategies | SDS
+sustainability appraisal | strategic environmental assessment | SEA
+soundness | sound | legally compliant | legal compliance
+examination | examining Inspector | independent examination
+main modifications | modifications
+cooperation between plan-making authorities | statement of common ground | duty to cooperate | duty to co-operate
+evidence base | proportionate evidence
+site allocation | site allocations | allocated sites | allocated for development
+broad locations for growth | broad locations
+plan period
+Community Infrastructure Levy | CIL | charging schedule
+infrastructure delivery | infrastructure funding statement | infrastructure requirements
+habitats | Habitats Regulations Assessment of plans
