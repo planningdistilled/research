@@ -21,6 +21,7 @@ SITE = os.path.abspath(os.environ.get('PD_SITE') or os.path.join(ROOT, '..', 'ma
 PINS_CORPUS = os.path.join(OPEN, 'pins-corpus')
 NPPF_PDF = os.path.join(OPEN, 'nppf', 'NPPF-August-2026.pdf')
 NPPF_TXT = os.path.join(OPEN, 'nppf', 'NPPF-August-2026.txt')
+NPPF_MD = os.path.join(OPEN, 'nppf', 'NPPF-August-2026.md')
 
 
 def has_sources():

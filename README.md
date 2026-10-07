@@ -18,7 +18,7 @@ data/
                     DISTILLATION-GUIDE.md is the manual for adding decisions; README.md is the schema
   guidance/         corpus/*.md (one summary per source), quotes-check.json, analysis/
   open-sources/     OGL documents the tools read and the notes cite
-    nppf/           the Framework (Aug 2026, Dec 2024) and its text
+    nppf/           the Framework (Aug 2026, Dec 2024): PDF, text, and a generated Markdown edition with a README (tools/nppf_md.py)
     pins-corpus/    full text of every Planning Inspectorate decision letter harvested (<ref>.txt)
     pins-letters/   decision letter PDFs (PINS, Secretary of State, Crown development)
     guidance-ogl/   MHCLG and Planning Inspectorate pages from the guidance corpus

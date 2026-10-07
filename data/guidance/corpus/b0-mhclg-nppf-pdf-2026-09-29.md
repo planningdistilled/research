@@ -8,8 +8,8 @@ date: 2026-09-29 (asset linked from that date; file content identical to the 17 
 audience: everyone (local planning authorities, applicants, inspectors, public)
 is_training: false
 about_draft: false
-local_copy: open:guidance-ogl/b0-mhclg-nppf-pdf-2026-09-29.pdf
-local_text: open:guidance-ogl/b0-mhclg-nppf-pdf-2026-09-29.txt
+local_copy: open:nppf/NPPF-August-2026.pdf
+local_text: open:nppf/NPPF-August-2026.txt
 verification: local-text
 retrieved_on: 2026-10-02
 category: official
@@ -32,3 +32,4 @@ Identical to `b0-mhclg-nppf-pdf-2026-08-17`. They are not repeated here so the s
 
 - The PDF modification date (17 September 2026) is later than the publication date. If anyone claims the text changed after 17 August, the Wayback Machine copy of the 17 August asset would settle it; our two downloads today are identical.
 - Small wording differences between the PDF and the HTML pages: Annex A para 3 reads "five years" in the PDF and "5 years" in the HTML. The Chapter 4 HTML page's "Continue to" link mislabels Chapter 5 as "Delivering a sufficient supply of homes (HO1–13)", which is Chapter 6.
+- Saved copy: the canonical Framework file in `data/open-sources/nppf/`, shared with `b0-mhclg-nppf-pdf-2026-08-17` since the two assets are byte-identical.

@@ -180,6 +180,36 @@
    }
   ]
  },
+ "b0-mhclg-nppf-annex-c-information-requirements": {
+  "has_text": true,
+  "summary": [],
+  "positions": []
+ },
+ "b0-mhclg-nppf-annex-f-flood-risk": {
+  "has_text": true,
+  "summary": [],
+  "positions": []
+ },
+ "b0-mhclg-nppf-ch1-introduction": {
+  "has_text": true,
+  "summary": [],
+  "positions": []
+ },
+ "b0-mhclg-nppf-ch10-clean-energy-water": {
+  "has_text": true,
+  "summary": [],
+  "positions": []
+ },
+ "b0-mhclg-nppf-ch11-minerals": {
+  "has_text": true,
+  "summary": [],
+  "positions": []
+ },
+ "b0-mhclg-nppf-ch12-effective-use-of-land": {
+  "has_text": true,
+  "summary": [],
+  "positions": []
+ },
  "b0-mhclg-nppf-ch13-green-belt": {
   "has_text": true,
   "summary": [
@@ -247,6 +277,31 @@
     ]
    }
   ]
+ },
+ "b0-mhclg-nppf-ch16-healthy-communities": {
+  "has_text": true,
+  "summary": [],
+  "positions": []
+ },
+ "b0-mhclg-nppf-ch17-pollution": {
+  "has_text": true,
+  "summary": [],
+  "positions": []
+ },
+ "b0-mhclg-nppf-ch18-flood-risk": {
+  "has_text": true,
+  "summary": [],
+  "positions": []
+ },
+ "b0-mhclg-nppf-ch19-natural-environment": {
+  "has_text": true,
+  "summary": [],
+  "positions": []
+ },
+ "b0-mhclg-nppf-ch2-plan-making": {
+  "has_text": true,
+  "summary": [],
+  "positions": []
  },
  "b0-mhclg-nppf-ch4-sustainable-development": {
   "has_text": true,
@@ -316,6 +371,26 @@
     ]
    }
   ]
+ },
+ "b0-mhclg-nppf-ch5-climate-change": {
+  "has_text": true,
+  "summary": [],
+  "positions": []
+ },
+ "b0-mhclg-nppf-ch7-economy": {
+  "has_text": true,
+  "summary": [],
+  "positions": []
+ },
+ "b0-mhclg-nppf-ch8-town-centres": {
+  "has_text": true,
+  "summary": [],
+  "positions": []
+ },
+ "b0-mhclg-nppf-ch9-communications": {
+  "has_text": true,
+  "summary": [],
+  "positions": []
  },
  "b0-mhclg-nppf-guidance-page": {
   "has_text": true,

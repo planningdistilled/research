@@ -11,11 +11,13 @@ Extracted from data/open-sources/nppf/NPPF-August-2026.pdf. Use these codes (wit
 - PM7: Initiating plan-making for local plans and minerals and waste plans
 - PM8: Evidence for plan-making
 - PM9: Identifying and assessing land for development
+- PM10: Maintaining cooperation between plan-making authorities
 - PM11: Demonstrating cooperation between plan-making authorities
 - PM12: Developer contributions
 - PM13: Setting standards
 - PM14: Examining spatial development strategies
 - PM15: Examining local plans and minerals and waste plans
+- PM16: Examining supplementary plans
 - PM17: Examining neighbourhood plans
 - DM1: Preparing development proposals
 - DM2: Information requirements
@@ -37,6 +39,7 @@ Extracted from data/open-sources/nppf/NPPF-August-2026.pdf. Use these codes (wit
 - CC2: Mitigation of climate change
 - CC3: Adaptation to climate change
 - HO1: Assessing the need for homes
+- HO2: Setting requirement figures for homes
 - HO3: Providing land for homes
 - HO4: Land for strategic site development
 - HO5: Meeting the needs of different groups
@@ -60,7 +63,7 @@ Extracted from data/open-sources/nppf/NPPF-August-2026.pdf. Use these codes (wit
 - CO2: Supporting information for telecommunications infrastructure proposals
 - W1: Planning for energy and water
 - W2: Securing renewable and low carbon energy and electricity network infrastructure
-- W3: Renewable and low carbon energy development and electricity network
+- W3: Renewable and low carbon energy development and electricity network infrastructure
 - W4: Water infrastructure
 - M1: Planning for a sufficient supply of minerals
 - M2: Safeguarding mineral resources and infrastructure through plan-making
@@ -73,6 +76,7 @@ Extracted from data/open-sources/nppf/NPPF-August-2026.pdf. Use these codes (wit
 - L3: Achieving appropriate densities
 - GB1: Establishing new Green Belts
 - GB2: Assessing existing Green Belt land
+- GB3: Altering existing Green Belt boundaries
 - GB4: Defining Green Belt boundaries
 - GB5: Beneficial uses of Green Belt land
 - GB6: Control of development in the Green Belt
@@ -93,7 +97,7 @@ Extracted from data/open-sources/nppf/NPPF-August-2026.pdf. Use these codes (wit
 - HC1: Planning for healthy communities
 - HC2: Local Green Space
 - HC3: Community facilities and public service infrastructure serving new development
-- HC4: Proposals for new and improved community facilities, public service
+- HC4: Proposals for new and improved community facilities, public service infrastructure and development providing public health benefits
 - HC5: Hot food takeaways
 - HC6: Retention of key community facilities and public service infrastructure
 - HC7: Development affecting existing recreational land and facilities

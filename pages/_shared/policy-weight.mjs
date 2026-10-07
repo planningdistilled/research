@@ -2,7 +2,7 @@
 // Every quotation is checked against its source text at build time; the build fails on a mismatch.
 import fs from 'node:fs';
 import path from 'node:path';
-import { DECISIONS, OPEN, SOURCES, resolveRef } from '../../paths.mjs';
+import { DECISIONS, NPPF_TXT, OPEN, SOURCES, resolveRef } from '../../paths.mjs';
 import { addAnchors, ANCHOR_CSS } from './anchors.mjs';
 import { addPlanLinks } from './plan-links.mjs';
 
@@ -12,7 +12,7 @@ const DECISION_PAGES = '/research/england/nppf-navigator/decisions/';
 
 // Source texts that quotations are checked against.
 const TEXTS = {
-  nppf: path.join(OPEN, 'nppf', 'NPPF-August-2026.txt'),
+  nppf: NPPF_TXT,
   cs: path.join(SOURCES, 'stratford-dc', 'public-note', 'cs.txt'),
   np: path.join(SOURCES, 'stratford-dc', 'claverdon', 'Claverdon-Neighbourhood-Plan.txt'),
 };

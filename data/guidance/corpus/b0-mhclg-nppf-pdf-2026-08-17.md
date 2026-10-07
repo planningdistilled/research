@@ -8,8 +8,8 @@ date: 2026-08-17
 audience: everyone (local planning authorities, applicants, inspectors, public)
 is_training: false
 about_draft: false
-local_copy: open:guidance-ogl/b0-mhclg-nppf-pdf-2026-08-17.pdf
-local_text: open:guidance-ogl/b0-mhclg-nppf-pdf-2026-08-17.txt
+local_copy: open:nppf/NPPF-August-2026.pdf
+local_text: open:nppf/NPPF-August-2026.txt
 verification: local-text
 retrieved_on: 2026-10-02
 category: official
@@ -49,3 +49,4 @@ This is the full text of the August 2026 National Planning Policy Framework (NPP
 - Annex E (Green Belt assessments) for how grey belt is to be assessed in plan-making.
 - Annex D (Housing calculations and supply) for the five-year supply and HDT rules behind S5(1)(j) and GB7 footnote 41.
 - GB4(1)(c): conservation area designation, not Green Belt, is the right tool where a village's character needs protecting "for other reasons".
+- The saved copy is the canonical Framework file in `data/open-sources/nppf/` (the previous duplicate under `guidance-ogl/` was removed on 7 October 2026); a Markdown edition and a folder README sit beside it.

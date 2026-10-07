@@ -21,6 +21,12 @@ jobs:
       - name: Python tools compile
         run: python3 -m py_compile paths.py tools/*.py pages/authority/stratford-dc/nppf-decisions/build/*.py site/seo.py
 
+      - name: NPPF Markdown edition is in sync with the text and passes its checks
+        run: |
+          uv run tools/nppf_md.py build
+          git diff --exit-code -I '^Generated ' -- data/open-sources/nppf
+          uv run tools/nppf_md.py check
+
       - name: Decisions index is in sync with the case files
         run: |
           uv run tools/build_index.py

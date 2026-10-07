@@ -7,8 +7,8 @@ Guidance for Claude Code sessions in this repository. Read `README.md` for the l
 The research behind https://planningdistilled.org/: open research on planning decisions in England under the National Planning Policy Framework (NPPF) of 17 August 2026.
 
 - `data/decisions/`: one Markdown case file per decision (1,064 to 2 Oct 2026). `README.md` there is the schema. `DISTILLATION-GUIDE.md` is the manual for adding a decision; read it before writing a case.
-- `data/guidance/`: one summary per published commentary on the new Framework (315), with stances and machine-checked quotes.
-- `data/open-sources/`: Crown copyright (Open Government Licence (OGL)) documents only. This holds the NPPF PDF and text, `pins-corpus/<ref>.txt` (the text of every new-style Planning Inspectorate (PINS) appeal decision letter we hold), decision PDFs, and MHCLG (Ministry of Housing, Communities and Local Government) and PINS pages.
+- `data/guidance/`: one summary per published commentary on the new Framework (330), with stances and machine-checked quotes.
+- `data/open-sources/`: Crown copyright (Open Government Licence (OGL)) documents only. This holds the NPPF PDF, text and generated Markdown edition (`nppf/`, the only copy of the Framework; cite it as `open:nppf/…`), `pins-corpus/<ref>.txt` (the text of every new-style Planning Inspectorate (PINS) appeal decision letter we hold), decision PDFs, and MHCLG (Ministry of Housing, Communities and Local Government) and PINS pages.
 - `tools/`: the Python tools: harvest, index, normalise, quote checks, OCR and the publication gate.
 - `pages/<site path>/`: the source of each published page, mirroring the site's URLs.
 - `site/`: `finish.mjs`, the last step of every publish, and `seo.py`.
@@ -75,6 +75,11 @@ uv run tools/build_index.py           # index only; fix every WARN for files you
 # Guidance corpus
 uv run tools/corpus_quotes.py         # re-check every corpus quotation (needs ../sources)
 
+# The Framework itself (data/open-sources/nppf; read its README.md)
+uv run tools/nppf_md.py build         # regenerate the Markdown edition, structure sidecar and README from the text extract
+uv run tools/nppf_md.py check         # prove the Markdown is complete and every verified quotation still matches (CI runs build, diff, check)
+uv run tools/nppf_md.py locate 'S5(1)(j)(i)'   # where a code or limb is, with its text
+
 # Stratford housing supply (data/decisions/analysis/stratford-housing-supply; read its README.md)
 uv run tools/stratford_supply.py      # homes approved and pending since the council's last supply calculation
 
@@ -119,3 +124,4 @@ Artifacts, the claude.ai copies (republish when the page changes):
 - **Use `/usr/bin/curl` in agent shells.** `curl` sometimes drops out of PATH.
 - **Old-style appeal refs are slow to scan.** These are the 3xxxxxx refs, which include most inquiries, and they are only on the Appeals Casework Portal: `tools/scan_acp.py` manages about 100 pages a minute.
 - **Don't bulk-rewrite paths with sed across code.** Use `paths.mjs` / `paths.py`, and make edits targeted.
+- **The NPPF Markdown is generated.** `data/open-sources/nppf/NPPF-August-2026.md`, its `.structure.json` and the folder `README.md` are written by `tools/nppf_md.py build`; never hand-edit them. The PDF and `.txt` stay the quotation oracle; the Markdown is the reading and analysis edition. If the PDF ever changes, re-extract the `.txt` with `pdftotext -layout`, rebuild, and fix whatever `check` reports.

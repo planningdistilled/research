@@ -8,7 +8,8 @@ date: 2026-09-29
 audience: local planning authorities, plan-makers, decision-makers
 is_training: false
 about_draft: false
-local_copy: open:guidance-ogl/mhclg-nppf-annex-e-green-belt-assessments.txt
+local_copy: open:guidance-ogl/mhclg-nppf-annex-e-green-belt-assessments.html
+local_text: open:guidance-ogl/mhclg-nppf-annex-e-green-belt-assessments.txt
 verification: local-text
 retrieved_on: 2026-10-02
 category: official

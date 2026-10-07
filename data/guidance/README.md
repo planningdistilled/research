@@ -4,7 +4,7 @@
 
 ## What the corpus is
 
-A collection of 315 sources that tell someone how to read or apply the August 2026 NPPF, or that comment on it. One Markdown file per source sits in [`corpus/`](corpus/). Each file has:
+A collection of 330 sources that tell someone how to read or apply the August 2026 NPPF, or that comment on it. One Markdown file per source sits in [`corpus/`](corpus/). Each file has:
 
 - front matter: slug, title, URL, publisher, publisher type, date, audience, whether it is training or briefing material (`is_training`), whether it is about the December 2025 draft rather than the final text (`about_draft`), where the local copy is, and how it was verified;
 - a plain-English summary;
@@ -12,7 +12,7 @@ A collection of 315 sources that tell someone how to read or apply the August 20
 - "Positions against our propositions": a stance (agrees, qualifies, disagrees, silent, not applicable) on each of our nine propositions, with a verbatim quote and its location;
 - "Leads": things worth following up.
 
-Local copies of the source text (`.txt`, plus the original `.html` or `.pdf` where it could be saved) are in `data/open-sources/guidance-ogl/` (MHCLG and Planning Inspectorate pages) and the private sources repo's `guidance/` (other publishers), named by slug.
+Local copies of the source text (`.txt`, plus the original `.html` or `.pdf` where it could be saved) are in `data/open-sources/guidance-ogl/` (MHCLG and Planning Inspectorate pages) and the private sources repo's `guidance/` (other publishers), named by slug. The Framework itself (PDF, text and Markdown edition) is the canonical copy in `data/open-sources/nppf/`, cited as `open:nppf/…`, not a `guidance-ogl/` copy.
 
 The propositions the corpus is coded against come from our own analysis of appeal and council decisions in [`../nppf-2026-decisions/analysis/patterns.md`](../nppf-2026-decisions/analysis/patterns.md) and [`settlement-hierarchy-and-service-centres.md`](../nppf-2026-decisions/analysis/settlement-hierarchy-and-service-centres.md):
 
@@ -49,7 +49,7 @@ Three cautions about the coding:
 | Publisher type | Sources | Local text | WebFetch only | Not retrieved | Training or briefing |
 | --- | --- | --- | --- | --- | --- |
 | Consultancy (incl. architects, rural agents, data firms) | 70 | 60 | 5 | 5 | 0 |
-| Government (MHCLG, Parliament, Historic England, PAS pages) | 42 | 39 | 0 | 3 | 8 |
+| Government (MHCLG, Parliament, Historic England, PAS pages) | 57 | 54 | 0 | 3 | 8 |
 | Barristers' chambers | 35 | 24 | 11 | 0 | 3 |
 | Law firm | 35 | 31 | 0 | 4 | 0 |
 | Independent (bloggers, tools, podcasts) | 33 | 33 | 0 | 0 | 0 |
@@ -59,7 +59,7 @@ Three cautions about the coding:
 | Local planning authority | 12 | 11 | 0 | 1 | 10 |
 | Training body (PAS, RTPI, SLCC, Planning Jungle, MBL) | 10 | 7 | 0 | 3 | 9 |
 | Planning Inspectorate | 9 | 9 | 0 | 0 | 5 |
-| **Total** | **315** | **262** | **24** | **29** | **37** |
+| **Total** | **330** | **277** | **24** | **29** | **37** |
 
 "Local text" means the source text is saved in `data/open-sources/guidance-ogl/` (MHCLG and Planning Inspectorate pages) and the private sources repo's `guidance/` (other publishers) and quotes were machine-checked against it. "WebFetch only" means the site blocked direct download; the text was read through WebFetch and quotes were checked against that rendering, not a saved copy. "Not retrieved" means nothing was read and no stance was coded.
 
@@ -236,9 +236,24 @@ Stance abbreviations: agr = agrees, qual = qualifies, DIS = disagrees. "silent" 
 | `wotton-donoghue-new-2026-nppf` | Wotton Donoghue Architects | consultancy | 2026-08-20 | clients (homeowners, small developers) |  |  | local-text | silent |
 | `b0-mhclg-nppf-annex-a-implementation` | Ministry of Housing, Communities and Local Government (MHCLG | government | 2026-09-29 (HTML version of th | local planning authorities, inspectors, applicants, plan-makers |  |  | local-text | A2 agr |
 | `b0-mhclg-nppf-annex-b-glossary` | Ministry of Housing, Communities and Local Government (MHCLG | government | 2026-09-29 (HTML version of th | everyone (local planning authorities, applicants, inspectors, public) |  |  | local-text | SH1 agr; SH2 agr; TR agr |
+| `b0-mhclg-nppf-annex-c-information-requirements` | Ministry of Housing, Communities and Local Government (MHCLG | government | 2026-09-29 (HTML version of th | applicants, local planning authorities |  |  | local-text | silent |
+| `b0-mhclg-nppf-annex-f-flood-risk` | Ministry of Housing, Communities and Local Government (MHCLG | government | 2026-09-29 (HTML version of th | local planning authorities, applicants, decision-makers |  |  | local-text | silent |
+| `b0-mhclg-nppf-ch1-introduction` | Ministry of Housing, Communities and Local Government (MHCLG | government | 2026-09-29 (HTML version of th | everyone (local planning authorities, applicants, inspectors, plan-makers) |  |  | local-text | silent |
+| `b0-mhclg-nppf-ch10-clean-energy-water` | Ministry of Housing, Communities and Local Government (MHCLG | government | 2026-09-29 (HTML version of th | local planning authorities, applicants, decision-makers, plan-makers |  |  | local-text | silent |
+| `b0-mhclg-nppf-ch11-minerals` | Ministry of Housing, Communities and Local Government (MHCLG | government | 2026-09-29 (HTML version of th | minerals planning authorities, applicants, decision-makers |  |  | local-text | silent |
+| `b0-mhclg-nppf-ch12-effective-use-of-land` | Ministry of Housing, Communities and Local Government (MHCLG | government | 2026-09-29 (HTML version of th | local planning authorities, applicants, decision-makers, plan-makers |  |  | local-text | silent |
 | `b0-mhclg-nppf-ch13-green-belt` | Ministry of Housing, Communities and Local Government (MHCLG | government | 2026-09-29 (HTML version of th | local planning authorities, inspectors, applicants, plan-makers |  |  | local-text | SH2 agr; GB agr |
 | `b0-mhclg-nppf-ch15-sustainable-transport` | Ministry of Housing, Communities and Local Government (MHCLG | government | 2026-09-29 (HTML version of th | local planning authorities, highway authorities, inspectors, applicant |  |  | local-text | TR agr |
+| `b0-mhclg-nppf-ch16-healthy-communities` | Ministry of Housing, Communities and Local Government (MHCLG | government | 2026-09-29 (HTML version of th | local planning authorities, applicants, decision-makers, plan-makers |  |  | local-text | silent |
+| `b0-mhclg-nppf-ch17-pollution` | Ministry of Housing, Communities and Local Government (MHCLG | government | 2026-09-29 (HTML version of th | local planning authorities, applicants, decision-makers |  |  | local-text | silent |
+| `b0-mhclg-nppf-ch18-flood-risk` | Ministry of Housing, Communities and Local Government (MHCLG | government | 2026-09-29 (HTML version of th | local planning authorities, applicants, decision-makers, plan-makers |  |  | local-text | silent |
+| `b0-mhclg-nppf-ch19-natural-environment` | Ministry of Housing, Communities and Local Government (MHCLG | government | 2026-09-29 (HTML version of th | local planning authorities, applicants, decision-makers, plan-makers |  |  | local-text | silent |
+| `b0-mhclg-nppf-ch2-plan-making` | Ministry of Housing, Communities and Local Government (MHCLG | government | 2026-09-29 (HTML version of th | plan-making authorities, examiners, neighbourhood planning groups |  |  | local-text | silent |
 | `b0-mhclg-nppf-ch4-sustainable-development` | Ministry of Housing, Communities and Local Government (MHCLG | government | 2026-09-29 (HTML version of th | local planning authorities, inspectors, applicants, plan-makers |  |  | local-text | SH1 agr; SH2 agr; S5 agr; SUP agr; GB agr |
+| `b0-mhclg-nppf-ch5-climate-change` | Ministry of Housing, Communities and Local Government (MHCLG | government | 2026-09-29 (HTML version of th | local planning authorities, applicants, decision-makers, plan-makers |  |  | local-text | silent |
+| `b0-mhclg-nppf-ch7-economy` | Ministry of Housing, Communities and Local Government (MHCLG | government | 2026-09-29 (HTML version of th | local planning authorities, applicants, decision-makers, plan-makers |  |  | local-text | silent |
+| `b0-mhclg-nppf-ch8-town-centres` | Ministry of Housing, Communities and Local Government (MHCLG | government | 2026-09-29 (HTML version of th | local planning authorities, applicants, decision-makers, plan-makers |  |  | local-text | silent |
+| `b0-mhclg-nppf-ch9-communications` | Ministry of Housing, Communities and Local Government (MHCLG | government | 2026-09-29 (HTML version of th | local planning authorities, telecommunications operators, decision-makers |  |  | local-text | silent |
 | `b0-mhclg-nppf-guidance-page` | Ministry of Housing, Communities and Local Government (MHCLG | government | 2026-08-17 (last updated 2026- | everyone (local planning authorities, applicants, inspectors, public) |  |  | local-text | silent |
 | `b0-mhclg-nppf-pdf-2026-08-17` | Ministry of Housing, Communities and Local Government (MHCLG | government | 2026-08-17 | everyone (local planning authorities, applicants, inspectors, public) |  |  | local-text | SH1 agr; SH2 agr; SH2 qual; S5 agr; SUP agr; GB agr; A2 agr |
 | `b0-mhclg-nppf-pdf-2026-09-29` | Ministry of Housing, Communities and Local Government (MHCLG | government | 2026-09-29 (asset linked from  | everyone (local planning authorities, applicants, inspectors, public) |  |  | local-text | silent |

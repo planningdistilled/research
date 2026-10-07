@@ -22,7 +22,7 @@ Republications of the same piece (for example a law-firm note on Local Governmen
 - Name both by slug (`<publisher>-<short-title>`).
 
 Where the copy goes:
-- **MHCLG or Planning Inspectorate (Crown copyright, OGL):** `data/open-sources/guidance-ogl/`, cited as `open:guidance-ogl/<file>`.
+- **MHCLG or Planning Inspectorate (Crown copyright, OGL):** `data/open-sources/guidance-ogl/`, cited as `open:guidance-ogl/<file>`. The Framework PDF and text themselves are never copied here: cite the canonical files as `open:nppf/NPPF-August-2026.pdf` / `.txt`.
 - **Everything else:** `../sources/guidance/` (the private repo), cited as `sources:guidance/<file>`. Never put a third-party copy in this repo; `check_public.py` will reject it.
 
 ## 3. Write the corpus file

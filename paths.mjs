@@ -17,6 +17,8 @@ export const OPEN = join(DATA, 'open-sources');
 export const SOURCES = resolve(process.env.PD_SOURCES || join(ROOT, '..', 'sources'));
 export const SITE = resolve(process.env.PD_SITE || join(ROOT, '..', 'main-site'));
 export const NPPF_PDF = join(OPEN, 'nppf', 'NPPF-August-2026.pdf');
+export const NPPF_TXT = join(OPEN, 'nppf', 'NPPF-August-2026.txt');
+export const NPPF_MD = join(OPEN, 'nppf', 'NPPF-August-2026.md');
 
 export const hasSources = () => existsSync(SOURCES);
 

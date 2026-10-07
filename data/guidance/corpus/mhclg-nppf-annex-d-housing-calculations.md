@@ -8,7 +8,8 @@ date: 2026-09-29
 audience: local planning authorities, applicants, decision-makers
 is_training: false
 about_draft: false
-local_copy: open:guidance-ogl/mhclg-nppf-annex-d-housing-calculations.txt
+local_copy: open:guidance-ogl/mhclg-nppf-annex-d-housing-calculations.html
+local_text: open:guidance-ogl/mhclg-nppf-annex-d-housing-calculations.txt
 verification: local-text
 retrieved_on: 2026-10-02
 category: official

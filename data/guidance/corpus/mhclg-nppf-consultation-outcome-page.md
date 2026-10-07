@@ -8,7 +8,8 @@ date: 2026-08-17
 audience: public, consultees, local planning authorities
 is_training: false
 about_draft: false
-local_copy: open:guidance-ogl/mhclg-nppf-consultation-outcome-page.txt
+local_copy: open:guidance-ogl/mhclg-nppf-consultation-outcome-page.html
+local_text: open:guidance-ogl/mhclg-nppf-consultation-outcome-page.txt
 verification: local-text
 retrieved_on: 2026-10-02
 category: official
