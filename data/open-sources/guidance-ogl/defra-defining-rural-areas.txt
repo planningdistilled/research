@@ -1,0 +1,236 @@
+Rural Urban Classification - GOV.UK
+
+Cookies on GOV.UK
+
+We use some essential cookies to make this website work.
+
+We’d like to set additional cookies to understand how you use GOV.UK, remember your settings and improve government services.
+
+We also use cookies set by other sites to help us deliver content from their services.
+
+You have accepted additional cookies. You can change your cookie settings at any time.
+
+You have rejected additional cookies. You can change your cookie settings at any time.
+
+ Accept additional cookies
+
+ Reject additional cookies
+
+ View cookies
+
+ Hide cookie message
+
+ Skip to main content
+
+ Collection
+
+ Rural Urban Classification
+
+ Definition of Rural areas using the Rural Urban Classification.
+
+Updates to this page
+
+ From:
+
+ Department for Environment, Food & Rural Affairs
+
+ Published:
+ 21 July 2016
+ Last updated:
+
+ 14 March 2025
+
+ Show all updates
+
+ 14 March 2025
+
+Updated with detail relating to 2021 Rural Urban Classification.
+
+ 26 August 2021
+
+Additional description of RUC in page description.
+Reorganised the 2011 Rural Classification guidance documents.
+Added lookup tables for the rural classification for both small area geographies, local authority districts and other higher geographies.
+
+ 21 July 2016
+
+First published.
+
+ Get emails about this page
+
+The Rural Urban Classification is an official statistical classification for England and Wales, used to distinguish Rural and Urban areas. It is based on settlements and is available for some statistics and administrative geographies (including Census geographies and Local Authorities). The classification is used in combination with other datasets to produce analysis that distinguishes the characteristics of Rural and Urban areas. In particular it used for production of the vast majority of the analysis in the Statistical Digest of Rural England - GOV.UK.
+
+2021 Census Rural Urban Classification
+
+Urban areas are determined as settlements with populations of 10,000 or more, based on the 2021 Census. Rural areas are everywhere else and will include rural towns, villages, hamlets, isolated dwellings and open countryside.
+
+The 2021 classification has been determined for Census Output Areas – the smallest geography for which Census data are made available – and classifications for Census Lower Super Output Areas and Middle Super Output Areas are built up from these.
+
+If an Output Area is Rural it is determined as being a smaller or larger rural settlement, based on dwelling densities. All Output Areas are also distinguished by whether they are nearer to or further from a major town or city. Thus, the classification consists of:
+
+Rural
+
+Smaller Rural: Further from a major town or city
+
+Smaller Rural: Nearer to a major town or city
+
+Larger Rural: Further from a major town or city
+
+Large Rural: Nearer to a major town or city
+
+Urban
+
+Urban: Further from a major town or city
+
+Urban: Nearer to a major town or city
+
+Within a more detailed dataset there are further subdivisions to distinguish “further from” or “nearer to” a medium urban settlement and to a small urban settlement, with those not “near” a small urban settlement being regarded as “remote”.
+
+The Rural population was 9.5 million in 2021 and represented 16.9% of England’s population; in 2011 the Rural population was 9.3 million and represented 17.6% of England’s population (based on 2021 and 2011 Rural Urban Classifications for Output Areas).
+
+The Output Area classification is used to determine a classification for Local Authorities based on the proportion of their populations in Rural areas and nearer or further from a major town or city.
+
+Majority rural authorities have 50% or more of their population in rural areas
+
+Intermediate rural authorities have between 35% and less than 50% of their population in rural areas
+
+Intermediate urban authorities have between 20% and less than 35% of their population in rural areas
+
+Urban authorities have less than 20% of their population in rural areas
+
+Authorities are also classified by their population’s relative access to a major town or city as:
+
+Majority further from a major town or city have at least 50% of their population further from a major town or city
+
+Majority nearer to a major town or city have less than 50% of their population further from a major town or city
+
+More information can be found at:
+
+2021 Rural Urban Classification - Office for National Statistics
+
+A methodology document explains the approach in detail: Rural-Urban Classification Methodology (2021) Open Geography Portal
+
+The classification is explained on just two sides of A4 in a User Guide: Rural-Urban Classification User Guide (2021)
+
+Look up tables and summary statistics (for England and Wales combined) are within a supplementary table at: RUC, all supplementary tables
+
+Look up tables for the Classification are also available on the ONS Geography Portal under Products.
+
+2011 and 2001 Rural Urban Classifications
+
+There are earlier classifications based on the 2011 and 2001 censuses. At the most basic level, they similarly determine Urban areas as settlements with populations of 10,000 or more and everywhere else is Rural. However, the settlement types were more detailed, as below. Rural villages, hamlets and isolated dwellings are equivalent to smaller rural settlements in the 2021 classification and Rural town and fringe is equivalent to larger rural settlements. The categories in the 2011 classification are:
+
+Rural: Hamlets and Isolated Dwellings
+
+Rural: Hamlets and Isolated Dwellings in a sparse setting
+
+Rural: Village
+
+Rural: Village in a sparse setting
+
+Rural: Town and Fringe
+
+Rural: Town and Fringe in a sparse setting
+
+Urban: City and Town
+
+Urban: City and Town in a sparse setting
+
+Urban: Minor Conurbation
+
+Urban: Major Conurbation
+
+Those described as “in a sparse setting” reflect where the wider area is remotely populated, based on dwelling density.
+
+The 2011 and 2001 classifications of Local Authorities are not directly comparable with the 2021 classification as certain settlements with populations between 10,000 and 30,000 were regarded as “market” (2001) or “hub towns” (2011) and counted towards the authority’s rurality in the earlier classification. This approach has not been applied for the 2021 classification and the categories in the classification are not strictly comparable as a result, over and above differences in Rural population thresholds for the classes. This change in methodology will mean for a few authorities a substantial shift in where they sit in the classification, as their rurality was reliant on hub town populations. Local government reorganisation has also affected classifications as some authorities have been combined.
+
+For the 2011 Local Authority Classification authorities were classified based on their rural and rural-related populations (hub towns). There are six categories, though these are often combined under three broad categories as follows:
+
+Predominantly Rural
+
+Mainly Rural (80% or more of the population resides in rural or rural-related areas)
+
+Largely Rural (Between 50% and 79% of the population resides in rural or rural-related areas)
+
+Urban with Significant Rural
+
+Urban with Significant Rural (Between 26% and 49% of the population resides in rural or rural-related areas)
+
+Predominantly Urban
+
+Urban City and Town
+
+Urban with Minor Conurbation
+
+Urban with Major Conurbation
+
+2011 Census Rural Urban Classification
+
+ 2011 Rural Urban Classification for census geographies
+
+ 26 August 2021
+
+ Official Statistics
+
+ 2011 Rural Urban Classification for Local Authorities
+
+ 26 August 2021
+
+ Official Statistics
+
+ 2011 Rural Urban Classification lookup tables for all geographies
+
+ 17 October 2023
+
+ Official Statistics
+
+ Practical guides for using the 2011 Rural Urban Classification
+
+ 21 July 2016
+
+ Official Statistics
+
+2001 Census Rural Urban Classification
+
+ Census 2001 Rural Urban Classification for a range of geographies
+
+ 21 July 2016
+
+ Official Statistics
+
+ Contents
+
+ Related content
+
+Is this page useful?
+
+ Maybe
+
+ Yes this page is useful
+
+ No this page is not useful
+
+ Thank you for your feedback
+
+ Report a problem with this page
+
+Help us improve GOV.UK
+
+Do not include personal or financial information like your National Insurance number or credit card details.
+
+ This field is for robots only. Please leave blank
+
+ What were you doing?
+
+ What went wrong?
+
+ Send
+
+ Cancel
+
+Help us improve GOV.UK
+
+ To help us improve GOV.UK, we’d like to know more about your visit today.
+ Please fill in this survey (opens in a new tab and requires JavaScript).
+
+ Cancel

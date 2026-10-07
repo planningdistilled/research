@@ -237,7 +237,7 @@ ${annexB()}
 <li><strong>What is out by nature.</strong> Hamlets, and scattered groups of houses outside predominantly built-up areas. The plan can bring one back in by defining it as a settlement, but only "specifically".</li>
 <li><strong>What is out by designation.</strong> Villages that "lie within and are defined as part of the Green Belt in the development plan", the villages planners call "washed over". This exclusion is absolute for the Framework's purposes: the plan cannot bring a washed-over village back in except by insetting it, which is a Green Belt boundary change under policy GB4. The sentence is scoped "for the purpose of this Framework": such a village is still a village, still a settlement in the plan's hierarchy, and still a village for GB7(1)(c), which allows "Limited infilling in villages lying within the Green Belt".</li>
 </ol>
-<p>Three words in the definition are not themselves defined: "village", "hamlet" and "predominantly built-up". The decisions below show inspectors deciding them on the ground: the number of houses, whether there are facilities, whether the buildings read as one place with "definable boundaries" or as "a straggle of dwellings", and whether the site is inside the built form or beyond its edge.</p>
+<p>Three words in the definition are not themselves defined: "village", "hamlet" and "predominantly built-up". The decisions below show inspectors deciding them on the ground: the number of houses, whether there are facilities, whether the buildings read as one place with "definable boundaries" or as "a straggle of dwellings", and whether the site is inside the built form or beyond its edge. Who defines a city, a town, a village or a hamlet, and how the village-or-hamlet line is drawn, is the subject of the companion page <a href="/research/england/what-is-a-village/">What is a village under the 2026 NPPF</a>.</p>
 </section>`;
 
 const changed = `<section id="changed"><h2>Where the definition came from</h2>
@@ -344,6 +344,7 @@ const SOURCES = [
   'Zack Simons KC, <a href="https://www.planoraks.com/posts-1/nppf2026-welcome-to-the-future">#NPPF2026: Welcome to the Future!</a>, #planoraks, 18 August 2026, and Burges Salmon, <a href="https://www.burges-salmon.com/articles/102o1g3/the-new-nppf-one-month-on/">The new NPPF: one month on</a>, 17 September 2026 (general commentary on S4 and S5; neither discusses the definition).',
   `Decision letters: the Planning Inspectorate <a href="https://appeal-planning-decision.service.gov.uk/">appeals service</a>; every letter quoted is held in the research repository under <code>data/open-sources/pins-corpus/</code>. Council reports: Stratford-on-Avon District Council and Wychavon District Council planning portals, linked from each decision's page.`,
   `The <a href="${DECISION_PAGES}">decisions database</a>, the <a href="${SERVICE_VILLAGE}">settlement-tier register</a> and the analysis note <code>data/decisions/analysis/settlement-hierarchy-and-service-centres.md</code> in the research repository.`,
+  'Companion page: <a href="/research/england/what-is-a-village/">What is a village under the 2026 NPPF</a>, on the words the definition leaves undefined.',
 ];
 
 const html = page({

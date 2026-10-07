@@ -1,0 +1,114 @@
+2021 Rural Urban Classification - Office for National Statistics
+
+Cookies on ons.gov.uk
+
+Cookies are small files stored on your device when you visit a website. We use some essential cookies to make this website work.
+
+We would like to set additional cookies to remember your settings and understand how you use the site. This helps us to improve our services.
+
+ Accept additional cookies
+
+ Reject additional cookies
+
+ Manage settings
+
+ You have accepted all additional cookies.
+ You have rejected all additional cookies.
+ You can change your cookie preferences at any time.
+ Hide
+
+ 2021 Rural Urban Classification
+
+ Last updated:
+ 31 March 2026
+
+31 March 2026
+
+The supplementary tables have been updated. There are no changes to the previous tables but we have added in additional LSOA and MSOA detailed RUC classifications and LSOA relative access to 25,000 people table.
+
+The 2021 Rural Urban Classification (RUC) is a statistical classification which provides a consistent and standardised method for categorising geographies as either rural or urban, based on:
+
+address density
+
+physical settlement form
+
+population size
+
+Relative access to major towns and cities (populations of over 75,000 people)
+
+The classification is available for Output Area (OA), Lower Layer Super Output Area (LSOA), Middle Layer Super Output Area (MSOA) and Local Authority Districts (LAD) geographies. It is produced by the Office for National Statistics (ONS), with advice from the Department for Environment, Food and Rural Affairs (Defra), the Welsh Government (WG) and the Government Geography Profession (GGP).
+
+The 2021 RUC builds upon the strengths of the previous 2011 RUC methodology and incorporates several improvements. The method remains aligned with the 2011 version, but with the following improvements:
+
+streamlining of the taxonomy to simplify the categories
+
+"Relative access" has replaced the "Sparsity" element, a proxy for potential access to goods, services and employment
+
+higher resolution geospatial data
+
+improved density profile calculations
+
+the provision of additional supporting information and classifications for analysts
+
+As with all previous versions of the RUC, it is important to note that the 2021 RUC classification is based on the form and density of the settlements within statistical geographies. It does not classify geographies or features which may contribute to a rural or urban identity, such as landscape, economic, social, historical, or cultural characteristics. 
+
+Output Areas (OAs) and other small area geographies
+
+England and Wales are divided into 188,880 OAs, the lowest level of census statistical geography, each representing around 100 to 625 people. OAs are the base level of geography for the 2021 RUC; the category assigned to each OA informs the classification for all higher level geographies (LSOA, MSOA and LAD).
+
+The 2011 RUC used six broad settlement types. The 2021 RUC uses three simplified categories of: 
+
+Urban
+
+Larger rural settlement
+
+Smaller rural settlement
+
+OAs are defined as Urban if they have a high density of residential addresses, or if they intersect with Amalgamated Built Up Areas (ABUAs) with a resident population of 10,000 or more. ABUAs are Built Up Areas (BUAs) within 200m of one another and with a direct road connection, representing larger conurbations. OAs that intersect with ABUAs with populations less than 10,000, or that have lower densities of addresses, are assigned to the Larger or Smaller rural settlement categories.
+
+The 2021 RUC uses estimated travel time to divide each of the categories into "Relative access" classes of "Nearer" or "Further" from a Major town or city. Areas considered "Nearer" are those which could reach at least one BUA with over 75,000 people, within 30 minutes travel by car. Areas considered "Further" are those which could not. The method takes actual, predicted, and historic average travel times and the road network into account. It should be noted that "Relative access" is a proxy measure, attempting to capture the potential for residents to access goods, services, jobs and opportunities in larger urban centres.
+
+The 2021 RUC for both Super Output Areas (SOA) ie LSOA and MSOA, is built from the OA classifications. The allocation of RUC categories from OA to LSOA and MSOA is based on the category assigned to the majority of their nested OA populations. This is a change from RUC 2011 where allocation was made based on a majority count of OAs. 
+
+For more detailed explanations of the method, consult The 2021 Rural Urban Classification of Statistical Geographies, England and Wales: Methodology document.
+
+Local Authority Districts (LADs)
+
+LAD classifications are based on the same method as SOAs, but the classification has slightly different population thresholds to account for the increased area covered. There are now 4 LAD categories:
+
+Rural majority
+
+Intermediate rural
+
+Intermediate urban
+
+Urban
+
+Each of these is further subset based on "Relative access". For further information, please see The 2021 Rural Urban Classification User Guide.
+
+Where data is unavailable for SOA geographies, it may be appropriate for users to undertake analysis at the LAD level. At this level, the categorisation works slightly differently in that most areas will include a mix of both rural and urban areas. The LA RUC categorisation is a reflection of this. A statistical geography may contain substantial portions of open countryside but still be given an urban classification if the majority of the population within the area live in settlements that are urban in nature. Users should take this into consideration to ensure correct interpretations of any analysis of RUC LAD categories. 
+
+Availability
+
+OA, LSOAs, MSOAs, and LAD lookups can be downloaded from the Open Geography Portal.
+
+ You might also be interested in:
+
+2011 rural/urban classification
+
+The Northern Ireland Rural Urban Classification
+
+The Scottish Rural Urban Classification
+
+The Open Geography Portal
+
+The 2021 Rural Urban Classification of Statistical Geographies, England and Wales: Methodology
+
+The 2021 Rural Urban Classification User Guide
+
+The 2021 Rural Urban Classification Frequently Asked Questions
+
+ Related downloads
+
+ All Supplementary Tables
+ (14.9 MB xlsx)
