@@ -8,7 +8,7 @@ The research behind https://planningdistilled.org/: open research on planning de
 
 - `data/decisions/`: one Markdown case file per decision (1,064 to 2 Oct 2026). `README.md` there is the schema. `DISTILLATION-GUIDE.md` is the manual for adding a decision; read it before writing a case.
 - `data/guidance/`: one summary per published commentary on the new Framework (330), with stances and machine-checked quotes.
-- `data/open-sources/`: Crown copyright (Open Government Licence (OGL)) documents only. This holds the NPPF PDF, text and generated Markdown edition (`nppf/`, the only copy of the Framework; cite it as `open:nppf/…`), `pins-corpus/<ref>.txt` (the text of every new-style Planning Inspectorate (PINS) appeal decision letter we hold), decision PDFs, and MHCLG (Ministry of Housing, Communities and Local Government) and PINS pages.
+- `data/open-sources/`: Crown copyright (Open Government Licence (OGL)) documents only. This holds the NPPF PDF, text and generated Markdown edition (`nppf/`, the only copy of the Framework; cite it as `open:nppf/…`; `nppf/chunks/` has one file per chapter, policy and annex), the Inspector Training Manual edition and glossary (`pins-training-manual/`, start at its `INDEX.md`), `pins-corpus/<ref>.txt` (the text of every new-style Planning Inspectorate (PINS) appeal decision letter we hold), decision PDFs, and MHCLG (Ministry of Housing, Communities and Local Government) and PINS pages.
 - `tools/`: the Python tools: harvest, index, normalise, quote checks, OCR and the publication gate.
 - `pages/<site path>/`: the source of each published page, mirroring the site's URLs.
 - `site/`: `finish.mjs`, the last step of every publish, and `seo.py`.
@@ -79,6 +79,9 @@ uv run tools/corpus_quotes.py         # re-check every corpus quotation (needs .
 uv run tools/nppf_md.py build         # regenerate the Markdown edition, structure sidecar and README from the text extract
 uv run tools/nppf_md.py check         # prove the Markdown is complete and every verified quotation still matches (CI runs build, diff, check)
 uv run tools/nppf_md.py locate 'S5(1)(j)(i)'   # where a code or limb is, with its text
+
+# Inspector Training Manual (data/open-sources/pins-training-manual; read its README.md and INDEX.md; PDFs in sources:pins/)
+uv run tools/itm_md.py all            # Markdown edition by chapter/section/annex, NPPF chunk files (nppf/chunks/), term glossary
 
 # Stratford housing supply (data/decisions/analysis/stratford-housing-supply; read its README.md)
 uv run tools/stratford_supply.py      # homes approved and pending since the council's last supply calculation
