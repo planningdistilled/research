@@ -93,6 +93,7 @@ node pages/england/sustainable-location/service-village/build.mjs --pages   # al
 python3 tools/location_factors.py --list             # check the location-factors register against the decision texts (needs ../sources)
 node pages/england/sustainable-location/factors/build.mjs   # "What decides a sustainable location" sub-page, from data/decisions/analysis/location-factors
 node pages/england/sustainable-location/build.mjs   # summary + sources/ sub-page; its source registry is the SRC list; run after factors/ (it uses the same register)
+node pages/england/what-is-a-settlement/build.mjs   # the Annex B "settlement" page; checks every corpus letter that engages the definition has a register row (needs ../sources)
 # Stratford note: pages/authority/stratford-dc/nppf-decisions/build/README.md
 # Station Road on Foot: pages/settlement/claverdon/station-road-on-foot/README.md
 

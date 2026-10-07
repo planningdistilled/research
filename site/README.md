@@ -26,6 +26,7 @@ It is idempotent; a second run writes nothing.
    - Station Road Decision Route: `node pages/settlement/claverdon/station-road-decision-route/build.mjs`
    - Kington Lane Decision Route (needs `../sources` to check quotations): `node pages/settlement/claverdon/kington-lane-decision-route/build.mjs`
    - DP3 design page: `node pages/england/dp3-design/build.mjs`
+   - What is a settlement (needs `../sources`): `node pages/england/what-is-a-settlement/build.mjs`
    - Factors in decisions (a sub-page of the sustainable location page; built from the location-factors register, so run `python3 tools/location_factors.py` first): `node pages/england/sustainable-location/factors/build.mjs`
    - Sustainable location page and its `sources/` sub-page (needs `../sources` to check quotations; takes its decision figures from the same register, so build it after `factors/`): `node pages/england/sustainable-location/build.mjs`
    - Policy weight pages (need `../sources`): `node pages/authority/stratford-dc/core-strategy-weight/build.mjs` and `node pages/settlement/claverdon/neighbourhood-plan-weight/build.mjs`

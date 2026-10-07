@@ -65,6 +65,8 @@ Model sentence: "Stratford's Core Strategy treats Claverdon as a Category 3 Loca
 
 Caveat: if the SWLP is adopted as drafted, DS.13 insets Claverdon's built-up area from the Green Belt and DS.8C lists it as a Local Service Centre. It would then be an Annex B settlement and this distinction would fall away for sites inside its boundary.
 
+The published page on the definition, with every decision that has applied it, is https://planningdistilled.org/research/england/what-is-a-settlement/ (source: `pages/england/what-is-a-settlement/build.mjs`, 7 Oct 2026).
+
 ---
 
 *Sections 7–12 added 30 Sep 2026 (later session). Verification markers: **[PDF]** checked against the document in `source/`; **[letter]** checked against `data/open-sources/pins-corpus/<ref>.txt`; **[web]** the source was read online; **[summary]** only a search summary was seen, check before quoting anywhere shared. The general explainer that draws on this material is `settlement-hierarchy-role.md`; the published page is the artifact "Service Village Does Not Mean Sustainable".*
