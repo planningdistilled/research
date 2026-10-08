@@ -98,6 +98,8 @@ node pages/england/sustainable-location/factors/build.mjs   # "What decides a su
 node pages/england/sustainable-location/build.mjs   # summary + sources/ sub-page; its source registry is the SRC list; run after factors/ (it uses the same register)
 node pages/england/what-is-a-settlement/build.mjs   # the Annex B "settlement" page; checks every corpus letter that engages the definition has a register row (needs ../sources)
 node pages/england/what-is-a-village/build.mjs      # companion page on village, town, city, hamlet, parish and built-up area (needs ../sources)
+node pages/england/very-special-circumstances/build.mjs   # the GB6(2) test; register of every letter using the phrase and every GB6 finding; proves each quotation's paragraph (needs ../sources)
+node pages/england/substantially-outweighed/build.mjs     # the S4/S5/S6 presumption; register generated from the S4, S5 and S6 findings in cases.json (needs ../sources)
 # Stratford note: pages/authority/stratford-dc/nppf-decisions/build/README.md
 # Station Road on Foot: pages/settlement/claverdon/station-road-on-foot/README.md
 

@@ -28,6 +28,8 @@ It is idempotent; a second run writes nothing.
    - DP3 design page: `node pages/england/dp3-design/build.mjs`
    - What is a settlement (needs `../sources`): `node pages/england/what-is-a-settlement/build.mjs`
    - What is a village (needs `../sources`): `node pages/england/what-is-a-village/build.mjs`
+   - Very special circumstances (needs `../sources`): `node pages/england/very-special-circumstances/build.mjs`
+   - Substantially outweighed (needs `../sources`): `node pages/england/substantially-outweighed/build.mjs`
    - Factors in decisions (a sub-page of the sustainable location page; built from the location-factors register, so run `python3 tools/location_factors.py` first): `node pages/england/sustainable-location/factors/build.mjs`
    - Sustainable location page and its `sources/` sub-page (needs `../sources` to check quotations; takes its decision figures from the same register, so build it after `factors/`): `node pages/england/sustainable-location/build.mjs`
    - Policy weight pages (need `../sources`): `node pages/authority/stratford-dc/core-strategy-weight/build.mjs` and `node pages/settlement/claverdon/neighbourhood-plan-weight/build.mjs`

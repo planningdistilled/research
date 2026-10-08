@@ -28,6 +28,8 @@ pages/              one folder per published page, mirroring the site's paths
   england/sustainable-location/                    (and its sub-page service-village/)
   england/what-is-a-settlement/
   england/what-is-a-village/
+  england/very-special-circumstances/
+  england/substantially-outweighed/
   authority/stratford-dc/nppf-decisions/
   settlement/claverdon/station-road-on-foot/
 site/               finish.mjs (site-wide metadata, sitemap, llms.txt, IndexNow), seo.py, publish checklist
