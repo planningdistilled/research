@@ -11,7 +11,7 @@ It:
 
 - fails if any page lacks a `<title>`, description, matching canonical link (all in `<head>`) or an `<h1>`;
 - skips redirect stubs (pages with a `<meta http-equiv="refresh">`, left by a build at a page's former address): no metadata, not in the sitemap;
-- writes the block between `<!-- pd:meta -->` markers: Open Graph and Twitter card tags, the share image (`assets/og.png`), favicon, snippet and text-and-data-mining permissions, published and modified dates, and schema.org JSON-LD (Article, Dataset for the decisions index, WebApplication for the Navigator, BreadcrumbList). No analytics tag: Cloudflare Web Analytics is injected by the Cloudflare proxy, sets no cookie, and so needs no consent banner;
+- writes the block between `<!-- pd:meta -->` markers: Open Graph and Twitter card tags, the share image (`assets/og.png`), favicon, snippet and text-and-data-mining permissions, published and modified dates, and schema.org JSON-LD (Article, Dataset for the decisions index, WebApplication for the Navigator, BreadcrumbList), then the Cloudflare Web Analytics beacon (`CF_TOKEN` in `finish.mjs`), which sets no cookie and so needs no consent banner;
 - regenerates `sitemap.xml` (a page's `lastmod` moves only when its content, ignoring the block, differs from the last commit), `llms.txt` and `llms-full.txt`.
 
 It is idempotent; a second run writes nothing.

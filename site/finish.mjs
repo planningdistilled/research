@@ -10,7 +10,7 @@
 // what search engines and AI crawlers read on top of that, the same way on every page, between
 // <!-- pd:meta --> markers: Open Graph and Twitter card tags, the share image, the favicon, snippet and
 // text-and-data-mining permissions, schema.org JSON-LD (Article, Dataset, WebApplication,
-// BreadcrumbList). It is idempotent. A page's modified date only moves when
+// BreadcrumbList) and the Cloudflare Web Analytics beacon. It is idempotent. A page's modified date only moves when
 // its content, ignoring this block, differs from the last commit, so sitemap.xml carries honest <lastmod>
 // values.
 import { execFileSync } from 'node:child_process';
@@ -30,9 +30,13 @@ const IMAGE = { url: `${ORIGIN}/assets/og.png`, width: 1200, height: 630, alt: '
 const TODAY = new Date().toISOString().slice(0, 10);
 const NAV = '/research/england/nppf-navigator/';
 
-// No analytics tag. Visits are counted by Cloudflare Web Analytics, injected at the edge by the Cloudflare
-// proxy in front of GitHub Pages (dash.cloudflare.com → Web Analytics). It sets no cookie, so the site needs
-// no consent banner. The Google Analytics tag that used to be written here is gone with its click listener.
+// Cloudflare Web Analytics. The beacon counts page views, referrers, countries and Core Web Vitals. It sets
+// no cookie and stores nothing on the visitor's device, so the site needs no consent banner. Custom events
+// are not supported; the Google Analytics tag that used to be written here is gone with its click listener.
+// The token is not a secret (it is in every page's source); the snippet is from dash.cloudflare.com → Web
+// Analytics. The DNS records are not proxied through Cloudflare, so the snippet has to be on the page.
+const CF_TOKEN = '4358578f0ad044988d44e0e01c5811a6';
+const ANALYTICS_TAG = `<script type="module" src="https://static.cloudflareinsights.com/beacon.min.js" data-cf-beacon='{"token":"${CF_TOKEN}"}'></script>`;
 
 // Section landing pages (lists of links); every other page is an article unless named below.
 const COLLECTIONS = new Set(['/research/', '/research/england/', '/research/authority/', '/research/settlement/', '/research/authority/stratford-dc/', '/research/settlement/claverdon/']);
@@ -199,6 +203,7 @@ function block(p) {
     '<meta name="tdm-reservation" content="0">',
     '<link rel="icon" href="/favicon.svg" type="image/svg+xml">',
     `<script type="application/ld+json">${jsonLd(p)}</script>`,
+    ANALYTICS_TAG,
     '<!-- /pd:meta -->',
   ];
   return `${lines.filter(Boolean).join('\n')}\n`;
