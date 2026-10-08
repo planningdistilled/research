@@ -10,7 +10,7 @@
 // what search engines and AI crawlers read on top of that, the same way on every page, between
 // <!-- pd:meta --> markers: Open Graph and Twitter card tags, the share image, the favicon, snippet and
 // text-and-data-mining permissions, schema.org JSON-LD (Article, Dataset, WebApplication,
-// BreadcrumbList) and the Google Analytics tag. It is idempotent. A page's modified date only moves when
+// BreadcrumbList). It is idempotent. A page's modified date only moves when
 // its content, ignoring this block, differs from the last commit, so sitemap.xml carries honest <lastmod>
 // values.
 import { execFileSync } from 'node:child_process';
@@ -30,24 +30,9 @@ const IMAGE = { url: `${ORIGIN}/assets/og.png`, width: 1200, height: 630, alt: '
 const TODAY = new Date().toISOString().slice(0, 10);
 const NAV = '/research/england/nppf-navigator/';
 
-// Google Analytics 4. The tag counts page views, scrolls, outbound links and common downloads by itself.
-// The listener adds what it misses: .json and .md downloads, and clicks on buttons and <summary> toggles
-// (the Navigator's answers), sent with the button's own label and its group's aria-label (the question).
-// Only labels the pages wrote are sent, never anything typed into a field.
-const GA_ID = 'G-Q3312KST16';
-const GA_TAG = [
-  `<script async src="https://www.googletagmanager.com/gtag/js?id=${GA_ID}"></script>`,
-  '<script>',
-  'window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments)}',
-  `gtag('js',new Date());gtag('config','${GA_ID}');`,
-  "document.addEventListener('click',function(e){",
-  "var t=e.target instanceof Element&&e.target.closest('button,summary,a[href]');if(!t)return;",
-  String.raw`if(t.tagName==='A'){var m=/\.(json|md)$/i.exec(t.pathname);if(m&&t.host===location.host)gtag('event','file_download',{file_extension:m[1].toLowerCase(),file_name:t.pathname,link_url:t.href});return}`,
-  "var g=t.closest('[aria-label]');",
-  "gtag('event','ui_click',{label:((t.querySelector('.choice-label')||t).textContent||'').trim().slice(0,100),group:g?g.getAttribute('aria-label').slice(0,100):''});",
-  '},true);',
-  '</script>',
-].join('\n');
+// No analytics tag. Visits are counted by Cloudflare Web Analytics, injected at the edge by the Cloudflare
+// proxy in front of GitHub Pages (dash.cloudflare.com → Web Analytics). It sets no cookie, so the site needs
+// no consent banner. The Google Analytics tag that used to be written here is gone with its click listener.
 
 // Section landing pages (lists of links); every other page is an article unless named below.
 const COLLECTIONS = new Set(['/research/', '/research/england/', '/research/authority/', '/research/settlement/', '/research/authority/stratford-dc/', '/research/settlement/claverdon/']);
@@ -214,7 +199,6 @@ function block(p) {
     '<meta name="tdm-reservation" content="0">',
     '<link rel="icon" href="/favicon.svg" type="image/svg+xml">',
     `<script type="application/ld+json">${jsonLd(p)}</script>`,
-    GA_TAG,
     '<!-- /pd:meta -->',
   ];
   return `${lines.filter(Boolean).join('\n')}\n`;
