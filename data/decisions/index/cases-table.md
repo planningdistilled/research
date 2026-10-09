@@ -1,6 +1,6 @@
 # NPPF 2026 decisions — case table
 
-Generated 2026-10-06 from `cases/`. 1064 decisions. Appeals and SoS first, newest first.
+Generated 2026-10-09 from `cases/`. 1065 decisions. Appeals and SoS first, newest first.
 
 | Case | Authority | Date | Maker | Outcome | Type | Units | Determinative NPPF policies | Verif. |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -990,6 +990,7 @@ Generated 2026-10-06 from `cases/`. 1064 decisions. Appeals and SoS first, newes
 | [Giles House Farm, Bromsgrove Road, Stourbridge](../cases/PINS-6010859.md) | Bromsgrove | 2026-08-17 | Appeal | **allowed** | householder |  | GB6(2) | letter-read |
 | [101 Dalston Lane, Hackney](../cases/PINS-6010972.md) | Hackney | 2026-08-17 | Appeal | **allowed** | change-of-use, commercial |  | s38(6) | letter-read |
 | [Banbh Farm, Breinton Common](../cases/PINS-6011206.md) | Herefordshire | 2026-08-17 | Appeal | **dismissed** | agricultural |  | DP3 | letter-read |
+| [Ravenstone, Well Lane, Tanworth-in-Arden](../cases/stratford-26-00410-FUL.md) | Stratford-on-Avon | 2026-10-08 | Committee | **approved** | housing-minor, replacement-dwelling | 3 | GB7(1)(g)(iii), S5(5), Transitional(2) | report-read |
 | [Land to the rear of Edoras, Banbury Road, Pillerton Priors](../cases/stratford-26-01894-PIP.md) | Stratford-on-Avon | 2026-09-25 | Committee | **refused** | PIP, housing-minor | 5 | S4(1), L2(1)(d), DP3, N2(1)(a) | report-read |
 | [Thorneloe Place, Thorneloe Walk, Worcester (4 dwellings, repositioning; with 26/00542/LB)](../cases/worcester-26-00541-FUL.md) | Worcester | 2026-09-17 | Committee | **approved** | housing-minor, listed-building-consent | 4 | HE4, HE5, HE6(1), S4 | report-read |
 | [Land at Kenyons Lane / Millbank Lane, Lydiate (Maghull edge)](../cases/sefton-DC-2026-00141.md) | Sefton | 2026-09-16 | Committee | **approved** | housing-minor | 3 | GB7(1)(g), TR3 | report-read |

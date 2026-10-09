@@ -1,6 +1,6 @@
 # NPPF 2026 decisions — outcome statistics
 
-Generated 2026-10-06. 'Permitted' = allowed / approved / part-allowed / split. Rates for small groups are anecdotes, not statistics. Tier-2 cases carry thinner coding.
+Generated 2026-10-09. 'Permitted' = allowed / approved / part-allowed / split. Rates for small groups are anecdotes, not statistics. Tier-2 cases carry thinner coding.
 
 
 ## By decision maker
@@ -9,14 +9,14 @@ Generated 2026-10-06. 'Permitted' = allowed / approved / part-allowed / split. R
 | --- | --- | --- | --- |
 | inspector | 984 | 308 | 31% |
 | lpa-delegated | 40 | 26 | 65% |
-| lpa-committee | 38 | 26 | 68% |
+| lpa-committee | 39 | 27 | 69% |
 | secretary-of-state | 2 | 2 | 100% |
 
 ## By dev_type
 
 | Group | Cases | Permitted | Rate |
 | --- | --- | --- | --- |
-| housing-minor | 422 | 130 | 30% |
+| housing-minor | 423 | 131 | 30% |
 | change-of-use | 232 | 83 | 35% |
 | householder | 171 | 45 | 26% |
 | self-build | 112 | 30 | 26% |
@@ -30,7 +30,7 @@ Generated 2026-10-06. 'Permitted' = allowed / approved / part-allowed / split. R
 | listed-building-consent | 53 | 12 | 22% |
 | agricultural | 41 | 18 | 43% |
 | leisure | 41 | 16 | 39% |
-| replacement-dwelling | 40 | 12 | 30% |
+| replacement-dwelling | 41 | 13 | 31% |
 | specialist-housing | 39 | 24 | 61% |
 | employment | 32 | 16 | 50% |
 | retail | 21 | 10 | 47% |
@@ -58,18 +58,18 @@ Generated 2026-10-06. 'Permitted' = allowed / approved / part-allowed / split. R
 | open-countryside | 325 | 115 | 35% |
 | conservation-area | 220 | 56 | 25% |
 | listed-building-setting | 217 | 65 | 29% |
-| green-belt | 183 | 73 | 39% |
-| settlement-edge | 171 | 81 | 47% |
+| green-belt | 184 | 74 | 40% |
+| settlement-edge | 172 | 82 | 47% |
 | rural-lane | 126 | 26 | 20% |
 | PDL | 92 | 39 | 42% |
 | national-landscape | 62 | 16 | 25% |
+| valued-landscape | 33 | 15 | 45% |
 | TPO | 33 | 12 | 36% |
-| valued-landscape | 32 | 14 | 43% |
 | flood-zone-3 | 31 | 8 | 25% |
 | near-station | 25 | 9 | 36% |
 | isolated | 24 | 9 | 37% |
 | agricultural-land-BMV | 15 | 9 | 60% |
-| washed-over-village | 14 | 7 | 50% |
+| washed-over-village | 15 | 8 | 53% |
 | national-park | 12 | 2 | 16% |
 | flood-zone-2 | 12 | 3 | 25% |
 | garden-land | 8 | 2 | 25% |
@@ -81,7 +81,7 @@ Generated 2026-10-06. 'Permitted' = allowed / approved / part-allowed / split. R
 | Group | Cases | Permitted | Rate |
 | --- | --- | --- | --- |
 | not-argued | 81 | 31 | 38% |
-| accepted | 63 | 31 | 49% |
+| accepted | 64 | 32 | 50% |
 | n/a | 31 | 11 | 35% |
 | rejected | 8 | 0 | 0% |
 
@@ -89,7 +89,7 @@ Generated 2026-10-06. 'Permitted' = allowed / approved / part-allowed / split. R
 
 | Group | Cases | Permitted | Rate |
 | --- | --- | --- | --- |
-| 2026-08 | 951 | 316 | 33% |
+| 2026-08 | 952 | 317 | 33% |
 | not-cited | 66 | 28 | 42% |
 | 2024-12 (transitional) | 47 | 18 | 38% |
 
@@ -121,7 +121,7 @@ Generated 2026-10-06. 'Permitted' = allowed / approved / part-allowed / split. R
 | CO1 | pass | 1 | 1 | 100% |
 | CO1 | fail | 1 | 0 | 0% |
 | CO1(1) | benefit | 5 | 1 | 20% |
-| DM4 | neutral | 14 | 5 | 35% |
+| DM4 | neutral | 15 | 6 | 40% |
 | DM4 | accord | 1 | 1 | 100% |
 | DM4 | pass | 1 | 1 | 100% |
 | DM5 | pass | 4 | 4 | 100% |
@@ -148,7 +148,7 @@ Generated 2026-10-06. 'Permitted' = allowed / approved / part-allowed / split. R
 | DP3 | accord | 16 | 14 | 87% |
 | DP3 | neutral | 10 | 4 | 40% |
 | DP3 | benefit | 3 | 1 | 33% |
-| DP3 | not-engaged | 1 | 1 | 100% |
+| DP3 | not-engaged | 2 | 2 | 100% |
 | DP3(1) | conflict | 45 | 3 | 6% |
 | DP3(1) | fail | 27 | 0 | 0% |
 | DP3(1) | harm | 6 | 0 | 0% |
@@ -219,10 +219,10 @@ Generated 2026-10-06. 'Permitted' = allowed / approved / part-allowed / split. R
 | GB7(1)(b) | fail | 39 | 4 | 10% |
 | GB7(1)(b) | pass | 14 | 5 | 35% |
 | GB7(1)(b) | not-engaged | 3 | 1 | 33% |
-| GB7(1)(c) | fail | 4 | 1 | 25% |
+| GB7(1)(c) | fail | 5 | 2 | 40% |
 | GB7(1)(c) | not-engaged | 1 | 1 | 100% |
 | GB7(1)(c) | pass | 1 | 0 | 0% |
-| GB7(1)(e) | fail | 24 | 7 | 29% |
+| GB7(1)(e) | fail | 25 | 8 | 32% |
 | GB7(1)(e) | pass | 22 | 13 | 59% |
 | GB7(1)(f)(iii) | pass | 5 | 2 | 40% |
 | GB7(1)(f)(iii) | fail | 3 | 0 | 0% |
@@ -231,15 +231,15 @@ Generated 2026-10-06. 'Permitted' = allowed / approved / part-allowed / split. R
 | GB7(1)(g) | pass | 7 | 1 | 14% |
 | GB7(1)(g) | not-engaged | 3 | 2 | 66% |
 | GB7(1)(g) | fail | 2 | 0 | 0% |
-| GB7(1)(g)(i) | pass | 45 | 27 | 60% |
+| GB7(1)(g)(i) | pass | 46 | 28 | 60% |
 | GB7(1)(g)(i) | fail | 1 | 0 | 0% |
 | GB7(1)(g)(i) | not-engaged | 1 | 0 | 0% |
-| GB7(1)(g)(ii) | pass | 49 | 30 | 61% |
+| GB7(1)(g)(ii) | pass | 50 | 31 | 62% |
 | GB7(1)(g)(ii) | fail | 13 | 1 | 7% |
 | GB7(1)(g)(ii) | not-engaged | 1 | 0 | 0% |
-| GB7(1)(g)(iii) | pass | 45 | 30 | 66% |
+| GB7(1)(g)(iii) | pass | 46 | 31 | 67% |
 | GB7(1)(g)(iii) | fail | 16 | 1 | 6% |
-| GB7(1)(g)(iv) | not-engaged | 17 | 14 | 82% |
+| GB7(1)(g)(iv) | not-engaged | 18 | 15 | 83% |
 | GB7(1)(g)(iv) | pass | 2 | 2 | 100% |
 | GB7(1)(g)(iv) | fail | 2 | 1 | 50% |
 | GB8 | pass | 9 | 5 | 55% |
@@ -279,7 +279,7 @@ Generated 2026-10-06. 'Permitted' = allowed / approved / part-allowed / split. R
 | HE5(2)(b) | neutral | 2 | 2 | 100% |
 | HE5(2)(c) | harm | 4 | 0 | 0% |
 | HE5(2)(c) | neutral | 1 | 1 | 100% |
-| HE6 | neutral | 52 | 25 | 48% |
+| HE6 | neutral | 53 | 26 | 49% |
 | HE6 | harm | 52 | 8 | 15% |
 | HE6 | pass | 19 | 13 | 68% |
 | HE6 | not-engaged | 7 | 4 | 57% |
@@ -333,7 +333,7 @@ Generated 2026-10-06. 'Permitted' = allowed / approved / part-allowed / split. R
 | HO5 | accord | 2 | 2 | 100% |
 | HO5 | fail | 1 | 0 | 0% |
 | HO5 | neutral | 1 | 1 | 100% |
-| HO7 | benefit | 288 | 71 | 24% |
+| HO7 | benefit | 289 | 72 | 24% |
 | HO7 | neutral | 11 | 5 | 45% |
 | HO7 | harm | 5 | 1 | 20% |
 | HO7 | conflict | 2 | 0 | 0% |
@@ -442,7 +442,7 @@ Generated 2026-10-06. 'Permitted' = allowed / approved / part-allowed / split. R
 | S3(1)(c) | fail | 1 | 0 | 0% |
 | S3(1)(c) | not-engaged | 1 | 0 | 0% |
 | S4 | fail | 76 | 0 | 0% |
-| S4 | pass | 21 | 21 | 100% |
+| S4 | pass | 22 | 22 | 100% |
 | S4 | not-engaged | 2 | 0 | 0% |
 | S4(1) | fail | 103 | 0 | 0% |
 | S4(1) | pass | 20 | 18 | 90% |
@@ -484,7 +484,7 @@ Generated 2026-10-06. 'Permitted' = allowed / approved / part-allowed / split. R
 | S5(1)(g) | not-engaged | 1 | 0 | 0% |
 | S5(1)(h) | fail | 4 | 0 | 0% |
 | S5(1)(h) | pass | 2 | 1 | 50% |
-| S5(1)(j) | pass | 37 | 20 | 54% |
+| S5(1)(j) | pass | 38 | 21 | 55% |
 | S5(1)(j) | fail | 32 | 2 | 6% |
 | S5(1)(j) | not-engaged | 6 | 1 | 16% |
 | S5(1)(j)(i) | fail | 19 | 1 | 5% |
@@ -500,11 +500,11 @@ Generated 2026-10-06. 'Permitted' = allowed / approved / part-allowed / split. R
 | S5(3) | neutral | 1 | 0 | 0% |
 | S5(4) | fail | 42 | 0 | 0% |
 | S5(4) | pass | 4 | 4 | 100% |
-| S5(5) | pass | 16 | 16 | 100% |
+| S5(5) | pass | 17 | 17 | 100% |
 | S5(5) | not-engaged | 16 | 1 | 6% |
 | S5(5) | fail | 11 | 0 | 0% |
 | S5(5) | neutral | 1 | 0 | 0% |
-| S6 | not-engaged | 14 | 9 | 64% |
+| S6 | not-engaged | 15 | 10 | 66% |
 | S6 | neutral | 2 | 1 | 50% |
 | S6 | fail | 1 | 0 | 0% |
 | S6 | accord | 1 | 1 | 100% |
@@ -520,7 +520,7 @@ Generated 2026-10-06. 'Permitted' = allowed / approved / part-allowed / split. R
 | TR2 | neutral | 1 | 0 | 0% |
 | TR2 | harm | 1 | 0 | 0% |
 | TR3 | fail | 60 | 3 | 5% |
-| TR3 | pass | 48 | 33 | 68% |
+| TR3 | pass | 49 | 34 | 69% |
 | TR3 | harm | 25 | 8 | 32% |
 | TR3 | benefit | 13 | 2 | 15% |
 | TR3 | neutral | 8 | 3 | 37% |
@@ -538,7 +538,7 @@ Generated 2026-10-06. 'Permitted' = allowed / approved / part-allowed / split. R
 | TR4 | conflict | 2 | 0 | 0% |
 | TR4 | benefit | 2 | 1 | 50% |
 | TR4 | harm | 1 | 0 | 0% |
-| TR6 | pass | 34 | 22 | 64% |
+| TR6 | pass | 35 | 23 | 65% |
 | TR6 | fail | 17 | 0 | 0% |
 | TR6 | neutral | 4 | 2 | 50% |
 | TR6 | harm | 2 | 0 | 0% |
@@ -552,7 +552,7 @@ Generated 2026-10-06. 'Permitted' = allowed / approved / part-allowed / split. R
 | TR8 | harm | 1 | 1 | 100% |
 | TR8 | not-engaged | 1 | 0 | 0% |
 | TR8 | neutral | 1 | 0 | 0% |
-| Transitional(2) | conflict | 39 | 21 | 53% |
+| Transitional(2) | conflict | 40 | 22 | 55% |
 | Transitional(2) | accord | 28 | 3 | 10% |
 | Transitional(2) | neutral | 13 | 4 | 30% |
 | Transitional(2) | fail | 1 | 0 | 0% |

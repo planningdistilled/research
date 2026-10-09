@@ -1,16 +1,16 @@
 {
   "cases": {
-    "builtAt": "2026-10-05T15:43:02+01:00",
+    "builtAt": "2026-10-09T09:19:05+01:00",
     "byDecisionMaker": {
       "inspector": 984,
-      "lpa-committee": 38,
+      "lpa-committee": 39,
       "lpa-delegated": 40,
       "secretary-of-state": 2
     },
-    "newestDecisionDate": "2026-10-02",
-    "newestHarvestedOn": "2026-10-02",
-    "refreshedAt": "2026-10-05T15:43:02+01:00",
-    "total": 1064
+    "newestDecisionDate": "2026-10-08",
+    "newestHarvestedOn": "2026-10-09",
+    "refreshedAt": "2026-10-09T09:19:05+01:00",
+    "total": 1065
   },
   "frameworkDate": "2026-08-17",
   "schema": 1,

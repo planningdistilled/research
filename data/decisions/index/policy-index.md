@@ -1,6 +1,6 @@
 # NPPF 2026 policy → cases index
 
-Generated 2026-10-06. Each NPPF policy with every decision that made a finding on it. ★ = determinative of the outcome. Appeals/SoS listed first.
+Generated 2026-10-09. Each NPPF policy with every decision that made a finding on it. ★ = determinative of the outcome. Appeals/SoS listed first.
 
 Jump to: [AnnexA](#annexa) · [AnnexB](#annexb) · [AnnexD](#annexd) · [AnnexF](#annexf) · [DM1](#dm1) · [DM10](#dm10) · [DM19](#dm19) · [DM2](#dm2) · [DM23](#dm23) · [DM3](#dm3) · [DM30](#dm30) · [DM4](#dm4) · [DM44](#dm44) · [DM5](#dm5) · [DM6](#dm6) · [DM7](#dm7) · [DM8](#dm8) · [DM9](#dm9) · [DP1](#dp1) · [DP2](#dp2) · [DP21](#dp21) · [DP23](#dp23) · [DP3](#dp3) · [DP4](#dp4) · [E1](#e1) · [E2](#e2) · [E3](#e3) · [E4](#e4) · [EG2](#eg2) · [EN1](#en1) · [EN12](#en12) · [EN2](#en2) · [F4](#f4) · [F5](#f5) · [F6](#f6) · [F7](#f7) · [F8](#f8) · [F9](#f9) · [GB2](#gb2) · [GB5](#gb5) · [GB6](#gb6) · [GB7](#gb7) · [GB8](#gb8) · [HE4](#he4) · [HE5](#he5) · [HE6](#he6) · [HE7](#he7) · [HE8](#he8) · [HE9](#he9) · [HO1](#ho1) · [HO10](#ho10) · [HO11](#ho11) · [HO12](#ho12) · [HO13](#ho13) · [HO2](#ho2) · [HO3](#ho3) · [HO5](#ho5) · [HO7](#ho7) · [HO8](#ho8) · [HO9](#ho9) · [L1](#l1) · [L2](#l2) · [L3](#l3) · [LM22](#lm22) · [LP02](#lp02) · [LP1](#lp1) · [LP22](#lp22) · [LP26](#lp26) · [LP36](#lp36) · [LP5](#lp5) · [LP8](#lp8) · [LP9](#lp9) · [N1](#n1) · [N2](#n2) · [N3](#n3) · [N4](#n4) · [N6](#n6) · [S3](#s3) · [S4](#s4) · [S5](#s5) · [S6](#s6) · [SE12](#se12) · [SP1](#sp1) · [SP2](#sp2) · [SP26](#sp26) · [SP5](#sp5) · [SS1](#ss1) · [ST07](#st07) · [TR1](#tr1) · [TR2](#tr2) · [TR3](#tr3) · [TR4](#tr4) · [TR6](#tr6) · [TR8](#tr8) · [Transitional](#transitional) · [W3](#w3) · [W4](#w4)
 
@@ -516,7 +516,7 @@ Jump to: [AnnexA](#annexa) · [AnnexB](#annexb) · [AnnexD](#annexd) · [AnnexF]
 
 ## DM4
 
-### DM4  (neutral 14, accord 1, pass 1)
+### DM4  (neutral 15, accord 1, pass 1)
 
 | Case | Maker | Outcome | Finding | Weight | Note |
 | --- | --- | --- | --- | --- | --- |
@@ -533,6 +533,7 @@ Jump to: [AnnexA](#annexa) · [AnnexB](#annexb) · [AnnexD](#annexd) · [AnnexF]
 | [Land at Harlestone Road/York Way, Northampton](../cases/PINS-6004385.md) | Appeal | allowed | neutral | very-limited | Reg 18 draft plan allocates the site; very limited weight (DL 5); code mapped by harvester |
 | [Footpath outside Aldi, 106A Newport Road, Middlesbrough](../cases/PINS-6010457.md) | Appeal | dismissed | neutral | limited | emerging PLP weight limited — no information on objections (DL 4); code mapped by harvester |
 | [Land west of 21 Hemsby Road, Martham](../cases/PINS-6009413.md) | Appeal | dismissed | neutral | moderate | "In my application of Policy DM4 of the Framework" — emerging HEC7 advanced, consistent with the Framework, outstanding objections, so moderate weight (DL 3) |
+| [Ravenstone, Well Lane, Tanworth-in-Arden](../cases/stratford-26-00410-FUL.md) | Committee | approved | neutral | very-limited | emerging SWLP DS.8 and DS.12 at Regulation 19; plot 3 conflicts with DS.12 (p.9) |
 | [Land off Butts Lane, Tanworth-in-Arden](../cases/stratford-26-00918-PIP.md) | Committee | approved | neutral | very-limited | emerging SWLP DS.8/DS.12 conflict given very limited weight at Reg 19 |
 | [Magdalen Lodge, Potash Road, Billericay](../cases/basildon-25-00575-OUT.md) | Committee | refused | neutral |  | Reg 19 plan (Aug 2026) does not release site; officers gave emerging GB2 medium-strong weight |
 | ★ [Parcel 0014, Charlton Road, Keynsham](../cases/bathnes-25-04952-EOUT.md) | Committee | approved | pass |  | plan at Reg 18, not advanced; prematurity refusal not justified |
@@ -790,7 +791,7 @@ Jump to: [AnnexA](#annexa) · [AnnexB](#annexb) · [AnnexD](#annexd) · [AnnexF]
 
 ## DP3
 
-### DP3  (fail 56, pass 52, harm 49, conflict 25, accord 16, determinative 12, neutral 10, benefit 3, not-engaged 1)
+### DP3  (fail 56, pass 52, harm 49, conflict 25, accord 16, determinative 12, neutral 10, benefit 3, not-engaged 2)
 
 | Case | Maker | Outcome | Finding | Weight | Note |
 | --- | --- | --- | --- | --- | --- |
@@ -999,6 +1000,7 @@ Jump to: [AnnexA](#annexa) · [AnnexB](#annexb) · [AnnexD](#annexd) · [AnnexF]
 | ★ [46 The Beck, Elford, Tamworth (new dwelling in side garden)](../cases/PINS-6009207.md) | Appeal | dismissed | harm |  | cramped detached dwelling fills a side gap that acts as a transition between two house types (DL 6-9) |
 | [Pine Lodge, Chilworth Drove, Chilworth](../cases/PINS-6009745.md) | Appeal | dismissed | fail |  | suburbanising second frontage dwelling and parking; carport/drive in RPA of TPO Lawson Cypress >20% (BS5837) — applied as 2024 Chapter 12 (DL 25-35) |
 | ★ [Banbh Farm, Breinton Common](../cases/PINS-6011206.md) | Appeal | dismissed | fail |  | GPDO siting/design/appearance — isolated large barn in open field sloping to River Wye; stark and visually dominant; planting not reliable screening (DL 8-12); Framework not cited |
+| [Ravenstone, Well Lane, Tanworth-in-Arden](../cases/stratford-26-00410-FUL.md) | Committee | approved | not-engaged |  | never cited; "modest harm to the character of the streetscene and Special Landscape Area" from felling the conifer group (p.17), a garage forward of the frontage that the SPD "generally discourage[s]" (p.16) and objections to an "urban courtyard layout" were assessed under CS.5, CS.9, CS.12 and NDP BE1 only, with no DP3(3) "clear justification" question and no S5(2) trigger analysis |
 | ★ [Land to the rear of Edoras, Banbury Road, Pillerton Priors](../cases/stratford-26-01894-PIP.md) | Committee | refused | harm |  | members - "substantial harm to the character of Pillerton Priors village"; the notice cites DP3 with no limb and gives no weight word |
 | ★ [Land to the rear of Edoras, Banbury Road, Pillerton Priors](../cases/stratford-26-01894-PIP.md) | Committee | refused | harm | significant | officer view - "In light of NDMP DP3 (2), I afford this harm significant weight" (Report p.12) |
 | [Land off Butts Lane, Tanworth-in-Arden](../cases/stratford-26-00918-PIP.md) | Committee | approved | harm | limited | limited to moderate landscape harm in the Arden Special Landscape Area; conflict with CS.5, CS.9, CS.12 and NDP BE1 |
@@ -1937,7 +1939,7 @@ Jump to: [AnnexA](#annexa) · [AnnexB](#annexb) · [AnnexD](#annexd) · [AnnexF]
 | ★ [Crowfields Farm, Fockbury Road, Dodford (new dwelling replacing barn and stables)](../cases/bromsgrove-25-01429-FUL.md) | Delegated | approved | fail |  | a replacement must be "for the same use"; agricultural/equestrian to residential does not qualify |
 | ★ [Fowlers Dairy, Small Lane, Earlswood](../cases/stratford-26-01608-FUL.md) | Delegated | approved | pass |  | same use; footprint 458 to 414 sq m (-10%), volume 1,985 to 2,307 m3 (+16%), height 6.2 to 6.5 m, held "not materially larger" |
 
-### GB7(1)(c)  (fail 4, not-engaged 1, pass 1)
+### GB7(1)(c)  (fail 5, not-engaged 1, pass 1)
 
 | Case | Maker | Outcome | Finding | Weight | Note |
 | --- | --- | --- | --- | --- | --- |
@@ -1945,10 +1947,11 @@ Jump to: [AnnexA](#annexa) · [AnnexB](#annexb) · [AnnexD](#annexd) · [AnnexF]
 | [Land to rear of 6-12 Long Lane, Newtown, South Staffordshire](../cases/PINS-6010537.md) | Appeal | allowed | fail |  | letter calls it "(d) limited infilling in villages"; not a gap in a built-up frontage (DL 14, 16) |
 | [3 Nursery, Hoe Lane, Nazeing (vehicle storage)](../cases/PINS-6010709.md) | Appeal | dismissed | fail |  | judged on the ground (Wood v SSCLG); no discernible group of houses, so not within a village; 1.3 ha / 120 vehicles not "limited infilling" (DL 7-12) |
 | [236 Hawkes Mill Lane, Coventry](../cases/PINS-6011410.md) | Appeal | allowed | not-engaged |  | limited infilling / ribbon development not decided as (g) already met (DL 16) |
+| [Ravenstone, Well Lane, Tanworth-in-Arden](../cases/stratford-26-00410-FUL.md) | Committee | approved | fail |  | plot 3 is outside the BUAB "and therefore not within the village"; neither new plot fills "a clear gap in development" (p.11) |
 | [144 Malthouse Lane, Earlswood](../cases/stratford-26-01542-FUL.md) | Delegated | refused | pass |  | built form "to the sides, rear and front", so "whilst it is considered to be backland development, the dwelling can also be considered infill development" (p.8); the report writes "GB7 1c" |
 | ★ [Fanday, Brandheath Lane, New End, Astwood Bank (1-5 dwellings PIP)](../cases/wychavon-W-26-01639-PIP.md) | Delegated | refused | fail |  | not limited infilling in a village; the site extends development north-east along Wood Lane rather than filling a gap, following the earlier appeal (PINS 6001105) |
 
-### GB7(1)(e)  (fail 24, pass 22)
+### GB7(1)(e)  (fail 25, pass 22)
 
 | Case | Maker | Outcome | Finding | Weight | Note |
 | --- | --- | --- | --- | --- | --- |
@@ -1991,6 +1994,7 @@ Jump to: [AnnexA](#annexa) · [AnnexB](#annexb) · [AnnexD](#annexd) · [AnnexF]
 | [Land at Northwick Road, Pilning](../cases/APP-P0119-C-26-3378286.md) | Appeal | part-allowed | fail |  | most of the site is not PDL; lawful use agricultural; only a small part had a (possibly unimplemented) earlier permission. Decided under 2024 para 154(g) (DL 11) |
 | ★ [Hilsden Farm, Radcliffe](../cases/PINS-6007316.md) | Appeal | dismissed | fail |  | 2024 para 154(g); part of site PDL but curtilage extent unproven; houses, road and domestic paraphernalia would cause substantial harm to openness (DL 10-14) |
 | ★ [Stables west of Green Street, Shenley](../cases/PINS-6008668.md) | Appeal | allowed | pass |  | decided under 2024 para 154(g) (now GB7(1)(e)); stables are PDL; access across horse-grazing field treated as PDL/ancillary; no substantial harm to openness (DL 9-15) |
+| [Ravenstone, Well Lane, Tanworth-in-Arden](../cases/stratford-26-00410-FUL.md) | Committee | approved | fail |  | the house and its curtilage are previously developed land; replacing the house with one of plots 1 or 2 "would not result in substantial harm to the openness", but both plots together "could amount to substantial harm" so (e) does not carry them (p.11) |
 | ★ [Woodcock Hill Industrial Estate, Harefield Road, Rickmansworth](../cases/threerivers-26-0520-FUL.md) | Committee | approved | pass |  | rear of estate used 10+ years for container/boat storage (lawful by time) plus grassed land enclosed by vegetation, "visually and functionally related" to the estate → PDL; buildings no higher than existing; no substantial harm to openness |
 | ★ [Land of the former Knowle House, Sagars Road, Handforth (care home)](../cases/cheshireeast-25-2053-FUL.md) | Committee | approved | fail |  | mostly PDL but substantial harm to openness (as found on 2021 appeal for 26 dwellings) |
 | [Coblands Nursery, Trench Road, Tonbridge](../cases/tmbc-25-01976-PA.md) | Committee | approved | fail |  | majority of site is PDL (former commercial plant nursery, glasshouses) but quantum would cause substantial harm to openness |
@@ -2072,7 +2076,7 @@ Jump to: [AnnexA](#annexa) · [AnnexB](#annexb) · [AnnexD](#annexd) · [AnnexF]
 | ★ [The Barn, Tithe Barn Lane, Earlswood (Hockley Heath)](../cases/stratford-26-01458-FUL.md) | Delegated | approved | determinative |  |  |
 | ★ [Land at Yew Tree Lane, Fairfield (two dwellings)](../cases/bromsgrove-26-00744-FUL.md) | Delegated | approved | pass |  | assessed as 2024 ¶155 (a) to (d). Grey belt with (a) moderate, (b) weak, (d) none; unmet need (2.24-year supply); sustainable, relying on a 2022 appeal finding that the site is within Fairfield village and about 400 m (5 minutes' walk) from facilities |
 
-### GB7(1)(g)(i)  (pass 45, determinative 3, not-engaged 1, fail 1)
+### GB7(1)(g)(i)  (pass 46, determinative 3, not-engaged 1, fail 1)
 
 | Case | Maker | Outcome | Finding | Weight | Note |
 | --- | --- | --- | --- | --- | --- |
@@ -2114,6 +2118,7 @@ Jump to: [AnnexA](#annexa) · [AnnexB](#annexb) · [AnnexD](#annexd) · [AnnexF]
 | ★ [Parcel 1643 Middle Piece Lane, Burnett (solar farm)](../cases/PINS-6005916.md) | Appeal | allowed | pass |  | significant local encroachment (purpose c) but 28 ha is a very small fraction of a district c.70% Green Belt → does not fundamentally undermine purposes taken together across plan area (DL 17-20) |
 | ★ [Land at Northwick Road, Pilning](../cases/APP-P0119-C-26-3378286.md) | Appeal | part-allowed | pass |  | would not fundamentally undermine purposes of remaining GB (DL 22) |
 | ★ [Hilsden Farm, Radcliffe](../cases/PINS-6007316.md) | Appeal | dismissed | determinative |  |  |
+| [Ravenstone, Well Lane, Tanworth-in-Arden](../cases/stratford-26-00410-FUL.md) | Committee | approved | pass |  | Tanworth is "a village, a reasonably significant distance from any large built-up areas and towns", so no strong contribution to (a), (b) or (d); for "fundamentally undermine" the officer also tested (c) and (e), finding encroachment "limited" because the site is bordered by development to the west and east (pp.12-13) |
 | [Land at Kenyons Lane / Millbank Lane, Lydiate (Maghull edge)](../cases/sefton-DC-2026-00141.md) | Committee | approved | pass |  | modest scale of three dwellings, no strategic harm |
 | [Land off Butts Lane, Tanworth-in-Arden](../cases/stratford-26-00918-PIP.md) | Committee | approved | pass |  | undeveloped paddock but Tanworth is "a village, some distance from large built-up areas and towns", so no strong contribution to (a), (b) or (d); officer also tested (c) and (e) for the "fundamentally undermine" limb and found only minor encroachment |
 | [Land off Jago Green, Snitterfield Lane, Snitterfield](../cases/stratford-26-00617-PIP.md) | Committee | approved | pass |  | undeveloped former Ecosite paddock held grey belt because Snitterfield is "a village, some distance from large built-up areas and towns"; (c) encroachment limited as the site is bordered by development on two sides |
@@ -2127,7 +2132,7 @@ Jump to: [AnnexA](#annexa) · [AnnexB](#annexb) · [AnnexD](#annexd) · [AnnexF]
 | ★ [Flourishing Fields Farm, Stonehouse Lane, Hopwood (SEND farm school and rural worker's dwelling)](../cases/bromsgrove-25-00751-FUL.md) | Delegated | approved | pass |  | not PDL, but it "does not strongly contribute to Purpose (a)" (about 1.6 km east of Hopwood, not adjoining an urban edge), with a limited contribution to (b) and none to (d); some conflict with (c) |
 | [The Barn, Tithe Barn Lane, Earlswood (Hockley Heath)](../cases/stratford-26-01458-FUL.md) | Delegated | approved | pass |  | Earlswood "a village, some distance from large built-up areas and towns"; site bordered by development to north and west |
 
-### GB7(1)(g)(ii)  (pass 49, fail 13, not-engaged 1)
+### GB7(1)(g)(ii)  (pass 50, fail 13, not-engaged 1)
 
 | Case | Maker | Outcome | Finding | Weight | Note |
 | --- | --- | --- | --- | --- | --- |
@@ -2177,6 +2182,7 @@ Jump to: [AnnexA](#annexa) · [AnnexB](#annexb) · [AnnexD](#annexd) · [AnnexF]
 | ★ [Parcel 1643 Middle Piece Lane, Burnett (solar farm)](../cases/PINS-6005916.md) | Appeal | allowed | pass |  | unmet need for solar evidenced by Clean Power 2030 Action Plan target 15GW→47GW (DL 22) |
 | ★ [Land at Northwick Road, Pilning](../cases/APP-P0119-C-26-3378286.md) | Appeal | part-allowed | pass |  | agreed no 5-year supply of traveller pitches — target 58, supply 9 (PPTS; following appeal 6004905) (DL 16-17) |
 | [Hilsden Farm, Radcliffe](../cases/PINS-6007316.md) | Appeal | dismissed | pass |  | 2024 para 155(b); no five-year supply (DL 22) |
+| [Ravenstone, Well Lane, Tanworth-in-Arden](../cases/stratford-26-00410-FUL.md) | Committee | approved | pass |  | 2.21-year supply treated as evidenced unmet need for market housing (p.13) |
 | [Land at Kenyons Lane / Millbank Lane, Lydiate (Maghull edge)](../cases/sefton-DC-2026-00141.md) | Committee | approved | pass | substantial | 3.34-year supply = demonstrable need |
 | [Land off Butts Lane, Tanworth-in-Arden](../cases/stratford-26-00918-PIP.md) | Committee | approved | pass |  | 2.21-year supply treated as evidenced unmet need for market housing |
 | [Land off Jago Green, Snitterfield Lane, Snitterfield](../cases/stratford-26-00617-PIP.md) | Committee | approved | pass |  | 2.21-year supply |
@@ -2195,7 +2201,7 @@ Jump to: [AnnexA](#annexa) · [AnnexB](#annexb) · [AnnexD](#annexd) · [AnnexF]
 | ★ [Flourishing Fields Farm, Stonehouse Lane, Hopwood (SEND farm school and rural worker's dwelling)](../cases/bromsgrove-25-00751-FUL.md) | Delegated | approved | pass |  | need for specialist SEND provision accepted on the applicant's evidence; the LPA "has not undertaken an independent assessment" but has no contrary evidence |
 | [The Barn, Tithe Barn Lane, Earlswood (Hockley Heath)](../cases/stratford-26-01458-FUL.md) | Delegated | approved | pass |  | 2.21-year supply |
 
-### GB7(1)(g)(iii)  (pass 45, fail 16, determinative 1)
+### GB7(1)(g)(iii)  (pass 46, fail 16, determinative 1)
 
 | Case | Maker | Outcome | Finding | Weight | Note |
 | --- | --- | --- | --- | --- | --- |
@@ -2242,6 +2248,7 @@ Jump to: [AnnexA](#annexa) · [AnnexB](#annexb) · [AnnexD](#annexd) · [AnnexF]
 | ★ [Parcel 1643 Middle Piece Lane, Burnett (solar farm)](../cases/PINS-6005916.md) | Appeal | allowed | pass |  | transport considerations "of limited significance" for a land-intensive solar farm with minimal operational traffic; no highway objection (DL 23) |
 | ★ [Land at Northwick Road, Pilning](../cases/APP-P0119-C-26-3378286.md) | Appeal | part-allowed | pass |  | sustainability judged under PPTS para 13; footways along/opposite the site link into Pilning village with school, surgeries, shops, pubs and public transport (DL 18-21) |
 | [Hilsden Farm, Radcliffe](../cases/PINS-6007316.md) | Appeal | dismissed | pass |  | 2024 para 155(c); sustainable location agreed (DL 23) |
+| ★ [Ravenstone, Well Lane, Tanworth-in-Arden](../cases/stratford-26-00410-FUL.md) | Committee | approved | pass |  | the site is "well clustered with the existing settlement"; the village centre "readily accessible" after "walking a short distance up Well Lane"; no footway, but "a clearly established pattern of development for pedestrians walking on Well Lane"; the bus stop "is in infrequent use"; distance, speed limit, lighting and the Connectivity Tool not stated (p.13) |
 | [Land at Kenyons Lane / Millbank Lane, Lydiate (Maghull edge)](../cases/sefton-DC-2026-00141.md) | Committee | approved | pass |  | adjacent to built-up area, walking distance of bus stops and primary school; new crossing point with dropped kerbs/tactile paving secured |
 | [Land off Butts Lane, Tanworth-in-Arden](../cases/stratford-26-00918-PIP.md) | Committee | approved | pass |  | footway along site frontage; village centre c.400 m, short unfooted sections in historic core; Category 4 LSV with primary school next door and a limited bus service; "not be solely reliant on the use of private motor vehicles" |
 | [Land off Jago Green, Snitterfield Lane, Snitterfield](../cases/stratford-26-00617-PIP.md) | Committee | approved | pass |  | 0.5 miles (15 min) to village centre; the report assumed the first 100 m was in the Snitterfield Lane carriageway (30 mph, no footway), but the committee Update Report corrected this, saying that with the proposed footpath link to Park Lane services "can be reached entirely on made footpath"; infrequent buses; car trips to Stratford "relatively short" |
@@ -2262,7 +2269,7 @@ Jump to: [AnnexA](#annexa) · [AnnexB](#annexb) · [AnnexD](#annexd) · [AnnexF]
 | [The Barn, Tithe Barn Lane, Earlswood (Hockley Heath)](../cases/stratford-26-01458-FUL.md) | Delegated | approved | pass |  | passed in one sentence because the dwelling footprint lies within the BUAB of a Category 3 LSV; no TR3 analysis of routes or services |
 | ★ [Crowfields Farm, Fockbury Road, Dodford (new dwelling replacing barn and stables)](../cases/bromsgrove-25-01429-FUL.md) | Delegated | approved | fail |  | rural site; first school 180 m away but no other facilities; bus one each way on Tuesdays and Fridays only |
 
-### GB7(1)(g)(iv)  (not-engaged 17, pass 2, fail 2)
+### GB7(1)(g)(iv)  (not-engaged 18, pass 2, fail 2)
 
 | Case | Maker | Outcome | Finding | Weight | Note |
 | --- | --- | --- | --- | --- | --- |
@@ -2279,6 +2286,7 @@ Jump to: [AnnexA](#annexa) · [AnnexB](#annexb) · [AnnexD](#annexd) · [AnnexF]
 | ★ [Land adjacent to Orchard Farm Cottage, Pomphrey Hill, Mangotsfield](../cases/APP-P0119-C-26-3378284.md) | Appeal | allowed | not-engaged |  | 9 statics + a touring pitch is not "major"; the touring plot does not count toward the 10-unit threshold; site <0.5 ha (DL 44-45) |
 | [Parcel 1643 Middle Piece Lane, Burnett (solar farm)](../cases/PINS-6005916.md) | Appeal | allowed | not-engaged |  | housing only (DL 24) |
 | [Land at Northwick Road, Pilning](../cases/APP-P0119-C-26-3378286.md) | Appeal | part-allowed | not-engaged |  | Golden Rules do not apply (DL 12) |
+| [Ravenstone, Well Lane, Tanworth-in-Arden](../cases/stratford-26-00410-FUL.md) | Committee | approved | not-engaged |  | the scheme "constitutes minor development" so the Golden Rules do not apply (p.14); the site-area figure is lost at a page break in the OCR text |
 | [Land at Kenyons Lane / Millbank Lane, Lydiate (Maghull edge)](../cases/sefton-DC-2026-00141.md) | Committee | approved | not-engaged |  | minor development |
 | [Land off Butts Lane, Tanworth-in-Arden](../cases/stratford-26-00918-PIP.md) | Committee | approved | not-engaged |  | 0.47 ha, 9 dwellings max, under 1,000 sq m, not major, so no Golden Rules |
 | [Land off Jago Green, Snitterfield Lane, Snitterfield](../cases/stratford-26-00617-PIP.md) | Committee | approved | not-engaged |  | 0.472 ha, minor development |
@@ -2697,7 +2705,7 @@ Jump to: [AnnexA](#annexa) · [AnnexB](#annexb) · [AnnexD](#annexd) · [AnnexF]
 
 ## HE6
 
-### HE6  (harm 52, neutral 52, pass 19, not-engaged 7, determinative 1, benefit 1)
+### HE6  (neutral 53, harm 52, pass 19, not-engaged 7, determinative 1, benefit 1)
 
 | Case | Maker | Outcome | Finding | Weight | Note |
 | --- | --- | --- | --- | --- | --- |
@@ -2828,6 +2836,7 @@ Jump to: [AnnexA](#annexa) · [AnnexB](#annexb) · [AnnexD](#annexd) · [AnnexF]
 | ★ [Land adjacent to Fulwood, School Road, Bagnall](../cases/PINS-6008539.md) | Appeal | dismissed | harm | considerable | harm to setting of Bagnall Conservation Area — rural gateway, green open space, views out; public benefits insufficient (DL 6-13) |
 | [Springbank, Beech Avenue, Exeter](../cases/PINS-6006617.md) | Appeal | dismissed | neutral |  | Pennsylvania CA preserved - recessive contemporary design, C-category trees only lost, TPO tree RPA protected by condition (DL 12-21) |
 | ★ [Redundant Barn, Kings Hill, Brassington](../cases/PINS-6009542.md) | Appeal | dismissed | harm | considerable | Dec 2024 paras 212/215 - middle of less-than-substantial scale to Brassington CA; limited benefits (DL 22-27) |
+| [Ravenstone, Well Lane, Tanworth-in-Arden](../cases/stratford-26-00410-FUL.md) | Committee | approved | neutral |  | outside the conservation area; Grade II Aspley House about 60 m away screened by trees; no harm to setting or to the conservation area (p.18) |
 | [Land East of Tring (Marshcroft) — appeal stance review](../cases/dacorum-25-01880-MOA.md) | Committee | refused | harm | substantial | lower-end harm; officers say 'substantial' = previous 'great' weight, no material change |
 | [Land off Jago Green, Snitterfield Lane, Snitterfield](../cases/stratford-26-00617-PIP.md) | Committee | approved | neutral |  | no harm to setting of Grade II Pigeon Green House (25 m away) or The Saddlers, or to the Conservation Area; CS.8 and NDP BE7 held "materially inconsistent" with HE5 |
 | ★ [Dial House Hotel, High Street, Bourton-on-the-Water (garden pavilion)](../cases/cotswold-26-01098-FUL.md) | Committee | approved | neutral |  | no harm to the setting of Grade II Dial House or its listed wall, or to the conservation area; the earlier refused scheme had caused "less than substantial harm, described as considerable" |
@@ -3601,7 +3610,7 @@ Jump to: [AnnexA](#annexa) · [AnnexB](#annexb) · [AnnexD](#annexd) · [AnnexF]
 
 ## HO7
 
-### HO7  (benefit 288, neutral 11, harm 5, conflict 2, not-engaged 1, fail 1, determinative 1, accord 1)
+### HO7  (benefit 289, neutral 11, harm 5, conflict 2, not-engaged 1, fail 1, determinative 1, accord 1)
 
 | Case | Maker | Outcome | Finding | Weight | Note |
 | --- | --- | --- | --- | --- | --- |
@@ -3889,6 +3898,7 @@ Jump to: [AnnexA](#annexa) · [AnnexB](#annexb) · [AnnexD](#annexd) · [AnnexF]
 | [46 The Beck, Elford, Tamworth (new dwelling in side garden)](../cases/PINS-6009207.md) | Appeal | dismissed | benefit | limited | one self-occupied home; limited benefits (DL 18-19) |
 | [150 Barnhorn Road, Bexhill](../cases/PINS-6009653.md) | Appeal | dismissed | benefit | limited | one self-build dwelling, construction and spend "modest" (DL 32); reuse, energy, BNG etc moderate (DL 33) |
 | [Pine Lodge, Chilworth Drove, Chilworth](../cases/PINS-6009745.md) | Appeal | dismissed | benefit | moderate | one family home, quick delivery, economic benefits — 2024 paras 61, 73 (DL 47-48) |
+| [Ravenstone, Well Lane, Tanworth-in-Arden](../cases/stratford-26-00410-FUL.md) | Committee | approved | benefit | substantial | substantial weight to "a net increase of 2 dwellings" against the 2.21-year supply (p.26); the Update Sheet records a new figure of 2.43 years at 31 March 2026 with "no material effect on the planning balance" |
 | [Land to the rear of Edoras, Banbury Road, Pillerton Priors](../cases/stratford-26-01894-PIP.md) | Committee | refused | benefit | substantial | officer view - up to 5 dwellings against a 2.21-year supply (Report pp.16-17); the notice gives no weight to the benefits ("any benefits") |
 | [Land off Butts Lane, Tanworth-in-Arden](../cases/stratford-26-00918-PIP.md) | Committee | approved | benefit | substantial | up to 9 dwellings against the district supply, and over 5% of the roughly 133 dwellings the Interim Policy Position Statement assigns to Tanworth over five years |
 | [Land East of Tring (Marshcroft) — appeal stance review](../cases/dacorum-25-01880-MOA.md) | Committee | refused | benefit | substantial | market housing; 1.18-year supply |
@@ -5231,7 +5241,7 @@ Jump to: [AnnexA](#annexa) · [AnnexB](#annexb) · [AnnexD](#annexd) · [AnnexF]
 
 ## S4
 
-### S4  (fail 76, pass 21, determinative 8, not-engaged 2)
+### S4  (fail 76, pass 22, determinative 8, not-engaged 2)
 
 | Case | Maker | Outcome | Finding | Weight | Note |
 | --- | --- | --- | --- | --- | --- |
@@ -5338,6 +5348,7 @@ Jump to: [AnnexA](#annexa) · [AnnexB](#annexb) · [AnnexD](#annexd) · [AnnexF]
 | ★ [Land beside 43 Westminster Road, Worcester (1 dwelling)](../cases/PINS-6010271.md) | Appeal | dismissed | fail |  | limited benefits of one home "substantially outweigh[ed]" by character harm (DL 23) |
 | ★ [7A Saxon Drive, Acton](../cases/PINS-6009929.md) | Appeal | dismissed | fail |  | one unit, no specific shortfall advised - limited weight; enduring design and NDSS headroom harm significant weight - substantially outweighed (DL 13-14) |
 | ★ [14 St Catherines Road, Hayling Island (backland bungalow, outline)](../cases/PINS-6004592.md) | Appeal | dismissed | fail |  | applied as 2024 para 11(d): adverse impacts 'significantly and demonstrably outweigh' the benefits (DL 26, 29) |
+| [Ravenstone, Well Lane, Tanworth-in-Arden](../cases/stratford-26-00410-FUL.md) | Committee | approved | pass |  | applied to plots 1 and 2 because they lie inside the NDP Built-Up Area Boundary, with S3(2) used to split the site; S4(2)(a) to (c) each found not to bite before the Green Belt assessment (p.8); the Annex B exclusion of washed-over villages from "settlement" is not mentioned |
 | ★ [Thorneloe Place, Thorneloe Walk, Worcester (4 dwellings, repositioning; with 26/00542/LB)](../cases/worcester-26-00541-FUL.md) | Committee | approved | determinative |  |  |
 | ★ [Former Bath Press premises (western end), Lower Bristol Road, Bath](../cases/bathnes-25-03592-FUL.md) | Committee | approved | pass |  | within settlement; benefits not substantially outweighed |
 | ★ [Site of Old Gas Works, Upper Bristol Road, Lower Weston, Bath (co-living)](../cases/bathnes-25-04961-FUL.md) | Committee | refused | fail |  | officers — within settlement, approve unless substantially outweighed, no significant harm; members refused on height, scale and massing |
@@ -5811,7 +5822,7 @@ Jump to: [AnnexA](#annexa) · [AnnexB](#annexb) · [AnnexD](#annexd) · [AnnexF]
 | --- | --- | --- | --- | --- | --- |
 | ★ [Land at Banbury Road (B4100), Gaydon](../cases/stratford-25-01765-FUL.md) | Delegated | approved | pass |  | land allocated for employment in the development plan, albeit restricted to JLR-related uses |
 
-### S5(1)(j)  (pass 37, fail 32, not-engaged 6, determinative 3)
+### S5(1)(j)  (pass 38, fail 32, not-engaged 6, determinative 3)
 
 | Case | Maker | Outcome | Finding | Weight | Note |
 | --- | --- | --- | --- | --- | --- |
@@ -5883,6 +5894,7 @@ Jump to: [AnnexA](#annexa) · [AnnexB](#annexb) · [AnnexD](#annexd) · [AnnexF]
 | ★ [Nectar Haze, Bounds Cross, Pyworthy](../cases/PINS-6010166.md) | Appeal | dismissed | fail |  | unmet need accepted (4.61 years) but site "some distance outside" Pyworthy and not well-related to a settlement, despite being near a few other houses (DL 13-15) |
 | ★ [Land adjacent to Cedar Cottage, Furners Lane, Henfield](../cases/PINS-6007104.md) | Appeal | allowed | pass |  | 1.7-year supply; proposal complies with national decision-making policies; S5(j) "provides support" (DL 20-23) |
 | ★ [Land West of Spratts Farm, Queenborough Road, Southminster](../cases/PINS-6005664.md) | Appeal | allowed | pass |  | no 5YHLS (4.04 LPA / 3.6 appellant, "marginal difference being unimportant"); evidenced unmet need; well-related to Southminster; infrastructure via S106 and conditions (DL 44-45) |
+| [Ravenstone, Well Lane, Tanworth-in-Arden](../cases/stratford-26-00410-FUL.md) | Committee | approved | pass |  | said to "provide support" for plot 3 as "well related to an existing settlement" with evidenced unmet need (p.9), before the officer noted that S5 does not apply in the Green Belt |
 | [Land off Butts Lane, Tanworth-in-Arden](../cases/stratford-26-00918-PIP.md) | Committee | approved | pass |  | run first, before the officer turned to S5(5); site treated as well related to "the settlement of Tanworth-in-Arden" although the village is washed over by Green Belt |
 | ★ [Land South of Elm Leys, Hunt Hall Lane, Welford-on-Avon](../cases/stratford-26-00772-PIP.md) | Committee | approved | pass |  | 2.21-year supply = evidenced unmet need; edge of a Category 2 LSV, "physically contained by residential development on two sides" |
 | ★ [Land off Beech Lane, Kislingbury (58 dwellings)](../cases/westnorthants-WNS-2022-0673-MAF.md) | Committee | refused | pass |  | supply shortfall of about 0.7 years; the site adjoins Kislingbury (Secondary Service Village A) with a school, shop, pubs and a regular bus to Northampton; scale proportionate. "broadly compliance to Policy S5 … in so far as subparagraph 1j" |
@@ -6079,7 +6091,7 @@ Jump to: [AnnexA](#annexa) · [AnnexB](#annexb) · [AnnexD](#annexd) · [AnnexF]
 | ★ [Duffledown Farm, Wyre Piddle Bypass, Upper Moor (site manager's dwelling, retrospective)](../cases/wychavon-W-26-01447-FUL.md) | Delegated | refused | determinative |  |  |
 | ★ [Land at OS 9294 4914, Stonebow Road, Drakes Broughton (50 dwellings)](../cases/wychavon-W-26-01322-OUT.md) | Delegated | refused | fail |  | no exceptional circumstances; the benefits do not "substantially outweigh" the adverse effects |
 
-### S5(5)  (pass 16, not-engaged 16, fail 11, determinative 8, neutral 1)
+### S5(5)  (pass 17, not-engaged 16, fail 11, determinative 8, neutral 1)
 
 | Case | Maker | Outcome | Finding | Weight | Note |
 | --- | --- | --- | --- | --- | --- |
@@ -6124,6 +6136,7 @@ Jump to: [AnnexA](#annexa) · [AnnexB](#annexb) · [AnnexD](#annexd) · [AnnexF]
 | ★ [Limehouse Nursery, The Drive, Rayleigh](../cases/APP-B1550-C-25-3372995.md) | Appeal | dismissed | fail |  | benefits "substantially outweighed" by adverse effects under the Framework presumption (DL 43) |
 | ★ [Norbryght, Tilburstow Hill Road, South Godstone](../cases/PINS-6004344.md) | Appeal | dismissed | fail |  | not inappropriate so S5(5) applied, but letter uses old "significantly and demonstrably outweigh" wording (DL 31) |
 | [Land adjacent to Fulwood, School Road, Bagnall](../cases/PINS-6008539.md) | Appeal | dismissed | not-engaged |  | noted S5 does not apply in Green Belt (DL 3) |
+| ★ [Ravenstone, Well Lane, Tanworth-in-Arden](../cases/stratford-26-00410-FUL.md) | Committee | approved | pass |  | not inappropriate through GB7(1)(g), so "the presumption in favour of development as set out in NDMP S3 and S5(5) would apply requiring the adverse impacts of a development to substantially outweigh the benefits to be refused" (p.14); the conclusion invokes "NDMPs S3, S4 and S5" together (p.26) |
 | ★ [Land off Butts Lane, Tanworth-in-Arden](../cases/stratford-26-00918-PIP.md) | Committee | approved | pass |  | not inappropriate, so approve unless benefits substantially outweighed |
 | ★ [Land off Jago Green, Snitterfield Lane, Snitterfield](../cases/stratford-26-00617-PIP.md) | Committee | approved | determinative |  |  |
 | ★ [Land off Moor Road, Croston](../cases/chorley-25-01052-FULMAJ.md) | Committee | refused | determinative |  |  |
@@ -6138,7 +6151,7 @@ Jump to: [AnnexA](#annexa) · [AnnexB](#annexb) · [AnnexD](#annexd) · [AnnexF]
 
 ## S6
 
-### S6  (not-engaged 14, neutral 2, fail 1, accord 1)
+### S6  (not-engaged 15, neutral 2, fail 1, accord 1)
 
 | Case | Maker | Outcome | Finding | Weight | Note |
 | --- | --- | --- | --- | --- | --- |
@@ -6149,6 +6162,7 @@ Jump to: [AnnexA](#annexa) · [AnnexB](#annexb) · [AnnexD](#annexd) · [AnnexF]
 | ★ [Land off Cheddington Road, Pitstone](../cases/PINS-6010848.md) | Appeal | dismissed | not-engaged |  | neighbourhood plan made 2016, more than five years old (DL 33) |
 | [Land between Rudyard Road and Hot Lane, Biddulph Moor](../cases/PINS-6011103.md) | Appeal | allowed | neutral |  | no evidence to assess; even if engaged benefits outweigh (DL 33) |
 | ★ [Land adjacent to Cedar Cottage, Furners Lane, Henfield](../cases/PINS-6007104.md) | Appeal | allowed | not-engaged |  | S6(a) fails because the HNP was made 23 June 2021, more than 5 years before the decision; S6(b) met (allocations exceed the 270 requirement); NP requirement no longer a credible indicator of need (DL 28-34) |
+| [Ravenstone, Well Lane, Tanworth-in-Arden](../cases/stratford-26-00410-FUL.md) | Committee | approved | not-engaged |  | NDP made December 2022, within five years, but "does not contain sufficient housing allocations to meet its identified housing need"; NDP H1 then given very limited weight "accordingly" (p.7) |
 | [Land off Butts Lane, Tanworth-in-Arden](../cases/stratford-26-00918-PIP.md) | Committee | approved | not-engaged |  | NDP made 2022 but has no allocations meeting its requirement |
 | [Land off Jago Green, Snitterfield Lane, Snitterfield](../cases/stratford-26-00617-PIP.md) | Committee | approved | not-engaged |  | NDP made 2018 with no allocations |
 | [Land South of Elm Leys, Hunt Hall Lane, Welford-on-Avon](../cases/stratford-26-00772-PIP.md) | Committee | approved | not-engaged |  | NDP made 2017 |
@@ -6343,7 +6357,7 @@ Jump to: [AnnexA](#annexa) · [AnnexB](#annexb) · [AnnexD](#annexd) · [AnnexF]
 
 ## TR3
 
-### TR3  (fail 60, pass 48, harm 25, benefit 13, determinative 12, neutral 8, conflict 6, not-engaged 3, accord 1)
+### TR3  (fail 60, pass 49, harm 25, benefit 13, determinative 12, neutral 8, conflict 6, not-engaged 3, accord 1)
 
 | Case | Maker | Outcome | Finding | Weight | Note |
 | --- | --- | --- | --- | --- | --- |
@@ -6504,6 +6518,7 @@ Jump to: [AnnexA](#annexa) · [AnnexB](#annexb) · [AnnexD](#annexd) · [AnnexF]
 | ★ [Land opposite Camel Valley Cottages, Dunmere Road, Bodmin](../cases/PINS-6007179.md) | Appeal | dismissed | fail | significant | bus stops and Camel Trail reachable only along busy road with no pavement, unlit trail; heavily reliant on private vehicles (DL 8-11, 18) |
 | [Peterstone Lodge, Burnham Road, Burnham Overy Town](../cases/PINS-6009184.md) | Appeal | dismissed | fail |  | code mapped by harvester (not cited) — 60mph B1155, no footway or lighting; only school-day buses (2/day); "reliant upon the use of a car for every trip" (DL 4, 7-8, 11) |
 | ★ [Pine Lodge, Chilworth Drove, Chilworth](../cases/PINS-6009745.md) | Appeal | dismissed | fail |  | narrow unlit hedged single-track lanes, no footway — "almost wholly dependent upon the car"; applied as 2024 Framework transport objectives (DL 14-18) |
+| [Ravenstone, Well Lane, Tanworth-in-Arden](../cases/stratford-26-00410-FUL.md) | Committee | approved | pass |  | TR3(1)(a) "the development would not generate a significant amount of movement and there are opportunities available so not to be solely reliant on the use the private vehicle"; TR3(1)(b) answered with the bus service in the report and, by the Update Sheet, with Wood End and Danzey Green stations "approximately 1 mile" away with an hourly service; (c) WCC Highways no objection; (e) improvements "not proportionate" to the scale; TR3(2) Connectivity Tool not used (pp.13-14; Update Sheet p.1) |
 | [Land to the rear of Edoras, Banbury Road, Pillerton Priors](../cases/stratford-26-01894-PIP.md) | Committee | refused | pass |  | officer view - "a sustainable settlement" with pavements, a village hall, a petrol station and a bus service, but "The level of sustainability is of course not high" (Report p.9) |
 | ★ [Land at Kenyons Lane / Millbank Lane, Lydiate (Maghull edge)](../cases/sefton-DC-2026-00141.md) | Committee | approved | determinative |  |  |
 | ★ [Land adjacent to Alfred King Close, Shavington](../cases/cheshireeast-26-0640-FUL.md) | Committee | approved | pass |  | bus stops a short walk (2 buses/hour), footways, NCR 551, schools/medical centre/shop within walking distance; Connectivity Tool Local Authority Band B |
@@ -6679,7 +6694,7 @@ Jump to: [AnnexA](#annexa) · [AnnexB](#annexb) · [AnnexD](#annexd) · [AnnexF]
 
 ## TR6
 
-### TR6  (pass 34, fail 17, neutral 4, harm 2, determinative 2, not-engaged 1, accord 1)
+### TR6  (pass 35, fail 17, neutral 4, harm 2, determinative 2, not-engaged 1, accord 1)
 
 | Case | Maker | Outcome | Finding | Weight | Note |
 | --- | --- | --- | --- | --- | --- |
@@ -6737,6 +6752,7 @@ Jump to: [AnnexA](#annexa) · [AnnexB](#annexb) · [AnnexD](#annexd) · [AnnexF]
 | [27 Gloucester Road North, Filton (7 C4 HMOs above retained Class E unit)](../cases/PINS-6009167.md) | Appeal | allowed | pass |  | parking survey shows about 29 on-street and 20 car-park spaces; no highway objection (DL 12-20) |
 | [Roman Road opposite 19 Shepherds Bush Green (replacement BT Street Hub)](../cases/PINS-6007449.md) | Appeal | allowed | pass |  | one-way, low-speed road; screens not materially larger than bus-stop displays (DL 18-21) |
 | ★ [46 The Beck, Elford, Tamworth (new dwelling in side garden)](../cases/PINS-6009207.md) | Appeal | dismissed | fail |  | shared access under 4.2 m and no on-site turning, so reversing onto the road (DL 10-17) |
+| [Ravenstone, Well Lane, Tanworth-in-Arden](../cases/stratford-26-00410-FUL.md) | Committee | approved | pass |  | WCC Highways no objection subject to conditions; three houses "would not see a significant increase" over the two-house outline permission (pp.20-21) |
 | [Land South of Elm Leys, Hunt Hall Lane, Welford-on-Avon](../cases/stratford-26-00772-PIP.md) | Committee | approved | pass |  | WCC Highways no objection subject to conditions that cannot be imposed on a PIP; officer gave "significant weight" to the lack of objection |
 | ★ [Woodcock Hill Industrial Estate, Harefield Road, Rickmansworth](../cases/threerivers-26-0520-FUL.md) | Committee | approved | pass |  | narrow Harefield Road, but HCC no objection; refusal only where severe |
 | [Magdalen Lodge, Potash Road, Billericay](../cases/basildon-25-00575-OUT.md) | Committee | refused | neutral |  | Counsel reminded members only severe highway impact justifies refusal; road safety not a reason |
@@ -6838,7 +6854,7 @@ Jump to: [AnnexA](#annexa) · [AnnexB](#annexb) · [AnnexD](#annexd) · [AnnexF]
 | ★ [Pittern Hill Riding School, Pittern Hill, Kineton](../cases/stratford-26-01764-PIP.md) | Delegated | approved | neutral |  | report written under NPPF 2024 11(d); a "Procedural Issue" paragraph added after 17 Aug says the balance "remains generally consistent" under the 2026 NPPF, with no S5 analysis |
 | ★ [Land at Yew Tree Lane, Fairfield (two dwellings)](../cases/bromsgrove-26-00744-FUL.md) | Delegated | approved | not-engaged |  | decision dated 17 Aug 2026, the day the new Framework took effect, but the notice lists "National Planning Policy Framework (2024)" and applies ¶11(d), ¶143, ¶154, ¶155 and footnote 7 |
 
-### Transitional(2)  (conflict 39, accord 28, neutral 13, fail 1, determinative 1)
+### Transitional(2)  (conflict 40, accord 28, neutral 13, fail 1, determinative 1)
 
 | Case | Maker | Outcome | Finding | Weight | Note |
 | --- | --- | --- | --- | --- | --- |
@@ -6904,6 +6920,7 @@ Jump to: [AnnexA](#annexa) · [AnnexB](#annexb) · [AnnexD](#annexd) · [AnnexF]
 | [13 Temperance Hill, Woolley Moor (rear first-floor extension)](../cases/PINS-6011648.md) | Appeal | dismissed | conflict | limited | SS9 (assess large countryside extensions as new dwellings) has "diminished weight" because of S5(1)(c) (DL 15-16, 18) |
 | ★ [7 Vicarage Mansions, Queenstown Road, Wandsworth (mansard roof)](../cases/PINS-6007541.md) | Appeal | dismissed | fail |  | appellant's Annex A argument rejected: LP1, LP3, LP4 and LP5 'broadly consistent' with the Framework and keep full weight (DL 3-4) |
 | ★ [Kingston Barn, Kingston Russell (farmstead conversion, 7 dwellings, Dorset NL)](../cases/PINS-6007314.md) | Appeal | dismissed | neutral |  | ENV2 and ENV10 consistent with the Framework, so their conflict carries significant weight (DL 26) |
+| ★ [Ravenstone, Well Lane, Tanworth-in-Arden](../cases/stratford-26-00410-FUL.md) | Committee | approved | conflict | very-limited | CS.15, CS.16 and AS.10 "materially inconsistent" because the Framework "allow[s] for forms of development that would not be supported" by them "including where there is an evidenced unmet need, as highlighted in NDMP S5(1)(j)" (p.7), repeated under Housing Land Supply where the shortfall "is particularly relevant to the weighting that I can give to the Development Plan" (p.10); CS.10 very limited weight "in light of" GB7 and GB8 (p.11); CS.26 very limited weight for lacking TR6's refusal wording (p.20); CS.8 and NDP BE2 inconsistent because HE5 "provides a new set of criteria" (pp.17-18) |
 | [Land to the rear of Edoras, Banbury Road, Pillerton Priors](../cases/stratford-26-01894-PIP.md) | Committee | refused | conflict | very-limited | officer view - CS.26 "materially inconsistent" because it lacks the "severe" test (Report p.14); CS.5 and CS.9 treated as materially consistent (Report p.9) |
 | ★ [Land off Butts Lane, Tanworth-in-Arden](../cases/stratford-26-00918-PIP.md) | Committee | approved | conflict | very-limited | CS.15, CS.16, AS.10, CS.10 and CS.26 held "materially inconsistent" with the 2026 decision-making policies; NDP H3 given very limited weight only because S6 is not engaged (p.8), though the report found the scheme "could be capable of according with Policy H3 in principle" through its Green Belt clause (p.6) |
 | ★ [Land off Jago Green, Snitterfield Lane, Snitterfield](../cases/stratford-26-00617-PIP.md) | Committee | approved | conflict | very-limited | CS.15, CS.16, AS.10, CS.10, CS.26, CS.8, NDP H1 and BE7 given very limited weight as materially inconsistent |
