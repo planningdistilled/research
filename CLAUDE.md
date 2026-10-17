@@ -100,6 +100,7 @@ node pages/england/what-is-a-settlement/build.mjs   # the Annex B "settlement" p
 node pages/england/what-is-a-village/build.mjs      # companion page on village, town, city, hamlet, parish and built-up area (needs ../sources)
 node pages/england/very-special-circumstances/build.mjs   # the GB6(2) test; register of every letter using the phrase and every GB6 finding; proves each quotation's paragraph (needs ../sources)
 node pages/england/substantially-outweighed/build.mjs     # the S4/S5/S6 presumption; register generated from the S4, S5 and S6 findings in cases.json (needs ../sources)
+node pages/england/nppf-map/build.mjs               # the whole Framework as a map: route diagram, chapter and policy graphs, verbatim text column, quick-nav; every text checked against the .txt (read its README.md)
 # Stratford note: pages/authority/stratford-dc/nppf-decisions/build/README.md
 # Station Road on Foot: pages/settlement/claverdon/station-road-on-foot/README.md
 
