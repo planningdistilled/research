@@ -48,7 +48,142 @@ const git = (...a) => execFileSync('git', ['-C', SITE, ...a], { encoding: 'utf8'
 const unesc = (s) => s.replace(/&quot;/g, '"').replace(/&#x27;|&#39;/g, "'").replace(/&lt;/g, '<').replace(/&gt;/g, '>').replace(/&amp;/g, '&');
 const esc = (s) => String(s).replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;');
 const BLOCK = /<!-- pd:meta -->[\s\S]*?<!-- \/pd:meta -->\n?/;
-const core = (html) => html.replace(BLOCK, '');
+// The nav is inserted as "\n" + block (no trailing newline), so this strips exactly what was inserted.
+const NAV_BLOCK = /\n<!-- pd:nav -->[\s\S]*?<!-- \/pd:nav -->/;
+// Page furniture written by this pass (the meta block and the site navigation) is ignored when deciding
+// whether a page's content changed, so a navigation change does not move every page's modified date.
+const core = (html) => html.replace(BLOCK, '').replace(NAV_BLOCK, '');
+
+// ---------- site navigation and section indexes
+// The navigation bar is generated from the page scan and written into every page between
+// <!-- pd:nav --> markers: a home link and one native <details> menu per section (no JavaScript), listing
+// that section's pages with the current page marked. The three sections are the research collections; a
+// page belongs to the section whose path prefixes its own. Pages nest under the nearest page above them.
+// The section index pages carry a <!-- pd:index SCOPE --> block that is regenerated here with the same data,
+// so a new page appears in the menus and on the index pages the moment it is built.
+const SECTIONS = [
+  { path: '/research/england/', label: 'England', long: 'England' },
+  { path: '/research/authority/', label: 'Councils', long: 'Local planning authorities' },
+  { path: '/research/settlement/', label: 'Settlements', long: 'Settlements' },
+];
+// Short menu labels. A page not listed here is labelled from its <h1>, shortened.
+const LABELS = {
+  '/research/england/nppf-navigator/': 'NPPF 2026 Navigator',
+  '/research/england/nppf-navigator/route/': 'The decision route in full',
+  '/research/england/nppf-navigator/decisions/': 'Decision notes',
+  '/research/england/nppf-navigator/method-and-cross-references/': 'Method & cross-references',
+  '/research/england/nppf-navigator/method-and-cross-references/sources/': 'Guidance sources',
+  '/research/england/nppf-map/': 'NPPF 2026 Map',
+  '/research/england/sustainable-location/': 'Assessing a sustainable location',
+  '/research/england/sustainable-location/factors/': 'The factors in decisions',
+  '/research/england/sustainable-location/service-village/': 'Service village does not mean sustainable',
+  '/research/england/sustainable-location/sources/': 'Sources',
+  '/research/england/what-is-a-settlement/': 'What is a "settlement"?',
+  '/research/england/what-is-a-village/': 'What is a "village"?',
+  '/research/england/very-special-circumstances/': 'Very special circumstances',
+  '/research/england/substantially-outweighed/': '"Substantially outweighed"',
+  '/research/england/dp3-design/': 'DP3: the design policy',
+  '/research/authority/stratford-dc/': 'Stratford-on-Avon District',
+  '/research/authority/stratford-dc/nppf-2026-decisions/': 'Decisions under the 2026 NPPF',
+  '/research/authority/stratford-dc/core-strategy-weight/': 'Core Strategy: which policies keep their weight',
+  '/research/settlement/claverdon/': 'Claverdon',
+  '/research/settlement/claverdon/station-road-decision-route/': 'Station Road decision route',
+  '/research/settlement/claverdon/kington-lane-decision-route/': 'Kington Lane decision route',
+  '/research/settlement/claverdon/kington-lane-decision-route/evidence/': 'Evidence register',
+  '/research/settlement/claverdon/station-road-on-foot/': 'Station Road on foot',
+  '/research/settlement/claverdon/neighbourhood-plan-weight/': 'Neighbourhood Plan: which policies keep their weight',
+};
+// Menu and index order within a section; pages not listed follow, alphabetically by label.
+const ORDER = [
+  '/research/england/nppf-navigator/', '/research/england/nppf-navigator/route/', '/research/england/nppf-navigator/decisions/', '/research/england/nppf-navigator/method-and-cross-references/',
+  '/research/england/nppf-map/',
+  '/research/england/sustainable-location/', '/research/england/sustainable-location/factors/', '/research/england/sustainable-location/service-village/',
+  '/research/england/what-is-a-settlement/', '/research/england/what-is-a-village/', '/research/england/very-special-circumstances/', '/research/england/substantially-outweighed/', '/research/england/dp3-design/',
+  '/research/authority/stratford-dc/', '/research/authority/stratford-dc/nppf-2026-decisions/', '/research/authority/stratford-dc/core-strategy-weight/',
+  '/research/settlement/claverdon/', '/research/settlement/claverdon/station-road-decision-route/', '/research/settlement/claverdon/kington-lane-decision-route/', '/research/settlement/claverdon/station-road-on-foot/', '/research/settlement/claverdon/neighbourhood-plan-weight/',
+];
+const NAV_CSS = `.pdn{display:flex;flex-wrap:wrap;align-items:center;gap:2px 10px;position:relative;z-index:30;margin:0 auto 10px;padding:8px 0 6px;border-bottom:1px solid var(--line,#d5dddd);font:14px/1.4 -apple-system,"Segoe UI",system-ui,sans-serif;color:var(--ink,#17212b)}
+.pdn.pdn-free{max-width:1100px;padding-inline:16px}
+.pdn-brand{font-weight:600;color:inherit;text-decoration:none;margin-right:6px}
+.pdn-brand:hover{text-decoration:underline}
+.pdn details{position:static}
+.pdn summary{list-style:none;cursor:pointer;padding:4px 9px;border-radius:6px;color:var(--accent,#2b5c88);font-weight:600;user-select:none}
+.pdn summary::-webkit-details-marker{display:none}
+.pdn summary::after{content:"";display:inline-block;width:6px;height:6px;margin:0 0 3px 6px;border:solid currentColor;border-width:0 1.5px 1.5px 0;transform:rotate(45deg);transition:transform .15s}
+.pdn details[open] summary::after{transform:rotate(-135deg);margin-bottom:-1px}
+.pdn details[open] summary,.pdn summary:hover{background:var(--accent-soft,#e3ecf4)}
+.pdn summary:focus-visible{outline:2px solid var(--accent,#2b5c88);outline-offset:2px}
+.pdn-panel{position:absolute;left:0;right:0;top:100%;margin-top:4px;background:var(--surface,#fff);border:1px solid var(--line,#d5dddd);border-radius:8px;box-shadow:0 12px 32px rgba(0,0,0,.14);padding:12px 16px;columns:2;column-gap:28px;max-width:720px}
+.pdn-panel ul{list-style:none;margin:0;padding:0;break-inside:avoid}
+.pdn-panel li{margin:0;padding:3px 0}
+.pdn-panel ul ul{padding-left:14px;border-left:1px solid var(--line,#d5dddd);margin:2px 0 4px}
+.pdn-panel a{color:var(--accent,#2b5c88);text-decoration:none}
+.pdn-panel a:hover{text-decoration:underline}
+.pdn-panel a[aria-current=page]{font-weight:700;color:var(--ink,#17212b)}
+.pdn-panel a[aria-current=page]::before{content:"▸ ";color:var(--accent,#2b5c88)}
+.pdn-about{margin-left:auto;color:var(--muted,#5a6672);text-decoration:none;font-size:13px}
+.pdn-about:hover{text-decoration:underline}
+@media(max-width:600px){.pdn{font-size:13px;gap:0 2px}.pdn summary{padding:4px 6px}.pdn-panel{columns:1;max-width:none}}
+@media(prefers-color-scheme:dark){.pdn{--line:var(--line,#2c3945);color:var(--ink,#e3e9ee)}.pdn-panel{background:var(--surface,#18212a);box-shadow:0 12px 32px rgba(0,0,0,.5)}.pdn summary{color:var(--accent,#86b0db)}.pdn-panel a{color:var(--accent,#86b0db)}.pdn-panel a[aria-current=page]{color:var(--ink,#e3e9ee)}.pdn details[open] summary,.pdn summary:hover{background:var(--accent-soft,#1f3244)}}`;
+const h1Of = (p) => {
+  const m = p.bare.match(/<h1[^>]*>([\s\S]*?)<\/h1>/);
+  return m ? unesc(m[1].replace(/<[^>]+>/g, '').replace(/\s+/g, ' ').trim()) : short(p.title);
+};
+const labelOf = (p) => LABELS[p.path] ?? (() => { const t = h1Of(p).replace(/\s+under the (August )?2026 (NPPF|Framework)\b/i, '').replace(/:.*$/, ''); return t.length > 60 ? `${t.slice(0, 57).trim()}…` : t; })();
+const orderKey = (p) => { const i = ORDER.indexOf(p.path); return [i < 0 ? ORDER.length : i, labelOf(p).toLowerCase()]; };
+const bySectionOrder = (a, b) => { const [ia, la] = orderKey(a), [ib, lb] = orderKey(b); return ia - ib || (la < lb ? -1 : la > lb ? 1 : 0); };
+// Pages that appear in menus and indexes: directory pages (index.html) inside a section, not the generated
+// case and decision-note pages, which are files.
+let navPages = []; // filled once the pages are scanned (below)
+const parentOf = (p) => {
+  let best = null;
+  for (const q of navPages) if (q !== p && p.path.startsWith(q.path) && (!best || q.path.length > best.path.length)) best = q;
+  return best;
+};
+const childrenOf = (parent, section) => navPages.filter((p) => (parent ? parentOf(p) === parent : p.path.startsWith(section.path) && !parentOf(p))).sort(bySectionOrder);
+function menuList(parent, section, current) {
+  const kids = childrenOf(parent, section);
+  if (!kids.length) return '';
+  return `<ul>${kids.map((k) => `<li><a href="${k.path}"${k.path === current ? ' aria-current="page"' : ''}>${esc(labelOf(k))}</a>${menuList(k, section, current)}</li>`).join('')}</ul>`;
+}
+function navBlock(p, free) {
+  const menus = SECTIONS.map((s) => {
+    const inSection = p.path.startsWith(s.path);
+    return `<details name="pdn"${inSection ? ' class="pdn-here"' : ''}><summary>${esc(s.label)}</summary><div class="pdn-panel"><ul><li><a href="${s.path}"${p.path === s.path ? ' aria-current="page"' : ''}>${esc(s.long)}: all pages</a></li></ul>${menuList(null, s, p.path)}</div></details>`;
+  }).join('');
+  return `<!-- pd:nav -->\n<nav class="pdn${free ? ' pdn-free' : ''}" aria-label="Site"><a class="pdn-brand" href="/">Planning Distilled</a>${menus}<a class="pdn-about" href="/about/"${p.path === '/about/' ? ' aria-current="page"' : ''}>About</a></nav>\n<style>${NAV_CSS}</style>\n<!-- /pd:nav -->`;
+}
+function withNav(p) {
+  const html = p.bare; // nav block already stripped
+  const body = html.match(/<body[^>]*>/);
+  // A few early case pages have no <head> or <body> tags: the bar goes in front of their first block.
+  const first = body ? null : html.match(/<(?:nav|header|main|div class="wrap)/);
+  if (!body && !first) return html;
+  const at = body ? body.index + body[0].length : first.index;
+  // Inside the page's own container when it opens straight after <body>, so the bar aligns with the content.
+  const container = html.slice(at, at + 240).match(/^\s*(?:<a class="skip"[^>]*>[^<]*<\/a>\s*)?<div (?:class="wrap[^"]*"|id="app")>/);
+  if (container) {
+    const cut = at + container[0].length;
+    return `${html.slice(0, cut)}\n${navBlock(p, false)}${html.slice(cut)}`;
+  }
+  // Otherwise above the page's content, at the width the page gives its main container.
+  const width = html.slice(0, at).match(/(?:^|[\s;{}])(?:main|\.wrap|#app|\.page)\{[^}]*max-width:\s*(\d+)px/)?.[1];
+  return `${html.slice(0, at)}\n${navBlock(p, true).replace('<nav class="pdn pdn-free"', `<nav class="pdn pdn-free"${width ? ` style="max-width:${width}px"` : ''}`)}${html.slice(at)}`;
+}
+const INDEX_BLOCK = /<!-- pd:index (all|england|authority|settlement) -->[\s\S]*?<!-- \/pd:index -->/;
+function indexCards(section) {
+  // Collection pages inside a section (e.g. a council or a village) are transparent: their children get cards.
+  const top = childrenOf(null, section).flatMap((p) => (COLLECTIONS.has(p.path) ? childrenOf(p, section) : [p]));
+  return top.map((p) => {
+    const subs = childrenOf(p, section);
+    return `  <a class="card" href="${p.path}">\n    <h3>${esc(h1Of(p))}</h3>\n    <p>${esc(p.description)}</p>\n  </a>\n${subs.map((s) => `  <p class="more"><a href="${s.path}">${esc(labelOf(s))}</a> — ${esc(s.description)}</p>\n`).join('')}`;
+  }).join('');
+}
+function indexBlock(scope) {
+  const sections = scope === 'all' ? SECTIONS : SECTIONS.filter((s) => s.path === `/research/${scope}/`);
+  const body = sections.map((s) => `${scope === 'all' ? `<h2 class="section"><a href="${s.path}">${esc(s.long)}</a></h2>\n` : ''}${indexCards(s)}`).join('');
+  return `<!-- pd:index ${scope} -->\n${body}<!-- /pd:index -->`;
+}
 
 // ---------- the pages
 function walk(dir, out = []) {
@@ -88,6 +223,7 @@ if (bad.length) {
   process.exit(1);
 }
 const byPath = new Map(pages.map((p) => [p.path, p]));
+navPages = pages.filter((p) => p.path.endsWith('/') && SECTIONS.some((s) => p.path.startsWith(s.path) && p.path !== s.path));
 
 // ---------- dates, from git: published = first commit of the file, modified = last change to its content
 const firstAdded = new Map();
@@ -211,9 +347,16 @@ function block(p) {
 
 let written = 0;
 for (const p of pages) {
-  const at = p.bare.indexOf('</title>');
-  const cut = p.bare.indexOf('\n', at) === at + '</title>'.length ? at + '</title>'.length + 1 : at + '</title>'.length;
-  const next = `${p.bare.slice(0, cut)}${cut === at + '</title>'.length ? '\n' : ''}${block(p)}${p.bare.slice(cut)}`;
+  // Section index pages: regenerate the card list first, so the dates below see the real content.
+  const idx = p.bare.match(INDEX_BLOCK);
+  if (idx) {
+    const regenerated = p.bare.replace(INDEX_BLOCK, indexBlock(idx[1]));
+    if (regenerated !== p.bare) { p.bare = regenerated; p.modified = TODAY; }
+  }
+  const withBar = withNav(p);
+  const at = withBar.indexOf('</title>');
+  const cut = withBar.indexOf('\n', at) === at + '</title>'.length ? at + '</title>'.length + 1 : at + '</title>'.length;
+  const next = `${withBar.slice(0, cut)}${cut === at + '</title>'.length ? '\n' : ''}${block(p)}${withBar.slice(cut)}`;
   if (next !== p.html) {
     writeFileSync(join(SITE, p.rel), next);
     written++;
