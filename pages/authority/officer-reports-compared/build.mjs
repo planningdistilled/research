@@ -216,6 +216,44 @@ const dp3SplitTable = `<div class="table-wrap"><table><thead><tr><th>DP3(3) not 
 <tr><th scope="row">Officer recommended refusal</th><td>${s.dp33.refuse}</td><td>${o.dp33.refuse}</td></tr>
 </tbody></table></div>`;
 
+
+// ---- The two charts: a dumbbell of the five rates, and a per-council strip ----
+// Positioned by percentage in HTML so the labels stay readable at phone width.
+const rate = (c, k, n) => ({ v: pct(c[k], c[n] ?? c.n), num: c[k], den: c[n] ?? c.n });
+const dumbbellRows = [
+  ['Settlement tier used as the location test', ['tier', 'error', 'n']],
+  ['Tier used, counting "partial" (a tier finding with one route fact beside it)', ['tier', 'notRun', 'n']],
+  ['TR3 not run: not mentioned, cited only or dodged', ['tr3', 'notRun', 'n']],
+  ['Green Belt route: S4 or S5(1)(j) applied in a washed-over village or hamlet', ['annexb', 'error', 'n']],
+  ['DP3(3) not asked after a found design conflict', ['dp33', 'error', 'n']],
+].map(([label, [grp, k, n]]) => ({ label, s: rate(s[grp], k, n), o: rate(o[grp], k, n) }));
+const axis = `<div class="db-axis" aria-hidden="true">${[0, 25, 50, 75, 100].map((x) => `<span style="left:${x}%">${x}%</span>`).join('')}</div>`;
+const dumbbell = `<figure class="chart" aria-label="Rate of each error at Stratford against the other councils">
+<div class="db-head"><span></span>${axis}<span class="db-vals"><span class="o">others</span><span class="s">Stratford</span></span></div>
+${dumbbellRows.map(({ label, s: a, o: b }) => {
+  const lo = Math.min(a.v, b.v), hi = Math.max(a.v, b.v);
+  return `<div class="db-row"><div class="db-label">${esc(label)}</div><div class="db-track"><span class="db-link" style="left:${lo}%;width:${hi - lo}%"></span><span class="db-dot o" style="left:${b.v}%" title="Other councils: ${b.num} of ${b.den} reports where the question arises"></span><span class="db-dot s" style="left:${a.v}%" title="Stratford-on-Avon: ${a.num} of ${a.den} reports where the question arises"></span></div><div class="db-vals"><span class="o">${b.v}%<small>${b.num}/${b.den}</small></span><span class="s">${a.v}%<small>${a.num}/${a.den}</small></span></div></div>`;
+}).join('\n')}
+<figcaption>Rate of each error among the reports where the question arises. <span class="key o">22 other councils, ${o.n} reports</span> <span class="key s">Stratford-on-Avon, ${s.n} reports</span>. The line is the gap.</figcaption>
+</figure>`;
+
+/** One ranked lollipop per error: each council with at least one error, by rate, with the zero-error councils named below. */
+function ranked(label, grp, k) {
+  const all = [...perCouncil, { council: 'Stratford-on-Avon', ...s, sdc: true }].filter((c) => c[grp].n > 0)
+    .map((c) => ({ council: c.council, sdc: c.sdc, n: c[grp].n, num: c[grp][k], v: pct(c[grp][k], c[grp].n) }));
+  const hit = all.filter((c) => c.num > 0).sort((a, b) => b.v - a.v || b.n - a.n);
+  const none = all.filter((c) => c.num === 0).sort((a, b) => b.n - a.n);
+  return `<div class="lp"><h4>${esc(label)}</h4>
+${hit.map((c) => `<div class="lp-row${c.sdc ? ' s' : ''}"><div class="lp-name">${esc(c.council)}</div><div class="lp-track"><span class="lp-bar" style="width:${c.v}%"></span><span class="db-dot${c.sdc ? ' s' : ' o'}${c.n === 1 ? ' one' : ''}" style="left:${c.v}%" title="${esc(c.council)}: ${c.num} of ${c.n}"></span></div><div class="lp-val">${c.v}%<small>${c.num}/${c.n}</small></div></div>`).join('\n')}
+<p class="lp-none"><strong>No error, ${none.length} councils:</strong> ${none.map((c) => `${esc(c.council)} (${c.n})`).join(', ')}.</p></div>`;
+}
+const strips = `<figure class="chart" aria-label="Each council's rate for two of the errors, ranked">
+<div class="db-head lp-head"><span></span>${axis}<span></span></div>
+${ranked('Tier used as the location test', 'tier', 'error')}
+${ranked('DP3(3) not asked after a found design conflict', 'dp33', 'error')}
+<figcaption>Every council with at least one report where the question arises, ranked by its rate; the bracket is the number of its reports scored. <span class="key o">other councils</span> <span class="key s">Stratford-on-Avon</span>. A hollow dot with a dotted ring is a council with a single scored report. The Green Belt route is not ranked this way: outside Stratford and Warwick the sample holds ${washedOverOther - 2} washed-over case${washedOverOther - 2 === 1 ? '' : 's'}.</figcaption>
+</figure>`;
+
 // ---- The page ----
 const short = `<section id="in-short"><div class="rule"><h2>In short</h2><ul>
 <li>The <a href="${STRATFORD}">Stratford note</a> found four recurring errors in Stratford-on-Avon District Council's officer reports under the National Planning Policy Framework (NPPF) of 17 August 2026. We scored ${o.n} reports from ${councils.length} other councils with the same rubric to see whether the errors are Stratford's or everyone's.</li>
@@ -238,11 +276,13 @@ const errors = `<section id="errors"><h2>The four errors</h2>
 </section>`;
 
 const compare = `<section id="comparison"><h2>The comparison</h2>
+${dumbbell}
 ${compareTable}
 <p>The two tables were scored with one written rubric. The Stratford reports are mostly delegated reports on one to seven homes in villages; the other councils' reports are a mix of delegated reports and committee reports on larger schemes, which matters for TR3 and DP3(3) and is taken up below. Rates for the other councils are also pulled down by their urban reports, where the tier, Annex B and route questions do not arise and are coded <code>na</code> on both sides.</p>
 </section>`;
 
 const byCouncil = `<section id="by-council"><h2>Council by council</h2>
+${strips}
 <p>Counts exclude <code>na</code> rows. Small counts are small: ${perCouncil.filter((c) => c.n <= 2).length} of the ${councils.length} councils are represented by one or two reports, because that is what their committees decided in the period.</p>
 ${councilTable}
 </section>`;
@@ -329,7 +369,7 @@ ${sets.map((k) => `<tr><th scope="row">${esc(SET_NAMES[k][0])}</th><td>${O.filte
 </section>`;
 
 const extraCss = `<style>.table-wrap{overflow-x:auto;border:1px solid var(--line);border-radius:8px;background:var(--surface)}table{border-collapse:collapse;width:100%;font-size:14px}th,td{text-align:left;vertical-align:top;padding:8px 10px;border-top:1px solid var(--line)}thead th{border-top:0;font-size:12px;letter-spacing:.06em;text-transform:uppercase;color:var(--muted);background:var(--surface-2)}tbody th{font-weight:600}thead th small{display:block;font-weight:400;letter-spacing:0;text-transform:none}table.councils td,table.councils th{white-space:nowrap}tr.sdc{background:var(--accent-soft)}
-section>ol,section>ul,.rule ul{margin:0;padding-left:20px;display:grid;gap:8px;max-width:72ch}section>ol>li,section>ul>li,.rule li{font-size:15.5px}h3{font:600 17px/1.35 var(--sans);margin-top:8px}code{font:500 .9em var(--mono);color:var(--accent)}</style>`;
+section>ol,section>ul,.rule ul{margin:0;padding-left:20px;display:grid;gap:8px;max-width:72ch}section>ol>li,section>ul>li,.rule li{font-size:15.5px}h3{font:600 17px/1.35 var(--sans);margin-top:8px}code{font:500 .9em var(--mono);color:var(--accent)}.chart{margin:0;background:var(--surface);border:1px solid var(--line);border-radius:8px;padding:16px 18px 12px;display:grid;gap:10px}.chart figcaption{font-size:13px;color:var(--muted);line-height:1.5;padding-top:4px;border-top:1px solid var(--line)}.key{white-space:nowrap}.key::before{content:"";display:inline-block;width:10px;height:10px;border-radius:50%;margin-right:5px;vertical-align:-1px;border:2px solid var(--accent);background:var(--surface)}.key.s::before{border-color:var(--no);background:var(--no)}.db-head,.db-row{display:grid;grid-template-columns:minmax(0,1fr) minmax(200px,1.3fr) 104px;gap:0 14px;align-items:center}.db-head{font-size:10.5px;letter-spacing:.06em;text-transform:uppercase;color:var(--muted);margin-bottom:4px}.db-axis{position:relative;height:14px}.db-axis span{position:absolute;transform:translateX(-50%);white-space:nowrap}.db-axis span:first-child{transform:none}.db-axis span:last-child{transform:translateX(-100%)}.db-head .db-vals{display:flex;justify-content:space-between}.db-label{font-size:14px;line-height:1.35}.db-label small{display:block;font-size:12px;color:var(--muted)}.db-track{position:relative;height:30px;background:repeating-linear-gradient(to right,var(--line) 0 1px,transparent 1px 25%) 0 0/100% 100%;background-clip:content-box}.db-track::after{content:"";position:absolute;right:0;top:0;bottom:0;border-right:1px solid var(--line)}.db-link{position:absolute;top:50%;height:3px;margin-top:-1.5px;background:var(--line);border-radius:2px}.db-dot{position:absolute;top:50%;width:14px;height:14px;border-radius:50%;transform:translate(-50%,-50%);border:2.5px solid var(--accent);background:var(--surface)}.db-dot.s{border-color:var(--no);background:var(--no)}.db-vals{font:600 14px/1.2 var(--mono);display:grid;gap:3px}.db-vals small{font:400 11px var(--sans);color:var(--muted);margin-left:5px}.db-vals .o{color:var(--accent)}.db-vals .s{color:var(--no)}.lp{display:grid;gap:6px}.lp h4{font:600 14px/1.3 var(--sans);margin:6px 0 2px}.lp-row{display:grid;grid-template-columns:minmax(0,1fr) minmax(200px,1.3fr) 104px;gap:0 14px;align-items:center}.lp-name{font-size:13.5px;color:var(--muted)}.lp-row.s .lp-name{color:var(--no);font-weight:600}.lp-track{position:relative;height:22px;background:repeating-linear-gradient(to right,var(--line) 0 1px,transparent 1px 25%) 0 0/100% 100%}.lp-track::after{content:"";position:absolute;right:0;top:0;bottom:0;border-right:1px solid var(--line)}.lp-bar{position:absolute;left:0;top:50%;height:3px;margin-top:-1.5px;background:var(--line)}.lp-row.s .lp-bar{background:var(--no-soft)}.lp-val{font:600 13px/1.2 var(--mono);color:var(--accent)}.lp-row.s .lp-val{color:var(--no)}.lp-val small{font:400 11px var(--sans);color:var(--muted);margin-left:5px}.db-dot.one{border-style:dotted}.lp-none{font-size:13px;color:var(--muted);line-height:1.5;max-width:none}@media (max-width:640px){.db-head,.db-row,.lp-row{grid-template-columns:minmax(0,1fr) 72px;gap:4px 10px}.db-head>span:first-child,.db-row .db-label,.lp-name{grid-column:1/-1}.lp-row .lp-name{font-size:13px}.chart{padding:12px 12px 10px}.db-vals{font-size:13px}.db-vals small{display:block;margin:0}.db-head .db-vals{display:grid;gap:2px}}</style>`;
 
 const html = page({
   title: 'Officer Reports Compared Across Councils',
