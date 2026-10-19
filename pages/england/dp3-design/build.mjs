@@ -132,7 +132,7 @@ check(pins('PINS-6005325'), 'maintaining and enhancing tree cover');
 const weighed = `<section id="weighed"><h2>When design conflict is only weighed</h2>
 <p>Some decisions find a design conflict but never ask whether it is clearly justified, and weigh it as one harm among others. Councils do this too. At Snitterfield, Stratford-on-Avon District Council found significant harm to character and wrote:</p>
 ${quote('case:stratford-26-00617-PIP', 'In light of NDMP DP3 (3), I afford this harm substantial weight.', `${caseLink('stratford-26-00617-PIP')}, officer report p.15`, 15)}
-<p>The scheme was approved. DP3(3) goes further than weight: it says the proposal "should be refused" unless there is clear justification, which then engages S4(2)(c) or S5(2). A decision that weighs the conflict without asking that question has not applied the policy as written.</p>
+<p>The scheme was approved. DP3(3) goes further than weight: it says the proposal "should be refused" unless there is clear justification, which then engages S4(2)(c) or S5(2). A decision that weighs the conflict without asking that question has not applied the policy as written. How often officers do this, at Stratford-on-Avon and at 22 other councils, is counted in <a href="/research/authority/officer-reports-compared/">Officer reports compared across councils</a>.</p>
 </section>`;
 
 const html = page({

@@ -86,6 +86,7 @@ const LABELS = {
   '/research/authority/stratford-dc/': 'Stratford-on-Avon District',
   '/research/authority/stratford-dc/nppf-2026-decisions/': 'Decisions under the 2026 NPPF',
   '/research/authority/stratford-dc/core-strategy-weight/': 'Core Strategy: which policies keep their weight',
+  '/research/authority/officer-reports-compared/': 'Four errors, 22 councils compared',
   '/research/settlement/claverdon/': 'Claverdon',
   '/research/settlement/claverdon/station-road-decision-route/': 'Station Road decision route',
   '/research/settlement/claverdon/kington-lane-decision-route/': 'Kington Lane decision route',
@@ -99,7 +100,7 @@ const ORDER = [
   '/research/england/nppf-map/',
   '/research/england/sustainable-location/', '/research/england/sustainable-location/factors/', '/research/england/sustainable-location/service-village/',
   '/research/england/what-is-a-settlement/', '/research/england/what-is-a-village/', '/research/england/very-special-circumstances/', '/research/england/substantially-outweighed/', '/research/england/dp3-design/',
-  '/research/authority/stratford-dc/', '/research/authority/stratford-dc/nppf-2026-decisions/', '/research/authority/stratford-dc/core-strategy-weight/',
+  '/research/authority/stratford-dc/', '/research/authority/stratford-dc/nppf-2026-decisions/', '/research/authority/stratford-dc/core-strategy-weight/', '/research/authority/officer-reports-compared/',
   '/research/settlement/claverdon/', '/research/settlement/claverdon/station-road-decision-route/', '/research/settlement/claverdon/kington-lane-decision-route/', '/research/settlement/claverdon/station-road-on-foot/', '/research/settlement/claverdon/neighbourhood-plan-weight/',
 ];
 const NAV_CSS = `.pdn{display:flex;flex-wrap:wrap;align-items:center;gap:2px 10px;position:relative;z-index:30;margin:0 auto 10px;padding:8px 0 6px;border-bottom:1px solid var(--line,#d5dddd);font:14px/1.4 -apple-system,"Segoe UI",system-ui,sans-serif;color:var(--ink,#17212b)}

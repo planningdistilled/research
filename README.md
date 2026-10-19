@@ -31,6 +31,7 @@ pages/              one folder per published page, mirroring the site's paths
   england/very-special-circumstances/
   england/substantially-outweighed/
   authority/stratford-dc/nppf-decisions/
+  authority/officer-reports-compared/              (the four Stratford errors scored across 22 other councils)
   settlement/claverdon/station-road-on-foot/
 site/               finish.mjs (site-wide metadata, sitemap, llms.txt, IndexNow), seo.py, publish checklist
 paths.mjs, paths.py where everything is; the only place paths are resolved
