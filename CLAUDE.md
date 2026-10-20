@@ -71,6 +71,7 @@ uv run tools/harvest.py status        # watermarks, queue, what is stale
 uv run tools/harvest.py all           # sweep, fetch, index, queue, build (weekly)
 uv run tools/harvest.py build         # normalise + build_index after editing cases
 uv run tools/build_index.py           # index only; fix every WARN for files you touched
+uv run tools/council_sweep.py all     # council officer reports since 17 Aug 2026 (register: harvest-log/council-register.tsv; PDFs to ../sources/council/sweep/)
 
 # Guidance corpus
 uv run tools/corpus_quotes.py         # re-check every corpus quotation (needs ../sources)

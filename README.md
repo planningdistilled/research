@@ -55,6 +55,7 @@ Everything except the guidance quote check and the Stratford note checks works w
 ```bash
 uv run tools/harvest.py status          # what has been harvested and what is queued
 uv run tools/harvest.py all             # weekly: sweep, fetch, index, queue, build
+uv run tools/council_sweep.py status    # council registers and committee pages: officer reports since the Framework
 uv run tools/build_index.py             # rebuild data/decisions/index after editing cases
 uv run tools/corpus_quotes.py           # re-check guidance quotations (needs sources/)
 

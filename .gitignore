@@ -14,3 +14,6 @@ __pycache__/
 pages/authority/stratford-dc/nppf-decisions/build/index.html
 pages/authority/stratford-dc/nppf-decisions/build/case-*.html
 pages/authority/stratford-dc/nppf-decisions/build/stratford-nppf-decisions.html
+# cookie jars and partial downloads from the council sweep
+data/decisions/harvest-log/council/jars/
+*.part

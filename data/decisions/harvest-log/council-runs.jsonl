@@ -1,0 +1,44 @@
+{"at": "2026-10-19T13:40:39+01:00", "cmd": "sweep", "new": {"stratford": 43}}
+{"at": "2026-10-19T13:40:42+01:00", "cmd": "sweep", "new": {"basildon": 2}}
+{"at": "2026-10-19T13:40:46+01:00", "cmd": "sweep", "new": {"dacorum": 3}}
+{"at": "2026-10-19T13:40:52+01:00", "cmd": "sweep", "new": {"bromsgrove": 50}}
+{"at": "2026-10-19T13:40:56+01:00", "cmd": "fetch", "fetched": 3}
+{"at": "2026-10-19T13:42:05+01:00", "cmd": "fetch", "fetched": 8}
+{"at": "2026-10-19T13:42:11+01:00", "cmd": "fetch", "fetched": 3}
+{"at": "2026-10-19T13:43:22+01:00", "cmd": "sweep", "new": {"bromsgrove": 50}}
+{"at": "2026-10-19T13:43:24+01:00", "cmd": "fetch", "fetched": 0}
+{"at": "2026-10-19T13:43:49+01:00", "cmd": "ocr", "done": 0}
+{"at": "2026-10-19T13:44:02+01:00", "cmd": "ocr", "done": 1}
+{"at": "2026-10-19T13:46:59+01:00", "cmd": "fetch", "fetched": 0}
+{"at": "2026-10-19T13:47:40+01:00", "cmd": "fetch", "fetched": 1}
+{"at": "2026-10-19T13:47:50+01:00", "cmd": "fetch", "fetched": 1}
+{"at": "2026-10-19T13:47:55+01:00", "cmd": "sweep", "new": {"warwick": 70}}
+{"at": "2026-10-19T13:49:07+01:00", "cmd": "sweep", "new": {}}
+{"at": "2026-10-19T13:49:44+01:00", "cmd": "sweep", "new": {"wychavon": 90}}
+{"at": "2026-10-19T13:50:46+01:00", "cmd": "fetch", "fetched": 3}
+{"at": "2026-10-19T13:51:16+01:00", "cmd": "sweep", "new": {"malvern-hills": 63}}
+{"at": "2026-10-19T13:51:27+01:00", "cmd": "fetch", "fetched": 2}
+{"at": "2026-10-19T13:51:41+01:00", "cmd": "sweep", "new": {"worcester": 39}}
+{"at": "2026-10-19T13:51:59+01:00", "cmd": "fetch", "fetched": 2}
+{"at": "2026-10-19T13:52:12+01:00", "cmd": "fetch", "fetched": 1}
+{"at": "2026-10-19T13:52:12+01:00", "cmd": "minutes", "got": 0}
+{"at": "2026-10-19T13:53:38+01:00", "cmd": "sweep", "new": {"bromsgrove": 50}}
+{"at": "2026-10-19T13:54:15+01:00", "cmd": "fetch", "fetched": 3}
+{"at": "2026-10-19T13:54:28+01:00", "cmd": "sweep", "new": {"warwick": 70}}
+{"at": "2026-10-19T13:58:58+01:00", "cmd": "fetch", "fetched": 3}
+{"at": "2026-10-19T13:59:14+01:00", "cmd": "sweep", "new": {"lichfield": 33}}
+{"at": "2026-10-19T13:59:46+01:00", "cmd": "fetch", "fetched": 2}
+{"at": "2026-10-19T14:01:42+01:00", "cmd": "sweep", "new": {"bromsgrove": 50}}
+{"at": "2026-10-19T14:02:19+01:00", "cmd": "fetch", "fetched": 3}
+{"at": "2026-10-19T14:02:54+01:00", "cmd": "sweep", "new": {"warwick": 70}}
+{"at": "2026-10-19T14:04:11+01:00", "cmd": "fetch", "fetched": 3}
+{"at": "2026-10-19T14:04:46+01:00", "cmd": "sweep", "new": {"lichfield": 33}}
+{"at": "2026-10-19T14:05:13+01:00", "cmd": "fetch", "fetched": 2}
+{"at": "2026-10-19T15:04:34+01:00", "cmd": "sweep", "new": {"babergh-mid-suffolk": 690, "basildon": 242, "basildon-committee": 0, "bathnes-committee": 2, "bromsgrove": 0, "bromsgrove-committee": 1, "cheshire-east-committee": 4, "chorley": 189, "chorley-committee": 2, "cotswold": 529, "cotswold-committee": 2, "dacorum": 355, "dacorum-committee": 0, "east-devon": 439, "east-devon-committee": 3, "elmbridge-committee": 3, "hertsmere": 316, "horsham": 486, "lichfield": 0, "lichfield-committee": 2, "maidstone": 568, "maidstone-committee": 3, "maldon": 150, "maldon-committee": 7, "malvern-hills": 2, "malvern-hills-committee": 2, "mid-sussex": 412, "north-herts": 421, "north-herts-committee": 3, "redditch-committee": 1, "reigate-banstead": 373, "sefton": 290, "sefton-committee": 1, "solihull": 276, "solihull-committee": 2, "stratford": 482, "stratford-committee": 4, "three-rivers": 286, "three-rivers-committee": 2, "tonbridge-malling": 337, "tonbridge-malling-committee": 4, "uttlesford": 503, "warwick": 0, "west-northants": 0, "worcester": 1, "worcester-committee": 1, "wychavon": 8}}
+{"at": "2026-10-19T18:38:50+01:00", "cmd": "sweep", "new": {"bromsgrove": 151, "lichfield": 109, "malvern-hills": 193, "warwick": 284, "worcester": 97, "wychavon": 327}}
+{"at": "2026-10-19T19:27:07+01:00", "cmd": "fetch", "fetched": 212}
+{"at": "2026-10-19T19:27:07+01:00", "cmd": "minutes", "got": 0}
+{"at": "2026-10-20T08:06:48+01:00", "cmd": "fetch", "fetched": 1566}
+{"at": "2026-10-20T08:07:39+01:00", "cmd": "minutes", "got": 0}
+{"at": "2026-10-20T08:09:12+01:00", "cmd": "sweep", "new": {"west-northants": 0}}
+{"at": "2026-10-20T08:11:56+01:00", "cmd": "reclassify", "dropped": 1833, "rekinded": 196}
