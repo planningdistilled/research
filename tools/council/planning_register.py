@@ -74,6 +74,10 @@ def _search(http, base, since, until):
     if not tok:
         raise RuntimeError('no anti-forgery token on /Search/Advanced')
     names, action = _form_fields(page)
+    if 'class="g-recaptcha"' in page[page.find('AdvancedSearch'):page.find('</form>', page.find('AdvancedSearch'))]:
+        # West Northamptonshire's build submits the search through Google's invisible reCAPTCHA; a scripted
+        # POST without that token is bounced to the home page, so this is a bot wall for our purposes.
+        raise c.Blocked(base + '/Search/Advanced (advanced search needs a reCAPTCHA token)')
     date_from = 'DateIssuedFrom' if 'DateIssuedFrom' in names else 'DateDeterminedFrom'
     date_to = date_from.replace('From', 'To')
     if date_from not in names:
@@ -107,6 +111,8 @@ def sweep(http, council, since, until):
     for n in range(1, PAGE_CAP + 2):
         if n == 1:
             page = _get(http, base + '/Search/Results')
+            if 'tblResults' not in page and 'Planning/Display/' not in page:
+                raise RuntimeError('/Search/Results did not return a results page; the search was not accepted')
         else:
             code, page = http.get(f'{base}/Search/ResultsPage/{n}?module=PLA',
                                   headers=['X-Requested-With: XMLHttpRequest', 'Referer: ' + base + '/Search/Results'])
@@ -135,7 +141,10 @@ def sweep(http, council, since, until):
 
 
 def _field(page, label):
-    m = re.search(r'<td[^>]*>\s*' + re.escape(label) + r'\s*</td>\s*<td[^>]*>(.*?)</td>', page, re.S)
+    """Value for a summary label: South Worcs puts it in the next cell, WNC under a <br> in the same cell."""
+    lab = re.escape(label)
+    m = (re.search(r'<td[^>]*>\s*' + lab + r'\s*</td>\s*<td[^>]*>(.*?)</td>', page, re.S)
+         or re.search(r'<td[^>]*>\s*' + lab + r'\**\s*<br\s*/?>\s*<div[^>]*>(.*?)</div>', page, re.S))
     return c.strip_tags(m[1]) if m else ''
 
 
@@ -172,7 +181,7 @@ def fetch(http, council, item, outdir):
     if date:
         item['date'] = date
         item['extra'].pop('dateSource', None)
-    level = _field(page, 'Expected Decision Level').lower()
+    level = (_field(page, 'Expected Decision Level') or _field(page, 'Decision Level')).lower()
     committee_date = c.uk_date(_field(page, 'Committee Date (if applicable)') or _field(page, 'Committee Date'))
     item['level'] = 'committee' if 'committee' in level or committee_date else 'delegated' if 'delegated' in level else ''
     item['extra'].update({k: v for k, v in (('parish', _field(page, 'Parish')), ('ward', _field(page, 'Ward')),

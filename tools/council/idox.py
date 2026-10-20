@@ -79,9 +79,10 @@ def _rows(text):
         if not kv:
             continue
         meta = c.strip_tags((re.search(r'<p class="metaInfo">(.*?)</p>', body, re.S) or [None, ''])[1])
-        # metaInfo reads "Ref. No: X | Received: ... | Validated: ... | Status: Y"; some skins use a middle dot.
+        # metaInfo reads "Ref. No: X | Received: ... | Validated: ... | Status: Y"; some skins use a middle dot,
+        # and the newer skin labels the reference "Application. No:".
         end = r'\s*(?=\||·|Received:|Validated:|Status:|$)'
-        ref = re.search(r'Ref\. No:\s*(.*?)' + end, meta)
+        ref = re.search(r'(?:Ref\.?|Application\.?|Reference)\s*No\.?:\s*(.*?)' + end, meta)
         status = re.search(r'Status:\s*(.*?)' + end, meta)
         out.append({'keyVal': kv[1], 'ref': ref[1].strip() if ref else kv[1],
                     'status': status[1].strip() if status else '',

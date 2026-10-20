@@ -266,7 +266,7 @@ def cmd_status(a, reg, state):
         items = c.load_items(row['slug'])   # counts come from the items file; the state holds only watermarks
         fetched = [it for it in items.values() if it.get('fetchedAt')]
         cs = dict(cs, items=len(items), fetched=len(fetched),
-                  withReport=sum(1 for it in fetched if any(f.get('kind') == 'report' for f in it['fetched'])),
+                  withReport=sum(1 for it in fetched if any(f.get('kind') == 'report' for f in it.get('fetched', []))),
                   fetchErrors=sum(1 for it in items.values() if it.get('fetchError')),
                   newestDateSeen=max([it['date'] for it in items.values() if it.get('date')] or ['']))
         note = 'BLOCKED' if row.get('blocked') == 'yes' else ('bot wall ' + age(cs['lastSweepBlockedAt'])
@@ -314,13 +314,16 @@ def cmd_ocr(a, reg, state):
             break
         txt = marker[:-len('.needs-ocr')]
         pdf = re.sub(r'\.txt$', '.pdf', txt)
+        if not os.path.exists(marker):      # a reclassify run may have dropped the file meanwhile
+            continue
         if not os.path.exists(pdf):
             os.remove(marker)
             continue
         print(f'  {os.path.relpath(pdf, c.OUT_ROOT)}')
         p = subprocess.run(['uv', 'run', ocr, pdf, txt], capture_output=True, text=True)  # inline deps need uv
         if p.returncode == 0 and os.path.exists(txt) and os.path.getsize(txt) > 200:
-            os.remove(marker)
+            if os.path.exists(marker):
+                os.remove(marker)
             done += 1
         else:
             print(f'    OCR failed: {(p.stderr or p.stdout)[-200:]}')
@@ -374,6 +377,7 @@ def cmd_register(a, reg, state):
 
 
 def main():
+    sys.stdout.reconfigure(line_buffering=True)   # progress shows up in a redirected log as it happens
     ap = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
     ap.add_argument('--council', action='append', help='register slug; repeatable')
     ap.add_argument('--verbose', action='store_true')

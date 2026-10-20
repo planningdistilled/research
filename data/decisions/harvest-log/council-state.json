@@ -3,13 +3,13 @@
     "babergh-mid-suffolk": {
       "fetchErrors": 0,
       "fetched": 214,
-      "items": 690,
+      "items": 1384,
       "lastFetchAt": "2026-10-20T08:06:48+01:00",
-      "lastSweepAt": "2026-10-19T15:04:34+01:00",
-      "lastSweepFound": 690,
-      "lastSweepNew": 690,
-      "newestDateSeen": "2026-10-19",
-      "requests": 9,
+      "lastSweepAt": "2026-10-20T08:25:58+01:00",
+      "lastSweepFound": 694,
+      "lastSweepNew": 694,
+      "newestDateSeen": "2026-10-20",
+      "requests": 52,
       "withReport": 199
     },
     "babergh-mid-suffolk-committee": {},
@@ -540,6 +540,7 @@
     "west-northants": {
       "items": 0,
       "lastSweepAt": "2026-10-20T08:09:12+01:00",
+      "lastSweepBlockedAt": "2026-10-20T08:12:57+01:00",
       "lastSweepFound": 0,
       "lastSweepNew": 0,
       "newestDateSeen": "",
@@ -575,11 +576,11 @@
       "fetched": 82,
       "items": 425,
       "lastFetchAt": "2026-10-19T19:21:06+01:00",
-      "lastSweepAt": "2026-10-19T18:36:49+01:00",
-      "lastSweepFound": 425,
-      "lastSweepNew": 327,
+      "lastSweepAt": "2026-10-20T08:13:16+01:00",
+      "lastSweepFound": 8,
+      "lastSweepNew": 0,
       "newestDateSeen": "2026-10-19",
-      "requests": 46,
+      "requests": 4,
       "withReport": 62
     },
     "wychavon-committee": {}
