@@ -25,8 +25,12 @@ WANT = [
 # Descriptions that name the council's own document outright.
 STRONG = re.compile(r"officer'?s? report|delegated( officer)? (report|decision)|del\.? ?rep|committe\w* report|"
                     r'planning (committe\w* )?report|report to (planning )?committee|case officer report|reports? pack|'
-                    r'^report(-|$)|decision notice|notice of decision|decision letter|refusal notice|requisite notice|'
-                    r'update (report|sheet)|urgent update|addendum|late (item|list|representation)|supplementary (report|sheet)', re.I)
+                    r'^report(-|$)|\blpa report|decision notice|notice of decision|decision letter|refusal notice|requisite notice|'
+                    r'update (report|sheet|note)|urgent update|officer\'?s? (update|note|comments?)|addendum|'
+                    r'late (item|list|representation)|supplementary (report|sheet)', re.I)
+# STRONG matches that still yield to NOT_OURS ("Heritage Statement Addendum" is the applicant's); the rest never do.
+CORE = re.compile(r"officer'?s? report|delegated( officer)? (report|decision)|committe\w* report|\blpa report|case officer report|"
+                  r'decision notice|notice of decision|decision letter|refusal notice|update (report|sheet|note)|urgent update', re.I)
 # Descriptions that are probably a decision ("Decision", "Ful decision", "Planning permission - grant", "ACFULZ ...").
 WEAK = re.compile(r'\bdecision\b|\bnotice\b|permission|permitted|\bgrant(ed)?\b|refus|approv|consent (granted|refused)|'
                   r'\b(REFULZ|ACFULZ|ACHHFZ|OTD)\b', re.I)
@@ -35,7 +39,8 @@ NOT_OURS = re.compile(r'photo|committee decisions|summary of decisions|appeal de
                       r'survey|ecolog|arboricultur|drainage|structural|flood|viability|\btree|noise|transport|heritage|'
                       r'design and access|planning statement|statement|hs2 report|environmental|geotechn|energy|\bbat\b|'
                       r'health and safety|consultant|assessment|appraisal|plan(s)?\b|drawing|elevation|layout|site notice|'
-                      r'press notice|notice of (intent|entry)|certificate', re.I)
+                      r'press notice|notice of (intent|entry)|certificate|section 106|s\.?106\b|deed of variation|'
+                      r'unilateral undertaking|legal agreement|agreement', re.I)
 # Document types that are unambiguous on their own (used when the description is bland, e.g. "DC0001").
 DECISION_TYPE = re.compile(r"^(decision( notice| letter)?s?|notice of decision|officer'?s? report|delegated( officer)? "
                            r"(report|decision)|committee report|planning report|report to (planning )?committee|del\.? ?rep|"
@@ -213,7 +218,8 @@ def _documents(text, base):
 
 def desc_kind(desc):
     """Kind for a document description under the current rules, or None when it is not the council's own document."""
-    if STRONG.search(desc) or (WEAK.search(desc) and not NOT_OURS.search(desc)):
+    strong = STRONG.search(desc) and (CORE.search(desc) or not NOT_OURS.search(desc))
+    if strong or (WEAK.search(desc) and not NOT_OURS.search(desc)):
         return next((kind for kind, rx in WANT if rx.search(desc)), 'other')
     return None
 
@@ -227,10 +233,11 @@ def _classify(doc_type, desc):
     return ''
 
 
-def reclassify(file_name):
+def reclassify(file_name, doc_type=''):
     """Kind for a file already on disk (name = description-originalname.pdf) under the current rules, or None when
-    the current rules would not have downloaded it. Used by `council_sweep.py reclassify` after a rule change."""
-    return desc_kind(re.sub(r'\.pdf$', '', file_name, flags=re.I))
+    the current rules would not have downloaded it. Used by `council_sweep.py reclassify` after a rule change.
+    `doc_type` is the portal's document type when the fetch recorded it (files fetched before 20 Oct 2026 lack it)."""
+    return _classify(doc_type, re.sub(r'\.pdf$', '', file_name, flags=re.I)) or None
 
 
 def fetch(http, council, item, outdir):
@@ -275,5 +282,5 @@ def fetch(http, council, item, outdir):
                 if re.search(r'access denied|captcha|forbidden', head, re.I):
                     raise c.Blocked(url)
                 continue
-        files.append({'file': name, 'url': url, 'kind': kind})
+        files.append({'file': name, 'url': url, 'kind': kind, 'type': doc_type})
     return files

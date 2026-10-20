@@ -91,13 +91,13 @@
       "fetchErrors": 0,
       "fetched": 19,
       "items": 189,
-      "lastFetchAt": "2026-10-19T17:09:59+01:00",
+      "lastFetchAt": "2026-10-20T12:28:35+01:00",
       "lastSweepAt": "2026-10-19T14:34:38+01:00",
       "lastSweepFound": 189,
       "lastSweepNew": 189,
       "newestDateSeen": "2026-10-19",
       "requests": 4,
-      "withReport": 1
+      "withReport": 0
     },
     "chorley-committee": {
       "fetchErrors": 0,
@@ -160,16 +160,16 @@
       "withReport": 3
     },
     "east-devon": {
-      "fetchErrors": 56,
-      "fetched": 16,
+      "fetchErrors": 48,
+      "fetched": 24,
       "items": 439,
-      "lastFetchAt": "2026-10-20T01:10:00+01:00",
+      "lastFetchAt": "2026-10-20T11:40:57+01:00",
       "lastSweepAt": "2026-10-19T14:51:04+01:00",
       "lastSweepFound": 439,
       "lastSweepNew": 439,
       "newestDateSeen": "2026-10-19",
       "requests": 7,
-      "withReport": 13
+      "withReport": 17
     },
     "east-devon-committee": {
       "fetchErrors": 0,
@@ -274,7 +274,7 @@
       "fetchErrors": 44,
       "fetched": 0,
       "items": 150,
-      "lastFetchAt": "2026-10-19T18:28:30+01:00",
+      "lastFetchAt": "2026-10-20T09:09:34+01:00",
       "lastSweepAt": "2026-10-19T14:37:36+01:00",
       "lastSweepFound": 150,
       "lastSweepNew": 150,
@@ -389,13 +389,13 @@
       "fetchErrors": 0,
       "fetched": 74,
       "items": 290,
-      "lastFetchAt": "2026-10-19T20:34:24+01:00",
+      "lastFetchAt": "2026-10-20T12:40:52+01:00",
       "lastSweepAt": "2026-10-19T14:45:57+01:00",
       "lastSweepFound": 290,
       "lastSweepNew": 290,
       "newestDateSeen": "2026-10-19",
       "requests": 26,
-      "withReport": 61
+      "withReport": 60
     },
     "sefton-committee": {
       "fetchErrors": 0,
@@ -410,16 +410,16 @@
       "withReport": 1
     },
     "solihull": {
-      "fetchErrors": 2,
-      "fetched": 71,
+      "fetchErrors": 0,
+      "fetched": 73,
       "items": 276,
-      "lastFetchAt": "2026-10-20T02:11:17+01:00",
+      "lastFetchAt": "2026-10-20T12:58:20+01:00",
       "lastSweepAt": "2026-10-19T14:54:01+01:00",
       "lastSweepFound": 276,
       "lastSweepNew": 276,
       "newestDateSeen": "2026-10-19",
       "requests": 19,
-      "withReport": 18
+      "withReport": 13
     },
     "solihull-committee": {
       "fetchErrors": 0,
@@ -491,13 +491,13 @@
       "fetchErrors": 0,
       "fetched": 99,
       "items": 337,
-      "lastFetchAt": "2026-10-19T16:56:57+01:00",
+      "lastFetchAt": "2026-10-20T12:23:01+01:00",
       "lastSweepAt": "2026-10-19T14:34:03+01:00",
       "lastSweepFound": 337,
       "lastSweepNew": 337,
       "newestDateSeen": "2026-10-19",
       "requests": 6,
-      "withReport": 78
+      "withReport": 75
     },
     "tonbridge-malling-committee": {
       "fetchErrors": 0,

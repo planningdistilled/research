@@ -46,3 +46,10 @@
 {"at": "2026-10-20T08:13:16+01:00", "cmd": "sweep", "new": {"wychavon": 0}}
 {"at": "2026-10-20T08:13:16+01:00", "cmd": "fetch", "fetched": 0}
 {"at": "2026-10-20T08:25:58+01:00", "cmd": "sweep", "new": {"babergh-mid-suffolk": 694}}
+{"at": "2026-10-20T08:38:50+01:00", "cmd": "ocr", "done": 108}
+{"at": "2026-10-20T11:55:39+01:00", "cmd": "fetch", "fetched": 102}
+{"at": "2026-10-20T11:58:16+01:00", "cmd": "reclassify", "dropped": 9, "rekinded": 0}
+{"at": "2026-10-20T11:59:35+01:00", "cmd": "fetch", "fetched": 2}
+{"at": "2026-10-20T12:01:26+01:00", "cmd": "reclassify", "dropped": 64, "rekinded": 0}
+{"at": "2026-10-20T12:58:20+01:00", "cmd": "fetch", "fetched": 265}
+{"at": "2026-10-20T13:00:07+01:00", "cmd": "ocr", "done": 8}

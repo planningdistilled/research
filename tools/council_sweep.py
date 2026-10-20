@@ -346,7 +346,7 @@ def cmd_reclassify(a, reg, state):
             outdir = c.outdir_for(row['slug'], it)
             keep = []
             for f in it['fetched']:
-                kind = mod.reclassify(f['file'])
+                kind = mod.reclassify(f['file'], f.get('type', ''))
                 if kind is None:
                     for ext in ('', '.txt', '.txt.needs-ocr'):
                         p = os.path.join(outdir, re.sub(r'\.pdf$', '', f['file'], flags=re.I) + ext if ext else f['file'])
@@ -362,12 +362,36 @@ def cmd_reclassify(a, reg, state):
                 it['fetched'] = keep
                 extract_and_record(outdir, keep)
         c.save_items(row['slug'], items)
+        d += drop_orphans(row['slug'], items, mod)
         if d or k:
             print(f'{row["slug"]}: dropped {d} file(s), re-kinded {k}')
         dropped += d
         rekinded += k
     print(f'dropped {dropped}, re-kinded {rekinded}')
     log_run('reclassify', dropped=dropped, rekinded=rekinded)
+
+
+def drop_orphans(slug, items, mod):
+    """Files on disk that no item records: downloads from a fetch that later failed, and `.part` leftovers. Drop the
+    ones the current rules would not download; the rest are picked up as cached when the item is retried."""
+    root = os.path.join(c.OUT_ROOT, slug)
+    if not os.path.isdir(root):
+        return 0
+    recorded = {os.path.join(c.outdir_for(slug, it), f['file'])
+                for it in items.values() for f in it.get('fetched', [])}
+    dropped = 0
+    for dirpath, _, names in os.walk(root):
+        for name in names:
+            path = os.path.join(dirpath, name)
+            if name.endswith('.part'):
+                os.remove(path)
+            elif name.lower().endswith('.pdf') and path not in recorded and mod.reclassify(name) is None:
+                for ext in ('', '.txt', '.txt.needs-ocr'):
+                    p = re.sub(r'\.pdf$', '', path, flags=re.I) + ext if ext else path
+                    if os.path.exists(p):
+                        os.remove(p)
+                dropped += 1
+    return dropped
 
 
 def cmd_register(a, reg, state):
