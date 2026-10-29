@@ -284,8 +284,7 @@ const dp3SplitTable = `<div class="table-wrap"><table><thead><tr><th>DP3(3) not 
 // Positioned by percentage in HTML so the labels stay readable at phone width.
 const rate = (c, k, n) => ({ v: pct(c[k], c[n] ?? c.n), num: c[k], den: c[n] ?? c.n });
 const dumbbellRows = [
-  ['Settlement tier used as the location test', ['tier', 'error', 'n']],
-  ['Tier used, counting "partial" (a tier finding with one route fact beside it)', ['tier', 'notRun', 'n']],
+  ['Settlement tier used as the location test (no route fact, or one thin fact beside the tier)', ['tier', 'notRun', 'n']],
   ['TR3 not applied where a sustainable-location decision is made', ['loc', 'notApplied', 'n']],
   ['Green Belt route: S4 or S5(1)(j) applied in a washed-over village or hamlet', ['annexb', 'error', 'n']],
   ['DP3(3) not asked after a found design conflict', ['dp33', 'error', 'n']],
