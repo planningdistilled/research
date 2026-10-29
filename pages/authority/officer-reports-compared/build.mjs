@@ -152,15 +152,16 @@ expect(o.dp33.grant === 3 && o.dp33.refuse === 5, `other DP3(3) errors split 3 g
 expect(pct(s.tier.error, s.tier.n) > 2 * pct(o.tier.error, o.tier.n), 'Stratford makes the tier error more than twice as often');
 expect(pct(s.annexb.error, s.annexb.n) > 2 * pct(o.annexb.error, o.annexb.n), 'Stratford makes the Annex B error more than twice as often');
 expect(s.template / s.n > 4 * (o.template / o.n), 'the template paragraph is at least four times as common at Stratford');
-const warwick = perCouncil.find((c) => c.council === 'Warwick');
+const warwick = perCouncilAll.find((c) => c.council === 'Warwick');
 expect(warwick && warwick.tier.error >= 2, 'Warwick has at least two tier errors');
-const noTierError = perCouncil.filter((c) => c.tier.n >= 2 && c.tier.error === 0).map((c) => c.council);
-const tierErrorCouncils = perCouncil.filter((c) => c.tier.error > 0).map((c) => `${c.council} (${c.tier.error} of ${c.tier.n})`);
+const noTierError = perCouncilAll.filter((c) => c.tier.n >= 2 && c.tier.error === 0).map((c) => c.council);
+const tierErrorCouncils = perCouncilAll.filter((c) => c.tier.error > 0).map((c) => `${c.council} (${c.tier.error} of ${c.tier.n})`);
 const joinAnd = (xs) => xs.length < 2 ? xs.join('') : `${xs.slice(0, -1).join(', ')} and ${xs[xs.length - 1]}`;
-const bromsgrove = perCouncil.find((c) => c.council === 'Bromsgrove');
+const bromsgrove = perCouncilAll.find((c) => c.council === 'Bromsgrove');
 expect(bromsgrove && bromsgrove.tier.error === 1, `Bromsgrove has one tier error (now ${bromsgrove && bromsgrove.tier.error})`);
-const templateCouncils = perCouncil.filter((c) => c.template > 0).map((c) => `${c.council}${c.template > 1 ? ` (${c.template})` : ''}`);
-const toolCouncils = perCouncil.filter((c) => c.tool.yes > 0).map((c) => `${c.council} (${c.tool.yes})`);
+const templateCouncils = perCouncilAll.filter((c) => c.template > 0).map((c) => `${c.council}${c.template > 1 ? ` (${c.template})` : ''}`);
+const toolCouncils = perCouncilAll.filter((c) => c.tool.yes > 0).map((c) => `${c.council} (${c.tool.yes})`);
+const toolCouncilsHand = perCouncil.filter((c) => c.tool.yes > 0).map((c) => `${c.council} (${c.tool.yes})`);
 const unconvertedOther = O.filter((r) => ['2024', '2024-unconverted'].includes(code(r.framework)));
 expect(s.tr3.big.n === 8 && s.tr3.big.nm === 5 && s.tr3.big.cited === 1, `the Stratford six-plus-home TR3 rows are 5 not mentioned, 1 cited only of 8 (now ${s.tr3.big.nm}/${s.tr3.big.cited}/${s.tr3.big.n})`);
 expect(pct(s.loc.applied, s.loc.n) < pct(o.loc.applied, o.loc.n) && pct(s.loc.applied, s.loc.n) < pct(all.loc.applied, all.loc.n), 'Stratford applies TR3 to fewer of its location decisions than the other councils');
@@ -168,6 +169,7 @@ expect(2 * pct(s.loc.route, s.loc.n) < pct(all.loc.route, all.loc.n), 'the other
 expect(pct(s.loc.gb.applied, s.loc.gb.n) < pct(all.loc.gb.applied, all.loc.gb.n), 'Stratford applies TR3 to fewer of its Green Belt location decisions');
 expect(unconvertedOther.length === 3, `three unconverted 2024 reports elsewhere (now ${unconvertedOther.length})`);
 const washedOverOther = O.filter((r) => code(r.washed_over) === 'yes').length;
+const washedOverAll = OW.filter((r) => code(r.washed_over) === 'yes').length;
 // Facts the enlarged-set prose states.
 expect(newCouncils.length === 5 && allCouncils.length === 27, `five new councils, 27 in all (now ${newCouncils.length}, ${allCouncils.length})`);
 expect(pct(s.tier.error, s.tier.n) > 2 * pct(all.tier.error, all.tier.n), 'Stratford makes the tier error more than twice as often as the enlarged set');
@@ -234,34 +236,34 @@ const report = (council, ref, pg) => `${esc(council)}, ${esc(ref)}, officer repo
 // ---- The comparison table ----
 const compareRows = [
   ['Tier used as the location test', `error ${s.tier.error}, partial ${s.tier.partial}, ok ${s.tier.ok} of ${s.tier.n}<br>error ${pct(s.tier.error, s.tier.n)}%; error or partial ${pct(s.tier.notRun, s.tier.n)}%`,
-    `error ${o.tier.error}, partial ${o.tier.partial}, ok ${o.tier.ok} of ${o.tier.n}<br>error ${pct(o.tier.error, o.tier.n)}%; error or partial ${pct(o.tier.notRun, o.tier.n)}%`,
+    `error ${all.tier.error}, partial ${all.tier.partial}, ok ${all.tier.ok} of ${all.tier.n}<br>error ${pct(all.tier.error, all.tier.n)}%; error or partial ${pct(all.tier.notRun, all.tier.n)}%`,
     `A Stratford habit, shared by ${joinAnd(tierErrorCouncils)}. Bromsgrove's one is a three-page notice with no report behind it. ${noTierError.length} councils with two or more location reports have no tier error at all.`],
   ['TR3 not applied where a sustainable-location decision is made', `${s.loc.notApplied} of ${s.loc.n} location decisions<br>${pct(s.loc.notApplied, s.loc.n)}%; location decided on the route in ${s.loc.route} (${pct(s.loc.route, s.loc.n)}%)<br>Green Belt sites: TR3 applied in ${s.loc.gb.applied} of ${s.loc.gb.n}`,
-    `${o.loc.notApplied} of ${o.loc.n} location decisions<br>${pct(o.loc.notApplied, o.loc.n)}%; location decided on the route in ${o.loc.route} (${pct(o.loc.route, o.loc.n)}%)<br>Green Belt sites: TR3 applied in ${o.loc.gb.applied} of ${o.loc.gb.n}`,
-    `The measure for the complaint's second head: where a report has to decide whether the location is sustainable, does it apply TR3? Naming the policy is uncommon everywhere, but the other councils decide the location on the route in ${pct(o.loc.route, o.loc.n)}% of those reports against Stratford's ${pct(s.loc.route, s.loc.n)}%, and apply TR3 in terms on ${pct(o.loc.gb.applied, o.loc.gb.n)}% of Green Belt sites, where GB7(1)(g)(iii) asks for it, against Stratford's ${pct(s.loc.gb.applied, s.loc.gb.n)}%.`],
+    `${all.loc.notApplied} of ${all.loc.n} location decisions<br>${pct(all.loc.notApplied, all.loc.n)}%; location decided on the route in ${all.loc.route} (${pct(all.loc.route, all.loc.n)}%)<br>Green Belt sites: TR3 applied in ${all.loc.gb.applied} of ${all.loc.gb.n}`,
+    `The measure for the complaint's second head: where a report has to decide whether the location is sustainable, does it apply TR3? Naming the policy is uncommon everywhere, but the other councils decide the location on the route in ${pct(all.loc.route, all.loc.n)}% of those reports against Stratford's ${pct(s.loc.route, s.loc.n)}%, and apply TR3 in terms on ${pct(all.loc.gb.applied, all.loc.gb.n)}% of Green Belt sites, where GB7(1)(g)(iii) asks for it, against Stratford's ${pct(s.loc.gb.applied, s.loc.gb.n)}%.`],
   ['TR3 not run, raw count of all reports', `not mentioned ${s.tr3.nm}, cited only ${s.tr3.cited}, dodged ${s.tr3.dodged}, assessed ${s.tr3.assessed} of ${s.tr3.n}<br>not run ${pct(s.tr3.notRun, s.tr3.n)}%`,
-    `not mentioned ${o.tr3.nm}, cited only ${o.tr3.cited}, dodged ${o.tr3.dodged}, assessed ${o.tr3.assessed} of ${o.tr3.n}<br>not run ${pct(o.tr3.notRun, o.tr3.n)}%`,
+    `not mentioned ${all.tr3.nm}, cited only ${all.tr3.cited}, dodged ${all.tr3.dodged}, assessed ${all.tr3.assessed} of ${all.tr3.n}<br>not run ${pct(all.tr3.notRun, all.tr3.n)}%`,
     'Common everywhere and not a fair measure on its own: it counts small schemes and reports written to the 2024 Framework. The row above is the measure used; the size split is below.'],
-  ['Connectivity Tool used', `${s.tool.yes} of ${s.n}`, `${o.tool.yes} of ${o.n}${o.tool.indirect ? `, plus ${o.tool.indirect} indirect` : ''}<br>${toolCouncils.join(', ')}`,
+  ['Connectivity Tool used', `${s.tool.yes} of ${s.n}`, `${all.tool.yes} of ${all.n}${all.tool.indirect ? `, plus ${all.tool.indirect} indirect` : ''}<br>${toolCouncils.join(', ')}`,
     'Absent almost everywhere. Where it appears it is one team\'s template.'],
   ['Annex B and the Green Belt route', `error ${s.annexb.error} of ${s.annexb.n} Green Belt or hamlet cases<br>${pct(s.annexb.error, s.annexb.n)}%`,
-    `error ${o.annexb.error} of ${o.annexb.n}<br>${pct(o.annexb.error, o.annexb.n)}%`,
+    `error ${all.annexb.error} of ${all.annexb.n}<br>${pct(all.annexb.error, all.annexb.n)}%`,
     'Stratford and Warwick apply S4 or S5(1)(j) in washed-over villages. Elsewhere most of the errors are belt-and-braces runs of S5 before S5(5) is applied; only Basildon and North Hertfordshire change the route.'],
   ['DP3(3) not asked after a design conflict', `error ${s.dp33.error} of ${s.dp33.n}<br>${pct(s.dp33.error, s.dp33.n)}%; ${s.dp33.grant} of the errors recommend grant`,
-    `error ${o.dp33.error} of ${o.dp33.n}<br>${pct(o.dp33.error, o.dp33.n)}%; ${o.dp33.grant} of the errors recommend grant`,
+    `error ${all.dp33.error} of ${all.dp33.n}<br>${pct(all.dp33.error, all.dp33.n)}%; ${all.dp33.grant} of the errors recommend grant`,
     'The clearest Stratford outlier, partly a composition effect: other officers rarely find a design conflict and then recommend approval.'],
-  ['2024 Framework applied without conversion', `${s.unconverted} of ${s.n}`, `${o.unconverted} of ${o.n}`,
-    'Rare everywhere. The late Warwick and Wychavon notices on old reports are the same defect as Stratford\'s Checketts Abattoir.'],
-  ['Template paragraph cutting the hierarchy policies to very limited weight', `${s.template} of ${s.n}<br>${pct(s.template, s.n)}%`, `${o.template} of ${o.n}<br>${pct(o.template, o.n)}%<br>${templateCouncils.join(', ')}`,
-    'A Stratford peculiarity in form. The other six cut hierarchy policies on five-year-supply or age grounds, the 2024 logic that Annex A(2) also does not allow.'],
+  ['2024 Framework applied without conversion', `${s.unconverted} of ${s.n}`, `${all.unconverted} of ${all.n}`,
+    `Rare at Stratford and in the hand-read set; the sweep found ${sweepUnconverted.length} more, most of them notices issued on 2024 or 2025 committee resolutions once a legal agreement was signed. The same defect as Stratford\'s Checketts Abattoir.`],
+  ['Template paragraph cutting the hierarchy policies to very limited weight', `${s.template} of ${s.n}<br>${pct(s.template, s.n)}%`, `${all.template} of ${all.n}<br>${pct(all.template, all.n)}%<br>${templateCouncils.join(', ')}`,
+    `A Stratford peculiarity in form. The other ${templateCouncils.length} councils cut hierarchy policies on five-year-supply or age grounds, the 2024 logic that Annex A(2) also does not allow.`],
 ];
-const compareTable = `<div class="table-wrap"><table><thead><tr><th>Error</th><th>Stratford (${s.n} reports)</th><th>22 other councils (${o.n} reports)</th><th>Reading</th></tr></thead><tbody>
+const compareTable = `<div class="table-wrap"><table><thead><tr><th>Error</th><th>Stratford (${s.n} reports)</th><th>${allCouncils.length} other councils (${all.n} reports)</th><th>Reading</th></tr></thead><tbody>
 ${compareRows.map(([a, b, c, d]) => `<tr><th scope="row">${a}</th><td>${b}</td><td>${c}</td><td>${d}</td></tr>`).join('\n')}
 </tbody></table></div>`;
 
 const cell = (c) => `${c.error}/${c.partial ?? ''}${c.partial !== undefined ? '/' : ''}${c.ok}`;
 const councilTable = `<div class="table-wrap"><table class="councils"><thead><tr><th>Council</th><th>Reports</th><th>Tier<br><small>error / partial / ok</small></th><th>TR3<br><small>not mentioned / cited only / dodged / assessed</small></th><th>Tool</th><th>Annex B<br><small>error / ok</small></th><th>DP3(3)<br><small>error / ok</small></th><th>2024 unconverted</th><th>Template</th></tr></thead><tbody>
-${[...perCouncil, { council: 'Stratford-on-Avon', ...s, bold: true }].map((c) => {
+${[...perCouncilAll, { council: 'Stratford-on-Avon', ...s, bold: true }].map((c) => {
   const w = (x) => (c.bold ? `<strong>${x}</strong>` : x);
   return `<tr${c.bold ? ' class="sdc"' : ''}><th scope="row">${w(esc(c.council))}</th><td>${w(c.n)}</td><td>${w(cell(c.tier))}</td><td>${w(`${c.tr3.nm}/${c.tr3.cited}/${c.tr3.dodged}/${c.tr3.assessed}`)}</td><td>${w(c.tool.yes)}</td><td>${w(`${c.annexb.error}/${c.annexb.ok}`)}</td><td>${w(`${c.dp33.error}/${c.dp33.ok}`)}</td><td>${w(c.unconverted)}</td><td>${w(c.template)}</td></tr>`;
 }).join('\n')}
@@ -287,7 +289,7 @@ const dumbbellRows = [
   ['TR3 not applied where a sustainable-location decision is made', ['loc', 'notApplied', 'n']],
   ['Green Belt route: S4 or S5(1)(j) applied in a washed-over village or hamlet', ['annexb', 'error', 'n']],
   ['DP3(3) not asked after a found design conflict', ['dp33', 'error', 'n']],
-].map(([label, [grp, k, n]]) => ({ label, s: rate(s[grp], k, n), o: rate(o[grp], k, n) }));
+].map(([label, [grp, k, n]]) => ({ label, s: rate(s[grp], k, n), o: rate(all[grp], k, n) }));
 const axis = `<div class="db-axis" aria-hidden="true">${[0, 25, 50, 75, 100].map((x) => `<span style="left:${x}%">${x}%</span>`).join('')}</div>`;
 const dumbbell = `<figure class="chart" aria-label="Rate of each error at Stratford against the other councils">
 <div class="db-head"><span></span>${axis}<span class="db-vals"><span class="o">others</span><span class="s">Stratford</span></span></div>
@@ -295,12 +297,12 @@ ${dumbbellRows.map(({ label, s: a, o: b }) => {
   const lo = Math.min(a.v, b.v), hi = Math.max(a.v, b.v);
   return `<div class="db-row"><div class="db-label">${esc(label)}</div><div class="db-track"><span class="db-link" style="left:${lo}%;width:${hi - lo}%"></span><span class="db-dot o" style="left:${b.v}%" title="Other councils: ${b.num} of ${b.den} reports where the question arises"></span><span class="db-dot s" style="left:${a.v}%" title="Stratford-on-Avon: ${a.num} of ${a.den} reports where the question arises"></span></div><div class="db-vals"><span class="o">${b.v}%<small>${b.num}/${b.den}</small></span><span class="s">${a.v}%<small>${a.num}/${a.den}</small></span></div></div>`;
 }).join('\n')}
-<figcaption>Rate of each error among the reports where the question arises. <span class="key o">22 other councils, ${o.n} reports</span> <span class="key s">Stratford-on-Avon, ${s.n} reports</span>. The line is the gap.</figcaption>
+<figcaption>Rate of each error among the reports where the question arises. <span class="key o">${allCouncils.length} other councils, ${all.n} reports</span> <span class="key s">Stratford-on-Avon, ${s.n} reports</span>. The line is the gap.</figcaption>
 </figure>`;
 
 /** One ranked lollipop per error: each council with at least one error, by rate, with the zero-error councils named below. */
 function ranked(label, grp, k) {
-  const all = [...perCouncil, { council: 'Stratford-on-Avon', ...s, sdc: true }].filter((c) => c[grp].n > 0)
+  const all = [...perCouncilAll, { council: 'Stratford-on-Avon', ...s, sdc: true }].filter((c) => c[grp].n > 0)
     .map((c) => ({ council: c.council, sdc: c.sdc, n: c[grp].n, num: c[grp][k], v: pct(c[grp][k], c[grp].n) }));
   const hit = all.filter((c) => c.num > 0).sort((a, b) => b.v - a.v || b.n - a.n);
   const none = all.filter((c) => c.num === 0).sort((a, b) => b.n - a.n);
@@ -312,17 +314,17 @@ const strips = `<figure class="chart" aria-label="Each council's rate for two of
 <div class="db-head lp-head"><span></span>${axis}<span></span></div>
 ${ranked('Tier used as the location test', 'tier', 'error')}
 ${ranked('DP3(3) not asked after a found design conflict', 'dp33', 'error')}
-<figcaption>Every council with at least one report where the question arises, ranked by its rate; the bracket is the number of its reports scored. <span class="key o">other councils</span> <span class="key s">Stratford-on-Avon</span>. A hollow dot with a dotted ring is a council with a single scored report. The Green Belt route is not ranked this way: outside Stratford and Warwick the sample holds ${washedOverOther - 2} washed-over case${washedOverOther - 2 === 1 ? '' : 's'}.</figcaption>
+<figcaption>Every council with at least one report where the question arises, ranked by its rate; the bracket is the number of its reports scored. <span class="key o">other councils</span> <span class="key s">Stratford-on-Avon</span>. A hollow dot with a dotted ring is a council with a single scored report. The Green Belt route is not ranked this way: outside Stratford and Warwick the sample holds ${washedOverAll - 2} washed-over case${washedOverAll - 2 === 1 ? '' : 's'}.</figcaption>
 </figure>`;
 
 // ---- The page ----
 const short = `<section id="in-short"><div class="rule"><h2>In short</h2><ul>
-<li>The <a href="${STRATFORD}">Stratford note</a> found four recurring errors in Stratford-on-Avon District Council's officer reports under the National Planning Policy Framework (NPPF) of 17 August 2026. We scored ${o.n} reports from ${councils.length} other councils with the same rubric to see whether the errors are Stratford's or everyone's.</li>
-<li><strong>They are mostly Stratford's.</strong> Scored the same way, the other councils rest a location finding on a village's tier a third as often (${pct(o.tier.error, o.tier.n)}% against ${pct(s.tier.error, s.tier.n)}%), take the wrong route in Green Belt villages less than half as often (${pct(o.annexb.error, o.annexb.n)}% against ${pct(s.annexb.error, s.annexb.n)}%), and recommend approval after an unaddressed design conflict in ${o.dp33.grant} reports against Stratford's ${s.dp33.grant}. The paragraph that cuts the settlement hierarchy policies to very limited weight wholesale appears in ${pct(s.template, s.n)}% of Stratford reports and ${pct(o.template, o.n)}% of the others.</li>
+<li>The <a href="${STRATFORD}">Stratford note</a> found four recurring errors in Stratford-on-Avon District Council's officer reports under the National Planning Policy Framework (NPPF) of 17 August 2026. We scored ${all.n} reports from ${allCouncils.length} other councils with the same rubric (${o.n} read in full from ${councils.length} councils, then ${w.n} from a sweep of ${sweepCouncils.length} councils' registers) to see whether the errors are Stratford's or everyone's.</li>
+<li><strong>They are mostly Stratford's.</strong> Scored the same way, the other councils rest a location finding on a village's tier in ${pct(all.tier.error, all.tier.n)}% of their location reports against Stratford's ${pct(s.tier.error, s.tier.n)}%, take the wrong route in Green Belt villages in ${pct(all.annexb.error, all.annexb.n)}% against ${pct(s.annexb.error, s.annexb.n)}%, and recommend approval after an unaddressed design conflict in ${all.dp33.grant} reports between them against Stratford's ${s.dp33.grant}. The paragraph that cuts the settlement hierarchy policies to very limited weight wholesale appears in ${pct(s.template, s.n)}% of Stratford reports and ${pct(all.template, all.n)}% of the others.</li>
 <li><strong>One council repeats the pattern.</strong> Warwick District Council, which shares Stratford's Green Belt and plan structure, makes the tier error in ${warwick.tier.error} of its ${warwick.tier.n} location reports and applies S4 in a washed-over village at Norton Lindsey. Wychavon, Elmbridge and Dacorum, on comparable sites, do not, and Bromsgrove's one tier error in ${bromsgrove.tier.n} location reports is a short notice with no report behind it.</li>
 <li><strong>Two of the Stratford counts are re-presented.</strong> A text search for "TR3" counts small schemes that officers and inspectors often treat as below the TR3(1)(a) threshold, and reports written to the 2024 Framework that could not name the policy. The measure used here instead asks, of every report that has to decide whether the location is sustainable, whether it applies TR3. Stratford applies it in ${s.loc.applied} of ${s.loc.n} such reports (${pct(s.loc.applied, s.loc.n)}%) against ${pct(all.loc.applied, all.loc.n)}% across the ${allCouncils.length} other councils, and decides the location on the route, with facts, in ${pct(s.loc.route, s.loc.n)}% against ${pct(all.loc.route, all.loc.n)}%. On Green Belt sites, where GB7(1)(g)(iii) asks the question ${q('nppf', 'with particular reference to policy TR3')} whatever the scale, Stratford applies TR3 in ${s.loc.gb.applied} of ${s.loc.gb.n} against ${all.loc.gb.applied} of ${all.loc.gb.n}. DP3(3) "not asked" on a refusal is a formal slip that cannot change the outcome; the finding that matters is the ${s.dp33.grant} Stratford recommendations to grant after a found design conflict, against ${o.dp33.grant} across ${councils.length} councils.</li>
-<li><strong>One absence is shared.</strong> No Stratford report uses the Connectivity Tool. Nor do ${o.n - o.tool.yes} of the ${o.n} reports elsewhere.</li>
-<li><strong>A second, larger set says the same.</strong> A sweep of council registers added ${w.n} reports from ${sweepCouncils.length} councils, scored with the <a href="#rubric">same published rubric</a>. Across all ${all.n} reports from ${allCouncils.length} other councils the tier error runs at ${pct(all.tier.error, all.tier.n)}%, the Green Belt route error at ${pct(all.annexb.error, all.annexb.n)}%, the wholesale weight cut at ${pct(all.template, all.n)}%, and approval after an unaddressed design conflict ${all.dp33.grant} times, against Stratford's ${pct(s.tier.error, s.tier.n)}%, ${pct(s.annexb.error, s.annexb.n)}%, ${pct(s.template, s.n)}% and ${s.dp33.grant}. See <a href="#sweep">the enlarged set</a>.</li>
+<li><strong>One absence is shared.</strong> No Stratford report uses the Connectivity Tool. Nor do ${all.n - all.tool.yes} of the ${all.n} reports elsewhere.</li>
+<li><strong>The reports read in full say the same on their own.</strong> Among the ${o.n} reports from ${councils.length} councils read cover to cover, the tier error runs at ${pct(o.tier.error, o.tier.n)}%, the Green Belt route error at ${pct(o.annexb.error, o.annexb.n)}%, the wholesale weight cut at ${pct(o.template, o.n)}%, and approval after an unaddressed design conflict ${o.dp33.grant} times. The <a href="#sweep">sweep set</a> of ${w.n} reports, read through keyed passages, gives ${pct(w.tier.error, w.tier.n)}%, ${pct(w.annexb.error, w.annexb.n)}%, ${pct(w.template, w.n)}% and ${w.dp33.grant}.</li>
 </ul></div></section>`;
 
 const errors = `<section id="errors"><h2>The four errors</h2>
@@ -334,18 +336,18 @@ const errors = `<section id="errors"><h2>The four errors</h2>
 <li><strong>DP3(3) not asked.</strong> A design or character conflict is found and weighed in the balance, but the DP3(3) question is not asked: proposals ${q('nppf', 'should be refused if, without clear justification, they conflict with paragraph 1 of this policy or relevant aspects of the principles in paragraph 2')}. S4(2)(c) and S5(2) make a failure under such a policy a case where the benefits are ${q('nppf', 'likely to be substantially outweighed')}. See <a href="${DP3}">DP3: the design policy</a>.</li>
 </ol>
 <p>Two further columns record whether the report applied the 2024 Framework without conversion after 17 August 2026, which Annex A(1) does not allow (the 2026 policies ${q('nppf', 'must be taken into account in decision-making from the day of its publication')}), and whether it carries a template paragraph giving the plan's settlement hierarchy policies very limited weight wholesale, where Annex A(2) cuts weight only from policies ${q('nppf', '(or parts of those policies) which are materially inconsistent with national decision-making policies')}.</p>
-<p>Codes: <code>error</code>; <code>partial</code> for a tier finding with some route fact beside it; <code>cited-only</code> and <code>dodged</code> for TR3 named but not run; <code>ok</code>; <code>na</code> where the question does not arise. Rates below are among the reports where the question arises. The <a href="${GITHUB}other-councils-four-errors-2026-10.tsv">table of the ${o.n} other-council reports</a> and the <a href="${GITHUB}stratford-officer-reports-four-errors.tsv">Stratford table</a> carry a page reference and a verbatim quotation for every adverse code, and every "not mentioned" is a text search with no hits.</p>
+<p>Codes: <code>error</code>; <code>partial</code> for a tier finding with some route fact beside it; <code>cited-only</code> and <code>dodged</code> for TR3 named but not run; <code>ok</code>; <code>na</code> where the question does not arise. Rates below are among the reports where the question arises. The <a href="${GITHUB}other-councils-four-errors-2026-10.tsv">table of the ${o.n} hand-read other-council reports</a>, the <a href="${GITHUB}other-councils-four-errors-sweep-2026-10.tsv">sweep table</a> of ${w.n} and the <a href="${GITHUB}stratford-officer-reports-four-errors.tsv">Stratford table</a> carry a page reference and a verbatim quotation for every adverse code, and every "not mentioned" is a text search with no hits.</p>
 </section>`;
 
 const compare = `<section id="comparison"><h2>The comparison</h2>
 ${dumbbell}
 ${compareTable}
-<p>The two tables were scored with one written rubric. The Stratford reports are mostly delegated reports on one to seven homes in villages; the other councils' reports are a mix of delegated reports and committee reports on larger schemes, which matters for TR3 and DP3(3) and is taken up below. Rates for the other councils are also pulled down by their urban reports, where the tier, Annex B and route questions do not arise and are coded <code>na</code> on both sides.</p>
+<p>The three tables were scored with one written rubric; ${o.n} of the other councils' reports were read in full and ${w.n} through keyed passages, as <a href="#sweep">the sweep section</a> explains. The Stratford reports are mostly delegated reports on one to seven homes in villages; the other councils' reports are a mix of delegated reports and committee reports on larger schemes, which matters for TR3 and DP3(3) and is taken up below. Rates for the other councils are also pulled down by their urban reports, where the tier, Annex B and route questions do not arise and are coded <code>na</code> on both sides.</p>
 </section>`;
 
 const byCouncil = `<section id="by-council"><h2>Council by council</h2>
 ${strips}
-<p>Counts exclude <code>na</code> rows. Small counts are small: ${perCouncil.filter((c) => c.n <= 2).length} of the ${councils.length} councils are represented by one or two reports, because that is what their committees decided in the period.</p>
+<p>Counts exclude <code>na</code> rows. Small counts are small: ${perCouncilAll.filter((c) => c.n <= 2).length} of the ${allCouncils.length} councils are represented by one or two reports, because that is what their committees decided in the period.</p>
 ${councilTable}
 </section>`;
 
@@ -381,6 +383,7 @@ ${quote(SRC.nortonLindsey, 'The application site is located within the settlemen
 </section>`;
 
 const audit = `<section id="audit"><h2>What the comparison does to the Stratford findings</h2>
+<p>This section works from the ${o.n} reports from ${councils.length} councils that were read in full, where every passage could be checked; <a href="#sweep">the sweep section</a> runs the same checks on the enlarged set.</p>
 <h3>Readings that hold</h3>
 <ul>
 <li><strong>Annex B and washed-over villages.</strong> The government's response to the consultation on the Framework says the definition was amended ${q(SRC.govResponse, 'to address how the definition applies to villages within the Green Belt', 34)}. No officer outside Stratford and Warwick applied S4 in a washed-over village. The sample is thin, because washed-over villages are rare outside the two districts (${washedOverOther} rows elsewhere), but the reading stands.</li>
@@ -398,13 +401,13 @@ ${letter('6006637', 'An indicative forecast for vehicle trip generation has been
 ${letter('6011301', 'set against the size of Bournheath up to 5 dwellings would be a significant amount of movement', 10, 'a Green Belt village with three pubs', 'Bournheath')}
 ${letter('6007428', 'that increase would be noticeable in the context of this lightly developed rural location', 14, 'one to three homes', 'Halsall')}
 ${letter('6009966', 'must be read as a whole', 27, 'up to five homes; TR3(1)(a) weakly engaged, the policy still breached', 'South Nutfield')}
-<p>So "not mentioned" is a weak finding on its own, and the comparison above does not rest on it. It asks instead, of every report that has to decide whether the location is sustainable (every row scored on the tier column), whether TR3 is applied in terms, that is a limb of TR3(1) run with facts or GB7(1)(g)(iii) answered in its words, and whether the location is decided on the route: Stratford ${s.loc.applied} of ${s.loc.n} and ${s.loc.route} of ${s.loc.n}, the other councils ${o.loc.applied} of ${o.loc.n} and ${o.loc.route} of ${o.loc.n}. Split by scheme size, the raw count looks like this (the count of homes is the largest number the application proposes; reports creating no new homes sit in the second row):</p>
+<p>So "not mentioned" is a weak finding on its own, and the comparison above does not rest on it. It asks instead, of every report that has to decide whether the location is sustainable (every row scored on the tier column), whether TR3 is applied in terms, that is a limb of TR3(1) run with facts or GB7(1)(g)(iii) answered in its words, and whether the location is decided on the route: Stratford ${s.loc.applied} of ${s.loc.n} and ${s.loc.route} of ${s.loc.n}, the ${allCouncils.length} other councils ${all.loc.applied} of ${all.loc.n} and ${all.loc.route} of ${all.loc.n}. Split by scheme size, the raw count looks like this (the count of homes is the largest number the application proposes; reports creating no new homes sit in the second row):</p>
 ${tr3SplitTable}
 <p>For five homes or fewer the two rates are close (${pct(s.tr3.small.notRun, s.tr3.small.n)}% against ${pct(o.tr3.small.notRun, o.tr3.small.n)}%), and the threshold point explains much of both. For six homes or more, where the threshold is not in doubt, Stratford's rate is ${pct(s.tr3.big.notRun, s.tr3.big.n)}% against ${pct(o.tr3.big.notRun, o.tr3.big.n)}%: Home Farm, Southam (217 homes), Alcester Road (65), Checketts Abattoir (7), the Pillerton Hersey showpeople site (7 plots) and Kineton (6) do not mention the policy, Harbury (38) names it without running it, and Stockton (75) names it and answers a different question. The Stratford table's <code>dodged</code> code for Ravenstone, three homes, labels as an evasion a position that is mainstream for a scheme of that size outside the Green Belt: ${q('case:stratford-26-00410-FUL', 'In respect of NDMP TR3(a), the development would not generate a significant amount of movement', 13)} is the view inspectors often take of schemes that size. Ravenstone is a grey belt case under GB7(1)(g), though, and limb (iii) asks whether the site is in a sustainable location with particular reference to TR3 however small the scheme. Saying the scheme is too small for TR3 does not answer that question; the report still has to assess the route and the transport choice.</p>
 <p><strong>DP3(3) "not asked" on a refusal is formal.</strong> Where the design conflict is itself a refusal reason, the missing step could not change the outcome. Split by what the officer recommended:</p>
 ${dp3SplitTable}
 <p>The finding that survives is the first row. Stratford officers recommended approval after a found design conflict, without asking whether it was clearly justified, in ${s.dp33.grant} reports; across ${councils.length} other councils the count is ${o.dp33.grant} (Malvern Hills at Leigh Sinton, Elmbridge at Moore Place and Dacorum at Polehanger). Part of that gap is composition: other officers more often find no conflict, or refuse. Two readings also need stating. The Stratford table treats a conflict with a landscape or character policy as a DP3 conflict; Elmbridge and Dacorum treat it as harm to weigh under N2, and either reading is arguable. And a weighing can itself be a clear-justification finding where the harm is slight; the cases where the omission could change the result are those where the harm was found significant and the scheme was still recommended, as at Snitterfield, Ladbroke and Pillerton Priors.</p>
-<p><strong>The Connectivity Tool is a shared absence.</strong> The other councils used it in ${o.tool.yes} of ${o.n} reports, all from ${toolCouncils.length} councils' templates. "Used in none of the 44" is a fair fact about Stratford, but not a Stratford fault. TR3(2) is one input to the location judgement, not a gate.</p>
+<p><strong>The Connectivity Tool is a shared absence.</strong> The other councils used it in ${o.tool.yes} of ${o.n} hand-read reports, all from ${toolCouncilsHand.length} councils' templates. "Used in none of the 44" is a fair fact about Stratford, but not a Stratford fault. TR3(2) is one input to the location judgement, not a gate.</p>
 <p><strong><code>partial</code> is a wide band.</strong> It covers Tredington, where the only transport fact is that occupants ${q(SRC.tredington, 'would have access to a local bus service allowing residents to travel to nearby settlements', 11)}, and Town Hill, West Malling, with ${q(SRC.townHill, 'bus stops located immediately adjacent to the site, West Malling High Street approximately 700m away, and West Malling railway station around 1.4km distant', 12)}. Most of Stratford's ${s.tier.partial} are the first kind; most of the other councils' ${o.tier.partial} are the second.</p>
 <p><strong>The tier code measures drafting, not the inspectors' rule.</strong> Inspectors have <a href="${SERVICE_VILLAGE}">cited a tier inside an allowed location finding</a>, always alongside a daily bus, lit footways or an urban setting. The reports coded <code>error</code> give no route fact at all, which is what the code should be read as: tier or facilities list as the whole location finding.</p>
 <h3>One finding is strengthened</h3>
@@ -449,7 +452,6 @@ ${sweepCompareTable}
 <li><strong>Unconverted 2024 reports are commoner than the hand-scored set suggested.</strong> ${sweepUnconverted.length} sweep reports (${pct(sweepUnconverted.length, w.n)}%) apply the 2024 Framework with no conversion, most of them committee resolutions from 2024 or 2025 issued as notices after 17 August 2026 once a legal agreement was signed: ${refList(sweepUnconverted.slice(0, 8))}${sweepUnconverted.length > 8 ? ` and ${sweepUnconverted.length - 8} more` : ''}. Stratford's ${s.unconverted} are the same defect.</li>
 <li><strong>The Connectivity Tool stays rare.</strong> ${w.tool.yes} sweep reports use it (${joinAnd(sweepToolCouncils.map(esc))}), and Solihull sets it aside at Peartree Farm because ${q(SRC.peartree, 'it appears to contain outdated public transport information', 4)}. ${all.n - all.tool.yes} of ${all.n} reports from ${allCouncils.length} councils do not use it; nor does any Stratford report.</li>
 </ul>
-${sweepCouncilTable}
 <p>The sweep table, with a page reference and a verbatim quotation for every adverse code, is <a href="${GITHUB}other-councils-four-errors-sweep-2026-10.tsv">other-councils-four-errors-sweep-2026-10.tsv</a>; the <a href="${GITHUB}other-councils-sweep-inventory-2026-10.tsv">inventory</a> lists every report the sweep fetched with the reason each excluded one was left out, and the <a href="${GITHUB}other-councils-four-errors-sweep-2026-10.md">analysis note</a> records how the set was read. The sweep reaches ${sweepCouncils.length} of the ${num(48)} councils it swept with a housing report in the period; registers behind a login or a bot wall, and councils that publish no delegated reports, are listed in the note.</p>
 </section>`;
 
@@ -489,8 +491,9 @@ const method = `<section id="method"><h2>Method and limits</h2>
 <p>The reports were chosen as sets, not as examples, so that the comparison is not a selection of the best or worst reports elsewhere.</p>
 <div class="table-wrap"><table><thead><tr><th>Set</th><th>Reports</th><th>How chosen</th></tr></thead><tbody>
 ${sets.map((k) => `<tr><th scope="row">${esc(SET_NAMES[k][0])}</th><td>${O.filter((r) => r.scored_in === k).length}</td><td>${esc(SET_NAMES[k][1])}</td></tr>`).join('\n')}
+<tr><th scope="row">Council sweep</th><td>${w.n}</td><td>Every housing report reached by the 19 and 20 October 2026 sweep of ${num(48)} councils' registers and committee pages for decisions and committee items from 17 August 2026 and not already in the sets above (${sweepCouncils.length} councils); read through keyed passages, see <a href="#sweep">the enlarged set</a></td></tr>
 </tbody></table></div>
-<p>${o.n} scored reports from ${councils.length} councils: ${o.committee} committee and ${o.n - o.committee} delegated, ${o.greenBelt} on Green Belt sites. Stratford: ${s.n} reports, ${s.committee} committee and ${s.n - s.committee} delegated, ${s.greenBelt} Green Belt. The closest analogues to Stratford are Warwick and Bromsgrove (the same Green Belt arc, villages washed over by the Green Belt, delegated reports) and the South Worcestershire councils (a Category 1 to 3 village hierarchy, no Green Belt).</p>
+<p>${o.n} hand-read reports from ${councils.length} councils: ${o.committee} committee and ${o.n - o.committee} delegated, ${o.greenBelt} on Green Belt sites. Stratford: ${s.n} reports, ${s.committee} committee and ${s.n - s.committee} delegated, ${s.greenBelt} Green Belt. The closest analogues to Stratford are Warwick and Bromsgrove (the same Green Belt arc, villages washed over by the Green Belt, delegated reports) and the South Worcestershire councils (a Category 1 to 3 village hierarchy, no Green Belt).</p>
 <ul>
 <li><strong>The rubric tests method, not result.</strong> A report that assesses the route and then approves against its own finding scores <code>ok</code>. A report that reaches the right answer by the wrong route scores <code>error</code>.</li>
 <li><strong>Committee reports are larger schemes.</strong> Design is often reserved and location argued from a transport assessment, which lowers the other councils' TR3 and DP3(3) error rates. The fair comparators for Stratford's delegated habit are Warwick, Bromsgrove and South Worcestershire: Warwick repeats the pattern, Bromsgrove and Wychavon do not.</li>
