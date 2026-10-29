@@ -45,8 +45,15 @@ function tsv(file) {
 }
 const S = tsv('stratford-officer-reports-four-errors.tsv').map((r) => ({ council: 'Stratford-on-Avon', ...r }));
 const O = tsv('other-councils-four-errors-2026-10.tsv');
+// The council sweep of 19 to 20 October 2026, scored 28 to 29 October with the same rubric (the third table).
+const W = tsv('other-councils-four-errors-sweep-2026-10.tsv');
 if (S.length !== 44) throw new Error(`expected 44 Stratford rows, found ${S.length}`);
 if (O.length !== 99) throw new Error(`expected 99 other-council rows, found ${O.length}`);
+if (W.length !== 144) throw new Error(`expected 144 sweep rows, found ${W.length}`);
+if (W.some((r) => r.scored_in !== 'sweep-2026-10')) throw new Error('every sweep row should be scored_in sweep-2026-10');
+const OW = [...O, ...W];
+const dup = OW.map((r) => `${r.council} ${r.ref}`).filter((k, i, a) => a.indexOf(k) !== i);
+if (dup.length) throw new Error('a report is scored twice: ' + dup.join(', '));
 
 /** The code at the front of a cell ("error", "not-mentioned", "2024+note"); notes after a colon, semicolon or bracket are ignored. */
 const code = (v) => (v || '').trim().split(/[\s;:(]/)[0].toLowerCase();
@@ -58,8 +65,15 @@ function homesOf(h) {
   return m ? Math.max(...m.map(Number)) : null;
 }
 /** What the officer recommended, read from the outcome cell: "grant" or "refuse". Member overturns follow the recommendation, not the vote. */
-function officer(o) {
+function officer(o, sweep = false) {
   const s = o.toLowerCase();
+  if (sweep) {
+    // The sweep table writes the outcome as the decision, with the officer's recommendation in brackets where it differs.
+    if (/against the officer recommendation to (permit|grant|approv)/.test(s)) return 'grant';
+    if (/recommend\w* (to )?refus|recommendation to refus|minded to refuse|^refus/.test(s)) return 'refuse';
+    if (/^approv|^grant|^permit|^recommended (approval|grant)|^approval recommended|^withdrawn/.test(s)) return 'grant';
+    throw new Error('cannot read the officer recommendation from the sweep outcome: ' + o);
+  }
   if (/against the officer recommendation to grant|recommendation to grant|recommended-grant|recommend grant|recommendation grant|resolved-to-grant|with a view to approval|delegate to permit|^approved|^granted|^permit|^grant|minded to grant|recommendation delegated|against the officer recommendation\b(?!.*refus)/.test(s)) return 'grant';
   if (/^refused|recommend(ed)?[- ]refuse|minded to refuse/.test(s)) return 'refuse';
   throw new Error('cannot read the officer recommendation from: ' + o);
@@ -88,7 +102,7 @@ function stats(rows) {
   st.tr3.notRun = st.tr3.nm + st.tr3.cited + st.tr3.dodged;
   // DP3(3) errors by what the officer recommended.
   const dpErr = rows.filter((r) => code(r.dp33) === 'error');
-  st.dp33.grant = dpErr.filter((r) => officer(r.outcome) === 'grant').length;
+  st.dp33.grant = dpErr.filter((r) => officer(r.outcome, r.scored_in === 'sweep-2026-10') === 'grant').length;
   st.dp33.refuse = dpErr.length - st.dp33.grant;
   // TR3 by scheme size: six homes or more, against five or fewer.
   const tr3Rows = scored('tr3');
@@ -103,8 +117,14 @@ function stats(rows) {
 }
 const s = stats(S);
 const o = stats(O);
+const w = stats(W);
+const all = stats(OW);
 const councils = [...new Set(O.map((r) => r.council))].sort();
 const perCouncil = councils.map((c) => ({ council: c, ...stats(O.filter((r) => r.council === c)) }));
+const sweepCouncils = [...new Set(W.map((r) => r.council))].sort();
+const allCouncils = [...new Set(OW.map((r) => r.council))].sort();
+const newCouncils = sweepCouncils.filter((c) => !councils.includes(c));
+const perCouncilAll = allCouncils.map((c) => ({ council: c, ...stats(OW.filter((r) => r.council === c)) }));
 const sets = ['held-a', 'held-b', 'fetch-warwick-bromsgrove', 'fetch-southworcs', 'fetch-moderngov'];
 if (new Set(O.map((r) => r.scored_in)).size !== sets.length || O.some((r) => !sets.includes(r.scored_in))) throw new Error('the scored_in sets have changed');
 
@@ -132,6 +152,20 @@ const unconvertedOther = O.filter((r) => ['2024', '2024-unconverted'].includes(c
 expect(s.tr3.big.n === 8 && s.tr3.big.nm === 5 && s.tr3.big.cited === 1, `the Stratford six-plus-home TR3 rows are 5 not mentioned, 1 cited only of 8 (now ${s.tr3.big.nm}/${s.tr3.big.cited}/${s.tr3.big.n})`);
 expect(unconvertedOther.length === 3, `three unconverted 2024 reports elsewhere (now ${unconvertedOther.length})`);
 const washedOverOther = O.filter((r) => code(r.washed_over) === 'yes').length;
+// Facts the enlarged-set prose states.
+expect(newCouncils.length === 5 && allCouncils.length === 27, `five new councils, 27 in all (now ${newCouncils.length}, ${allCouncils.length})`);
+expect(pct(s.tier.error, s.tier.n) > 2 * pct(all.tier.error, all.tier.n), 'Stratford makes the tier error more than twice as often as the enlarged set');
+expect(pct(s.annexb.error, s.annexb.n) > 2 * pct(all.annexb.error, all.annexb.n), 'Stratford makes the Annex B error more than twice as often as the enlarged set');
+expect(s.template / s.n > 3 * (all.template / all.n), 'the template paragraph is at least three times as common at Stratford as in the enlarged set');
+expect(s.dp33.grant > all.dp33.grant, 'Stratford alone has more grant-after-conflict reports than the 27 councils together');
+expect(w.dp33.refuse > w.dp33.grant, 'most sweep DP3(3) errors are refusals');
+const sweepGB = W.filter((r) => code(r.green_belt) === 'yes');
+const sweepTemplateCouncils = [...new Set(W.filter((r) => code(r.template_weight) === 'yes').map((r) => r.council))].sort();
+const sweepToolCouncils = [...new Set(W.filter((r) => code(r.connectivity_tool) === 'yes').map((r) => r.council))].sort();
+const sweepUnconverted = W.filter((r) => ['2024', '2024-unconverted'].includes(code(r.framework)));
+const sweepAnnexBErrors = W.filter((r) => code(r.annexb) === 'error');
+const sweepTierErrors = W.filter((r) => code(r.tier) === 'error');
+const sweepGrantErrors = W.filter((r) => code(r.dp33) === 'error' && officer(r.outcome, true) === 'grant');
 
 // ---- Quotation sources ----
 // Text extracts of the other councils' reports live in the private sources checkout beside the PDFs.
@@ -160,6 +194,14 @@ const SRC = {
   newPound: T('moderngov', 'northherts--26-00262.txt'),
   poundLane: T('moderngov', 'basildon--24-00294-sep.txt'),
   tredington: 'sources:stratford-dc/public-note/stratford-25-02906-FUL-report.txt',
+  // The council sweep (sources:council/sweep/<council>/<ref>/)
+  oddington: 'sources:council/sweep/cotswold/26-02330-PLP/CASE OFFICER DELEGATED REPORT-26_02330_PLP-CASE_OFFICER_DELEGATED_REPORT-2414622.txt',
+  ryarsh: 'sources:council/sweep/tonbridge-malling/26-00914-FL/OFFICER REPORT-26_00914_FL-OFFICER_REPORT-1897258.txt',
+  longMelford: 'sources:council/sweep/babergh-mid-suffolk/DC-26-01548/OFFICER DELEGATED REPORT-DC_26_01548-OFFICER_DELEGATED_REPORT-9176492.txt',
+  brockhampton: 'sources:council/sweep/cotswold/25-03306-FUL/CASE OFFICER DELEGATED REPORT-25_03306_FUL-CASE_OFFICER_DELEGATED_REPORT-2398989.txt',
+  salisbury: 'sources:council/sweep/tonbridge-malling/26-01263-FL/DELEGATED REPORT-26_01263_FL-DELEGATED_REPORT-1898281.txt',
+  hobsMoat: 'sources:council/sweep/solihull/PL-2026-01160-PPFL/DELEGATED REPORT-PL_2026_01160_PPFL-DELEGATED_REPORT-2522719.txt',
+  peartree: 'sources:council/sweep/solihull/PL-2024-01597-PPFL/LPA REPORT-PL_2024_01597_PPFL-LPA_REPORT-2521309.txt',
   govResponse: 'open:guidance-ogl/mhclg-nppf-consultation-government-response.txt',
 };
 /** An inline checked quotation. */
@@ -261,6 +303,7 @@ const short = `<section id="in-short"><div class="rule"><h2>In short</h2><ul>
 <li><strong>One council repeats the pattern.</strong> Warwick District Council, which shares Stratford's Green Belt and plan structure, makes the tier error in ${warwick.tier.error} of its ${warwick.tier.n} location reports and applies S4 in a washed-over village at Norton Lindsey. Wychavon, Elmbridge and Dacorum, on comparable sites, do not, and Bromsgrove's one tier error in ${bromsgrove.tier.n} location reports is a short notice with no report behind it.</li>
 <li><strong>Two of the Stratford counts were too hard</strong> and are re-presented here. TR3 "not mentioned" counts small schemes that officers and inspectors alike treat as below the policy's threshold; split by size, the difference between Stratford and the rest is in schemes of six homes or more. DP3(3) "not asked" on a refusal is a formal slip that cannot change the outcome; the finding that matters is the ${s.dp33.grant} Stratford recommendations to grant after a found design conflict, against ${o.dp33.grant} across ${councils.length} councils.</li>
 <li><strong>One absence is shared.</strong> No Stratford report uses the Connectivity Tool. Nor do ${o.n - o.tool.yes} of the ${o.n} reports elsewhere.</li>
+<li><strong>A second, larger set says the same.</strong> A sweep of council registers added ${w.n} reports from ${sweepCouncils.length} councils, scored with the <a href="#rubric">same published rubric</a>. Across all ${all.n} reports from ${allCouncils.length} other councils the tier error runs at ${pct(all.tier.error, all.tier.n)}%, the Green Belt route error at ${pct(all.annexb.error, all.annexb.n)}%, the wholesale weight cut at ${pct(all.template, all.n)}%, and approval after an unaddressed design conflict ${all.dp33.grant} times, against Stratford's ${pct(s.tier.error, s.tier.n)}%, ${pct(s.annexb.error, s.annexb.n)}%, ${pct(s.template, s.n)}% and ${s.dp33.grant}. See <a href="#sweep">the enlarged set</a>.</li>
 </ul></div></section>`;
 
 const errors = `<section id="errors"><h2>The four errors</h2>
@@ -345,6 +388,70 @@ ${dp3SplitTable}
 <p>Approvals recommended after a found design conflict with no clear-justification question: ${s.dp33.grant} at Stratford, ${o.dp33.grant} across ${councils.length} councils. Snitterfield, Ladbroke, Pillerton Priors and Stockton have no counterpart elsewhere except Leigh Sinton and Moore Place.</p>
 </section>`;
 
+// ---- The enlarged set: the council sweep ----
+const sweepCompareRows = [
+  ['Tier used as the location test', (c) => `${c.tier.error} of ${c.tier.n} (${pct(c.tier.error, c.tier.n)}%)`],
+  ['Tier used, counting "partial"', (c) => `${c.tier.notRun} of ${c.tier.n} (${pct(c.tier.notRun, c.tier.n)}%)`],
+  ['TR3 not run (not mentioned, cited only or dodged)', (c) => `${c.tr3.notRun} of ${c.tr3.n} (${pct(c.tr3.notRun, c.tr3.n)}%)`],
+  ['TR3 not run, six homes or more', (c) => `${c.tr3.big.notRun} of ${c.tr3.big.n} (${pct(c.tr3.big.notRun, c.tr3.big.n)}%)`],
+  ['Connectivity Tool used', (c) => `${c.tool.yes} of ${c.n}`],
+  ['Green Belt route: S4 or S5 run where it does not apply', (c) => `${c.annexb.error} of ${c.annexb.n} (${pct(c.annexb.error, c.annexb.n)}%)`],
+  ['DP3(3) not asked after a found conflict', (c) => `${c.dp33.error} of ${c.dp33.n} (${pct(c.dp33.error, c.dp33.n)}%)`],
+  ['of which the officer recommended grant', (c) => `${c.dp33.grant}`],
+  ['2024 Framework applied without conversion', (c) => `${c.unconverted} of ${c.n}`],
+  ['Template paragraph cutting plan policies wholesale', (c) => `${c.template} of ${c.n} (${pct(c.template, c.n)}%)`],
+];
+const sweepCompareTable = `<div class="table-wrap"><table><thead><tr><th>Error</th><th>Stratford (${s.n})</th><th>Hand-scored set, 22 councils (${o.n})</th><th>Council sweep, ${sweepCouncils.length} councils (${w.n})</th><th>All other councils, ${allCouncils.length} (${all.n})</th></tr></thead><tbody>
+${sweepCompareRows.map(([a, f]) => `<tr><th scope="row">${a}</th><td class="sdc">${f(s)}</td><td>${f(o)}</td><td>${f(w)}</td><td>${f(all)}</td></tr>`).join('\n')}
+</tbody></table></div>`;
+const sweepCouncilTable = `<div class="table-wrap"><table class="councils"><thead><tr><th>Council</th><th>Reports</th><th>Tier<br><small>error / partial / ok</small></th><th>TR3<br><small>not mentioned / cited only / dodged / assessed</small></th><th>Tool</th><th>Annex B<br><small>error / ok</small></th><th>DP3(3)<br><small>error / ok</small></th><th>2024 unconverted</th><th>Template</th></tr></thead><tbody>
+${[...perCouncilAll, { council: 'Stratford-on-Avon', ...s, bold: true }].map((c) => {
+  const x = (v) => (c.bold ? `<strong>${v}</strong>` : v);
+  return `<tr${c.bold ? ' class="sdc"' : ''}><th scope="row">${x(esc(c.council))}</th><td>${x(c.n)}</td><td>${x(cell(c.tier))}</td><td>${x(`${c.tr3.nm}/${c.tr3.cited}/${c.tr3.dodged}/${c.tr3.assessed}`)}</td><td>${x(c.tool.yes)}</td><td>${x(`${c.annexb.error}/${c.annexb.ok}`)}</td><td>${x(`${c.dp33.error}/${c.dp33.ok}`)}</td><td>${x(c.unconverted)}</td><td>${x(c.template)}</td></tr>`;
+}).join('\n')}
+</tbody></table></div>`;
+const refList = (rows) => rows.map((r) => `${esc(r.council)} ${esc(r.ref)}`).join(', ');
+const sweep = `<section id="sweep"><h2>The enlarged set: ${w.n} more reports from the council sweep</h2>
+<p>On 19 and 20 October 2026 a sweep of ${num(48)} councils' planning registers and committee pages fetched every officer report it could reach for decisions and committee items from 17 August 2026; ${sweepCouncils.length} of them had a housing report in the period that was not already scored. Of the ${num(1095)} reports listed, ${num(W.length)} were housing proposals not already in the hand-scored table (new homes, conversions and replacements; not householder works, prior approvals, section 73 variations, traveller sites or rural workers' dwellings), and all ${num(W.length)} were scored on 28 and 29 October 2026 with the rubric below. The sweep adds ${newCouncils.length} councils (${joinAnd(newCouncils.map(esc))}) and takes the comparison to ${all.n} reports from ${allCouncils.length} councils. ${w.committee} of the sweep reports are committee reports and ${w.n - w.committee} delegated; ${sweepGB.length} are Green Belt sites.</p>
+${sweepCompareTable}
+<p>The enlarged set moves the headline figures a little and the conclusion not at all. On the four errors the complaint is about, Stratford's rates are ${pct(s.tier.error, s.tier.n)}% against ${pct(all.tier.error, all.tier.n)}% for the tier, ${pct(s.annexb.error, s.annexb.n)}% against ${pct(all.annexb.error, all.annexb.n)}% for the Green Belt route, ${pct(s.template, s.n)}% against ${pct(all.template, all.n)}% for the template paragraph, and ${s.dp33.grant} recommendations to grant after an unaddressed design conflict against ${all.dp33.grant} across the ${allCouncils.length} councils together. The sweep's own DP3(3) rate (${pct(w.dp33.error, w.dp33.n)}%) is higher than the hand-scored set's (${pct(o.dp33.error, o.dp33.n)}%) because ${w.dp33.refuse} of its ${w.dp33.error} errors are refusals where the design or landscape conflict was itself a refusal reason, and because the sweep applies the broad landscape-character reading set out in the rubric; the ${w.dp33.grant} that recommended grant (${refList(sweepGrantErrors)}) are the ones that could have changed an outcome.</p>
+<p>What the sweep adds to the picture:</p>
+<ul>
+<li><strong>The tier error is a Cotswold habit too.</strong> ${sweepTierErrors.length} sweep reports rest a location finding on a village's tier or boundary with no route fact: ${refList(sweepTierErrors)}. Cotswold's Non-Principal Settlement label does the work at Upper Oddington (${q(SRC.oddington, 'The Local Plan examination process determined that Non-Principal Settlements constitute sustainable locations for small scale residential development even if they have limited facilities', 7)}) and Maidstone's hierarchy does it in the refusal direction at Langley Heath. The other ${sweepCouncils.length - 2} councils' location findings give a distance, a footway, a bus frequency or a station, as the Framework asks.</li>
+<li><strong>The Green Belt route is mostly stated correctly.</strong> ${sweepAnnexBErrors.length} of ${w.annexb.n} sweep reports where the question arises run S5 on a Green Belt site (${refList(sweepAnnexBErrors)}), both beside a full GB7 assessment and without changing the result. Hertsmere, Solihull, Three Rivers and Tonbridge and Malling state S5(5) in terms, as in ${q(SRC.ryarsh, 'Policy S5 does not apply to the development as the site is located within the Green Belt', 2)}. No sweep report applies S4 in a washed-over village.</li>
+<li><strong>The template paragraph has cousins.</strong> ${w.template} sweep reports (${pct(w.template, w.n)}%) cut a plan policy wholesale, in ${sweepTemplateCouncils.length} councils (${joinAnd(sweepTemplateCouncils.map(esc))}): Babergh says that ${q(SRC.longMelford, 'reduced weight is afforded to those policies relating to the spatial strategy and housing distribution', 6)} for its supply position, Cotswold says its hierarchy policies ${q(SRC.brockhampton, 'can currently only be given very limited weight', 8)}, and Tonbridge and Malling gives ${q(SRC.salisbury, 'no weight is given to development plan Policy CP14, as it is materially inconsistent with Policy S5 of the NPPF', 3)}. None reaches Stratford's ${pct(s.template, s.n)}%, and Solihull's cut of one policy, P7, for being ${q(SRC.hobsMoat, 'prescriptive on expected distances to local services and is therefore inconsistent with the Framework', 4)}, is the reasoned Annex A(2) judgement the rubric does not count.</li>
+<li><strong>Unconverted 2024 reports are commoner than the hand-scored set suggested.</strong> ${sweepUnconverted.length} sweep reports (${pct(sweepUnconverted.length, w.n)}%) apply the 2024 Framework with no conversion, most of them committee resolutions from 2024 or 2025 issued as notices after 17 August 2026 once a legal agreement was signed: ${refList(sweepUnconverted.slice(0, 8))}${sweepUnconverted.length > 8 ? ` and ${sweepUnconverted.length - 8} more` : ''}. Stratford's ${s.unconverted} are the same defect.</li>
+<li><strong>The Connectivity Tool stays rare.</strong> ${w.tool.yes} sweep reports use it (${joinAnd(sweepToolCouncils.map(esc))}), and Solihull sets it aside at Peartree Farm because ${q(SRC.peartree, 'it appears to contain outdated public transport information', 4)}. ${all.n - all.tool.yes} of ${all.n} reports from ${allCouncils.length} councils do not use it; nor does any Stratford report.</li>
+</ul>
+${sweepCouncilTable}
+<p>The sweep table, with a page reference and a verbatim quotation for every adverse code, is <a href="${GITHUB}other-councils-four-errors-sweep-2026-10.tsv">other-councils-four-errors-sweep-2026-10.tsv</a>; the <a href="${GITHUB}other-councils-sweep-inventory-2026-10.tsv">inventory</a> lists every report the sweep fetched with the reason each excluded one was left out, and the <a href="${GITHUB}other-councils-four-errors-sweep-2026-10.md">analysis note</a> records how the set was read. The sweep reaches ${sweepCouncils.length} of the ${num(48)} councils it swept with a housing report in the period; registers behind a login or a bot wall, and councils that publish no delegated reports, are listed in the note.</p>
+</section>`;
+
+// ---- The rubric ----
+const rubric = `<section id="rubric"><h2>The rubric</h2>
+<p>Every report in the three tables is scored on the same columns with the same codes. This is the rubric in full; it is also published as <a href="${GITHUB}four-errors-rubric.md">four-errors-rubric.md</a>.</p>
+<h3>Codes</h3>
+<ul>
+<li><strong>Tier used as the location test.</strong> <code>error</code>: the report's finding that the site is (or is not) a sustainable location rests on the village's tier in the settlement hierarchy, its development boundary, or a recital of its facilities, with no route fact. <code>partial</code>: a tier or boundary finding with at least one transport fact beside it (a bus stop distance, a footway remark, a frequency), however thin. <code>ok</code>: the location is decided on the route and the transport choice, with facts, whether or not a tier is mentioned and whatever the decision. <code>na</code>: no location finding is made or needed: householder works, listed building consent, replacement dwellings and reconstructions, conversions decided under a reuse category, employment, and sites inside a town or city.</li>
+<li><strong>TR3 not assessed.</strong> <code>not-mentioned</code>: the text search for "TR3" finds nothing (a Local Plan policy that happens to be numbered TR3 does not count). <code>cited-only</code>: TR3 is named, listed or quoted but no limb of TR3(1) is applied to the site. <code>dodged</code>: TR3(1)(a) is said not to apply because the scheme is small, and nothing else is run. <code>assessed</code>: at least one limb of TR3(1) is applied to the site with facts, or GB7(1)(g)(iii) is answered in TR3's terms. <code>na</code>: as for the tier, except that a report inside a town is still scored because TR3 applies there. The split by scheme size (six homes or more, against five or fewer) is reported because officers and inspectors treat small schemes as below the TR3(1)(a) threshold.</li>
+<li><strong>Connectivity Tool.</strong> <code>yes</code> where a score or band from the Tool is given; <code>indirect</code> where the applicant's score is relied on; <code>no</code> otherwise, including where the Tool is mentioned and set aside. It is one input to TR3(2), not a gate, and it is reported as a shared absence, not as an error.</li>
+<li><strong>Annex B and the Green Belt route.</strong> The question arises for a Green Belt site, a hamlet or a cluster without a boundary, or a village whose status as a settlement the report has to decide. <code>error</code>: S4 or S5(1)(j) is applied in a village washed over by the Green Belt or in a hamlet, S5 is run on a Green Belt site that S5(5) sends to GB6 to GB8, or a boundary or a tier is used as the GB7(1)(g)(iii) test; a belt-and-braces run of S5 beside a full GB7 assessment still scores <code>error</code>, and the note says so. <code>ok</code>: the Green Belt route is taken through GB6 and GB7 with S5(5) stated or implied, or a cluster is tested against the Annex B definition and S5 applied. <code>na</code>: a site inside a defined boundary that is not Green Belt, a replacement dwelling, or a 2024 report that runs no S4 or S5 route. A separate column records whether Annex B is cited.</li>
+<li><strong>DP3(3) not asked.</strong> The question arises for every proposal with design content. <code>error</code>: a conflict with DP3(1), a DP3(2) principle, a development plan design standard, or the character or landscape of the area is found and weighed in the balance, and the report does not ask whether it is clearly justified or run the S4(2)(c) or S5(2) trigger. <code>ok</code>: no such conflict is found, or the conflict is found and the DP3(3) test or the trigger is applied in terms (a refusal that quotes the test counts). <code>na</code>: the only harm is heritage harm under HE6, the consent is listed building consent, or there are no external works. Two readings are stated and applied the same way across the tables: a conflict with a landscape-character policy counts as a DP3 conflict (the broad reading; the narrow reading would weigh it under N2 instead), and an error on a refusal where the conflict is itself a refusal reason is a formal slip, so errors are also split by what the officer recommended. The finding that can change an outcome is a recommendation to grant after a found conflict with no clear-justification question.</li>
+<li><strong>Framework.</strong> <code>2026</code>; <code>2024+note</code> where a 2024 report carries a conversion note or update; <code>mixed</code> where 2026 policies are applied beside 2024 paragraph numbers or the 2024 "tilted balance" wording; <code>2024-unconverted</code> where a decision made after 17 August 2026 rests on a 2024 report with no conversion, including notices issued after a legal agreement on an older resolution.</li>
+<li><strong>Template paragraph.</strong> <code>yes</code> where the report cuts a settlement-hierarchy or countryside policy wholesale to limited, very limited or no weight on five-year-supply or age grounds, or as "materially inconsistent" without saying which part conflicts. <code>no</code> where Annex A(2) is quoted and applied to a named part of a policy with a reason, or no cut is made. The Stratford table's column is the template paragraph itself; the other tables record any wholesale cut.</li>
+</ul>
+<h3>Rules that apply to every row</h3>
+<ul>
+<li>Every <code>error</code>, <code>partial</code>, <code>cited-only</code> and <code>dodged</code> code carries a page number and a verbatim quotation from the officer report, and every quotation in the three tables is checked by machine against the text extracted from the PDF before the page is built; a quotation that does not match stops the build.</li>
+<li>Every <code>not-mentioned</code> is a text search for "TR3" with no hits, checked the same way.</li>
+<li>The rubric tests method, not result: a report that assesses the route and approves against its own finding scores <code>ok</code>; a report that reaches the right answer by the wrong route scores <code>error</code>.</li>
+<li>Rates are given among the reports where the question arises; <code>na</code> rows are excluded from the denominator.</li>
+<li>Committee reports and delegated reports are scored alike. A committee report written before 17 August 2026 is scored on what it says, and its framework code records whether it was converted before the decision.</li>
+</ul>
+<h3>How the sweep set was read</h3>
+<p>The hand-scored set was read report by report in full. The sweep set was first screened by machine for the mechanical facts (the TR3 text search, the Connectivity Tool, Annex B, the Framework markers and the weight phrases), then each report was read through its keyed passages: the site description, every paragraph that bears on location and transport, on the S4, S5 and Green Belt route, on design and character, on weight, and the conclusion, with page numbers; where those passages left a judgement open, the report was searched again for the point. The codes that need judgement (tier, Annex B and DP3(3)) were given on that reading, and the quotations were taken from the collapsed text and checked back against the pages.</p>
+</section>`;
+
 const SET_NAMES = {
   'held-a': ['Held, Midlands', 'Every officer report or reasoned decision notice already held for Wychavon, Malvern Hills, Worcester, Bromsgrove, Warwick, Lichfield, West Northamptonshire, Nuneaton and Bedworth and Cheshire East (decisions 17 August to 23 September 2026)'],
   'held-b': ['Held, south and north', 'Every committee report already held for Basildon, Bath and North East Somerset, Chorley, Cotswold, Dacorum, East Devon, Elmbridge, Maidstone, Maldon, North Hertfordshire, Sefton, Three Rivers and Tonbridge and Malling'],
@@ -373,14 +480,14 @@ section>ol,section>ul,.rule ul{margin:0;padding-left:20px;display:grid;gap:8px;m
 
 const html = page({
   title: 'Officer Reports Compared Across Councils',
-  description: `Do other councils make the four errors found in Stratford-on-Avon's officer reports under the August 2026 NPPF? ${o.n} reports from ${councils.length} councils scored with the same rubric: the tier error ${pct(o.tier.error, o.tier.n)}% against ${pct(s.tier.error, s.tier.n)}%, the Green Belt route error ${pct(o.annexb.error, o.annexb.n)}% against ${pct(s.annexb.error, s.annexb.n)}%, approval recommended after an unaddressed design conflict ${o.dp33.grant} times against ${s.dp33.grant}. Warwick repeats the pattern; Bromsgrove and Wychavon do not. Every quotation checked.`,
+  description: `Do other councils make the four errors found in Stratford-on-Avon's officer reports under the August 2026 NPPF? ${all.n} reports from ${allCouncils.length} councils scored with one published rubric: the tier error ${pct(all.tier.error, all.tier.n)}% against ${pct(s.tier.error, s.tier.n)}%, the Green Belt route error ${pct(all.annexb.error, all.annexb.n)}% against ${pct(s.annexb.error, s.annexb.n)}%, approval recommended after an unaddressed design conflict ${all.dp33.grant} times against ${s.dp33.grant}. Warwick repeats the pattern; Bromsgrove and Wychavon do not. Every quotation checked.`,
   url: URL,
   breadcrumb: `<a href="/">Planning Distilled</a> › <a href="/research/">Research</a> › <a href="/research/authority/">Local planning authorities</a> › Officer reports compared`,
-  h1: 'Do other councils make Stratford\'s four errors? Officer reports from 22 councils under the 2026 NPPF',
-  dek: `The <a href="${STRATFORD}">Stratford note</a> found four recurring errors in Stratford-on-Avon District Council's officer reports. This page scores ${o.n} reports from ${councils.length} other councils the same way, shows what the better reports do instead, and says which of the Stratford counts were too hard.`,
-  body: extraCss + short + errors + compare + byCouncil + best + repeat + audit + method,
+  h1: `Do other councils make Stratford's four errors? Officer reports from ${allCouncils.length} councils under the 2026 NPPF`,
+  dek: `The <a href="${STRATFORD}">Stratford note</a> found four recurring errors in Stratford-on-Avon District Council's officer reports. This page scores ${o.n} reports from ${councils.length} other councils the same way, then ${w.n} more from a sweep of ${sweepCouncils.length} councils' registers (${all.n} reports, ${allCouncils.length} councils in all), shows what the better reports do instead, publishes the rubric, and says which of the Stratford counts were too hard.`,
+  body: extraCss + short + errors + compare + byCouncil + sweep + best + repeat + audit + rubric + method,
   sources: [
-    `The two scoring tables, with a page reference and quotation for every adverse code: <a href="${GITHUB}stratford-officer-reports-four-errors.tsv">Stratford</a> (${s.n} reports, note of 13 October 2026) and <a href="${GITHUB}other-councils-four-errors-2026-10.tsv">other councils</a> (${o.n} reports, note of 18 October 2026, with the <a href="${GITHUB}other-councils-four-errors-2026-10.md">analysis note</a>).`,
+    `The three scoring tables, with a page reference and quotation for every adverse code: <a href="${GITHUB}stratford-officer-reports-four-errors.tsv">Stratford</a> (${s.n} reports, note of 13 October 2026), <a href="${GITHUB}other-councils-four-errors-2026-10.tsv">other councils, hand-scored</a> (${o.n} reports, note of 18 October 2026, with the <a href="${GITHUB}other-councils-four-errors-2026-10.md">analysis note</a>) and <a href="${GITHUB}other-councils-four-errors-sweep-2026-10.tsv">the council sweep</a> (${w.n} reports, scored 28 and 29 October 2026, with its <a href="${GITHUB}other-councils-four-errors-sweep-2026-10.md">analysis note</a>, <a href="${GITHUB}other-councils-sweep-inventory-2026-10.tsv">inventory</a> and the <a href="${GITHUB}four-errors-rubric.md">rubric</a>).`,
     'Officer reports, update sheets, decision notices and minutes: the councils\' planning portals and committee pages, listed by URL in the other-councils table. The reports are council copyright and are held, with text extracts, in the private sources checkout; they are quoted here briefly.',
     `National Planning Policy Framework, August 2026 (Crown copyright, Open Government Licence): policies S4, S5, TR3, DP3 and GB7, Annex A and Annex B. <a href="${GOVUK_TOOL}">Connectivity Tool</a>, GOV.UK.`,
     'Government response to the consultation on the National Planning Policy Framework, August 2026 (Crown copyright), printed pages 30 and 132 (PDF pages 34 and 136).',

@@ -86,7 +86,7 @@ const LABELS = {
   '/research/authority/stratford-dc/': 'Stratford-on-Avon District',
   '/research/authority/stratford-dc/nppf-2026-decisions/': 'Decisions under the 2026 NPPF',
   '/research/authority/stratford-dc/core-strategy-weight/': 'Core Strategy: which policies keep their weight',
-  '/research/authority/officer-reports-compared/': 'Four errors, 22 councils compared',
+  '/research/authority/officer-reports-compared/': 'Four errors, 27 councils compared',
   '/research/settlement/claverdon/': 'Claverdon',
   '/research/settlement/claverdon/station-road-decision-route/': 'Station Road decision route',
   '/research/settlement/claverdon/kington-lane-decision-route/': 'Kington Lane decision route',
