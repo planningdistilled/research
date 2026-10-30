@@ -82,6 +82,7 @@ const LABELS = {
   '/research/england/what-is-a-village/': 'What is a "village"?',
   '/research/england/very-special-circumstances/': 'Very special circumstances',
   '/research/england/substantially-outweighed/': '"Substantially outweighed"',
+  '/research/england/tilted-balance/': 'Is there still a tilted balance?',
   '/research/england/dp3-design/': 'DP3: the design policy',
   '/research/authority/stratford-dc/': 'Stratford-on-Avon District',
   '/research/authority/stratford-dc/nppf-2026-decisions/': 'Decisions under the 2026 NPPF',
@@ -99,7 +100,7 @@ const ORDER = [
   '/research/england/nppf-navigator/', '/research/england/nppf-navigator/route/', '/research/england/nppf-navigator/decisions/', '/research/england/nppf-navigator/method-and-cross-references/',
   '/research/england/nppf-map/',
   '/research/england/sustainable-location/', '/research/england/sustainable-location/factors/', '/research/england/sustainable-location/service-village/',
-  '/research/england/what-is-a-settlement/', '/research/england/what-is-a-village/', '/research/england/very-special-circumstances/', '/research/england/substantially-outweighed/', '/research/england/dp3-design/',
+  '/research/england/what-is-a-settlement/', '/research/england/what-is-a-village/', '/research/england/very-special-circumstances/', '/research/england/substantially-outweighed/', '/research/england/tilted-balance/', '/research/england/dp3-design/',
   '/research/authority/stratford-dc/', '/research/authority/stratford-dc/nppf-2026-decisions/', '/research/authority/stratford-dc/core-strategy-weight/', '/research/authority/officer-reports-compared/',
   '/research/settlement/claverdon/', '/research/settlement/claverdon/station-road-decision-route/', '/research/settlement/claverdon/kington-lane-decision-route/', '/research/settlement/claverdon/station-road-on-foot/', '/research/settlement/claverdon/neighbourhood-plan-weight/',
 ];

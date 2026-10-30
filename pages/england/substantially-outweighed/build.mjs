@@ -161,10 +161,54 @@ const s54pass = nFind('S5(4)', 'pass'); const s54fail = nFind('S5(4)', 'fail');
 // ---- The page ----
 const short = `<section id="short"><h2>The short answer</h2>
 <div class="rule">
-<p><strong>"Substantially outweighed" is the 2026 Framework's presumption in favour of development.</strong> Inside a settlement (policy S4) and, outside one, for the ten listed categories of development (S5(1)), a proposal "should be approved unless the benefits of doing so would be substantially outweighed by any adverse effects, when assessed against the national decision-making policies". It replaces the December 2024 "tilted balance", whose formula was "significantly and demonstrably outweigh". It applies to every proposal, not only when a plan is out of date, and it is measured against the Framework's own decision-making policies, not the local plan.</p>
+<p><strong>"Substantially outweighed" is the 2026 Framework's presumption in favour of development.</strong> Inside a settlement (policy S4) and, outside one, for the ten listed categories of development (S5(1)), a proposal "should be approved unless the benefits of doing so would be substantially outweighed by any adverse effects, when assessed against the national decision-making policies". It replaces the December 2024 "tilted balance", whose formula was "significantly and demonstrably outweigh". It applies to every proposal, not only when a plan is out of date, and it is measured against the Framework's own decision-making policies, not the local plan. <a href="#grid">The grid below</a> shows where it arises with and without a five-year housing supply, against the 2024 position.</p>
 <p>The same words carry a different burden in S5(4). Outside every S5 category, a proposal should be approved "only in exceptional circumstances, where the benefits of the proposal would substantially outweigh the adverse effects". The tilt reverses. And in the Green Belt, S5(5) restores the forward tilt for development that passes GB7, while inappropriate development goes to the <a href="${VSC}">very special circumstances</a> test instead.</p>
 <p>What tips the forward balance is a list, not a mood: the "should be refused" policies named in S4(2) and S5(2), and the specific harms S4(2) lists. In the decisions so far, a proposal that passes the balance is almost always allowed (${s4passWon} of ${s4pass} S4 passes, ${s55passWon} of ${s55pass} S5(5) passes), and a proposal that fails it does so through one of those triggers.</p>
 </div></section>`;
+
+// ---- The grid: where the forward presumption arises, with and without a five-year supply, 2024 against 2026 ----
+// Each cell: does the forward "approve unless" balance apply to the proposal in that situation? "yes" = it does;
+// "no" = it does not (the plan governs, the balance is reversed, or a Green Belt or neighbourhood plan test
+// displaces it); "cond" = it does only on a further condition stated in the cell. The 2024 column follows
+// paragraph 11(d) with footnotes 7 and 8 and paragraph 14; the 2026 column follows S3 to S6, GB6, GB7 and Annex A(3).
+const Y = (t) => `<span class="pill ok" title="Forward presumption applies">✓ ${esc(t)}</span>`;
+const N = (t) => `<span class="pill no" title="No forward presumption">✗ ${esc(t)}</span>`;
+const C = (t) => `<span class="pill part" title="Only on the condition stated">✓ ${esc(t)}</span>`;
+const GRID = [
+  { s: `Within a <a href="${SETTLEMENT}">settlement</a> (Annex B), any development`, a24: N('plan governs'), b24: Y('¶11(d)'), a26: Y('S4'), b26: Y('S4') },
+  { s: 'Outside a settlement: previously developed land, limited infill, reuse of a building, rural business, an exception site, an allocation, a well-connected station', a24: N('plan governs'), b24: Y('¶11(d)'), a26: Y('S5(1)(a) to (i)'), b26: Y('S5(1)(a) to (i)') },
+  { s: 'Outside a settlement: housing for an evidenced unmet need, physically well-related to a settlement and in scale with its infrastructure', a24: N('plan governs'), b24: Y('¶11(d)'), a26: C('S5(1)(j) only with other evidence of unmet need'), b26: Y('S5(1)(j)') },
+  { s: 'Outside a settlement, outside every S5(1) category', a24: N('plan governs'), b24: Y('¶11(d)'), a26: N('S5(4) reversed'), b26: N('S5(4) reversed') },
+  { s: 'An isolated home in the countryside', a24: N('plan governs'), b24: Y('¶11(d), against ¶84'), a26: N('S5(3), HO11'), b26: N('S5(3), HO11') },
+  { s: 'Green Belt: development that is not inappropriate (infill in a village, previously developed land, limited affordable housing)', a24: N('plan governs'), b24: Y('¶11(d)'), a26: Y('GB7 then S5(5)'), b26: Y('GB7 then S5(5)') },
+  { s: 'Green Belt: housing on grey belt land', a24: N('¶155(b) needs unmet need'), b24: Y('¶155 then ¶11(d)'), a26: C('GB7(1)(g) only with other evidence of unmet need'), b26: C('GB7(1)(g), if in a sustainable location under TR3, then S5(5)') },
+  { s: 'Green Belt: inappropriate development', a24: N('fn 7, very special circumstances'), b24: N('fn 7, very special circumstances'), a26: N('GB6, very special circumstances'), b26: N('GB6, very special circumstances') },
+  { s: 'Housing that conflicts with a neighbourhood plan made in the last five years with allocations for its requirement', a24: N('plan governs'), b24: N('¶14 reverses the tilt'), a26: N('S6 likely lost'), b26: N('S6 likely lost') },
+];
+const TILTED = '/research/england/tilted-balance/';
+const grid = `<section id="grid"><h2>Where the presumption arises, with and without a five-year supply</h2>
+<p>The grid answers one question for nine situations (a fuller version, 22 situations by location, scale and type, is on the <a href="${TILTED}">tilted balance page</a>): does the forward "approve unless" balance apply to the proposal? It is answered twice for each Framework, once where the council can show a five-year supply of deliverable housing sites and once where it cannot, for a proposal that includes housing, since the 2024 footnote 8 made the shortfall relevant only to those. The December 2024 columns follow paragraph 11(d) with footnotes 7 and 8 and paragraph 14. The August 2026 column follows S3 to S6, GB6, GB7 and Annex A(3). A tick means the balance is engaged, not that permission follows: the <a href="#uses">triggers</a> still have to be run.</p>
+<div class="table-wrap"><table class="grid"><thead><tr><th rowspan="2">Situation</th><th colspan="2">NPPF December 2024</th><th colspan="2">NPPF August 2026</th></tr><tr><th>Supply in place</th><th>No five-year supply</th><th>Supply in place</th><th>No five-year supply</th></tr></thead><tbody>
+${GRID.map((r) => `<tr><td>${r.s}</td><td>${r.a24}</td><td>${r.b24}</td><td>${r.a26}</td><td>${r.b26}</td></tr>`).join('\n')}
+</tbody></table></div>
+<p class="note">In the 2024 columns "plan governs" means paragraph 11(c) applied: a proposal that accorded with an up-to-date plan was approved without delay and one that conflicted was refused unless material considerations indicated otherwise, with no tilt either way. The 2024 tilt also arose where the most important policies were out of date for a reason other than supply, which the grid does not show. In the 2026 columns "other evidence of unmet need" means need shown in some way other than the supply figure or a Housing Delivery Test result below 75 per cent; Annex A(3) adds that a higher standard-method figure is not such evidence for five years after a plan is adopted.</p>
+<p>Read down the 2024 columns and the shortfall is the switch: with a supply in place the tilt arises nowhere, and without one it arises in every situation outside footnote 7 and paragraph 14. Read down the 2026 columns and the switch has gone. With a supply in place the tilt arises in three of the nine situations, and the shortfall changes only two cells, both of them "unmet need" conditions. The 2026 Framework's own words for the shortfall are these:</p>
+${nppf('Development which would address an evidenced unmet need (including, but not limited to, development proposals involving the provision of housing where the local planning authority cannot demonstrate a five year supply of deliverable housing sites or scores below 75% in the most recent Housing Delivery Test', 'S5(1)(j)', 'S5-1-j')}
+${nppf('There is an evidenced unmet need for the type of development proposed', 'GB7(1)(g)(ii)', 'GB7-1-g-ii')}
+<p>That is the whole of the shortfall's role in deciding whether the presumption is engaged. Its other role is inside the balance: policy HO7 gives "substantial weight" to "the benefits of providing homes which will contribute towards meeting the evidenced accommodation needs of the community". What the shortfall no longer does is reduce the weight of a development plan policy. Annex A(2) allows that for one reason only:</p>
+${nppf('Development plan policies (or parts of those policies) which are materially inconsistent with national decision-making policies in this Framework should be given very limited weight. The only exception to this is where they have been examined and adopted or made against this Framework. Other development plan policies should not be given reduced weight simply because they were adopted prior to the publication of this Framework.', 'Annex A(2)', 'AnnexA-2')}
+<p>A council paper that says a settlement or scale policy is "out of date" or carries "very little weight" because the council cannot show a five-year supply is applying the 2024 switch, not the 2026 test. The 2026 question is which national decision-making policy the plan policy is materially inconsistent with, for which sites.</p>
+</section>`;
+check('nppf', 'substantial weight should be given to the benefits of providing homes which will contribute towards meeting the evidenced accommodation needs of the community');
+check('nppf', 'This policy does not apply to development proposals in the Green Belt or on land designated as Local Green Space, which should instead be determined in accordance with policies HC8, GB6, GB7 and/or GB8 (as appropriate)');
+check('nppf', 'Development proposals which do not fall within one of the categories set out in this policy should only be approved in exceptional circumstances');
+check('nppf', 'Development proposals comprising isolated homes, which are those lying outside settlements or groups of houses, should not be approved other than in accordance with policy HO11');
+check('nppf', 'The development would be in a sustainable location, with particular reference to policy TR3 of this Framework');
+check(NPPF_2024, 'approving development proposals that accord with an up-to-date development plan without delay');
+check(NPPF_2024, 'where there are no relevant development plan policies, or the policies which are most important for determining the application are out-of-date');
+check(NPPF_2024, 'cannot demonstrate a five year supply of deliverable housing sites (with the appropriate buffer as set out in paragraph 78); or where the Housing Delivery Test indicates that the delivery of housing was substantially below (less than 75% of) the housing requirement over the previous three years');
+check(NPPF_2024, 'the adverse impact of allowing development that conflicts with the neighbourhood plan is likely to significantly and demonstrably outweigh the benefits');
+check(NPPF_2024, 'There is a demonstrable unmet need for the type of development proposed');
 
 const uses = `<section id="uses"><h2>Where the words appear</h2>
 <p>"Substantially outweigh" appears ${nUses} times in the National Planning Policy Framework (NPPF) of 17 August 2026, all but one in chapter 4, <a href="${GOVUK_CH4}">Achieving sustainable development</a>. The table lists each, the direction of the tilt, and what the policy does. Each code links to the text in our <a href="${NPPF_MD}">Markdown edition</a>.</p>
@@ -227,7 +271,8 @@ ${['S4', 'S5(1)', 'S5(2)', 'S5(4)', 'S5(5)', 'S5', 'S6'].map(table).join('\n')}
 const extraCss = `<style>.stats{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:12px}.stat{background:var(--surface);border:1px solid var(--line);border-radius:8px;padding:14px 16px}.stat .n{font:600 30px/1 var(--serif);color:var(--accent);font-variant-numeric:tabular-nums}.stat .l{font-size:13.5px;margin-top:6px}
 section>ol,section>ul{margin:0;padding-left:20px;display:grid;gap:8px;max-width:72ch}section>ol>li,section>ul>li{font-size:15.5px}section>ol blockquote,section>ul blockquote{margin-top:6px;margin-bottom:6px}h3{font:600 17px/1.35 var(--sans);margin-top:8px}h3 .count{font-weight:400;color:var(--muted);font-size:14px}
 .table-wrap{overflow-x:auto;-webkit-overflow-scrolling:touch}table{border-collapse:collapse;width:100%;font-size:14px;min-width:640px}th,td{text-align:left;vertical-align:top;padding:8px 10px;border-bottom:1px solid var(--line)}th{font-size:12px;letter-spacing:.06em;text-transform:uppercase;color:var(--muted)}td q{display:block;color:var(--muted);font:400 13px/1.45 var(--serif);margin-bottom:4px}td small{color:var(--muted)}td.n{font-size:13px;color:var(--muted);max-width:40ch}
-.f{display:inline-block;white-space:nowrap;margin:0 6px 4px 0}</style>`;
+.f{display:inline-block;white-space:nowrap;margin:0 6px 4px 0}
+table.grid{min-width:760px}table.grid th{text-align:center}table.grid thead tr:first-child th{border-bottom:none;padding-bottom:2px}table.grid thead tr:first-child th:first-child{text-align:left}table.grid td{font-size:13.5px}table.grid td:first-child{min-width:22ch}table.grid td:not(:first-child){width:16%;text-align:center}table.grid .pill{white-space:normal;display:inline-block;line-height:1.35;padding:3px 8px}</style>`;
 
 const SOURCES = [
   `National Planning Policy Framework, August 2026: <a href="${GOVUK_NPPF}">GOV.UK</a>; <a href="${GOVUK_CH4}">chapter 4, Achieving sustainable development</a>; our <a href="${NPPF_MD}">Markdown edition</a>. Policies S1, S3 to S6, and the "should be refused" policies ${refusedCodes.join(', ')}.`,
@@ -242,18 +287,18 @@ const SOURCES = [
   'Planning Geek, <a href="https://www.planninggeek.co.uk/policy/presumption-in-favour-of-sustainable-development/">Presumption in favour of sustainable development</a>, 17 September 2026.',
   `Decision letters: the Planning Inspectorate <a href="https://appeal-planning-decision.service.gov.uk/">appeals service</a>; every letter quoted is held in the research repository under <code>data/open-sources/pins-corpus/</code>. Council reports are linked from each decision's page.`,
   `The <a href="${DECISION_PAGES}">decisions database</a> and the analysis note <code>data/decisions/analysis/principle-and-balance.md</code> in the research repository.`,
-  `Companion pages: <a href="${VSC}">"Very special circumstances" under the 2026 NPPF</a>, on the Green Belt test; <a href="${SETTLEMENT}">What is a settlement</a>, on the S4 and S5 fork; <a href="${DP3}">DP3</a>, on the commonest trigger; and <a href="${SUSTAINABLE}">how a sustainable location is assessed</a>. The <a href="${ROUTE}#the-balance-substantially-outweighed-balanceplain-judgement">Navigator's balance step</a> runs the test interactively.`,
+  `Companion pages: <a href="${TILTED}">Is there still a tilted balance?</a>, on what a housing shortfall switched on in 2024 and does in 2026; <a href="${VSC}">"Very special circumstances" under the 2026 NPPF</a>, on the Green Belt test; <a href="${SETTLEMENT}">What is a settlement</a>, on the S4 and S5 fork; <a href="${DP3}">DP3</a>, on the commonest trigger; and <a href="${SUSTAINABLE}">how a sustainable location is assessed</a>. The <a href="${ROUTE}#the-balance-substantially-outweighed-balanceplain-judgement">Navigator's balance step</a> runs the test interactively.`,
 ];
 check(THRINGS, 'a default yes for your proposed project');
 
 const html = page({
   title: 'Substantially Outweighed',
-  description: `What "substantially outweighed" means in the August 2026 NPPF: the ${nUses} places the words appear, the forward tilt in S4, S5(1) and S5(5), the reversed test in S5(4), the "should be refused" triggers, what replaced the 2024 tilted balance, the drafting traps, and a register of ${num(casesInRegister.size)} decisions with a finding under S4, S5 or S6.`,
+  description: `What "substantially outweighed" means in the August 2026 NPPF: the ${nUses} places the words appear, the forward tilt in S4, S5(1) and S5(5), the reversed test in S5(4), the "should be refused" triggers, a grid of where the presumption arises with and without a five-year housing supply against the 2024 position, what replaced the 2024 tilted balance, the drafting traps, and a register of ${num(casesInRegister.size)} decisions with a finding under S4, S5 or S6.`,
   url: URL,
   breadcrumb: '<a href="/">Planning Distilled</a> › <a href="/research/">Research</a> › <a href="/research/england/">England</a> › Substantially outweighed',
   h1: '"Substantially outweighed": the presumption under the 2026 NPPF',
   dek: `Where the words appear, which way the tilt runs in each, what replaced "significantly and demonstrably", how the balance is lost, and every decision so far with a finding under S4, S5 or S6.`,
-  body: extraCss + short + uses + origin + practice + traps + registerHtml,
+  body: extraCss + short + grid + uses + origin + practice + traps + registerHtml,
   sources: SOURCES,
   credit: `Prepared by Planning Distilled. External sources were retrieved on ${RETRIEVED}.`,
 });
