@@ -1270,6 +1270,7 @@ Number (mph)
 **Guidance:**
 - DP3(3) gives national "should be refused" force to a conflict, without clear justification, with DP3(1) (context), the relevant DP3(2) principles, or an explicit design standard in the development plan. Substantial weight is given to compliance with relevant development-plan design policies.
 - Tree-cover loss is picked up separately at the DP3(2)(c) step, so it is not repeated here. Design harm that falls short of a conflict is weighed under landscape and character instead.
+- The question is asked for every proposal with design content, including changes of use (an HMO layout, 6010207), a conditions variation (6007698) and householder works (a fence, 6010905). It can still be answered "no conflict": at outline with design reserved, character harm was held not to be a clear DP3 conflict and was weighed under N2 instead (6009363 ¶12).
 - "Explicit design standards" includes a Village Design Statement, design guide, code or masterplan adopted through a development-plan policy (the clearest dataset example is 6010826).
 
 **Framework text:**

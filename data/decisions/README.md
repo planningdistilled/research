@@ -22,6 +22,9 @@ Not limited to Stratford-on-Avon. **Appeal and Secretary of State decisions carr
 | `analysis/transition-and-decision-makers.md` | The Framework switch, Annex A ¶2 plan weight, supply, inspectors v councils, SDC practice, pending SoS and court items. |
 | `analysis/settlement-hierarchy-and-service-centres.md` | Why local hierarchy labels ("service centre", Local Service Village) carry no standalone NPPF weight; they feed only development-plan accordance, the Annex B settlement/S4-S5 route and TR3. |
 | `analysis/location-factors/` | Which factors each decision used to decide whether a location is sustainable, and which way each cut: `register.tsv` (one row per decision), `codes.tsv` (the classes and factor codes) and `codebook.md` (rules, method, limits). Checked by `tools/location_factors.py`; published as the "factors in decisions" sub-page of the sustainable location page. |
+| `analysis/stratford-officer-reports-four-errors.md` + `.tsv` | 44 Stratford officer reports since 17 Aug 2026 scored for four departures: tier as the location test, TR3 not assessed, Annex B settlement, DP3(3) not asked. Reading guide explains the codes. |
+| `analysis/stratford-earlswood-24-02382.md` | Pre-report analysis of the undecided Earlswood affordable housing application (note of 9 Oct 2026): what the Framework requires and what the file shows. |
+| `analysis/stratford-committee-participation.md` | Who may speak at SDC Planning Committee, deadlines, and when a ward member's advocacy becomes a conflict (note of 9 Oct 2026). |
 | `analysis/ANALYST-BRIEF.md` | Brief shared by the analysis agents. |
 | `tools/build_index.py` | Rebuilds `index/` from case frontmatter and prints WARN lines. |
 | `tools/normalise.py` | Normalises `nppf_applied` values in case frontmatter (idempotent); run before `build_index.py`. |

@@ -1,8 +1,8 @@
 # Stratford-on-Avon: undecided housing applications and the errors the reports are likely to repeat
 
-Note of 8 October 2026. It takes every housing application still open on the Stratford-on-Avon District Council (SDC) register and asks which of them are likely to attract the same departures from the August 2026 National Planning Policy Framework (NPPF) that the Stratford note (`pages/authority/stratford-dc/nppf-decisions/build/note.md`) found in decisions made between 17 August and 2 October 2026. Not legal advice.
+Note of 8 October 2026, refreshed against the register on 13 October 2026 and again on 17 October 2026 (see the refresh sections). It takes every housing application still open on the Stratford-on-Avon District Council (SDC) register and asks which of them are likely to attract the same departures from the August 2026 National Planning Policy Framework (NPPF) that the Stratford note (`pages/authority/stratford-dc/nppf-decisions/build/note.md`) found in decisions made between 17 August and 2 October 2026. Not legal advice.
 
-The list is `stratford-pending-watchlist.tsv` beside this file: 133 live housing applications, pulled from `https://apps.stratford.gov.uk/EplanningV2/API/` on 8 October 2026 with the same filters as `tools/stratford_supply.py`, less the ten that are at appeal or are not homes (traveller pitches, care homes). Each row carries the register status, the parish, the village and its Core Strategy tier (CS.15 ¶5.1.10), whether the site is in the West Midlands Green Belt (Core Strategy ¶4.1.3: everything north of Stratford-upon-Avon, the A46 and the A439, with Alcester, Henley-in-Arden and Studley inset), whether the village is washed over, the home count read from the description, and the dates.
+The list is `stratford-pending-watchlist.tsv` beside this file: 133 live housing applications, pulled from `https://apps.stratford.gov.uk/EplanningV2/API/` on 8 October 2026 and re-pulled on 13 October 2026 with the same filters as `tools/stratford_supply.py`, less the ten that are at appeal or are not homes (traveller pitches, care homes). Each row carries the register status, the parish, the village and its Core Strategy tier (CS.15 ¶5.1.10), whether the site is in the West Midlands Green Belt (Core Strategy ¶4.1.3: everything north of Stratford-upon-Avon, the A46 and the A439, with Alcester, Henley-in-Arden and Studley inset), whether the village is washed over, the home count read from the description, and the dates.
 
 ## The six errors, in one line each
 
@@ -13,13 +13,41 @@ The list is `stratford-pending-watchlist.tsv` beside this file: 133 live housing
 5. **Location decided by village tier**, not by the route: TR3(1)(a) treated as not engaged for small schemes, TR3(1)(b) read as a locational test, no Connectivity Tool, carriageway walking accepted.
 6. **2024-Framework reasoning carried into 2026 decisions**, and the whole of CS.15, CS.16 and AS.10 given "very limited weight" because of the supply shortfall.
 
+## Refresh of 13 October 2026
+
+The register was re-pulled on 13 October with the same filters, and the detail record of every row was re-read for status, target and committee dates. Five rows changed and two were added; the TSV carries the new state.
+
+**Decided since 8 October.**
+
+- **26/00410/FUL Ravenstone, Tanworth-in-Arden: notice issued 8 October 2026** ("Permission with Conditions"), the day after committee. The reasoning is the committee report and Update Sheet already filed. The six-week period for a judicial review claim runs from the date of the decision, so to **19 November 2026**.
+- **26/01776/OUT Gorcott Hill, Beoley (2 self-build, Green Belt, outside any village): refused 12 October 2026** under delegated powers (Abbey Morris). Reasons: (1) inappropriate development, encroachment and harm to openness, and "not … a sustainable location", contrary to CS.10, GB7 and TR3; (2) urbanising harm to landscape character, contrary to CS.5, CS.9, CS.12 and DP3. The 20-page scanned report (`sources:council/stratford-26-01776-OUT-report.pdf`, OCR text `sources:stratford-dc/public-note/stratford-26-01776-OUT-report.txt`) is worth reading beside Ravenstone, because the same template gives the right answer on location when the site is outside a village. It runs GB7(1)(g) limb by limb: grey belt found, (g)(ii) met on the 2.21-year supply, **(g)(iii) failed on the route** ("linked by the A435, a busy, fast dual carriageway with little or no pavement, footpath, or specific provision for cyclists … occupiers … would be heavily reliant on private cars"), TR3 given "substantial weight", and it quotes S5(5) correctly as the gateway. It also records the 2025 appeal on the same site (APP/J3720/W/25/3370628, dismissed 18 November 2025) and declines to follow the Inspector's 2024-Framework finding that short car journeys to Redditch made the site "reasonably sustainable". Error 6 is still present in full: the template paragraph gives CS.15, CS.16 and AS.10 "very limited weight" (report pp.5–6), CS.10 very limited weight "in light of" GB7 and GB8, and CS.26 very limited weight for lacking a "severe" test. No Connectivity Tool. So the contrast with Ravenstone is not the template but the village: inside a washed-over village the report found a "clearly established pattern" of carriageway walking and a Category 4 tier; outside one it assessed the road.
+
+**Called to Planning Committee on 21 October 2026** (status now "Pending Decision", committee date set on the register on 12 October; the agenda and reports were not yet on `democracy.stratford.gov.uk` at 13 October, the meeting page still reading "The agenda will be displayed in the week before the meeting"):
+
+- **25/00823/OUT Land at Sycamore Close, Stockton: up to 75 homes**, Category 2 village outside the Green Belt. The largest item. Section D questions apply in full: TR3(1)(a) is engaged on any view, so the test is whether the report assesses the route and uses the Connectivity Tool or finds location from "Category 2" and a facilities list, whether DP3(3) is applied to any design conflict, and whether the template weight paragraph appears.
+- **25/02906/FUL Fosse Close, Old Fosse Way, Tredington: 4 houses**, Category 3 village outside the Green Belt (the TSV had it under Shipston-on-Stour; corrected 13 Oct). Small-scheme risk: "not a significant amount of movement" so TR3(1)(a) falls away.
+- **26/00290/FUL Winchcombe Farm, Upper Tysoe: change of use of 2 holiday lets to 2 dwellings**, Category 2 village, outside the Green Belt. Not on the earlier list as a risk. S5(1)(c) or (j) and the loss-of-tourism-use question rather than location.
+
+The deadline to register to speak is 2 pm on Tuesday 20 October (Monday 19 October if submitting documents). The 7 October Update Sheet said future reports would use the 2.43-year supply figure; these three reports will show whether they do.
+
+**New since 8 October.** 26/02390/FUL Land off Edgehill View, Gaydon: 9 houses, Category 4 village outside the Green Belt, target 18 November 2026, so a section D small scheme where tier-based location reasoning is likely. 26/02179/FUL 21A Greenhill Street, Stratford-upon-Avon: one flat from offices, inside the town boundary; no watchlist risk.
+
+**No change** on everything else: no other watchlist application was decided, called to committee or given a revised target between 8 and 13 October. The overdue targets in sections B and C stand. The seven listed at rank 1 to 4 (Ravenstone apart) remain "Pending Decision" with no notice.
+
+## Refresh of 17 October 2026
+
+Decision notices issued 14 to 17 October were swept day by day, and the ten applications with a report but no notice (the four committee resolutions and the six 21 October items) were re-read from the active register.
+
+- **26/02325/PIP Elmhurst Farm, Wawensmere Road, Wootton Wawen (2 homes, Green Belt, washed-over Category 2 village): refused 16 October 2026** under delegated powers, on its target date. No delegated report is published on the register at 17 October (no REPORTS category); the notice is in sources (`sources:council/stratford-26-02325-PIP-notice-2026-10-16.pdf`). Three reasons: location (CS.1, CS.15, CS.16, AS.10, NDP H1 and "the requirements of the National Planning Policy Framework", with no NPPF code), Green Belt ("Policy GB7(g) of the NPPF", CS.10, no very special circumstances) and landscape (CS.5, CS.9, CS.12, the Arden Special Landscape Area). TR3, DP3, S5 and Annex B are not named. The reasons reach the result the Framework points to for a hamlet-edge site in a washed-over village, but by the 2024 route: "outside any defined settlement boundary" rather than the Annex B settlement question, and no route assessment on the face of the notice.
+- No other housing application had a notice issued between 14 and 17 October. The ten report-stage applications all remain "Pending Decision"; the six 21 October items still show that committee date. The 4 November Planning Committee page still reads "The agenda will be displayed in the week before the meeting".
+
 ## A. Reports already written, decision not yet issued
 
-These eight are the certain cases. The report exists, so the reasoning can be read now; the decision notice has not been issued, so the clock for any challenge has not started. Every report-stage document here was downloaded from the register on 8 October 2026 and is filed in the private sources repo (`sources:council/…`, text in `sources:stratford-dc/public-note/…`).
+These eight are the certain cases. The report exists, so the reasoning can be read now; at 8 October no decision notice had been issued, so the clock for any challenge had not started (Ravenstone's was issued on 8 October: see the refresh). Every report-stage document here was downloaded from the register on 8 October 2026 and is filed in the private sources repo (`sources:council/…`, text in `sources:stratford-dc/public-note/…`).
 
 | Application | Place and scale | Stage | What the report does |
 | --- | --- | --- | --- |
-| 26/00410/FUL | Ravenstone, Well Lane, Tanworth-in-Arden: 3 houses replacing 1, washed-over Category 4 village, Green Belt | Committee 7 Oct 2026: **granted**; notice not yet issued (register 8 Oct: "Pending Decision", decision "Permission with Conditions") | Errors 4, 5 and 6 together. Runs S4 for the two plots inside the BUAB and S5(1)(j) for the third (report pp.8–9) in a village Annex B excludes. Gives CS.15, CS.16 and AS.10 "very limited weight" because of the 2.21-year supply (p.10). Passes GB7(1)(g)(iii) on the footing that "the development would not generate a significant amount of movement" so TR3(1)(a) falls away, accepts walking in the Well Lane carriageway as "a clearly established pattern", and counts the bus stop under "TR3(b)" (pp.13–14). The Update Sheet replaced the bus with "the existing train service", Wood End and Danzey Green stations "approximately 1 mile" away, still "in respect of TR3(b)", and did not test either as a "well-connected station" under GB7(1)(h). The conclusion calls the village "a Category 4 Local Service Village and therefore a sustainable location" (p.26). The objection raising GB7(1)(g)(iii) and TR3 was summarised in one line. |
+| 26/00410/FUL | Ravenstone, Well Lane, Tanworth-in-Arden: 3 houses replacing 1, washed-over Category 4 village, Green Belt | Committee 7 Oct 2026: **granted**; register 8 Oct: "Pending Decision", decision "Permission with Conditions". **Notice issued 8 Oct 2026** (refresh of 13 Oct) | Errors 4, 5 and 6 together. Runs S4 for the two plots inside the BUAB and S5(1)(j) for the third (report pp.8–9) in a village Annex B excludes. Gives CS.15, CS.16 and AS.10 "very limited weight" because of the 2.21-year supply (p.10). Passes GB7(1)(g)(iii) on the footing that "the development would not generate a significant amount of movement" so TR3(1)(a) falls away, accepts walking in the Well Lane carriageway as "a clearly established pattern", and counts the bus stop under "TR3(b)" (pp.13–14). The Update Sheet replaced the bus with "the existing train service", Wood End and Danzey Green stations "approximately 1 mile" away, still "in respect of TR3(b)", and did not test either as a "well-connected station" under GB7(1)(h). The conclusion calls the village "a Category 4 Local Service Village and therefore a sustainable location" (p.26). The objection raising GB7(1)(g)(iii) and TR3 was summarised in one line. |
 | 25/02712/OUT | Land north of Mill Street, Harbury: up to 38 homes, Category 1 village, outside the Green Belt, site mostly outside the BUAB | Committee 7 Oct 2026: **grant subject to s106** | Errors 5 and 6; the S5(1)(j) route is the right one here, but the location is decided by tier and a list of facilities. "This village is defined as a Category 1 Local Service Village … the highest in the hierarchy of LSVs in matters of sustainability" (p.12); bus stops 310–320 m away; the 665 bus runs "every 2 hours" (p.27). No Connectivity Tool. Residents' "Poor connectivity and public transport concerns" are recorded (p.4) but the route is never assessed. The same template paragraph as Ravenstone gives CS.15, CS.16 and AS.10 "very limited weight" (p.10), and the conclusion repeats it: "As these policies are not consistent with the NPPF, I afford this conflict very limited weight" (p.35). DP3 is not mentioned. |
 | 25/00346/OUT and 25/00347/FUL | Home Farm, off the A423, Southam: up to 217 homes and the crossing to serve them, Main Rural Centre edge, outside the Green Belt | Outline: committee 26 Aug 2026, **grant subject to s106**. Crossing: deferred 26 Aug, back on 23 Sep 2026; register shows both "Pending Decision" | Error 6 in its clearest form. The 26 August outline report is a 2024-Framework report: it lists "National Planning Policy Framework 2024, updated 2025" (p.2) and runs the paragraph 11(d) tilted balance (pp.11, 32). A two-page Update Sheet note converts it: "Previous NPPF 2024 paragraph 11(d) has now been superseded and does not apply", S4 and S5 apply, and "Officers have reviewed the revised NPPF and are satisfied that it does not affect the substantive matters of the application". The 23 September report for the crossing is a 2026 report using the same template: CS.15, CS.16 and AS.10 "very limited weight" (p.13), Southam "one of the largest and most sustainable settlements in the District (as a MRC)" so "a sustainable location" (p.31), no TR3, no Connectivity Tool. |
 | 25/01649/FUL | Land at Alcester Road, Stratford-upon-Avon: 65 affordable homes | Committee 29 Jul 2026, **grant subject to s106**; still "Pending Decision" | A 2024-Framework report: "The lack of a 5-year housing land supply triggers NPPF paragraph 11(d)" (p.32) and the "most important policies … out of date" test. No 2026 note anywhere on the file. The notice, when issued, will be a 2026-Framework decision on reasoning the 2026 Framework replaced. The outcome may well be the same; the route has never been stated. |
@@ -48,7 +76,7 @@ Every one of these is in a village that Annex B excludes from "settlement" (Tanw
 | 26/01717/FUL | The Paddock, Poolhead Lane, Tanworth-in-Arden | 3 (replacing a 3-pitch traveller site) | 3 Sep 2026, overdue | Fallback-use reasoning likely, as at Ravenstone. |
 | 26/01686/PIP | Broadmead Barns, Forshaw Heath Road, Earlswood | up to 2 | 6 Nov 2026 | |
 | 26/02031/FUL | Bayberry Meadows, Small Lane, Earlswood | subdivision, +1 | 20 Oct 2026 | Inside the BUAB: the Malthouse Lane pattern (L2(1)(d), S4) is the risk. |
-| 26/02325/PIP | Elmhurst Farm, Wawensmere Road, Wootton Wawen | 2 | 16 Oct 2026 | |
+| 26/02325/PIP | Elmhurst Farm, Wawensmere Road, Wootton Wawen | 2 | 16 Oct 2026 | **Refused 16 Oct 2026**, notice only, no report published (refresh of 17 Oct). |
 | 26/00404/FUL | Former telephone exchange, Vicarage Hill, Tanworth-in-Arden | 1 | 14 Aug 2026, overdue | Village centre, inside the BUAB: S4 will be applied unless Annex B is read. |
 | 26/02116/FUL | Whitegates, 60 Earlswood Common, Earlswood | replacement | 19 Oct 2026 | GB7(1)(d) case; location should not arise, but the BUAB reasoning may. |
 | 25/03083/PIP | Land off Forshaw Heath Lane, Earlswood | 1 | 9 Mar 2026, overdue | |
@@ -69,7 +97,7 @@ Here S4 cannot arise and S5(1)(j) should not, so the risk is narrower: limb (iii
 | 26/01305/FUL and 26/01303/FUL | Warings Green Farm, Hockley Heath | 8 new, plus 3 barn conversions | 30 Oct 2026 | Listed barns, so HE6 as well (error 2). |
 | 26/02356/PIP | Arden Hill Farm, Birmingham Road, Pathlow | 5 | 20 Oct 2026 | |
 | 26/00890/OUT | Land at Brickyard Lane, Studley | up to 4 | 30 Sep 2026, overdue | |
-| 26/01776/OUT | Land at Gorcott Hill, Beoley | 2 | 11 Sep 2026, overdue | |
+| ~~26/01776/OUT~~ | Land at Gorcott Hill, Beoley | 2 | 11 Sep 2026 | **Refused 12 Oct 2026** on GB7(1)(g)(i) and (iii) with the route assessed; see the refresh. |
 | 26/01505/FUL | Land adjacent to The Why Not, The Ridgeway, Astwood Bank | 2 | 14 Oct 2026 | A nine-home appeal nearby was refused and a five-home PIP followed; see the Astwood Bank case files. |
 
 ## D. Outside the Green Belt: village tier as the location test, and the template weight paragraph
@@ -86,7 +114,7 @@ Here S5(1)(j) is the right route, so the risks are errors 5 and 6: location foun
 | Shipston-on-Stour (MRC) | 25/01863/OUT, 25/03144/OUT, 25/01521/OUT, 25/01810/OUT, 25/01843/OUT, 24/00303/OUT | 120, 110, 102, 100, 90, 34 |
 | Wellesbourne (MRC) | 26/00792/OUT, 25/02935/OUT, 25/02377/OUT, 25/03158/OUT | 270, 100, 67, 40 |
 | Bidford-on-Avon (MRC) | 25/00415/OUT, 25/03157/OUT | 110, 90 |
-| Stockton (Cat 2) | 25/00823/OUT | 75 |
+| Stockton (Cat 2) | 25/00823/OUT (**committee 21 Oct 2026**) | 75 |
 | Kineton (MRC) | 25/02665/OUT | 50 |
 | Welford-on-Avon (Cat 2) | 25/02145/OUT | 39 |
 | Tysoe (Cat 2) | 25/00737/FUL | 31 |
@@ -96,9 +124,33 @@ Here S5(1)(j) is the right route, so the risks are errors 5 and 6: location foun
 
 Hampton Lucy is the one to watch among these: a Category 4 village with two outline schemes of 30-odd homes each, the kind of place where "Category 4 … therefore a sustainable location" has already been written (Pillerton Priors, Tanworth).
 
-**Small schemes at lower-tier villages**, where the Ravenstone and Pillerton Priors reasoning (tier plus "not a significant amount of movement") is most likely: 26/01642/FUL Kineton Road, Pillerton Priors (9; same village as the refused 26/01894/PIP, so the report has to explain any different answer); 26/02137/PIP Alderminster (up to 9); 26/00446/PIP Goose Lane, Lower Quinton (up to 9); 26/00802/FUL former school, Butlers Marston (9; no tier); 26/00449/FUL Hogwood Farm, Oxhill (10, pig farm redevelopment); 26/01956/OUT Oak View, Oxhill (4); 26/00359/OUT Hornton Masonry, Edgehill (up to 15; no tier); 26/00800/FUL Lawyers Field, Upper Quinton (4); 25/02906/FUL Fosse Close, Tredington (4); 25/02798/FUL Rookery Lane, Ettington (4); 26/00416/FUL Kingston Holt Farm, Lighthorne (3); 26/01039/FUL Blundells Croft, Welford-on-Avon (3); 26/01674/PIP Elm Leys, Welford-on-Avon (2); 26/01529/PIP Little Compton (2).
+**Small schemes at lower-tier villages**, where the Ravenstone and Pillerton Priors reasoning (tier plus "not a significant amount of movement") is most likely: 26/01642/FUL Kineton Road, Pillerton Priors (9; same village as the refused 26/01894/PIP, so the report has to explain any different answer); 26/02137/PIP Alderminster (up to 9); 26/00446/PIP Goose Lane, Lower Quinton (up to 9); 26/00802/FUL former school, Butlers Marston (9; no tier); 26/00449/FUL Hogwood Farm, Oxhill (10, pig farm redevelopment); 26/01956/OUT Oak View, Oxhill (4); 26/00359/OUT Hornton Masonry, Edgehill (up to 15; no tier); 26/00800/FUL Lawyers Field, Upper Quinton (4); 25/02906/FUL Fosse Close, Tredington (4; **committee 21 Oct 2026**); 26/02390/FUL Edgehill View, Gaydon (9; new 23 Sep, target 18 Nov); 25/02798/FUL Rookery Lane, Ettington (4); 26/00416/FUL Kingston Holt Farm, Lighthorne (3); 26/01039/FUL Blundells Croft, Welford-on-Avon (3); 26/01674/PIP Elm Leys, Welford-on-Avon (2); 26/01529/PIP Little Compton (2).
 
 **Heritage conversions** where errors 2 and 3 (HE6 and CS.8) are the risk: 23/01948/FUL The Grange, Southam (grade II listed, 11 flats); 25/02540/FUL Our Lady's Convent, Southam (6); 26/01367/FUL Wellesbourne Hall coach house; 25/00320/FUL Leasowe Farm, Whichford (3); 26/02038/FUL Magpie House, Honington; 26/02155/FUL former school, Wormleighton; and Warings Green Farm above.
+
+## Priority order
+
+Ranked by how many of the six errors the case invites, whether a report already shows them, scale, and how soon a decision is due. Error numbers refer to the list at the top.
+
+| Rank | Application | Errors | Why here |
+| --- | --- | --- | --- |
+| 1 | 26/00410/FUL Ravenstone, Tanworth-in-Arden | 4, 5, 6 | Report in hand shows all three; granted 7 Oct, **notice issued 8 Oct**; judicial review period to 19 Nov 2026. |
+| 2 | 25/02712/OUT Mill Street, Harbury (38) | 5, 6 | Report in hand: tier as location test, no Connectivity Tool, template weight paragraph; resolved 7 Oct. |
+| 3 | 25/00346/OUT and 25/00347/FUL Home Farm, Southam (217) | 6, 5 | 2024-Framework report converted by a two-page note; the 23 Sep report repeats the template. |
+| 4 | 25/01649/FUL Alcester Road (65 affordable) | 6 | Paragraph 11(d) report, no 2026 note; awaiting s106. Same for 24/01820, 25/00831, 25/00787. |
+| 5 | 24/02382/FUL 141 Earlswood Common (11) | 4, 5, 6 | Largest washed-over village scheme; Earlswood already has contradictory reports. Full analysis: `stratford-earlswood-24-02382.md` (NDP allocation, s106 engrossed June 2026, policy advice of Sept 2025 in 2024 terms). |
+| 6 | 26/01831/FUL Greenfingers, Claverdon (10) | 4, 5, 6 | Target 23 Oct; correct route already published on the Kington Lane page for comparison. |
+| 7 | 26/01470/FUL Station Road, Claverdon (5) | 4, 5, 6 | Target 19 Oct; the route evidence is on the Station Road pages, so a tier-based finding is directly testable. |
+| 8 | 26/01097/PIP and 26/01748/PIP Bearley (9 each), 26/01120/FUL scrap yard (8) | 4, 5, 6 | Three schemes in one washed-over village; the sister refusal at Oaktree Close is at appeal. |
+| 9 | 26/00583/PIP Field Farm, Wootton Wawen (up to 9) | 4, 5, 6 | Open land off a lane outside the boundary. |
+| 10 | 26/02084/OUT South of Henley-in-Arden (265) | 5, 6, 1 | TR3(1)(a) unavoidable at this scale; well-connected station and golden rules questions; design conflicts likely at outline. |
+| 11 | 26/01623/FUL Node Hill, Studley (106) | 5, 6 | Green Belt edge of an inset town; same questions as Henley at smaller scale. |
+| 11a | 25/00823/OUT Sycamore Close, Stockton (75) | 5, 6, 1 | **Committee 21 Oct 2026**; the first large non-Green-Belt report after the 7 Oct meeting, so the first test of whether the template and the tier-as-location reasoning persist. |
+| 12 | 26/01372/OUT and 26/02046/OUT Hampton Lucy (32, 30) | 5, 6 | Category 4 village; "Category 4 … therefore a sustainable location" has already been written elsewhere. |
+| 13 | 26/01642/FUL Kineton Road, Pillerton Priors (9) | 5, 6 | Must be reconciled with the refusal of 26/01894/PIP in the same village. |
+| 14 | 26/01394/PIP Park Farm, 26/01717/FUL Poolhead Lane, 26/00404/FUL telephone exchange, all Tanworth-in-Arden | 4, 5, 6 | The Ravenstone reasoning applied again in the same village. |
+| 15 | 26/02031/FUL Bayberry Meadows, Earlswood | 4 | Inside the boundary: the Malthouse Lane L2(1)(d) and S4 pattern. |
+| 16 | 23/01948/FUL The Grange, Southam (listed, 11 flats); 26/01303/FUL Warings Green barns (listed) | 2, 3 (and 4 at Warings Green) | Heritage harm and CS.8 weight. |
 
 ## E. What is not on the list
 
@@ -106,13 +158,14 @@ Sites inside Stratford-upon-Avon's own boundary or on its edge outside the Green
 
 ## Timing
 
-- Planning Committee: 21 October, 4 November, 18 November 2026. The 21 October agenda was not published at 8 October; it appears about a week before, and the deadline to register to speak is 2 pm on the day before.
+- Planning Committee: 21 October, 4 November, 18 November 2026. The 21 October agenda was not published at 8 October, nor at 13 October, though the register already shows three housing items for it (Stockton 75, Tredington 4, Upper Tysoe 2: see the refresh); it appears about a week before, and the deadline to register to speak is 2 pm on the working day before (two working days before if submitting documents). Who may speak, for how long, and what a ward member may draw on: `stratford-committee-participation.md`.
 - The at-appeal cases excluded here: 26/01098/PIP Oaktree Close, Bearley; 26/01427/PIP Rushbrook Lane, Tanworth-in-Arden; 26/01252/PIP Barley Fields, Long Marston; 25/03113/FUL Seggs Lane, Alcester; 25/00799/FUL Fir Tree Farm, Bascote Heath. Their decisions will show how inspectors treat SDC's reasoning on the same questions.
 - Re-run: `tools/stratford_supply.py` refreshes the register pull; the classification columns in the TSV were added by hand from the Core Strategy lists and should be re-checked for any new parish.
 
 ## Sources
 
-- SDC planning register API, 8 October 2026 (status, decision, parish, dates, document folders).
+- SDC planning register API, 8 October 2026 and 13 October 2026 (status, decision, parish, dates, document folders).
+- 26/01776/OUT Gorcott Hill: delegated report (scanned, OCR with `tools/ocr_pdf.py`) and refusal notice of 12 October 2026: `sources:council/stratford-26-01776-OUT-report.pdf`, `-notice.pdf`; text in `sources:stratford-dc/public-note/`.
 - Committee reports, update sheets and results for 7 October, 23 September, 26 August and 29 July 2026, and the results sheets for 25 March 2026, 19 November 2025 and 5 February 2025: `sources:council/stratford-*.pdf`, OCR text in `sources:stratford-dc/public-note/`.
 - Core Strategy 2011–2031 ¶4.1.3 (Green Belt extent) and ¶5.1.10 (village categories): `sources:stratford-dc/public-note/cs.txt`.
 - South Warwickshire Local Plan, Regulation 19, July 2026, policy DS part D (washed-over villages with boundaries), and the Green Belt Exceptional Circumstances Topic Paper ¶170 and ¶176: `sources:stratford-dc/public-note/`.

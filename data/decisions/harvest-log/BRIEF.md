@@ -17,7 +17,9 @@ Tools/method notes:
   browser User-Agent. Planning Geek (planninggeek.co.uk), Urbanist Architecture, Planning Resource, law-firm blogs, and
   LinkedIn posts often link decision letters.
 - SDC API: see memory note — base https://apps.stratford.gov.uk/EplanningV2/API/ (v1/Search?parish=..., v1/PlanningApplication/{guid},
-  documents via POST v1/Document/{id}/Request with --data "" then GET .../Download).
+  documents via POST v1/Document/{id}/Request with --data "" then GET .../Download, which returns JSON
+  {filename, fileLocation, status}; fetch the PDF from fileLocation. List a file's documents with
+  v1/Categories?folderId= then v1/Documents/Folder/{folderId}/Category/{categoryId}; the id field is `documentId`).
 - Council committee reports: most councils use modern.gov (e.g. democracy.<council>.gov.uk/ieListMeetings.aspx) — agendas
   and report PDFs are fetchable even when the Idox planning portal blocks bots.
 - pdftotext -layout for PDFs. No OCR available (tesseract absent); if a PDF is scanned, note it and use the notice / other docs.
