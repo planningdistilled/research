@@ -57,11 +57,12 @@ const q = (text, pg) => { check(REPORT, text, pg); return `"${esc(text)}"`; };
 /** A block quotation from the report with its page. */
 const R = (text, pg) => quote(REPORT, text, `Officer report, p.${pg}`, pg);
 /** A block quotation from the Framework. */
-const N = (text, cite) => quote('nppf', text, `NPPF, ${cite}`);
+const N = (text, cite) => quote('nppf', text, `NPPF, ${cite}`).replace('<blockquote>', '<blockquote class="nppf">');
 
 const intro = `<section id="why"><div class="rule">
 <p>Castle Farm is a model farm of 1880 east of Studley: curtilage listed with the Grade II listed farmhouse, in the West Midlands Green Belt, in open countryside and in the Arden Special Landscape Area. The application was to convert the farm buildings to 13 homes. The delegated report, by case officer Chris Hill, recommended refusal on seven grounds and the notice was issued on 30 October 2026, the same day as the matching listed building consent was refused.</p>
 <p>It is on this site because of how it decides, not what it decides. The <a href="${NOTE}">Stratford note</a> scores every Council officer report since 17 August 2026 against four recurring departures from the August 2026 Framework: a village's tier in the settlement hierarchy used as the test of a sustainable location; TR3 not applied; S4 or S5 applied in a Green Belt village that the Framework's Annex B does not treat as a settlement; and a design conflict weighed away without asking whether it was clearly justified. Of the ${S.length} reports in <a href="${GITHUB}stratford-officer-reports-four-errors.tsv">the table</a>, this is the only one that engages all four tests and passes them, and that does so without the standard paragraph cutting the Core Strategy's location policies to very limited weight wholesale. It is also the first Stratford report to apply DP3(3) and the S5(2) trigger in terms.</p>
+<p class="key"><span class="key-report">Tinted quotations</span> are the report's words, with the page. <span class="key-nppf">Framework</span> boxes are the policy text the step turns on.</p>
 <p>What follows is the report's own order of tests, with the question each step asks, the Framework policy it turns on, and the report's answer in its words. Page numbers are to the <a href="https://apps.stratford.gov.uk/EplanningV2/API/v1/Document/a241bb9b-525d-ca40-c296-08df367f2a8c/Download">report PDF</a>. A reader who wants a template for a rural conversion in the Green Belt can read the steps as a checklist.</p>
 </div></section>`;
 
@@ -165,6 +166,13 @@ ol.steps>li>.step-head h3::before{content:counter(step) ". ";color:var(--accent)
 ol.steps .policy{font:500 12.5px/1.4 var(--mono);color:var(--accent);background:var(--accent-soft);border-radius:4px;padding:2px 8px}
 ol.steps p{font-size:15.5px}
 ol.steps blockquote{margin:8px 0 12px}
+blockquote.nppf{background:var(--surface);border:1px solid var(--line);border-left:3px solid var(--ink);border-radius:4px;padding:10px 14px 10px 14px}
+blockquote.nppf::before{content:"Framework";font:500 11px/1 var(--mono);letter-spacing:.08em;text-transform:uppercase;color:var(--muted)}
+blockquote.nppf p{font:400 14.5px/1.55 var(--sans);color:var(--ink)}
+blockquote.nppf cite{color:var(--accent)}
+p.key{font-size:14px;color:var(--muted)}
+.key-report{background:var(--quote);border-left:3px solid var(--accent);padding:1px 6px;font-family:var(--serif);color:var(--ink)}
+.key-nppf{border:1px solid var(--line);border-left:3px solid var(--ink);padding:1px 6px;font:500 11px/1 var(--mono);letter-spacing:.08em;text-transform:uppercase;color:var(--muted)}
 .table-wrap{overflow-x:auto;border:1px solid var(--line);border-radius:8px;background:var(--surface);margin:0 0 14px}
 table{border-collapse:collapse;width:100%;font-size:14.5px}th,td{text-align:left;vertical-align:top;padding:8px 10px;border-top:1px solid var(--line)}
 thead th{border-top:0;font-size:12px;letter-spacing:.06em;text-transform:uppercase;color:var(--muted);background:var(--surface-2)}tbody th{font-weight:600}
