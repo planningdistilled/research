@@ -103,6 +103,7 @@ node pages/england/very-special-circumstances/build.mjs   # the GB6(2) test; reg
 node pages/england/substantially-outweighed/build.mjs     # the S4/S5/S6 presumption; register generated from the S4, S5 and S6 findings in cases.json (needs ../sources)
 node pages/england/nppf-map/build.mjs               # the whole Framework as a map: route diagram, chapter and policy graphs, verbatim text column, quick-nav; every text checked against the .txt (read its README.md)
 node pages/authority/officer-reports-compared/build.mjs   # the four Stratford errors scored across 22 other councils; every count computed from the two analysis TSVs, every quotation page-checked (needs ../sources)
+node pages/authority/stratford-dc/castle-farm-report/build.mjs   # Castle Farm 25/00989/FUL read as an exemplar, test by test; every quotation page-checked, fails if it stops being the only clean row in the Stratford table (needs ../sources)
 # Stratford note: pages/authority/stratford-dc/nppf-decisions/build/README.md
 # Station Road on Foot: pages/settlement/claverdon/station-road-on-foot/README.md
 
