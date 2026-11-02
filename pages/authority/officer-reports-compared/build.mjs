@@ -129,6 +129,13 @@ function stats(rows) {
   return st;
 }
 const s = stats(S);
+// The Stratford table in two parts, kept apart so the effect of the second batch can be seen: the 44 reports
+// scored on 13 October 2026 and the eleven delegated reports on decisions of 20 to 30 October scored on 2 November.
+const S1 = S.filter((r) => r.scored_in === 'stratford-2026-10-13');
+const S2 = S.filter((r) => r.scored_in === 'stratford-2026-11-02');
+if (S1.length !== 44 || S2.length !== 11) throw new Error(`expected 44 + 11 Stratford rows by scored_in, found ${S1.length} + ${S2.length}`);
+const s1 = stats(S1);
+const s2 = stats(S2);
 const o = stats(O);
 const w = stats(W);
 const all = stats(OW);
@@ -258,6 +265,26 @@ const compareRows = [
   ['Template paragraph cutting the hierarchy policies to very limited weight', `${s.template} of ${s.n}<br>${pct(s.template, s.n)}%`, `${all.template} of ${all.n}<br>${pct(all.template, all.n)}%<br>${templateCouncils.join(', ')}`,
     `A Stratford peculiarity in form. The other ${templateCouncils.length} councils cut hierarchy policies on five-year-supply or age grounds, the 2024 logic that Annex A(2) also does not allow.`],
 ];
+// Stratford before and after the late-October batch.
+const splitCell = (x) => `error ${x.tier.error}, partial ${x.tier.partial}, ok ${x.tier.ok} of ${x.tier.n}`;
+const splitRows = [
+  ['Tier used as the location test', (x) => splitCell(x)],
+  ['TR3 applied where a location decision is made', (x) => `${x.loc.applied} of ${x.loc.n}; route-based ${x.loc.route}`],
+  ['TR3, raw count', (x) => `not mentioned ${x.tr3.nm}, cited only ${x.tr3.cited}, dodged ${x.tr3.dodged}, assessed ${x.tr3.assessed} of ${x.tr3.n}`],
+  ['Connectivity Tool used', (x) => `${x.tool.yes} of ${x.n}`],
+  ['Annex B and the Green Belt route', (x) => `error ${x.annexb.error} of ${x.annexb.n}`],
+  ['DP3(3) not asked after a design conflict', (x) => `error ${x.dp33.error} of ${x.dp33.n}; ${x.dp33.grant} recommend grant`],
+  ['2024 Framework applied without conversion', (x) => `${x.unconverted} of ${x.n}`],
+  ['Template paragraph', (x) => `${x.template} of ${x.n}`],
+];
+const stratfordSplitTable = `<div class="table-wrap"><table><thead><tr><th>Error</th><th>44 reports scored 13 October</th><th>11 decisions of 20 to 30 October</th><th>All ${s.n}</th></tr></thead><tbody>
+${splitRows.map(([a, f]) => `<tr><th scope="row">${a}</th><td>${f(s1)}</td><td>${f(s2)}</td><td>${f(s)}</td></tr>`).join('\n')}
+</tbody></table></div>`;
+expect(s1.n === 44 && s2.n === 11, 'the Stratford split is 44 + 11');
+expect(s2.tier.error === 0 && s2.annexb.error === 0, 'the late-October reports add no tier or Annex B error');
+expect(pct(s2.loc.route, s2.loc.n) > pct(s1.loc.route, s1.loc.n) && pct(s2.tr3.assessed, s2.tr3.n) > pct(s1.tr3.assessed, s1.tr3.n), 'the late-October reports decide the location on the route and apply TR3 more often than the first set');
+expect(pct(s2.template, s2.n) > pct(s1.template, s1.n), 'the template paragraph is commoner in the late-October batch');
+expect(s2.committee === 0, 'all eleven late-October reports are delegated');
 const compareTable = `<div class="table-wrap"><table><thead><tr><th>Error</th><th>Stratford (${s.n} reports)</th><th>${allCouncils.length} other councils (${all.n} reports)</th><th>Reading</th></tr></thead><tbody>
 ${compareRows.map(([a, b, c, d]) => `<tr><th scope="row">${a}</th><td>${b}</td><td>${c}</td><td>${d}</td></tr>`).join('\n')}
 </tbody></table></div>`;
@@ -342,6 +369,8 @@ const errors = `<section id="errors"><h2>The four errors</h2>
 const compare = `<section id="comparison"><h2>The comparison</h2>
 ${dumbbell}
 ${compareTable}
+<p>The Stratford column counts all ${s.n} reports. The table below keeps the ${s1.n} reports scored on 13 October 2026 apart from the ${s2.n} delegated reports on decisions issued 20 to 30 October, scored on 2 November, so that what the second batch changed can be seen. The eleven decide the location on the route more often (${s2.loc.route} of ${s2.loc.n} location cases against ${s1.loc.route} of ${s1.loc.n} before) and apply TR3 more often (${s2.tr3.assessed} of ${s2.tr3.n} TR3-scored reports against ${s1.tr3.assessed} of ${s1.tr3.n}); none of them adds a tier error or an Annex B error; the template paragraph is commoner among them (${s2.template} of ${s2.n} against ${s1.template} of ${s1.n}), and ${s2.dp33.error} of the eleven do not ask DP3(3) after a design conflict, ${s2.dp33.grant} of them before a recommendation to grant. All eleven are delegated; the first set had ${s1.committee} committee reports among its ${s1.n}, so the batch is not a like-for-like sample.</p>
+${stratfordSplitTable}
 <p>The three tables were scored with one written rubric; ${o.n} of the other councils' reports were read in full and ${w.n} through keyed passages, as <a href="#sweep">the sweep section</a> explains. The Stratford reports are mostly delegated reports on one to seven homes in villages; the other councils' reports are a mix of delegated reports and committee reports on larger schemes, which matters for TR3 and DP3(3) and is taken up below. Rates for the other councils are also pulled down by their urban reports, where the tier, Annex B and route questions do not arise and are coded <code>na</code> on both sides.</p>
 </section>`;
 

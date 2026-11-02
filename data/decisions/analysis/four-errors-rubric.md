@@ -8,7 +8,7 @@ Officer reports (delegated and committee) on housing proposals decided, or repor
 
 ## Columns
 
-`council`, `ref`, `place`, `type` (committee or delegated), `decided` (notice or meeting date), `outcome` (the decision, with the officer's recommendation in brackets where it differs), `homes` (the largest number the application proposes), `green_belt`, `washed_over`, `framework`, `template_weight`, then for each error a code and a note: `tier` and `tier_note`, `tr3`, `connectivity_tool` and `tr3_note`, `annexb`, `annexb_cited` and `annexb_note`, `dp33` and `dp33_note`, then `source_file` (a `sources:` path to the text extract) and `scored_in` (the set).
+`council`, `ref`, `place`, `type` (committee or delegated), `decided` (notice or meeting date), `outcome` (the decision, with the officer's recommendation in brackets where it differs), `homes` (the largest number the application proposes), `green_belt`, `washed_over`, `framework`, `template_weight`, then for each error a code and a note: `tier` and `tier_note`, `tr3`, `connectivity_tool` and `tr3_note`, `annexb`, `annexb_cited` and `annexb_note`, `dp33` and `dp33_note`, then `source_file` (a `sources:` path to the text extract) and `scored_in` (the set). The Stratford table has no `council` or `source_file` column; its `scored_in` is `stratford-2026-10-13` for the 44 reports scored on 13 October 2026 and `stratford-2026-11-02` for the eleven decisions of 20 to 30 October scored on 2 November, so the counts before and after that batch can be kept apart.
 
 ## The four errors and their codes
 
