@@ -53,3 +53,7 @@
 {"at": "2026-10-20T12:01:26+01:00", "cmd": "reclassify", "dropped": 64, "rekinded": 0}
 {"at": "2026-10-20T12:58:20+01:00", "cmd": "fetch", "fetched": 265}
 {"at": "2026-10-20T13:00:07+01:00", "cmd": "ocr", "done": 8}
+{"at": "2026-11-01T23:06:38+00:00", "cmd": "sweep", "new": {"stratford": 118, "stratford-committee": 2}}
+{"at": "2026-11-01T23:11:23+00:00", "cmd": "fetch", "fetched": 31}
+{"at": "2026-11-01T23:11:39+00:00", "cmd": "minutes", "got": 1}
+{"at": "2026-11-01T23:26:31+00:00", "cmd": "ocr", "done": 24}

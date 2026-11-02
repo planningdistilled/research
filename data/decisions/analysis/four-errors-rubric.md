@@ -1,6 +1,6 @@
 # The four-errors rubric
 
-The scoring rubric behind `stratford-officer-reports-four-errors.tsv` (44 Stratford-on-Avon reports, scored 13 October 2026), `other-councils-four-errors-2026-10.tsv` (99 reports from 22 other councils, scored 18 October 2026) and `other-councils-four-errors-sweep-2026-10.tsv` (144 reports from 17 councils fetched by the council sweep, scored 28 and 29 October 2026). The three tables share these columns and codes, and the published comparison at `/research/authority/officer-reports-compared/` computes every count from them. Not legal advice.
+The scoring rubric behind `stratford-officer-reports-four-errors.tsv` (55 Stratford-on-Avon reports: 44 scored 13 October 2026 and 11 decisions of 20 to 30 October scored 2 November 2026), `other-councils-four-errors-2026-10.tsv` (99 reports from 22 other councils, scored 18 October 2026) and `other-councils-four-errors-sweep-2026-10.tsv` (144 reports from 17 councils fetched by the council sweep, scored 28 and 29 October 2026). The three tables share these columns and codes, and the published comparison at `/research/authority/officer-reports-compared/` computes every count from them. Not legal advice.
 
 ## What is scored
 
