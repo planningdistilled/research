@@ -64,6 +64,20 @@ The register was swept on 1 November for decisions issued 20 to 30 October, and 
 
 **Committee dates.** The 4 November Planning Committee is cancelled. The next meetings are 18 November, 2 December and 16 December 2026; no agenda is published for any of them at 1 November. The 7, 21 and 28 October minutes are not yet published.
 
+## Refresh of 5 November 2026
+
+The register was swept on 5 November for decisions issued 30 October to 5 November (31 new register items, eight fetched). The four housing reports of the period are scored in `stratford-officer-reports-four-errors.md` (rows 56 to 59).
+
+**Decided since 1 November.**
+
+- **25/03083/PIP Land off Forshaw Heath Lane, Earlswood (up to 6 homes, Green Belt): refused 3 November 2026** under delegated powers (Kacey Dickinson, signed off 2 November). Section B's near-certain errors did not appear: the report takes S5(5) to GB6 and GB7, finds grey belt, and fails GB7(1)(g)(iii) on the route (the 50A timetable, no footway on a 50 mph lane, the pub unreachable across the A435), "having regard to NDMP Policy TR3". The landscape conflict is weighed without DP3(3), a formal slip on a refusal. The "For the sole purposes of clarity" Annex B paragraph appears again. The target date was 9 March 2026; the officer's signature is dated 25 September.
+- **26/01803/FUL Oaks Holt, Banbury Road, Kineton (replacement plus 2, net 2): refused 4 November 2026** (Issy Howell), on flood risk, biodiversity and L2(1)(d). The first Stratford report to give a Connectivity Tool score (40, "within the 10-20% percentile nationally") and to apply S3(2) to a site straddling the settlement boundary; TR3 found met. The forward-garage design conflict with DP3 is weighed without the clear-justification question.
+- **26/01570/FUL Land south of New Street, Napton-on-the-Hill (1 self-build home): granted 5 November 2026** (Sarah Flaherty, signed off 4 November). Section D's error in full: the location rests on "adjacent to the Built Up Area Boundary" of a Category 2 village, with no route fact and no mention of TR3. DP3(3) is quoted in full and no design conflict found.
+- **26/01303/FUL Warings Green Farm, Hockley Heath (barns to 3 homes, Green Belt, listed): the delegated report was published on 3 November**, four days after the 30 October refusal. Heritage harm under HE5 and HE6 and living conditions are the reasons; the Green Belt route is S5(5) to GB7(1)(b). The companion 26/01305/FUL (8 new homes) is undecided.
+- **26/02356/PIP Arden Hill Farm, Birmingham Road, Pathlow (5 homes, Green Belt): refused 5 November 2026** under delegated powers (Sarah Leach). Three reasons on the notice: CS.15, AS.10 and the Wilmcote and Pathlow NDP with "a highly unsustainable location for new market housing ... contrary to the requirements of National Decision Making Policy TR3"; inappropriate development under CS.10 and GB7 with no very special circumstances; and landscape harm. **No report is on the register yet**; the reasons name TR3 and GB7 on the face of the notice.
+
+**Still no report** at 5 November for 25/00737/FUL Tysoe (31 homes, granted 28 October), 26/01997/FUL Wood End Farm, 26/01704/FUL, 26/02038/FUL and 26/02325/PIP. The 21 and 28 October committee minutes are not yet published. The 4 November Planning Committee was cancelled; the next is 18 November.
+
 ## A. Reports already written, decision not yet issued
 
 These eight are the certain cases. The report exists, so the reasoning can be read now; at 8 October no decision notice had been issued, so the clock for any challenge had not started (Ravenstone's was issued on 8 October: see the refresh). Every report-stage document here was downloaded from the register on 8 October 2026 and is filed in the private sources repo (`sources:council/…`, text in `sources:stratford-dc/public-note/…`).

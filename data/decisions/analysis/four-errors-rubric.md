@@ -1,6 +1,6 @@
 # The four-errors rubric
 
-The scoring rubric behind `stratford-officer-reports-four-errors.tsv` (55 Stratford-on-Avon reports: 44 scored 13 October 2026 and 11 decisions of 20 to 30 October scored 2 November 2026), `other-councils-four-errors-2026-10.tsv` (99 reports from 22 other councils, scored 18 October 2026) and `other-councils-four-errors-sweep-2026-10.tsv` (144 reports from 17 councils fetched by the council sweep, scored 28 and 29 October 2026). The three tables share these columns and codes, and the published comparison at `/research/authority/officer-reports-compared/` computes every count from them. Not legal advice.
+The scoring rubric behind `stratford-officer-reports-four-errors.tsv` (59 Stratford-on-Avon reports: 44 scored 13 October 2026, 11 decisions of 20 to 30 October scored 2 November 2026 and 4 decisions of 30 October to 5 November scored 5 November 2026), `other-councils-four-errors-2026-10.tsv` (99 reports from 22 other councils, scored 18 October 2026) and `other-councils-four-errors-sweep-2026-10.tsv` (144 reports from 17 councils fetched by the council sweep, scored 28 and 29 October 2026). The three tables share these columns and codes, and the published comparison at `/research/authority/officer-reports-compared/` computes every count from them. Not legal advice.
 
 ## What is scored
 
@@ -8,7 +8,7 @@ Officer reports (delegated and committee) on housing proposals decided, or repor
 
 ## Columns
 
-`council`, `ref`, `place`, `type` (committee or delegated), `decided` (notice or meeting date), `outcome` (the decision, with the officer's recommendation in brackets where it differs), `homes` (the largest number the application proposes), `green_belt`, `washed_over`, `framework`, `template_weight`, then for each error a code and a note: `tier` and `tier_note`, `tr3`, `connectivity_tool` and `tr3_note`, `annexb`, `annexb_cited` and `annexb_note`, `dp33` and `dp33_note`, then `source_file` (a `sources:` path to the text extract) and `scored_in` (the set). The Stratford table has no `council` or `source_file` column; its `scored_in` is `stratford-2026-10-13` for the 44 reports scored on 13 October 2026 and `stratford-2026-11-02` for the eleven decisions of 20 to 30 October scored on 2 November, so the counts before and after that batch can be kept apart.
+`council`, `ref`, `place`, `type` (committee or delegated), `decided` (notice or meeting date), `outcome` (the decision, with the officer's recommendation in brackets where it differs), `homes` (the largest number the application proposes), `green_belt`, `washed_over`, `framework`, `template_weight`, then for each error a code and a note: `tier` and `tier_note`, `tr3`, `connectivity_tool` and `tr3_note`, `annexb`, `annexb_cited` and `annexb_note`, `dp33` and `dp33_note`, then `source_file` (a `sources:` path to the text extract) and `scored_in` (the set). The Stratford table has no `council` or `source_file` column; its `scored_in` is `stratford-2026-10-13` for the 44 reports scored on 13 October 2026, `stratford-2026-11-02` for the eleven decisions of 20 to 30 October scored on 2 November and `stratford-2026-11-05` for the four decisions of 30 October to 5 November scored on 5 November, so the counts before and after each batch can be kept apart.
 
 ## The four errors and their codes
 
