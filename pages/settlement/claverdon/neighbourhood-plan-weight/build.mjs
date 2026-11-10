@@ -100,7 +100,7 @@ ${q('np', 'Proposals for new housing will not be supported outside the Village B
 <p>The Framework allows some housing outside settlements and, in the Green Belt, on grey belt land (S5(1)(j), GB7(1)(g)), so a blanket boundary restriction is likely to be held materially inconsistent. H1 also refers to the 2012 Framework. The Council has given village housing-boundary policies very limited weight in every report that rates them:</p>
 ${q('case:stratford-26-00617-PIP', 'Accordingly, I afford NDP Policy H1 very limited weight in the determination of this application.', SDCq('stratford-26-00617-PIP', 9), 9)}
 ${q('case:stratford-26-00918-PIP', 'Accordingly, I afford NDP Policy H3 very limited weight in the determination of this application.', SDCq('stratford-26-00918-PIP', 8), 8)}
-<p>This matters less than it seems. In the Green Belt the test is GB6 and GB7, which apply directly. See the <a href="/research/settlement/claverdon/station-road-decision-route/">Station Road Decision Route</a>.</p>` })}
+<p>Those two sentences do not follow from each other: S6 not being engaged removes the tilt and says nothing about weight, which is Annex A(2)'s question. How often Stratford reports make that step, and what a plan keeps when S6 does not apply, is on <a href="/research/england/neighbourhood-plans-s6/">the S6 page</a>. In the Green Belt the test is GB6 and GB7, which apply directly. See the <a href="/research/settlement/claverdon/station-road-decision-route/">Station Road Decision Route</a>.</p>` })}
 </div></section>`;
 
 // Quotations in running text.

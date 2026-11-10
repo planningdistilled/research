@@ -52,6 +52,14 @@ planningdistilled/
 ## Writing conventions
 
 - Plain English, neutral register, like an inspector's. Not legal advice; pages say so.
+- **Be direct. No purple prose.** This applies to pages, notes, emails and replies to the user alike.
+  - Say who does what to whom, and when. Lead with the answer; give the reason after it.
+  - Short sentences, one idea each. Plain verbs: "found", "weighed", "refused", not "underscored", "navigated", "grappled with".
+  - No metaphor, no flourish, no aphorism, no rhetorical build-up. Cut "it is worth noting", "crucially", "in essence", "a stark reminder", "on steroids" and anything like them.
+  - No hedging padding ("arguably", "to some extent") where the facts allow a plain statement; where the point is contested, say so once and say why.
+  - Say right or wrong before explaining. State an accepted point as fact; do not add "and I do not dispute it".
+  - Numbers and quotations do the work; adjectives do not. Prefer "3 of 59" to "a small minority".
+  - When correcting an earlier statement, say what was wrong in one sentence and give the right version. No apology paragraph.
 - Spell out every acronym on first use, as `ACRONYM (Expansion)`. Do this in replies to the user too.
 - Cite decisions as place + ref + paragraph: "Hatton Station 6006637 ¶24".
 - Use policy codes from `data/decisions/nppf-2026-policy-codes.md`, e.g. `GB7(1)(g)(iii)`, `TR3(1)(a)`, `S5(2)`. The 2024 → 2026 mapping is at the end of that file.
@@ -101,6 +109,7 @@ node pages/england/what-is-a-settlement/build.mjs   # the Annex B "settlement" p
 node pages/england/what-is-a-village/build.mjs      # companion page on village, town, city, hamlet, parish and built-up area (needs ../sources)
 node pages/england/very-special-circumstances/build.mjs   # the GB6(2) test; register of every letter using the phrase and every GB6 finding; proves each quotation's paragraph (needs ../sources)
 node pages/england/substantially-outweighed/build.mjs     # the S4/S5/S6 presumption; register generated from the S4, S5 and S6 findings in cases.json (needs ../sources)
+node pages/england/neighbourhood-plans-s6/build.mjs       # S6 and neighbourhood plan weight; counts from stratford-officer-reports-ndp-s6.tsv, every report and letter quotation page- or paragraph-checked (needs ../sources)
 node pages/england/nppf-map/build.mjs               # the whole Framework as a map: route diagram, chapter and policy graphs, verbatim text column, quick-nav; every text checked against the .txt (read its README.md)
 node pages/authority/officer-reports-compared/build.mjs   # the four Stratford errors scored across 22 other councils; every count computed from the two analysis TSVs, every quotation page-checked (needs ../sources)
 node pages/authority/stratford-dc/castle-farm-report/build.mjs   # Castle Farm 25/00989/FUL read as an exemplar, test by test; every quotation page-checked, fails if it stops being the only clean row in the Stratford table (needs ../sources)

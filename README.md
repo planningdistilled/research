@@ -30,6 +30,7 @@ pages/              one folder per published page, mirroring the site's paths
   england/what-is-a-village/
   england/very-special-circumstances/
   england/substantially-outweighed/
+  england/neighbourhood-plans-s6/
   authority/stratford-dc/nppf-decisions/
   authority/officer-reports-compared/              (the four Stratford errors scored across 22 other councils)
   settlement/claverdon/station-road-on-foot/
